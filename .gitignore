@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Data & Heavy Folders (K-League)
+data/
+Skill_Seekers/
+cache/
+logs/
+exports/
+reports/
+
+# OS
+.DS_Store
+
+# EPL Project Data (Keep the folder, but maybe ignore large backups if any)
+# epl_project/data/*.json (We usually want to keep these for the pipeline)

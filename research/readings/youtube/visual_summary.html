@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PyTorch 7시간 정주행 - 시각적 요약</title>
+    <style>
+        :root {
+            --primary: #ee4c2c;
+            /* PyTorch Orange */
+            --secondary: #323330;
+            --accent: #00d2ff;
+            --bg: #0f172a;
+            --text: #f8fafc;
+        }
+
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #video-container {
+            position: relative;
+            width: 80%;
+            aspect-ratio: 16 / 9;
+            background: #000;
+            border-radius: 12px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .slide {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .slide.active {
+            opacity: 1;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(transparent 60%, rgba(0, 0, 0, 0.8));
+        }
+
+        .subtitle-box {
+            position: relative;
+            padding: 40px;
+            text-align: center;
+            z-index: 10;
+        }
+
+        .speaker-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 8px;
+            color: var(--primary);
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .subtitle-text {
+            font-size: 1.8rem;
+            line-height: 1.4;
+            max-width: 800px;
+            margin: 0 auto;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+        }
+
+        #start-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(15, 23, 42, 0.9);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+            cursor: pointer;
+            transition: opacity 0.5s;
+        }
+
+        #start-overlay h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            background: linear-gradient(to right, #ee4c2c, #f97316);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .play-btn {
+            width: 80px;
+            height: 80px;
+            background: var(--primary);
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2rem;
+            transition: transform 0.3s;
+        }
+
+        .play-btn:hover {
+            transform: scale(1.1);
+        }
+
+        #progress-bar {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            height: 4px;
+            background: var(--primary);
+            width: 0%;
+            transition: width 0.1s linear;
+            z-index: 20;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="video-container">
+        <div id="start-overlay" onclick="startSummary()">
+            <h1>PyTorch 7시간 정주행 요약</h1>
+            <p>현우 & 지수의 대화로 보는 핵심 포인트</p>
+            <div class="play-btn">▶</div>
+        </div>
+
+        <div id="progress-bar"></div>
+
+        <!-- Slides will be injected here -->
+    </div>
+
+    <script>
+        const transcript = [
+            { speaker: "지수", text: "와, 7시간짜리 파이토치 강의라니... 제목부터 '이 영상 하나로 끝'이라는데, 진짜 이걸로 딥러닝 개발이 가능해질까?", img: "assets/characters.png" },
+            { speaker: "현우", text: "혁펜하임님 강의라면 믿고 볼 만하지! 이 영상은 파이토치의 기초부터 심화까지 아주 탄탄하게 다루고 있어.", img: "assets/characters.png" },
+            { speaker: "현우", text: "단순히 코드만 따라 치는 게 아니라, 딥러닝의 원리랑 파이토치가 작동하는 'Why'를 설명해주는 게 핵심이야.", img: "assets/characters.png" },
+            { speaker: "지수", text: "오, 원리까지 설명해 준다니 좋네. 그럼 뭐부터 시작해? 텐서(Tensor)가 뭔지부터 알려주나?", img: "assets/background.png" },
+            { speaker: "현우", text: "맞아. 파이토치의 기본 단위인 텐서부터 시작해. 그리고 가장 중요한 Autograd(자동 미분)!", img: "assets/background.png" },
+            { speaker: "현우", text: "딥러닝은 결국 손실 함수를 미분해서 가중치를 업데이트하는 건데, 이걸 파이토치가 알아서 해준다는 원리를 설명해주지.", img: "assets/background.png" },
+            { speaker: "지수", text: "자동 미분! 그거 진짜 편하겠다. 그럼 모델은 어떻게 만들어?", img: "assets/characters.png" },
+            { speaker: "현우", text: "'nn.Module'을 상속받아서 클래스로 모델을 정의하는 방법, 그리고 'forward' 함수 정의를 배우게 돼.", img: "assets/characters.png" },
+            { speaker: "현우", text: "'레고 블록 조립하듯이' 층(Layer)을 쌓는다고 생각하면 쉬워. 그리고 Dataset과 DataLoader도 상세히 다뤄.", img: "assets/characters.png" },
+            { speaker: "지수", text: "그렇구나. 데이터 로딩부터 모델 설계, 학습까지 전 과정을 다 훑어주는구나.", img: "assets/background.png" },
+            { speaker: "현우", text: "이론 설명 후에 바로 코드로 구현하는 구조야. 특히 Training Loop의 3단계는 무조건 외워야 해.", img: "assets/background.png" },
+            { speaker: "현우", text: "zero_grad(), backward(), step()! 이 순서가 왜 필요한지도 명확히 알려줘.", img: "assets/background.png" },
+            { speaker: "지수", text: "와, 7시간이 아깝지 않겠다. 주말에 각 잡고 정주행 해야겠어!", img: "assets/characters.png" }
+        ];
+
+        const container = document.getElementById('video-container');
+        const progressBar = document.getElementById('progress-bar');
+        let currentSlide = 0;
+
+        function createSlides() {
+            transcript.forEach((item, index) => {
+                const slide = document.createElement('div');
+                slide.className = 'slide' + (index === 0 ? '' : '');
+                slide.style.backgroundImage = `url('${item.img}')`;
+                slide.innerHTML = `
+                <div class="overlay"></div>
+                <div class="subtitle-box">
+                    <div class="speaker-name">${item.speaker}</div>
+                    <div class="subtitle-text">${item.text}</div>
+                </div>
+            `;
+                container.appendChild(slide);
+            });
+        }
+
+        function startSummary() {
+            // Unlock speech synthesis immediately on user gesture
+            const unlock = new SpeechSynthesisUtterance("");
+            window.speechSynthesis.speak(unlock);
+
+            document.getElementById('start-overlay').style.opacity = '0';
+            setTimeout(() => {
+                document.getElementById('start-overlay').style.display = 'none';
+            }, 500);
+
+            // Start the sequence immediately
+            playNextSlide();
+        }
+
+        function speak(text, isExpert) {
+            // Cancel all previous speaking
+            window.speechSynthesis.cancel();
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'ko-KR';
+
+            // Voice selection logic
+            const voices = window.speechSynthesis.getVoices();
+            // Expert (현우) gets a slightly deeper/standard voice, Student (지수) gets a slightly higher pitch
+            if (isExpert) {
+                utterance.pitch = 0.9;
+                utterance.rate = 1.0;
+            } else {
+                utterance.pitch = 1.2;
+                utterance.rate = 1.1;
+            }
+
+            window.speechSynthesis.speak(utterance);
+        }
+
+        function playNextSlide() {
+            if (currentSlide >= transcript.length) {
+                window.speechSynthesis.cancel();
+                const endScreen = document.createElement('div');
+                endScreen.id = 'start-overlay';
+                endScreen.innerHTML = '<h1>시청해주셔서 감사합니다!</h1><p>이제 코드로 실습해볼 시간입니다.</p><button onclick="location.reload()" style="padding:10px 20px; cursor:pointer;">다시보기</button>';
+                container.appendChild(endScreen);
+                return;
+            }
+
+            const item = transcript[currentSlide];
+            const slides = document.querySelectorAll('.slide');
+            if (currentSlide > 0) slides[currentSlide - 1].classList.remove('active');
+            slides[currentSlide].classList.add('active');
+
+            // Speak the text
+            speak(item.text, item.speaker === "현우");
+
+            // Progress bar animation
+            progressBar.style.width = '0%';
+            setTimeout(() => {
+                progressBar.style.transition = 'width 6s linear'; // Increased time for audio
+                progressBar.style.width = '100%';
+            }, 50);
+
+            currentSlide++;
+            setTimeout(() => {
+                progressBar.style.transition = 'none';
+                playNextSlide();
+            }, 6000); // Increased duration to accommodate speech
+        }
+
+        createSlides();
+    </script>
+
+</body>
+
+</html>

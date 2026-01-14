@@ -1,0 +1,36 @@
+name: EPL Daily Data Update
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 9시 (UTC 00:00) 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 리포지토리에 파일 쓰기 권한 필요
+      
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Collect EPL Data
+      env:
+        RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+      run: |
+        python epl_project/collect_data.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'EPL-Bot'
+        git config --global user.email 'bot@noreply.github.com'
+        git add epl_project/data/latest_epl_data.json
+        git commit -m "⚽ Update EPL Data: $(date +'%Y-%m-%d')" || exit 0
+        git push
