@@ -1,22 +1,25 @@
 #!/bin/bash
-# 0-Cost Serverless EPL Manager 실행 스크립트 (경로 문제 수정 버전)
+# 0-Cost Serverless EPL Manager 실행 스크립트 (가상환경 자동 설치 버전)
 
 # 현 스크립트 파일의 위치로 이동
 cd "$(dirname "$0")"
 
-# Python Path (User's environment)
-UV_PATH="/Users/sebokoh/Library/Python/3.9/bin/uv"
+# UV path
+UV_BIN="/Users/sebokoh/.local/bin/uv"
 
 echo "🚀 [EPL-X Lite] 서버리스 모드로 시작합니다..."
-echo "📂 Project Root: $(pwd)/epl_project"
 
-# 직접 app.py 존재 여부 확인
-if [ ! -f "epl_project/app.py" ]; then
-    echo "❌ 에러: epl_project/app.py 파일을 찾을 수 없습니다."
-    echo "현재 위치: $(pwd)"
-    ls -R epl_project
-    exit 1
+# 가상환경 생성 (없을 경우)
+if [ ! -d ".venv_epl" ]; then
+    echo "📦 가상환경 생성 중..."
+    $UV_BIN venv .venv_epl --python 3.12
 fi
 
-# 실행 (Port 8503 사용)
-$UV_PATH run --python 3.12 streamlit run epl_project/app.py --server.port 8503
+# 필수 부품 체크 및 설치 (이미 있으면 빠르게 스킵됨)
+echo "🛠️ 필수 부품 체크 및 업데이트 중..."
+$UV_BIN pip install --python .venv_epl/bin/python beautifulsoup4 requests lxml streamlit pandas torch scikit-learn joblib xgboost lightgbm statsmodels
+
+echo "📂 Project Root: $(pwd)/epl_project"
+
+# 실행
+.venv_epl/bin/streamlit run epl_project/app.py --server.port 8503
