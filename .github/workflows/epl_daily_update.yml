@@ -2,8 +2,8 @@ name: EPL Daily Data Update
 
 on:
   schedule:
-    # 매일 한국 시간 오전 9시 (UTC 00:00) 실행
-    - cron: '0 0 * * *'
+    # [HOURLY UPDATE] 매시간 정각(0분)에 실행하여 최신 뉴스/결과 반영
+    - cron: '0 * * * *'
   workflow_dispatch: # 수동 실행 가능
 
 jobs:
