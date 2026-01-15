@@ -84,15 +84,26 @@ st.markdown("""
     }
     
     /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
-    #MainMenu {visibility: hidden;} /* 우측 상단 점 3개 메뉴 숨김 */
-    footer {visibility: hidden;}    /* 하단 Made with Streamlit 숨김 */
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
     
-    /* [TARGETED] 우측 툴바(GitHub, 점3개)만 숨기고 좌측 사이드바 버튼은 살리기 */
-    [data-testid="stToolbar"] {right: 2rem; display: none !important;} 
-    [data-testid="stHeader"] {background-color: rgba(0,0,0,0);} /* 투명 처리 */
+    /* [TARGETED] 우측 툴바(GitHub 등) 숨기기 - 공간은 유지하되 안보이게 */
+    [data-testid="stToolbar"] {
+        visibility: hidden !important;
+        height: 0px !important;
+    }
     
-    /* 모바일 햄버거 버튼(사이드바) 강제 노출 */
-    [data-testid="collapsedControl"] {display: block !important; visibility: visible !important;}
+    /* [CRITICAL] 헤더 전체는 보이게 해야 사이드바 버튼이 살아남음 */
+    [data-testid="stHeader"] {
+        background-color: rgba(0,0,0,0) !important;
+        visibility: visible !important;
+    }
+    
+    /* [MOBILE] 사이드바 여닫기 버튼 강제 색상 지정 (배경이 어더워서 안보일 수 있음) */
+    [data-testid="collapsedControl"] {
+        color: #FFFFFF !important;
+        display: block !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
