@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 System Ready (v9.2)", icon="✅")
+st.toast("🚀 System Ready v9.3 (Hidden Profile)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -93,6 +93,22 @@ st.markdown("""
     /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+    
+    /* [HIDE CLOUD PROFILE] Streamlit Cloud 하단 프로필/배지 숨기기 (User Request) */
+    /* 여러 클래스 패턴을 동시에 타겟팅하여 확실하게 숨김 */
+    .st-emotion-cache-166ssn5, /* Common generated class */
+    .viewer-badge-font,        /* Badge font class */
+    [data-testid="stSidebarUserContent"], 
+    .stDeployButton {          /* Deploy button if visible */
+        display: none !important;
+        visibility: hidden !important;
+        height: 0 !important;
+    }
+    
+    /* 사이드바 최하단 요소 숨기기 (Fallback) */
+    section[data-testid="stSidebar"] > div:last-child {
+        padding-bottom: 0px !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
