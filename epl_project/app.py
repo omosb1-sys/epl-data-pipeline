@@ -84,9 +84,9 @@ st.markdown("""
     }
     
     /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    header {visibility: hidden;}
+    #MainMenu {visibility: hidden;} /* 우측 상단 점 3개 메뉴 숨김 */
+    footer {visibility: hidden;}    /* 하단 Made with Streamlit 숨김 */
+    /* header {visibility: hidden;} -> 삭제: 이걸 숨기면 모바일 사이드바 버튼도 사라짐 */
 </style>
 """, unsafe_allow_html=True)
 
