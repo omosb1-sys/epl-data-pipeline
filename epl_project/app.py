@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 System Restored to Default (Safe Mode)", icon="✅")
+st.toast("🚀 System Ready (v9.2)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -329,19 +329,6 @@ with st.sidebar:
         
         
     # menu = st.radio(...) -> Moved to Top
-    
-    # [FOOTER] 제작자 정보 (Custom GitHub Link)
-    st.markdown("---")
-    st.markdown("""
-        <div style='text-align: center; margin-top: 20px;'>
-            <a href='https://github.com/omosb1-sys' target='_blank' style='text-decoration: none;'>
-                <img src='https://img.shields.io/badge/Developer-omosb1--sys-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'>
-            </a>
-            <p style='font-size: 11px; color: #666; margin-top: 10px;'>
-                © 2026 EPL-X Manager v9.0
-            </p>
-        </div>
-    """, unsafe_allow_html=True)
 
 # --- 4. 메인 대시보드 로직 ---
 if menu == "📊 실시간 대시보드":
