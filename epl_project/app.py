@@ -29,6 +29,9 @@ st.set_page_config(
     layout="wide"
 )
 
+# [SYSTEM CHECK] 버전 확인용 토스트 메시지
+st.toast("🚀 시스템 업데이트 완료: Red Menu Patch v2.0", icon="✅")
+
 # 다크 모드 스타일적용
 st.markdown("""
 <style>
