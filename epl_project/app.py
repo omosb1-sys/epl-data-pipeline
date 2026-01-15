@@ -11,39 +11,48 @@ except ImportError:
     sys.path.append(os.path.dirname(__file__))
     from collect_data import main as run_sync
 
-# [AI Engine] Import Deep Learning Tools
+# [AI Engine] Next-Level Ensemble Tools
 import torch
 import torch.nn as nn
 import joblib
+import xgboost as xgb
 
-class EPLPredictorNet(nn.Module):
+class EPLDeepNet(nn.Module):
     def __init__(self, input_size):
-        super(EPLPredictorNet, self).__init__()
+        super(EPLDeepNet, self).__init__()
         self.net = nn.Sequential(
-            nn.Linear(input_size, 64),
+            nn.Linear(input_size, 128),
+            nn.BatchNorm1d(128),
             nn.ReLU(),
-            nn.Dropout(0.2),
+            nn.Dropout(0.3),
+            nn.Linear(128, 64),
+            nn.ReLU(),
             nn.Linear(64, 32),
-            nn.ReLU(),
             nn.Linear(32, 1),
             nn.Sigmoid()
         )
     def forward(self, x): return self.net(x)
 
-def load_ai_model():
+def load_ensemble_engine():
     BASE_DIR = os.path.dirname(__file__)
-    model_path = os.path.join(BASE_DIR, "models/epl_model.pth")
+    torch_path = os.path.join(BASE_DIR, "models/epl_pytorch.pth")
+    xgb_path = os.path.join(BASE_DIR, "models/epl_xgb.pkl")
     scaler_path = os.path.join(BASE_DIR, "models/scaler.pkl")
     
-    if os.path.exists(model_path) and os.path.exists(scaler_path):
-        model = EPLPredictorNet(input_size=4)
-        model.load_state_dict(torch.load(model_path))
-        model.eval()
-        scaler = joblib.load(scaler_path)
-        return model, scaler
-    return None, None
+    try:
+        if all(os.path.exists(p) for p in [torch_path, xgb_path, scaler_path]):
+            model_torch = EPLDeepNet(input_size=4)
+            model_torch.load_state_dict(torch.load(torch_path))
+            model_torch.eval()
+            
+            model_xgb = joblib.load(xgb_path)
+            scaler = joblib.load(scaler_path)
+            return model_torch, model_xgb, scaler
+    except: pass
+    return None, None, None
 
-AI_MODEL, AI_SCALER = load_ai_model()
+AI_TORCH, AI_XGB, AI_SCALER = load_ensemble_engine()
+
 
 # --- 0. 기본 설정 ---
 st.set_page_config(
@@ -522,18 +531,27 @@ elif menu == "승부 예측":
                     h_form_str = h_data.get('form', 'DDDDD') if h_data else "DDDDD"
                     h_form_val = sum([3 if c=='W' else 1 if c=='D' else 0 for c in h_form_str[-5:]]) / 15.0
                     
-                    # 3. Deep Learning Prediction
-                    st.write("🤖 [Deep Learning] 승리 확률 계산 중...")
-                    if AI_MODEL and AI_SCALER:
+                    # 3. Ensemble Prediction (Deep Learning + XGBoost)
+                    st.write("🤖 [Ensemble Engine] 다중 모델 통합 분석 중...")
+                    h_elo = h_data.get('elo', 1500) if h_data else 1500
+                    
+                    if AI_TORCH and AI_XGB and AI_SCALER:
                         try:
-                            # Feature: [goals, conceded, power, form]
-                            input_data = np.array([[h_data.get('goals_scored', 30), h_data.get('goals_conceded', 20), h_power, h_form_val]], dtype=np.float32)
-                            input_scaled = AI_SCALER.transform(input_data)
-                            prob_tensor = AI_MODEL(torch.from_numpy(input_scaled))
-                            prob = prob_tensor.item() * 100
+                            # Feature: [goals, conceded, elo, form]
+                            input_raw = np.array([[h_data.get('goals_scored', 30), h_data.get('goals_conceded', 20), h_elo, h_form_val]], dtype=np.float32)
+                            input_scaled = AI_SCALER.transform(input_raw)
+                            
+                            # (1) PyTorch Prob
+                            prob_torch = AI_TORCH(torch.from_numpy(input_scaled)).item()
+                            # (2) XGBoost Prob
+                            prob_xgb = AI_XGB.predict_proba(input_scaled)[0][1]
+                            
+                            # Weighted Average (Ensemble)
+                            prob = (prob_torch * 0.4 + prob_xgb * 0.6) * 100
                         except: prob = 50.0
                     else:
                         prob = 50.0 + (h_power - a_power) # Fallback
+
                     
                     status.update(label="분석 완료!", state="complete", expanded=False)
 
