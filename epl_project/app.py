@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 시스템 업데이트 완료: Red Menu Patch v2.0", icon="✅")
+st.toast("🚀 시스템 업데이트 완료: Red Menu Patch v3.0 (Nuclear Fix)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -100,49 +100,51 @@ st.markdown("""
     }
 
     /* [UX UPGRADE] 모바일 사이드바 버튼(햄버거) 대폭 확대 및 텍스트 추가 */
-    /* [UX UPGRADE] 모바일 사이드바 버튼(햄버거) 초강력 스타일링 */
-    [data-testid="collapsedControl"], [data-testid="stSidebarCollapsedControl"] {
+    /* [NUCLEAR FIX] 특정 선택자가 안 먹히므로, 헤더 영역의 '모든 버튼'을 타겟팅 */
+    /* 현재 툴바를 숨겼기 때문에 헤더에 남은 유일한 버튼은 '사이드바 토글'뿐임 */
+    header button {
         display: block !important;
         visibility: visible !important;
-        position: fixed !important; /* 헤더 레이아웃 무시하고 고정 */
-        top: 10px !important;
-        left: 10px !important;
         
-        transform: scale(1.8) !important; 
-        transform-origin: top left !important;
+        /* 강제 위치 고정 */
+        position: fixed !important;
+        left: 5px !important;
+        top: 5px !important;
         
-        background-color: rgba(255, 75, 75, 0.9) !important; /* 붉은 배경으로 확실하게 */
+        /* 터치하기 편한 압도적인 크기 */
+        width: 60px !important;
+        height: 60px !important;
+        
+        /* 스타일 */
+        background-color: #FF4B4B !important; /* Streamlit Red */
         border: 2px solid white !important;
-        border-radius: 8px !important;
-        
-        z-index: 9999999 !important; /* 무조건 맨 위 */
-        
-        /* 터치 영역 확보 */
-        width: 40px !important;
-        height: 40px !important;
-        padding: 5px !important;
+        border-radius: 12px !important;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.5) !important;
+        z-index: 99999999 !important;
     }
     
-    /* 아이콘 색상 강제 */
-    [data-testid="collapsedControl"] svg, [data-testid="stSidebarCollapsedControl"] svg {
+    /* 버튼 내부 아이콘(SVG) 크기 강제 확대 */
+    header button svg {
+        width: 35px !important;
+        height: 35px !important;
         fill: white !important;
         stroke: white !important;
     }
-
-    /* "MENU" 텍스트 라벨 추가 (버튼 내부 하단) */
-    [data-testid="collapsedControl"]::after, [data-testid="stSidebarCollapsedControl"]::after {
+    
+    /* MENU 텍스트 추가 */
+    header button::after {
         content: "MENU";
         display: block;
         position: absolute;
         bottom: 2px;
         left: 0;
         width: 100%;
-        font-size: 8px; /* scale 적용되므로 실제론 14~15px */
-        font-weight: 900;
-        color: white; 
-        text-align: center;
-        text-shadow: 1px 1px 2px black;
+        font-size: 10px !important;
+        font-weight: bold !important;
+        color: white !important;
+        line-height: 1 !important;
     }
+</style>
 </style>
 """, unsafe_allow_html=True)
 
