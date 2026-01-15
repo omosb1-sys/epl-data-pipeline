@@ -31,7 +31,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚨 Mobile Toggle Resurrected (v10.3 - Fixed Position)", icon="🔥")
+st.toast("🚨 UI Emergency Recovery (v10.5 - Shotgun Fix)", icon="🛡️")
 
 # --- 🎯 인공지능급 디자인 시스템 (Figma Style) ---
 st.markdown("""
@@ -76,41 +76,52 @@ st.markdown("""
         letter-spacing: -1px;
     }
 
-    /* 🔴 Mobile Sidebar Toggle - ULTRA VISIBILITY RESTORE */
-    [data-testid="collapsedControl"], [data-testid="stSidebarCollapsedControl"] {
+    /* 🔴 Mobile Sidebar Toggle - EMERGENCY FIX */
+    /* Target all possible variations of the toggle button */
+    [data-testid="collapsedControl"], 
+    [data-testid="stSidebarCollapsedControl"],
+    button[kind="headerNoPadding"],
+    header button:first-child {
         display: flex !important;
         visibility: visible !important;
         background-color: #FF4B4B !important;
-        border-radius: 0 12px 12px 0 !important;
-        width: 100px !important;
-        height: 60px !important;
+        border-radius: 0 16px 16px 0 !important;
+        width: 110px !important;
+        height: 64px !important;
         position: fixed !important;
         top: 0 !important;
         left: 0 !important;
-        z-index: 999999 !important;
+        z-index: 9999999 !important;
         justify-content: center !important;
         align-items: center !important;
-        box-shadow: 10px 0 30px rgba(255, 75, 75, 0.6) !important;
-        cursor: pointer !important;
+        box-shadow: 10px 0 40px rgba(255, 75, 75, 0.7) !important;
+        border: none !important;
     }
 
-    [data-testid="collapsedControl"]::after {
+    /* Force arrows '>>>' to appear as content */
+    [data-testid="collapsedControl"]::after,
+    [data-testid="stSidebarCollapsedControl"]::after,
+    header button:first-child::after {
         content: ">>>" !important;
         color: white !important;
         font-weight: 900 !important;
-        font-size: 24px !important;
+        font-size: 26px !important;
         letter-spacing: -1px !important;
-        margin-left: 10px !important;
+        margin-left: 15px !important;
+        visibility: visible !important;
+        display: block !important;
     }
 
-    [data-testid="collapsedControl"] svg {
+    [data-testid="collapsedControl"] svg,
+    [data-testid="stSidebarCollapsedControl"] svg {
         fill: white !important;
-        width: 32px !important;
-        height: 32px !important;
+        width: 36px !important;
+        height: 36px !important;
+        display: block !important;
     }
 
     /* ⚪ Fix Expander Header Visibility */
-    .stExpander details summary p {
+    .stExpander details summary p, .stExpander details summary span {
         color: white !important;
         font-weight: 600 !important;
     }
@@ -121,7 +132,7 @@ st.markdown("""
         border-radius: 12px !important;
     }
 
-    /* 💎 Premium Card System */
+    /* 💎 Premium Card System - RESTORED */
     .metric-card {
         background: var(--card-bg);
         padding: 24px;
@@ -137,38 +148,38 @@ st.markdown("""
         box-shadow: 0 15px 40px rgba(255, 75, 75, 0.1);
     }
 
-    /* 📱 Sidebar Menu (Manager View) */
+    /* 📱 Sidebar Menu (Manager View) - TEXT VISIBILITY FIX */
     [data-testid="stSidebar"] div[role="radiogroup"] label {
-        padding: 14px 20px !important;
+        padding: 16px 20px !important;
         border-radius: 16px !important;
         background: rgba(255, 255, 255, 0.05) !important;
         border: 1px solid rgba(255, 255, 255, 0.1) !important;
-        margin-bottom: 10px !important;
+        margin-bottom: 12px !important;
         transition: all 0.3s ease !important;
     }
 
-    /* 🔥 FORCE TEXT VISIBILITY IN MENU */
-    [data-testid="stSidebar"] div[role="radiogroup"] label p {
+    /* 🔥 SUPER AGGRESSIVE TEXT VISIBILITY */
+    [data-testid="stSidebar"] div[role="radiogroup"] label * {
         color: white !important;
-        font-weight: 600 !important;
+        font-weight: 700 !important;
         font-size: 16px !important;
+        opacity: 1 !important;
     }
 
     [data-testid="stSidebar"] div[role="radiogroup"] label:hover {
-        background: rgba(255, 75, 75, 0.1) !important;
-        border-color: rgba(255, 75, 75, 0.3) !important;
-        cursor: pointer;
+        background: rgba(255, 75, 75, 0.15) !important;
+        border-color: rgba(255, 75, 75, 0.4) !important;
     }
 
     [data-baseweb="radio"] div:first-child {
-        display: none !important; /* Hide default radio circles */
+        display: none !important;
     }
 
     /* Selected State Glow */
     [data-testid="stSidebar"] div[role="radiogroup"] label[data-checked="true"] {
-        background: linear-gradient(90deg, rgba(255,75,75,0.2), transparent) !important;
-        border-left: 4px solid var(--primary-accent) !important;
-        border-color: rgba(255, 75, 75, 0.4) !important;
+        background: linear-gradient(90deg, rgba(255,75,75,0.25), transparent) !important;
+        border-left: 6px solid var(--primary-accent) !important;
+        border-color: rgba(255, 75, 75, 0.5) !important;
     }
 
     /* 📸 Image Enhancement */
