@@ -136,15 +136,22 @@ st.markdown("""
     [data-testid="stSidebar"] div[role="radiogroup"] label {
         padding: 14px 20px !important;
         border-radius: 16px !important;
-        background: rgba(255, 255, 255, 0.02) !important;
-        border: 1px solid transparent !important;
+        background: rgba(255, 255, 255, 0.05) !important;
+        border: 1px solid rgba(255, 255, 255, 0.1) !important;
         margin-bottom: 10px !important;
         transition: all 0.3s ease !important;
     }
 
+    /* 🔥 FORCE TEXT VISIBILITY IN MENU */
+    [data-testid="stSidebar"] div[role="radiogroup"] label p {
+        color: white !important;
+        font-weight: 600 !important;
+        font-size: 16px !important;
+    }
+
     [data-testid="stSidebar"] div[role="radiogroup"] label:hover {
-        background: rgba(255, 75, 75, 0.05) !important;
-        border-color: rgba(255, 75, 75, 0.2) !important;
+        background: rgba(255, 75, 75, 0.1) !important;
+        border-color: rgba(255, 75, 75, 0.3) !important;
         cursor: pointer;
     }
 
@@ -154,8 +161,9 @@ st.markdown("""
 
     /* Selected State Glow */
     [data-testid="stSidebar"] div[role="radiogroup"] label[data-checked="true"] {
-        background: linear-gradient(90deg, rgba(255,75,75,0.15), transparent) !important;
+        background: linear-gradient(90deg, rgba(255,75,75,0.2), transparent) !important;
         border-left: 4px solid var(--primary-accent) !important;
+        border-color: rgba(255, 75, 75, 0.4) !important;
     }
 
     /* 📸 Image Enhancement */
