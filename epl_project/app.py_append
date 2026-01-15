@@ -1,0 +1,61 @@
+
+def analyze_team_realtime(target_team):
+    """
+    서버리스 모드: 이미 수집된 news 데이터를 기반으로 즉석 분석 수행
+    """
+    data = load_json_data("latest_epl_data.json")
+    news_list = data.get('news', []) if isinstance(data, dict) else []
+    
+    # 1. 키워드 매핑 (한글 구단명 -> 영어 검색어)
+    rev_map = {
+        "아스널": "Arsenal", "리버풀": "Liverpool", "맨체스터 시티": "Manchester City", "맨시티": "Manchester City",
+        "아스톤 빌라": "Aston Villa", "첼시": "Chelsea", "브라이튼": "Brighton",
+        "토트넘 홋스퍼": "Tottenham", "토트넘": "Tottenham", "노팅엄 포레스트": "Forest", "노팅엄": "Nottingham",
+        "뉴캐슬 유나이티드": "Newcastle", "풀럼": "Fulham", "본머스": "Bournemouth", 
+        "웨스트햄 유나이티드": "West Ham", "브렌트포드": "Brentford", "레스터 시티": "Leicester", 
+        "에버튼": "Everton", "크리스탈 팰리스": "Crystal Palace", "팰리스": "Crystal Palace",
+        "입스위치 타운": "Ipswich", "울버햄튼": "Wolves", "사우스햄튼": "Southampton", 
+        "맨체스터 유나이티드": "Manchester United", "맨유": "Manchester United"
+    }
+    eng_name = rev_map.get(target_team, target_team)
+    
+    # 2. 뉴스 필터링
+    relevant_news = []
+    keywords = [eng_name.lower()]
+    if "manchester" in keywords[0]: 
+        if "united" in keywords[0]: keywords.append("man utd")
+        if "city" in keywords[0]: keywords.append("man city")
+    
+    for n in news_list:
+        if not isinstance(n, dict): continue
+        title = n.get('title', '').lower()
+        if any(k in title for k in keywords):
+            relevant_news.append(n)
+            
+    # 3. 감성/키워드 분석 (Rule-based)
+    score = 50.0 # Base score
+    pos_words = ["win", "victory", "sign", "deal", "success", "top", "goal", "return", "fit"]
+    neg_words = ["lose", "defeat", "injury", "out", "miss", "fail", "sack", "crisis"]
+    
+    summary_sentences = []
+    
+    if relevant_news:
+        for n in relevant_news[:5]: # 최신 5개만 분석
+            title = n.get('title', '')
+            t_lower = title.lower()
+            
+            # Scoring
+            pos_cnt = sum(1 for w in pos_words if w in t_lower)
+            neg_cnt = sum(1 for w in neg_words if w in t_lower)
+            score += (pos_cnt * 2.0) - (neg_cnt * 2.5)
+            
+            summary_sentences.append(f"- {title}")
+    else:
+        summary_sentences.append("최근 특이사항이 감지되지 않았습니다.")
+        
+    # Bound score
+    score = max(0, min(100, score))
+    
+    summary = "\n".join(summary_sentences[:3]) # Top 3 summary
+    
+    return score, summary, relevant_news[:5]
