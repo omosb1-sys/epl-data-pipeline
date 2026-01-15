@@ -87,9 +87,12 @@ st.markdown("""
     #MainMenu {visibility: hidden;} /* 우측 상단 점 3개 메뉴 숨김 */
     footer {visibility: hidden;}    /* 하단 Made with Streamlit 숨김 */
     
-    /* [TARGETED] 깃허브 아이콘 및 툴바만 콕 집어서 숨기기 */
-    [data-testid="stToolbar"] {visibility: hidden !important;} 
-    [data-testid="stHeader"] {z-index: 1;} /* 헤더는 살려서 사이드바 버튼 유지 */
+    /* [TARGETED] 우측 툴바(GitHub, 점3개)만 숨기고 좌측 사이드바 버튼은 살리기 */
+    [data-testid="stToolbar"] {right: 2rem; display: none !important;} 
+    [data-testid="stHeader"] {background-color: rgba(0,0,0,0);} /* 투명 처리 */
+    
+    /* 모바일 햄버거 버튼(사이드바) 강제 노출 */
+    [data-testid="collapsedControl"] {display: block !important; visibility: visible !important;}
 </style>
 """, unsafe_allow_html=True)
 
