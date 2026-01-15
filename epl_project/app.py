@@ -83,28 +83,30 @@ st.markdown("""
         color: #E0E0E0 !important;
     }
     
-    /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
+    /* [RESET] 헤더 기능 복구 (사이드바 버튼 살리기) */
+    header {visibility: visible !important;}
+    [data-testid="stHeader"] {
+        visibility: visible !important;
+        background-color: transparent !important;
+        z-index: 1 !important;
+    }
+    
+    /* [SECURITY] 풋터 및 우측 상단 메뉴 숨기기 */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     
-    /* [TARGETED] 우측 툴바(GitHub 등) -> 투명화 전략 (레이아웃 유지) */
+    /* [SAFE HIDE] 우측 툴바(GitHub 등)를 화면 밖으로 밀어버리기 전략 */
+    /* display: none이나 visibility: hidden을 쓰면 레이아웃이 깨져서 버튼이 사라짐 */
     [data-testid="stToolbar"] {
-        opacity: 0 !important;
-        pointer-events: none !important;
+        position: fixed; 
+        top: 0px;
+        right: 100vw; /* 화면 왼쪽 끝으로 날려버림 */
     }
     
-    /* [SAFEGUARD] 좌측 사이드바 버튼(화살표) -> 최상단 강제 노출 */
+    /* [MOBILE] 사이드바 여닫기 버튼(화살표) 스타일 강제 적용 */
     [data-testid="collapsedControl"] {
-        opacity: 1 !important;
         display: block !important;
-        visibility: visible !important;
         color: #FFFFFF !important;
-        z-index: 99999 !important; /* 다른 요소에 가려지지 않도록 */
-    }
-    
-    /* 헤더 배경 투명화 */
-    [data-testid="stHeader"] {
-        background-color: rgba(0,0,0,0) !important;
     }
 </style>
 """, unsafe_allow_html=True)
