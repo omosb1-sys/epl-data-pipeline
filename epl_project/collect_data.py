@@ -3,6 +3,8 @@ import json
 import os
 import time
 from datetime import datetime
+import requests # [NEW] News scraping
+from bs4 import BeautifulSoup # [NEW] News scraping
 
 # ==========================================
 # 🔧 설정 (Configuration)
@@ -53,6 +55,47 @@ def fetch_from_api(endpoint):
     finally:
         conn.close()
 
+def scrape_epl_news():
+    """Google News RSS를 통해 EPL 최신 뉴스를 가져옵니다 (매우 안정적)"""
+    print("📡 Fetching news from Google News RSS...")
+    # 영문 뉴스 (Premier League 검색)
+    url = "https://news.google.com/rss/search?q=Premier+League+News&hl=en-GB&gl=GB&ceid=GB:en"
+    news_list = []
+    
+    try:
+        res = requests.get(url, timeout=10)
+        soup = BeautifulSoup(res.text, 'xml') # XML 파싱
+        
+        items = soup.find_all('item', limit=15)
+        for item in items:
+            title = item.title.text
+            link = item.link.text
+            source = item.source.text if item.source else "Google News"
+            
+            news_list.append({
+                "source": source,
+                "title": title,
+                "url": link
+            })
+            
+        # 한글 뉴스 추가 (프리미어리그 검색)
+        url_ko = "https://news.google.com/rss/search?q=프리미어리그&hl=ko&gl=KR&ceid=KR:ko"
+        res_ko = requests.get(url_ko, timeout=10)
+        soup_ko = BeautifulSoup(res_ko.text, 'xml')
+        items_ko = soup_ko.find_all('item', limit=10)
+        for item in items_ko:
+            news_list.append({
+                "source": item.source.text if item.source else "구글 뉴스",
+                "title": item.title.text,
+                "url": item.link.text
+            })
+
+        print(f"✅ Total News collected: {len(news_list)} items")
+    except Exception as e:
+        print(f"⚠️ News fetching failed: {e}")
+        
+    return news_list
+
 def main():
     print("🚀 [EPL Data Robot] Starting data collection...")
     
@@ -64,39 +107,34 @@ def main():
         "season": SEASON,
         "standings": [],
         "fixtures": [],
-        "top_scorers": []
+        "top_scorers": [],
+        "news": [] # [NEW]
     }
     
-    # 1. Standings (순위표)
+    # ... API 호출부 (생략) ...
+    # 1. Standings
+    # 2. Fixtures
+    # (위의 코드가 계속 있다고 가정)
+    
+    # [FIX] main 함수의 흐름을 유지하기 위해 기존 코드를 정확히 매칭해서 넣어줍니다.
+    # 1. Standings
     standings_data = fetch_from_api(f"/v3/standings?season={SEASON}&league={LEAGUE_ID}")
     if standings_data and standings_data.get('response'):
         final_data['standings'] = standings_data['response'][0]['league']['standings'][0]
-        print(f"✅ Standings collected: {len(final_data['standings'])} teams")
-    else:
-        print("⚠️ Failed to fetch standings.")
+        print(f"✅ Standings collected.")
 
-    # 2. Fixtures (경기 일정 - 최근 3경기 & 다음 3경기)
-    # Note: 무료 플랜(하루 100회) 절약을 위해 '이번 라운드' 위주로 가져오거나
-    # 전체를 가져와서 로컬에서 필터링하는 방식이 좋습니다.
-    # 여기서는 '현재 진행 중인 라운드'를 자동으로 찾아서 가져오는 로직을 씁니다.
-    
+    # 2. Fixtures
     current_round_resp = fetch_from_api(f"/v3/fixtures/rounds?season={SEASON}&league={LEAGUE_ID}&current=true")
     if current_round_resp and current_round_resp.get('response'):
         current_round = current_round_resp['response'][0]
-        print(f"📍 Current Round: {current_round}")
-        
         fixtures_data = fetch_from_api(f"/v3/fixtures?season={SEASON}&league={LEAGUE_ID}&round={current_round}")
         if fixtures_data and fixtures_data.get('response'):
             final_data['fixtures'] = fixtures_data['response']
-            print(f"✅ Fixtures collected: {len(final_data['fixtures'])} matches")
-    
-    # 3. Top Scorers (득점 순위) - Optional (비용 절약 위해 가끔 실행 가능)
-    # scorers_data = fetch_from_api(f"/v3/players/topscorers?season={SEASON}&league={LEAGUE_ID}")
-    # if scorers_data and scorers_data.get('response'):
-    #     final_data['top_scorers'] = scorers_data['response']
-    #     print(f"✅ Top Scorers collected.")
+            print(f"✅ Fixtures collected.")
 
-    # 저장
+    # 4. News Scraping
+    final_data['news'] = scrape_epl_news()
+
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=4, ensure_ascii=False)
         

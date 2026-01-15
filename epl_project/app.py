@@ -12,6 +12,57 @@ except ImportError:
     sys.path.append(os.path.dirname(__file__))
     from collect_data import main as run_sync
 
+# [NEW] DB 없이 실시간 뉴스 분석을 위한 함수 (Serverless Version)
+def analyze_team_realtime(team_name):
+    # API 데이터(latest_epl_data.json)의 news 항목을 기반으로 점수 계산
+    data = load_json_data("latest_epl_data.json")
+    if not isinstance(data, dict): return 0, "데이터 없음", []
+    
+    news_list = data.get('news', [])
+    
+    # 간단한 키워드 매핑
+    keywords = {
+        "맨체스터 유나이티드": ["United", "Man Utd", "Amorim", "Old Trafford", "Hojlund"],
+        "아스날": ["Arsenal", "Arteta", "Saka", "Odegaard", "Rice"],
+        "리버풀": ["Liverpool", "Salah", "Slot", "Anfield", "Van Dijk"],
+        "맨체스터 시티": ["City", "Guardiola", "Haaland", "Rodri", "De Bruyne"],
+        "토트넘 홋스퍼": ["Tottenham", "Spurs", "Son", "Postecoglou", "Maddison"],
+        "첼시": ["Chelsea", "Maresca", "Palmer", "Stamford"],
+        "아스톤 빌라": ["Villa", "Emery", "Watkins"],
+        "뉴캐슬 유나이티드": ["Newcastle", "Howe", "Isak", "Gordon"],
+        "웨스트햄 유나이티드": ["West Ham", "Bowen", "Paqueta"],
+        "브라이튼": ["Brighton", "Hurzeler", "Mitoma"],
+        "풀럼": ["Fulham", "Silva", "Jimenez"],
+        "본머스": ["Bournemouth", "Iraola", "Solanke"],
+        "브렌트포드": ["Brentford", "Frank", "Mbeumo"],
+        "에버튼": ["Everton", "Dyche", "Pickford"],
+        "노팅엄 포레스트": ["Forest", "Nuno", "Gibbs-White"],
+        "울버햄튼": ["Wolves", "O'Neil", "Cunha"],
+        "크리스탈 팰리스": ["Palace", "Glasner", "Eze"],
+        "레스터 시티": ["Leicester", "Cooper", "Vardy"],
+        "사우스햄튼": ["Southampton", "Martin", "Archer"],
+        "입스위치 타운": ["Ipswich", "McKenna", "Delap"]
+    }
+    
+    target_keys = keywords.get(team_name, [])
+    point = 0
+    summaries = []
+    
+    for n in news_list:
+        title = n.get('title', '').lower()
+        if any(k.lower() in title for k in target_keys):
+            # 부상 뉴스 감지
+            if any(w in title for w in ["injury", "sidelined", "out for", "hurt"]):
+                point -= 5
+                summaries.append("부상 소식이 감지됨")
+            # 영입/호재 뉴스 감지
+            if any(w in title for w in ["signs", "official", "deal", "win", "victory"]):
+                point += 3
+                summaries.append("신규 계약 또는 호재 발생")
+                
+    summary = " / ".join(list(set(summaries))) if summaries else "특이사항 없음"
+    return point, summary, []
+
 # --- 0. 기본 설정 ---
 st.set_page_config(
     page_title="EPL-X Manager",
@@ -223,38 +274,40 @@ if menu == "대시보드":
                 elif os.path.exists(stadium_img):
                     final_img = stadium_img
             
-            # [2] DB에 없거나 파일이 없으면 -> 비상용 매핑 확인
-            if not final_img:
-                # 안전한 로컬 파일명 매핑 (혹시 DB 연결 안 된 팀들용)
-                LOCAL_FALLBACKS = {
-                    "맨체스터 유나이티드": "stadiums/man_utd.jpg",
-                    "맨체스터 시티": "stadiums/man_city.jpg",
-                    "리버풀": "stadiums/liverpool.jpg",
-                    "아스날": "stadiums/arsenal.png",
-                    "첼시": "stadiums/chelsea.png",
-                    "토트넘 홋스퍼": "stadiums/totten_h.png",
-                    "뉴캐슬 유나이티드": "stadiums/newcastle_u.png",
-                    "아스톤 빌라": "stadiums/aston_villa.png", # 파일 없음
-                    "울버햄튼": "stadiums/wolverhampton_w.png",
-                    "브라이튼": "stadiums/brighton_h_a.png",
-                    "크리스탈 팰리스": "stadiums/crystal_p.png",
-                    "풀럼": "stadiums/fulham.png",
-                    "본머스": "stadiums/bournemouth.png",
-                    "웨스트햄 유나이티드": "stadiums/west.h.png",
-                    "에버튼": "stadiums/everton.png",
-                    "브렌트포드": "stadiums/brentford.png",
-                    "노팅엄 포레스트": "stadiums/nottingham_f.png",
-                    "레스터 시티": "stadiums/leichester_c.png",
-                    "사우스햄튼": "stadiums/s_hampton.png",
-                    "입스위치 타운": "stadiums/ipswich.png" # 파일 없음
-                }
-                
-                path = LOCAL_FALLBACKS.get(selected_team)
-                if path and os.path.exists(path):
-                    final_img = path
-                else:
-                     # 진짜 없으면 Placehold
-                    final_img = "https://placehold.co/600x400/png?text=No+Image"
+                # [2] DB에 없거나 파일이 없으면 -> 비상용 매핑 확인
+                if not final_img:
+                    # [FIX] 파일 경로를 epl_project/stadiums/... 형태로 보정
+                    BASE_DIR = os.path.dirname(__file__)
+                    LOCAL_FALLBACKS = {
+                        "맨체스터 유나이티드": "stadiums/man_utd.jpg",
+                        "맨체스터 시티": "stadiums/man_city.jpg",
+                        "리버풀": "stadiums/liverpool.jpg",
+                        "아스날": "stadiums/arsenal.png",
+                        "첼시": "stadiums/chelsea.png",
+                        "토트넘 홋스퍼": "stadiums/totten_h.png",
+                        "뉴캐슬 유나이티드": "stadiums/newcastle_u.png",
+                        "아스톤 빌라": "stadiums/man_city.jpg", # 임시 대체 (파일 없음)
+                        "울버햄튼": "stadiums/wolverhampton_w.png",
+                        "브라이튼": "stadiums/brighton_h_a.png",
+                        "크리스탈 팰리스": "stadiums/crystal_p.png",
+                        "풀럼": "stadiums/fulham.png",
+                        "본머스": "stadiums/bournemouth.png",
+                        "웨스트햄 유나이티드": "stadiums/west.h.png",
+                        "에버튼": "stadiums/everton.png",
+                        "브렌트포드": "stadiums/brentford.png",
+                        "노팅엄 포레스트": "stadiums/nottingham_f.png",
+                        "레스터 시티": "stadiums/leichester_c.png",
+                        "사우스햄튼": "stadiums/s_hampton.png",
+                    }
+                    
+                    rel_path = LOCAL_FALLBACKS.get(selected_team)
+                    if rel_path:
+                        abs_path = os.path.join(BASE_DIR, rel_path)
+                        if os.path.exists(abs_path):
+                            final_img = abs_path
+
+                if not final_img:
+                    final_img = "https://placehold.co/600x400/png?text=No+Stadium+Image"
 
             # 최종 출력
             if final_img:
