@@ -31,7 +31,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("⚡ Dual-UI System (Web/Mobile) Fixed (v10.6)", icon="🚀")
+st.toast("🛠️ UI Reset & Logic Clean (v11.0 - Total Recovery)", icon="♻️")
 
 # --- 🎯 인공지능급 디자인 시스템 (Figma Style) ---
 st.markdown("""
@@ -76,73 +76,61 @@ st.markdown("""
         letter-spacing: -1px;
     }
 
-    /* 🔴 Mobile & Desktop Sidebar Toggle - HIGH VISIBILITY RESTORE */
-    [data-testid="collapsedControl"], 
-    [data-testid="stSidebarCollapsedControl"],
-    header button:first-child {
-        display: flex !important;
-        visibility: visible !important;
+    /* 🔴 Sidebar Toggle - STABLE VISIBILITY RESTORE */
+    /* Target the container of the arrow button */
+    [data-testid="collapsedControl"],
+    [data-testid="stSidebarCollapsedControl"] {
         background-color: #FF4B4B !important;
-        border-radius: 0 16px 16px 0 !important;
-        width: 100px !important;
-        height: 56px !important;
-        position: fixed !important;
-        top: 0 !important;
-        left: 0 !important;
-        z-index: 9999!important;
-        justify-content: center !important;
+        border-radius: 0 10px 10px 0 !important;
+        padding: 5px !important;
+        display: flex !important;
         align-items: center !important;
-        box-shadow: 10px 0 30px rgba(255, 75, 75, 0.5) !important;
-        border: none !important;
+        justify-content: center !important;
+        min-width: 60px !important;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.5) !important;
     }
 
-    [data-testid="collapsedControl"]::after,
-    header button:first-child::after {
-        content: ">>>" !important;
+    /* Add "MENU" or arrows after the toggle button */
+    [data-testid="collapsedControl"]::after {
+        content: " MENU >>>" !important;
         color: white !important;
-        font-weight: 900 !important;
-        font-size: 22px !important;
-        margin-left: 10px !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
+        white-space: nowrap !important;
     }
 
     [data-testid="collapsedControl"] svg {
         fill: white !important;
-        width: 28px !important;
-        height: 28px !important;
+        width: 25px !important;
+        height: 25px !important;
     }
 
-    /* 📱 SIDEBAR MENU TEXT VISIBILITY (Universal) */
-    [data-testid="stSidebar"] div[role="radiogroup"] label {
-        padding: 16px 20px !important;
-        border-radius: 16px !important;
-        background: rgba(255, 255, 255, 0.08) !important;
-        border: 1px solid rgba(255, 255, 255, 0.15) !important;
-        margin-bottom: 12px !important;
-        transition: all 0.3s ease !important;
-    }
-
-    /* 🔥 STUBBORN TEXT COLOR FIX */
-    [data-testid="stSidebar"] div[role="radiogroup"] label * {
+    /* 📱 SIDEBAR MENU TEXT VISIBILITY - ABSOLUTE FIX */
+    /* Target any text inside the sidebar navigation */
+    [data-testid="stSidebar"] * {
         color: white !important;
-        font-weight: 700 !important;
-        font-size: 16px !important;
-        opacity: 1 !important;
+    }
+
+    /* Target the specific labels in the radio menu */
+    [data-testid="stSidebar"] div[role="radiogroup"] label {
+        background: rgba(255, 255, 255, 0.05) !important;
+        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        border-radius: 12px !important;
+        margin-bottom: 8px !important;
+        padding: 10px !important;
     }
 
     [data-testid="stSidebar"] div[role="radiogroup"] label:hover {
-        background: rgba(255, 75, 75, 0.2) !important;
-        border-color: rgba(255, 75, 75, 0.4) !important;
+        background: rgba(255, 75, 75, 0.1) !important;
     }
 
     [data-baseweb="radio"] div:first-child {
-        display: none !important;
+        display: none !important; /* Hide defaults */
     }
 
-    /* Selected State Glow */
     [data-testid="stSidebar"] div[role="radiogroup"] label[data-checked="true"] {
-        background: linear-gradient(90deg, rgba(255,75,75,0.3), transparent) !important;
-        border-left: 6px solid var(--primary-accent) !important;
-        border-color: rgba(255, 75, 75, 0.5) !important;
+        border-left: 5px solid #FF4B4B !important;
+        background: rgba(255, 75, 75, 0.15) !important;
     }
 
     /* ⚪ Fix Expander Visibility */
