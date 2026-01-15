@@ -82,6 +82,11 @@ st.markdown("""
         font-weight: 600 !important;
         color: #E0E0E0 !important;
     }
+    
+    /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
