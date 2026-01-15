@@ -86,7 +86,10 @@ st.markdown("""
     /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
     #MainMenu {visibility: hidden;} /* 우측 상단 점 3개 메뉴 숨김 */
     footer {visibility: hidden;}    /* 하단 Made with Streamlit 숨김 */
-    /* header {visibility: hidden;} -> 삭제: 이걸 숨기면 모바일 사이드바 버튼도 사라짐 */
+    
+    /* [TARGETED] 깃허브 아이콘 및 툴바만 콕 집어서 숨기기 */
+    [data-testid="stToolbar"] {visibility: hidden !important;} 
+    [data-testid="stHeader"] {z-index: 1;} /* 헤더는 살려서 사이드바 버튼 유지 */
 </style>
 """, unsafe_allow_html=True)
 
