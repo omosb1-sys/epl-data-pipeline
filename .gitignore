@@ -15,6 +15,9 @@ logs/
 exports/
 reports/
 
+# [IMPORTANT] Allow EPL Project Data for Automation
+!epl_project/data/
+
 # OS
 .DS_Store
 
