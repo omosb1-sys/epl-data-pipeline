@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-01-15 18:21:57",
+    "timestamp": "2026-01-15 19:16:37",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Premier League transfer news LIVE: Managers speaking about their latest January business - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zdXRVOE5RUWRBMUpzOXROVUdyUDZMem5SVGdycmFHWGo4WjRjV2g0cDB1VEJHY1M0eEVfVV9fNno3SHZWUGNXajY0bXcwMmJ0VGJZdl9aRHFpbUVzNkRVSExBZ0g?oc=5"
+            "source": "London Evening Standard",
+            "title": "Tottenham XI vs West Ham: Confirmed team news and predicted lineup - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb2U1bFMwLU1rUFMtMERtTlh1bXV1Nl9CRnhOQ19lNXY3VEltRHdtTHhWQ05TaTRTNXhPajE5RlNfZ2dNb2tsX2g0czdCYmQ0RWRDSDlHeTZqckhzWk5CQkhYR3J0N3VISlNVZUFTREJid2M4QUhYX3FBNHZ0UVpGZklZdUdGdEplb2tqR1FKRmZDSW9TdDdvTy11dkNvaWFUSGFZdnk5TVI0NXhxMmdET2U4Qlo0VUtpX2s4NGdLWC1qQUN0cWVQRTFxV0w1TnNzWjlFX2tqZktieXQzMDB1cU5JNWVnZw?oc=5"
         },
         {
             "source": "Spurs Web",
@@ -16,29 +16,34 @@
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXFwS3ZzVTl6YXlQOEp3Rm0ybFhRYXBYZjlmN2JEVms1ZHp3dTlYTzVTN1ZDOG9mTXNwaHlnTzBBTGZ0Vm9BVzdmMzlMdnFodzJjSXVQOWNhUXB1bklUdVZzdmZQWkxtMXVPRWJKc1FpTjhNSFdlTmR1cEdqeHZEVVpNc3NWbGVQYS1YV1FOdTBaZFZHYnhJSUtCal9qUlZmOEV1Zk9jV2ZkUUpaRy1xOE5oc3NXVWhUMmhIN09OVVR5enh3UENZSGc5Q21adw?oc=5"
         },
         {
-            "source": "London Evening Standard",
-            "title": "Tottenham XI vs West Ham: Confirmed team news and predicted lineup - London Evening Standard",
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb2U1bFMwLU1rUFMtMERtTlh1bXV1Nl9CRnhOQ19lNXY3VEltRHdtTHhWQ05TaTRTNXhPajE5RlNfZ2dNb2tsX2g0czdCYmQ0RWRDSDlHeTZqckhzWk5CQkhYR3J0N3VISlNVZUFTREJid2M4QUhYX3FBNHZ0UVpGZklZdUdGdEplb2tqR1FKRmZDSW9TdDdvTy11dkNvaWFUSGFZdnk5TVI0NXhxMmdET2U4Qlo0VUtpX2s4NGdLWC1qQUN0cWVQRTFxV0w1TnNzWjlFX2tqZktieXQzMDB1cU5JNWVnZw?oc=5"
+            "source": "BBC",
+            "title": "Premier League transfer news LIVE: Managers speaking about their latest January business - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zdXRVOE5RUWRBMUpzOXROVUdyUDZMem5SVGdycmFHWGo4WjRjV2g0cDB1VEJHY1M0eEVfVV9fNno3SHZWUGNXajY0bXcwMmJ0VGJZdl9aRHFpbUVzNkRVSExBZ0g?oc=5"
         },
         {
-            "source": "Metro.co.uk",
-            "title": "Paul Merson's Premier League predictions including Man Utd v Man City and Forest v Arsenal - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVBJN21uWmMtbGg0YzBYLVVQY3NiWjhIMHVuYjI0Z2V4UUR4eG00WThpMjhYd0Z4SExuaGNfZm9jb0VHSnBnRTNPS0gxQXNYWlJ2OFAyQUFSR3ZrSDdkcm9Jc0U5VEFRaG5rSkFhcEtmcU5aVDlwSEYzd2txMFVuYkE5dUx4MVF0VmxldGxpTFhkTnRTanhsSmR2WTBsZnYxdkxTRV9XSzdjalB0Y3hyeEFscGZ1S3phdnNkaTJERTZkT1A1VUNMTVF30gHPAUFVX3lxTE16bnRLbFZyOFVEazlqYXZKZVNacEU1am9IWkU3eXJBMTVMXzM2OW5kVlMzS09FRl9EMTZ4OVZWVFNUQkg5SkxFNjcxdnJyZkVWLUpPM1ZtVnJaWG8tLTZwVk5xLUQxZzR4VWdoZXNKUmEtZGdOM29oTkpIX0FsVldFdUVYdU96M01MN3hweExicWZORUFKTkFLVkFfLXFjdlU3Rm1LMlJSak52U3o0dW5nQ2Znd0tjeVAtYzNtYlVIYXZYR0htTGxlY3g1Z2h1MA?oc=5"
+            "source": "BBC",
+            "title": "Premier League: What does xG predict for the rest of the season? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Dal9peHBxNDUtcUs3NXRKTE9MNmI2dEhKTHZRX2RiMDVQSGtYV2RvQ2k3WXhYN0RPLXprU291TXVqd3poZ0g2R18zNHFFZjF6bXFDQXdKcVROZVpiWkE2RnBMXzQ0UEU?oc=5"
         },
         {
-            "source": "Celts Are Here",
-            "title": "Celtic Make ‘Enquiry’ for Premier League Striker - Celts Are Here",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ycmREZE9aajJhMTJHVGtRN3FtRm1TQjl6MWZRZXMxTkxQXzVBLVZVbHdJLTJUbkxuVzk3TnBNYzRFM0hMOVZiWVhwWlY0d2trckNtWVN6ek9NeE1LZS1fSHFZRFZKSTZuQnYwZDJYaWQ?oc=5"
+            "source": "talkSPORT",
+            "title": "Dani Ceballos lined up for Premier League return after being dropped by Real Madrid - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzJlQ0xRQ0c5Q2k5aGpaTDdVQVhCX2pLS2F6QnM1Y0l6SU9zakFfMG9kRVJxZ3NDUzBzbUY5ODljQk9HYkd1UVVFZTJTdmppYVRvdTNmaktndnd3OFJlRFdGbUI3dEpPNGp5N0FyOXp2dXhQMUNXUzJHb0pqa3RJVlVsVzJpRktLYjJoU0VkU2prTWItVDI2RTluOTdNSEVfUzRN?oc=5"
         },
         {
-            "source": "The Mirror",
-            "title": "Man Utd 'increasingly confident' of transfer for £100m-rated Premier League star - The Mirror",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUC1ueWNNTllnQVl6aW1ScmJHWDFhY0hPLUhfXy1BMThLV2pJcTZFSkxGamVrV0c5VXdxZ09fR0VPNW1EUmJmWEhHeVNqU0toSnlXM2t0bk54dEc1X3hPdTJlUzluTGdpTF91Yzg0MjVLUEJwYlpHdVpoOXVXNm00UDdORGVvNFdpSktwWWdQT3dhVnBPbHfSAZsBQVVfeXFMUEdjdV94TDVfSGRCeDNLaEhPM25NNzh3S2d3N0NoT0I2bi1ucFlOVTNFaEkwcGRIRE5RZEtic1lzQmRIZnBvWTlFUU9JTVlvc2RlbnNpUGxRcDFWR1VCWml6YzM3aTNfMzk4SVREdHBKcHpDWnBiYy00NVFhZEJtQTBHNmFFRHVuZXFTWWFGRDA4Zi15THFFMmFTdzQ?oc=5"
+            "source": "thestar.co.uk",
+            "title": "SWFC News: Premier League attacker trains with Owls - but things didn't go to plan - thestar.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmtnMXZRNlM0WXdEazJpYnlBdzh0aDJEcjUzOXNORS1FSWpXTGs5d2s5akdTNy0xR182UWtoSTBlSG5Ha3N2U2JaNnd0emxkQnhDdUw3SHUxUy1WQkNreW1nNG1DdlJvcGpKUzctNVVOa1JBTFV6c01UT0pnUGVUU25wQjFFdU1DeDNMbm12UW9oSEJsNGNqeTI4VXh4cndiQ3FIUzFTTEhUcGEzV2FCMGhhSDZILWZ0dlE?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Arsenal and Liverpool rank as best and worst from set-pieces as Premier League clubs embrace trend - Between the Lines - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONXdGWWoxSmxvYjdBUW9yUHRJYWJYUEt2VEQ3WGVwTk5aN2U5X3o2VHpPamtYWFF2TS1rUUZSd0pWRXpGYmF5M2J3WDZZTlgtNjNOLUtscEY0d1hOelZXNWNIMFRLc3hRVmNZaGVya0ExcVd4dEw5RVgzTk9Ka2ZQdHcwVlpkWk83clN1YXlaSm5COHoyME9JdzdhV19leUxwaGVJLVItVGYtZXVtVEpLUnFFdmJ3US1vc3Nza2JPZktMWFdQcENBaDhvT2wzSGNEcDNZcXpNZ1pEaFo5LXNYOFpLWVoxZklkTlloSWtqeUVOVlo4S3B5bTFucUc3NUlv?oc=5"
+            "source": "Yahoo Sports UK",
+            "title": "Former Chelsea star set for shock Premier League return in January as Aston Villa offer long-term contract - Yahoo Sports UK",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGpMNkVXVk1fclpIMm1jNUwwTk1IeWFwa0k2S1IxcUxVSDRpWmdxS1hSbS1ITTJaRjZobjhMZmtzYWdnNUVzRFpva3ZYenVOd0RoNFoxVURnZjRzUGdmRGxUSHpPVk5iVklOODd1cTNmeWRTMHoyXzhDMGhXci16SkdYNA?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "'Thiago's dream was to play in the Premier League' - BBC",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ2VZRzd2Q0RMZ1VfbGZGUTVCT005NGl0NG1zcEJUN3d2c1l6amRpZFU5akQ5YVBnZmNOa2pMYUJTRGJ1ZktoYzVwSlU4Q2VPdGtFQWItZ0xYOGstTU1uRm5lYzhSd29SVndVWVFjbXptYmRacEtVTnp2MWhENHRSOEJ3RF9RY3JpNDVRQy14OEJRYzRpVS13bTZtdmJKaHJ5N19Qc29PNFFieVYza3Y1ZzZnN0M5NFBsazhMYllQZkZHVkZYQWU2N19LT2Exc09fOEdvemdtQWd4ZTFzNmVYb29LeDdNZnNzZUprLU94ZC0?oc=5"
         },
         {
             "source": "LiverpoolWorld",
@@ -152,8 +157,8 @@
         },
         {
             "source": "네이트 스포츠",
-            "title": "손흥민 푸대접 1971억 탕진! 토트넘 또 헛돈 쓴다? 정신 못 차렸다…AT서 대실패 갤러거 전격 영입 [오피셜] - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83UGZqbWVWNGVkZjJHZmVNeHB3TWN4WVBoVFdCRHNfRk1kRmE3dkNGTHB1c3h0MTE1Qmx4dmgyWERONVlSclNlVy13NEhocHlYc2w0bzVwZWk3X1Y2?oc=5"
+            "title": "아스널, 첼시 원정서 3-2 진땀승…리그컵 결승행 '청신호' - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VaWN3V0N6b3M3U1lsMFFhSTY3d3VuSDZ0aHVfeHNzd2E0VVFoa1FpcW4zQ2t2WW40R1EyU25xTi1VUHp0ZVhRWWE2LW5RdWJYdUt1bWlkTUh4U1do?oc=5"
         },
         {
             "source": "조선일보",
@@ -166,14 +171,14 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2WlQyRjk0VVJIT0lhYVBxdnRjVXJ4eG9YWFpaeHNJcmVtVDdQcXFMYmI4d1J0S0ZKY2M1MU80eHFybzZmZjlnblUwazU0Vl9SM0lSUmpmX1lhZ1cwUTNET1EtLTJzNllWLWRBN2FPM0ZTeXQwUExzVElRbURYd9IBd0FVX3lxTE5PNGVKVDFyeTBKck9nLW4wbTZsM1hJUWw4djE0MGZPOHVvejlNWU93d2RhRC02aFF2a0xCdG1ZdkpfLUhMMXN0SktCeXFiakp3VkJNVU9JU0NBdXFib1RvQnE5TGEwdVE4a3NBUXhGczRfS0Viano4?oc=5"
         },
         {
-            "source": "연합뉴스",
-            "title": "아스널, 리그컵 4강 1차전서 첼시에 3-2 '진땀 승리' - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5bnozSnhTaGJpTDZnbjJ6S28xNTViMVdjZXBvai1odmJrTnMzS1U4MnRLNXlRT0FqSjNKT0loQ2pNMk1rWDNSRVB5eEE2aVlfYi1BNXpuamtoWGfSAWBBVV95cUxOS3RuTUdHU0VFLWpBY2hGNk41MDVPN0NkQmtvNTVwVjBGMnEzOU1kNjlkaEozXzJ1Rm5LSEwySjlhZXQ3VU8wY3B4QU1HY2hxWkN3SVI4dWZwNWF1Y2R0QVU?oc=5"
-        },
-        {
             "source": "인터풋볼",
             "title": "퍼거슨의 제자에서 맨유 사령탑으로... 캐릭이 써내려간 20년 서사, 몰락한 명가에 한 줄기 빛 될까 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jVWNOcHdoSi1RRC11RlZrLWZVNjBNRVY0dFowYlpxOW80ZW16TU9Ldkk0SWxtcFlQOVctYXhhd1UwQzVFQkVhTmxHX2dQZURMMVh0aW5rd1RLTWRFZ3NaUWVCWkp6UWVHdTlTMk9PVkVzcGc4?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "\"손흥민 토트넘 전격 입단\" 이런 소식은 안 들리고→1971000000000원 탕진! 토트넘 또 헛돈?…AT서 대실패 갤러거 전격 영입 [오피셜] - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xQzdJcE9aZ0xBMnlWaUtuaXRoNnRHalA5Ul9tdS1RYVlicm9QNld0WU9halVMbFdWcWtLTWxuNmctOXhsZS1wdU51S2dEb0FHMWtXMQ?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -191,14 +196,14 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hMlpnempBUnpXMGJwV00xTXd1Mjd0UEtNVXFrcmt2WFZKc2N6bmtmaldENlJLc0FNX3FkV01JU2xZelZFUDRZWFhWN0JxTkk?oc=5"
         },
         {
+            "source": "연합뉴스",
+            "title": "아스널, 리그컵 4강 1차전서 첼시에 3-2 '진땀 승리' - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5bnozSnhTaGJpTDZnbjJ6S28xNTViMVdjZXBvai1odmJrTnMzS1U4MnRLNXlRT0FqSjNKT0loQ2pNMk1rWDNSRVB5eEE2aVlfYi1BNXpuamtoWGfSAWBBVV95cUxOS3RuTUdHU0VFLWpBY2hGNk41MDVPN0NkQmtvNTVwVjBGMnEzOU1kNjlkaEozXzJ1Rm5LSEwySjlhZXQ3VU8wY3B4QU1HY2hxWkN3SVI4dWZwNWF1Y2R0QVU?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "박지성 떠난지 14년, 퍼거슨 은퇴 13년…강산도 변했고 ‘중위권 팀’ 된 맨유 [맨유시절 ①] - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11RkFCZmFtQTgwZTN4MnFnUU1RVjhrd1NXNnJXVkZUVzMwNUtLSjRUSnJRNjZRd2VDWGNJamcxeGM0cHdadTZUdHRSMTd5RnM?oc=5"
-        },
-        {
-            "source": "sedaily.com",
-            "title": "아스널, 리그컵 준결승 1차전서 첼시 제압…결승 향한 유리한 고지 선점 - sedaily.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84V3B2blFKcUlPR18xakttMU0zR2Rwb08yby1FSG5JMS1jU3pmUXJJYTBHbGdVZVpLZWs5TnRMU1JOTWl6cC0wSEpqVnFOcVo5ZDlfczBRUWNXZ9IBV0FVX3lxTFBPX0hpMmtfSEQyWVl0LVVnU2pnYWdWbjlOWnlPZXRjWFozMUJJbzltNUdUSTVpUW81TWtrWTdVeW9GTEpEY3NDMVBUTmpyVzFJVjNpZzB5WQ?oc=5"
         }
     ],
     "transfers": [
