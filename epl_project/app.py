@@ -31,7 +31,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🎨 Figma UI System v10.0 Loaded", icon="✨")
+st.toast("🚀 UI Core Fixed (v10.1 - Visibility Restore)", icon="✅")
 
 # --- 🎯 인공지능급 디자인 시스템 (Figma Style) ---
 st.markdown("""
@@ -72,10 +72,48 @@ st.markdown("""
     /* Typography Overhaul */
     h1, h2, h3 {
         font-family: 'Outfit', sans-serif !important;
-        background: linear-gradient(90deg, #FFFFFF 0%, #A0A0A0 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: white !important;
         letter-spacing: -1px;
+    }
+
+    /* 🔴 Mobile Sidebar Toggle - High Visibility Restore */
+    [data-testid="collapsedControl"], [data-testid="stSidebarCollapsedControl"] {
+        background-color: #FF4B4B !important;
+        border-radius: 0 12px 12px 0 !important;
+        width: 80px !important;
+        height: 48px !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        box-shadow: 5px 0 20px rgba(255, 75, 75, 0.5) !important;
+        transition: all 0.3s ease !important;
+    }
+
+    [data-testid="collapsedControl"]::after {
+        content: ">>>" !important;
+        color: white !important;
+        font-weight: 900 !important;
+        font-size: 20px !important;
+        letter-spacing: -2px !important;
+        margin-left: 5px !important;
+    }
+
+    [data-testid="collapsedControl"] svg {
+        fill: white !important;
+        width: 24px !important;
+        height: 24px !important;
+    }
+
+    /* ⚪ Fix Expander Header Visibility */
+    .stExpander details summary p {
+        color: white !important;
+        font-weight: 600 !important;
+    }
+    
+    .stExpander {
+        border: 1px solid var(--glass-border) !important;
+        background: rgba(255, 255, 255, 0.02) !important;
+        border-radius: 12px !important;
     }
 
     /* 💎 Premium Card System */
