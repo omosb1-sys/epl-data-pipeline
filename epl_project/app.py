@@ -87,22 +87,24 @@ st.markdown("""
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     
-    /* [TARGETED] 우측 툴바(GitHub 등) 숨기기 - 공간은 유지하되 안보이게 */
+    /* [TARGETED] 우측 툴바(GitHub 등) -> 투명화 전략 (레이아웃 유지) */
     [data-testid="stToolbar"] {
-        visibility: hidden !important;
-        height: 0px !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
     }
     
-    /* [CRITICAL] 헤더 전체는 보이게 해야 사이드바 버튼이 살아남음 */
+    /* [SAFEGUARD] 좌측 사이드바 버튼(화살표) -> 최상단 강제 노출 */
+    [data-testid="collapsedControl"] {
+        opacity: 1 !important;
+        display: block !important;
+        visibility: visible !important;
+        color: #FFFFFF !important;
+        z-index: 99999 !important; /* 다른 요소에 가려지지 않도록 */
+    }
+    
+    /* 헤더 배경 투명화 */
     [data-testid="stHeader"] {
         background-color: rgba(0,0,0,0) !important;
-        visibility: visible !important;
-    }
-    
-    /* [MOBILE] 사이드바 여닫기 버튼 강제 색상 지정 (배경이 어더워서 안보일 수 있음) */
-    [data-testid="collapsedControl"] {
-        color: #FFFFFF !important;
-        display: block !important;
     }
 </style>
 """, unsafe_allow_html=True)
