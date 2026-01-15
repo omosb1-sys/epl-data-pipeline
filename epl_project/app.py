@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 Sidebar Restored (v9.4 - Safe Mode)", icon="✅")
+st.toast("🚀 System Ready (v9.5 - Badge Hidden)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -93,6 +93,15 @@ st.markdown("""
     /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+    
+    /* [PRIVACY] 사이드바 하단 'Viewer Badge(프로필/이름)' 숨기기 */
+    /* class 이름에 'viewerBadge'가 포함된 모든 div를 숨김 (안전한 부분 매칭) */
+    div[class*="viewerBadge"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        height: 0 !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
