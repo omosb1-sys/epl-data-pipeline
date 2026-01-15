@@ -7,7 +7,9 @@
 - [x] TOON (Token-Oriented Object Notation) Optimization
 
 ## 📌 Phase 2: Advanced Visual & Data Enhancement (Active)
-- [ ] Figma-inspired Premium UI Components Implementation
+- [ ] Figma-inspired Premium UI Overhaul (Typography, Glassmorphism, Gradients)
+- [ ] Custom HTML/CSS Component Library (Cards, Charts, Headlines)
+- [ ] Responsive Layout Refinement for Mobile Manager View
 - [ ] In-depth Transfer Market Predictive Modeling
 - [ ] Interactive Match Commentary AI Scaling (Local Phi-3.5)
 

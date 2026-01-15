@@ -24,84 +24,130 @@ from ai_loader import get_ensemble_engine
 
 # --- 0. 기본 설정 ---
 st.set_page_config(
-    page_title="EPL-X Manager",
+    page_title="EPL-X Manager | AI Insights",
     page_icon="⚽",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 System Ready (v9.5 - Badge Hidden)", icon="✅")
+st.toast("🎨 Figma UI System v10.0 Loaded", icon="✨")
 
-# 다크 모드 스타일적용
+# --- 🎯 인공지능급 디자인 시스템 (Figma Style) ---
 st.markdown("""
 <style>
-    .stApp {
-        background-color: #0E1117;
-        color: #FAFAFA;
-    }
-    /* 로고가 어두운 배경에서 더 잘 보이도록 그림자 효과 추가 */
-    img {
-        filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.3));
-    }
-    .metric-card {
-        background-color: #262730;
-        padding: 15px;
-        border-radius: 10px;
-        border: 1px solid #4F4F4F;
-        margin-bottom: 10px;
-    }
-    
-    /* [SEO/UX] 사이드바 메뉴 스타일 강화 */
-    [data-testid="stSidebar"] [data-testid="stWidgetLabel"] p {
-        font-size: 22px !important;
-        font-weight: 900 !important;
-        color: #FFFFFF !important;
-        margin-bottom: 10px !important;
-        letter-spacing: -0.5px;
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;700&display=swap');
+
+    :root {
+        --primary-accent: #FF4B4B;
+        --glass-bg: rgba(255, 255, 255, 0.05);
+        --glass-border: rgba(255, 255, 255, 0.1);
+        --card-bg: linear-gradient(145deg, #1e1e26, #14141b);
+        --font-main: 'Inter', sans-serif;
     }
 
+    .stApp {
+        background: radial-gradient(circle at top right, #1a1c24, #0e1117);
+        font-family: var(--font-main);
+        color: #FAFAFA;
+    }
+
+    /* 🎨 Header Styling (Glassmorphism) */
+    header[data-testid="stHeader"] {
+        background-color: rgba(14, 17, 23, 0.7) !important;
+        backdrop-filter: blur(12px);
+        border-bottom: 1px solid var(--glass-border);
+    }
+
+    /* 🏟️ Sidebar Premium Styling */
+    [data-testid="stSidebar"] {
+        background-color: #0c0e14 !important;
+        border-right: 1px solid var(--glass-border);
+    }
+
+    [data-testid="stSidebarNav"] {
+        background-image: none !important;
+    }
+
+    /* Typography Overhaul */
+    h1, h2, h3 {
+        font-family: 'Outfit', sans-serif !important;
+        background: linear-gradient(90deg, #FFFFFF 0%, #A0A0A0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        letter-spacing: -1px;
+    }
+
+    /* 💎 Premium Card System */
+    .metric-card {
+        background: var(--card-bg);
+        padding: 24px;
+        border-radius: 20px;
+        border: 1px solid var(--glass-border);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .metric-card:hover {
+        transform: translateY(-8px);
+        border-color: var(--primary-accent);
+        box-shadow: 0 15px 40px rgba(255, 75, 75, 0.1);
+    }
+
+    /* 📱 Sidebar Menu (Manager View) */
     [data-testid="stSidebar"] div[role="radiogroup"] label {
-        padding: 12px 15px !important;
-        border-radius: 12px !important;
-        background-color: rgba(255,255,255,0.03) !important;
-        margin-bottom: 8px !important;
-        transition: all 0.2s ease-in-out !important;
-        border: 1px solid rgba(255,255,255,0.05) !important;
+        padding: 14px 20px !important;
+        border-radius: 16px !important;
+        background: rgba(255, 255, 255, 0.02) !important;
+        border: 1px solid transparent !important;
+        margin-bottom: 10px !important;
+        transition: all 0.3s ease !important;
     }
 
     [data-testid="stSidebar"] div[role="radiogroup"] label:hover {
-        background-color: rgba(255,255,255,0.08) !important;
-        transform: translateX(5px);
-        border: 1px solid rgba(255,255,255,0.15) !important;
+        background: rgba(255, 75, 75, 0.05) !important;
+        border-color: rgba(255, 75, 75, 0.2) !important;
+        cursor: pointer;
     }
 
-    /* 선택된 아이템 강조 */
-    [data-testid="stSidebar"] div[role="radiogroup"] label[data-baseweb="radio"] div:first-child {
-        border-color: #FF4B4B !important;
+    [data-baseweb="radio"] div:first-child {
+        display: none !important; /* Hide default radio circles */
+    }
+
+    /* Selected State Glow */
+    [data-testid="stSidebar"] div[role="radiogroup"] label[data-checked="true"] {
+        background: linear-gradient(90deg, rgba(255,75,75,0.15), transparent) !important;
+        border-left: 4px solid var(--primary-accent) !important;
+    }
+
+    /* 📸 Image Enhancement */
+    img {
+        border-radius: 16px;
+        filter: drop-shadow(0 10px 20px rgba(0,0,0,0.5));
+        transition: filter 0.3s;
     }
     
-    [data-testid="stSidebar"] div[role="radiogroup"] label p {
-        font-size: 17px !important;
-        font-weight: 600 !important;
-        color: #E0E0E0 !important;
+    img:hover {
+        filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.2));
     }
-    
-    /* [ROLLBACK] 기본 메뉴/풋터만 숨기고 헤더 구조는 건드리지 않음 (모바일 호환성 최우선) */
+
+    /* 🛠️ Compact Automation Log */
+    .auto-log {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 11px;
+        background: rgba(0,0,0,0.2);
+        border-left: 2px solid #21c354;
+        margin: 4px 0;
+        padding: 8px;
+    }
+
+    /* Hidden Streamlit UI */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    
-    /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    
-    /* [PRIVACY] 사이드바 하단 'Viewer Badge(프로필/이름)' 숨기기 */
-    /* class 이름에 'viewerBadge'가 포함된 모든 div를 숨김 (안전한 부분 매칭) */
-    div[class*="viewerBadge"] {
-        display: none !important;
-        visibility: hidden !important;
-        opacity: 0 !important;
-        height: 0 !important;
-    }
+    [data-testid="stToolbar"] {display: none !important;}
+
+    /* 🕶️ Privacy & Clean UI */
+    div[class*="viewerBadge"] { display: none !important; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -311,21 +357,7 @@ with st.sidebar:
         if res['updates']:
             with st.expander("🤖 자동 데이터 보충 결과", expanded=True):
                 for up in res['updates']:
-                    # Compact custom success message (Small font)
-                    st.markdown(f"""
-                    <div style="
-                        padding: 6px 10px;
-                        border-radius: 6px;
-                        background-color: rgba(33, 195, 84, 0.15); /* Subtle Green */
-                        border: 1px solid rgba(33, 195, 84, 0.3);
-                        margin-bottom: 5px;
-                        display: flex;
-                        align-items: start;
-                    ">
-                        <div style="font-size: 14px; margin-right: 8px;">✅</div>
-                        <div style="font-size: 11px; color: #e0e0e0; line-height: 1.3;">{up}</div>
-                    </div>
-                    """, unsafe_allow_html=True)
+                    st.markdown(f'<div class="auto-log">{up}</div>', unsafe_allow_html=True)
                     
         # 2. 최신 뉴스 헤드라인 (사이드바)
         with st.expander("🌍 최신 EPL 헤드라인", expanded=False):
@@ -354,11 +386,26 @@ if menu == "📊 실시간 대시보드":
         # [1] 상단 핵심 지표
         col1, col2, col3 = st.columns(3)
         with col1:
-            st.metric("타겟 구단", selected_team)
+            st.markdown(f"""
+            <div class="metric-card">
+                <p style="font-size:14px; color:#A0A0A0; margin-bottom:4px;">TARGET CLUB</p>
+                <h2 style="margin:0; font-size:28px; background:white; -webkit-background-clip:text; -webkit-text-fill-color:transparent;">{selected_team}</h2>
+            </div>
+            """, unsafe_allow_html=True)
         with col2:
-            st.metric("현재 감독", current_team_info['manager_name'])
+            st.markdown(f"""
+            <div class="metric-card">
+                <p style="font-size:14px; color:#A0A0A0; margin-bottom:4px;">CURRENT MANAGER</p>
+                <h2 style="margin:0; font-size:28px; color:white; -webkit-text-fill-color:white;">{current_team_info['manager_name']}</h2>
+            </div>
+            """, unsafe_allow_html=True)
         with col3:
-            st.metric("AI 전력 지수", f"{current_team_info['power_index']}/100")
+             st.markdown(f"""
+            <div class="metric-card">
+                <p style="font-size:14px; color:#A0A0A0; margin-bottom:4px;">AI POWER INDEX</p>
+                <h2 style="margin:0; font-size:28px; color:#FF4B4B; -webkit-text-fill-color:#FF4B4B;">{current_team_info['power_index']}/100</h2>
+            </div>
+            """, unsafe_allow_html=True)
         
         st.divider()
         
@@ -646,9 +693,19 @@ elif menu == "🧠 AI 승부 예측":
                 dt_utc = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
             dt_kr = dt_utc + timedelta(hours=9)
             st.markdown(f"""
-            <div style="background-color:rgba(30,136,229,0.1); padding:10px; border-radius:10px; text-align:center; border: 1px solid rgba(30,136,229,0.3); margin-bottom:20px;">
-                <span style="font-size:0.9em; color:#90CAF9;">📅 예정 대진 시간 (Official Fixture)</span><br>
-                <b style="font-size:1.1em;">영국(GMT): {dt_utc.strftime('%Y-%m-%d %H:%M')}</b> | <b style="font-size:1.1em; color:#FFCA28;">한국(KST): {dt_kr.strftime('%Y-%m-%d %H:%M')}</b>
+            <div class="metric-card" style="text-align:center; border-color:rgba(30,136,229,0.3); margin-bottom:24px;">
+                <p style="font-size:12px; color:#90CAF9; margin-bottom:8px; font-weight:600; letter-spacing:1px;">OFFICIAL FIXTURE SCHEDULE</p>
+                <div style="display:flex; justify-content:center; gap:20px; align-items:center;">
+                    <div>
+                        <p style="font-size:11px; color:#A0A0A0; margin:0;">GMT (UK)</p>
+                        <h3 style="margin:0; font-size:18px; color:white;">{dt_utc.strftime('%Y-%m-%d %H:%M')}</h3>
+                    </div>
+                    <div style="width:1px; height:30px; background:rgba(255,255,255,0.1);"></div>
+                    <div>
+                        <p style="font-size:11px; color:#FFCA28; margin:0;">KST (KOREA)</p>
+                        <h3 style="margin:0; font-size:18px; color:#FFCA28;">{dt_kr.strftime('%Y-%m-%d %H:%M')}</h3>
+                    </div>
+                </div>
             </div>
             """, unsafe_allow_html=True)
         except: pass
