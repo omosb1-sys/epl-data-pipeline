@@ -83,30 +83,17 @@ st.markdown("""
         color: #E0E0E0 !important;
     }
     
-    /* [RESET] 헤더 기능 복구 (사이드바 버튼 살리기) */
-    header {visibility: visible !important;}
-    [data-testid="stHeader"] {
-        visibility: visible !important;
-        background-color: transparent !important;
-        z-index: 1 !important;
-    }
-    
-    /* [SECURITY] 풋터 및 우측 상단 메뉴 숨기기 */
+    /* [ROLLBACK] 기본 메뉴/풋터만 숨기고 헤더 구조는 건드리지 않음 (모바일 호환성 최우선) */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     
-    /* [SAFE HIDE] 우측 툴바(GitHub 등)를 화면 밖으로 밀어버리기 전략 */
-    /* display: none이나 visibility: hidden을 쓰면 레이아웃이 깨져서 버튼이 사라짐 */
+    /* 
+       [알림] GitHub 아이콘 숨기는 것이 모바일 사이드바 버튼까지 깨뜨리는 현상 발생.
+       따라서 우선순위를 '앱 사용성(사이드바)'에 두고 툴바 숨김 코드는 제거함.
+       대신 툴바의 배경을 투명하게 해서 눈에 덜 띄게 만듦.
+    */
     [data-testid="stToolbar"] {
-        position: fixed; 
-        top: 0px;
-        right: 100vw; /* 화면 왼쪽 끝으로 날려버림 */
-    }
-    
-    /* [MOBILE] 사이드바 여닫기 버튼(화살표) 스타일 강제 적용 */
-    [data-testid="collapsedControl"] {
-        display: block !important;
-        color: #FFFFFF !important;
+        right: 2rem;
     }
 </style>
 """, unsafe_allow_html=True)
