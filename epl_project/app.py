@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 시스템 업데이트 완료: Red Double Arrow (v7.0)", icon="✅")
+st.toast("🚀 시스템 업데이트 완료: Reset to Default v8.0 (Shotgun Patch)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -94,33 +94,51 @@ st.markdown("""
     #MainMenu {visibility: hidden;} /* 햄버거 메뉴 숨김 */
     footer {visibility: hidden;}    /* 풋터 숨김 */
     
-    /* [VISUAL] 사이드바 버튼(화살표) '찐하게' + '하나 더(더블 화살표)' 만들기 */
-    [data-testid="collapsedControl"] {
-        border: 2px solid rgba(255,255,255,0.5) !important; /* 테두리로 찐하게 */
-        border-radius: 5px !important;
-        background-color: rgba(255, 75, 75, 0.8) !important; /* 붉은 배경으로 강조 */
-        color: white !important;
+    /* [SHOTGUN FIX] 가능한 모든 선택자를 다 동원하여 타겟팅 (하나라도 걸려라) */
+    [data-testid="collapsedControl"], 
+    [data-testid="stSidebarCollapsedControl"],
+    button[kind="header"],
+    header button[title="View sidebar"],
+    header > div:first-of-type button {
+        /* 강제 스타일링 */
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
         
-        /* 크기 살짝 키움 */
-        width: 40px !important; 
-        height: 40px !important;
+        /* 눈에 확 띄게 만들기 */
+        border: 2px solid white !important;
+        background-color: #FF4B4B !important; /* 빨간색 */
+        border-radius: 8px !important;
+        width: 50px !important;
+        height: 50px !important;
+        
+        /* 위치 보정 (필요시) */
+        margin-left: 0px !important; 
+        z-index: 999999 !important;
     }
     
-    /* 기존 화살표 아이콘(SVG) 두께 강화 */
-    [data-testid="collapsedControl"] svg {
-        stroke-width: 3px !important; /* 선 두께 강화 */
+    /* 아이콘 색상 변경 */
+    [data-testid="collapsedControl"] svg, 
+    [data-testid="stSidebarCollapsedControl"] svg,
+    header button svg {
+        fill: white !important;
         stroke: white !important;
+        stroke-width: 2px !important;
+        width: 30px !important;
+        height: 30px !important;
     }
     
-    /* [REQUEST] 화살표 하나 더 추가 (::after 가상요소 활용) */
-    [data-testid="collapsedControl"]::after {
-        content: "▶"; /* 화살표 하나 더 추가 */
-        font-size: 14px;
+    /* 더블 화살표 및 TEXT 추가 */
+    [data-testid="collapsedControl"]::after,
+    [data-testid="stSidebarCollapsedControl"]::after,
+    header button[title="View sidebar"]::after {
+        content: "MENU >>";
+        display: block;
         color: white;
-        position: absolute;
-        right: 2px;
-        top: 8px; /* 위치 조정 */
-        font-weight: 900; /* 찐하게 */
+        font-size: 8px;
+        font-weight: 900;
+        text-align: center;
+        margin-top: -2px;
     }
 </style>
 """, unsafe_allow_html=True)
