@@ -76,16 +76,52 @@ st.markdown("""
         letter-spacing: -1px;
     }
 
-    /* 📱 COMMON SIDEBAR MENU TEXT VISIBILITY (Web & Mobile) */
+    /* 🔴 Mobile & Desktop Sidebar Toggle - HIGH VISIBILITY RESTORE */
+    [data-testid="collapsedControl"], 
+    [data-testid="stSidebarCollapsedControl"],
+    header button:first-child {
+        display: flex !important;
+        visibility: visible !important;
+        background-color: #FF4B4B !important;
+        border-radius: 0 16px 16px 0 !important;
+        width: 100px !important;
+        height: 56px !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        z-index: 9999!important;
+        justify-content: center !important;
+        align-items: center !important;
+        box-shadow: 10px 0 30px rgba(255, 75, 75, 0.5) !important;
+        border: none !important;
+    }
+
+    [data-testid="collapsedControl"]::after,
+    header button:first-child::after {
+        content: ">>>" !important;
+        color: white !important;
+        font-weight: 900 !important;
+        font-size: 22px !important;
+        margin-left: 10px !important;
+    }
+
+    [data-testid="collapsedControl"] svg {
+        fill: white !important;
+        width: 28px !important;
+        height: 28px !important;
+    }
+
+    /* 📱 SIDEBAR MENU TEXT VISIBILITY (Universal) */
     [data-testid="stSidebar"] div[role="radiogroup"] label {
         padding: 16px 20px !important;
         border-radius: 16px !important;
-        background: rgba(255, 255, 255, 0.05) !important;
-        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        background: rgba(255, 255, 255, 0.08) !important;
+        border: 1px solid rgba(255, 255, 255, 0.15) !important;
         margin-bottom: 12px !important;
         transition: all 0.3s ease !important;
     }
 
+    /* 🔥 STUBBORN TEXT COLOR FIX */
     [data-testid="stSidebar"] div[role="radiogroup"] label * {
         color: white !important;
         font-weight: 700 !important;
@@ -93,60 +129,8 @@ st.markdown("""
         opacity: 1 !important;
     }
 
-    /* 📱 MOBILE ONLY DESIGN (< 768px) */
-    @media (max-width: 768px) {
-        /* 🔴 Mobile Sidebar Toggle - EMERGENCY RESTORE */
-        [data-testid="collapsedControl"], 
-        [data-testid="stSidebarCollapsedControl"],
-        header button:first-child {
-            display: flex !important;
-            visibility: visible !important;
-            background-color: #FF4B4B !important;
-            border-radius: 0 16px 16px 0 !important;
-            width: 100px !important;
-            height: 56px !important;
-            position: fixed !important;
-            top: 0 !important;
-            left: 0 !important;
-            z-index: 9999999 !important;
-            justify-content: center !important;
-            align-items: center !important;
-            box-shadow: 10px 0 30px rgba(255, 75, 75, 0.5) !important;
-        }
-
-        [data-testid="collapsedControl"]::after,
-        header button:first-child::after {
-            content: ">>>" !important;
-            color: white !important;
-            font-weight: 900 !important;
-            font-size: 22px !important;
-            margin-left: 10px !important;
-        }
-
-        [data-testid="collapsedControl"] svg {
-            fill: white !important;
-            width: 28px !important;
-            height: 28px !important;
-        }
-    }
-
-    /* 💻 DESKTOP ONLY DESIGN (> 768px) */
-    @media (min-width: 769px) {
-        /* Ensure normal header on desktop */
-        header[data-testid="stHeader"] {
-            display: flex !important;
-        }
-        /* Hide the fixed custom toggle on desktop if it's not needed */
-        [data-testid="collapsedControl"] {
-            position: relative !important;
-            background-color: transparent !important;
-            box-shadow: none !important;
-            width: auto !important;
-        }
-    }
-
     [data-testid="stSidebar"] div[role="radiogroup"] label:hover {
-        background: rgba(255, 75, 75, 0.15) !important;
+        background: rgba(255, 75, 75, 0.2) !important;
         border-color: rgba(255, 75, 75, 0.4) !important;
     }
 
@@ -156,7 +140,7 @@ st.markdown("""
 
     /* Selected State Glow */
     [data-testid="stSidebar"] div[role="radiogroup"] label[data-checked="true"] {
-        background: linear-gradient(90deg, rgba(255,75,75,0.25), transparent) !important;
+        background: linear-gradient(90deg, rgba(255,75,75,0.3), transparent) !important;
         border-left: 6px solid var(--primary-accent) !important;
         border-color: rgba(255, 75, 75, 0.5) !important;
     }
