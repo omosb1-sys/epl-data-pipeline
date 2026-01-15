@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 시스템 업데이트 완료: Red Menu Patch v4.0 (Stable)", icon="✅")
+st.toast("🚀 시스템 업데이트 완료: Red Menu Patch v5.0 (Layout Recovery)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -90,64 +90,59 @@ st.markdown("""
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     
-    /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
+    /* [RESET] 헤더 및 레이아웃 복구 (최우선 순위: 버튼 살리기) */
+    header {visibility: visible !important;}
+    
+    /* [SECURITY] 풋터 및 우측 상단 메뉴 숨기기 */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     
-    /* [TARGETED] 우측 툴바(GitHub 등) 화면 밖으로 치워버리기 */
-    /* display:none 을 쓰면 모단 레이아웃이 깨지므로 위치만 이동 */
+    /* [SAFE HIDE] 툴바를 물리적으로 제거하지 않고 투명하게만 만듦 (레이아웃 보존) */
     [data-testid="stToolbar"] {
-        position: fixed;
-        right: 500vw; /* 화면 밖으로 멀리 보냄 */
+        opacity: 0 !important;
+        pointer-events: none !important; /* 클릭 방지 */
     }
     
-    /* [UX UPGRADE] 사이드바 토글 버튼 전용 스타일링 (중복 방지) */
-    [data-testid="collapsedControl"], [data-testid="stSidebarCollapsedControl"] {
+    /* [BIG RED BUTTON] 사이드바 토글 버튼 스타일링 */
+    [data-testid="collapsedControl"] {
         display: block !important;
         visibility: visible !important;
+        opacity: 1 !important; /* 투명화 상속 방지 */
         
-        /* 위치 강제 고정 및 최상단 배치 */
+        /* 위치 및 크기 */
         position: fixed !important;
-        top: 10px !important;
-        left: 10px !important;
-        z-index: 99999999 !important;
+        top: 15px !important;
+        left: 15px !important;
+        width: 50px !important;
+        height: 50px !important;
         
-        /* 터치 반응 활성화 */
-        pointer-events: auto !important;
-        cursor: pointer !important;
-        
-        /* 크기 및 스타일 */
-        width: 60px !important;
-        height: 60px !important;
+        /* 디자인: 빨간 박스 */
         background-color: #FF4B4B !important;
         border: 2px solid white !important;
-        border-radius: 12px !important;
+        border-radius: 10px !important;
         box-shadow: 0 4px 6px rgba(0,0,0,0.3) !important;
+        z-index: 999999 !important;
         
-        /* 기존 스타일 덮어쓰기 */
-        transform: none !important;
+        /* 포인터 이벤트 복구 */
+        pointer-events: auto !important;
     }
     
-    /* 아이콘(SVG) 크기 확대 */
-    [data-testid="collapsedControl"] svg, [data-testid="stSidebarCollapsedControl"] svg {
-        width: 32px !important;
-        height: 32px !important;
+    /* 아이콘 색상 및 크기 */
+    [data-testid="collapsedControl"] svg {
+        width: 30px !important;
+        height: 30px !important;
         fill: white !important;
     }
     
-    /* MENU 텍스트 라벨 */
-    [data-testid="collapsedControl"]::after, [data-testid="stSidebarCollapsedControl"]::after {
+    /* MENU 텍스트 */
+    [data-testid="collapsedControl"]::after {
         content: "MENU";
         display: block;
-        position: absolute;
-        bottom: 4px;
-        left: 0;
-        width: 100%;
         color: white;
         font-size: 10px;
         font-weight: 900;
         text-align: center;
-        line-height: 1;
+        margin-top: -2px;
     }
 </style>
 """, unsafe_allow_html=True)
