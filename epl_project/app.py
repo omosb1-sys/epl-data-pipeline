@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 시스템 업데이트 완료: Reset to Default v9.0 (Final Visual)", icon="✅")
+st.toast("🚀 System Restored to Default (Safe Mode)", icon="✅")
 
 # 다크 모드 스타일적용
 st.markdown("""
@@ -93,60 +93,6 @@ st.markdown("""
     /* [SECURITY] Streamlit 기본 메뉴 및 풋터 숨기기 */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-
-    /* [CLEANUP] 우측 툴바(Fork, GitHub 등) 완전 제거 */
-    /* 좌측 버튼을 fixed로 고정했으므로 layout 붕괴 걱정 없이 display: none 가능 */
-    [data-testid="stToolbar"] {
-        display: none !important;
-    }
-    
-    /* [TARGETED] 오직 '좌측 사이드바 토글'만 타겟팅 (우측 버튼 오작동 방지) */
-    [data-testid="collapsedControl"], 
-    [data-testid="stSidebarCollapsedControl"] {
-        /* 필수: 화면에 강제로 띄우기 */
-        display: block !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        
-        /* 위치 강제 고정 (헤더 레이아웃 탈출) */
-        position: fixed !important;
-        top: 10px !important;
-        left: 10px !important;
-        z-index: 99999999 !important;
-        
-        /* 스타일: 빨간 박스 디자인 */
-        background-color: #FF4B4B !important;
-        border: 2px solid white !important;
-        border-radius: 8px !important;
-        width: 50px !important;
-        height: 50px !important;
-        box-shadow: 2px 2px 5px rgba(0,0,0,0.5) !important;
-        
-        /* 마우스 커서 */
-        cursor: pointer !important;
-    }
-    
-    /* 아이콘(SVG) 스타일 */
-    [data-testid="collapsedControl"] svg, 
-    [data-testid="stSidebarCollapsedControl"] svg {
-        fill: white !important;
-        stroke: white !important;
-        width: 28px !important;
-        height: 28px !important;
-    }
-    
-    /* [LABEL] MENU 텍스트 추가 */
-    [data-testid="collapsedControl"]::after,
-    [data-testid="stSidebarCollapsedControl"]::after {
-        content: "MENU";
-        display: block;
-        color: white;
-        font-size: 9px;
-        font-weight: 900;
-        text-align: center;
-        margin-top: -2px;
-        text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
-    }
 </style>
 """, unsafe_allow_html=True)
 
