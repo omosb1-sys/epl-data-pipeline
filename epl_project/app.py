@@ -97,27 +97,48 @@ st.markdown("""
     }
 
     /* [UX UPGRADE] 모바일 사이드바 버튼(햄버거) 대폭 확대 및 텍스트 추가 */
-    [data-testid="collapsedControl"] {
-        transform: scale(2.0) !important; /* 크기 2배 확대 */
-        left: 0.5rem !important;
-        top: 0.5rem !important;
-        color: #FFFFFF !important;
-        background: rgba(40, 40, 50, 0.9); /* 배경색 추가로 터치 영역 확보 */
-        border-radius: 8px;
-        padding: 5px;
-        border: 2px solid rgba(255,100,100,0.5); /* 붉은색 테두리로 강조 */
-        z-index: 100000 !important;
+    /* [UX UPGRADE] 모바일 사이드바 버튼(햄버거) 초강력 스타일링 */
+    [data-testid="collapsedControl"], [data-testid="stSidebarCollapsedControl"] {
+        display: block !important;
+        visibility: visible !important;
+        position: fixed !important; /* 헤더 레이아웃 무시하고 고정 */
+        top: 10px !important;
+        left: 10px !important;
+        
+        transform: scale(1.8) !important; 
+        transform-origin: top left !important;
+        
+        background-color: rgba(255, 75, 75, 0.9) !important; /* 붉은 배경으로 확실하게 */
+        border: 2px solid white !important;
+        border-radius: 8px !important;
+        
+        z-index: 9999999 !important; /* 무조건 맨 위 */
+        
+        /* 터치 영역 확보 */
+        width: 40px !important;
+        height: 40px !important;
+        padding: 5px !important;
+    }
+    
+    /* 아이콘 색상 강제 */
+    [data-testid="collapsedControl"] svg, [data-testid="stSidebarCollapsedControl"] svg {
+        fill: white !important;
+        stroke: white !important;
     }
 
-    /* "MENU" 텍스트 라벨 추가 (가상 요소 활용) */
-    [data-testid="collapsedControl"]::after {
+    /* "MENU" 텍스트 라벨 추가 (버튼 내부 하단) */
+    [data-testid="collapsedControl"]::after, [data-testid="stSidebarCollapsedControl"]::after {
         content: "MENU";
         display: block;
-        font-size: 7px; /* scale 적용되므로 실제론 14px 효과 */
+        position: absolute;
+        bottom: 2px;
+        left: 0;
+        width: 100%;
+        font-size: 8px; /* scale 적용되므로 실제론 14~15px */
         font-weight: 900;
-        color: #FF4B4B; /* 강조색 (Streamlit Red) */
+        color: white; 
         text-align: center;
-        margin-top: 2px;
+        text-shadow: 1px 1px 2px black;
     }
 </style>
 """, unsafe_allow_html=True)
