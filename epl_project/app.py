@@ -31,7 +31,7 @@ st.set_page_config(
 )
 
 # [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🚀 UI Core Fixed (v10.1 - Visibility Restore)", icon="✅")
+st.toast("🚨 Mobile Toggle Resurrected (v10.3 - Fixed Position)", icon="🔥")
 
 # --- 🎯 인공지능급 디자인 시스템 (Figma Style) ---
 st.markdown("""
@@ -76,32 +76,37 @@ st.markdown("""
         letter-spacing: -1px;
     }
 
-    /* 🔴 Mobile Sidebar Toggle - High Visibility Restore */
+    /* 🔴 Mobile Sidebar Toggle - ULTRA VISIBILITY RESTORE */
     [data-testid="collapsedControl"], [data-testid="stSidebarCollapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
         background-color: #FF4B4B !important;
         border-radius: 0 12px 12px 0 !important;
-        width: 80px !important;
-        height: 48px !important;
-        display: flex !important;
+        width: 100px !important;
+        height: 60px !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        z-index: 999999 !important;
         justify-content: center !important;
         align-items: center !important;
-        box-shadow: 5px 0 20px rgba(255, 75, 75, 0.5) !important;
-        transition: all 0.3s ease !important;
+        box-shadow: 10px 0 30px rgba(255, 75, 75, 0.6) !important;
+        cursor: pointer !important;
     }
 
     [data-testid="collapsedControl"]::after {
         content: ">>>" !important;
         color: white !important;
         font-weight: 900 !important;
-        font-size: 20px !important;
-        letter-spacing: -2px !important;
-        margin-left: 5px !important;
+        font-size: 24px !important;
+        letter-spacing: -1px !important;
+        margin-left: 10px !important;
     }
 
     [data-testid="collapsedControl"] svg {
         fill: white !important;
-        width: 24px !important;
-        height: 24px !important;
+        width: 32px !important;
+        height: 32px !important;
     }
 
     /* ⚪ Fix Expander Header Visibility */
