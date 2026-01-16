@@ -1,19 +1,14 @@
 {
-    "timestamp": "2026-01-16 00:53:18",
+    "timestamp": "2026-01-16 02:53:36",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Leeds United vs Fulham: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nMWdYQkdNcjVtem1Ya0syekdXMk1iZ0FveGRPYzAwc25kUFJRbkk1M1ZHWDhqM19FWUpmSzZMMnNHdUJwZXlmdWgtbDlDUUc2aUR0cm1JdWdYRkNOdTRFQnNOM2g?oc=5"
-        },
-        {
-            "source": "Leeds Live",
-            "title": "Leeds United set to sign Premier League attacker with agreement reached - Leeds Live",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTBseHNNcDI3TmZkdE5TUUstaDU4Nk44b08zNjdTMHgwVmp2OURabEFUbTZKdEVMU1dyZHQ5Skh4blkzN3hZTEo4Qjl4TzlCT0VlQWRUa0lZb3ZzOUNxQV9lU2QxM011dzltV1lEVWpPdHZJeXJqVnY2dUlDVHRCMW10azVSNWU1bF9Wd2J0VHRydEluUmo40gGcAUFVX3lxTE53RGlHLVMzU2Z5M3RyUm13UnV0Qk8zVmY4blhkWUlNdlMtdGRmcDJZT1BEZUM4bjFVN0JIVjdtTVF1V1dBOEhoTzZsaElUTzc4RFNhWWR3U2ItSnV0M1pwOFJfMWhIN08za0RCWFhjdGxnc2ZBejk2NVhmM1U4cWlkYS1MYUpRTEF3V0NUb0lidmprdTgwLWJ6QXUxWg?oc=5"
+            "source": "The Guardian",
+            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1hPUXowdXNwYXhQWnBUc1JmWDFhTW10ZzFGR2s2SnhlWWdfVjFSbFI2TDZhemNBWl80dnJXR1NWSHBCdm5sb25kWlZMQUpfT3NNOE1jRHNvdmhkaE4wRkI1dncyTXhRTDNPdGtsSUZ5dFhNS2ZCdDl6bC1BX29STXA5WDktRnlIODUxSU5tVnlZTHFWaFNyYnlQa015LXhuZDdDXw?oc=5"
         },
         {
             "source": "BBC",
@@ -21,29 +16,34 @@
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zdXRVOE5RUWRBMUpzOXROVUdyUDZMem5SVGdycmFHWGo4WjRjV2g0cDB1VEJHY1M0eEVfVV9fNno3SHZWUGNXajY0bXcwMmJ0VGJZdl9aRHFpbUVzNkRVSExBZ0g?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Premier League: What does xG predict for the rest of the season? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Dal9peHBxNDUtcUs3NXRKTE9MNmI2dEhKTHZRX2RiMDVQSGtYV2RvQ2k3WXhYN0RPLXprU291TXVqd3poZ0g2R18zNHFFZjF6bXFDQXdKcVROZVpiWkE2RnBMXzQ0UEU?oc=5"
+            "source": "Sports Mole",
+            "title": "Preview: Leeds United vs Fulham - prediction, team news, lineups - Sports Mole",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDJUb3UzUDZWcnVldHhuY25qMmZtaWUwR2RTcG1USnQ4YmhjWWFQcVRSUUJXNGk3XzhCai0zS2huTGtKSFlVc2JreWFidEtOMHI4Sk4xcEMyTGdTaFA4V3FQU2hGeDUzVTk2Mm5mYkVsU0FMRm5Kdk5DcHI0UlQtZE8tWDRIa3NhdnFGOWVudFBkTlRYc0lCZXNRYW4zc3RiTl9yUzhBUGhPVnZxMEpybHBFNFRwMDNNNF90U3VLZGNPMG1YZ2xLcFNhaXlnQQ?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1hPUXowdXNwYXhQWnBUc1JmWDFhTW10ZzFGR2s2SnhlWWdfVjFSbFI2TDZhemNBWl80dnJXR1NWSHBCdm5sb25kWlZMQUpfT3NNOE1jRHNvdmhkaE4wRkI1dncyTXhRTDNPdGtsSUZ5dFhNS2ZCdDl6bC1BX29STXA5WDktRnlIODUxSU5tVnlZTHFWaFNyYnlQa015LXhuZDdDXw?oc=5"
+            "source": "Daily Star",
+            "title": "Leeds United 'set to sign attacker' from bitter Premier League rivals - Daily Star",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaklRSjg2bW5UZnAwenJnZWpqZ0IxUm5TX2pDdWV6MzhyYUM0dWNpaWsxRTBKZ0RLMU1jb2d1dUNId1NTekJKdHFoNERNTl82YmIwNzVQeWZWRlFQMDFPdDRYaFMwSmF4b2lNTDZCQXlSOGNrU181X1UyTjhXeEpqREVWVnpTdlhQOFphYTN6ZndGTk5Q?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: Destruction derby? Manchester City set to smash Manchester United - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMmxJRXlsX2FtZzdwblhoZTlMWnlkMVJfNWp6SFFtZC1TbGxaN3VIdzBJWUtZUlF3UkVoOVBEeFNrVmdkeGdGeEZabWd4MFNzWEt6MzBmT1FnVmllYlZQMUc3dEFSWEJkVmduSnM4VkI4LVVIeldWYXczTW1DbzU0QWhOODhubnY0Qy1KMTFjZUhoVlZNZU0tSHNwekVZUjNWUEJxWVpmNEJvZFozWVgzdXBoMGQ0R0p3MUlTSmpSVjZTY3FZWGFlUzluOTFpNkNvV24xeGl1NXhPcWNWRnJoVjcwWG95aTRDZ0hwR0tmc3hqUQ?oc=5"
+            "title": "Nathan Aspinall: I found out about Premier League Darts snub via text sat next to Stephen Bunting - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM2NhamV2OThQMXlJS05ZanVZenFXTG5RREVBWkpKSktUZHdwSVhoTnlyX2dvWUpPRlAxdjlfbHB3UE5PdHh2a1RycTdoVkhxZTBocFYwNmNGSjc4NmJhcmd2NXJfM2ZyVk12NVJZUk5YQ0JlMFVxOTR6cGtkbjFfWU5nem9NbW5xNWQyRHlzYk1PVFhNLWxYNmZMNDJCSWtCa0xmRzBxemdrQjdteWhEOE5TVV9IamlqSVhMTVotd1dqc1hxZU5Zd3oyWlRDa3BGS1U4S2I4REJrUkxNbEN6bEpn?oc=5"
+        },
+        {
+            "source": "Sports Mole",
+            "title": "Manchester United transfer news: Premier League defender eyed as 'Harry Maguire replacement' but deal doubts emerge - Sports Mole",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3VXaDc4bklza2ZQSmczV1ZxU2ZvZ0t3ZkI5bzRvZFdxVUlSVDhnYkFjM0tLRTZKUVc3cXZvM21HLUNrQ2NLOTE2TXVtSzkzcFJGZ0FsbzN6M011N014NHBVTm1RODh6cGFkN1BWd1BhcVJOd3YwWVRBR3B3dXNSQm5ETVRINmNZaDhMb2tHRXlCMU5CR1JWQ1I5QUU0dmVia2pucHFDVDBrZGpHaE9jWjFhQjVWQUJDTDF3SE1ZZWlwOThjY3pDbDhqdjNKeDNHZUJ4UlJDQndZempMX0JV?oc=5"
+        },
+        {
+            "source": "FourFourTwo",
+            "title": "Is Reece James injured? Premier League injury update on Chelsea full-back - FourFourTwo",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFRIbDdrcEg4a1ZqS1ljSVJpb1MwNnBpVkZNTk1SU3FJTVBJZmtVdktpWGRINWZTUnNJNk9QQUMxUmMzS1p2ek4tdGx1S096NnJSdzhNQy1mYjg1dEtVU3hBTGxya2Q3RHZhLU55NzQwUFpwZG5xMGhzdFNtVnNUMGhrbXVvR3JDaXF3U0ZvREdoay14TmVmcmNtS0xvOE5JR0RxRDduc1NNUmM?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Manchester United vs Manchester City: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUVIzWkRhRWdjV3dTNXgwR3E2OEMzeWZ2QVN3NEJodUd4eGtLREVmSU52MzM0cWhNZk92cURVZC1NLUl4VnV4a0hQdm1kekh6Q2xWWVhEZHJwbkd5czBCNjJBNHg?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "VAR controversy: Offside or not? Manchester City and Arsenal goal incidents in the spotlight - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RYndmRVFQRjk0X0NMa2ZWRzlCNnhnTU9hZDlTNHh5d1RmQ3Jmb0VFUUhoTXl0N0NWQjd4VVVQaUxNZU5WcWxhTXA4RkdLQjQ5QUl4d0lBZU81cWZZc2tqbjJrUlJKWFU?oc=5"
+            "title": "Chelsea vs Brentford: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90cDVBb0dKSUVrNjctMGU4MVFnbVVrWUJHa09tU3RwX25tQVNKdU9uTmxUa01vTFJqNWk5empWVndkY0psX3pYbXQwTUV4NjZtbkZ3Qk56eEZRRDlNWURjUkVB?oc=5"
         },
         {
             "source": "LiverpoolWorld",
@@ -127,13 +127,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
+            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWszOURJWHRoOFY4UFZna1Z0OUhOYTBWaFVoSjFOM2lBV1h3ajVqT2ZxQm1BeWVZTm9fYVkxXy15eTgtQnFXbkZNODBWcjBtT0xIMVUwcVU2cURyZ3RwWmxwdDAzM1MxX1FuRnJpYTBJbHBpeWNYZzRVVzY3RnV1N0t2R0JiQWRPbWstTGdDQTU5bnczLXdPZDd6alhpbTdjWnFjX2NIZWhCcVEyV2dPS3RjY0d2VGRLT0swaE1PUkV2YnRoWERtUHpOM2xoX19wY2U0ZjVEVVowRHB1QjlEallTQjN6bVVrLTFmNW56MG5VdTNL?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -142,8 +142,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWszOURJWHRoOFY4UFZna1Z0OUhOYTBWaFVoSjFOM2lBV1h3ajVqT2ZxQm1BeWVZTm9fYVkxXy15eTgtQnFXbkZNODBWcjBtT0xIMVUwcVU2cURyZ3RwWmxwdDAzM1MxX1FuRnJpYTBJbHBpeWNYZzRVVzY3RnV1N0t2R0JiQWRPbWstTGdDQTU5bnczLXdPZDd6alhpbTdjWnFjX2NIZWhCcVEyV2dPS3RjY0d2VGRLT0swaE1PUkV2YnRoWERtUHpOM2xoX19wY2U0ZjVEVVowRHB1QjlEallTQjN6bVVrLTFmNW56MG5VdTNL?oc=5"
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -161,9 +161,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Snl6cEtoSElWQVhMb0tfYmExOGVHZkFGS09BWjNtZzFuSWtHS0QzdXBYNmlBX0s5TFhsQ2w3MFhzQ2VPMXdsWW44VXpmQlJhMVpTTG01bFhOVUlh?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "토트넘 어쩌나…팀 내 최다골 히샤를리송, 허벅지 다쳐 7주 결장 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55ZzBuN29VcnpDNDhmYjZqQjhXYUtIVl9iNVdOSGljVVkybXpoX3dqT1ZPYnppLWlwa1MxUWtaY2xUR05qNHoxWlZYdkdja2NkRF9yMWtB?oc=5"
+            "source": "스포츠Q",
+            "title": "아스날과 리버풀 성적을 가른 결정적 차이 [EPL] - 스포츠Q",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNSVV0WFRZV1hNTkNkTDVhUDBOTGM2X1JlQUFtN0ZJUkUtVWxKX2FEWFI3WG16N3NiNkhJUzNNb0RsaHRid0VwQnpEV0NUSXhEbGgxc001c2ktSHNYSHE5MmVfRTVMVnBWeGNxZA?oc=5"
+        },
+        {
+            "source": "뉴스핌",
+            "title": "[EPL] 악재 겹친 토트넘... 히샤를리송, 햄스트링 부상으로 최대 7주 결장 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xbGZvSWJPY0k5eGhXZFFwLVRYTURwY2dTdm9OUTFFQllQbzEyYlhWakNvUlFUZE54dVZxUFhpcGM4WEpPRHN5V0x2aXJKUVFkY1VpVHZZTlRSQW1s?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -199,11 +204,6 @@
             "source": "xportsnews.com",
             "title": "\"손흥민 토트넘 전격 입단\" 이런 소식은 안 들리고→1971000000000원 탕진! 토트넘 또 헛돈?…AT서 대실패 갤러거 전격 영입 [오피셜] - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xQzdJcE9aZ0xBMnlWaUtuaXRoNnRHalA5Ul9tdS1RYVlicm9QNld0WU9halVMbFdWcWtLTWxuNmctOXhsZS1wdU51S2dEb0FHMWtXMQ?oc=5"
-        },
-        {
-            "source": "MSN",
-            "title": "EPL 맨유, 임시 감독에 '박지성·이영표 동료' 캐릭 선임 - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPTWdGejl4SVZTLXVFTVAwZFNZS1RVUWk1LU1tS2thMkFxS0pIclBSOXBBVUxrel9xMnpHSC1TTVFHczMwNDJDMjc0X2RTMWczT19VNGF0TWl5Qy1vX1hXeC1RMW1Sb2d2Uy1fWDdNV3ZBNnlvUVZsZnRULVBNQkFSb1RhN1lRMXZweTd2Rm10d1ZBc0oxUnZXSkc3YzRMVWpSTy12VXNyeGNTTG1zQ0swa1RndFVKUTlraXBraFhZMllHMW1nMlZxQW5kcnVOTUMwSU5wd18xNWZxY1dRQ3FzVlJ1b0Y2clo3ZUFqZ1hqQkM0SjFKRl9OYVpaV3VXbTBwMmMwdzdwVUE5eS1nVl9PR0pyZUpjNmJ0NTJRN2wxcEgtR01WclRYWUZJQWloTlZSTURsTTgxM3ZNb3hSeGtkRTJhQVFfMWZjb2VrVDExRzhVcDg?oc=5"
         }
     ],
     "transfers": [
