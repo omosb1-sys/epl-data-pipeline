@@ -17,6 +17,11 @@ except ImportError:
 
 # [AI Engine] Lazy Loader
 from ai_loader import get_ensemble_engine
+# [Tactics Engine] Lazy Loader
+try:
+    from tactics_engine import analyze_tactics
+except ImportError:
+    pass
 
 
 
@@ -288,7 +293,8 @@ with st.sidebar:
     st.divider()
 
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
-    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "🔁 이적 시장 통합 센터", "📰 프리미어리그 최신 뉴스"], key="menu_selector")
+    # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
+    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "🔁 이적 시장 통합 센터", "📰 프리미어리그 최신 뉴스"], key="menu_selector")
     
     st.divider()
     
@@ -1104,6 +1110,81 @@ elif False: # menu == "❄️ 겨울 이적시장 예측":
                 st.info("특별한 방출 설이 없습니다.")
                 
         st.warning("⚠️ 본 데이터는 현지 언론과 전문가들의 예상을 종합한 예측치이며, 실제 오피셜과 다를 수 있습니다.")
+
+elif menu == "👔 감독 전술 리포트":
+    st.title(f"👔 {selected_team} 감독 전술 심층 리포트")
+    
+    # 1. 감독 정보 가져오기
+    current_team_info = next((item for item in clubs_data if item['team_name'] == selected_team), None)
+    manager_name = current_team_info.get('manager_name', '감독 정보 없음') if current_team_info else "Unknown Manager"
+    
+    st.markdown(f"##### 🧠 **{manager_name}** 감독의 최신 전술 트렌드와 5경기 분석 데이터를 제공합니다.")
+    
+    # [Start Analysis Button]
+    if st.button("📡 전술 데이터 실시간 수집 및 분석 시작", type="primary", use_container_width=True):
+        with st.spinner(f"🔍 구글링 및 유튜브 분석 중... ({manager_name} tactics 2025)"):
+            try:
+                # Call Tactics Engine
+                report = analyze_tactics(selected_team, manager_name)
+                st.session_state['tactics_report'] = report
+                st.success("분석 완료! AI가 리포트를 생성했습니다.")
+            except Exception as e:
+                st.error(f"분석 중 오류 발생: {e}")
+    
+    # [Show Report]
+    if 'tactics_report' in st.session_state and st.session_state['tactics_report']['team'] == selected_team:
+        report = st.session_state['tactics_report']
+        
+        st.divider()
+        
+        # 1. Key Insights (Badges)
+        st.subheader("🔑 핵심 전술 키워드 (AI 추출)")
+        kw_html = ""
+        colors = ["#FF4B4B", "#1E88E5", "#4CAF50", "#FFC107", "#9C27B0"]
+        for i, kw in enumerate(report['keywords']):
+            c = colors[i % len(colors)]
+            kw_html += f"<span style='background:{c}; padding:5px 10px; border-radius:15px; margin-right:5px; font-weight:bold; font-size:0.9em;'>#{kw}</span>"
+        st.markdown(kw_html, unsafe_allow_html=True)
+        
+        st.write("")
+        
+        # 2. AI Summary
+        with st.container(border=True):
+            st.markdown("### 📝 AI 종합 전술 코멘트")
+            st.info(report['ai_summary'])
+            st.caption("※ 본 코멘트는 수집된 기사와 영상 제목을 기반으로 생성된 요약입니다.")
+            
+        # 3. Formations Timeline
+        st.subheader("📅 최근 5경기 포메이션 변화 (추정)")
+        cols = st.columns(5)
+        for i, game in enumerate(report['recent_games']):
+            with cols[i]:
+                res_color = "green" if game['result'] == "Win" else "red" if game['result'] == "Loss" else "gray"
+                st.markdown(f"""
+                <div style='text-align:center; padding:10px; background:rgba(255,255,255,0.05); border-radius:10px;'>
+                    <div style='font-size:0.8em; color:#888;'>{game['match']}</div>
+                    <div style='font-size:1.1em; font-weight:bold; color:{res_color};'>{game['result']}</div>
+                    <div style='font-size:0.9em; margin-top:5px; padding-top:5px; border-top:1px solid #444;'>{game['formation']}</div>
+                </div>
+                """, unsafe_allow_html=True)
+                
+        # 4. Reference Sources
+        st.divider()
+        c1, c2 = st.columns(2)
+        
+        with c1:
+            st.markdown("#### 📰 분석에 참고한 칼럼/기사")
+            for art in report['articles']:
+                st.markdown(f"- [{art['title']}]({art['link']}) <span style='color:gray; font-size:0.8em'>({art['source']})</span>", unsafe_allow_html=True)
+                
+        with c2:
+            st.markdown("#### 📺 유튜브 주요 분석 (제목)")
+            for vid in report['videos']:
+                st.markdown(f"- 🎬 {vid}")
+
+    else:
+        st.info("👆 위 버튼을 눌러 실시간 분석을 시작해주세요.")
+        
 elif menu == "📰 프리미어리그 최신 뉴스":
     st.title("📰 EPL 실시간 뉴스 센터")
     st.markdown("##### 🌍 전 구단 뉴스 구글링 & 해외 전문 사이트(Statsbomb, Overlyzer) 분석 정보")
