@@ -24,167 +24,106 @@ from ai_loader import get_ensemble_engine
 
 # --- 0. 기본 설정 ---
 st.set_page_config(
-    page_title="EPL-X Manager | AI Insights",
+    page_title="EPL-X Manager",
     page_icon="⚽",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    layout="wide"
 )
 
-# [SYSTEM CHECK] 버전 확인용 토스트 메시지
-st.toast("🛠️ UI Reset & Logic Clean (v11.0 - Total Recovery)", icon="♻️")
+# [SYSTEM CHECK] UI 로드 중...
+st.toast("✨ EPL-X Premium UI v11.5 Loaded", icon="🎨")
 
-# --- 🎯 인공지능급 디자인 시스템 (Figma Style) ---
+# --- 🎯 프리미엄 디자인 시스템 (Figma Style + Mobile Fix) ---
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Outfit:wght@700&display=swap');
 
     :root {
         --primary-accent: #FF4B4B;
         --glass-bg: rgba(255, 255, 255, 0.05);
         --glass-border: rgba(255, 255, 255, 0.1);
         --card-bg: linear-gradient(145deg, #1e1e26, #14141b);
-        --font-main: 'Inter', sans-serif;
     }
 
     .stApp {
         background: radial-gradient(circle at top right, #1a1c24, #0e1117);
-        font-family: var(--font-main);
         color: #FAFAFA;
     }
 
-    /* 🎨 Header Styling (Glassmorphism) */
-    header[data-testid="stHeader"] {
-        background-color: rgba(14, 17, 23, 0.7) !important;
-        backdrop-filter: blur(12px);
-        border-bottom: 1px solid var(--glass-border);
+    /* 💎 3D 박스 애니메이션 스타일 카드 */
+    .metric-card, div[data-testid="stMetric"], div[data-testid="stVerticalBlock"] > div[style*="border"] {
+        background: var(--card-bg);
+        padding: 1.5rem;
+        border-radius: 20px;
+        border: 1px solid var(--glass-border);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     }
 
-    /* 🏟️ Sidebar Premium Styling */
+    .metric-card:hover {
+        transform: translateY(-10px) rotateX(2deg);
+        border-color: var(--primary-accent);
+        box-shadow: 0 20px 40px rgba(255, 75, 75, 0.15);
+    }
+
+    /* 📱 사이드바 프리미엄 스타일 */
     [data-testid="stSidebar"] {
         background-color: #0c0e14 !important;
         border-right: 1px solid var(--glass-border);
     }
 
-    [data-testid="stSidebarNav"] {
-        background-image: none !important;
-    }
-
-    /* Typography Overhaul */
-    h1, h2, h3 {
-        font-family: 'Outfit', sans-serif !important;
-        color: white !important;
-        letter-spacing: -1px;
-    }
-
-    /* 🔴 Sidebar Toggle - STABLE VISIBILITY RESTORE */
-    /* Target the container of the arrow button */
-    [data-testid="collapsedControl"],
-    [data-testid="stSidebarCollapsedControl"] {
-        background-color: #FF4B4B !important;
-        border-radius: 0 10px 10px 0 !important;
-        padding: 5px !important;
-        display: flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-        min-width: 60px !important;
-        box-shadow: 2px 0 10px rgba(0,0,0,0.5) !important;
-    }
-
-    /* Add "MENU" or arrows after the toggle button */
-    [data-testid="collapsedControl"]::after {
-        content: " MENU >>>" !important;
-        color: white !important;
-        font-weight: 700 !important;
-        font-size: 14px !important;
-        white-space: nowrap !important;
-    }
-
-    [data-testid="collapsedControl"] svg {
-        fill: white !important;
-        width: 25px !important;
-        height: 25px !important;
-    }
-
-    /* 📱 SIDEBAR MENU TEXT VISIBILITY - ABSOLUTE FIX */
-    /* Target any text inside the sidebar navigation */
-    [data-testid="stSidebar"] * {
-        color: white !important;
-    }
-
-    /* Target the specific labels in the radio menu */
+    /* [CRITICAL] 모바일 메뉴 글자 강제 노출 패치 */
     [data-testid="stSidebar"] div[role="radiogroup"] label {
-        background: rgba(255, 255, 255, 0.05) !important;
-        border: 1px solid rgba(255, 255, 255, 0.1) !important;
-        border-radius: 12px !important;
-        margin-bottom: 8px !important;
-        padding: 10px !important;
+        padding: 14px 20px !important;
+        border-radius: 14px !important;
+        background: rgba(255, 255, 255, 0.03) !important;
+        margin-bottom: 10px !important;
+        border: 1px solid rgba(255,255,255,0.05) !important;
+        transition: all 0.3s ease !important;
+    }
+
+    /* 라디오 버튼의 모든 하위 텍스트 요소를 명확하게 정의 */
+    [data-testid="stSidebar"] div[role="radiogroup"] label * {
+        color: #FFFFFF !important;
+        font-size: 16px !important;
+        font-weight: 600 !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        -webkit-text-fill-color: #FFFFFF !important;
     }
 
     [data-testid="stSidebar"] div[role="radiogroup"] label:hover {
         background: rgba(255, 75, 75, 0.1) !important;
+        transform: translateX(5px);
     }
 
-    [data-baseweb="radio"] div:first-child {
-        display: none !important; /* Hide defaults */
-    }
-
+    /* 선택된 상태 글로우 효과 */
     [data-testid="stSidebar"] div[role="radiogroup"] label[data-checked="true"] {
-        border-left: 5px solid #FF4B4B !important;
-        background: rgba(255, 75, 75, 0.15) !important;
+        border-left: 5px solid var(--primary-accent) !important;
+        background: linear-gradient(90deg, rgba(255,75,75,0.15), transparent) !important;
     }
 
-    /* ⚪ Fix Expander Visibility */
-    .stExpander details summary p, .stExpander details summary span {
-        color: white !important;
-    }
-    
-    .stExpander {
-        border: 1px solid var(--glass-border) !important;
-        background: rgba(255, 255, 255, 0.02) !important;
-        border-radius: 12px !important;
+    /* ≡ 모바일 토글 버튼 장식 */
+    [data-testid="stSidebarCollapsedControl"] svg {
+        fill: var(--primary-accent) !important;
+        width: 35px !important;
+        height: 35px !important;
     }
 
-    /* 💎 Premium Card System */
-    .metric-card {
-        background: var(--card-bg);
-        padding: 24px;
-        border-radius: 20px;
-        border: 1px solid var(--glass-border);
-        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    /* 타이틀 그라데이션 */
+    h1, h2, h3 {
+        font-family: 'Outfit', sans-serif !important;
+        background: linear-gradient(90deg, #FFFFFF 0%, #A0A0A0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 
-    /* 📸 Image Enhancement */
-    img {
-        border-radius: 16px;
-        filter: drop-shadow(0 10px 20px rgba(0,0,0,0.5));
-        transition: filter 0.3s;
-    }
-    
-    img:hover {
-        filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.2));
-    }
-
-    /* 🛠️ Compact Automation Log */
-    .auto-log {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 11px;
-        background: rgba(0,0,0,0.2);
-        border-left: 2px solid #21c354;
-        margin: 4px 0;
-        padding: 8px;
-    }
-
-    /* Hidden Streamlit UI */
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    [data-testid="stToolbar"] {display: none !important;}
-
-    /* 🕶️ Privacy & Clean UI */
-    div[class*="viewerBadge"] { display: none !important; }
+    /* 스크린샷에 보이는 하단 UI 정리 */
+    #MainMenu, footer, div[class*="viewerBadge"] { visibility: hidden; }
 </style>
 """, unsafe_allow_html=True)
 
 # --- 1. 데이터 로드 (Serverless JSON Mode) ---
+
 def load_json_data(filename):
     path = os.path.join("epl_project/data", filename)
     # 로컬 테스트용 경로 보정
@@ -390,7 +329,21 @@ with st.sidebar:
         if res['updates']:
             with st.expander("🤖 자동 데이터 보충 결과", expanded=True):
                 for up in res['updates']:
-                    st.markdown(f'<div class="auto-log">{up}</div>', unsafe_allow_html=True)
+                    # Compact custom success message (Small font)
+                    st.markdown(f"""
+                    <div style="
+                        padding: 6px 10px;
+                        border-radius: 6px;
+                        background-color: rgba(33, 195, 84, 0.15); /* Subtle Green */
+                        border: 1px solid rgba(33, 195, 84, 0.3);
+                        margin-bottom: 5px;
+                        display: flex;
+                        align-items: start;
+                    ">
+                        <div style="font-size: 14px; margin-right: 8px;">✅</div>
+                        <div style="font-size: 11px; color: #e0e0e0; line-height: 1.3;">{up}</div>
+                    </div>
+                    """, unsafe_allow_html=True)
                     
         # 2. 최신 뉴스 헤드라인 (사이드바)
         with st.expander("🌍 최신 EPL 헤드라인", expanded=False):
@@ -419,26 +372,11 @@ if menu == "📊 실시간 대시보드":
         # [1] 상단 핵심 지표
         col1, col2, col3 = st.columns(3)
         with col1:
-            st.markdown(f"""
-            <div class="metric-card">
-                <p style="font-size:14px; color:#A0A0A0; margin-bottom:4px;">TARGET CLUB</p>
-                <h2 style="margin:0; font-size:28px; background:white; -webkit-background-clip:text; -webkit-text-fill-color:transparent;">{selected_team}</h2>
-            </div>
-            """, unsafe_allow_html=True)
+            st.metric("타겟 구단", selected_team)
         with col2:
-            st.markdown(f"""
-            <div class="metric-card">
-                <p style="font-size:14px; color:#A0A0A0; margin-bottom:4px;">CURRENT MANAGER</p>
-                <h2 style="margin:0; font-size:28px; color:white; -webkit-text-fill-color:white;">{current_team_info['manager_name']}</h2>
-            </div>
-            """, unsafe_allow_html=True)
+            st.metric("현재 감독", current_team_info['manager_name'])
         with col3:
-             st.markdown(f"""
-            <div class="metric-card">
-                <p style="font-size:14px; color:#A0A0A0; margin-bottom:4px;">AI POWER INDEX</p>
-                <h2 style="margin:0; font-size:28px; color:#FF4B4B; -webkit-text-fill-color:#FF4B4B;">{current_team_info['power_index']}/100</h2>
-            </div>
-            """, unsafe_allow_html=True)
+            st.metric("AI 전력 지수", f"{current_team_info['power_index']}/100")
         
         st.divider()
         
@@ -726,19 +664,9 @@ elif menu == "🧠 AI 승부 예측":
                 dt_utc = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
             dt_kr = dt_utc + timedelta(hours=9)
             st.markdown(f"""
-            <div class="metric-card" style="text-align:center; border-color:rgba(30,136,229,0.3); margin-bottom:24px;">
-                <p style="font-size:12px; color:#90CAF9; margin-bottom:8px; font-weight:600; letter-spacing:1px;">OFFICIAL FIXTURE SCHEDULE</p>
-                <div style="display:flex; justify-content:center; gap:20px; align-items:center;">
-                    <div>
-                        <p style="font-size:11px; color:#A0A0A0; margin:0;">GMT (UK)</p>
-                        <h3 style="margin:0; font-size:18px; color:white;">{dt_utc.strftime('%Y-%m-%d %H:%M')}</h3>
-                    </div>
-                    <div style="width:1px; height:30px; background:rgba(255,255,255,0.1);"></div>
-                    <div>
-                        <p style="font-size:11px; color:#FFCA28; margin:0;">KST (KOREA)</p>
-                        <h3 style="margin:0; font-size:18px; color:#FFCA28;">{dt_kr.strftime('%Y-%m-%d %H:%M')}</h3>
-                    </div>
-                </div>
+            <div style="background-color:rgba(30,136,229,0.1); padding:10px; border-radius:10px; text-align:center; border: 1px solid rgba(30,136,229,0.3); margin-bottom:20px;">
+                <span style="font-size:0.9em; color:#90CAF9;">📅 예정 대진 시간 (Official Fixture)</span><br>
+                <b style="font-size:1.1em;">영국(GMT): {dt_utc.strftime('%Y-%m-%d %H:%M')}</b> | <b style="font-size:1.1em; color:#FFCA28;">한국(KST): {dt_kr.strftime('%Y-%m-%d %H:%M')}</b>
             </div>
             """, unsafe_allow_html=True)
         except: pass
