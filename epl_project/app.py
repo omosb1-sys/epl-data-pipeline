@@ -1302,7 +1302,14 @@ elif menu == "👔 감독 전술 리포트":
         with c2:
             st.markdown("#### 📺 유튜브 주요 분석 (제목)")
             for vid in report['videos']:
-                st.markdown(f"- 🎬 {vid}")
+                st.markdown(f"- 🌍 {vid}")
+            
+            # [NEW] 국내 유튜버 분석 결과 표시
+            if report.get('kr_videos'):
+                st.markdown("---")
+                st.markdown("#### 🇰🇷 국내 전문가 분석 (이스타/김진짜)")
+                for k_vid in report['kr_videos']:
+                    st.markdown(f"- 🎥 {k_vid}")
 
         # 5. Sharing (KakaoTalk Style)
         st.divider()
