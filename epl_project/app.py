@@ -860,15 +860,23 @@ elif menu == "🧠 AI 승부 예측":
 
             v_title, v_causal, v_trend, v_color = generate_smart_report(home, away, prob)
 
-            # SHAP-Style 가상 해석 리포트 (Visual Overhaul)
+            # SHAP-Style 가상 해석 리포트 (Visual Overhaul & Readability Fix)
             st.markdown(f"""
-            <div style="background-color:rgba(255,255,255,0.03); padding:25px; border-radius:15px; border-left: 8px solid {v_color}; margin-top:20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-                <h3 style="margin-top:0; color:{v_color};">{v_title}</h3>
-                <p style="font-size:16px; line-height:1.6; color:#e0e0e0;">
-                    <b>🔍 데이터 인과관계 분석 (Causal Analysis):</b> {v_causal}<br><br>
-                    <b>📈 시계열 트렌드 진단 (TimesFM Analysis):</b> {v_trend}<br><br>
-                    <span style="font-style:italic; color:#888888;">* 본 보고서는 PyTorch 딥러닝과 RandomForest 앙상블 엔진의 12,000건 시뮬레이션 결과입니다.</span>
-                </p>
+            <div style="background-color:rgba(255,255,255,0.05); padding:25px; border-radius:15px; border-left: 8px solid {v_color}; margin-top:20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h3 style="margin-top:0; color:{v_color}; font-size: 24px;">{v_title}</h3>
+                <div style="font-size:18px; line-height:1.8; color:#eee; margin-top:15px;">
+                    <p style="margin-bottom: 15px;">
+                        <strong style="color: #FFD700;">🔍 데이터 인과관계 (Why?)</strong><br>
+                        {v_causal}
+                    </p>
+                    <p style="margin-bottom: 15px;">
+                        <strong style="color: #00E5FF;">📈 시계열 트렌드 (Trend)</strong><br>
+                        {v_trend}
+                    </p>
+                    <p style="font-size:14px; color:#888; margin-top:20px; text-align:right;">
+                        * PyTorch 딥러닝 & RandomForest 앙상블 12,000회 시뮬레이션 결과
+                    </p>
+                </div>
             </div>
             """, unsafe_allow_html=True)
             st.info("💡 위 슬라이더를 조작하여 경기 조건을 설정한 후 'AI 정밀 예측 분석 실행' 버튼을 눌러주세요.")
@@ -1244,10 +1252,27 @@ elif menu == "👔 감독 전술 리포트":
         
         st.write("")
         
-        # 2. AI Summary
-        with st.container(border=True):
+        # 2. AI Summary (Enhanced Readability)
+        with st.container():
             st.markdown("### 📝 AI 종합 전술 코멘트")
-            st.info(report['ai_summary'])
+            
+            # Custom styled box for better readability
+            summary_html = report['ai_summary'].replace('\n', '<br>')
+            st.markdown(f"""
+            <div style="
+                background-color: rgba(30, 30, 40, 0.8);
+                border: 1px solid rgba(255, 255, 255, 0.1);
+                border-radius: 12px;
+                padding: 20px;
+                font-size: 17px;
+                line-height: 1.8;
+                color: #f0f0f0;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+            ">
+                {summary_html}
+            </div>
+            """, unsafe_allow_html=True)
+            
             st.caption(f"⏱️ 분석 실행 시간 (KST): {report.get('timestamp', 'Just now')}")
             st.caption("※ 본 코멘트는 수집된 기사와 영상 제목을 기반으로 생성된 요약입니다.")
             
