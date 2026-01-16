@@ -658,7 +658,7 @@ if menu == "📊 실시간 대시보드":
                         color=["#FF4B4B", "#2962FF", "#FFEA00"], # Red, Blue, Bright Yellow
                         height=180
                     )
-                    st.caption(f"⚠️ *Demo Mode: 최근 {power_idx}점대 전력을 기반으로 한 시뮬레이션 데이터입니다.*")
+                    # st.caption(f"⚠️ *Demo Mode: 최근 {power_idx}점대 전력을 기반으로 한 시뮬레이션 데이터입니다.*") # Removed for Production Feel
             else:
                 st.warning("ADX 데이터 생성 실패 (Empty Data)")
         except Exception as e:
