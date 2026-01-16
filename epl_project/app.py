@@ -1695,38 +1695,39 @@ elif menu == "📰 EPL 최신 뉴스":
             else:
                 st.info("현재 수집된 인사이더(Romano, Ornstein) 소식이 없습니다. '뉴스 업데이트'를 실행해주세요.")
 
+        # [ENG 8.5] LLM-Ready Structured Data Extraction
+        if res.get('news'):
+            st.divider()
+            st.subheader("📊 AI 뉴스 정밀 추출 (Structured View)")
+            st.caption("비정형 뉴스 데이터에서 핵심 메타데이터만 추출하여 테이블로 시각화합니다.")
+            
+            extracted_data = []
+            for news in res['news'][:10]: # 상위 10개 뉴스 분석
+                title = news['title']
+                # 가상 추출 로직 (Simulation)
+                extracted = {"뉴스 제목": title[:40]+"...", "핵심 인물": "N/A", "카테고리": "일반", "중요도": "보통"}
+                
+                # 엔지니어링 필터 (Keyword based simulation)
+                if "Injured" in title or "Injury" in title or "부상" in title:
+                    extracted["카테고리"] = "🏥 부상자"
+                    extracted["중요도"] = "높음 (🚨)"
+                    extracted["핵심 인물"] = title.split(' ')[0]
+                elif "Transfer" in title or "Sign" in title or "Deal" in title or "이적" in title:
+                    extracted["카테고리"] = "🔁 이적설"
+                    extracted["중요도"] = "중간"
+                    extracted["핵심 인물"] = "시장가 반영"
+                elif "Rumor" in title or "Talks" in title:
+                     extracted["카테고리"] = "🫧 루머"
+                     extracted["중요도"] = "낮음"
+                
+                extracted_data.append(extracted)
+                
+            st.table(pd.DataFrame(extracted_data))
+            st.divider()
+
     else:
         st.info("👈 사이드바의 '실시간 데이터 동기화' 또는 상단의 버튼을 눌러 뉴스를 수집해주세요.")
         
-    # [ENG 8.5] LLM-Ready Structured Data Extraction
-    if res.get('news'):
-        st.divider()
-        st.subheader("📊 AI 뉴스 정밀 추출 (Structured View)")
-        st.caption("비정형 뉴스 데이터에서 핵심 메타데이터만 추출하여 테이블로 시각화합니다.")
-        
-        extracted_data = []
-        for news in res['news'][:10]: # 상위 10개 뉴스 분석
-            title = news['title']
-            # 가상 추출 로직 (Simulation)
-            extracted = {"뉴스 제목": title[:40]+"...", "핵심 인물": "N/A", "카테고리": "일반", "중요도": "보통"}
-            
-            # 엔지니어링 필터 (Keyword based simulation)
-            if "Injured" in title or "Injury" in title or "부상" in title:
-                extracted["카테고리"] = "🏥 부상자"
-                extracted["중요도"] = "높음 (🚨)"
-                extracted["핵심 인물"] = title.split(' ')[0]
-            elif "Transfer" in title or "Sign" in title or "Deal" in title or "이적" in title:
-                extracted["카테고리"] = "🔁 이적설"
-                extracted["중요도"] = "중간"
-                extracted["핵심 인물"] = "시장가 반영"
-            elif "Rumor" in title or "Talks" in title:
-                 extracted["카테고리"] = "🫧 루머"
-                 extracted["중요도"] = "낮음"
-            
-            extracted_data.append(extracted)
-            
-        st.table(pd.DataFrame(extracted_data))
-        st.divider()
 
     st.divider()
     st.caption("ℹ️ 본 데이터는 Google News, Naver Cafe, Overlyzer, Statsbomb 등에서 실시간으로 수집됩니다.")
