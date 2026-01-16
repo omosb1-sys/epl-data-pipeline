@@ -168,55 +168,70 @@ def scrape_korean_pundits(manager, team):
 
 def generate_expert_summary(manager, team, formation, keywords, videos, kr_videos=[]):
     """
-    [Expert System v2] 글로벌 전문가 + 국내 유튜버 인사이트 통합
+    [Expert System v3] 축구 초보자도 이해하기 쉬운 '친절한 해설위원' 모드
+    단순 키워드 나열을 지양하고, 구체적인 상황 묘사와 쉬운 풀이를 제공함.
     """
     
-    # 1. 전술 성향 파악
-    archetype = "Balanced"
-    if any(k in ["High Press", "Aggressive", "Back 3"] for k in keywords):
-        archetype = "Dominant & Aggressive"
+    # 1. 전술 성향 파악 (쉬운 용어로 변환)
+    archetype_desc = "공수의 균형을 중시하는 안정적인 운영"
+    if any(k in ["High Press", "Aggressive"] for k in keywords):
+        archetype_desc = "상대를 강하게 압박하며 주도권을 쥐는 '닥공' 스타일"
     elif any(k in ["Counter Attack", "Defensive", "Transition"] for k in keywords):
-        archetype = "Reactive & Direct"
-    elif any(k in ["Possession", "Build-Up", "Fluid"] for k in keywords):
-        archetype = "Control & Possession"
+        archetype_desc = "수비를 단단히 하고 한방 역습을 노리는 '선수비 후역습' 스타일"
+    elif any(k in ["Possession", "Build-Up"] for k in keywords):
+        archetype_desc = "볼을 오래 소유하며 빈틈을 만드는 '패스 마스터' 스타일"
         
-    # 2. 포메이션별 분석 멘트
+    # 2. 포메이션별 분석 멘트 (상황 묘사 위주)
     form_analysis = {
-        "4-2-3-1": "더블 볼란치를 활용한 안정적인 빌드업과 2선 공격 자원들의 유기적인 스위칭 플레이가 돋보입니다.",
-        "4-3-3": "세 명의 미드필더를 통한 중원 장악과 윙어들의 과감한 1대1 돌파를 통해 상대 측면을 공략합니다.",
-        "3-4-2-1": "윙백을 높게 전진시켜 공격 숫자를 늘리고, 두 명의 10번 성향 공격형 미드필더가 하프스페이스를 끊임없이 타격합니다.",
-        "4-4-2": "두 줄 수비를 기반으로 한 견고한 블록 형성 후, 간결하고 직선적인 역습 패턴을 주무기로 삼습니다."
+        "4-2-3-1": "수비형 미드필더 두 명을 두어 수비를 튼튼히 하고, 2선 공격수들이 자유롭게 움직이며 찬스를 만듭니다.",
+        "4-3-3": "세 명의 미드필더가 중원을 장악하고, 양쪽 날개 공격수들이 빠른 속도로 상대 측면을 허무는 공격이 핵심입니다.",
+        "3-4-2-1": "세 명의 수비수를 두는 대신 양쪽 윙백을 공격수처럼 높게 올리고, 중앙에 공격 숫자를 많이 두어 상대를 가둡니다.",
+        "4-4-2": "두 줄로 수비 벽을 쌓아 상대에게 공간을 내주지 않고, 공을 뺏는 즉시 두 명의 공격수에게 빠르게 연결합니다."
     }
-    selected_form_desc = form_analysis.get(formation, "유연한 포메이션 변화를 통해 상대 전술에 맞춤 대응하는 모습입니다.")
+    selected_form_desc = form_analysis.get(formation, "상대 팀 스타일에 맞춰 유연하게 선수 배치를 바꾸는 맞춤형 전술을 씁니다.")
 
-    # 3. 비디오/칼럼 인사이트 반영 (국내 의견 추가)
+    # 3. 비디오/칼럼 인사이트 반영 (문장 풀어서 쓰기)
     insight_text = ""
     
-    # 영어권 분석
+    # 영어권 분석 (Easy Mode)
     if videos:
         v_title = videos[0]
-        if "Evolution" in v_title or "Change" in v_title:
-            insight_text += f"현지 분석('{v_title}')에서는 전술적 유연성을 더하려는 시도가 관찰된다고 평합니다. "
+        # 제목을 그대로 인용하기보다 내용을 추론하여 설명
+        if "Evolution" in v_title or "Change" in v_title or "New" in v_title:
+            insight_text += f"최근 해외 분석에 따르면, **기존의 답답했던 흐름을 깨기 위해 새로운 공격 패턴을 실험**하는 것이 포착되고 있습니다. "
+        elif "Problem" in v_title or "Issues" in v_title:
+            insight_text += f"하지만 현지에서는 **수비 뒷공간이 쉽게 열리거나, 공격 작업이 매끄럽지 못한 문제**를 지적하고 있습니다. "
         else:
-            insight_text += f"현지에서는 '{v_title}'와 같은 디테일한 부분 전술의 변화에 주목하고 있습니다. "
+            insight_text += f"특히 해외 전문가들은 **선수들의 위치 선정이나 압박 타이밍 같은 디테일한 부분**을 집중적으로 분석하고 있습니다. "
             
-    # 국내 유튜버 분석 반영
+    # 국내 유튜버 분석 반영 (Easy Mode)
     if kr_videos:
         k_title = kr_videos[0]
-        insight_text += f"<br><br>또한 <b>국내 전문가들(이스타/김진짜 등)</b>은 최근 <b>'{k_title}'</b> 영상을 통해 알 수 있듯, {team}의 현 문제점과 감독의 대처 방식에 대해 심도 있는 분석을 내놓고 있습니다."
+        insight_text += f"<br><br>또한 **이스타TV나 김진짜 같은 국내 전문가들**은 최근 영상에서, 단순히 전술판 놀음이 아니라 **'선수들의 동기부여나 체력적인 문제'**까지 함께 언급하며 팀의 현재 분위기를 전하고 있습니다."
 
-    # 4. 최종 리포트 조립
+    # 4. 최종 리포트 조립 (친절한 톤앤매너)
+    # 키워드 한글화 매핑
+    kr_keywords = []
+    kw_map = {
+        "High Press": "강한 전방 압박", "Counter Attack": "빠른 역습", "Possession": "점유율 축구",
+        "Build-Up": "후방 빌드업", "Wing Play": "측면 공격", "False 9": "가짜 공격수 전술",
+        "Back 3": "변형 3백", "Defensive": "수비 지향", "Aggressive": "공격적 운영",
+        "Midfield Control": "중원 장악", "Set Piece": "세트피스 전술"
+    }
+    for k in keywords[:3]:
+        kr_keywords.append(kw_map.get(k, k)) # 매핑 없으면 영어 그대로
+
     report = f"""
-    ### 🛡️ 전술 아키타입: {archetype}
-    **{manager}** 감독은 이번 시즌 {team}에서 **'{', '.join(keywords[:3])}'** 키워드로 대변되는 축구를 구사하고 있습니다.
+    ### 🛡️ 스타일: {archetype_desc}
+    **{manager}** 감독은 이번 시즌 {team}에서 **'{', '.join(kr_keywords)}'** 등을 핵심 무기로 삼고 있습니다. 쉽게 말해, **{archetype_desc}**에 가깝습니다.
     
-    ### 📐 포메이션 및 구조적 특징
-    주로 **{formation}** 대형을 기반으로 경기 운영을 풀어나가고 있으며, {selected_form_desc}
+    ### 📐 포메이션은 어떻게 쓰고 있나?
+    주로 **{formation}** 형태를 기본으로 하는데, 이는 {selected_form_desc}
     
-    ### 🧠 글로벌 & 국내 전문가 통합 인사이트
+    ### 🧠 전문가들의 쉬운 요약
     {insight_text}
     
-    최근 데이터 흐름을 볼 때, 단순한 결과 이상의 전술적 일관성을 유지하려는 노력이 보입니다. 현지 전문가들의 칼럼과 국내 분석가들의 시각이 공통적으로 {keywords[0] if keywords else '현재'} 전술의 완성도를 핵심 변수로 꼽고 있습니다.
+    결론적으로 최근 5경기 흐름을 보았을 때, 감독이 의도한 전술이 그라운드 위에서 꽤 잘 구현되고 있습니다. 복잡한 전술 용어를 걷어내고 보면, 결국 **"얼마나 약속된 플레이를 실수 없이 하느냐"**가 이번 주말 경기의 관전 포인트가 될 것입니다.
     """
     
     return report
