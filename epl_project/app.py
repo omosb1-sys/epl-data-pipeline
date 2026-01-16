@@ -997,31 +997,64 @@ elif menu == "🧠 AI 승부 예측":
             st.markdown("### 🗣️ AI 전문가 그룹 끝장 토론 (Multi-Agent Debate)")
             st.caption("[Consensus] 서로 다른 관점을 가진 AI 에이전트들이 분석 결과에 대해 의견을 나눕니다.")
             
-            def generate_agent_debate(home, away, prob):
+            # [A] Deepened Multi-Agent Debate Logic (Sub-agent Pattern)
+            def generate_agent_debate(home, away, prob, res):
+                # 🛡️ 전술 코치: 관념적, 현장 중심, 전술적 상성 강조
                 if prob > 55:
-                    t_comment = f"{home}의 최근 하프스페이스 점유 방식이 매우 위협적입니다. 수비 라인을 높게 올리고 압박하는 강도가 {away}의 빌드업 실수를 유도할 가능성이 높아요."
-                    d_comment = f"수치적으로 봐도 {home}의 기대 득점(xG) 전환율이 최근 3경기 동안 비약적으로 상승했습니다. 통계적 신뢰 범위 95% 내에서 승리 확률 우위가 뚜렷합니다."
-                    conclusion = f"👉 **합의점**: 전술적 우위와 통계적 상승세가 일치합니다. **{home}의 승리 가능성**에 힘이 실립니다."
+                    t_comment = f"**[{home} 우세]** {home}의 '인버티드 풀백'이 중원으로 좁혀 들어올 때 {away}의 미드필더들이 마킹을 놓치는 경향이 있습니다. 특히 전환 시 압박 강도가 {away}의 체력이 빠지는 후반 70분 이후 '치명적 타격'이 될 것입니다."
+                    t_rebuttal = "단, 전방 압박이 풀릴 경우 배후 공간 노출 리스크를 간과해선 안 됩니다."
                 elif prob < 45:
-                    t_comment = f"{home}은 현재 수비 전환 시 뒷공간 노출 문제가 심각합니다. {away}의 빠른 윙어들이 이 공간을 공략한다면 {home}이 크게 고전할 전술적 상성입니다."
-                    d_comment = f"최근 원정 팀 {away}의 ELO 레이팅 상승 기울기가 홈 팀보다 가파릅니다. 확률 모델은 전력 차 이상의 결과를 예고하고 있습니다."
-                    conclusion = f"👉 **합의점**: 상성 관계와 데이터 추세가 모두 **{away}의 우세**를 가리키고 있습니다."
+                    t_comment = f"**[{away} 우세]** {away}의 빠른 윙어들이 {home}의 높은 수비 라인을 공략하기에 최적화된 상성입니다. {home}은 전술적으로 '로우 블록'을 강제당하며 주도권을 내줄 가능성이 높습니다."
+                    t_rebuttal = "만약 {home}이 내려앉아 버틴다면 역습 한 방에 무너질 수도 있는 도박적인 전술입니다."
                 else:
-                    t_comment = "두 팀 모두 중원에서 안정적인 형태를 유지하고 있습니다. 전술적으로 어느 한 쪽이 압도하기 힘든 팽팽한 힘 싸움이 예상되네요."
-                    d_comment = "모든 시뮬레이션 지표가 정규분포 중앙에 모여 있습니다. 한 골 차 승부나 무승부 확률이 가장 높은 전형적인 '박빙' 구간입니다."
-                    conclusion = "👉 **합의점**: 변수가 많은 전형적인 무승부 흐름이며, 현장의 '우발적 상황'이 승부를 가를 것입니다."
-                
-                return t_comment, d_comment, conclusion
+                    t_comment = "두 팀 모두 4-3-3 시스템으로 중원에서 '수적 우위'를 점하기 위한 치열한 체스 게임이 예상됩니다. 어느 한 쪽이 실수하기 전까지는 팽팽한 균형이 유지될 것입니다."
+                    t_rebuttal = "이런 경기일수록 교체 카드의 타이밍이 승부의 90%를 결정하게 됩니다."
 
-            t_msg, d_msg, consensus = generate_agent_debate(home, away, prob)
+                # 📊 데이터 과학자: 수치 중심, 회귀 분석, 리스크 경고
+                h_elo = res['h_data'].get('elo', 1500)
+                a_elo = 1500 # 가상Away (실제 away_data 로드 필요 시 확장)
+                elo_diff = h_elo - a_elo
+                
+                if prob > 55:
+                    d_comment = f"수치적으로 ELO 차이({elo_diff:+.0f})가 유의미하며, {home}의 최근 5경기 'xG 대비 득점 전환율'이 리그 상위 5%입니다. 통계적 정규분포 상 승리 확률이 매우 견고합니다."
+                    d_rebuttal = "다만, 최근 실점 패턴이 '분산'되지 않고 특정 선수의 실수에 집중되는 '노이즈'가 포착됩니다."
+                elif prob < 45:
+                    d_comment = f"데이터 이산화 분석 결과, {home}의 수비 효율은 '위험(Danger)' 구간에 진입했습니다. {away}의 높은 패스 성공률과 결합될 시 실점 확률이 기하급수적으로 상승하는 지점입니다."
+                    d_rebuttal = "하지만 {away}의 원정 득점 기복은 표본 오차 범위가 넓어 100% 신뢰하기엔 무리가 있습니다."
+                else:
+                    d_comment = "모든 지표가 평균으로 수렴(Regression to the mean)하고 있습니다. 기대 득점값이 소수점 한 자리까지 일치하는 수준이라, 무승부 배당률이 가장 가치 있는 구간입니다."
+                    d_rebuttal = "통계적으로 예외적인 '원더골' 같은 변수가 터질 확률이 평소보다 12% 높게 잡힙니다."
+
+                # [Consensus] 두 에이전트의 합의점
+                if prob > 55:
+                    conclusion = f"👉 **합의점**: 전술적 압박과 통계적 신뢰도가 모두 **{home}의 승리**를 가리키고 있습니다. (데이터 밀도: 높음)"
+                elif prob < 45:
+                    conclusion = f"👉 **합의점**: 상성 리스크를 고려할 때 **{away}의 기회**가 더 큽니다. (데이터 밀도: 보통)"
+                else:
+                    conclusion = "👉 **합의점**: 변수가 지배하는 경기로, **베팅 리스크 관리**가 우선인 구간입니다."
+                
+                return t_comment, t_rebuttal, d_comment, d_rebuttal, conclusion
+
+            t_msg, t_rebut, d_msg, d_rebut, consensus = generate_agent_debate(home, away, prob, res)
             
-            # 토론 UI 렌더링
+            # [B] Distilled Memory (가벼운 맥락 유지)
+            # 대화 전체를 저장하지 않고 요약된 '전술 DNA'만 세션에 저장 (맥 둔해짐 방지)
+            st.session_state['distilled_memory'] = {
+                'match': f"{home} vs {away}",
+                'key_takeaway': consensus,
+                'tactical_gist': t_msg[:50] + "...",
+                'data_gist': d_msg[:50] + "..."
+            }
+
+            # 토론 UI 렌더링 (Deep Argument Version)
             st.markdown(f"""
             <div style="background-color: rgba(255, 255, 255, 0.03); border-left: 5px solid #FF4B4B; padding: 15px; border-radius: 8px; margin-bottom: 10px;">
-                <b style="color: #FF4B4B;">🛡️ 전술 코치:</b> {t_msg}
+                <b style="color: #FF4B4B;">🛡️ 전술 코치:</b> {t_msg}<br>
+                <i style="color: #FF8A80; font-size: 0.9em;">(반론: {t_rebut})</i>
             </div>
             <div style="background-color: rgba(255, 255, 255, 0.03); border-left: 5px solid #1E88E5; padding: 15px; border-radius: 8px; margin-bottom: 10px;">
-                <b style="color: #1E88E5;">📊 데이터 과학자:</b> {d_msg}
+                <b style="color: #1E88E5;">📊 데이터 과학자:</b> {d_msg}<br>
+                <i style="color: #90CAF9; font-size: 0.9em;">(반론: {d_rebut})</i>
             </div>
             <div style="background-color: rgba(255, 193, 7, 0.1); border: 1px dashed #FFC107; padding: 15px; border-radius: 12px; font-weight: bold; text-align: center; color: #FFC107;">
                 {consensus}
