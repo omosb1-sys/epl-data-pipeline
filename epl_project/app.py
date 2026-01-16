@@ -907,6 +907,83 @@ elif menu == "🧠 AI 승부 예측":
                 st.success(f"두 팀은 전통적인 라이벌 관계는 아닙니다.")
                 st.caption(f"객관적인 전력 차이가 승부에 더 큰 영향을 미칠 것입니다.")
 
+        # [NEW] 경기 예측 결과 공유하기 (Match Prediction Share)
+        st.divider()
+        st.subheader("📤 예측 결과 공유하기")
+        
+        # v_vars는 위에서 정의된 scope라서 try-except로 안전하게 접근하거나, 
+        # 사용자가 아직 분석을 안 돌렸을 경우를 대비해 기본값 설정
+        try:
+            share_pred_text = f"""[EPL-X AI 승부 예측]
+⚽ {home} vs {away}
+
+🤖 AI의 분석 결과
+{v_title.replace('*','')}
+
+🔎 핵심 요인
+"{v_causal.split('.')[0]}..."
+
+📈 트렌드
+"{v_trend.split('.')[0]}..."
+
+🔗 결과 자세히 보기
+https://epl-data-2026.streamlit.app/"""
+        except:
+             share_pred_text = f"아직 분석이 실행되지 않았습니다. [AI 정밀 예측 분석 실행] 버튼을 눌러주세요."
+
+        # Copy & Paste Area
+        st.info("👇 아래 텍스트를 복사하거나 노란 버튼을 눌러 공유하세요!")
+        st.code(share_pred_text, language="text")
+        
+        # Native Web Share Button (Reusable Style)
+        js_pred_text = share_pred_text.replace('\n', '\\n').replace("'", "\\'")
+        
+        share_match_html = f"""
+        <style>
+            .share-btn-match {{
+                background-color: #FEE500;
+                color: #191919;
+                border: none;
+                padding: 12px 24px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                font-weight: bold;
+                margin: 4px 2px;
+                cursor: pointer;
+                border-radius: 12px;
+                width: 100%;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                transition: transform 0.1s;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            }}
+            .share-btn-match:active {{ transform: scale(0.98); }}
+        </style>
+        
+        <button class="share-btn-match" onclick="nativeShareMatch()">
+            🟡 이 예측 결과 공유하기
+        </button>
+
+        <script>
+        function nativeShareMatch() {{
+            if (navigator.share) {{
+                navigator.share({{
+                    title: 'EPL-X AI 승부 예측',
+                    text: '{js_pred_text}',
+                    url: 'https://epl-data-2026.streamlit.app/'
+                }})
+                .then(() => console.log('Successful share'))
+                .catch((error) => console.log('Error sharing', error));
+            }} else {{
+                alert('⚠️ 모바일 환경에서만 지원됩니다.\\n[Copy] 기능을 이용해주세요!');
+            }}
+        }}
+        </script>
+        """
+        import streamlit.components.v1 as components
+        components.html(share_match_html, height=80)
+
 
 
 elif menu == "🔁 이적 시장 통합 센터":
