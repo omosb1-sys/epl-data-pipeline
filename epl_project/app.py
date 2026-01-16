@@ -294,7 +294,7 @@ with st.sidebar:
 
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
-    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "🔁 이적 시장 통합 센터", "📰 프리미어리그 최신 뉴스"], key="menu_selector")
+    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "🔁 이적 시장 통합 센터", "📰 EPL 최신 뉴스"], key="menu_selector")
     
     st.divider()
     
@@ -1207,7 +1207,7 @@ https://epl-data-2026.streamlit.app/"""
     else:
         st.info("👆 위 버튼을 눌러 실시간 분석을 시작해주세요.")
         
-elif menu == "📰 프리미어리그 최신 뉴스":
+elif menu == "📰 EPL 최신 뉴스":
     st.title("📰 EPL 실시간 뉴스 센터")
     st.markdown("##### 🌍 전 구단 뉴스 구글링 & 해외 전문 사이트(Statsbomb, Overlyzer) 분석 정보")
     
