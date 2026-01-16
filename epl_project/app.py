@@ -1204,6 +1204,60 @@ https://epl-data-2026.streamlit.app/"""
         st.info("👇 아래 텍스트를 복사(Copy)하여 카카오톡이나 SNS에 바로 붙여넣으세요!")
         st.code(share_text, language="text")
 
+        # [NEW] Web Share API Integration (Mobile Native Share)
+        import streamlit.components.v1 as components
+        
+        # JS에 들어갈 텍스트 정제 (줄바꿈 처리)
+        js_share_text = share_text.replace('\n', '\\n').replace("'", "\\'")
+        
+        share_html = f"""
+        <style>
+            .share-btn {{
+                background-color: #FEE500; /* Kakao Yellow */
+                color: #191919;
+                border: none;
+                padding: 12px 24px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                font-weight: bold;
+                margin: 4px 2px;
+                cursor: pointer;
+                border-radius: 12px;
+                width: 100%;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                transition: transform 0.1s;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            }}
+            .share-btn:active {{
+                transform: scale(0.98);
+            }}
+        </style>
+        
+        <button class="share-btn" onclick="nativeShare()">
+            🟡 카카오톡 / SNS로 바로 보내기
+        </button>
+
+        <script>
+        function nativeShare() {{
+            if (navigator.share) {{
+                navigator.share({{
+                    title: 'EPL-X AI 전술 리포트',
+                    text: '{js_share_text}',
+                    url: 'https://epl-data-2026.streamlit.app/'
+                }})
+                .then(() => console.log('Successful share'))
+                .catch((error) => console.log('Error sharing', error));
+            }} else {{
+                alert('⚠️ PC나 일부 브라우저에서는 이 기능이 지원되지 않습니다.\\n위의 [Copy] 버튼을 이용해주세요!');
+            }}
+        }}
+        </script>
+        """
+        # Iframe 높이 확보
+        components.html(share_html, height=80)
+
     else:
         st.info("👆 위 버튼을 눌러 실시간 분석을 시작해주세요.")
         
