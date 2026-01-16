@@ -319,7 +319,7 @@ with st.sidebar:
 
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
-    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "📈 AI 성능 분석(Monitoring)", "🔁 이적 시장 통합 센터", "📰 EPL 최신 뉴스"], key="menu_selector")
+    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "🔁 이적 시장 통합 센터", "📰 EPL 최신 뉴스", "📈 AI 성능 분석(Monitoring)"], key="menu_selector")
     
     st.divider()
     
