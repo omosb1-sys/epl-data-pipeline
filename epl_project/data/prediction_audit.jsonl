@@ -1,0 +1,4 @@
+{"timestamp": "2026-01-16 18:34:42", "data": {"home": "노팅엄 포레스트", "away": "뉴캐슬 유나이티드", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
+{"timestamp": "2026-01-16 18:35:57", "data": {"home": "본머스", "away": "브라이튼", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
+{"timestamp": "2026-01-16 18:36:37", "data": {"home": "토트넘 홋스퍼", "away": "풀럼", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
+{"timestamp": "2026-01-16 18:41:13", "data": {"home": "맨체스터 유나이티드", "away": "뉴캐슬 유나이티드", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
