@@ -809,8 +809,17 @@ elif menu == "🧠 AI 승부 예측":
             a_injury = st.selectbox(f"{away} 부상 수준", inj_opts, index=a_inj_idx, key="s_a_inj")
             a_vibe = st.select_slider(f"{away} 분위기", mood_opts, value=a_def_mood, key="s_a_mood")
 
-        # [4] 시뮬레이션 실행 (Deep Learning & Ensemble)
-        if st.button("🧠 AI 정밀 예측 분석 실행", type="primary", use_container_width=True):
+        # [NEW] Founder-Mode: What-If 가상 시나리오 설정
+        st.divider()
+        st.markdown("##### 🚀 [Founder-Mode] What-If 가상 시나리오 분석")
+        what_if_scenario = st.selectbox(
+            "강제 변수 투입 (전략적 시뮬레이션)",
+            ["없음 - 기본 데이터 기반", "핵심 선수 전반전 조기 부상/퇴장 (-15%)", "폭우/폭설 등 기상 이변 (언더독 유리)", "심판의 엄격한 판정 (거친 팀 불리)"],
+            help="파운더 모드: 특정 상황이 발생했을 때의 리스크와 확률 변화를 미리 계산합니다."
+        )
+
+        # [4] 시뮬레이션 실행 (Founder-Mode Decision Support)
+        if st.button("🚀 Founder-Mode: AI 의사결정 시뮬레이션 실행", type="primary", use_container_width=True):
             st.divider()
             
             with st.status("AI 인텔리전스 가동 중...", expanded=True) as status:
@@ -847,6 +856,14 @@ elif menu == "🧠 AI 승부 예측":
                         prob_torch = AI_TORCH(torch.from_numpy(input_scaled)).item()
                         prob_rf = AI_RF.predict_proba(input_scaled)[0][1]
                         prob = (prob_torch * 0.4 + prob_rf * 0.6) * 100
+
+                        # [What-If] 가상 시나리오 가중치 적용
+                        if "조기 부상/퇴장" in what_if_scenario:
+                            prob -= 15.0 # 패널티
+                        elif "기상 이변" in what_if_scenario:
+                            prob = 50.0 + (prob - 50.0) * 0.5 # 평균 수렴 (언더독 유리)
+                        elif "엄격한 판정" in what_if_scenario:
+                            prob -= 5.0 # 카드 캡터 체리 방지
                     except Exception as e:
                         st.error(f"예측 도중 오류 발생: {e}")
                 else:
@@ -857,7 +874,8 @@ elif menu == "🧠 AI 승부 예측":
                 st.session_state['pred_result'] = {
                     'home': home, 'away': away, 'prob': prob, 
                     'prob_torch': prob_torch, 'prob_rf': prob_rf,
-                    'h_data': h_data, 'h_power': h_power, 'a_power': a_power
+                    'h_data': h_data, 'h_power': h_power, 'a_power': a_power,
+                    'scenario': what_if_scenario
                 }
                 
                 # [ENG 3.3] Audit Log 자동 기록
@@ -886,6 +904,38 @@ elif menu == "🧠 AI 승부 예측":
                 st.metric(f"✈️ {away}", f"{100-prob:.1f}%")
             
             st.progress(prob / 100)
+
+            # [NEW] Founder-Mode: Risk Detector (리스크 탐지기)
+            st.markdown("#### ⚠️ 리스크 탐지 결과 (Risk Detector)")
+            risk_score = 0
+            risk_msgs = []
+            
+            # 리스크 1: 신뢰도 부족
+            if abs(prob_torch - prob_rf) > 0.2:
+                risk_score += 30
+                risk_msgs.append("❗ **모델 간 견해차**: 딥러닝과 통계 모델의 결과가 크게 다릅니다. 예측 불확실성이 높습니다.")
+            
+            # 리스크 2: 시나리오 리스크
+            if "부상/퇴장" in res.get('scenario', ''):
+                risk_score += 40
+                risk_msgs.append("🚨 **돌발 변수 경고**: 핵심 선수 이탈 시나리오 투입 시 확률이 급락합니다. 벤치의 뎁스를 확인하세요.")
+            
+            # 리스크 3: 초박빙 리스크
+            if 45 <= prob <= 55:
+                risk_score += 20
+                risk_msgs.append("⚖️ **박빙 리스크**: 현재 수치상 우열을 가리기 힘듭니다. 아주 미세한 변수(Var 등) 하나에 결과가 뒤집힐 수 있습니다.")
+            
+            # 리스크 UI 렌더링
+            if risk_msgs:
+                color = "#FF4B4B" if risk_score > 50 else "#FFA000"
+                st.markdown(f"""
+                <div style="background-color: rgba(255, 75, 75, 0.05); border: 2px solid {color}; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+                    <b style="color: {color}; font-size: 1.1em;">🛡️ 파운더용 리스크 경보 (Risk Score: {risk_score}/100)</b><br>
+                    {"<br>".join(risk_msgs)}
+                </div>
+                """, unsafe_allow_html=True)
+            else:
+                st.success("✅ **클린 리포트**: 현재 분석 범위 내에서 특이 리스크가 발견되지 않았습니다.")
 
             # [NEW] 다중 모델 개별 분석 결과 공개
             with st.expander("🔍 다중 모델 분석 상세 데이터 보기", expanded=True):
