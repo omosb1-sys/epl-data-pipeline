@@ -319,7 +319,7 @@ with st.sidebar:
 
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
     # [MOVE] 메뉴 이동을 구단 이미지 바로 아래로 배치
-    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "📈 AI 성능 분석(Monitoring)", "🔍 Datalab OCR", "🔁 이적 시장 통합 센터", "📰 EPL 최신 뉴스"], key="menu_selector")
+    menu = st.radio("🎯 메뉴 이동", ["📊 실시간 대시보드", "🧠 AI 승부 예측", "👔 감독 전술 리포트", "📈 AI 성능 분석(Monitoring)", "🔁 이적 시장 통합 센터", "📰 EPL 최신 뉴스"], key="menu_selector")
     
     st.divider()
     
@@ -1707,56 +1707,6 @@ elif menu == "📈 AI 성능 분석(Monitoring)":
     else:
         st.warning("⚠️ 감사 로그 파일이 아직 생성되지 않았습니다.")
 
-elif menu == "🔍 Datalab OCR":
-    st.title("🔍 Datalab Chandra OCR Lab")
-    st.caption("[ENG 3.1] 비정형 데이터(이미지 리포트, 전술 판넬)를 AI 데이터로 전환합니다.")
-    
-    col_u1, col_u2 = st.columns([1, 1])
-    
-    with col_u1:
-        st.subheader("📤 리포트 업로드")
-        uploaded_file = st.file_uploader("경기 리포트 또는 전술 이미지 선택", type=['png', 'jpg', 'jpeg'])
-        
-        if uploaded_file:
-            st.image(uploaded_file, caption="업로드된 이미지", use_container_width=True)
-            
-            if st.button("🚀 Datalab Chandra 엔진 가동", type="primary"):
-                with st.status("OCR 모델(Chandra) 로드 및 텍스트 추출 중...", expanded=True) as status:
-                    import time
-                    time.sleep(2) # 모델 로드 시뮬레이션
-                    status.update(label="구조화된 데이터 추출 완료!", state="complete", expanded=False)
-                    
-                    # 시뮬레이션된 추출 결과
-                    st.success("✅ 이미지로부터 98.4% 정확도로 데이터를 추출했습니다.")
-                    
-                    st.markdown("### 📊 추출된 구단 데이터 (JSON)")
-                    mock_extracted = {
-                        "team": "Unknown",
-                        "match_type": "Match Sequence",
-                        "detected_tactics": {
-                            "formation": "4-2-3-1 Detected",
-                            "pressing_intensity": "High",
-                            "defensive_line": "High"
-                        },
-                        "key_stats": {
-                            "expected_goals": 1.84,
-                            "pass_accuracy": "87%"
-                        }
-                    }
-                    st.json(mock_extracted)
-                    
-                    st.info("💡 **제미나이의 조언**: 추출된 데이터를 기반으로 'AI 승부 예측'의 가중치를 업데이트할 수 있습니다.")
-
-    with col_u2:
-        st.subheader("ℹ️ OCR 엔진 정보")
-        st.markdown("""
-        **Datalab Chandra**는 뉴스레터에서 선정한 세계 최정상급 오픈소스 OCR 모델입니다.
-        - **속도**: 기존 Tesseract 대비 3배 빠름
-        - **정확도**: 손글씨 및 복잡한 표 데이터 처리 탁월
-        - **로컬 실행**: 보안을 위해 서버로 데이터를 보내지 않고 내 컴퓨터에서 처리합니다.
-        """)
-        
-        st.info("현재는 시뮬레이션 모드이며, 실제 Chandra 가동을 위해서는 백엔드 서버에 모델 가중치(Weights) 설치가 필요합니다.")
 
 st.divider()
 st.caption("ℹ️ 본 데이터는 Google News, Naver Cafe, Overlyzer, Statsbomb 등에서 실시간으로 수집됩니다.")
