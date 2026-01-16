@@ -1,0 +1,28 @@
+[
+    {
+        "match_id": "GOLDEN_001",
+        "home": "Manchester City",
+        "away": "Ipswich Town",
+        "expected_winner": "Manchester City",
+        "min_prob": 80,
+        "required_keywords": [
+            "xG",
+            "ELO",
+            "전술"
+        ],
+        "description": "압도적 전력 차이 경기에 대한 기본 승리 확률 검증"
+    },
+    {
+        "match_id": "GOLDEN_002",
+        "home": "Arsenal",
+        "away": "Tottenham Hotspur",
+        "expected_winner": "Arsenal",
+        "min_prob": 40,
+        "required_keywords": [
+            "더비",
+            "상성",
+            "모멘텀"
+        ],
+        "description": "라이벌 매치에 대한 전술적 복잡성 및 키워드 추출 검증"
+    }
+]
