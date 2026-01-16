@@ -1183,6 +1183,27 @@ elif menu == "👔 감독 전술 리포트":
             for vid in report['videos']:
                 st.markdown(f"- 🎬 {vid}")
 
+        # 5. Sharing (KakaoTalk Style)
+        st.divider()
+        st.subheader("📤 리포트 공유하기")
+        
+        share_text = f"""[EPL-X AI 전술 리포트]
+⚽ {selected_team} | {manager_name}
+
+🛡️ 전술 키워드
+: {', '.join(report['keywords'][:3])}
+
+🧠 AI 한줄 평
+"{report['ai_summary'].split('.')[0]}..."
+
+📊 포메이션: {report['pref_formation']}
+
+🔗 더 자세한 분석 보기
+https://epl-data-2026.streamlit.app/"""
+
+        st.info("👇 아래 텍스트를 복사(Copy)하여 카카오톡이나 SNS에 바로 붙여넣으세요!")
+        st.code(share_text, language="text")
+
     else:
         st.info("👆 위 버튼을 눌러 실시간 분석을 시작해주세요.")
         
