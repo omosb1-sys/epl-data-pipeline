@@ -798,24 +798,29 @@ elif menu == "🧠 AI 승부 예측":
         col_cond_h, col_cond_a = st.columns(2)
         
         with col_cond_h:
-            st.info(f"🛡️ {home} 설정")
-            h_rest = st.slider(f"{home} 휴식일", 0, 10, int(h_def_rest), key="s_h_rest")
-            h_injury = st.selectbox(f"{home} 부상 수준", inj_opts, index=h_inj_idx, key="s_h_inj")
-            h_vibe = st.select_slider(f"{home} 분위기", mood_opts, value=h_def_mood, key="s_h_mood")
+            st.info(f"🛡️ {home} 전략 자산")
+            h_rest = st.slider(f"{home} 에너지 레벨 (휴식)", 0, 10, int(h_def_rest), key="s_h_rest", help="선수들의 체력 회복 상태. 낮을수록 후반전 실점 확률이 높아집니다.")
+            h_injury = st.selectbox(f"{home} 스쿼드 가용성", inj_opts, index=h_inj_idx, key="s_h_inj", help="현재 전술을 수행할 수 있는 주전 선수의 비율입니다.")
+            h_vibe = st.select_slider(f"{home} 팀 모멘텀", mood_opts, value=h_def_mood, key="s_h_mood", help="최근 승리 흐름과 자신감 지수입니다.")
             
         with col_cond_a:
-            st.error(f"⚔️ {away} 설정")
-            a_rest = st.slider(f"{away} 휴식일", 0, 10, int(a_def_rest), key="s_a_rest")
-            a_injury = st.selectbox(f"{away} 부상 수준", inj_opts, index=a_inj_idx, key="s_a_inj")
-            a_vibe = st.select_slider(f"{away} 분위기", mood_opts, value=a_def_mood, key="s_a_mood")
+            st.error(f"⚔️ {away} 전략 자산")
+            a_rest = st.slider(f"{away} 에너지 레벨 (휴식)", 0, 10, int(a_def_rest), key="s_a_rest")
+            a_injury = st.selectbox(f"{away} 스쿼드 가용성", inj_opts, index=a_inj_idx, key="s_a_inj")
+            a_vibe = st.select_slider(f"{away} 팀 모멘텀", mood_opts, value=a_def_mood, key="s_a_mood")
 
-        # [NEW] Founder-Mode: What-If 가상 시나리오 설정
+        # [NEW] Founder-Mode: Tactical Game-Changers (전술적 변수 투입)
         st.divider()
-        st.markdown("##### 🚀 [Founder-Mode] What-If 가상 시나리오 분석")
+        st.markdown("##### 🚀 [Founder-Mode] 전술적 변수 투입 (Tactical Game-Changers)")
         what_if_scenario = st.selectbox(
-            "강제 변수 투입 (전략적 시뮬레이션)",
-            ["없음 - 기본 데이터 기반", "핵심 선수 전반전 조기 부상/퇴장 (-15%)", "폭우/폭설 등 기상 이변 (언더독 유리)", "심판의 엄격한 판정 (거친 팀 불리)"],
-            help="파운더 모드: 특정 상황이 발생했을 때의 리스크와 확률 변화를 미리 계산합니다."
+            "강제 변수 투입 (Strategic Simulation)",
+            [
+                "없음 - 기본 데이터 기반", 
+                "핵심 자원 조기 이탈 (퇴장/부상 변수)", 
+                "극단적 기상 조건 (플레이 스타일 제약)", 
+                "엄격한 심판 배정 (피지컬 경합 리스크)"
+            ],
+            help="감독의 시점에서 발생 가능한 '최악의 시나리오'를 시뮬레이션에 강제로 투입합니다."
         )
 
         # [4] 시뮬레이션 실행 (Founder-Mode Decision Support)
