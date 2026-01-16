@@ -1152,6 +1152,7 @@ elif menu == "👔 감독 전술 리포트":
         with st.container(border=True):
             st.markdown("### 📝 AI 종합 전술 코멘트")
             st.info(report['ai_summary'])
+            st.caption(f"⏱️ 분석 실행 시간 (KST): {report.get('timestamp', 'Just now')}")
             st.caption("※ 본 코멘트는 수집된 기사와 영상 제목을 기반으로 생성된 요약입니다.")
             
         # 3. Formations Timeline

@@ -129,6 +129,8 @@ def analyze_tactics(team_name, manager_name):
         })
         
     # 5. AI 종합 리포트 생성 (Template-based Generation)
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
     summary = f"""
     **{manager_name}** 감독의 최근 전술 트렌드는 **'{', '.join(keywords[:3])}'**로 요약됩니다.
     
@@ -138,6 +140,7 @@ def analyze_tactics(team_name, manager_name):
     """
     
     return {
+        "timestamp": timestamp, # [NEW] Execution Time
         "manager": manager_name,
         "team": team_name,
         "pref_formation": pref_formation,
