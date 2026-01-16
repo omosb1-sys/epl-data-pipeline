@@ -740,6 +740,10 @@ elif menu == "🧠 AI 승부 예측":
                 h_form_str = h_data.get('form', 'DDDDD') if h_data else "DDDDD"
                 h_form_val = sum([3 if c=='W' else 1 if c=='D' else 0 for c in h_form_str[-5:]]) / 15.0
                 
+                prob_torch = 0.5
+                prob_rf = 0.5
+                prob = 50.0
+
                 if AI_TORCH and AI_RF and AI_SCALER:
                     try:
                         import torch
@@ -751,13 +755,28 @@ elif menu == "🧠 AI 승부 예측":
                         prob = (prob_torch * 0.4 + prob_rf * 0.6) * 100
                     except Exception as e:
                         st.error(f"예측 도중 오류 발생: {e}")
-                        prob = 50.0
                 else:
                     st.warning("⚠️ 안정화 엔진 로드 실패. 기본 전력 분석으로 대체합니다.")
                     prob = 50.0 + (h_power - a_power) # Fallback
                 
+                # [STATE] 결과를 세션 스테이트에 저장 (사라짐 방지)
+                st.session_state['pred_result'] = {
+                    'home': home, 'away': away, 'prob': prob, 
+                    'prob_torch': prob_torch, 'prob_rf': prob_rf,
+                    'h_data': h_data, 'h_power': h_power, 'a_power': a_power
+                }
                 status.update(label="분석 완료!", state="complete", expanded=False)
 
+        # [STATE NEW] 세션에 저장된 결과가 있으면 항상 표시 (버튼 클릭 여부와 무관하게 유지)
+        if 'pred_result' in st.session_state and st.session_state['pred_result']['home'] == home and st.session_state['pred_result']['away'] == away:
+            res = st.session_state['pred_result']
+            prob = res['prob']
+            prob_torch = res['prob_torch']
+            prob_rf = res['prob_rf']
+            h_data = res['h_data']
+            h_power = res['h_power']
+            a_power = res['a_power']
+            
             # 결과 가시화 (Senior Analyst Style - Multi-Model Breakdown)
             st.markdown("### 🏆 AI 통합 분석 엔진 결과")
             
