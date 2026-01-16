@@ -1702,27 +1702,51 @@ elif menu == "📰 EPL 최신 뉴스":
             st.caption("비정형 뉴스 데이터에서 핵심 메타데이터만 추출하여 테이블로 시각화합니다.")
             
             extracted_data = []
-            for news in res['news'][:10]: # 상위 10개 뉴스 분석
+            for news in res['news'][:15]: # 더 많은 뉴스 분석
                 title = news['title']
-                # 가상 추출 로직 (Simulation)
-                extracted = {"뉴스 제목": title[:40]+"...", "핵심 인물": "N/A", "카테고리": "일반", "중요도": "보통"}
                 
-                # 엔지니어링 필터 (Keyword based simulation)
+                # [ENG 8.5] 정밀 추출 및 가독성 최적화
+                # 핵심인물(Entity) 및 우선순위(Priority) 로직
+                entity = "🚨 전구단 공통"
+                category = "일반"
+                priority = 1 # 기본 우선순위 (낮음)
+                
+                # 1. 시뮬레이션 기반 키워드 추출 (Entity Extraction)
+                # 실제 서비스에서는 NER(Named Entity Recognition) 모델이 수행하는 영역입니다.
                 if "Injured" in title or "Injury" in title or "부상" in title:
-                    extracted["카테고리"] = "🏥 부상자"
-                    extracted["중요도"] = "높음 (🚨)"
-                    extracted["핵심 인물"] = title.split(' ')[0]
+                    category = "🏥 부상/결장"
+                    priority = 5
+                    entity = title.split(' ')[0] # 간단한 단어 추출
                 elif "Transfer" in title or "Sign" in title or "Deal" in title or "이적" in title:
-                    extracted["카테고리"] = "🔁 이적설"
-                    extracted["중요도"] = "중간"
-                    extracted["핵심 인물"] = "시장가 반영"
-                elif "Rumor" in title or "Talks" in title:
-                     extracted["카테고리"] = "🫧 루머"
-                     extracted["중요도"] = "낮음"
+                    category = "🔁 이적/영입"
+                    priority = 4
+                    entity = "💰 이적시장"
+                elif "Romano" in title or "Ornstein" in title:
+                    category = "🔥 1티어 특보"
+                    priority = 5
+                    entity = "🥇 인사이더"
+                elif "Tactics" in title or "Analysis" in title:
+                    category = "👔 전술분석"
+                    priority = 3
+                    entity = "🧠 데이터"
                 
-                extracted_data.append(extracted)
+                extracted_data.append({
+                    "우선순위": priority,
+                    "추천": "⭐" * priority,
+                    "핵심 키워드": entity,
+                    "뉴스 제목": title[:50] + "...",
+                    "카테고리": category,
+                    "중요도": "🚨 높음" if priority >= 4 else "🟡 보통" if priority == 3 else "⚪ 낮음"
+                })
                 
-            st.table(pd.DataFrame(extracted_data))
+            # 2. 우선순위 기준 정렬 (읽어야 할 뉴스 순위)
+            df_extracted = pd.DataFrame(extracted_data).sort_values(by="우선순위", ascending=False)
+            
+            # 3. 인덱스 재정렬 및 표시
+            df_extracted = df_extracted.drop(columns=["우선순위"]) # 내부 점수는 숨김
+            st.table(df_extracted)
+            
+            st.info("💡 **AI 추천 순위**: 부상 소식과 1티어 인사이더 특보가 가장 상단에 배치되었습니다.")
             st.divider()
 
     else:
