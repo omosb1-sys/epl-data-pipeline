@@ -218,10 +218,13 @@ def get_momentum_chart(team_name, power, wins_cnt):
     df_mom = pd.DataFrame(data, columns=['high', 'low', 'close'], index=dates)
     pdi, ndi, adx_res = calculate_adx_subset(df_mom)
     
-    # [UX Improvement] Rename columns for clear legend
-    df_mom['+DI (상승/공격)'] = pdi
-    df_mom['-DI (하락/수비)'] = ndi
-    df_mom['ADX (추세강도)'] = adx_res
+    df_mom = pd.DataFrame(data, columns=['high', 'low', 'close'], index=dates)
+    pdi, ndi, adx_res = calculate_adx_subset(df_mom)
+    
+    # [Global UX] English Legends for Reddit/Global users
+    df_mom['+DI (Attack/Up)'] = pdi
+    df_mom['-DI (Defense/Down)'] = ndi
+    df_mom['ADX (Trend Strength)'] = adx_res
     return df_mom
 
 
@@ -608,10 +611,10 @@ if menu == "📊 실시간 대시보드":
                 msg = "확실한 상승 동력이 보이지 않습니다."
                 
                 
-                # Column names updated for better UX
-                pdi_col = '+DI (상승/공격)'
-                ndi_col = '-DI (하락/수비)'
-                adx_col = 'ADX (추세강도)'
+                # Column names updated for Global UX
+                pdi_col = '+DI (Attack/Up)'
+                ndi_col = '-DI (Defense/Down)'
+                adx_col = 'ADX (Trend Strength)'
                 
                 adx_score = last[adx_col] if not pd.isna(last[adx_col]) else 0
                 pdi_score = last[pdi_col] if not pd.isna(last[pdi_col]) else 0
@@ -651,7 +654,7 @@ if menu == "📊 실시간 대시보드":
                     """, unsafe_allow_html=True)
                     
                 with m_c2:
-                    current_cols = ['+DI (상승/공격)', '-DI (하락/수비)', 'ADX (추세강도)']
+                    current_cols = ['+DI (Attack/Up)', '-DI (Defense/Down)', 'ADX (Trend Strength)']
                     chart_data = mom_df[current_cols].copy()
                     st.line_chart(
                         chart_data, 
@@ -757,16 +760,16 @@ if menu == "📊 실시간 대시보드":
                 
                 # Style Logic: Win Rate > 50% = Strong
                 if wins > losses:
-                    style = "상위권 (Strong)"
+                    style = "Overperformer (Strong)"
                 elif wins < losses:
-                    style = "하위권 (Weak)"
+                    style = "Underperformer (Weak)"
                 else:
-                    style = "중위권 (Mid)"
+                    style = "Average (Mid)"
                     
                 plot_data.append({
                     'Team': t.get('team_name'),
-                    'Power Index (전력)': power,
-                    'Points (승점)': points,
+                    'Power Index': power,
+                    'Points': points,
                     'Style': style
                 })
             
@@ -777,13 +780,13 @@ if menu == "📊 실시간 대시보드":
         # Plotly Scatter
         fig_perf = px.scatter(
             df_perf, 
-            x='Power Index (전력)', 
-            y='Points (승점)', 
+            x='Power Index', 
+            y='Points', 
             text='Team', 
             color='Style',
-            color_discrete_map={"상위권 (Strong)": "#FF4B4B", "중위권 (Mid)": "#00E5FF", "하위권 (Weak)": "#9E9E9E"},
+            color_discrete_map={"Overperformer (Strong)": "#FF4B4B", "Average (Mid)": "#00E5FF", "Underperformer (Weak)": "#9E9E9E"},
             template="plotly_dark",
-            labels={'Power Index (전력)': '🔍 AI 전력 지수 (Power)', 'Points (승점)': '🏆 리그 승점 (Points)'}
+            labels={'Power Index': '🔍 AI Power Index', 'Points': '🏆 League Points'}
         )
         
         fig_perf.update_traces(
@@ -793,8 +796,8 @@ if menu == "📊 실시간 대시보드":
         
         # Add Reference Line (Ideal Performance)
         # Simple Linear Regression like line for visual guide
-        min_p, max_p = df_perf['Power Index (전력)'].min(), df_perf['Power Index (전력)'].max()
-        min_pts, max_pts = df_perf['Points (승점)'].min(), df_perf['Points (승점)'].max()
+        min_p, max_p = df_perf['Power Index'].min(), df_perf['Power Index'].max()
+        min_pts, max_pts = df_perf['Points'].min(), df_perf['Points'].max()
         
         fig_perf.add_shape(
             type="line",
