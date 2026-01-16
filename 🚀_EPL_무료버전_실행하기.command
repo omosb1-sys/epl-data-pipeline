@@ -17,7 +17,7 @@ fi
 
 # 필수 부품 체크 및 설치 (이미 있으면 빠르게 스킵됨)
 echo "🛠️ 필수 부품 체크 및 업데이트 중..."
-$UV_BIN pip install --python .venv_epl/bin/python beautifulsoup4 requests lxml streamlit pandas torch scikit-learn joblib xgboost lightgbm statsmodels
+$UV_BIN pip install --python .venv_epl/bin/python beautifulsoup4 requests lxml streamlit pandas torch scikit-learn joblib xgboost lightgbm statsmodels plotly
 
 echo "📂 Project Root: $(pwd)/epl_project"
 

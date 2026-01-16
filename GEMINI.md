@@ -98,6 +98,10 @@ AI 모델은 모든 코딩 및 분석 작업 전에 이 파일을 참조하여 �
 *   **Thinker-Summary Structure**: 복잡한 전술 분석 시, 먼저 방대한 양의 '생각(Thought)' 단계를 거친 뒤(교사 모델 역할), 사용자에게는 가장 핵심적인 '요약(Summary)'만 전달(학생 모델 역할)하는 구조를 취한다.
 *   **Context Compression**: 사용자에게 전달되는 리포트는 정보의 손실 없이 밀도는 높이고 분량은 최적화하는 '압축적 전달'을 원칙으로 한다.
 
+### 8.3 Interactive Intelligence (mcp-use Concept)
+*   **Widget-First Display**: 정적인 텍스트 답변을 넘어, 사용자와 상호작용 가능한 **인터랙티브 위젯(차트, 카드, 실시간 데이터 카드 등)**을 UI에 적극 도입한다. 모든 분석 리포트는 단순 글이 아닌 "살아있는 위젯"의 결합으로 구성한다.
+*   **Plug-and-Play Connectors**: 다양한 외부 도구(MCP 서버 등)와의 연동을 전제로 설계하며, 수집된 실시간 데이터를 시각적 증거(Evidence)와 함께 제시하여 신뢰도를 높인다.
+
 ---
 *Created by Antigravity (Gemini 3) for K-League & EPL Analysis Project*
-*Last Updated: 2026.01.16 based on Master Fullstack AI Newsletter Insights*
+*Last Updated: 2026.01.16 based on Master Fullstack AI Newsletter Insights (Inc. mcp-use)*
