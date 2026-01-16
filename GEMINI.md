@@ -102,6 +102,19 @@ AI 모델은 모든 코딩 및 분석 작업 전에 이 파일을 참조하여 �
 *   **Widget-First Display**: 정적인 텍스트 답변을 넘어, 사용자와 상호작용 가능한 **인터랙티브 위젯(차트, 카드, 실시간 데이터 카드 등)**을 UI에 적극 도입한다. 모든 분석 리포트는 단순 글이 아닌 "살아있는 위젯"의 결합으로 구성한다.
 *   **Plug-and-Play Connectors**: 다양한 외부 도구(MCP 서버 등)와의 연동을 전제로 설계하며, 수집된 실시간 데이터를 시각적 증거(Evidence)와 함께 제시하여 신뢰도를 높인다.
 
+## 9. 🧠 Context Engineering Protocol (75% Rule)
+**AI의 답변 품질은 모델 자체보다 '어떤 배경 정보를 주느냐'가 결정한다.**
+
+### 9.1 Query Augmentation (쿼리 증강)
+*   사용자의 입력을 그대로 검색하지 말고, 내부적으로 **[최신 전술, 핵심 부상자, 최근 상대 전적]** 등의 하위 쿼리를 생성하여 검색 품질을 3배 이상 강화한다.
+
+### 9.2 Memory Management (장기 기억)
+*   **Lightweight Persistence**: 팀별 핵심 전술 변화를 `team_memory.json`에 텍스트 기반으로 보관한다. (맥의 자원을 아끼기 위해 최대 5,000자 이내로 자동 요약 유지)
+*   **Historical Context**: 새로운 분석 시 항상 '장기 기억' 파일의 과거 데이터를 먼저 읽어 시계열적인 변화를 리포트에 반영한다.
+
+### 9.3 Contrastive Generation (대조적 생성)
+*   단조로운 문장 생성을 방지하기 위해, 리포트 생성 시 중복된 키워드를 지양하고 통계 데이터와 텍스트 인사이트가 교차되도록 프롬프트를 설계한다.
+
 ---
 *Created by Antigravity (Gemini 3) for K-League & EPL Analysis Project*
-*Last Updated: 2026.01.16 based on Master Fullstack AI Newsletter Insights (Inc. mcp-use)*
+*Last Updated: 2026.01.16 based on Master Fullstack AI Newsletter (Inc. Context Engineering)*
