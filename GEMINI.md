@@ -102,6 +102,13 @@ AI 모델은 모든 코딩 및 분석 작업 전에 이 파일을 참조하여 �
 *   **Widget-First Display**: 정적인 텍스트 답변을 넘어, 사용자와 상호작용 가능한 **인터랙티브 위젯(차트, 카드, 실시간 데이터 카드 등)**을 UI에 적극 도입한다. 모든 분석 리포트는 단순 글이 아닌 "살아있는 위젯"의 결합으로 구성한다.
 *   **Plug-and-Play Connectors**: 다양한 외부 도구(MCP 서버 등)와의 연동을 전제로 설계하며, 수집된 실시간 데이터를 시각적 증거(Evidence)와 함께 제시하여 신뢰도를 높인다.
 
+### 8.4 Architecture: Multi-Agent Debate (에이전트 토론)
+*   **Contrastive Perspectives**: 단일 모델의 답변에 의존하지 않고, '전술 전문가'와 '데이터 분석가' 등 서로 다른 페르소나를 가진 에이전트들이 토론하여 결론을 도출하는 구조를 지향한다. (Conflict & Resolution 모델)
+*   **Consensus Mechanism**: 양측의 의견 차이를 분석하고 최종적인 합의점을 제언함으로써 사용자에게 다각도의 신뢰를 제공한다.
+
+### 8.5 Data: LLM-Ready Extraction (정밀 데이터 추출)
+*   **Unstructured to Structured**: 비정형 뉴스/칼럼에서 [선수명, 부상부위, 예상 복여일, 이적료] 등 핵심 메타데이터를 정밀하게 추출하여 시각적 테이블로 변환하는 '증류 파이프라인'을 상시 가동한다.
+
 ## 9. 🧠 Context Engineering Protocol (75% Rule)
 **AI의 답변 품질은 모델 자체보다 '어떤 배경 정보를 주느냐'가 결정한다.**
 
