@@ -1,13 +1,23 @@
 {
-    "timestamp": "2026-01-17 19:07:32",
+    "timestamp": "2026-01-17 20:10:41",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "Nottingham Forest 0-0 Arsenal: Premier League – live reaction - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVZDcnI4cGllUmtqZmtPckZDMDNNSmlDN0d3NlpKWG80RVRfZFhfMHZyMi1jc09BZ0FHeFREa1ZhMVdmWlRHOU5iVVc3cWp4eExZbFRydmRkUnVTNS01SkptbTA3WnBMVkhIMXpDM2RkVnJUcDgxN0lmbmpTYVZoV3g1NUFCdDluZVFVRzdrQUlMdWhaSHNVM1MxeENBcW1oWXNv?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Nottingham Forest vs Arsenal LIVE! Premier League match preview, team news, live blog, highlights, match report - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMV9EQno1MVRyUlZ0VVNkZTllMkpRN2ZOZGh5QmFFcWRoOV81eXZ1VmJaRHZOVkEydUtHRVlSWGxHYk80dVl2bTlmN1Y5c09XVDZQQTVLTUNCdk9xT0J5ZVdKSlFjT0xfNzJnWXV6RGlVdUJ2TlZoSGNhSUxKSWo0M3psUFc3X3lLRmNvNHdZNnk2WGFiSElNeWFzN0xCQ2RLOTJ0QkZfUkItMzZuLXBKYUI3bEpIVWVYZkxIQUhmNTNPbmRnWUZ5anZkTUQ5Y09BdE81U1h1Ty1DLURlWk15RlVWZFFpT0dsVkl6WXQ3aXJ1cEE?oc=5"
+        },
+        {
             "source": "Daily Mail",
-            "title": "Nottingham Forest vs Arsenal - Premier League LIVE: Latest score, team news and updates as Gunners look to... - Daily Mail",
+            "title": "Nottingham Forest vs Arsenal - Premier League LIVE: Latest score, team news and updates as Gunners fail to... - Daily Mail",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1dpOWpYand4YXpGaFZ3SWdXdmVTMWFvNHFVYng4b0o4T0F4SXBpU1RZbDFpLUEwbHR2T1pDTWp1ZDNnZk10MXVMeDJLbVEyZWVtRnNHQ3UyMy0zZkdJMHZjWUNQdkhCUTc1ZEJ1aVQwd3NxOHdHWHlJOGJKdE5nbzRkVEZab2FZQTJSMFB6X2xONVoyMlNBZ2p4SEVNRGJZQ1laTElwaEh4SVF6enFWN3g4WXNFMVotSGU1d3ZITWFpT2hpT05r0gHMAUFVX3lxTE9DazNCZVgtMnM5V2JJRS1JdGhLamgtM2FGZ0Y4SDdEdTYycmwyYmprakZreHc1VTJDM3lVUFNBRllsYWI4T0lYeVFPVDNHcWV2YjlfemxVWmVhNnNsV3NQSENXdExZYTlhbzZJamNDZG1kUXVYV0NwN3dmcjExemhYRU80S1VUaFZOUW5UeDJmbGRKR3lCTDNZRXdhbU5TVzh2a2tWbVBvVUNweGpPay04bHNTcXF5RjlTbmk4dHQwcHhCMndyMjhsb0JQQg?oc=5"
         },
         {
@@ -16,34 +26,24 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkxCblZ0eFZJM2NmR2VtVVpMUlYtdmU5aDFidlJobklFZTJ4T3FfT3ZEbmRzbHNvM0pYQWtVTVlCWXE1NFhOekdxUTBCNTBieTdocGg3RWl3d1NfeTdoY001ajc0eGw5Z3Y2a1M4M2xxalhKYVlCLTNPVUtCcXJRc3Q2bUNzWUVNRmNBdjBUMUFnXzFOZ3pzYTJBeWt4Q3BWdGVTTTVyaw?oc=5"
         },
         {
+            "source": "The Guardian",
+            "title": "Wilson’s last-gasp West Ham winner deepens Frank’s Tottenham crisis - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkdlcFVGcWVWd01xNEI2TVN1bDhHTnVyeHozNUtGdngzcGZvaGhNc3pabWdWd2tEejI0U1B4bWNzZTBPTk9iYlVlRE8tdHdkSk9rRG1VTkZxRy1tQnFVamFXdEd0RDg5MHZRR2lVdTdyenBKQ2NheEV6ZFlCcDhud20wUWhrUkVYbWptRXRzQTZGZWFxV0lKbVZNTQ?oc=5"
+        },
+        {
+            "source": "Daily Mail",
+            "title": "Chelsea vs Brentford - Premier League RECAP: Latest score, team news and updates as Callum Wilson's... - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNeHVRVE9rLVhyVk1aVFJsY2RRaXBQU1N3SnpTM1FUZ0JteFRzYW1SdUhHaXpKQ0FpQk1xemU0aVZ3WlN4QUtGbW1zM0lENlNBd3dySmp1dUNuYTc0LXEtc1N2U3UzME5ldDg0eEt3a1V2WjZtTTBfR1YtUXZmeS1DTURlelE4cXBHMG9jQVZKck1MWHM0ai10VnUzaVBVSkhaQW5IeWdjMmNuUzRWR0JFZzdHZ3NGejNsRENocFVsRTBkSUxZQ3pIbHpxZHhyNjhJTzVzTzI1aUJ4Q3lobXRMcjJlRzBtV01ya3JRMEdhYWxoN1RKdVMxa1VFbVJkTXhkUHRxekVVc3NHSFM3aXRvYmxOX2ZkdHQ5WUJ5TUFuVmZwdllwbHhCbUZKYWFMSUVSRUHSAbcCQVVfeXFMUG84MWUwMWREM19yTkFLQkZjaTVPT09WSWJ0YXBPWDdOaHZuYXpvVExOTWxfVURJT1FmNEFiUnh6QkZBSHN5RHZ0SWszSFEtWWxnRkljM09kdXpMY0UzSnJqanp6SjROZGJxVm1RUVlyMTRRa25UNV8wUjY0ZXd2bDExWlJlTHlfSWdKclp1aF9Jcmk2MWZUbjVLOHktX0o0b1M0b2R1OTJQc01QbUxQcXAzUjJORmh4TTN1aTVJV3BfUDNmalVDWVNjbUFWOXBZdmRXamd3bEVYX0UxbTlGbXhITzVFODlHVDdCQWg3aFFGQ1ZUWmx0Nk9OYnBtVVlENEZpRG9meFdmb3k1NU8xdDB3WERjVjFIUkhNRUtVWkZSbDZ2WkFETVQ3UVd4eFE0TW1hanZwekk?oc=5"
+        },
+        {
             "source": "London Evening Standard",
             "title": "Chelsea vs Brentford LIVE: Latest score and updates from Premier League - London Evening Standard",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3ozRkFJWmZ2RDMwaTNKSHRGeV94QXN1QXFFQXFzQVhreXV0NkdMN3RLUkJ4cVBmT3JfNmtaMnhpdkduMHkxQ0kzQjU5OWJQTzlmRXR3VHF5NW82RTQyVzhoMlNQZHU0dUxkX3Q0TjFCZ1dCd2pXOU4tYmlQNTJiRkZpZGEtZXN1N1pZUk1fUWttc3NoM1UzNWdaalFkY2xBMm9HZEk5N25OYVpCVnRPT0dpQnAwRmtvTzhkUDFjbFlLX2NLQnpySG1xNHlmTzg?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Chelsea 2-0 Brentford: Liam Rosenior earns first Premier League win as Blues survive against wasteful Bees - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdzZMaVBWeFdnUGxubUt4R2lFLUY5YTdqUE5XLUpvOHdkOGl3ZTdNMjN6UG9uUnpMUHRxYTNEZm9jYUpoaXhiXzRrLTU3VURrdmE1ckx1ZXdRNE1OUEF4RDdYQ0lNR2RtakJLLWVNMW1nUUJkN2Qza3NHeTBMMEZqaEctNGt6YTVMNndpQUR1WVBNbmo1N244R1VNcV9uQmdJVGgzWFV5a25FTUZDUGZNckM4b0M2amw2V21GdHB4QlpCNHdsYzZiVkpJZkM2LVVua3diNGFDX3o3ZTNEWG8wVnQzN1M1Y1otM1pLLTJJRXp4UQ?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Chelsea end wait for league win after João Pedro and Palmer sink Brentford - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmI3X2duaFFTTzVzdkdjSlp4NDJHeWVjX2FXMjhCYnV2bUdfZ0M5ZHhpTVhaMnk4NlQ4aE9jUXB5ZE1teGFuQV9yZkswSk4xcTA5M1hUd0d2NG5GUU9pQkZEVTRfVGlJYWlmWm1BMDc3TjF3WUEyWlFsX2hpeG1seVJremtHenJna0JtTnFCYkhySWRlVjFZc093?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Manchester United 2-0 Manchester City: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1QxT0hXSmlxMWVJTkdLd3RCdDdNLU5yUGwzb0FpVkc1MmtFc0RqQklCVUtvOWZ2NllncHdqNjhaeTBxeHR3N2U5VWVxRzhIQ0ZwQUxPZzBjenVkM19OT0lkOXo4NFFJOHhfN1MzT3RXX0xnazJfby1FSWxRN0hWSTRzR0p4ZDJMMmlqcTllcVhKdTJ0TTlTZHZBS3NsSEZueEc1UUVkbmkxOXkyYnc?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "All your FPL stats and Premier League team news in one place - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KZUxlYk9KYzNMQ21MTVBvMDhzOHJES0dBajZ6MEp4Wl8xZG5qZTBtVklFT3pqQUtFYm81MHBiUkEydmpfZ0VnOExpc2cyMzRBbDhSR0x2VlpjR19fTXc?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League transfer news LIVE: Managers speaking about their latest January business - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdnhSbFFzNmJWZHEtaml6UWtYTmI0ZXZnQkZMQjhkQU9pbm80UzFTSTB0c0RpYTBhWk1jeFZIN0lla3VfRVBValVSTEpiODYyQWtIb0Q0bHpxc0x5bnoxejV3?oc=5"
+            "source": "The Sun",
+            "title": "Chelsea vs Brentford LIVE SCORE: Latest Premier League updates - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclR0UWVZLXdCT1lWVERRUnpPM3E0Q2YyT001TjdQZFI1RTVWbEp5ZXRWQ3BCZGthV1BjbWRXZUM3TUZZeTVpdUhpVUItQUFOQXluSE1yT1dIX0l3ZURHWExWeDhxLWVPQ0wyekxoT3hLbGYweE12aWhxSXVUeldUcVNHbWNVamdTTVdSMmtyOGEzbUFOZXV6NmI3WTJrcWZSUVJpUA?oc=5"
         },
         {
             "source": "Football365",
@@ -66,11 +66,6 @@
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2RfR21vVURpVzZBTDBFNURtb2ltU1dVSXJXUmZuUEZVRlBJS0lYOWJGZTJSUExEZDlFZVA4RW5ra0MtWmE2Y2d1allRZTVPc0NrVXh3LW9qZFA3ZnFRRU1KX1R2UE1rbEM0Y01UaGtjSjdBV1pWdEtPYWNuejJCcDU0YTlnLVZDbXZiTkZud3MydG8?oc=5"
         },
         {
-            "source": "ManchesterWorld",
-            "title": "Fabrizio Romano confirms 'official offer received' for first Man Utd transfer of January window - ManchesterWorld",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObENuTWtzbE45VmVSVThwblpuVGVta3YtcFpIZVJrSlJBM2xPZ1VuT3NpR1JPLUxMOHFzcmFoamtCMDF6cGtZRzlZbWkyWjRidXZkTU5laVluN1JMSEZ0WXlsMjNrVnMtaEZES2lBMVpPdm9veXhXZWQxdm1Eek9EUnZsSUt1VXZHRDlyQ2NSVFk3emlmWjh4NWFSc1p6OU1HeW9HVVZoLUJvdWhONnlGRnduQmJKNjRJMldhVzEzTmhCQ3VTYWRrVFhJd3R5THMtaHRWb2RXeTFNVmFDNkZlNi0wTV82alcxcUNKWnpzWnhCd250RVdCbA?oc=5"
-        },
-        {
             "source": "Hotspur HQ",
             "title": "Fabrizio Romano drops word that Tottenham's first January signing is all but official - Hotspur HQ",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3h4Sm1FOWtVZFROczhkT2VidUtReUVrYk82eVVQSm1sWjVPX20yakpOUkdDMzBVUS10eV9rVk43WXJmRk5aUC1sd3pINVpyMkNiWmVCZkg5d3l5LWh3SzYxcVRPb05oYnBFbk1rU05CYWw2Q2VJbTlqWXl3ZHZvZTY1dmNmN3F5azc5UG9vZjdIOFhac05zZ1BPSWxXWTBCbS1Pb2lxWHhCbU1PX2ZHcnRnbjd0QjZvSHZnbw?oc=5"
@@ -86,9 +81,14 @@
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmRqZDBVWnpnWHVQMHgxR0hQcG83M01fVVR0RFVsMDhYYWNjT1Y5QlhWUkxXU2V1NktjMXZuOXdzZWhiX1g0UzJ0a1FFTUZKSnFxenJDX1BYMFhuaTJ6d0FCYmh0bzVsTVlZUzk2MkdrallvVW5GSDA1dW9TbDNlcEVSMl9jUDBpbE5rV3BaTFZ1NTVZSHZiTjE1RjZaeHowbF9sTWxBTjA5WHJLdE15Q2RQV3hZc2ZpRWdCVU93?oc=5"
         },
         {
+            "source": "The Celtic Bhoys",
+            "title": "'Official announcement' - Fabrizio Romano drops Celtic news - The Celtic Bhoys",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkFTRHBvSDRSTVFjUWJPZjNpYkFETkhsdmlIUHZDMUk0UHBBMEZjUWcxcXdPdGU0Z0NtaXF5UUVZXzFZRU8wbHlna19CSnJ4X3RfTnFzNWFsZ3FvR1ZtV2RoMW5HM055Rm5GTzN6eXlBZzRWOTBxcmE2SU53aXpTZ2ZOVWZIcm5MTHc?oc=5"
+        },
+        {
             "source": "The New York Times",
-            "title": "Leeds make enquiry for Wolves forward Jorgen Strand Larsen - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1ObDY1bHB3STNIcWZES05fYjJCVDEyek5jVy1zYXhPQmtHUEIyenNVMmhjSWFiQzZ1UUVUY2dNM3EtdUxZT3pXOFZkSjhWOVZqUm5vU2Z2aDZfVktfMDVsWVpMa0FRUEJFZk95cFF5RlNZNF94cTl5VlB1T1c0elJrd1VEWXd4eTk0b2lVd0NTMWlJWm8wS3J4cw?oc=5"
+            "title": "Barcelona’s Dro Fernandez tells club he wants to leave - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdZWlhWcFhCQTVLcG5qYzNJTVNHLWdHM09jc2dpRzRTejZfTmg2TTBrQ1hPejB3YXVqVDA4WndTYnVOTlZTbldfd1Z3b1BSQkJiVTducXgzQlRnYnZqb1M2UTFRM2dZMTNxTlc3MUVMYWEwODlLYmMxdUY3TWxjY29YRGFLZ1VJMlA2c2x2elh5TjEzQWhnb09aRjR5QQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -97,8 +97,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Barcelona’s Dro Fernandez tells club he wants to leave - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdZWlhWcFhCQTVLcG5qYzNJTVNHLWdHM09jc2dpRzRTejZfTmg2TTBrQ1hPejB3YXVqVDA4WndTYnVOTlZTbldfd1Z3b1BSQkJiVTducXgzQlRnYnZqb1M2UTFRM2dZMTNxTlc3MUVMYWEwODlLYmMxdUY3TWxjY29YRGFLZ1VJMlA2c2x2elh5TjEzQWhnb09aRjR5QQ?oc=5"
+            "title": "Leeds make enquiry for Wolves forward Jorgen Strand Larsen - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1ObDY1bHB3STNIcWZES05fYjJCVDEyek5jVy1zYXhPQmtHUEIyenNVMmhjSWFiQzZ1UUVUY2dNM3EtdUxZT3pXOFZkSjhWOVZqUm5vU2Z2aDZfVktfMDVsWVpMa0FRUEJFZk95cFF5RlNZNF94cTl5VlB1T1c0elJrd1VEWXd4eTk0b2lVd0NTMWlJWm8wS3J4cw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -128,7 +128,7 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -137,18 +137,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlMtSF9leV9JQmh2cmpodlZ3SXM0ZEJoSnZRSl9WYWZGZ0g3VnY3OGVKcVhnNHF4QWxJTDJiNmNkT1REZk9SeWlvWVdjTkszMkMzeUFtUS1wZm5OSVExNmN6d3lEaTc3S0JxRWZYeXpQRS1Pa1U5WElmdXZBQk5IeGw0MmlIVHc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Scottish Premiership news, transfers, rumours, gossip and more - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGRVNWduTWljUlJOVlJwal8yT09XRGJsbDhwVFNVSzI4OEt2QnJYa0FxT1JHb1R3U1RqRmxZRVFvRkZLU2trajFIYnRaNndzMlg1R0MyYUZuYjMyRjBnUWVKa1JRazVEbW91YmozdGNablVobUdsc1d1V2tQNGZEckJPQkJyakpEbV9hRGhsenJRME4teU1iUW1HaTB5U0NWNmxZNzNjUmc2eW5OYVloQ1hpTmV4SzE4QWlz?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -157,13 +157,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
+            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0lnbmFOcEx1TDBjZG1fem9ic3JQNFRfa05hT3R6alQtOHk0dXNfQkRTd0NLa0hTdThQaXhFSHFxdVVsUVpVU0R4VDBrbmJsQUpQMWQ4RTI0N0tmYTBWUDV2d1dYRVphZi1idE1WNVlLWEZTUF9EVFdURVg1QlJLN2k0dXVWUVY1ZFNqTXJaQ1NqeW5NWDRzR0RHeDFJV0dqSDV5a0d3TUcwaERGWHNhd20zaWhqMnNkN3hWcExlLWF1UWJmRl8xa1VPVEpYeFFwaUNDVklGeU5PNHdrQjZ0Wjh3Qk5TZkhMMktiMU9LNlRGelZu?oc=5"
         },
         {
             "source": "네이트 스포츠",
-            "title": "'보고 있나 아모림' 캐릭볼 미쳤다! 맨유가 맨시티 2-0 압살이라니…'맨체스터 더비' 설욕에 퍼거슨도 방긋→4위 점프 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SVkdZcGx2TlBhWllONnlydVJ3WDJ5YnRwTllYM1RfT0VQMVlPdHpfYjE4QmZ5MHg3R0hlTVlFVXVidjliMjM5MmlyMGgxeWFtQ1J0YVhNNmZVX0VP?oc=5"
+            "title": "손흥민 런던 다녀간 뒤 속절없이 무너지는 토트넘…8경기 1승, 강등권에도 무릎 꿇어 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sYXE4TV9oQnoyS0NrbDRiQWxaRmdvVWxfbHp6MG13TklWQkdrSVFlbk93c3VSaEhVd25FR1ZBdUdCai1YS2p1YlYydDNFa0o1YlpkdEJVdzFGaUYy?oc=5"
         },
         {
             "source": "ZUM 뉴스",
@@ -174,6 +174,11 @@
             "source": "조선일보",
             "title": "'손흥민 아웃!' 127골-71도움인데 베스트 11 탈락…손흥민 제외, 납득 어려운 선택 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlN0eDB2bEo0S2VlM3hoMkw3U0pGMzJ0VUFRN3R1cVNFWDN5NFlqckRySlcyYzZPV1N0OFFPMXdIdHZVNWJBeFJITlF5MjRwM0xTaWFUcnk1SElsc29iaWtxWkQyMUsyTEllUEhlZ0ZNTkJqV2czbkV6emtkVHgxZkJTUm9zRTNzamxn0gGfAUFVX3lxTE1abFlHbkQtaUloZGQ2X2ZDbWZhTGljdkJNRkRMYnBNc2JCRFRqNXBXdEw3SHd4eUFUTGJTdFlYN2xzMXNtNTdCUHN0TVd6OUt1QVNQeUZ6TEN5aVVWZ211bTFDYmZEa2VvT0JPUTRLNVl2b2xnbUpsbVQ0UmxacFZIVUo0b0VvVktEWEJwdF9pbmRzLVNkeWRCNkZkMXhHRQ?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "'보고 있나 아모림' 캐릭볼 미쳤다! 맨유가 맨시티 2-0 압살이라니...'맨체스터 더비' 설욕에 퍼거슨도 방긋→4위 점프 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nSmpQMkpIZGgtOVJrWlQ3RlhuWS1OYTRXNU02cno4SHdpY2xRS3B6SDBXUzNMdXM0dDRyS25qUDV3LXBBYV9aWTRUQUQ1Skh3RVdtYlZ4cGs4M09NV25xR29JLWhON2xIc0E?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -199,11 +204,6 @@
             "source": "시사포커스",
             "title": "크리스탈 팰리스, 글라스너 감독·주장 게히 동반 이탈 전망 - 시사포커스",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TRTQtTzJkLUQxWHBRMUZfY0o4TnhzSENwcllQMGNnaU5abjJlaGxiS1M3ZHRKdE9wcXJiRE5TVnZzRXcyUVdqbS04TkhBVWluSmpxek5RSHQ4bE5GR25DQnZILWxHWEEwak5idG5oVQ?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "[승부예측] 1월17일(토) 21:30 PL 22R 맨유 vs 맨시티 스코어 예측 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92aXV1SEV6VUVFWUFYZDcxUmo0OF8wZ2ktYTNLSkpJQ3dXU1ZXN2R4UHFIM3dOQ3ZJcjdBMmJUNHBhbUYxZDE3MWRJaGpidGQyRjRFZHFrVG0tTzJDT2VfOFRGUjlYaHFmT0F1RXdGZ2ltTWVy?oc=5"
         },
         {
             "source": "스포츠경향",
