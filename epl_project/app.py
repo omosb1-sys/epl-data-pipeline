@@ -1683,7 +1683,7 @@ elif menu == "👔 감독 전술 리포트":
         st.divider()
         
         # 1. Key Insights (Badges)
-        st.subheader("🔑 핵심 전술 키워드 (AI 추출)")
+        st.markdown("<h3 style='color:#FF6B6B;'>🔑 핵심 전술 키워드 (AI 추출)</h3>", unsafe_allow_html=True)
         kw_html = ""
         colors = ["#FF4B4B", "#1E88E5", "#4CAF50", "#FFC107", "#9C27B0"]
         for i, kw in enumerate(report['keywords']):
@@ -1695,7 +1695,7 @@ elif menu == "👔 감독 전술 리포트":
         
         # 2. AI Summary (Enhanced Readability)
         with st.container():
-            st.markdown("### 📝 AI 종합 전술 코멘트")
+            st.markdown("<h3 style='color:#4FC3F7;'>📝 AI 종합 전술 코멘트</h3>", unsafe_allow_html=True)
             
             # Custom styled box for better readability
             summary_html = report['ai_summary'].replace('\n', '<br>')
@@ -1718,7 +1718,7 @@ elif menu == "👔 감독 전술 리포트":
             st.caption("※ 본 코멘트는 수집된 기사와 영상 제목을 기반으로 생성된 요약입니다.")
             
         # 3. Formations Timeline
-        st.subheader("📅 최근 5경기 포메이션 변화 (추정)")
+        st.markdown("<h3 style='color:#9C27B0;'>📅 최근 5경기 포메이션 변화 (추정)</h3>", unsafe_allow_html=True)
         cols = st.columns(5)
         for i, game in enumerate(report['recent_games']):
             with cols[i]:
@@ -1736,19 +1736,19 @@ elif menu == "👔 감독 전술 리포트":
         c1, c2 = st.columns(2)
         
         with c1:
-            st.markdown("#### 📰 분석에 참고한 칼럼/기사")
+            st.markdown("<h4 style='color:#FFC107;'>📰 분석에 참고한 칼럼/기사</h4>", unsafe_allow_html=True)
             for art in report['articles']:
                 st.markdown(f"- [{art['title']}]({art['link']}) <span style='color:gray; font-size:0.8em'>({art['source']})</span>", unsafe_allow_html=True)
                 
         with c2:
-            st.markdown("#### 📺 유튜브 주요 분석 (제목)")
+            st.markdown("<h4 style='color:#FFC107;'>📺 유튜브 주요 분석 (제목)</h4>", unsafe_allow_html=True)
             for vid in report['videos']:
                 st.markdown(f"- 🌍 {vid}")
             
             # [NEW] 국내 유튜버 분석 결과 표시
             if report.get('kr_videos'):
                 st.markdown("---")
-                st.markdown("#### 🇰🇷 국내 전문가 분석 (이스타/김진짜)")
+                st.markdown("<h4 style='color:#FFC107;'>🇰🇷 국내 전문가 분석 (이스타/김진짜)</h4>", unsafe_allow_html=True)
                 for k_vid in report['kr_videos']:
                     st.markdown(f"- 🎥 {k_vid}")
 
