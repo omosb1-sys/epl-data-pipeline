@@ -679,10 +679,10 @@ if menu == "📊 실시간 대시보드":
         with st.container(border=True):
             tc1, tc2 = st.columns([1, 3])
             with tc1:
-                st.markdown(f"**📌 주 포메이션**")
+                st.markdown(f"<p style='color:#4FC3F7; font-weight:bold;'>📌 주 포메이션</p>", unsafe_allow_html=True)
                 st.info(tac_fmt)
             with tc2:
-                st.markdown(f"**🗣️ 전술 포인트**")
+                st.markdown(f"<p style='color:#4FC3F7; font-weight:bold;'>🗣️ 전술 포인트</p>", unsafe_allow_html=True)
                 st.write(tac_desc)
 
         # [3] 구단 오피셜 & 팬파크 (이미지 스타일 구현)
@@ -738,6 +738,8 @@ if menu == "📊 실시간 대시보드":
             for idx, row in enumerate(current_staff["분류"]):
                 with st.expander(f"{row}", expanded=True):
                     names = current_staff["명단"][idx].split(", ")
+                    # 제목에 색상 추가
+                    st.markdown(f"<h4 style='color:#FFD700;'>{row}</h4>", unsafe_allow_html=True)
                     st.markdown(" ".join([f"`{name.strip()}`" for name in names]))
         else:
             st.info(f"{selected_team}의 명단은 현재 2025-26 버전으로 업데이트 중입니다.")
