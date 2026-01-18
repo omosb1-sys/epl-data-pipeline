@@ -1,14 +1,24 @@
 {
-    "timestamp": "2026-01-17 23:10:17",
+    "timestamp": "2026-01-18 00:57:07",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Daily Mail",
+            "title": "Nottingham Forest vs Arsenal - Premier League RECAP: Gunners fail to go nine points clear at the top of the... - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1dpOWpYand4YXpGaFZ3SWdXdmVTMWFvNHFVYng4b0o4T0F4SXBpU1RZbDFpLUEwbHR2T1pDTWp1ZDNnZk10MXVMeDJLbVEyZWVtRnNHQ3UyMy0zZkdJMHZjWUNQdkhCUTc1ZEJ1aVQwd3NxOHdHWHlJOGJKdE5nbzRkVEZab2FZQTJSMFB6X2xONVoyMlNBZ2p4SEVNRGJZQ1laTElwaEh4SVF6enFWN3g4WXNFMVotSGU1d3ZITWFpT2hpT05r0gHMAUFVX3lxTE9DazNCZVgtMnM5V2JJRS1JdGhLamgtM2FGZ0Y4SDdEdTYycmwyYmprakZreHc1VTJDM3lVUFNBRllsYWI4T0lYeVFPVDNHcWV2YjlfemxVWmVhNnNsV3NQSENXdExZYTlhbzZJamNDZG1kUXVYV0NwN3dmcjExemhYRU80S1VUaFZOUW5UeDJmbGRKR3lCTDNZRXdhbU5TVzh2a2tWbVBvVUNweGpPay04bHNTcXF5RjlTbmk4dHQwcHhCMndyMjhsb0JQQg?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Nottingham Forest 0-0 Arsenal: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVZDcnI4cGllUmtqZmtPckZDMDNNSmlDN0d3NlpKWG80RVRfZFhfMHZyMi1jc09BZ0FHeFREa1ZhMVdmWlRHOU5iVVc3cWp4eExZbFRydmRkUnVTNS01SkptbTA3WnBMVkhIMXpDM2RkVnJUcDgxN0lmbmpTYVZoV3g1NUFCdDluZVFVRzdrQUlMdWhaSHNVM1MxeENBcW1oWXNv?oc=5"
+        },
+        {
+            "source": "London Evening Standard",
+            "title": "Nottingham Forest vs Arsenal: Latest score and goal updates - LIVE - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSVNMYTRDcjBZeTU0R21YckR2ZGI4bHFxWHp3ODItQlQtQzkxVS0xekxXb0hVX0RlOXpvd09Ecld5SG0tYkFvWWhlSkRLQnpMRzg5b0NBQ3o1eWRwTnh6cmRKNUdLQlVaUDZHSU8tWFAxekgwNE9yZDR0MDlyUnY3XzJzOTZnV2R6MDBBNUVMNEhXYzF5enA5ZUF2akdwbzRRNmdsUEJkRG50Ty04SlNyZUJIVmVoRGFIblF5SGcwclp5aGNkUmtrdi1JT0pGTXJjUzRvdzhYUlQyZw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -16,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkxCblZ0eFZJM2NmR2VtVVpMUlYtdmU5aDFidlJobklFZTJ4T3FfT3ZEbmRzbHNvM0pYQWtVTVlCWXE1NFhOekdxUTBCNTBieTdocGg3RWl3d1NfeTdoY001ajc0eGw5Z3Y2a1M4M2xxalhKYVlCLTNPVUtCcXJRc3Q2bUNzWUVNRmNBdjBUMUFnXzFOZ3pzYTJBeWt4Q3BWdGVTTTVyaw?oc=5"
         },
         {
-            "source": "London Evening Standard",
-            "title": "Chelsea vs Brentford LIVE: Latest score and updates from Premier League - London Evening Standard",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3ozRkFJWmZ2RDMwaTNKSHRGeV94QXN1QXFFQXFzQVhreXV0NkdMN3RLUkJ4cVBmT3JfNmtaMnhpdkduMHkxQ0kzQjU5OWJQTzlmRXR3VHF5NW82RTQyVzhoMlNQZHU0dUxkX3Q0TjFCZ1dCd2pXOU4tYmlQNTJiRkZpZGEtZXN1N1pZUk1fUWttc3NoM1UzNWdaalFkY2xBMm9HZEk5N25OYVpCVnRPT0dpQnAwRmtvTzhkUDFjbFlLX2NLQnpySG1xNHlmTzg?oc=5"
+            "source": "Metro.co.uk",
+            "title": "Chelsea 2-0 Brentford: Cole Palmer scores as Liam Rosenior gets first league win - Metro.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTJyMFFtQllydE9DRnkxVmFzVFZIdkYyX3I3UW9hc3pRR1ZCNHdMUWlMOVpWWWdVa1M0a2lrTEdEWm5hZFZqSU9hb2NhaWFJME1EN05SaVJJbi04MG1FUG11WU9mT0NoYlEwbF9zZFlfbVNvNHpWTkhNalBNVVNRVXJ2ZXljSmxWWVBRNjBpU1N6ckRGOGFsUW0tbG5MMUFiemhuUlN0ZXdkUnVoWnhqTmZ30gG3AUFVX3lxTE9ySEJtYlk2V1l4TkdHTThtMTJpWVRoOXZWLUNRajA1d0thYUVkbXdhRlJnZXB0S2RuLXRZYXZUQkZ2bXVaaXJsOVZlblN1WFlCUEItSXlGWUV1U3lObmFPQzNhN3lZeGROUXp1dGRyY1c5ejBBME5YcktZUV80STFTUEdtNHUzaUZ3eW5YZ2VYenZjbHhfU3VGN3FFZEpFUHJqODlXWEFqSVV0REs4RlpNaFA1cFNENA?oc=5"
         },
         {
-            "source": "Daily Mail",
-            "title": "Chelsea vs Brentford - Premier League RECAP: Latest score, team news and updates as Callum Wilson's... - Daily Mail",
-            "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNeHVRVE9rLVhyVk1aVFJsY2RRaXBQU1N3SnpTM1FUZ0JteFRzYW1SdUhHaXpKQ0FpQk1xemU0aVZ3WlN4QUtGbW1zM0lENlNBd3dySmp1dUNuYTc0LXEtc1N2U3UzME5ldDg0eEt3a1V2WjZtTTBfR1YtUXZmeS1DTURlelE4cXBHMG9jQVZKck1MWHM0ai10VnUzaVBVSkhaQW5IeWdjMmNuUzRWR0JFZzdHZ3NGejNsRENocFVsRTBkSUxZQ3pIbHpxZHhyNjhJTzVzTzI1aUJ4Q3lobXRMcjJlRzBtV01ya3JRMEdhYWxoN1RKdVMxa1VFbVJkTXhkUHRxekVVc3NHSFM3aXRvYmxOX2ZkdHQ5WUJ5TUFuVmZwdllwbHhCbUZKYWFMSUVSRUHSAbcCQVVfeXFMUG84MWUwMWREM19yTkFLQkZjaTVPT09WSWJ0YXBPWDdOaHZuYXpvVExOTWxfVURJT1FmNEFiUnh6QkZBSHN5RHZ0SWszSFEtWWxnRkljM09kdXpMY0UzSnJqanp6SjROZGJxVm1RUVlyMTRRa25UNV8wUjY0ZXd2bDExWlJlTHlfSWdKclp1aF9Jcmk2MWZUbjVLOHktX0o0b1M0b2R1OTJQc01QbUxQcXAzUjJORmh4TTN1aTVJV3BfUDNmalVDWVNjbUFWOXBZdmRXamd3bEVYX0UxbTlGbXhITzVFODlHVDdCQWg3aFFGQ1ZUWmx0Nk9OYnBtVVlENEZpRG9meFdmb3k1NU8xdDB3WERjVjFIUkhNRUtVWkZSbDZ2WkFETVQ3UVd4eFE0TW1hanZwekk?oc=5"
+            "source": "Sky Sports",
+            "title": "Chelsea vs Brentford LIVE! Premier League match preview, team news, live blog, highlights, match report - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORHBhZlk3QXNVd1c0cGplc1lHSXJFNnVWTUNOclBqTGZDT3FXVkRoV2htTUp6SnRlOUMxMUpRemNibmpTNjNhRUIxNEsyVDRHc0lwVHcyZ2gwWXY5VS1pa3JqMWlwbG0xM0pLemFDM01tRmdOOVRQYVJoWDUwemYyYjJKT0JJTWUyYzRNaF9waEZydUZCTjNpcU5hZmo5Vno3VW1PN1UzVkYxeG1xZG9Vbmx6cXdZbXdJS2ptOEVvVjJFS1dDQ21kaDc2aVFHY2g3UUJQS0Y0ekpGeWhJMmJKOE5iYkVVRVo1?oc=5"
         },
         {
             "source": "BBC",
@@ -34,16 +44,6 @@
             "source": "BBC",
             "title": "Premier League transfer news LIVE: Managers speaking about their latest January business - BBC",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdnhSbFFzNmJWZHEtaml6UWtYTmI0ZXZnQkZMQjhkQU9pbm80UzFTSTB0c0RpYTBhWk1jeFZIN0lla3VfRVBValVSTEpiODYyQWtIb0Q0bHpxc0x5bnoxejV3?oc=5"
-        },
-        {
-            "source": "This Is Anfield",
-            "title": "Liverpool 1-1 Burnley: Wirtz scores but Reds fail to beat another promoted team - This Is Anfield",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkNEcEh6Mms1MkdYdlVDdktfTDJWTmdPaXVZRGVpdmpmdVFWT3RxT2d1aFQtQWFyRWRKNlAyLW8wNEhtU3duOU5YcTA0ZGVwTGF4N2dyX3JoMDZOZmRuZ21zRmQ3UFFvZkZJbW9Va1kwNWpqMm1KU3pjRGJadG92cEREOHY5SU9yVHM3dGFIX2hmUQ?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Liverpool vs Burnley LIVE! Premier League match preview, team news, live blog, highlights, match report - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRDFXN2wwY2Q0SFI4b3BqdjIwWm5GOEJVaTR2b0FuTmpWbkNTSkdQQnVLTjBUa3lPdkVLRE1NWWpETlpvS0V3VDNvN3c4Zkk1Z3lwN1B3NnpVTWxpRkF0WHlCMDVLTjZ1NFVsWXliQ005Q194RDdTOHRDeGtjU192R3dlWU9XRE44NVZyUThOcnZNVjRNMjBkeUZKT25yVUR3angzY3JfOHlNNVpUdnhzZ3ZnUGRxa204RVR1bW9qQnF2bjgwUFlQRHNSY2NxWU5PaFNnbzg2YXhQejhxVUlvUk1lMDdiRV9v?oc=5"
         },
         {
             "source": "footballtransfers.com",
@@ -102,11 +102,6 @@
         },
         {
             "source": "The New York Times",
-            "title": "Manchester City finalise Antoine Semenyo agreement without release clause activation - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVklRaDdBRndVTnpjWGo1MC1lMHNkTkpZWG5pQk0xbU5sb295TUNHbThKWGgxeWRLbmkyeFdBMzM1REJDSDNQc1Q2eU10elpqYjMxZVp0M1dnVDB5Y2prcnhuNW80LVJtUnc4MVhtbTFFZUFON1c2LXotZ0pnQ3B6V1BwNUpxR241LU5UdTBOMGhXbVBwOElqUQ?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Manchester United appoint Michael Carrick as interim head coach - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmFBdzVGa3h0SWY4ZG9TX2loc05pVklHZEtDS0hQOVVvY014M0JnRFFwb3hTY2c3NEp5RkZvdU1PQThHM3ZSNDhVbnRlbmNRT0luUXZqX1BPRWZtRjFISzNhRW5zb1BPVGdWNmF6SmU4QmFHbnJiZ1U4U0cwX2pCNEpoamdqU3ZDZW8yMll2aWZjTERvaHV3TjNJTzFRNjhTY3UyTg?oc=5"
         },
@@ -122,23 +117,23 @@
         },
         {
             "source": "The New York Times",
-            "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakRoUkFGVUM5cGVfRnB3cXZ5dGNJc2JyYTJrT3dzeWtJQ1Mxdk9xZnZhNzlNa1ZJOG56VzJINDJ1VXZWa3Y4ampqQlhHSFRnRkc2M2RwZzdnN3lwU0o5c1FHZ21XdTNieWJBM21oY29JS2F1N1FvWm43ZllUcl8zWE4yam80SmExeExqaWNDaVdnZk1vUTQyWUtXcGVZX2tVNm1IWl9PSzk3SDhDZmIxcG82UnlhdDJITTJwcWhiYw?oc=5"
+            "title": "Manchester City finalise Antoine Semenyo agreement without release clause activation - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVklRaDdBRndVTnpjWGo1MC1lMHNkTkpZWG5pQk0xbU5sb295TUNHbThKWGgxeWRLbmkyeFdBMzM1REJDSDNQc1Q2eU10elpqYjMxZVp0M1dnVDB5Y2prcnhuNW80LVJtUnc4MVhtbTFFZUFON1c2LXotZ0pnQ3B6V1BwNUpxR241LU5UdTBOMGhXbVBwOElqUQ?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Chelsea’s Enzo Maresca high on Manchester City’s list in event of Pep Guardiola exit - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVJWNk14ZkhDUGYzUzNqNzljWFBVMElYMGNRSEoxdGtxdnJxQ043RkdTeHUtZnAxU2U5WnJWVXg2WW15cXM0Nkwxd2xGc3d5N0hkQWc5dGVTS1BPSTVLTVM1VEg1S1pzbHcxVDdIbVhicDF1OUpnc0ZPaW1pQlZIckNYRlpPYk5IVlI3TzFBV3Z4QQ?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlMtSF9leV9JQmh2cmpodlZ3SXM0ZEJoSnZRSl9WYWZGZ0g3VnY3OGVKcVhnNHF4QWxJTDJiNmNkT1REZk9SeWlvWVdjTkszMkMzeUFtUS1wZm5OSVExNmN6d3lEaTc3S0JxRWZYeXpQRS1Pa1U5WElmdXZBQk5IeGw0MmlIVHc?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -156,14 +151,29 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Scottish Premiership news, transfers, rumours, gossip and more - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGRVNWduTWljUlJOVlJwal8yT09XRGJsbDhwVFNVSzI4OEt2QnJYa0FxT1JHb1R3U1RqRmxZRVFvRkZLU2trajFIYnRaNndzMlg1R0MyYUZuYjMyRjBnUWVKa1JRazVEbW91YmozdGNablVobUdsc1d1V2tQNGZEckJPQkJyakpEbV9hRGhsenJRME4teU1iUW1HaTB5U0NWNmxZNzNjUmc2eW5OYVloQ1hpTmV4SzE4QWlz?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: January transfer window 2026 | Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVpalJnZWxxTHNnX1RUN3RnX3hCS0gtVF8wQXdLUHFtYkhKNmRSVjR4OGdEd3l1MnRHb2pLZ2JJbGY2cjFjaGlNbHpBSGVsSGdBUkpibzdaWjZ2QTlQbHpLanlILVZKRmtZdXlud25Tbkhzb2FIeld3Y3drbWhjUTRTbDhWdHlsMXFpelpvMzROdllYUzE5eUdHUmpDVXRpQmR1aVU5X2d0WGRub2lacDlJdzVhTE82UVZHZ3VXNWI3WHhMSzRDN2owUQ?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Scottish Premiership January transfer window 2026 - confirmed deals, ins and outs by club - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGVCR1pYaVd5ZHVwUS1jUXotcFpmamJIUjNHdzVnUGN6Qmszc1FURDRENG5OdUFocm45c3Fka2h2dlB4eXI5eW9zTk5DYld6MnpZVTZOUjdUUGNCcnQ1VmF5bFM3bnRlN2V6V3hwUmp4eEtqYTJKVXp6cGdMWXFmdmVfcXRLZ0w0LUtHY1AxN0N4V05tTEpTb2x4QWoyU2stSjcxdjRuQzhiX2VXQ0c3TTdxRUlQMjlsVFlkNTFqMzNtNkR6THFyRFFpRlV0blNjTm1qVXNXbUJWWEJYOFEyaU03eUdKX01PWE5J?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
             "title": "'아모링 보고 있나!' 캐릭의 맨유 미쳤다! '역대급' 데뷔 승…올드 트래포드서 맨시티 압도, 골대 2회+골 취소 3회→2-0 완승 [EPL] - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3djlvN2k3QUNaX0xXOF9nZnMwVHU2UklBVUcxUUdEQ2MwVW5wSDd0RVJ4ckYyTkVtRmhxQnhfSUF0Nkk1Y3pGWmM0dVBrV2s3XzNnWXd2NzdDX0Rw?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "손흥민 런던 다녀간 뒤 속절없이 무너지는 토트넘…8경기 1승, 강등권에도 무릎 꿇어 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sYXE4TV9oQnoyS0NrbDRiQWxaRmdvVWxfbHp6MG13TklWQkdrSVFlbk93c3VSaEhVd25FR1ZBdUdCai1YS2p1YlYydDNFa0o1YlpkdEJVdzFGaUYy?oc=5"
+            "source": "네이트",
+            "title": "최근 부진에 뿔난 토트넘 팬들…웨스트햄전까지 패배하자 시위와 야유 속에서 \"프랑크 감독, 당신은 내일 아침 경질될거야!\"는 노래가 흘러나왔다 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VEh2ek15RmlPQmtDdkRMTC1xMjZMd2U0QVM4cjlPLVk5QUhwcUlPRnYxT0lldTB0Z2ZDZE1Jb3dza3huQWc5T3pTdzZJTkcwQkhlOTFR?oc=5"
         },
         {
             "source": "ZUM 뉴스",
@@ -171,29 +181,19 @@
             "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPb2tzMFBTMVAwS2x5WUw4R3hNR09RRHBheVUyd1owUExHU2tRN3hKNnBjcmczRjF5NmdXVnluOHo2NFBwME1xMUFaSmZZQjMwZWtudE84dHJQWFFEQlB0RXNPSTdoOTlUX3V1SDM3Q2I1RFpCVFdlWTY4VWdLSlJUQnFKaHlLYTZEdmg5aHE3UzBzNWFPOTkzSExnU1JlbEU3ZWlPRTdBTFA5N0gyYXFVck9zUko0SFFkZFZLN2MtX0toOG43NnB3TVlnT3h5ekNvQXNaZWRQMmVZQ2RiRFYxR0RfRTQ0eE1ncVl0c0drWUpTMF9NTl8zVWJCVF9ic2p6ZzJvTlhHR3h5TENsN19OOEc2OXQ5d284QTBSZFpjZHE5elYxWjNMaFM3QXRtY0xPd3N2NFFLZG84MVZad3FIUG9jYnd1VnVBdjVRblRpc3kzdldQaHhCbWd1azRvZ3NLOExSc1kwcGdtVU9YdFJsUUtCcllwWXJiNnNtWFp1aFVOM2p3Q294UnNsVHpHdEdWNmxSc08yX2V6YXVIU1hyMWEwbW9uX2xuTG5NaHRham5kWWYxWUt5cUNraGVIZkcyZjRBem5NcFZidjlxVS1WbzhfLTJXVFJ6clFnR2dVbVZvbGEtWVQzVlNjakNrUE9fOHV3?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "여러분, 'GOAT' 메시가 프리미어리그에 옵니다… \"맨시티 합류 가능성 ↑, 영국서 황혼기 보낼 것\" - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQR2l2dDR4TWU3SFZKVjUyMzQ2VlAwZkw1NndST1JkWFdwaHIzWVFOZDJqZkxKNnkxanlSSWd1N0owRzNLRjNwVkQzU1hxSHVTZzFjYjhuLUVOU1dFM2tacGJ6aVF2SHVYWWg3NEJmR2ItWjZ0YWdESTZQd1hmZ2F2T3JobDVSejkyYmxVQUEta2dFemVYcVdDUlZOSGF5d1RXTWNYNG9BYlR2eWZQbEhZT3ZiRE5sRW9kVkNNeFZjMkczMzRTUXZJV2lzVzU2bW9lTGpTSEVXQzN3MzNFdVBsMDdYTjFEOER5VnRuNUxfUnNVU1dUOE0wTzY0RmpibHMtcnFQNUpWNWVYWTE0WEhNWWNaSEFkZlo2eDQtM3hzRnRDVlZMX00tNE1RNzFnT1NJNHdsTlZYQTJSanVVXzAtcmZvZlBkV1I5RE5xSDJmV0JoRjZaZUcxeXhMWkgzb0hiMlItN0N6UEdiTG53QnhIN1hyNkVMdWhISkNLNmF3NlhscnlwSnFHaVFzRTJxb1ZNTS1DS3pfT3Y1b2VFYUdFaGJNeUNnT1hJLVZOcVJCMURSS24tYThRS0hHSW03NVVBb0Q3R2g1NkVwem0xQS1hbl9pcmNfYU4zcW96elFKT2haZGIwbWYzYUNoTWJUYWE4MVVqamFnS3VzVHl0blE?oc=5"
-        },
-        {
             "source": "머니투데이",
             "title": "'보고 있나 아모림' 캐릭볼 미쳤다! 맨유가 맨시티 2-0 압살이라니...'맨체스터 더비' 설욕에 퍼거슨도 방긋→4위 점프 - 머니투데이",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nSmpQMkpIZGgtOVJrWlQ3RlhuWS1OYTRXNU02cno4SHdpY2xRS3B6SDBXUzNMdXM0dDRyS25qUDV3LXBBYV9aWTRUQUQ1Skh3RVdtYlZ4cGs4M09NV25xR29JLWhON2xIc0E?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "‘명가 재건’ 맨유, EPL 경험과 가성비 갖춘 ‘브라질 듀오’ 동시 영입 추진 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0QyVFJnNHFlaWxsWl9ZUHk4MWZkYUpyamdBQzlYM181ZWZka2d6RDljN1ROMDVHUE9CSEd4SjVBTE4tblRWMUdlVk9jZmhXZWd1b2o1Ui1na242djIzYmROazFPd2tVbHVxQ05kb0RtODFwdHBEM29qX2l6dWJuTV85a2VfMk9ZRF9Z0gGfAUFVX3lxTE1QTDFNcmZHenlocTRqNjNhUjhRWG94T2h0Nk9ydjdfZ21reHJSS0JjSDNLOTlrNllSeHhIWXdyRk5hOXBBVVJrbnNZV19iVHhNNUdpaFJ1a0lFbzB5LXBOZTU4SDd5YmdvWmVlMjlOdTNFaEJsRW9rNUR0VE1lTlZRYlprZ1dOakI5V3lEN3Y1cUtZakR2elJqWTM0TlRraw?oc=5"
+            "source": "v.daum.net",
+            "title": "[공식발표] \"LAFC 유니폼 입고 있는 한 임대 없다\" 손흥민 발언에 토트넘 팬들만 울상...히샬리송 햄스트링 '7주 아웃' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Q3h5eWV0YmlXbS1iWGdFQnB6NEt2S2NwcmlEaWpDMW5wMkNXZkJlZUtXZDZNbi1JMFBsRzZwemxJNXYwc2w0M0Z5RnZRUVU?oc=5"
         },
         {
             "source": "위키트리",
             "title": "황희찬만 남은 EPL인데…앞으로 '코리안리거'가 없을지도 모른다 - 위키트리",
             "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42WWtrTGJVdFp5UEdOcHFTMWpwTWxzS29ram5hcVM2aTA2OTN1UExESWVqX1pLNnhxOVphNVQ3U0oxQ3R4bXVwTXk3OXdiZVNUV25IQ1Z3?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "[공식발표] \"LAFC 유니폼 입고 있는 한 임대 없다\" 손흥민 발언에 토트넘 팬들만 울상...히샬리송 햄스트링 '7주 아웃' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Q3h5eWV0YmlXbS1iWGdFQnB6NEt2S2NwcmlEaWpDMW5wMkNXZkJlZUtXZDZNbi1JMFBsRzZwemxJNXYwc2w0M0Z5RnZRUVU?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -204,6 +204,16 @@
             "source": "시사포커스",
             "title": "크리스탈 팰리스, 글라스너 감독·주장 게히 동반 이탈 전망 - 시사포커스",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TRTQtTzJkLUQxWHBRMUZfY0o4TnhzSENwcllQMGNnaU5abjJlaGxiS1M3ZHRKdE9wcXJiRE5TVnZzRXcyUVdqbS04TkhBVWluSmpxek5RSHQ4bE5GR25DQnZILWxHWEEwak5idG5oVQ?oc=5"
+        },
+        {
+            "source": "fnnews.com",
+            "title": "EPL 토트넘, 최다골 히샤를리송 부상 이탈…최대 7주 결장 - fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVMmJYLUtHNWRmNDVOekw0YlJBazQ5SmxRMndLY1hmRUFHM3BaMS0zY1dTQW5jdGhlU0V3ZnZwb1R0a3ZQQjBvb2tvY2E4eG9NeGxLQjc5NzR5UdIBXkFVX3lxTE5RNDdDQmN1R21DNjZ4UEVwMUw2bUFUbmtzQU9YUjFoOE5wTng1UkdkQU1TN2xxYnFmTU5DSzZoY0xldGVKREtIeDhkSU0xX3hiY3BZMHFOdXdIT3RTTVE?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "단 2000만 파운드 꿀영입, EPL 우승 경쟁 판도 바뀌나... HERE WE GO 맨시티행 확정 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPcjdYNVk0MGpleEw3dHJaWkJ4V2lDY19OR2p4ZzBuRTJLeF9nNzVYWkdqRmViLTlyeURqYVZuLURqb094cC1wckI1REJYV1F0R2Q0SE5tMXl6SW1sVGRqc0dGNXRGbUxsLU9DT3B0YzAzTkgtZHhsNjlkVlB4SHp2Vm5TQ0w5TGRELXVLbDQtbU05QnROXzBrUXZQLWNHQ0xhaGdwUjgxMk5lSGtqZGZuM0lQdC1URnJQVm05aklsSExXdmxlMkYzNHFPamQtODJaQS1UTHNMQXcwTFRWZUdUZWJkNVVIZGlNM2YweHItOENJUDZtR2thQVV6M1dGOTJMXzlpNWVnZGVnY3NVdmtmaTZyQ3JxTU5uQXJ3YUtoV0ZIWWlsaGpsVGZyT2d6UktPRVktalhHMjV2Z1B6VTdtQk0tR0d3N1YyYmNhNUZtN0g1cEphR0VmM1ViM19BOS1PLWRnNmI1R3A1WDk5Z3UwZmEyX0toT2lPUzNXSF9sQmdyS0NBdHFkcTdhbS1GZkg5M3RqakNzcw?oc=5"
         }
     ],
     "transfers": [
