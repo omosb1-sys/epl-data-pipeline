@@ -2,9 +2,9 @@
     {
         "id": 25,
         "team_name": "맨체스터 유나이티드",
-        "manager_name": "루드 판 니스텔루이 (임시, Ruud van Nistelrooy)",
+        "manager_name": "마이클 캐릭 (Michael Carrick)",
         "power_index": 91,
-        "updated_at": "2026-01-18 20:37:00",
+        "updated_at": "2026-01-18 20:45:00",
         "stadium_img": "stadiums/man_utd.jpg",
         "club_value": "$6.55B (포브스 2위)",
         "current_rank": 7,
@@ -18,8 +18,8 @@
         "injury_level": "경미",
         "rest_days": 2,
         "team_mood": "최상",
-        "tactics_formation": "4-2-3-1 (판 니스텔루이)",
-        "tactics_desc": "루드 판 니스텔루이 임시 감독 체제. 공격적인 4-2-3-1 포메이션으로 전환하여 맨시티를 2-0으로 격파 (2026-01-17). 라슈포드와 호일룬드의 투톱 케미스트리가 살아나며 상승세 진입.",
+        "tactics_formation": "4-2-3-1 (캐릭)",
+        "tactics_desc": "마이클 캐릭 감독 취임 (올 시즌 종료까지). 2026-01-17 맨시티전에서 2-0 승리로 성공적인 데뷔. 공격적인 4-2-3-1 포메이션으로 라슈포드와 호일룬드의 투톱 케미스트리 극대화.",
         "winter_rumors_in": "디오고 코스타(GK, 60%), 누누 멘데스(40%), 에반 퍼거슨(20%)",
         "winter_rumors_out": "안토니(99%), 카세미루(80%)"
     },
