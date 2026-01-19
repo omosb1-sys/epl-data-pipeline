@@ -13,3 +13,6 @@ torch; sys_platform == 'darwin'
 statsmodels
 plotly
 altair
+duckdb
+polars
+shap
