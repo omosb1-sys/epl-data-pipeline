@@ -3,8 +3,7 @@ import json
 import os
 import time
 from datetime import datetime
-import requests # [NEW] News scraping
-from bs4 import BeautifulSoup # [NEW] News scraping
+import pandas as pd # [NEW]
 
 # ==========================================
 # 🔧 설정 (Configuration)
@@ -69,12 +68,15 @@ def scrape_epl_news():
     news_list = []
     
     try:
+        import requests
+        from bs4 import BeautifulSoup
         for q in queries:
             url = f"https://news.google.com/rss/search?q={q.replace(' ', '+')}&hl=en-GB&gl=GB&ceid=GB:en"
             res = requests.get(url, timeout=10)
             soup = BeautifulSoup(res.text, 'xml')
             
-            items = soup.find_all('item', limit=8)
+            # [Ratio Adjustment] 외국 뉴스 60% 비중 (4 쿼리 * 3개 = 12개)
+            items = soup.find_all('item', limit=3)
             for item in items:
                 title = item.title.text
                 link = item.link.text
@@ -92,7 +94,8 @@ def scrape_epl_news():
         url_ko = "https://news.google.com/rss/search?q=프리미어리그&hl=ko&gl=KR&ceid=KR:ko"
         res_ko = requests.get(url_ko, timeout=10)
         soup_ko = BeautifulSoup(res_ko.text, 'xml')
-        items_ko = soup_ko.find_all('item', limit=10)
+        # [Ratio Adjustment] 한국 뉴스 40% 비중 (8개)
+        items_ko = soup_ko.find_all('item', limit=8)
         for item in items_ko:
             news_list.append({
                 "source": item.source.text if item.source else "구글 뉴스",
@@ -128,15 +131,25 @@ def fetch_transfers():
                                 "from": t['teams']['out']['name'],
                                 "to": t['teams']['in']['name']
                             })
+            # [Throttling] API 과부하 및 I/O 병목 방지
+            time.sleep(1.2) 
 
     # 2. [강력 조치] 구글 뉴스 기반 이적 뉴스 크롤링 (API Key 없이도 작동)
-    url_trans = "https://news.google.com/rss/search?q=Premier+League+Transfer+Official+Confirmed&hl=en-GB&gl=GB&ceid=GB:en"
+    rumor_queries = [
+        "Premier+League+Transfer+Official+Confirmed",
+        "EPL+Transfer+Rumors+Fabrizio+Romano",
+        "Premier+League+Transfer+News+Ornstein"
+    ]
     try:
-        res = requests.get(url_trans, timeout=10)
-        soup = BeautifulSoup(res.text, 'xml')
-        items = soup.find_all('item', limit=10)
-        for item in items:
-            title = item.title.text
+        import requests
+        from bs4 import BeautifulSoup
+        for rq in rumor_queries:
+            url_trans = f"https://news.google.com/rss/search?q={rq}&hl=en-GB&gl=GB&ceid=GB:en"
+            res = requests.get(url_trans, timeout=10)
+            soup = BeautifulSoup(res.text, 'xml')
+            items = soup.find_all('item', limit=8)
+            for item in items:
+                title = item.title.text
             if "Semenyo" in title or "Antoine" in title:
                 # [오피셜 강제 주입] 선배님이 강조하신 세메뉴 소식은 확실히 잡아내기
                 transfers_list.append({
@@ -199,34 +212,55 @@ def main():
     if standings_data and standings_data.get('response'):
         final_data['standings'] = standings_data['response'][0]['league']['standings'][0]
         print(f"✅ Standings collected.")
+    
+    time.sleep(1.2) # [Throttling]
 
-    # 2. Fixtures
-    current_round_resp = fetch_from_api(f"/v3/fixtures/rounds?season={SEASON}&league={LEAGUE_ID}&current=true")
-    if current_round_resp and current_round_resp.get('response'):
-        current_round = current_round_resp['response'][0]
-        fixtures_data = fetch_from_api(f"/v3/fixtures?season={SEASON}&league={LEAGUE_ID}&round={current_round}")
-        if fixtures_data and fixtures_data.get('response'):
-            processed_fixtures = []
-            for item in fixtures_data['response']:
-                f = item['fixture']
-                t = item['teams']
-                
-                # API 시간 포맷: "2024-01-15T20:00:00+00:00" -> "2024-01-15 20:00:00"
-                clean_date = f['date'].replace('T', ' ').split('+')[0]
-                
-                processed_fixtures.append({
-                    "id": f['id'],
-                    "date": clean_date,
-                    "venue": f['venue']['name'],
-                    "home_team": t['home']['name'],
-                    "away_team": t['away']['name'],
-                    "status": f['status']['long']
-                })
-            final_data['fixtures'] = processed_fixtures
-            print(f"✅ Fixtures collected: {len(processed_fixtures)} items.")
+    # 2. Fixtures (Enhanced: Fetch all upcoming instead of just one round)
+    print("📡 Fetching upcoming fixtures for the next 14 days...")
+    # API-Football: /v3/fixtures?season=2025&league=39&next=20 (이후 20경기 수집)
+    fixtures_data = fetch_from_api(f"/v3/fixtures?season={SEASON}&league={LEAGUE_ID}&next=30")
+    
+    if fixtures_data and fixtures_data.get('response'):
+        processed_fixtures = []
+        for item in fixtures_data['response']:
+            f = item['fixture']
+            t = item['teams']
+            
+            clean_date = f['date'].replace('T', ' ').split('+')[0]
+            
+            processed_fixtures.append({
+                "id": f['id'],
+                "date": clean_date,
+                "venue": f['venue']['name'],
+                "home_team": t['home']['name'],
+                "away_team": t['away']['name'],
+                "status": f['status']['long']
+            })
+        final_data['fixtures'] = processed_fixtures
+        print(f"✅ Upcoming Fixtures collected: {len(processed_fixtures)} items.")
+    else:
+        # Fallback: 만약 API 지연 시 기존 라운드 방식 시도
+        current_round_resp = fetch_from_api(f"/v3/fixtures/rounds?season={SEASON}&league={LEAGUE_ID}&current=true")
+        if current_round_resp and current_round_resp.get('response'):
+            current_round = current_round_resp['response'][0]
+            time.sleep(1.2)
+            fixtures_data = fetch_from_api(f"/v3/fixtures?season={SEASON}&league={LEAGUE_ID}&round={current_round}")
+            if fixtures_data and fixtures_data.get('response'):
+                processed_fixtures = []
+                for item in fixtures_data['response']:
+                    f = item['fixture']
+                    t = item['teams']
+                    clean_date = f['date'].replace('T', ' ').split('+')[0]
+                    processed_fixtures.append({
+                        "id": f['id'], "date": clean_date, "venue": f['venue']['name'],
+                        "home_team": t['home']['name'], "away_team": t['away']['name'], "status": f['status']['long']
+                    })
+                final_data['fixtures'] = processed_fixtures
+                print(f"✅ Round-based Fixtures collected: {len(processed_fixtures)} items.")
 
     # 3. Official Transfers [NEW]
     final_data['transfers'] = fetch_transfers()
+    time.sleep(1.0) # [Throttling]
 
     # 4. News Scraping
     final_data['news'] = scrape_epl_news()
@@ -236,6 +270,24 @@ def main():
         
     print(f"💾 Data saved to: {OUTPUT_FILE}")
     print("✨ Mission Complete!")
+
+def get_upcoming_matches(team_name: str, matches_data: list) -> pd.DataFrame:
+    """[Helper] app.py에서 호출하는 경기 일정 필터링 함수"""
+    if not matches_data:
+        return pd.DataFrame()
+    
+    df = pd.DataFrame(matches_data)
+    df['date'] = pd.to_datetime(df['date'])
+    
+    # 해당 팀의 경기만 추출
+    team_df = df[(df['home_team'] == team_name) | (df['away_team'] == team_name)]
+    
+    # 오늘 이후 경기만 시간순 정렬
+    from datetime import datetime
+    now = datetime.now()
+    upcoming = team_df[team_df['date'] >= now].sort_values('date')
+    
+    return upcoming
 
 if __name__ == "__main__":
     main()

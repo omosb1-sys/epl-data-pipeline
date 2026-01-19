@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "timestamp": "2026-01-19 22:11:24",
+=======
+    "timestamp": "2026-01-20 07:15:13",
+>>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -16,6 +20,7 @@
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHd2VUVmamcyT1NtOXljaUc2ZkhtOHlsWG8zTHREWXpaUWI0bExlUHFLdXNURTVsM0h1T1QzS0FwOGRlOUZQS0xMWFktQ0FhR0ZSOGNraGpONmstMWZybmZGdWR0Z1BYTlVLSFZVQ0Z4YzgwZEZRQXhfbThjQ01uX3VUdFRNNS0tNTB5b05KN3Q3ei0wOC1FdVBaZUYyS3VoOEZCeG1QWnFQeTZVaWxxZkFwREU1WGlmWkwzbS1hQXJWU3pRSkoxVmZtRzQ5VW1CTXpmX0w2MG15MDFyR1RiYThRY0kxNC12SnV5WA?oc=5"
         },
         {
+<<<<<<< HEAD
             "source": "BBC",
             "title": "Brighton & Hove Albion vs AFC Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nalBDcHFXeFFHdUR4TWxPYWU5bFQxak9sUWZNb1VnM2pwVEZZN2NtcHR1Y05lVXM3dHJWWVdlNHYweE9zR2lXbWJBQ3luMmo5T082TU5Qc1JQX25tNkZ4Rm94VU0?oc=5"
@@ -59,6 +64,21 @@
             "source": "LiverpoolWorld",
             "title": "Everton submit bid to sign £17m star who has 69 La Liga goals - LiverpoolWorld",
             "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnFXdUZMYVJNem1JdHFRYzh2SWQtN0NPd3drQjBTTk1md3AtVTNPR1dBZThsUXJQUGRQbTFiU2NxRlNUYWRfbXFjUzhlalBxc1ZqMHpRMmpWdHU1MnhNTEpSS3U4TTFGWjZERVgxYWJPZW1HUVRaVUJ0bTFwajNubmlpTzZraWdnODdNVjBPRzhkeExlejFoYlMwbHdaOEpSel9jV1hQczF0OTJrcFRTVDhudkxTc00zekh5aHlZazJJV1JUTnh1amFjcUFCUFQzSkNfcnZwRjhCLVdXX1NTRGhFbWJJekhFQVlVcWV1Qlg?oc=5"
+=======
+            "source": "The Guardian",
+            "title": "Brighton v Bournemouth: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczZWMU5CUlFlMFhEY2EzbVo4VDhHOHhUVzZDd0t4c3ZIemFCQTlSSGw4dGgzNHVnT25iSmNXNXNNVmI1clRDdU1GSFhkVVVuZ0pvcjJYWGhmeDBGLUJjVU5ZUlVFOXhMVWJGT0dJbnBRVUVVbDJWU0lJcVRVbHlYV256UlNIOWRYWnE1Ykk3LVNkUTMyRGNYWVBvQ0U?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "Chelsea transfer news: Fabrizio Romano confirms OFFICIAL Chelsea signing - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZ2l0WmszSUpQaEZ4WmxLdFFsb3plQ3VtWF9iTzVXNl90SlpDTWd3Z19fZHlfdmF6blM1VUJFMkRmN1VxelhTVWt1YjJSRVRrcjYtZmg1QlNGcVlHSDZjQThUZ0ZWTkViMGY1QkJlcjhXM0FMVm9aZHQ5T1FyM1dZVHJLNnVZN3AtNHBubUx5WkxsVy1zS0dmSmpHRUtNcTRKX3VqeVdwZmQ2TDd4NHdadUtvMjF4VkZyM1pMa1lnRklWbkFPN1ZxLU45ank0QW9ZOTN1T0JRMXhBbXB1VGJOOGFHdy1seWZrc05GZG5fV0o3aGhpNTJIb1hjZ2dmN2RELWI4eHRSREtEZzdBM2NNOGVEcGw5dWRpV1M1eWJSdHd3cWg4cVlMU3A2djFkc0NVYk5Hbld6Q2lwNXJGSUdBckhMY01lZGpBYndZNFBoRUo0MTc4?oc=5"
+        },
+        {
+            "source": "footballtransfers.com",
+            "title": "Fabrizio Romano Transfer News: Guehi signing, Glasner to Man Utd, Vini Jr contract - footballtransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkdMcGcxT21zdy0wTW5QV2Y4dEJlUi1WZk02VnNEa3IzWjl5TmtrRW94U0s5UjhFLW5mc1FlV3VCVmpaN3VOYnVvcFJVOVlFWktVZXBNN1FZbU9HaHQxUTRMcGs4MVN0eV9tOXFMb0lJRHBEOG56SE9hLTF2MzlSYXBwendVeGV4TVg5ckZLQVBES1owYVdfNVhqRzA0U3ZzZUhzRG05N3dWYnVtVGdzVUtJbThYaXI2N1dXbW5NSnZPMlVFSWlOMlNubzJCX3FvOC1TSWVPSGF3TFp6STM1elVOenBQS0RSeHg0ZA?oc=5"
+>>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
         },
         {
             "source": "Football365",
@@ -66,6 +86,7 @@
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak53SmY5RTZaZVQyaDVSQ0R6ZUxJUVpZNGtha0owQW52M1ZFNGVzSzFtNmVUdGpWN0JLMFFYY2xaQURaWU1OLTVoRVh0YVNRcW9Xa0t5RDd2TzdQYjl4S2JsaG1UbUVFaVdFU0VvNEVFM3pqWWdZQ2gzc3ljaHgwa2VOejQxVW9KSVNtUi1fUGJrRFdFejZOOFpZNWF2dk5Fa2ZOOTc5S2dMQTV0VERvUw?oc=5"
         },
         {
+<<<<<<< HEAD
             "source": "Hotspur HQ",
             "title": "Fabrizio Romano drops word that Tottenham's first January signing is all but official - Hotspur HQ",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3h4Sm1FOWtVZFROczhkT2VidUtReUVrYk82eVVQSm1sWjVPX20yakpOUkdDMzBVUS10eV9rVk43WXJmRk5aUC1sd3pINVpyMkNiWmVCZkg5d3l5LWh3SzYxcVRPb05oYnBFbk1rU05CYWw2Q2VJbTlqWXl3ZHZvZTY1dmNmN3F5azc5UG9vZjdIOFhac05zZ1BPSWxXWTBCbS1Pb2lxWHhCbU1PX2ZHcnRnbjd0QjZvSHZnbw?oc=5"
@@ -86,6 +107,8 @@
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmRqZDBVWnpnWHVQMHgxR0hQcG83M01fVVR0RFVsMDhYYWNjT1Y5QlhWUkxXU2V1NktjMXZuOXdzZWhiX1g0UzJ0a1FFTUZKSnFxenJDX1BYMFhuaTJ6d0FCYmh0bzVsTVlZUzk2MkdrallvVW5GSDA1dW9TbDNlcEVSMl9jUDBpbE5rV3BaTFZ1NTVZSHZiTjE1RjZaeHowbF9sTWxBTjA5WHJLdE15Q2RQV3hZc2ZpRWdCVU93?oc=5"
         },
         {
+=======
+>>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
             "source": "The New York Times",
             "title": "Manchester City close to finalising £20m Marc Guehi deal - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZThkd2lDZTQzWjJlcElmRFpZMklKd2pwSWdLN1NVSmtzcWtlQmFSczBreXZXbEFMc1VJSkZTYWM5eXlQSHV3eXBQMjBwTFctQVJBUzh3cnZtMDk3LUxZOThLTXZzRTZxeDFmU2lSSXZ4X1FjbGN0TDBSdG4xRmJNOVV2azFmTlNpVkZmU1V0Wm1rWWY3RWplMUsyNA?oc=5"
@@ -94,6 +117,7 @@
             "source": "The New York Times",
             "title": "Barcelona’s Dro Fernandez tells club he wants to leave - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdZWlhWcFhCQTVLcG5qYzNJTVNHLWdHM09jc2dpRzRTejZfTmg2TTBrQ1hPejB3YXVqVDA4WndTYnVOTlZTbldfd1Z3b1BSQkJiVTducXgzQlRnYnZqb1M2UTFRM2dZMTNxTlc3MUVMYWEwODlLYmMxdUY3TWxjY29YRGFLZ1VJMlA2c2x2elh5TjEzQWhnb09aRjR5QQ?oc=5"
+<<<<<<< HEAD
         },
         {
             "source": "The New York Times",
@@ -124,6 +148,18 @@
             "source": "United In Focus",
             "title": "David Ornstein shares what key football people always say about Michael Carrick as a manager, 'quite interesting...' - United In Focus",
             "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGViNlpMUjh1QzZqQnNYNkVOWUl1dy14SGFyRVFRV0xSV0FUc3IzVm9OUjRMNlRrOW42OURwOElDdTQyTXVuQjRwZGxuejhIdjJtbFFHWmF5Zk1fN3VjMUlaUW9Fc2NaRmtuTmRjMVRMWkdwcWh6QnFTN1c2cmFCUjgxUWhHNG95UHdhU1Vyb2E2WkxGYi13RnJjWWdxVURhSTVHOEd6SFlXTWhTWGhob0tvSUVKdnpiaHFnelRZdjdjZ2tnS3Zva0U3Y1NYT0dsOUZ4cmZ6NUlJTWw1VXZZ?oc=5"
+=======
+        },
+        {
+            "source": "The New York Times",
+            "title": "Leeds make enquiry for Wolves forward Jorgen Strand Larsen - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1ObDY1bHB3STNIcWZES05fYjJCVDEyek5jVy1zYXhPQmtHUEIyenNVMmhjSWFiQzZ1UUVUY2dNM3EtdUxZT3pXOFZkSjhWOVZqUm5vU2Z2aDZfVktfMDVsWVpMa0FRUEJFZk95cFF5RlNZNF94cTl5VlB1T1c0elJrd1VEWXd4eTk0b2lVd0NTMWlJWm8wS3J4cw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Scottish Premiership January transfer window 2026 - confirmed deals, ins and outs by club - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGVCR1pYaVd5ZHVwUS1jUXotcFpmamJIUjNHdzVnUGN6Qmszc1FURDRENG5OdUFocm45c3Fka2h2dlB4eXI5eW9zTk5DYld6MnpZVTZOUjdUUGNCcnQ1VmF5bFM3bnRlN2V6V3hwUmp4eEtqYTJKVXp6cGdMWXFmdmVfcXRLZ0w0LUtHY1AxN0N4V05tTEpTb2x4QWoyU2stSjcxdjRuQzhiX2VXQ0c3TTdxRUlQMjlsVFlkNTFqMzNtNkR6THFyRFFpRlV0blNjTm1qVXNXbUJWWEJYOFEyaU03eUdKX01PWE5J?oc=5"
+>>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
         },
         {
             "source": "Sky Sports",
@@ -131,6 +167,7 @@
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
+<<<<<<< HEAD
             "source": "Sky Sports",
             "title": "Transfer news: Scottish Premiership January transfer window 2026 - confirmed deals, ins and outs by club - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGVCR1pYaVd5ZHVwUS1jUXotcFpmamJIUjNHdzVnUGN6Qmszc1FURDRENG5OdUFocm45c3Fka2h2dlB4eXI5eW9zTk5DYld6MnpZVTZOUjdUUGNCcnQ1VmF5bFM3bnRlN2V6V3hwUmp4eEtqYTJKVXp6cGdMWXFmdmVfcXRLZ0w0LUtHY1AxN0N4V05tTEpTb2x4QWoyU2stSjcxdjRuQzhiX2VXQ0c3TTdxRUlQMjlsVFlkNTFqMzNtNkR6THFyRFFpRlV0blNjTm1qVXNXbUJWWEJYOFEyaU03eUdKX01PWE5J?oc=5"
@@ -156,6 +193,8 @@
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
         },
         {
+=======
+>>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
             "source": "스포츠조선",
             "title": "앙리, 램파드, 드록바, 살라, 시어러가 모두 손흥민 아래...아시아 최초 EPL 득점왕보다 영원할 대기록 또 조명→압도적 1위 - 스포츠조선",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52eU1mM3VZcUt1T3Q5OUhfUGFNZnJrMWVpMGFwRWgwNkRfTExqSGFRTEh6MUxCMlVxRUFXb2tfZkNmYkZzZ0p0ajNmWDVRcG9aZTc3UEJBYnNaUzJVNlNiN2pBa1Zwc3EwQXlkZW9id1BUeFNNMU0wRnVmeFZlZ9IBd0FVX3lxTE1iWHBhNG9FZnBDalZZUThhLVpNUWlsZVlNV256bno0Mk9ULS1ROUdwb2xrZ3praUc2TGNLSlBVRjJucmt4TjliOEtVT2NUQnduNVg3OGRjV1ota0RVQ0RrY3VHdTBSTFpYR2g5M0lWQTQ5aU9XOHEw?oc=5"
@@ -174,6 +213,7 @@
             "source": "v.daum.net",
             "title": "팀 살린 춘천 황소 질주…울버햄튼 5경기 무패 행진 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zUU9XZU44QzVJOUJsb0MwWmhmREFMRXVpNmprUHJyZWZ4dXUtb216NXhBSzFOeERpbGhscnhsbzVzWmtfbmU5YUNFcGx5SEE?oc=5"
+<<<<<<< HEAD
         },
         {
             "source": "조선일보",
@@ -201,6 +241,25 @@
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UV0dodGpNb2hncTlCSFNWTjhZSWZkTW5ybWZEb09OaUtEb3diVmFfSEVhVUlTb0M4NXBmaFJuaFZpbjlkRHZCVW4tT0lTcmYzS1dkM3BER3RwbW8?oc=5"
         },
         {
+=======
+        },
+        {
+            "source": "조선일보",
+            "title": "\"이래서 경질할 수밖에\" 프랭크 감독, 충격 '꼴찌' 성적표→EPL 시대, 토트넘 최악 홈 승률…단 2승→18% 굴욕 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUlxbDNPZklsWEYxWWRYWDROTVZSaWhRQ2stR2Z2M2R6VGN1T3hwU0diTENYREtYU2VaTVZ3bW5fQTdGNkhzVW9INV9Md3RJdllxUlBHU3hzTVAyMXRuc2t3VEJNaEVjc2xOVnluXzVrR3JmbEFQcndzRWxQcTk4RzNENVVRTHRtSTZn0gGfAUFVX3lxTE5FS0FtRHR0YVI5Z3NRZmlZZFo1TXFLRHE0ZW5LUFlOamJiQ3R1VFUzRDg3X21lRS1WOXd4cUhWck1pM0R6X093YUJBRWNjRldPOXY1UmdXWVZZZDhja0RKRUpLUjRCUHd3SFZ2SEFIWVc4Zy1GRndOZjk4cGpjZXJYcXRCZ2d6dS1JNG52RlduOUlDUVNhQW85TVhOeFNWWQ?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "토트넘, 프랑크 경질설 속 윤곽 드러난 차기 사령탑 구상…포체티노 vs 사비 '양자 구도' - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11SnptTmhJZi1VNi1VczZwcF9rMFlMQzF4MFowWV9YYWQtUk5OeVFUNFp1c0hDQmhnMTJmQ3dBczhnZVFmVDZxbnROV1RRSnc4ZUstRw?oc=5"
+        },
+        {
+            "source": "스타뉴스",
+            "title": "\"내일 아침 경질\"... 토트넘 감독 치욕, 역대 최악 분위기→'와르르' 추락 계속 - 스타뉴스",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WS29ta2Q1ZTBwNmRkSnJoYkZpQ3VTN1F5OWVGY0R4V2lxdTR1cDE1RkhCS0g5blB2OEZyTXVNc29wTmJLTUVtcUY4d1o1TG1BUjhjbEhlNlIzeTg1R3JscmFxSW9ZZGtJdThMTzZHUVdSQzRFOVE?oc=5"
+        },
+        {
+>>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
             "source": "네이트 스포츠",
             "title": "英 BBC부터 '맨전드'까지 '극찬 또 극찬!' 마이클 캐릭 맨유 감독 \"너무 들뜨지 마, 절대 만족할 수 없다\" - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DbUZCVTNIUG0tRXBPUTZaNmpkNGxnbDEzU3dvdlRXOEtWb0lFNzYwcnZmNExRS0NkYXBORW1qSkFGbHdiVkVCUzB6NnNpVnFxNnRDRVo4YlpYeVNW?oc=5"
