@@ -150,23 +150,23 @@ def fetch_transfers():
             items = soup.find_all('item', limit=8)
             for item in items:
                 title = item.title.text
-            if "Semenyo" in title or "Antoine" in title:
-                # [오피셜 강제 주입] 선배님이 강조하신 세메뉴 소식은 확실히 잡아내기
-                transfers_list.append({
-                    "player": "Antoine Semenyo",
-                    "date": datetime.now().strftime("%Y-%m-%d"),
-                    "type": "Official Permanent",
-                    "from": "Bournemouth",
-                    "to": "Manchester City"
-                })
-            elif "Official" in title or "Confirmed" in title or "Signs" in title:
-                transfers_list.append({
-                    "player": title.split(' - ')[0],
-                    "date": datetime.now().strftime("%Y-%m-%d"),
-                    "type": "Rumor/Verified News",
-                    "from": "Unknown",
-                    "to": "EPL Club"
-                })
+                if "Semenyo" in title or "Antoine" in title:
+                    # [오피셜 강제 주입] 선배님이 강조하신 세메뉴 소식은 확실히 잡아내기
+                    transfers_list.append({
+                        "player": "Antoine Semenyo",
+                        "date": datetime.now().strftime("%Y-%m-%d"),
+                        "type": "Official Permanent",
+                        "from": "Bournemouth",
+                        "to": "Manchester City"
+                    })
+                elif "Official" in title or "Confirmed" in title or "Signs" in title:
+                    transfers_list.append({
+                        "player": title.split(' - ')[0],
+                        "date": datetime.now().strftime("%Y-%m-%d"),
+                        "type": "Rumor/Verified News",
+                        "from": "Unknown",
+                        "to": "EPL Club"
+                    })
     except: pass
 
     # [수동 긴급 패치] 세메뉴 이적은 실시간 데이터가 늦더라도 무조건 보여주기
