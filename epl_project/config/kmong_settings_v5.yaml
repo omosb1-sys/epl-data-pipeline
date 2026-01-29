@@ -1,0 +1,18 @@
+paths:
+  raw_dir: "./data/kmong_project/raw"
+  processed_dir: "./data/kmong_project/processed_v5"
+  master_parquet: "./data/kmong_project/processed_v5/master_data_v5.parquet"
+  report_dir: "./data/kmong_project/output/reports_v5"
+
+security:
+  pii_columns:
+    - "차대번호"
+    - "주소"
+    - "소유자명"
+    - "사용본거지주소명"
+    - "번호판"
+    - "전화번호"
+
+analysis:
+  top_brands_count: 10
+  segment_quantiles: [0.33, 0.66]

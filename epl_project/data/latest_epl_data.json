@@ -1,268 +1,109 @@
 {
-<<<<<<< HEAD
-    "timestamp": "2026-01-19 22:11:24",
-=======
-    "timestamp": "2026-01-20 07:15:13",
->>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
+    "timestamp": "2026-01-22 12:45:56",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ3h0VGVscU1fbkZsRjZGaEtKdFg0QTJhZG1HT1JGa2ZFN0FfaGJCdERhQ1RBY2twX0NzT0FVRGVwM2hjTmJqemVnNTE0QkktZVYxQy0wLTZ5akMzZjV4RFZUa242OEpvNlV0dWs3c3kzMHl6ZXd3NlpuU1p2bC1xbkRBRTU2OWYtb1ZTblVtTVBEMmlfbDlyQzB6aDF4RjVLb3o5LVl3RnFsdw?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "The Premier League players attracting loan interest from the the Championship in this transfer window - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHd2VUVmamcyT1NtOXljaUc2ZkhtOHlsWG8zTHREWXpaUWI0bExlUHFLdXNURTVsM0h1T1QzS0FwOGRlOUZQS0xMWFktQ0FhR0ZSOGNraGpONmstMWZybmZGdWR0Z1BYTlVLSFZVQ0Z4YzgwZEZRQXhfbThjQ01uX3VUdFRNNS0tNTB5b05KN3Q3ei0wOC1FdVBaZUYyS3VoOEZCeG1QWnFQeTZVaWxxZkFwREU1WGlmWkwzbS1hQXJWU3pRSkoxVmZtRzQ5VW1CTXpmX0w2MG15MDFyR1RiYThRY0kxNC12SnV5WA?oc=5"
-        },
-        {
-<<<<<<< HEAD
             "source": "BBC",
-            "title": "Brighton & Hove Albion vs AFC Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nalBDcHFXeFFHdUR4TWxPYWU5bFQxak9sUWZNb1VnM2pwVEZZN2NtcHR1Y05lVXM3dHJWWVdlNHYweE9zR2lXbWJBQ3luMmo5T082TU5Qc1JQX25tNkZ4Rm94VU0?oc=5"
+            "title": "Premier League 2025-26: Which teams have had most injuries this season? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HT1B6QTNKNWNhUkpRQXdRMG5vUC0tLWI2dHI1bGRPaEhqQ3Zwck1nOE1nWldQTFZKRWx1dTA0ZGpTSWRuMUJRUXNTUjg1V19pZTFVUks4UTRmam5fcElHeVF1dUxIODA?oc=5"
         },
         {
-            "source": "United In Focus",
-            "title": "Man United tested Gianluigi Donnarumma and David Raya unlike any other Premier League side this season - United In Focus",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTXlncERfQV9hZ09oVjJVY0lWMFEtSWU2TVJ4ZmZ0bS1IUlBGMkJKR2d3SlJvMjRhUjU0cnQ1dVdNWnNsV0FmZ3d0SDV6Si02QlY4MGhLdEktb1kyTFVHR1NvZ0ZnSXF5NW9LZ2VmcjhZV1NUMWlTSjFzeExEcTc4aVRxdFM1V2FTSXhoZWcyYVRBNi1kMHl3RGdPWjRfbW5jOHBWeFI0b0N3SUh5OWZiVlRBV2ItMl9RSkk1bGd5YjdaVmJCbExyNm8yNkRSTlNraF9TWA?oc=5"
+            "source": "Arsenal.com",
+            "title": "Premier League fixtures rescheduled in March - Arsenal.com",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KZEdROVR6eHJNc2JFMlVkRklCSnhmT0FUb1lEUVhYWUU3akVRMFVGTm80MVNHMnh2YWNBYVJmUG10bk8xM1IwM3hZaGZ3bGV5V0VXQUxUaGZBa0pqSzhGVVRoR0VPNGJ0ZkdzTzJPbElpcldfb2cza2V3?oc=5"
         },
         {
             "source": "The Guardian",
-            "title": "Brighton v Bournemouth: Premier League – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczZWMU5CUlFlMFhEY2EzbVo4VDhHOHhUVzZDd0t4c3ZIemFCQTlSSGw4dGgzNHVnT25iSmNXNXNNVmI1clRDdU1GSFhkVVVuZ0pvcjJYWGhmeDBGLUJjVU5ZUlVFOXhMVWJGT0dJbnBRVUVVbDJWU0lJcVRVbHlYV256UlNIOWRYWnE1Ykk3LVNkUTMyRGNYWVBvQ0U?oc=5"
+            "title": "Liverpool rise up football rich list but Premier League shut out of top four - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGRwc3FzLVdIMXJ0aHlsT0xTXzRRa1QxalpuNEMzbWtWeXhRbjNNWXlXVDc2eldBem9jbUNKVUFwZG5sc0c1Yi1FZGZBLWJxbldUM01Eai1aVjlPcGZXUnpaYl8zeDZneDBGMkZCQ1NTSXR1eGNrUHV6SkV3WURhWkowUU1JZjVfV2ticGhlczk1N2k4UW5mOWxhdGVYYm42QU1HWDNRdjNmSTJJSlA5RlZ1QWQyaFFqMnJQTkxaLWJENHNTcXgzVmhpRlM?oc=5"
         },
         {
-            "source": "The Telegraph",
-            "title": "Brighton vs Bournemouth live: Score and latest Premier League updates - The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0VBWWxHSHFaU2pYUEFOWU9BWmpDRTM4dU9Bakl4dUVKVks3aGFMX1BrWXRxdVBheXZvSEYtWG9oOThyckdrUVRKWkUzOUl5UktQZGZEZm1HY1Y3TW9USUU1NzI0UGl6My1lTGlnV3NiVzZaN3BaWnJ4VjBhcHptNHRGbVdoQzBHalVYQjkyRFVOTkNHckExOUR1eEx6Q2VQMjRhSDFDRWJ3Zw?oc=5"
-        },
-        {
-            "source": "TNT Sports",
-            "title": "Brighton & Hove Albion - Bournemouth - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUw2bWtndlRMYmVnZHRqNEQwRE5YbUNSVXBqTE1SRC1iTFVoVFpKMVlQLWlRODVCcmJOTjI4N3NCcHJJcW9KOWVMTlh6OV93Sm9fT1ExRkNfMFpCSFZzRHZWNld1aGNhVHR4VGMzQ0ZuN1NzRkhxaERYQ3FQbTFWNUJIcEU3OE1ycmxoYjlpNHVsd1A2U2hldjRnTFZNcDE3YU1GSGRybVlZdkpTeGZIcVBhUWxHYTNyY1hybzZsZWJ0TWVydHNuTUJxZVU?oc=5"
-        },
-        {
-            "source": "The Sun",
-            "title": "Final Premier League table predicted by supercomputer as Man Utd and Chelsea's fates under new bosses revealed - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0drZUhZaUdWME5xb1Z0am1UdWFpZDNvdXAyX0lhNERQaUJGeldOeGJDMGlJYTMxWDM1MHZxZGk4ZFBBNUEwV0d4czZrWXY0QUNCT1EtRENnRjZQMk9RRDRFUzNBRXpmeHRkbl85dXRmRWlJYUoxaVJDd095UEFvV212aTdQNVlvSTl5YldfUnRuZGFiNk5IM3ZtM2ZaTjl3WXhBTTlIdEc5N2xKNjkyTUZ5UWxxSWs5MlZKOUppcXc?oc=5"
-        },
-        {
-            "source": "FootballTransfers.com",
-            "title": "Fabrizio Romano Transfer News: Guehi signing, Glasner to Man Utd, Vini Jr contract - FootballTransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkdMcGcxT21zdy0wTW5QV2Y4dEJlUi1WZk02VnNEa3IzWjl5TmtrRW94U0s5UjhFLW5mc1FlV3VCVmpaN3VOYnVvcFJVOVlFWktVZXBNN1FZbU9HaHQxUTRMcGs4MVN0eV9tOXFMb0lJRHBEOG56SE9hLTF2MzlSYXBwendVeGV4TVg5ckZLQVBES1owYVdfNVhqRzA0U3ZzZUhzRG05N3dWYnVtVGdzVUtJbThYaXI2N1dXbW5NSnZPMlVFSWlOMlNubzJCX3FvOC1TSWVPSGF3TFp6STM1elVOenBQS0RSeHg0ZA?oc=5"
-        },
-        {
-            "source": "GiveMeSport",
-            "title": "Fabrizio Romano: Everton Make Official Bid to Sign £17m Striker for David Moyes - GiveMeSport",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2RfR21vVURpVzZBTDBFNURtb2ltU1dVSXJXUmZuUEZVRlBJS0lYOWJGZTJSUExEZDlFZVA4RW5ra0MtWmE2Y2d1allRZTVPc0NrVXh3LW9qZFA3ZnFRRU1KX1R2UE1rbEM0Y01UaGtjSjdBV1pWdEtPYWNuejJCcDU0YTlnLVZDbXZiTkZud3MydG8?oc=5"
-        },
-        {
-            "source": "LiverpoolWorld",
-            "title": "Everton submit bid to sign £17m star who has 69 La Liga goals - LiverpoolWorld",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnFXdUZMYVJNem1JdHFRYzh2SWQtN0NPd3drQjBTTk1md3AtVTNPR1dBZThsUXJQUGRQbTFiU2NxRlNUYWRfbXFjUzhlalBxc1ZqMHpRMmpWdHU1MnhNTEpSS3U4TTFGWjZERVgxYWJPZW1HUVRaVUJ0bTFwajNubmlpTzZraWdnODdNVjBPRzhkeExlejFoYlMwbHdaOEpSel9jV1hQczF0OTJrcFRTVDhudkxTc00zekh5aHlZazJJV1JUTnh1amFjcUFCUFQzSkNfcnZwRjhCLVdXX1NTRGhFbWJJekhFQVlVcWV1Qlg?oc=5"
-=======
-            "source": "The Guardian",
-            "title": "Brighton v Bournemouth: Premier League – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczZWMU5CUlFlMFhEY2EzbVo4VDhHOHhUVzZDd0t4c3ZIemFCQTlSSGw4dGgzNHVnT25iSmNXNXNNVmI1clRDdU1GSFhkVVVuZ0pvcjJYWGhmeDBGLUJjVU5ZUlVFOXhMVWJGT0dJbnBRVUVVbDJWU0lJcVRVbHlYV256UlNIOWRYWnE1Ykk3LVNkUTMyRGNYWVBvQ0U?oc=5"
+            "source": "Stretty News",
+            "title": "Man Utd prepare £17m January onslaught as Romano reveals truth behind ‘secret’ target - Stretty News",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXdud0FPb1pvaGRoQzd3ckxoa1lOOVM4TzlMMGV4RGR6ZkJ6T3JnejdsYzY0cWZrODVnakZSREdQRUJiRG5IemxQOEVTX3NLOWxrYjRra0k1RDRjRHJZRkNMTWpYNmZieVFYa1RNcFVaVUtUbjZPM0Nta0dSY1hoZWNkNkxSMjJoTUo2Z2tWZDFRbnNCX3lfNDhOZ1NvSWxtN0FzZ2JLZGFWbFh1SmQydDJNZzdEMkRPS0HSAb8BQVVfeXFMUE9xbHdmWFc2WU1XS2stYmVDMmd6SXlmOTZvTDROQzNvT04yMUNDTzF1eU05TnR6Uk1PdnpiUTI0SW44dWpIS2lMdjZIQ1NWejlWWmlGRFQxSnREbGJGbFpZeEkwb05QUlpGZkpiYmJBNUxYUWwyaE5weEFCcHJtV2lIdUI5aVpIYkl2TEdsSzE0QVZnaGdRQmpSX3hkcFo5WlJGaHdOcjFXTFV6ck9RSmt4eHhBRy12dUZFenBSblE?oc=5"
         },
         {
             "source": "MSN",
             "title": "Chelsea transfer news: Fabrizio Romano confirms OFFICIAL Chelsea signing - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZ2l0WmszSUpQaEZ4WmxLdFFsb3plQ3VtWF9iTzVXNl90SlpDTWd3Z19fZHlfdmF6blM1VUJFMkRmN1VxelhTVWt1YjJSRVRrcjYtZmg1QlNGcVlHSDZjQThUZ0ZWTkViMGY1QkJlcjhXM0FMVm9aZHQ5T1FyM1dZVHJLNnVZN3AtNHBubUx5WkxsVy1zS0dmSmpHRUtNcTRKX3VqeVdwZmQ2TDd4NHdadUtvMjF4VkZyM1pMa1lnRklWbkFPN1ZxLU45ank0QW9ZOTN1T0JRMXhBbXB1VGJOOGFHdy1seWZrc05GZG5fV0o3aGhpNTJIb1hjZ2dmN2RELWI4eHRSREtEZzdBM2NNOGVEcGw5dWRpV1M1eWJSdHd3cWg4cVlMU3A2djFkc0NVYk5Hbld6Q2lwNXJGSUdBckhMY01lZGpBYndZNFBoRUo0MTc4?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaHRiSVBQRTJzcGNVRmpYa3M3SXdEbEY3NzhoYWhPVTlUbEZHWXBiNVRmYnp5RWN1M2lWVENQRDVvclQ3Z1pHaFRQT2UtOTBDeHV5UWhBaF9TT3hYSnctc2V2cFpDUWhRMW1wTkRlVDJaemQwLXI2cTdTcTFGQklvckh6Q3JPYjB2S19qV1lNMnp3ZUY4aW1IQnJkRkh6ZHl3VDcwajRtdk5FZ3phQnVNZmlEUnRZTUt0bWlIT3hrMHJzbjktR1ROUURsRTY4alFSZWRTckFZZF9pdWkwVFZmRWFWZW5EN2M1ZFJsWmExZXMwaG9MMGxkNEhkelpNdGdEV3BEODhQSWlxQlpaS3RZWVNGbXpUc3VpOVBHRnpFRXYtOFhIRmU2cS05X2paY1d0QTJaT1BDUGp5Rks3bjZScHFXMGZocXBLTWxFdjFMZVdkdmc?oc=5"
         },
         {
-            "source": "footballtransfers.com",
-            "title": "Fabrizio Romano Transfer News: Guehi signing, Glasner to Man Utd, Vini Jr contract - footballtransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkdMcGcxT21zdy0wTW5QV2Y4dEJlUi1WZk02VnNEa3IzWjl5TmtrRW94U0s5UjhFLW5mc1FlV3VCVmpaN3VOYnVvcFJVOVlFWktVZXBNN1FZbU9HaHQxUTRMcGs4MVN0eV9tOXFMb0lJRHBEOG56SE9hLTF2MzlSYXBwendVeGV4TVg5ckZLQVBES1owYVdfNVhqRzA0U3ZzZUhzRG05N3dWYnVtVGdzVUtJbThYaXI2N1dXbW5NSnZPMlVFSWlOMlNubzJCX3FvOC1TSWVPSGF3TFp6STM1elVOenBQS0RSeHg0ZA?oc=5"
->>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
+            "source": "FootballTransfers.com",
+            "title": "DONE DEALS: Every official completed transfer around Europe today - FootballTransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZW5kZ01hNUNwQjlINkVyTGZVWTFZNFpHQ1hHVjJUWjYzRnJTMWpWcUVHUXJFYWJFenZqeXNKbUQ1VlpyUVZlaW0tbDZCTlhwSlJ0M3dZSU9kcjN3aDFkazB0YWFJTVc4d3dZQ3VNN01YNEUxZDJQaUpRVnRteDJlV0xzazF2aWpOODF0bGc2UnU2c3A4WS1KZnN0M2tfZmN4YmsxZDZXWlo2bU02ZVlnQkRkOVdMZG1Rb0IxUUZCT0VNU1NDb280X0dDb3p2RmE1M2FUOVJ2ajFfa042WXVrLWdWN055dE40Ylp4cE5lS1ZiY082YXRxNDkwY3g2MVpMQUE?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak53SmY5RTZaZVQyaDVSQ0R6ZUxJUVpZNGtha0owQW52M1ZFNGVzSzFtNmVUdGpWN0JLMFFYY2xaQURaWU1OLTVoRVh0YVNRcW9Xa0t5RDd2TzdQYjl4S2JsaG1UbUVFaVdFU0VvNEVFM3pqWWdZQ2gzc3ljaHgwa2VOejQxVW9KSVNtUi1fUGJrRFdFejZOOFpZNWF2dk5Fa2ZOOTc5S2dMQTV0VERvUw?oc=5"
+            "source": "The New York Times",
+            "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlIzemRfTktFRWMzb215QVpEazg0MGxrRjdRZ2w3enhIUHI2eDR5T1ZxbXY3Yk1vcTM5VEtmUnc1M0dheWtRcEVzTEkwcGhwR2dZRkJITDJoNHFReGFiM3I5S2xldksxZ1lUZ29oSy1mWWZPUTFiY0FnRkF6clktRE03M0thYVFURWU2MVVrZXVOZw?oc=5"
         },
         {
-<<<<<<< HEAD
-            "source": "Hotspur HQ",
-            "title": "Fabrizio Romano drops word that Tottenham's first January signing is all but official - Hotspur HQ",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3h4Sm1FOWtVZFROczhkT2VidUtReUVrYk82eVVQSm1sWjVPX20yakpOUkdDMzBVUS10eV9rVk43WXJmRk5aUC1sd3pINVpyMkNiWmVCZkg5d3l5LWh3SzYxcVRPb05oYnBFbk1rU05CYWw2Q2VJbTlqWXl3ZHZvZTY1dmNmN3F5azc5UG9vZjdIOFhac05zZ1BPSWxXWTBCbS1Pb2lxWHhCbU1PX2ZHcnRnbjd0QjZvSHZnbw?oc=5"
+            "source": "The Boy Hotspur",
+            "title": "Our view is that The Athletic were sucked into the “media circus” surrounding Thomas Frank - The Boy Hotspur",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmx4RVJmU181dUJYQUVBUHFOSmZNT3Y1dzNQZzNVOS12UzFWbVRNMkEySTFlQUNwQ0Mta1d2emVUWjNhQk13aGVKUEh3bjZDMlpDR2FKZE10MEliYXhpOVlaM3VOSnQyaHYwLTRjRjlWZGFhV0YycG1QRlh4OWVQN3dPN3RURkdwOWh6Y3MxQm1sM01vbUVsSkg0MWgzd0RDTVdHbW16WXJqSklXeU1XdzktQ01Td9IBuwFBVV95cUxNOGZGVFhUOURCdVBQUlRWcUhfbFcxcGFCNTd2Q2I4V0VzX2xiVHVXcm4zUUlBWjlSYmxjMjRaVnBLZVMtNmFHVmNXWFRJQjlWSzIyQ0NyMlg5WkxsZ3J2SkdpT0VLN2RwV2FwYVdUbzBKTUlGdzEybFotbGE1YzFXcVMyQ3NXSlZWczRBQUdIaWN1dXFGOVdUVko4S29IX3RzVFRfRVJvVDhuTERJZFg0YmVpRjhQUWZxZW80?oc=5"
         },
         {
-            "source": "DaveOCKOP",
-            "title": "Fabrizio Romano denies Liverpool agreement for defender - DaveOCKOP",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTRBLWFNRGNrcF9YNzhIdzdzMVJucGNVU3NVRjE5akVXdEl6NjJZT1NOSkczRmRlXzYxeUxsLUlqekZUWW9rQVdqSmVBOVg1cGszenN5MXBMS1hRNlY5MUFsVV84WXZPRzVHMmx0ck95aUdIcjgxOXRCOW94ZDduMkVmSXY5c0pfNEM2R0JZYzJWaEhncG84NVYzbEc?oc=5"
-        },
-        {
-            "source": "ManchesterWorld",
-            "title": "Fabrizio Romano confirms 'official offer received' for first Man Utd transfer of January window - ManchesterWorld",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObENuTWtzbE45VmVSVThwblpuVGVta3YtcFpIZVJrSlJBM2xPZ1VuT3NpR1JPLUxMOHFzcmFoamtCMDF6cGtZRzlZbWkyWjRidXZkTU5laVluN1JMSEZ0WXlsMjNrVnMtaEZES2lBMVpPdm9veXhXZWQxdm1Eek9EUnZsSUt1VXZHRDlyQ2NSVFk3emlmWjh4NWFSc1p6OU1HeW9HVVZoLUJvdWhONnlGRnduQmJKNjRJMldhVzEzTmhCQ3VTYWRrVFhJd3R5THMtaHRWb2RXeTFNVmFDNkZlNi0wTV82alcxcUNKWnpzWnhCd250RVdCbA?oc=5"
-        },
-        {
-            "source": "TEAMtalk",
-            "title": "Man Utd in dreamland as Malian star close to ‘final deal’ as Fabrizio Romano reveals ‘official offer’ for €42.5m forward - TEAMtalk",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmRqZDBVWnpnWHVQMHgxR0hQcG83M01fVVR0RFVsMDhYYWNjT1Y5QlhWUkxXU2V1NktjMXZuOXdzZWhiX1g0UzJ0a1FFTUZKSnFxenJDX1BYMFhuaTJ6d0FCYmh0bzVsTVlZUzk2MkdrallvVW5GSDA1dW9TbDNlcEVSMl9jUDBpbE5rV3BaTFZ1NTVZSHZiTjE1RjZaeHowbF9sTWxBTjA5WHJLdE15Q2RQV3hZc2ZpRWdCVU93?oc=5"
-        },
-        {
-=======
->>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
             "source": "The New York Times",
             "title": "Manchester City close to finalising £20m Marc Guehi deal - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZThkd2lDZTQzWjJlcElmRFpZMklKd2pwSWdLN1NVSmtzcWtlQmFSczBreXZXbEFMc1VJSkZTYWM5eXlQSHV3eXBQMjBwTFctQVJBUzh3cnZtMDk3LUxZOThLTXZzRTZxeDFmU2lSSXZ4X1FjbGN0TDBSdG4xRmJNOVV2azFmTlNpVkZmU1V0Wm1rWWY3RWplMUsyNA?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Barcelona’s Dro Fernandez tells club he wants to leave - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdZWlhWcFhCQTVLcG5qYzNJTVNHLWdHM09jc2dpRzRTejZfTmg2TTBrQ1hPejB3YXVqVDA4WndTYnVOTlZTbldfd1Z3b1BSQkJiVTducXgzQlRnYnZqb1M2UTFRM2dZMTNxTlc3MUVMYWEwODlLYmMxdUY3TWxjY29YRGFLZ1VJMlA2c2x2elh5TjEzQWhnb09aRjR5QQ?oc=5"
-<<<<<<< HEAD
-        },
-        {
-            "source": "The New York Times",
-            "title": "Leeds make enquiry for Wolves forward Jorgen Strand Larsen - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1ObDY1bHB3STNIcWZES05fYjJCVDEyek5jVy1zYXhPQmtHUEIyenNVMmhjSWFiQzZ1UUVUY2dNM3EtdUxZT3pXOFZkSjhWOVZqUm5vU2Z2aDZfVktfMDVsWVpMa0FRUEJFZk95cFF5RlNZNF94cTl5VlB1T1c0elJrd1VEWXd4eTk0b2lVd0NTMWlJWm8wS3J4cw?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Manchester United appoint Michael Carrick as interim head coach - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmFBdzVGa3h0SWY4ZG9TX2loc05pVklHZEtDS0hQOVVvY014M0JnRFFwb3hTY2c3NEp5RkZvdU1PQThHM3ZSNDhVbnRlbmNRT0luUXZqX1BPRWZtRjFISzNhRW5zb1BPVGdWNmF6SmU4QmFHbnJiZ1U4U0cwX2pCNEpoamdqU3ZDZW8yMll2aWZjTERvaHV3TjNJTzFRNjhTY3UyTg?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Conor Gallagher set for Tottenham medical after €40m deal agreed with Atletico Madrid - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEVMX0pMRTk3VHU5RldRT09wVVFlV1NWc0hNMHlCV0d2dkVHaXdjMTVhcmJXWkJIZWMzX0ZFM1hCLXRUbkZqb1Q3NDExN3d4Uzd4TWdtNU1sT2d1R3prZ1hHeFg3NUM0bmR2TEhmS1pzTmVjVHp0TGV4Si1YT1l3QzZUTTBjUW91dG84UlZFVVJZSlRmWUdnT1NDR1RQR1pWbUlKeGN3?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Arsenal retain Marc Guehi interest as option for summer transfer window - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVNZXzRvWmlqV3gyRzYyN24tYzVRRTJVVkZjZlNsQUN1eDY4M2VXckJuYm83cDBnVDk3R1c0a0hPczluMlNGa2dFQ01JNTREaEF6YzY0MWpsRUZadGN1T3BLbUZYUnhJTk1DWl94YXhHMHlPWlFEa2NwWFl2VTgwNXV6dFRrblFPRW9ZUTBfMmxmcXppa1FB?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Manchester City finalise Antoine Semenyo agreement without release clause activation - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVklRaDdBRndVTnpjWGo1MC1lMHNkTkpZWG5pQk0xbU5sb295TUNHbThKWGgxeWRLbmkyeFdBMzM1REJDSDNQc1Q2eU10elpqYjMxZVp0M1dnVDB5Y2prcnhuNW80LVJtUnc4MVhtbTFFZUFON1c2LXotZ0pnQ3B6V1BwNUpxR241LU5UdTBOMGhXbVBwOElqUQ?oc=5"
-        },
-        {
-            "source": "United In Focus",
-            "title": "David Ornstein shares what key football people always say about Michael Carrick as a manager, 'quite interesting...' - United In Focus",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGViNlpMUjh1QzZqQnNYNkVOWUl1dy14SGFyRVFRV0xSV0FUc3IzVm9OUjRMNlRrOW42OURwOElDdTQyTXVuQjRwZGxuejhIdjJtbFFHWmF5Zk1fN3VjMUlaUW9Fc2NaRmtuTmRjMVRMWkdwcWh6QnFTN1c2cmFCUjgxUWhHNG95UHdhU1Vyb2E2WkxGYi13RnJjWWdxVURhSTVHOEd6SFlXTWhTWGhob0tvSUVKdnpiaHFnelRZdjdjZ2tnS3Zva0U3Y1NYT0dsOUZ4cmZ6NUlJTWw1VXZZ?oc=5"
-=======
-        },
-        {
-            "source": "The New York Times",
-            "title": "Leeds make enquiry for Wolves forward Jorgen Strand Larsen - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1ObDY1bHB3STNIcWZES05fYjJCVDEyek5jVy1zYXhPQmtHUEIyenNVMmhjSWFiQzZ1UUVUY2dNM3EtdUxZT3pXOFZkSjhWOVZqUm5vU2Z2aDZfVktfMDVsWVpMa0FRUEJFZk95cFF5RlNZNF94cTl5VlB1T1c0elJrd1VEWXd4eTk0b2lVd0NTMWlJWm8wS3J4cw?oc=5"
+            "source": "Sky Sports",
+            "title": "Premier League fixtures live on Sky: Arsenal vs Everton and Tyne-Wear derby among games to be broadcast in March - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYk44UjBSS21PTlpra3hDZERIZTRzcHlCLVZJd2pLYTN1S3JrSWMwRDFYM2V5OHRicmFpU291cU1qb0tnWC10VlNsMzlhZU9vVUtXV08xRkZuTXI0MGJFQUVhSUpGYmdLMzJzNnlXSlhNWDBPQ0N2bHl5blJkb0g4MGx6dUJvNmFEYXh3VTdxalRkZlNfSHVnNFJzWFV3U2oySnBTZXB1dUhGOXJkMVBoNjdvWUtJVGJJOFdZT3QtRDRBNWFTOVRDU2Y3UzJrLXJESGYzanNDdm1ZRDc5SXNaa05wUVA1R1djRHBQU0JTUzhlajFNenM4TDdB?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer news: Scottish Premiership January transfer window 2026 - confirmed deals, ins and outs by club - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGVCR1pYaVd5ZHVwUS1jUXotcFpmamJIUjNHdzVnUGN6Qmszc1FURDRENG5OdUFocm45c3Fka2h2dlB4eXI5eW9zTk5DYld6MnpZVTZOUjdUUGNCcnQ1VmF5bFM3bnRlN2V6V3hwUmp4eEtqYTJKVXp6cGdMWXFmdmVfcXRLZ0w0LUtHY1AxN0N4V05tTEpTb2x4QWoyU2stSjcxdjRuQzhiX2VXQ0c3TTdxRUlQMjlsVFlkNTFqMzNtNkR6THFyRFFpRlV0blNjTm1qVXNXbUJWWEJYOFEyaU03eUdKX01PWE5J?oc=5"
->>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
+            "title": "Transfer news: January transfer window 2026 | Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTZxUk1oSlZPWGY4NWN1M3FINHVETVIzSTV5OGZ6TFYxUDZZTGQzMjVSbVltRlJmMWxQdGVMRENKa3ZGUndFblNDMl8tN0VKQnRrdFBBLS1zZWhPQjlweGtRemFTVmZnejFOUGJ4RFFSc0NXSHQ0TGFaLVpORGxmNHNnX19xMGRLSkxrTjFYNVdYZElyaVN6a0Itdi0tRVJwcnNJU2VhVXpuSUNXVXlFYWJQSWlHM3I5NGY5TFh5MUtaQWJVeUdiQlViTQ?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+            "title": "Transfer news: Every Premier League club's plans for January window 2026 | Football News - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1dpMDBvMGhSUERQMUdjU2tiUWNIdlUzVXVYR1pjZHA1RkpfWXlkb2RXR0c1NVpmNGRzbVk2WWVjOFZUNTdzdUhVcE1XTFdZT0o4eko3MVp4bklZcEZiYXVpSHAycEcxLTVPbVdGanV3WWZVM0NOUVpsajc4cEZIWjNuNUN4M2l4aWFtQTZUOW1JN0R1RHMzVWhhbHFPWGFZaWVQUjMxTkk0eFhlblpNZTJNeFczQ1J1SkcyWHdIQ0JRelU?oc=5"
         },
         {
-<<<<<<< HEAD
-            "source": "Sky Sports",
-            "title": "Transfer news: Scottish Premiership January transfer window 2026 - confirmed deals, ins and outs by club - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGVCR1pYaVd5ZHVwUS1jUXotcFpmamJIUjNHdzVnUGN6Qmszc1FURDRENG5OdUFocm45c3Fka2h2dlB4eXI5eW9zTk5DYld6MnpZVTZOUjdUUGNCcnQ1VmF5bFM3bnRlN2V6V3hwUmp4eEtqYTJKVXp6cGdMWXFmdmVfcXRLZ0w0LUtHY1AxN0N4V05tTEpTb2x4QWoyU2stSjcxdjRuQzhiX2VXQ0c3TTdxRUlQMjlsVFlkNTFqMzNtNkR6THFyRFFpRlV0blNjTm1qVXNXbUJWWEJYOFEyaU03eUdKX01PWE5J?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlMtSF9leV9JQmh2cmpodlZ3SXM0ZEJoSnZRSl9WYWZGZ0g3VnY3OGVKcVhnNHF4QWxJTDJiNmNkT1REZk9SeWlvWVdjTkszMkMzeUFtUS1wZm5OSVExNmN6d3lEaTc3S0JxRWZYeXpQRS1Pa1U5WElmdXZBQk5IeGw0MmlIVHc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
-        },
-        {
-=======
->>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
-            "source": "스포츠조선",
-            "title": "앙리, 램파드, 드록바, 살라, 시어러가 모두 손흥민 아래...아시아 최초 EPL 득점왕보다 영원할 대기록 또 조명→압도적 1위 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52eU1mM3VZcUt1T3Q5OUhfUGFNZnJrMWVpMGFwRWgwNkRfTExqSGFRTEh6MUxCMlVxRUFXb2tfZkNmYkZzZ0p0ajNmWDVRcG9aZTc3UEJBYnNaUzJVNlNiN2pBa1Zwc3EwQXlkZW9id1BUeFNNMU0wRnVmeFZlZ9IBd0FVX3lxTE1iWHBhNG9FZnBDalZZUThhLVpNUWlsZVlNV256bno0Mk9ULS1ROUdwb2xrZ3praUc2TGNLSlBVRjJucmt4TjliOEtVT2NUQnduNVg3OGRjV1ota0RVQ0RrY3VHdTBSTFpYR2g5M0lWQTQ5aU9XOHEw?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "프리미어리그 최고 수비수가 맨시티 유니폼 입는다! \"메디컬 테스트 첫 단계 완료, 서명 예정\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dkkwOVN6aGhSR2FRVW45TGxaZ3JadnpXQ243eDhBUUJ5RXNNRDNSd3A5SDVjZ2hKOEI2SndMYmdvczYwdnV0ZVhiNDhObTdLdWVpX3RIajVJMzZfVE1oRGkxMzB4a2NY?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "'손흥민 아웃!' 127골-71도움인데 베스트 11 탈락…손흥민 제외, 납득 어려운 선택 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYTRaRzVZRlJkV1I1RGVwX1R1WlplQmkyRmRURjNiUHlZYkc3WUluSDlFZDdoSm1zRkNLcTAzSDc2WGx0TUY1ZjdDMVkzYmFrVVNjUktCR1dva0w3d2dwako0cEx1dlpFX1E?oc=5"
+            "source": "미주중앙일보",
+            "title": "세계 매출 최고 클럽은 역시 레알, 2조 육박.. 프리미어리그 대장은 리버풀 - 미주중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ck5UM2ZDb0VPZS1FSXNqN1NzYUFlTk1UTmNUTGgtSFM1N0V2S0I0QVVLbDh4ZXZuRDRpSVBITlU5WUNYY0ZQWHRpWkUyb25md3ZMTENaWHotbl9DbnByZ0p3?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "팀 살린 춘천 황소 질주…울버햄튼 5경기 무패 행진 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zUU9XZU44QzVJOUJsb0MwWmhmREFMRXVpNmprUHJyZWZ4dXUtb216NXhBSzFOeERpbGhscnhsbzVzWmtfbmU5YUNFcGx5SEE?oc=5"
-<<<<<<< HEAD
+            "title": "리버풀 배신 6개월.. 아놀드, 프리미어리그 유턴 고민 '레알 악몽과 불만' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lYUFYNlBqcFZKdUtEV1V2M0RFb1piQzJRbzgxT3ZfV1U0T2tZT1VleWpPM19MWDRudDdtUWRqQkhPS1dudWc?oc=5"
+        },
+        {
+            "source": "매일경제",
+            "title": "토트넘은 도깨비 팀? EPL 하위권 추락, UCL 4위 도약... 프랭크 감독, 경질설 잠재우나··“내 거취는 중요하지 않아” - 매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByaG5SZ2M1dDdyaGdqZHdZcEdVZUZQODg1d3BvZGdKTFE4Rm1jdTlJQVBqSmFBRmpwUmR6RmpvZHVKMk9ZN1BXOWRkYWtFM2pqbHU0?oc=5"
+        },
+        {
+            "source": "노컷뉴스",
+            "title": "'리그 부진 털어냈다' 리버풀, 마르세유에 3-0 완승…UCL 16강 직행 성큼 - 노컷뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53R1RvRXlqejJuUzZvSWFjUy1acnN2SHRwNGIya1oyYUxVYXdEbURmb3ZJOTlxZFJPakhtUXBKNnV6UU12QnJlOW9sVVZFQm9nVkE?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "\"이래서 경질할 수밖에\" 프랭크 감독, 충격 '꼴찌' 성적표→EPL 시대, 토트넘 최악 홈 승률…단 2승→18% 굴욕 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUlxbDNPZklsWEYxWWRYWDROTVZSaWhRQ2stR2Z2M2R6VGN1T3hwU0diTENYREtYU2VaTVZ3bW5fQTdGNkhzVW9INV9Md3RJdllxUlBHU3hzTVAyMXRuc2t3VEJNaEVjc2xOVnluXzVrR3JmbEFQcndzRWxQcTk4RzNENVVRTHRtSTZn0gGfAUFVX3lxTE5FS0FtRHR0YVI5Z3NRZmlZZFo1TXFLRHE0ZW5LUFlOamJiQ3R1VFUzRDg3X21lRS1WOXd4cUhWck1pM0R6X093YUJBRWNjRldPOXY1UmdXWVZZZDhja0RKRUpLUjRCUHd3SFZ2SEFIWVc4Zy1GRndOZjk4cGpjZXJYcXRCZ2d6dS1JNG52RlduOUlDUVNhQW85TVhOeFNWWQ?oc=5"
+            "title": "[공식발표] '승승승승승승승승승승무무승승무승승무승승승승승' 토트넘 맞아? 리그는 15G 2승인데...UEFA '홈 24G 무패' 질주 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXh4bGxCcUV5dlFUTGxOcE1qQjZ0VVZDbkNVendiUnUybjBzWEFmOEt3NWlmTDJBZnFIQkcxWDVNNHlPVEdNTTdSUGpmYlVxZDN0SG5HQ3F6UEVNdUllWlB6LUZTSXMzQ0JNeFo4LTk3YWU5ZmVIVnVsWFBMWDVfM3ZoVjZ0N0pOUWZB0gGfAUFVX3lxTE41UmtSY1ZzRllNZ3ZNbENYaEtjSVVOc2JQLXU5bXZ3V2tsejVtQnZfVzdPR2s5eTRoNWgycGFOelYwNklZVkJIYXNXU2xMYjVIRWlYczUtMWhFUGpwNThZM2lMcTJ3RWFIT1dYdkg3enE5Q0ZENUxSRkFyZGFLUmlUMHFkazZneG8zdGFBTzlfUHZyR0ZnWVBlYTE3ZWpJZw?oc=5"
         },
         {
-            "source": "ZUM 뉴스",
-            "title": "[오피셜] 빌라 공포에 떤다...'경질' 아모림→마레스카 이어 에메리, PL 12월 이달의 감독상 받아! 3년 만에 수상 - ZUM 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxOZlA3SW5QUVZTVkxqTWYyeU9LYkNIYnFuUkt1ZW44MTkyV3R4MDdBZjZua2REMUNwN1ZZakt3Ym1kcVJMMk9iVW5pVHdQMWQ1azBiSW01ZGNVZHlsMTlYMV9ja2l6YW9oNHNrd0hxUHFXMnE0bEFFbGpyYTU4YTc4NlotelNleEY4Q3lFZEw5QlczaGJfc0dBSUNaakNsaEJVME4tbWNZNmRLSThqUDAxR0FWZTdNZkl4MUFvSnB6M1hSZ1UwdThYMURyYmlWWjVwU3BZYUd0a2l5cnF4SEpwUU9kUVpIdEpRSi1MOFl6OEJwb0dWMDFCalA5NnpmQ1JkTkdBTlFHZGotLUtUQUtobkxVREVZVlNrTmdHM2xVZ2N4VjRlaERWMlBDZmlkMGtEX0NNMlkteDJwTGhPNTZGS2F4bml1VDhVV0IxQkRZYlhwMUwwaDV0VldyeVhPLXRPbkQwd3RZQVRCRy1VbXFnZ3ZuR0JUalNCTU5qek5wYlJzWWloWldJZ0dlazdldjJYRjVESDFwbFk0dkpudGVucDZhQlFNYXp6OE1UZlM5X3FYb085QUtYbmhSOWh3dy12SlU5dUNja09RSWh1TmNWcTBXZWdMZmR4dUlwQUNFSlQ1ZjE4YlFhdFRLR185Y2lJaGVDbjBnLWlSR0pld196b1hxZ2pLNncyZzA3ZXJ2TXZxNnNvTFZ5cEtZZnp1cWVla005RjZtbG5NWWFHMmhWMHBWTWY?oc=5"
+            "source": "MSN",
+            "title": "'콩가루도 이런 콩가루가 없다' 주장 떠나, 감독 떠난다고 해, 이번엔 핵심 공격수마저 \"나 나갈래\" 선언… SON바라기 어떡해 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxNU1lReHk0eWdkNlJrYjR0MnAybXVxUW5FejF5QWlkb1kzN1RyWG5zdkt2VmxLc2JyVXhsVl9FbVFoQVg2RkFkalFnbVc3Q1ZsN1Y3dUoxd19NQjNLTEhYcndKWTl6VU8wNlU5UlNiOGszZGVRdXVHeDhyazNjVVlJN0pnOUhuQUtRaUdaQmFTMDg1RVoyUFY5bWtjd0h3U29za3p3eXk5eTZRUUppR2RoWkVrQXMzZW5IZUpLUmpjaGpSeGFqUmR2QUFZX1M4b1pDM3hkZmszd3lCUm1hREphTHZZQTV1OVh6b0VKWWpvVnVqal91ZENHTXdHLV9YT29ySWZJMkZhZ3NDcko0alNncTdXVncweWk3bGVKc0ZHMklSZzZFb3FLT3pDcERWSHBZTXJnempfX0l6SXBOd2VCZnhsTk83M0JfcGtzUlc4cG9hMHJwSU1zdTBmSG1Nc24wWUdIcG94Sm54N1BMaDZIcFVndi1PTzhJRzFPeUVtZDYzX3JobkNidTQyUGdLS045V3JiSE0wb3Bra1pYd19jeFRJNk9CZWJPNDBuU2ZreFowLS1mS1pTSjZtdVY5VTExS0VLbldNc0x1d1ZPRXNicjdHbFlaMHMtQkJ6OTBoUWdjN2p6bTJHY2ROR2VtV0dWZFlodTBQdlVFMWNXUWJzU01pdXlpbjJKeVAtNnFBbWFCRk0wWjUtcVAyZXRvQ2JZRkpfVEx2dEhPM0VnNFZRVmhJclV5YzlFR2h2NnBNb2ZjQ0V3MWtBLTlva01QTVVDVG00Y09CQjN5Y2xoN0Z0X1NzcVQ4VGFwd2x6UHVNRm15bGpjNDdJZ2Y4T3ZTNDVDanpvLUlpUWhwWFpjUUR1aUtUbw?oc=5"
         },
         {
-            "source": "xportsnews.com",
-            "title": "토트넘, 프랑크 경질설 속 윤곽 드러난 차기 사령탑 구상…포체티노 vs 사비 '양자 구도' - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11SnptTmhJZi1VNi1VczZwcF9rMFlMQzF4MFowWV9YYWQtUk5OeVFUNFp1c0hDQmhnMTJmQ3dBczhnZVFmVDZxbnROV1RRSnc4ZUstRw?oc=5"
+            "source": "뉴시스",
+            "title": "보되/글림트에 충격패 당한 맨시티 홀란 \"창피하다\" - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VemNnbTViSkZiYnZfNFlhcFU3Mzc1VmZpYTdmRTVjR1N1TjNXcUlXR1d6cko4OVhDRVhIWXc2eHExQ196d2lTekE2OVc2d1ludWM2bGhnNWpNX09YWWNwUtIBeEFVX3lxTE9wUnFrV0cxNzFPeGtEdDBYRW5mMmU2cXB6d0lzTnNPMG1YVktTUUFjT0NhRFlGWEZvOWhvTHBhUmNTREpudkRNS21ER3JpOWVSQl9CQ3ROc0FRZXlsZWx5WUxoWDdEU0ZRSlI3akg3R2FncTJwNEVkOA?oc=5"
         },
         {
-            "source": "스타뉴스",
-            "title": "\"내일 아침 경질\"... 토트넘 감독 치욕, 역대 최악 분위기→'와르르' 추락 계속 - 스타뉴스",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WS29ta2Q1ZTBwNmRkSnJoYkZpQ3VTN1F5OWVGY0R4V2lxdTR1cDE1RkhCS0g5blB2OEZyTXVNc29wTmJLTUVtcUY4d1o1TG1BUjhjbEhlNlIzeTg1R3JscmFxSW9ZZGtJdThMTzZHUVdSQzRFOVE?oc=5"
-        },
-        {
-            "source": "m.mksports.co.kr",
-            "title": "英 단독! ‘황희찬 이적설’ 울브스, ‘2부 챔십’ 싫은 2007년생 초신성도 떠난다?…“마네는 떠나고 싶을 것, 2부에서 뛰어야 하니까” - m.mksports.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UV0dodGpNb2hncTlCSFNWTjhZSWZkTW5ybWZEb09OaUtEb3diVmFfSEVhVUlTb0M4NXBmaFJuaFZpbjlkRHZCVW4tT0lTcmYzS1dkM3BER3RwbW8?oc=5"
-        },
-        {
-=======
-        },
-        {
-            "source": "조선일보",
-            "title": "\"이래서 경질할 수밖에\" 프랭크 감독, 충격 '꼴찌' 성적표→EPL 시대, 토트넘 최악 홈 승률…단 2승→18% 굴욕 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUlxbDNPZklsWEYxWWRYWDROTVZSaWhRQ2stR2Z2M2R6VGN1T3hwU0diTENYREtYU2VaTVZ3bW5fQTdGNkhzVW9INV9Md3RJdllxUlBHU3hzTVAyMXRuc2t3VEJNaEVjc2xOVnluXzVrR3JmbEFQcndzRWxQcTk4RzNENVVRTHRtSTZn0gGfAUFVX3lxTE5FS0FtRHR0YVI5Z3NRZmlZZFo1TXFLRHE0ZW5LUFlOamJiQ3R1VFUzRDg3X21lRS1WOXd4cUhWck1pM0R6X093YUJBRWNjRldPOXY1UmdXWVZZZDhja0RKRUpLUjRCUHd3SFZ2SEFIWVc4Zy1GRndOZjk4cGpjZXJYcXRCZ2d6dS1JNG52RlduOUlDUVNhQW85TVhOeFNWWQ?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "토트넘, 프랑크 경질설 속 윤곽 드러난 차기 사령탑 구상…포체티노 vs 사비 '양자 구도' - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11SnptTmhJZi1VNi1VczZwcF9rMFlMQzF4MFowWV9YYWQtUk5OeVFUNFp1c0hDQmhnMTJmQ3dBczhnZVFmVDZxbnROV1RRSnc4ZUstRw?oc=5"
-        },
-        {
-            "source": "스타뉴스",
-            "title": "\"내일 아침 경질\"... 토트넘 감독 치욕, 역대 최악 분위기→'와르르' 추락 계속 - 스타뉴스",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WS29ta2Q1ZTBwNmRkSnJoYkZpQ3VTN1F5OWVGY0R4V2lxdTR1cDE1RkhCS0g5blB2OEZyTXVNc29wTmJLTUVtcUY4d1o1TG1BUjhjbEhlNlIzeTg1R3JscmFxSW9ZZGtJdThMTzZHUVdSQzRFOVE?oc=5"
-        },
-        {
->>>>>>> ecf64a5 ([Production] Fix SHAP chart encoding, ADX scaling, and enable real-time Transfer Rumor analysis Engine)
-            "source": "네이트 스포츠",
-            "title": "英 BBC부터 '맨전드'까지 '극찬 또 극찬!' 마이클 캐릭 맨유 감독 \"너무 들뜨지 마, 절대 만족할 수 없다\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DbUZCVTNIUG0tRXBPUTZaNmpkNGxnbDEzU3dvdlRXOEtWb0lFNzYwcnZmNExRS0NkYXBORW1qSkFGbHdiVkVCUzB6NnNpVnFxNnRDRVo4YlpYeVNW?oc=5"
+            "source": "busan.com",
+            "title": "PSG·맨시티 강호들, 챔스 잇단 충격패 - busan.com",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UQkVRRlNRc3VWZXM0V2lhUXRCRW5HVmVMaWtsY29VZXVkVWYtXzhIeG1nNk8zLWstdUtFNFhyS0V6ZHFVZWZQWTl2eHc1TWxIYWhmQ3RQZVJSUkM4MFc0VmtmT0NYNFdYakJOdF9rWHFWR21HMUx5Qw?oc=5"
         }
     ],
     "transfers": [

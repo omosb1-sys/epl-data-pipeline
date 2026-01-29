@@ -1,0 +1,140 @@
+[
+    {
+        "subject": "Mohamed Salah",
+        "relation": "likely_to_return",
+        "object": "Liverpool",
+        "type": "Injury_Fitness"
+    },
+    {
+        "subject": "Manchester United",
+        "relation": "announcement_timeline_revealed_for",
+        "object": "New Manager",
+        "type": "Manager_Movement"
+    },
+    {
+        "subject": "Marc Guehi",
+        "relation": "reach_full_agreement_with",
+        "object": "Manchester City",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Everton",
+        "relation": "submit_official_bid_for",
+        "object": "£17m La Liga Striker",
+        "type": "Transfer"
+    },
+    {
+        "subject": "David Moyes",
+        "relation": "linked_as_manager_to",
+        "object": "Everton",
+        "type": "Manager_Movement"
+    },
+    {
+        "subject": "Tottenham Hotspur",
+        "relation": "all_but_official_signing",
+        "object": "January Signing",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Liverpool",
+        "relation": "denies_agreement_for",
+        "object": "Unnamed Defender",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Manchester United",
+        "relation": "close_to_final_deal_for",
+        "object": "Malian forward",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Chelsea",
+        "relation": "prepared_predicted_lineup_against",
+        "object": "Brentford",
+        "type": "Tactics"
+    },
+    {
+        "subject": "Premier League Giants",
+        "relation": "battling_for",
+        "object": "Barcelona prodigy",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Jordan Henderson",
+        "relation": "featured_in_team_news",
+        "object": "Brentford",
+        "type": "Transfer_Link"
+    },
+    {
+        "subject": "Manchester United",
+        "relation": "searching_for",
+        "object": "New Manager",
+        "type": "Manager_Link"
+    },
+    {
+        "subject": "Gareth Southgate",
+        "relation": "linked_to",
+        "object": "Manchester United",
+        "type": "Manager_Link"
+    },
+    {
+        "subject": "West Ham",
+        "relation": "at_risk_of",
+        "object": "Relegation",
+        "type": "Performance_Status"
+    },
+    {
+        "subject": "Sandro Tonali",
+        "relation": "uncertain_status",
+        "object": "Future",
+        "type": "Player_Status"
+    },
+    {
+        "subject": "Ousmane Dembele",
+        "relation": "under_negotiation",
+        "object": "Contract Talks",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Everton",
+        "relation": "submitted_bid_for",
+        "object": "£17m Striker",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Tottenham",
+        "relation": "close_to_signing",
+        "object": "First January signing",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Liverpool",
+        "relation": "denied_agreement_for",
+        "object": "Defender",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Manchester United",
+        "relation": "official_offer_for",
+        "object": "€42.5m forward",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Manchester United",
+        "relation": "close_to_deal_with",
+        "object": "Malian star",
+        "type": "Transfer"
+    },
+    {
+        "subject": "Chelsea",
+        "relation": "match_status",
+        "object": "Brentford",
+        "type": "Tactics_Match"
+    },
+    {
+        "subject": "Manchester United",
+        "relation": "match_status",
+        "object": "Manchester City",
+        "type": "Tactics_Match"
+    }
+]

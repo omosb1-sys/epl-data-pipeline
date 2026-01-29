@@ -1,0 +1,22 @@
+[
+    {
+        "term": "xG (Expected Goals)",
+        "definition": "기대 득점. 슈팅이 골로 연결될 확률의 총합.",
+        "sql_column": "ls.expected_goals (미구현 시 shots로 추정)"
+    },
+    {
+        "term": "승률 (Win Probability)",
+        "definition": "특정 경기에서 승리할 확률.",
+        "sql_column": "p.home_win_prob, p.away_win_prob"
+    },
+    {
+        "term": "최근 흐름 (Momentum)",
+        "definition": "최근 5경기 성적 또는 실시간 점유율 추이.",
+        "sql_column": "history of live_stats"
+    },
+    {
+        "term": "Value Bet",
+        "definition": "배당률 대비 예측 승률이 높아 수익 기회가 있는 베팅.",
+        "sql_column": "p.value_bet_side, p.value_bet_edge"
+    }
+]

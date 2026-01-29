@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+        "penpot": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@penpot/mcp-server@latest"
+            ],
+            "env": {
+                "PENPOT_ACCESS_TOKEN": "your-penpot-access-token-here",
+                "PENPOT_BASE_URL": "https://design.penpot.app"
+            }
+        }
+    }
+}

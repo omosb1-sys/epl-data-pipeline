@@ -1,0 +1,34 @@
+{
+    "env": {
+        "PYTHONPATH": ".",
+        "ANALYSIS_MODE": "executive-report",
+        "REPORT_FONT": "AppleGothic"
+    },
+    "permissions": [
+        {
+            "type": "run_command",
+            "allow": [
+                "python3",
+                "pip",
+                "mkdir",
+                "rm"
+            ]
+        },
+        {
+            "type": "file_system",
+            "allow": [
+                "./data/*",
+                "./output/*",
+                "./.agent/*"
+            ]
+        }
+    ],
+    "hooks": {
+        "SessionStart": [
+            {
+                "type": "command",
+                "command": "pip install pandas matplotlib seaborn python-pptx fpdf openpyxl && mkdir -p data output/plots"
+            }
+        ]
+    }
+}

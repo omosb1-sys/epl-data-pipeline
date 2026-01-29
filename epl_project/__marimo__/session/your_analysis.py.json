@@ -1,0 +1,64 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "21b96ed8e735d64c985851db6ebcfe9d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><style>\n    :root {\n        font-size: 130% !important;\n    }\n    .marimo-cell {\n        margin-bottom: 3rem !important;\n    }\n    h1 { font-size: 3.2rem !important; color: #1f77b4; margin-bottom: 1.5rem; }\n    h3 { font-size: 2.2rem !important; margin-top: 1rem; }\n\n    /* \ucc28\ud2b8 \ubc0f \ud14c\uc774\ube14 \ud14d\uc2a4\ud2b8 \ud06c\uae30 \uac15\uc81c \ud655\ub300 */\n    canvas {\n        zoom: 1.3;\n    }\n    .marimo-table {\n        font-size: 1.2rem !important;\n    }\n</style></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "5f43d619c0c7639f0ae8d0f7d3ebc4b1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"epl\">\u26bd EPL \ud300\ubcc4 \ub4dd\uc810 \uc815\ubc00 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc</h1>\n<span class=\"paragraph\">\uc0ac\uc6a9\uc790\ub2d8\uc774 \uc9c8\ubb38\ud558\uc2e0 <strong>f-string</strong> \ubb38\ubc95\uc744 \ud65c\uc6a9\ud55c \uc2e4\uc2dc\uac04 \ub9ac\ud3ec\ud2b8\uc785\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "dd51b273efb5ec4737a3422adf7cbc6d",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "278c8ac44a0d4be96a442e0cb3563fb6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "1b17700b1ddd98540786846311d9697a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "02d662df6d12655aa2d2cbb1f75df961",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "b1a99adb3a0007fa07411a225e35a55c",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

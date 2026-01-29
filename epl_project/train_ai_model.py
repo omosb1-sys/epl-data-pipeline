@@ -8,17 +8,51 @@ import joblib
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 
-class EPLDeepNet(nn.Module):
-    def __init__(self, input_size):
-        super(EPLDeepNet, self).__init__()
+class SwiGLU(nn.Module):
+    def __init__(self, input_dim: int, output_dim: int):
+        super().__init__()
+        self.w1 = nn.Linear(input_dim, output_dim)
+        self.w2 = nn.Linear(input_dim, output_dim)
+        self.silu = nn.SiLU()
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return self.silu(self.w1(x)) * self.w2(x)
+
+class RezeroLayer(nn.Module):
+    def __init__(self, dim: int):
+        super().__init__()
+        self.resweight = nn.Parameter(torch.zeros(1))
         self.net = nn.Sequential(
-            nn.Linear(input_size, 64),
-            nn.ReLU(),
-            nn.Linear(64, 32),
+            SwiGLU(dim, dim),
+            nn.Linear(dim, dim)
+        )
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return x + self.resweight * self.net(x)
+
+class EPLDeepNet(nn.Module):
+    """
+    Advanced EPL Analysis Network using GAU/SwiGLU/Rezero.
+    Inspired by Candra Alpin's Advanced Transformer Architecture.
+    """
+    def __init__(self, input_size: int):
+        super(EPLDeepNet, self).__init__()
+        self.initial = nn.Linear(input_size, 128)
+        self.layers = nn.ModuleList([
+            RezeroLayer(128) for _ in range(2)
+        ])
+        self.head = nn.Sequential(
+            nn.Linear(128, 32),
+            nn.SiLU(),
             nn.Linear(32, 1),
             nn.Sigmoid()
         )
-    def forward(self, x): return self.net(x)
+        
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        x = self.initial(x)
+        for layer in self.layers:
+            x = layer(x)
+        return self.head(x)
 
 def train_stable_engine():
     print("🚀 [Expert Engine] Super-Stable 시스템 구축 및 학습 시작...")

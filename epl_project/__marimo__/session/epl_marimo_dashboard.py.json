@@ -1,0 +1,99 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.4"
+  },
+  "cells": [
+    {
+      "id": "MJUe",
+      "code_hash": "8b36a64c16579db5b6f0b56c75f52541",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"antigravity-x-marimo-epl\">\u26bd Antigravity x marimo: EPL \uc815\ubc00 \ubd84\uc11d\uae30</h1>\n<span class=\"paragraph\">\uc774 \ub300\uc2dc\ubcf4\ub4dc\ub294 <strong>\ub9c8\ub9ac\ubaa8\uc758 \ub9ac\uc561\ud2f0\ube0c \uc5d4\uc9c4</strong>\uacfc <strong>\uc548\ud2f0\uadf8\ub798\ube44\ud2f0\uc758 \ubd84\uc11d \ub85c\uc9c1</strong>\uc774 \uacb0\ud569\ub41c \uacb0\uacfc\ubb3c\uc785\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "160cd3b7d21f9009326f5689a4114cd2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "85e10e639337bc006183ee3a2532d897",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "8ef39944fb36b2af543e01d8f033620d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"_1\">\ud83d\udcca \ubd84\uc11d \uc870\uac74 \uc124\uc815: <marimo-ui-element object-id='bkHC-0' random-id='27fd8643-c5c4-8297-5d64-0bfd46a004e5'><marimo-slider data-initial-value='2' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;\ucd5c\uc18c \ub4dd\uc810 \ud544\ud130&lt;/span&gt;&lt;/span&gt;&quot;' data-start='0' data-stop='5' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element></h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "a132e1a821f7451253c60ef270417bf4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "fe2b0afb273f1ffe099902d55300b745",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-stat data-value='4' data-label='&quot;\ud544\ud130\ub9c1\ub41c \uacbd\uae30 \uc218&quot;' data-bordered='false' data-target_direction='&quot;increase&quot;'></marimo-stat><marimo-stat data-value='&quot;1.82&quot;' data-label='&quot;\ud3c9\uade0 xG(\ud648)&quot;' data-bordered='false' data-target_direction='&quot;increase&quot;'></marimo-stat></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "d6e93464d960c4be7ef9b270ee4fdcab",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Xref-0' random-id='b81ad20f-006f-6876-76f5-055aa57273c2'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;&#92;&quot;:0,&#92;&quot;_marimo_row_id&#92;&quot;:0,&#92;&quot;timestamp&#92;&quot;:&#92;&quot;2026-01-21 00:31:27.306316&#92;&quot;,&#92;&quot;home_team&#92;&quot;:&#92;&quot;Arsenal&#92;&quot;,&#92;&quot;away_team&#92;&quot;:&#92;&quot;Chelsea&#92;&quot;,&#92;&quot;home_score&#92;&quot;:2,&#92;&quot;away_score&#92;&quot;:1,&#92;&quot;xG_home&#92;&quot;:1.8,&#92;&quot;xG_away&#92;&quot;:1.2},{&#92;&quot;&#92;&quot;:1,&#92;&quot;_marimo_row_id&#92;&quot;:1,&#92;&quot;timestamp&#92;&quot;:&#92;&quot;2026-01-21 00:36:26.044964&#92;&quot;,&#92;&quot;home_team&#92;&quot;:&#92;&quot;Manchester United&#92;&quot;,&#92;&quot;away_team&#92;&quot;:&#92;&quot;Manchester City&#92;&quot;,&#92;&quot;home_score&#92;&quot;:2,&#92;&quot;away_score&#92;&quot;:0,&#92;&quot;xG_home&#92;&quot;:1.8,&#92;&quot;xG_away&#92;&quot;:0.4},{&#92;&quot;&#92;&quot;:3,&#92;&quot;_marimo_row_id&#92;&quot;:2,&#92;&quot;timestamp&#92;&quot;:&#92;&quot;2026-01-07 00:36:26.073267&#92;&quot;,&#92;&quot;home_team&#92;&quot;:&#92;&quot;Manchester United&#92;&quot;,&#92;&quot;away_team&#92;&quot;:&#92;&quot;Liverpool&#92;&quot;,&#92;&quot;home_score&#92;&quot;:2,&#92;&quot;away_score&#92;&quot;:2,&#92;&quot;xG_home&#92;&quot;:1.4,&#92;&quot;xG_away&#92;&quot;:2.1},{&#92;&quot;&#92;&quot;:5,&#92;&quot;_marimo_row_id&#92;&quot;:3,&#92;&quot;timestamp&#92;&quot;:&#92;&quot;2025-12-24 00:36:26.080165&#92;&quot;,&#92;&quot;home_team&#92;&quot;:&#92;&quot;Manchester United&#92;&quot;,&#92;&quot;away_team&#92;&quot;:&#92;&quot;Tottenham&#92;&quot;,&#92;&quot;home_score&#92;&quot;:3,&#92;&quot;away_score&#92;&quot;:1,&#92;&quot;xG_home&#92;&quot;:2.3,&#92;&quot;xG_away&#92;&quot;:1.1}]&quot;' data-total-rows='4' data-total-columns='7' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='13' data-field-types='[[&quot;timestamp&quot;,[&quot;datetime&quot;,&quot;datetime64[us]&quot;]],[&quot;home_team&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;away_team&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;home_score&quot;,[&quot;integer&quot;,&quot;int32&quot;]],[&quot;away_score&quot;,[&quot;integer&quot;,&quot;int32&quot;]],[&quot;xG_home&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;xG_away&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-selection='&quot;multi&quot;' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-has-stable-row-id='true' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

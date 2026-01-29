@@ -1,0 +1,53 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "7486fb7070f7bafd515ef96de13458c0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"k-\">\u26bd K-\ub9ac\uadf8 \ub370\uc774\ud130 \ubd84\uc11d \uc5f0\uc2b5</h1>\n<span class=\"paragraph\">\uc790\uc720\ub86d\uac8c \ucf54\ub4dc\ub97c \uc791\uc131\ud558\uc138\uc694!</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "jsLa",
+      "code_hash": "9b3d0818ccf0e6837a9b52a2e7cdabee",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "Duplicate key in file PosixPath('/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/matplotlib/mpl-data/matplotlibrc'), line 815 ('font.family : AppleGothic')\nDuplicate key in file PosixPath('/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/matplotlib/mpl-data/matplotlibrc'), line 816 ('axes.unicode_minus : False')\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "BCwa",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

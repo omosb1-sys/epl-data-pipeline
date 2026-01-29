@@ -1,0 +1,26 @@
+paths:
+  raw_dir: "./data/kmong_project/raw"
+  processed_dir: "./data/kmong_project/processed_v6"
+  master_parquet: "./data/kmong_project/processed_v6/master_data_v6.parquet"
+  report_dir: "./data/kmong_project/output/reports_v6"
+  metadata_json: "./data/kmong_project/processed_v6/analytical_metadata.json"
+
+security:
+  pii_columns:
+    - "차대번호"
+    - "주소"
+    - "소유자명"
+    - "사용본거지주소명"
+    - "번호판"
+    - "전화번호"
+
+analysis:
+  top_brands_count: 10
+  segment_quantiles: [0.33, 0.66]
+  outlier_method: "iqr"
+  outlier_threshold: 1.5
+  skewness_threshold: 0.75
+  ml_ready_columns:
+    - "기준금액"
+    - "취득금액"
+    - "배기량"

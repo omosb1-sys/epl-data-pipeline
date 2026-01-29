@@ -2,3 +2,7 @@
 {"timestamp": "2026-01-16 18:35:57", "data": {"home": "본머스", "away": "브라이튼", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
 {"timestamp": "2026-01-16 18:36:37", "data": {"home": "토트넘 홋스퍼", "away": "풀럼", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
 {"timestamp": "2026-01-16 18:41:13", "data": {"home": "맨체스터 유나이티드", "away": "뉴캐슬 유나이티드", "predicted_prob": 17.400342932689817, "model_ensemble": {"torch": 8.57331724546384e-06, "rf": 0.29}}}
+{"timestamp": "2026-01-20T13:34:59.554149", "data": {"home": "노팅엄 포레스트", "away": "뉴캐슬 유나이티드", "predicted_prob": 32.72, "model_ensemble": {"torch": 32.0, "rf": 33.8}, "vars": {"injured": 2, "rest": 5}}}
+{"timestamp": "2026-01-20T13:35:25.164274", "data": {"home": "노팅엄 포레스트", "away": "뉴캐슬 유나이티드", "predicted_prob": 32.72, "model_ensemble": {"torch": 32.0, "rf": 33.8}, "vars": {"injured": 2, "rest": 5}}}
+{"timestamp": "2026-01-20T21:48:53.385857", "data": {"home": "맨체스터 유나이티드", "away": "아스날", "predicted_prob": 42.38, "model_ensemble": {"torch": 42.5, "rf": 42.2}, "vars": {"injured": 2, "rest": 5}}}
+{"timestamp": "2026-01-20T21:50:23.298707", "data": {"home": "맨체스터 유나이티드", "away": "노팅엄 포레스트", "predicted_prob": 75.5, "model_ensemble": {"torch": 78.5, "rf": 71.0}, "vars": {"injured": 2, "rest": 5}}}

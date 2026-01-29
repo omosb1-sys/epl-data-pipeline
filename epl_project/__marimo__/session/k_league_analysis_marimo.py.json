@@ -1,0 +1,166 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "d6daddb62088b82ad863d643d437c88d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "1e949132d99dc640e22bb19556175d1f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"1\">\ud83d\udcc2 1. \ub370\uc774\ud130 \ub85c\ub4dc</h2>\n<span class=\"paragraph\">K-\ub9ac\uadf8 \uacbd\uae30 \ub370\uc774\ud130\uc640 \uc774\ubca4\ud2b8 \ub370\uc774\ud130\ub97c \ub85c\ub4dc\ud569\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "dd8808bb123073db560d8907d850e915",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "0316f95446f1965f69a7a18d8f931548",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "967a403fb4226135beddf1af32cd7b06",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "7fe28467091ab7a1f19c0757ca765831",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"3-eda\">\ud83d\udcca 3. \ud0d0\uc0c9\uc801 \ub370\uc774\ud130 \ubd84\uc11d (EDA)</h2>\n<span class=\"paragraph\">\uc8fc\uc694 \uc9c0\ud45c\uc758 \ubd84\ud3ec\ub97c \ud655\uc778\ud569\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "dc00b9cb740deca1321f3017f2ec4e1a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "6a5f2b1bd19f90160aaf52a55bf97e62",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "11d73545377f7a086d17706c83c72071",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"4\">\ud83d\udd17 4. \uc0c1\uad00\uad00\uacc4 \ubd84\uc11d</h2>\n<span class=\"paragraph\">\ubcc0\uc218 \uac04\uc758 \uc0c1\uad00\uad00\uacc4\ub97c \ud788\ud2b8\ub9f5\uc73c\ub85c \ud655\uc778\ud569\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "2bd37f74bac2b47424175498a7217a13",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "00fbff7a321e36efb9ea6d4e83a6a478",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"5\">\ud83e\uddea 5. \ud1b5\uacc4 \uac80\uc815</h2>\n<span class=\"paragraph\">\uc2b9/\ubb34/\ud328 \uadf8\ub8f9 \uac04 \uc131\uacf5\ub960 \ucc28\uc774\uac00 \ud1b5\uacc4\uc801\uc73c\ub85c \uc720\uc758\ubbf8\ud55c\uc9c0 \uac80\uc815\ud569\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "4b5b30665a5c35cf42e3ce09eb360211",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "6108da75b12f2c999eba4000e31917c4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"6\">\ud83e\udd16 6. \uba38\uc2e0\ub7ec\ub2dd \uc608\uce21</h2>\n<span class=\"paragraph\">RandomForest \ubaa8\ub378\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc2b9/\ubb34/\ud328\ub97c \uc608\uce21\ud569\ub2c8\ub2e4.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "42f4c45709a429bdc51ef1105deb292f",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "5ac31fa45c66cc13ee48da2fbf27a26d",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "6693df9ca6ebecd138a583f1966fdf0b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><hr />\n<h2 id=\"_1\">\ud83c\udf89 \ubd84\uc11d \uc644\ub8cc!</h2>\n<span class=\"paragraph\"><strong>Antigravity AI Analysis System</strong> | K-League Data Analytics</span></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
