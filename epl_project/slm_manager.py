@@ -24,7 +24,13 @@ class SLMManager:
         self.total_ram_gb = psutil.virtual_memory().total / (1024**3)
         self.arch = subprocess.run(['uname', '-m'], capture_output=True, text=True).stdout.strip()
         self.is_intel = self.arch == 'x86_64'
-        self.cpu_brand = subprocess.run(['sysctl', '-n', 'machdep.cpu.brand_string'], capture_output=True, text=True).stdout.strip()
+        if os.uname().sysname == 'Darwin':
+            try:
+                self.cpu_brand = subprocess.run(['sysctl', '-n', 'machdep.cpu.brand_string'], capture_output=True, text=True).stdout.strip()
+            except FileNotFoundError:
+                self.cpu_brand = "Apple Silicon (Unknown)"
+        else:
+            self.cpu_brand = "Linux Generic Server"
         
     def get_optimal_model(self) -> str:
         """현재 시스템에 가장 적합한 모델명을 반환합니다."""
