@@ -1,0 +1,48 @@
+# pack-refs with: peeled fully-peeled sorted 
+dc3b949c19c7583b8a53fccf8be55144db9eb8af refs/remotes/origin/claude/a1-config-sharing-011CUN5asRHNB4oFYzJjvqGj
+b7d397f44b49e4df4cd460460b5a12c13c0e48c0 refs/remotes/origin/claude/a2-knowledge-sharing-011CUN5dYGh7hu9uc9HkPRJU
+36f4185b8f419ce8d13932502303c5270fdb763a refs/remotes/origin/claude/b2-tasks-011CUN5VMW4dLc8aENSTCJmU
+9796d38b45c68ed65c0f8bdbe75ac86f9f01da56 refs/remotes/origin/claude/c1-github-scraping-011CUN5hZJ4Zaf6gizLaPxMD
+af4e32ddafef890aef2fb1d87ec0c16304b1fc37 refs/remotes/origin/claude/check-project-board-011CUKGVhJU1vf2CJ1hrGQWQ
+b65c634e621d2d26b16437bf0789c471e0a664a2 refs/remotes/origin/claude/task-B1-011CUKGVhJU1vf2CJ1hrGQWQ
+895a35bf21ca6c57b8149a2820ab332cb05ccafa refs/remotes/origin/claude/task-B1.2-011CUKGVhJU1vf2CJ1hrGQWQ
+2c2e18ac1663a5b4b7c14dbd35f8d192aa390b6d refs/remotes/origin/claude/task-B1.3-011CUKGVhJU1vf2CJ1hrGQWQ
+57e30015cee12c4a62d3cb2e826a91878153cd95 refs/remotes/origin/claude/task-B1.4-011CUKGVhJU1vf2CJ1hrGQWQ
+562e25a29ae5d7d7688b9a5cad29ae0db0946a4b refs/remotes/origin/claude/task-B1.5-011CUKGVhJU1vf2CJ1hrGQWQ
+26474c29ebb6e06584aea0267bc5789c82c570fd refs/remotes/origin/development
+f4bc60410274371ad51d0180dcf2aee6c0ae45a1 refs/remotes/origin/feat/add-neovate-code-agent
+b2c8dd09844c7beed4f4169a7185bb8633dadfe1 refs/remotes/origin/feature/a1-config-sharing
+f03f4cf5694f92163ec4e29a8cda6c8eeb060bfe refs/remotes/origin/feature/c1-github-scraping
+0d664785f76ef93ef7abeeed1f93a38b26f6f4cd refs/remotes/origin/feature/c3-codebase-pattern-extraction
+88dce89adf849e160ed30c4f50f0b829628eea4d refs/remotes/origin/feature/modern-python-packaging
+394eab218e6a10d3fcbd30155368a10c06bba8bc refs/remotes/origin/feature/pdf-support-clean
+58286f454a049b2c74e8eb389b6ab1453d00f375 refs/remotes/origin/fix/github-scraper-symlink-readme
+689e4e9ca999d1980bd46a422c53b274cacbb8ce refs/remotes/origin/fix/issue-219-complete-fix
+a9fac19b85618b8b04d366d293b478177f0b2d86 refs/remotes/origin/fix/setup-mcp-paths
+cd28d5dd765cb0603ce0d7928d244cb36bc571f6 refs/remotes/origin/fix/setup-mcp-paths-with-tests
+8bf2b46bfc080276fefcd3a22a3d6bea54174f0c refs/remotes/origin/fix/unified-docs-references
+623d59d4b53fcba33d747e6d0be5169072e00dd2 refs/remotes/origin/main
+a094f61bf3a136c3da0183fcf127279f978e21e0 refs/remotes/origin/swift_support
+807dec3cf60e4e121d52e4907507274d3fce1213 refs/tags/v0.3.0
+^278b591ed71733eab4ef152183e3594730efb8a3
+8286ae89ee54a67c3ca9ff9a85e41940feee76bc refs/tags/v0.4.0
+^bddb57f5efc284a6c443d24845b100c84a5181c6
+0a1c10168edf674928733007e2c5e2080c8c2c56 refs/tags/v1.0.0
+^7aa5f0d3cb8230362f5f5b6ce33a5a881704ebb0
+0c5515129b1a5e1dae19fb0e621a2e2676417ec7 refs/tags/v1.1.0
+4c25f72e76dd2e66b2c4fa53b659f753a6852428 refs/tags/v1.2.0
+^394eab218e6a10d3fcbd30155368a10c06bba8bc
+66b7f9c4f67091d03a222289a96b9da548694c4e refs/tags/v1.3.0
+27407a59b947feb8a4088a965f3d6d93290fa0d1 refs/tags/v2.0.0
+bf9a9dcc277996140c6ddf12024a247428d65f49 refs/tags/v2.1.0
+^99752c2fa1dcbc736881c0ec55c153288907a297
+162e027e6a81feaef623c2e76c6170840dc3dd37 refs/tags/v2.1.1
+^a4e5025dd1cf6fa303860b164e401382ef019b40
+e38bfeeaf673e965671f5d87727aabcb5447e8d8 refs/tags/v2.2.0
+^bf7e7def12f4c55f57a721119ddc03565a210f7a
+61e013950a4ec7aff802d78d7add76c4dd9fd05e refs/tags/v2.4.0
+^476813cb9abde670e1b09a92a47fb212793ac51f
+d03e1b3e1f636b5644d5aa28a4ce4ff8ae3b385c refs/tags/v2.5.0
+^3fc1897340e1c855086ec1c74b93ccf0eb4908c0
+2905a8773e7861a7e315e5a9391f9ffc37711c30 refs/tags/v2.5.1
+^3b3af046a8173a78c4f0642936a42be596632c70

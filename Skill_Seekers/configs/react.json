@@ -1,0 +1,23 @@
+{
+    "name": "react",
+    "description": "React - The library for web and native user interfaces",
+    "base_url": "https://react.dev",
+    "selectors": {
+        "main_content": "article",
+        "title": "h1",
+        "code_blocks": "pre code"
+    },
+    "url_patterns": {
+        "include": [
+            "/learn",
+            "/reference"
+        ],
+        "exclude": [
+            "/blog",
+            "/community",
+            "/warnings"
+        ]
+    },
+    "max_pages": 50,
+    "rate_limit": 0.5
+}

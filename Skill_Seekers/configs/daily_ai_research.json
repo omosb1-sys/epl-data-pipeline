@@ -1,0 +1,62 @@
+{
+  "name": "daily_ai_research",
+  "description": "Daily automated AI research and skill enhancement from world-class sources",
+  "merge_mode": "rule-based",
+  "sources": [
+    {
+      "type": "documentation",
+      "name": "PapersWithCode",
+      "base_url": "https://paperswithcode.com/latest",
+      "description": "SOTA AI papers with code implementations",
+      "selectors": {
+        "main_content": ".infinite-container",
+        "title": "h1"
+      },
+      "max_pages": 5
+    },
+    {
+      "type": "documentation",
+      "name": "HuggingFacePapers",
+      "base_url": "https://huggingface.co/papers",
+      "description": "Daily curated top AI papers from HF",
+      "selectors": {
+        "main_content": "main",
+        "title": "h1"
+      },
+      "max_pages": 5
+    },
+    {
+      "type": "documentation",
+      "name": "Geeknews",
+      "base_url": "https://news.ycombinator.com/",
+      "description": "Geeknews (HN Style) - Engineering Trends",
+      "selectors": {
+        "main_content": "#hnmain",
+        "title": ".titleline"
+      },
+      "max_pages": 5
+    },
+    {
+      "type": "documentation",
+      "name": "PyTorch_KR",
+      "base_url": "https://discuss.pytorch.kr/latest",
+      "description": "PyTorch Korea User Group Latest News",
+      "selectors": {
+        "main_content": "#main-outlet",
+        "title": ".title"
+      },
+      "max_pages": 5
+    },
+    {
+      "type": "documentation",
+      "name": "AITimes",
+      "base_url": "http://www.aitimes.com/news/articleList.html?view_type=sm",
+      "description": "AI Times - Korean AI Industry News",
+      "selectors": {
+        "main_content": "section.user-content",
+        "title": ".titles"
+      },
+      "max_pages": 5
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "scikit-learn",
+    "description": "Scikit-learn machine learning library for Python.",
+    "base_url": "https://scikit-learn.org/stable/",
+    "start_urls": [
+        "https://scikit-learn.org/stable/user_guide.html",
+        "https://scikit-learn.org/stable/modules/classes.html"
+    ],
+    "selectors": {
+        "main_content": "div.section, article",
+        "title": "h1",
+        "code_blocks": "div.highlight pre"
+    },
+    "url_patterns": {
+        "include": [
+            "/modules/",
+            "/tutorial/"
+        ],
+        "exclude": [
+            "/auto_examples/",
+            "/about/"
+        ]
+    },
+    "max_pages": 300,
+    "rate_limit": 0.5
+}

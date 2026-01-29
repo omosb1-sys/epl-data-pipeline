@@ -1,0 +1,26 @@
+{
+    "name": "scipy",
+    "description": "SciPy library for scientific computing and technical computing.",
+    "base_url": "https://docs.scipy.org/doc/scipy/",
+    "start_urls": [
+        "https://docs.scipy.org/doc/scipy/tutorial/index.html",
+        "https://docs.scipy.org/doc/scipy/reference/index.html"
+    ],
+    "selectors": {
+        "main_content": "article, div.body",
+        "title": "h1",
+        "code_blocks": "pre"
+    },
+    "url_patterns": {
+        "include": [
+            "/tutorial/",
+            "/reference/"
+        ],
+        "exclude": [
+            "/release/",
+            "/dev/"
+        ]
+    },
+    "max_pages": 200,
+    "rate_limit": 0.5
+}

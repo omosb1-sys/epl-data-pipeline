@@ -1,0 +1,23 @@
+{
+    "name": "duckdb",
+    "description": "DuckDB - Fast In-Process Analytical Database",
+    "base_url": "https://duckdb.org/docs",
+    "selectors": {
+        "main_content": "article",
+        "title": "h1",
+        "code_blocks": "pre code"
+    },
+    "url_patterns": {
+        "include": [
+            "/sql",
+            "/guides",
+            "/api"
+        ],
+        "exclude": [
+            "/archive",
+            "/internals"
+        ]
+    },
+    "max_pages": 50,
+    "rate_limit": 0.5
+}

@@ -1,0 +1,26 @@
+{
+    "name": "seaborn",
+    "description": "Seaborn statistical data visualization library based on matplotlib.",
+    "base_url": "https://seaborn.pydata.org/",
+    "start_urls": [
+        "https://seaborn.pydata.org/tutorial.html",
+        "https://seaborn.pydata.org/api.html"
+    ],
+    "selectors": {
+        "main_content": "div.section, article",
+        "title": "h1",
+        "code_blocks": "pre"
+    },
+    "url_patterns": {
+        "include": [
+            "/tutorial/",
+            "/generated/"
+        ],
+        "exclude": [
+            "/examples/",
+            "/whatsnew/"
+        ]
+    },
+    "max_pages": 150,
+    "rate_limit": 0.5
+}

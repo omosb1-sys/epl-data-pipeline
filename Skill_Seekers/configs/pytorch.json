@@ -1,0 +1,22 @@
+{
+    "name": "pytorch",
+    "description": "PyTorch Tutorials & Documentation",
+    "base_url": "https://pytorch.org/tutorials",
+    "selectors": {
+        "main_content": ".main-content",
+        "title": "h1",
+        "code_blocks": "pre.codeClass"
+    },
+    "url_patterns": {
+        "include": [
+            "/beginner",
+            "/intermediate",
+            "/advanced"
+        ],
+        "exclude": [
+            "/recipes"
+        ]
+    },
+    "max_pages": 50,
+    "rate_limit": 0.5
+}

@@ -1,0 +1,21 @@
+{
+    "name": "huggingface",
+    "description": "Hugging Face Transformers Documentation",
+    "base_url": "https://huggingface.co/docs/transformers",
+    "selectors": {
+        "main_content": "main",
+        "title": "h1",
+        "code_blocks": "pre code"
+    },
+    "url_patterns": {
+        "include": [
+            "/en/"
+        ],
+        "exclude": [
+            "/v4.",
+            "/master"
+        ]
+    },
+    "max_pages": 50,
+    "rate_limit": 0.5
+}

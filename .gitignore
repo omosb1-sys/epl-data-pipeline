@@ -1,27 +1,32 @@
-# Python
+# Python & Environments
 __pycache__/
 *.py[cod]
 *$py.class
 .venv/
-env/
+.venv*/
 venv/
+env/
 .env
+node_modules/
 
-# Data & Heavy Folders (K-League)
+# OS
+.DS_Store
+
+# Data & Heavy Folders
 data/
-Skill_Seekers/
 cache/
 logs/
 exports/
 reports/
 
-# [IMPORTANT] Allow EPL Project Data for Automation
+# Tools & Local Models
+epl_project/tools/
+epl_project/models/.venv/
+*.gguf
+
+# [IMPORTANT] Include folders requested by USER
+!Skill_Seekers/
+!.agent/
+
+# Allow EPL Project Data for Automation
 !epl_project/data/
-
-# OS
-.DS_Store
-
-# EPL Project Data (Keep the folder, but maybe ignore large backups if any)
-# epl_project/data/*.json (We usually want to keep these for the pipeline)
-epl_project/tools/grafana-12.3.1/bin/grafana
-epl_project/tools/grafana-12.3.1/

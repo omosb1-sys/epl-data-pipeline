@@ -1,0 +1,21 @@
+{
+  "name": "pandas",
+  "description": "Pandas data analysis and manipulation library. Use for DataFrames, Series, cleaning, and transformation.",
+  "base_url": "https://pandas.pydata.org/docs/",
+  "start_urls": [
+    "https://pandas.pydata.org/docs/user_guide/10min.html",
+    "https://pandas.pydata.org/docs/user_guide/index.html",
+    "https://pandas.pydata.org/docs/reference/index.html"
+  ],
+  "selectors": {
+    "main_content": "article",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/user_guide/", "/reference/api/"],
+    "exclude": ["/whatsnew/", "/development/"]
+  },
+  "max_pages": 300,
+  "rate_limit": 0.5
+}
