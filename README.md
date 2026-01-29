@@ -1,71 +1,48 @@
-# ⚽ EPL-X: AI Football Manager (2025-26)
+# 🛍️ Naver Shopping Data Analysis Project: Pricing Strategy Optimization
+> **Project Goal:** 네이버 쇼핑 '텀블러' 카테고리 데이터 분석을 통한 매출 및 가치 최적화 전략 도출
 
-![EPL-X Logo](https://img.shields.io/badge/EPL_X-AI_Analytics-blue?style=for-the-badge&logo=premier-league)
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![Sklearn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
-> **"축구는 데이터다."**
-> 빅데이터와 딥러닝(Deep Learning)을 결합하여 프리미어리그(EPL) 경기 결과, 이적 시장, 팀 전력을 정밀 분석하는 AI 대시보드입니다.
+## 📊 Project Overview
+이 프로젝트는 단순한 시장 조사를 넘어, **머신러닝(Machine Learning)** 기술을 활용하여 상품명(Text)과 이미지(Image)가 제품의 가격(Price) 결정에 미치는 숨겨진 패턴을 찾아냈습니다. 이를 통해 **"어떤 단어를 써야 더 비싸게 팔리는가?"**에 대한 데이터 기반의 해답을 제시합니다.
 
----
+## 🧪 Hypotheses & Verifications (가설과 검증)
+이 프로젝트는 다음 3가지 가설을 데이터로 입증하는 과정이었습니다.
 
-## 🚀 주요 기능 (Key Features)
+1.  **Text Hypothesis**: "기능성 단어(스텐, 진공)는 저렴해 보이고, 추상적 단어(에디션, 정품)는 비싸 보인다?" -> **✅ 검증 완료 (True)**
+2.  **Structure Hypothesis**: "중요한 단어(브랜드)를 앞에 쓸수록 비싸게 팔린다?" -> **✅ 검증 완료 (True, Avg Lift +4.3%)**
+3.  **Visual Hypothesis**: "파스텔톤(Low Saturation) 이미지가 원색보다 더 고급스러워 보인다?" -> **✅ 검증 완료 (True, Negative Correlation)**
 
-### 1. 📊 실시간 대시보드
-- 구단별 **AI 전력 지수(Power Index)** 산출
-- 감독, 구단 가치, 최근 경기력 등 핵심 KPI 시각화
-- 2025-26 시즌 최신 스쿼드 및 전술 데이터 반영
+## 🛠️ Tech Stack & Methodology
+*   **Data Collection:** 네이버 쇼핑 크롤링 데이터 (2,110건)
+*   **Text Mining:** TF-IDF Vectorization, N-gram Analysis (Keyword Extraction)
+*   **Machine Learning:** Ridge Regression (Price Prediction Model, R2 Score 0.53)
+*   **Image Analysis:** PIL & KMeans Clustering (RGB/HSV Texture Analysis)
+*   **Simulation:** A/B Test Logic (Predictive Valuation)
 
-### 2. 🧠 AI 승부 예측 시뮬레이터
-- **Deep Learning (PyTorch)** + **RandomForest** 앙상블 모델 탑재
-- 홈/원정 어드밴티지, 부상자 현황, 팀 분위기(Mood) 변수 조작 가능
-- **SHAP 분석** 기반의 "왜 이 팀이 이길까?" 인과관계 리포트 제공
+## 💡 Key Solution (Triple-Core Strategy)
+분석 결과를 바탕으로 즉시 적용 가능한 3단계 최적화 전략을 도출했습니다.
 
-### 3. 🔁 이적 시장 통합 센터
-- **Google News & BBC** 실시간 크롤링을 통한 이적 루머 감지
-- '파브리지오 로마노(Romano)' 등 공신력 높은 소스 필터링
-- AI가 분석한 선수 영입/방출 확률(%) 시각화
+### 1. Title Optimization (상품명 최적화)
+*   **Action:** 기능성 스펙은 뒤로 빼고, 감성/브랜드 키워드를 앞으로 전진 배치.
 
-### 4. 📰 뉴스 & 인사이트
-- 전 구단 관련 최신 뉴스 자동 수집 및 요약
-- 긍정/부정(Sentiment) 분석을 통한 구단 분위기 진단
+### 2. A/B Model Simulation
+*   **Result:** 특정 사례(마리슈타이거)의 경우 상품명 변경만으로 **+86%**의 가치 재평가 달성.
 
----
+### 3. Visual Pricing (이미지 전략)
+*   **Action:** 썸네일 채도(Saturation)를 낮춰 'Modern/Premium' 포지셔닝 구축.
 
-## 💾 설치 및 실행 (Installation)
+## 📈 Visualizations
+| High-Value Keywords | Price Simulation (Lift) | Image Saturation |
+| :---: | :---: | :---: |
+| ![Keywords](./insights_premium_keywords.png) | ![Lift](./ab_test_lift.png) | ![Saturation](./image_saturation_price.png) |
 
-이 프로젝트는 **Serverless** 환경에서도 동작하도록 설계되었습니다.
-
-### 로컬 실행 (Mac/Windows)
-```bash
-# 1. 저장소 복제
-git clone https://github.com/your-id/epl-x-manager.git
-cd epl-x-manager
-
-# 2. 의존성 설치
-pip install -r requirements.txt
-
-# 3. 앱 실행
-streamlit run epl_project/app.py
-```
-
-### ☁️ 클라우드 배포 (Streamlit Cloud)
-이 리포지토리를 [Streamlit Cloud](https://streamlit.io/cloud)에 연결하기만 하면 즉시 웹 앱으로 배포됩니다.
-- **Entry point**: `epl_project/app.py`
-- **Python version**: 3.9 or 3.10
+## 📂 Deliverables
+*   [📄 분석 결과 보고서 (Report)](./Naver_Shopping_Optimization_Report_v2.md)
+*   [📝 상품명 변경 가이드라인 (Guideline)](./NAMING_GUIDELINE.md)
+*   [💻 분석 코드 (Python Scripts)](./price_predictor.py)
 
 ---
-
-## 🛠 기술 스택 (Tech Stack)
-- **Frontend**: Streamlit
-- **Backend/AI**: PyTorch, Scikit-learn, XGBoost
-- **Data Collection**: BeautifulSoup4, Requests (Google News, BBC)
-- **Deployment**: Docker Support (Optional)
-
----
-
-## 📝 License
-This project is for educational and analytical purposes. Data provided by API-Football and various open sources.
-
----
-*Created by Senior Analyst Antigravity*
+*Created by Data Analyst Sebokoh*

@@ -24,3 +24,4 @@ reports/
 # EPL Project Data (Keep the folder, but maybe ignore large backups if any)
 # epl_project/data/*.json (We usually want to keep these for the pipeline)
 epl_project/tools/grafana-12.3.1/bin/grafana
+epl_project/tools/grafana-12.3.1/

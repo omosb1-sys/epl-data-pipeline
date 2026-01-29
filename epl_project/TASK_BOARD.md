@@ -7,7 +7,8 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 🔴 High | **Constitutional Evolution** | `DONE` | `main` | 100% |
 | 🔴 High | **Skills & MCP Refactoring** | `DONE` | `main` | 100% |
-| 🔴 High | **Kmong Pipeline Update** | `DONE` | `main` | 100% |
+| 🔴 High | **Kmong Pipeline Update (V5)** | `DONE` | `main` | 100% |
+| 🔴 High | **Advanced ML Optimization (V6)** | `DONE` | `main` | 100% |
 | 🟢 Low | **EPL RLM Integration** | `DONE` | `main` | 100% |
 
 ## 🛠️ System Health (SRE 연계)

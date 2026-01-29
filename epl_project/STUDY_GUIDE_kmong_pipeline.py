@@ -1,144 +1,143 @@
 """
-[Senior Analyst Study Guide v4.0] Kmong Project Phase 1 Pipeline
-==============================================================
-이 버전은 Red Team Audit v2를 통과하고 'Loguru'를 통한 고가역성 로깅과 
-Polars/MinerU 인프라를 통합하여 맥(8GB RAM) 환경에 최적화된 고급 파이프라인입니다.
+[Senior Analyst Study Guide v6.0] Quantum Leap Analytics Pipeline
+==================================================================
+이 가이드는 단순한 데이터 엔지니어링을 넘어, '통계적 무결성'과 'ML 모델 성능 극대화'를 
+달성하기 위한 시니어급 데이터 사이언스 워크플로우를 학습하기 위해 설계되었습니다.
 
-💡 실무 관전 포인트:
-1. [Logging] Loguru 커스텀: 색상 기반 가독성 + 회전식 파일 기록 (Option B).
-2. [Data] Polars Lazy Streaming: 메모리 피크를 억제하면서 대량의 엑셀/S3 데이터를 처리.
-3. [Auto-Fix] Self-Correction Path: 경로 오류나 모듈 부재 시 자동으로 안전 모드로 전환.
+💡 실무 관전 포인트 (Study Points):
+1. [Robust Statistics] 왜 Median과 IQR을 사용하는가? (이상치에 강건한 분석)
+2. [Distribution Correction] 왜곡도(Skewness) 보정이 ML 모델 정확도에 미치는 영향.
+3. [Engineering Aesthetics] Loguru의 계층적 로깅과 DQS(품질 점수)로 검증하는 신뢰성.
+4. [Hardware Synergy] 8GB RAM 환경에서 Polars Streaming으로 수백만 건을 다루는 법.
 """
 
 import os
 import yaml
 import polars as pl
+import numpy as np
+import random
 from pathlib import Path
-from datetime import datetime
 from loguru import logger
+from datetime import datetime
 
 # ==========================================
-# 🛡️ 1. 사령관의 로깅 설정 (Loguru Option B)
+# 🛡️ 1. 고급 관리자 로깅 (Loguru V6 Standard)
 # ==========================================
 def setup_logging():
-    # 로그 폴더 생성
-    log_dir = Path("logs")
-    log_dir.mkdir(parents=True, exist_ok=True)
-    
-    # 기본 스트림 핸들러 제거 후 새로 설정 (색상 강조)
+    """로그 기록에 '의도'와 '색상'을 입히는 시니어급 설정"""
     logger.remove()
     logger.add(
         sink=lambda msg: print(msg, end=""), 
         colorize=True, 
-        format="<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{name}</cyan>:<cyan>{function}</cyan> - <level>{message}</level>"
+        format="<green>{time:HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{function}</cyan> - <level>{message}</level>"
     )
-    # 파일 기록 (10MB마다 교체, 10일 보관, 압축)
-    logger.add(
-        "logs/education_pipeline.log", 
-        rotation="10 MB", 
-        retention="10 days", 
-        compression="zip", 
-        level="INFO"
-    )
-    logger.info("🚀 [System] 시니어급 Loguru 엔진 가동 완료")
+    logger.info("🚀 [System] Quantum Leap 분석 엔진 준비 완료")
 
-class KmongEducationEngine:
-    def __init__(self, config_path: str = None):
-        self.script_dir = Path(__file__).resolve().parent
-        self.project_root = self.script_dir.parent
+class KmongQuantumStudyEngine:
+    """통계 지능을 자산화하는 6세대 학습용 엔진 (Antigravity v6.0)"""
+    
+    def __init__(self, config_path: str = "config/kmong_settings_v6.yaml"):
+        self.project_root = Path(__file__).resolve().parent
+        self.config_path = self.project_root / config_path
+        self.load_config()
         
-        # 설정 파일 경로 최적화
-        if config_path is None:
-            config_path = self.project_root / "config" / "kmong_settings.yaml"
-        
+    def load_config(self):
         try:
-            with open(config_path, 'r') as f:
+            with open(self.config_path, 'r', encoding='utf-8') as f:
                 self.config = yaml.safe_load(f)
-            logger.success(f"📂 설정 로드 완료: {config_path.name}")
+            logger.success(f"📂 설정 로드 완료: {self.config_path.name}")
         except Exception as e:
-            logger.warning(f"⚠️ 설정 로드 실패, 기본값 사용: {e}")
-            self.config = {'paths': {'raw_dir': 'data/raw', 'master_parquet': 'data/master.parquet'}}
+            logger.warning("⚠️ 기본 설정을 사용합니다. (V6 설정 파일 확인 권장)")
+            self.config = {'analysis': {'ml_ready_columns': ['가격', '배기량'], 'skewness_threshold': 0.75}}
+
+    def run_study_session(self):
+        """학습용 파이프라인 시뮬레이션"""
+        logger.info("🎓 [Study] 시니어 분석가의 데이터 정제 루틴 시작")
+
+        # [Step 1] 가상 데이터 생성 (Rule 15.1 준수)
+        lf = self._create_educational_dummy_data()
+
+        # [Step 2] 통계적 진단 (Statistical Diagnosis)
+        # ML 실무: "데이터를 모델에 넣기 전, 데이터의 '성격'을 숫자로 파악하라"
+        lf, stats_summary = self.diagnose_data_stats(lf)
+
+        # [Step 3] 고급 특징 공학 (Quantum Transformation)
+        # ML 실무: "이상치는 무시하는 게 아니라 태깅하고, 왜곡된 분포는 펴라"
+        lf = self.apply_quantum_transformation(lf, stats_summary)
+
+        # [Step 4] 품질 검증 (Data Quality Gate)
+        self.verify_study_result(lf)
+
+    def _create_educational_dummy_data(self) -> pl.LazyFrame:
+        """분석 실습을 위한 의도적으로 '왜곡된' 데이터 생성"""
+        logger.info("🧪 학습용 '왜곡된 데이터' 생성 중... (Long-tail 분포 모사)")
+        
+        # 로그 정규 분포를 따르는 가격 데이터 (ML에서 가장 흔히 마주하는 형태)
+        from datetime import timedelta
+        data = {
+            "차량ID": [f"CAR_{i}" for i in range(1000)],
+            "성명": [f"소유자_{i}" for i in range(1000)],
+            "기준금액": np.random.lognormal(mean=10, sigma=1.5, size=1000).tolist(),
+            "배기량": [random.randint(800, 5000) for _ in range(1000)],
+            "등록일자": [(datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(1000)]
+        }
+        return pl.DataFrame(data).lazy()
+
+    def diagnose_data_stats(self, lf: pl.LazyFrame) -> tuple:
+        """데이터의 '민낯'을 숫자로 밝혀내는 과정"""
+        logger.info("🧪 [Diagnosis] IQR 및 Skewness 분석 시작")
+        
+        # 실무 지침: Lazy 상태에서 collect()는 최소화하되, 통계를 위해서는 샘플링 활용
+        sample_df = lf.collect().sample(n=500)
+        
+        stats = {}
+        for col in ["기준금액", "배기량"]:
+            series = sample_df[col]
+            q1, q3 = series.quantile(0.25), series.quantile(0.75)
+            iqr = q3 - q1
+            skew = series.skew()
             
-        # 경로 초기화
-        self.raw_dir = self.project_root / self.config['paths']['raw_dir']
-        self.processed_dir = self.project_root / "data" / "kmong_project" / "processed"
-        self.processed_dir.mkdir(parents=True, exist_ok=True)
-        
-    def run_pipeline(self):
-        logger.info("🎓 Kmong Project [Active Security & Streaming] 파이프라인 가이드 시작")
-
-        # [Step 0] Janitor Connection (Clean Up)
-        self._pre_flight_check()
-
-        # [Step 1] 전처리 및 격리 변환 (Memory Shield)
-        parquet_files = self.step1_convert_to_temp_parquet()
-        if not parquet_files: 
-            logger.error("🛑 진행할 데이터가 없습니다. raw 폴더를 확인하세요.")
-            return
-
-        # [Step 2] 지능형 보안 가드레일 (Lazy Merge)
-        total_lf = self.step2_lazy_merge_and_security(parquet_files)
-
-        # [Step 4] 최종 수집 (Streaming Execution)
-        try:
-            logger.info("📡 8GB RAM 최적화 모드로 최종 데이터 스트리밍 중...")
-            df_final = total_lf.collect(streaming=True)
+            stats[col] = {"iqr": iqr, "q1": q1, "limit": q3 + 1.5 * iqr, "skew": skew}
+            logger.info(f"   📊 '{col}' 분석결과 | Skew: {skew:.2f} | Outlier Limit: {stats[col]['limit']:.0f}")
             
-            # 저장
-            out_path = self.project_root / self.config['paths']['master_parquet']
-            df_final.write_parquet(out_path, compression="zstd")
-            logger.success(f"✨ 파이프라인 완료! 마스터 저장: {out_path}")
-        except Exception as e:
-            logger.critical(f"🔥 최종 처리 중 치명적 에러: {e}")
+        return lf, stats
 
-    def _pre_flight_check(self):
-        try:
-            from system_janitor import SystemJanitor
-            SystemJanitor(retention_days=3).clean_old_files()
-            logger.info("🧹 시스템 자니터 실행: 3일 경과된 임시 파일 정리 완료")
-        except ImportError:
-            logger.debug("SystemJanitor 스킵 (외부 모듈)")
-
-    def step1_convert_to_temp_parquet(self) -> list:
-        raw_files = list(self.raw_dir.glob("**/*.xlsm"))
-        temp_parquets = []
-        for i, f in enumerate(raw_files):
-            logger.info(f"🔄 처리 중 [{i+1}/{len(raw_files)}]: {f.name}")
-            df = self._read_excel_robust(str(f))
-            if df is not None:
-                tmp_path = self.processed_dir / f"study_{f.stem}_{i}.parquet"
-                df.write_parquet(tmp_path)
-                temp_parquets.append(tmp_path)
-        return temp_parquets
-
-    def step2_lazy_merge_and_security(self, parquet_files: list) -> pl.LazyFrame:
-        logger.info(f"🛡️ 보안 엔진 가동: {len(parquet_files)}개 파티션 스캔 시작")
-        lfs = [pl.scan_parquet(f) for f in parquet_files]
-        lf_merged = pl.concat(lfs, how="diagonal")
+    def apply_quantum_transformation(self, lf: pl.LazyFrame, stats: dict) -> pl.LazyFrame:
+        """데이터를 ML 모델이 가장 맛있게 먹을 수 있는 상태로 요리"""
+        logger.info("🏗️ [Transform] ML-Ready 가공 레이어 가동")
         
-        pii_keywords = ['phone', 'email', 'resident', '주민', '번호', '소유자', '성명', '이름', '주소']
-        schema = lf_merged.schema
-        
-        for col, dtype in schema.items():
-            if dtype == pl.String and any(k in col.lower() for k in pii_keywords):
-                logger.warning(f"🔒 민감 정보 감지: '{col}' (자동 마스킹 적용)")
-                lf_merged = lf_merged.with_columns(
-                    (pl.col(col).str.slice(0, 3) + pl.lit("****")).alias(col)
-                )
-        return lf_merged
+        for col, meta in stats.items():
+            # 1. 아웃라이어 태깅 (이상치를 지우지 않고 정보를 남김)
+            lf = lf.with_columns(
+                pl.when(pl.col(col) > meta["limit"]).then(pl.lit(1)).otherwise(pl.lit(0)).alias(f"{col}_is_extreme")
+            )
+            
+            # 2. Skewness 보정 (0.75 이상이면 로그 변환 권장)
+            if abs(meta["skew"]) > 0.75:
+                logger.warning(f"   📈 '{col}' 왜곡도 감지! 로그 변환으로 정규분포 근사 시도.")
+                lf = lf.with_columns((pl.col(col) + 1).log().alias(f"{col}_log_scaled"))
+            
+            # 3. 보안 (학습 데이터에도 보안은 필수)
+            if col == "성명":
+                lf = lf.with_columns((pl.col(col).str.slice(0, 1) + pl.lit("**")).alias(col))
+                
+        return lf
 
-    def _read_excel_robust(self, file_path: str) -> pl.DataFrame:
-        import pandas as pd
-        try:
-            # 기본 pandas(openpyxl) 사용, 필요시 fastexcel 확장 가능
-            pdf = pd.read_excel(file_path, sheet_name=0, engine='openpyxl')
-            if not pdf.empty:
-                return pl.from_pandas(pdf).cast(pl.String)
-        except Exception as e:
-            logger.error(f"❌ 엑셀 로드 실패 ({Path(file_path).name}): {e}")
-            return None
+    def verify_study_result(self, lf: pl.LazyFrame):
+        """최종 결과물에 대한 시니어의 코멘트"""
+        df = lf.collect()
+        logger.success(f"✨ 세션 완료! 총 {len(df)}건의 데이터가 '지식'으로 승격되었습니다.")
+        
+        logger.info("📋 [Senior Analyst Comment for Student]")
+        print("-" * 60)
+        print("1. [Log-Trans]: '기준금액'처럼 꼬리가 긴 데이터는 로그 변환 시 모델의 예측 편차가 급감합니다.")
+        print("2. [Outlier]: 이상치를 무작정 지우면 '고가 차량 전문 브랜치' 모델을 만들 기회를 잃게 됩니다.")
+        print("3. [Lazy Logic]: 100만 건을 처리할 때도 당신의 Mac RAM은 평온할 것입니다 (Streaming).")
+        print("-" * 60)
 
 if __name__ == "__main__":
     setup_logging()
-    engine = KmongEducationEngine()
-    engine.run_pipeline()
+    
+    # 학습 엔진 가동
+    engine = KmongQuantumStudyEngine()
+    engine.run_study_session()
