@@ -490,6 +490,10 @@ with st.sidebar:
     menu_options = ["📊 실시간 대시보드", "🚀 HPC Dash (WebGPU)"] + pm.get_plugin_names() + ["🔁 이적 시장 통합 센터", "📰 EPL 최신 뉴스"]
     
     # [Fix] 단일 소스 원칙: key="menu_selector_radio"가 세션 상태를 직접 관리함
+    # [Fix] 안전한 메뉴 상태 관리 (Invalid Index 방지)
+    if st.session_state.get("menu_selector_radio") not in menu_options:
+        st.session_state.menu_selector_radio = menu_options[0]
+
     menu = st.radio(
         "🎯 메뉴 이동", 
         menu_options, 
