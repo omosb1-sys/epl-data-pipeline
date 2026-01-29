@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-01-29 02:01:50",
+    "timestamp": "2026-01-29 03:58:49",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Champions League - why are Premier League sides dominating? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1lHbjNsSHRmM0dxN0hFekVCYi1vb2trdUo5d0xVUDdhdDNwTXlWWlhqclZ6QTZ0ckhjRWJ3OE9wWGx1RFhScjhNUXVyUGMzZmxwd2pWTWZmWThaUlUyLWJVc0ZadHZpSWc?oc=5"
+        },
         {
             "source": "Daily Mail",
             "title": "FIVE Premier League clubs learn potential Champions League last-16 opponents after finishing in top eight as Newcastle are forced into play-offs with Real Madrid and PSG on dramatic final day - Daily Mail",
@@ -14,11 +19,6 @@
             "source": "BBC",
             "title": "Champions League: Is the Premier League on course for a fifth place in next year's competition? - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcGFMQ1d4dHpRQ0xoZmxOS1lkTFRReDdvZ3ItTFQtYWFkWVdfVFE2Ylc0aG9TWU1Yei1NNTdMVUIwQTdKV05UemJ3UU0tNFNrbkYteGRWRFpOb2dUcWEwd2EtSUZnTDA?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Which Premier League clubs have reached Champions League knockout stages? - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdS1NaVpkTFFmWlE5VTFTQm1jZWFTbG8xclFKZVMtamY4QlhGSVZwSlpnVmJLQ3JUcFFoX0d0bDdwcXJUQzZ0R0tWZ1ZNSTBGazZ5ZFFqNmVJNXFKLTA5OFBVdkNQOS04eFVyYmxCWEFoNG9jUU0zbmxBRU9OaGl3TWtRQnM3T0lnNmRGdDlsS1RtbmpMel8wREZqSTc3SHBLR2lJVkVlUndYOHhCRTR4QVI4ekhYMDk3THc?oc=5"
         },
         {
             "source": "Yahoo Sports",
@@ -37,18 +37,18 @@
         },
         {
             "source": "The New York Times",
+            "title": "Aston Villa complete Douglas Luiz loan signing with option to buy - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWJES2k5U1AzVlNVLVkwRGtrUjJhYTFyNXhmVW5nX2FZVm0tOFR3NjVGbXlzX2d2S3ctUDZ2OVlyQUdrMUZTaGw1bVBZcFhGb2ZIYlNDTV8yRTJsSGRDMzBvelEydnd3V1JFNDFEREZkLVhlZ25jR0ZlSkNGR0ZoTFNGRUtuQ3hacXdqeFd4UmRta0hicnc?oc=5"
+        },
+        {
+            "source": "The New York Times",
             "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2JqalFYTE9CV1BDWDl4YkFYTGdFOXg2Z2lyR2RFZEo5b0VHR1p1bk8tWVNzaGlWMnpGbE40bGtOSzZjQ2dmbmtVZlpDemNZSTI3Q3MzeFhBdGdhWVFjMUVPbDFMOVNBa1ZuNHFYM2M3YzREWWg5ZURiWjhoRG1fVFJfb0Fsb24tSXdESnItX1poNmZteWVOODJ3Qi1BMWJrUi1oUy1sQnVJRUtmbzVKTVd4MHJ0cG1FVkl5UlE1UVdaQ2xTOUtuZjhrT0NRSTg?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Nottingham Forest in £35m offer for Crystal Palace striker Jean-Philippe Mateta - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3ZBNlRXZi0zV0ZSVmxiNk1EOHJSdVRONGtFUXptLVRFTHlqOFoxang4THdCSlVkRnVoSEk2RWQ0MHpkaFdiMlVFay1UU1llYWR0MFVQMGlmMkthM2ROWDVSbTdFTGxpRHZTeVZLQ1dfVGhDdzBhUzJ3RmhoUHB4LXBzaFQ2eEpHbU5nVFJvd3JyRWQyREFnUTdsVjI?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Manchester City close to finalising £20m Marc Guehi deal - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZThkd2lDZTQzWjJlcElmRFpZMklKd2pwSWdLN1NVSmtzcWtlQmFSczBreXZXbEFMc1VJSkZTYWM5eXlQSHV3eXBQMjBwTFctQVJBUzh3cnZtMDk3LUxZOThLTXZzRTZxeDFmU2lSSXZ4X1FjbGN0TDBSdG4xRmJNOVV2azFmTlNpVkZmU1V0Wm1rWWY3RWplMUsyNA?oc=5"
+            "source": "OneFootball",
+            "title": "David Ornstein: Tottenham Hotspur ‘working on deal’ to sign Premier League legend - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVm1PeGRoMFE1bHhaMUFya1FMZEwwdFVpYlhXMWtfVTJuak4tMjFJZWhoVWtzaG1TNXNNQ3R5bVJxMVNkZ3NVOThkbThZeUw2VjktUzVQcVFCWTVkOU40YnFYMWs1ampCNkdpNG1vT0FodFJpc2hZZEMzeUJwbjNuZktaa0hZcGZ5NlZvanZTczg5SlppLTBScjdHX3I3QTV5YS1SNU8yb1FWUF92a2VBUngwRnZTREtPZ0Zj?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,44 +61,44 @@
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "완전히 달라진 맨유... EPL 선두 아스널에 3대2 역전승 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHZYY3NvNm1PcVFXaTVZQ1dDWGpTeVlnUk14Qy02b3M2cHBXWkRBMFdTR2U0VDRrb2FZUFczVEVmTEJMaVRHY2ljdFV1Q3JBTHQzYVptdjI4dTNpMXNtVnlVVWwzNklicEZ1NUwzN0RSZVBBNFNZQldHbmJsZGhYazN6b9IBlwFBVV95cUxOM255bGVFNXlVX25mWTFtUmN3RG4zYVp6VUh4SlZUWkJlaXF3VlFpanBNdXkySnpRRU12TmgzeTF4VGM0endla0xFRGg3aHVvZElJYlJUelRKM1FqdTdoS2NISGRsTjhXZFdUVGxBVkNjVmNyWEtpTDg4Yk5JLTJ6X1hDUHBMNmo2TlhKakdvOHI1Zk1xX3Z3?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "[UCL REVIEW] 프랭크 또 생명 연장…두 얼굴의 토트넘, 리그서 최악→프랑크푸르트 2-0 격파하고 16강 직행 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Gc0Q0aHRuY21DaEhDRFlqR3h3OFR6ZUlwckY5a2tuLTRseHhKaF85WHVGQUpkTHhVV0VGc1NXblBBOGVFRnl4SFFyOGNtTG5rQUh3QWpKRVpBdFN2?oc=5"
-        },
-        {
             "source": "뉴스1",
             "title": "EPL 강세 속 보되/글림트·카라바흐 돌풍…UCL 리그 페이즈 종료 - 뉴스1",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MERhWmN5MkFNME13Y0hMMGNOUHZraEk0eXprS2ZzTjZmRE5lUTBtQ3IwRnpLd1o3ck5fdFY1b296RUxQeEVLS1FnYjlGUG40aXFQT1Z2TEZORGx2azZaRA?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "오현규, 프리미어리그가 주목하는 이유…‘현실성·결정력·타이밍’이 맞아떨어졌다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96ZDF5QWZSX1dhYWRrSWh4U3ZmLWN0NEF5XzJ0RmxLM1pXWDdGZS10eXM5SXZKbzhpT2h1bHR4Nk9meVk5Qy1VQlFSak5TMU0?oc=5"
+            "title": "\"챔피언스리그에선 다른 팀이 된다\"…'EPL 14위-감독 경질설' 토트넘, UCL 페이즈 4위로 16강 토너먼트 직행 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YdUVMV0ZVNXNJMHl2UjBPUG0yd18wUEZWZmtuU1BBSngxcGp3YUtDMlVPa3NlaUdUMWNvRlYybFZiU2MyYmM4dDl5QllSWjA?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "오현규 프리미어리그행 가능한가? 풀럼이 노리는 이유 [트랜스퍼.1st] - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Zmc3TjlwZHdEOHZraV9KYkJwdTI3RnZaeWR3NC1ZWXBwOUdyMldvZl8yT1RmenZuYWFBZTdJdU1tUGFZcWhfa2lTaS13eGs?oc=5"
         },
         {
             "source": "네이트 스포츠",
-            "title": "\"클린스만이 극찬했어\" 韓축구 풍악 울린다! 오현규, 프리미어리그 정말 입성하나 \"팰리스 주전 ST, 대체 가능\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41UW5UeUJQaDI0T1dRNVY1X1NNOVlYb3R5OXdzVjJlQzR3eHI3V1RrZjJ2b25IZ0RzWlFSc0JVMUJrQXdvdkdXRHJqWkVlWlI4ZTJZcEZqd0xCYmRl?oc=5"
+            "title": "오현규, EPL행 좌절되나…풀럼은 맨시티 공격수 영입 임박 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Fb3I5OVc5YjZFNnZIXzI0Wi0wT2J6Y3dIN0JyMzNuSXQyWnFvdXdPTnh4Uk1WcjNHbVdMa0FhWHEzMFREdWx1OHFxekFncmt2WmlDdlR6Vm9manFJ?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "韓 축구 또 뒤집혔다! 오현규 프리미어리거 임박설 ‘급제동’…풀럼 페피 551억 폭풍 베팅→오현규는 플랜B 전락 \"베식타스행 급부상\" - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03VllwYXVhYnhnd1h4ZGJxczdWcEROUG05VHk3RzltdHZXVWFEVjNUVjJhdWF2RWJWbC0wcFgtWllGbWFEMUZvRU9aR2FtMVFNX19zYVg4WUtfejNWcExGVWY4R2hMd1plX3RVbVZjSQ?oc=5"
+            "source": "sportschosun.com",
+            "title": "[속보] '최악이다' 韓 축구 좌절, 차세대 스트라이커 오현규 프리미어리그 이적 불발 유력...풀럼 '554억' 1순위 타깃 막바지 협상 돌입 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vSTVmSXlnak9pM1dtemVjVVRtVmNjQkRwVk9uSEd0dEVxZnN0LVJGR2phaHJKLTVQaERCcjlqbjlycjFTQVBQcDFlM1RMT2RpZzROc2tTQlZLS3RCczhlSTNFRGtaSlkzeFh4cDN4dE15TWFENS1VUlV6a0h0QQ?oc=5"
         },
         {
-            "source": "OSEN",
-            "title": "\"굿바이 서울!\"→\"헬로 세리에 A!\".. 린가드, 프리미어리그 복귀 대신 이탈리아행 급물살.. '데드풀' 렉섬도 거절? - OSEN",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwaWIyVFJ6WHNGUEY4eGlPTU9vUXNkX1d3ZkVDaDh0RVlQS1o3OUlWanpmTzZuOWFsc1ItN2ZxRjBWT0kxR2Noa0dZTXU0MmVKb3Q4?oc=5"
+            "source": "sportalkorea.com",
+            "title": "\"韓 평생 못 잊어\"...K리그 떠난 린가드, '초대형 희소식!'→유럽 복귀 보인다, 세리에 A 구단 이적 추진 \"협상 상당 진전 상태\" - sportalkorea.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZWwyVTB5UDV3Z0FON1lSOHVlN1hwZmo3UDVLR1dBeVpUeHI2UmtsM2JjSnlPRjVrbFN3NmNOS215WFctTGNjRXBPdElQdHZzVURnbjg5M1FqYjRKS2twOFNCQXpTeXJsS0ttOVk4b1l1SDJkT210eFpQejhNZjNWb2lR?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "[스포츠경향·스포츠토토 공동기획] 프리미어리그 빅6, 우승을 향한 안간힘 버티기 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTHAwWlY1ZU9nQ1c4dTBNdk5IOHJyb0lHYS1HS0ZuV2VpMG9pMS01Q191UHg2MkdUN2haRVZqaVN3dkw4cWJZaXduaXJpbWZPYm94bTJFdzc5NVBlUmfSAWNBVV95cUxOYnhiUkJhT1h6ZW9ZQzUzR2dDTmVManN0WW9HNGZWTTR3OHBjcHBIQVlTczhjX2RhVzBaaWNvVF9ELXUzZU5RNnR5bG0xa2hkaFJobTdJUW9XM205ZWhDUDEwNXM?oc=5"
+            "source": "네이트 스포츠",
+            "title": "FC서울 떠난 린가드, EPL 대신 이탈리아 간다?…\"세리에A 구단과 밀도 있는 협상 중\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QbktHMUFxQ0w3cFljQTB2YzRXTWY3aW5mZzRvNnlfQTRyNVgyVVVVVlJYeGJCUWpSYzlQU1lyRUpCMFpiUF9jT2dWVk4ya3RqYVN5aTZPMFVJQmVk?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'서울 떠난' 린가드, 잉글랜드 복귀 대신 '이탈리아 무대 도전' 가닥 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qWXhGalVkOEhMTmtiNjFiMEk1aUp1cVVqaHRSVWVyd3Y4dVVSS1B0VmNWYUpkYXdGNUtqQ1pZRk9UcHhQYlBBcVUtbkFzUU0?oc=5"
         }
     ],
     "transfers": [
