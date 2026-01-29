@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29 08:25:49",
+    "timestamp": "2026-01-29 09:31:23",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,13 +7,13 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Champions League: Is the Premier League on course for a fifth place in next year's competition? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcGFMQ1d4dHpRQ0xoZmxOS1lkTFRReDdvZ3ItTFQtYWFkWVdfVFE2Ylc0aG9TWU1Yei1NNTdMVUIwQTdKV05UemJ3UU0tNFNrbkYteGRWRFpOb2dUcWEwd2EtSUZnTDA?oc=5"
+            "title": "Champions League - why are Premier League sides dominating? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1lHbjNsSHRmM0dxN0hFekVCYi1vb2trdUo5d0xVUDdhdDNwTXlWWlhqclZ6QTZ0ckhjRWJ3OE9wWGx1RFhScjhNUXVyUGMzZmxwd2pWTWZmWThaUlUyLWJVc0ZadHZpSWc?oc=5"
         },
         {
-            "source": "The Telegraph",
-            "title": "Premier League domination of Europe is embarrassing for Uefa - The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlRvTVhiX2x4bTlVY2Z1S3dNQWdmMlloX0xUMWt6ME9yenY3VmxWZjJvRHlHLXRZU1FEbXBWRWtyWGdmQkplNUwyYkV2eGk0VmlWTWpvTUZNbGlLeEl6M2tqaTBuczZ6LVE5MjhLeU5zdHI3WkRGWHhOMVBRYWdOclNVazlJY2FXcS1pWFdhcUxaWEs5LVFqMVpwdEdMcmpRRG4telBvTUpnQQ?oc=5"
+            "source": "BBC",
+            "title": "Champions League: Is the Premier League on course for a fifth place in next year's competition? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcGFMQ1d4dHpRQ0xoZmxOS1lkTFRReDdvZ3ItTFQtYWFkWVdfVFE2Ylc0aG9TWU1Yei1NNTdMVUIwQTdKV05UemJ3UU0tNFNrbkYteGRWRFpOb2dUcWEwd2EtSUZnTDA?oc=5"
         },
         {
             "source": "The Guardian",
@@ -71,9 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSWFGRXZmd21mbFl1QURGaXFTbXQtMlY0eUhJeUo3ZUZLa1N2RnAzZXltdDBKYTZFcmlKNGxLbnhsNFgwWGdXZTI5Y1IydGtmMjVuYVVsblJUaWRf?oc=5"
         },
         {
+            "source": "매일경제",
+            "title": "‘16강 직행만 5팀’ EPL의 독주시대…‘별들의 전쟁’ 챔피언스리그, 리그 페이즈 종료 - 매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1feXZ3YkR6b0tkYVZCOTlXcjZIY1o1a0IxY3hlMWZsRjNPdklnTFd4VnZLRG41eklYTERYR1B0emUyU1c4dE5tanNpTVJqLWY2OE5N?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
-            "title": "[오피셜] '손흥민 라이벌' 충격 몰락…'주급 6억' EPL 스타 처참한 운명, 첼시와 '계약 해지'→사실상 방출 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yaUtYN1plaFYydFRmTGU3LTJVZ3FQZGNJdC1wLXljUV9RaWJrcmZWclVVcnRQVW1mQmZuNWlQYzZRYlZkZmVqVEN3NDlGRzl5OU1yNlJoRGRKSEIx?oc=5"
+            "title": "韓 프리미어리거 탄생하나? 오현규, 크리스탈 팰리스+리즈 유나이티드 이적설…\"잉글랜드 축구에 적응할 수 있어\" 긍정 평가까지! - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbU0tYW95ZVBTcEpzOVQtTG9YNkVlSktuSk1vNzkwbEdYb2tNc3pJeC1pVU5FX01NbENTQ0RYVXRwdTdNOUJJT0NFUzhvYWdmcjZSbjZiWFB3VUcx?oc=5"
         },
         {
             "source": "xportsnews.com",
@@ -84,11 +89,6 @@
             "source": "v.daum.net",
             "title": "오현규, 프리미어리그가 주목하는 이유…‘현실성·결정력·타이밍’이 맞아떨어졌다 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96ZDF5QWZSX1dhYWRrSWh4U3ZmLWN0NEF5XzJ0RmxLM1pXWDdGZS10eXM5SXZKbzhpT2h1bHR4Nk9meVk5Qy1VQlFSak5TMU0?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "[속보] '최악이다' 韓 축구 좌절, 차세대 스트라이커 오현규 프리미어리그 이적 불발 유력...풀럼 '554억' 1순위 타깃 막바지 협상 돌입 - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vSTVmSXlnak9pM1dtemVjVVRtVmNjQkRwVk9uSEd0dEVxZnN0LVJGR2phaHJKLTVQaERCcjlqbjlycjFTQVBQcDFlM1RMT2RpZzROc2tTQlZLS3RCczhlSTNFRGtaSlkzeFh4cDN4dE15TWFENS1VUlV6a0h0QQ?oc=5"
         },
         {
             "source": "OSEN",
@@ -103,9 +103,9 @@
     ],
     "transfers": [
         {
-            "player": "Antoine Semenyo",
-            "date": "2026-01-29",
-            "type": "Official Permanent",
+            "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
+            "date": "2025-01-14",
+            "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
         }
