@@ -5,3 +5,4 @@ lxml>=4.9.0
 streamlit>=1.30.0
 plotly>=5.18.0
 psutil
+duckdb>=0.9.0
