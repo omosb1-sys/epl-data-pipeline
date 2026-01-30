@@ -10,8 +10,8 @@ from datetime import datetime
 import json
 
 
-class EPLAppEnhancer:
-    """EPL 앱 UX 개선 및 공유 기능 제공"""
+class ModernUIEnhancer:
+    """EPL 앱 UX 개선 및 공유 기능 제공 (Modern SOTA UI)"""
     
     @staticmethod
     def add_loading_spinner(message: str = "데이터 로딩 중..."):
@@ -257,6 +257,41 @@ class EPLAppEnhancer:
             }
         </style>
         """, unsafe_allow_html=True)
+
+    def render_performance_matrix(self, clubs_data: list):
+        """구단 전력 분석 매트릭스 시각화 (Power Index vs Rank)"""
+        import pandas as pd
+        import plotly.express as px
+
+        df = pd.DataFrame(clubs_data)
+        
+        # [Design] Premium Scatter Chart
+        fig = px.scatter(
+            df, 
+            x="power_index", 
+            y="current_rank",
+            text="team_name",
+            size="power_index",
+            color="power_index",
+            color_continuous_scale="Viridis",
+            labels={
+                "power_index": "AI 전력 지수",
+                "current_rank": "리그 순위",
+                "team_name": "구단명"
+            },
+            title="EPL 구단 효율성 매트릭스 (Efficiency Matrix)"
+        )
+        
+        fig.update_traces(textposition='top center', marker=dict(line=dict(width=1, color='white')))
+        fig.update_layout(
+            plot_bgcolor='rgba(0,0,0,0)',
+            paper_bgcolor='rgba(0,0,0,0)',
+            font_color="white",
+            yaxis=dict(autorange="reversed") # 순위는 낮을수록 위로
+        )
+        
+        st.plotly_chart(fig, use_container_width=True)
+        st.caption("※ **분석 가이드**: 우측 상단일수록 전력 대비 성적이 좋은 '고효율' 팀입니다.")
     
     @staticmethod
     def generate_seo_meta(title: str, description: str, image_url: str = None):

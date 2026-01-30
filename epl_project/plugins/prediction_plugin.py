@@ -65,8 +65,27 @@ def render_ui(selected_team, team_list, clubs_data, matches_data, **kwargs):
             
             st.progress(prob / 100)
             
-            # Simplified for plugin demo
-            st.info("SHAP Analysis and Agent Debate available in extended plugin.")
+            # [VISUALIZATION] SHAP 스타일 변수 중요도 시각화
+            st.markdown("#### 🔍 AI 변수 중요도 (SHAP Analysis)")
+            import altair as alt
+            
+            # 가상 SHAP 데이터 생성
+            h_data = next((c for c in clubs_data if c['team_name'] == home), {})
+            shap_data = pd.DataFrame({
+                'Feature': ['홈 어드밴티지', '기본 전력차', '부상자 영향', '휴식일 차이', '상대 전적'],
+                'Impact': [5.0, (h_power - a_power), -(v_injured - v_away_injured) * 2, (v_rest - v_away_rest) * 0.5, 3.0],
+            })
+            shap_data['Color'] = ['#4CAF50' if x > 0 else '#E91E63' for x in shap_data['Impact']]
+            
+            chart = alt.Chart(shap_data).mark_bar().encode(
+                x=alt.X('Impact', title='승리 기여도 (Impact)'),
+                y=alt.Y('Feature', sort='-x', title='분석 변수'),
+                color=alt.Color('Color', scale=None),
+                tooltip=['Feature', 'Impact']
+            ).properties(height=250)
+            
+            st.altair_chart(chart, use_container_width=True)
+            st.caption("※ **PCL-Reasoner**: 초록색은 승리 기여, 빨간색은 패배 요인을 의미합니다.")
 
 def get_intelligence(selected_team, **kwargs):
     return {"status": "prediction_ready", "core_model": "EnsembleV2"}

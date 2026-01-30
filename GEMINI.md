@@ -1,6 +1,5 @@
-# GEMINI.md - K-League Data Analyst Protocol
-
-이 파일은 Antigravity(제미나이3)와 사용자가 K-리그 데이터를 분석할 때 따르는 **절대적인 행동 강령(Protocol)**입니다.
+GEMINI.md 
+이 파일은 Antigravity(제미나이3)가 따르는 **절대적인 행동 강령(Protocol)**입니다.
 AI 모델은 모든 코딩 및 분석 작업 전에 이 파일을 참조하여 일관된 품질을 유지해야 합니다.
 
 ## 1. 🎯 Core Philosophy (핵심 철학)
@@ -181,6 +180,18 @@ AI 모델은 모든 코딩 및 분석 작업 전에 이 파일을 참조하여 �
 ### 8.20 Engram-based Conditional Memory (Hashing & Gating)
 *   **Compute-Memory Separation**: 반복적인 지식 연산을 줄이기 위해, 자주 참조하는 정보를 **'Engram 블록'** 형태의 해시 테이블로 오프로딩(Offloading)한다.
 *   **Zero-Compute Retrieval**: 핵심 팩트(Fact)는 전체 모델이 연산하지 않고, **'N-gram Hashing & Gating'** 메커니즘을 통해 8GB RAM에서 즉시 '조회(Lookup)'함으로써 추론 병목을 제거하고 환각(Hallucination)을 원천 차단한다. (Ref: DeepSeek/Yaongi-style Engram Implementation)
+
+### 8.21 Amazon-Inspired Insight Agents Architecture (Enterprise Precision)
+**Amazon Research의 'Insight Agents' 사상을 계승하여, 고정밀 기업 데이터 분석을 위한 계층적 하이브리드 아키텍처를 적용한다.**
+
+*   **8.21.1 Hybrid Manager-Worker Routing (Efficiency & Speed)**:
+    - **Lightweight Gatekeeper**: 모든 요청은 LLM에 직접 전달되기 전, 초경량 모델(Autoencoder/BERT-style)을 통한 **Out-of-Domain (OOD) 감지**와 **라우팅(Routing)** 단계를 거친다.
+    - **Latency First**: 루틴한 필터링과 분류 작업에 LLM 대신 특화된 SLM(Small Language Model)을 배치하여, 초기 응답 속도를 0.5초 이내로 단축하고 불필요한 고성능 자원 낭비를 차단한다.
+*   **8.21.2 API-Driven Structured Grounding (Reliability)**:
+    - **Text-to-API over Text-to-SQL**: 모호하고 Hallucination 위험이 큰 raw SQL 생성 대신, 검증된 **내부 Data API**를 조합(Composing)하는 전략을 우선한다.
+    - **Strategic Planning Module**: 복잡한 사용자 쿼리를 API 호출이 가능한 자잘한 실행 단계(Granular Steps)로 분해하고, 각 단계를 사전에 정의된 데이터 모델과 매핑하여 결과의 신뢰도를 확보한다.
+*   **8.21.3 Dynamic Domain Context Injection**:
+    - **Just-in-Time Grounding**: 인사이트 생성 시 범용 지식에 의존하지 않고, 해당 도메인의 비즈니스 규칙, 시장 트렌드, 전문 용어 사전을 **실시간으로 주입(Injection)**하여 분석의 전문성을 극대화한다.
 
 ### 8.7 Efficiency: TOON-style Data Exchange
 *   **Token-Oriented Object Notation**: 대량의 정형 데이터(뉴스 리스트, 통계 등) 전송 시 JSON 대신 TOON 형식을 지향하여 토큰 소모를 30% 이상 절감한다.

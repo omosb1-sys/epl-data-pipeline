@@ -441,7 +441,7 @@ with st.sidebar:
             st.metric("✨ 수집된 고품질 데이터(Gold)", f"{gold_count}건")
             
             # [Unsloth Embedding Insight]
-            optimal_emb = manager.get_optimal_embedding_model()
+            optimal_emb = pm.slm.get_optimal_embedding_model()
             st.caption(f"🧠 **추천 임베딩**: `{optimal_emb}`")
             
             from embedding_trainer import embedding_trainer
@@ -583,6 +583,8 @@ with st.sidebar:
             with open("logs/audit_log.jsonl", "r") as f:
                 logs = [json.loads(line) for line in f]
             if logs:
+                latencies = [log.get('duration', 0) for log in logs if 'duration' in log]
+                avg_latency = sum(latencies) / len(latencies) if latencies else 0
                 st.caption(f"📡 **평균 에이전트 지연**: `{avg_latency:.2f}s` (OpenAI-style Scaling Trace)")
                 st.caption(f"🔥 **워크로드 부하**: {'High' if avg_latency > 5 else 'Normal'}")
 
@@ -763,8 +765,7 @@ def render_dashboard(selected_team, clubs_data, matches_data):
     # [Extra Intelligence]
     st.divider()
     st.subheader("🕸️ 구단 성적 매트릭스 (Efficiency Matrix)")
-    safe_ui = get_safe_upgrade_ui()
-    safe_ui.render_performance_matrix(clubs_data)
+    upgrade_ui.render_performance_matrix(clubs_data)
     
     # 경기 일정
     st.divider()

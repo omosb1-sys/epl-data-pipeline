@@ -148,15 +148,19 @@ class PluginManager:
         else:
             st.info("📎 **데이터 소스**: 비정형 전술 컨텍스트 및 뉴스 검색")
 
-            # [OpenAI Observability] Measure execution cost
+            # [Fix] metadata was not defined. We need to route first or iterate.
+            # Assuming we route the query to get the best plugin for intelligence.
+            best_plugin_display_name = self.semantic_route_request(query)
+            if not best_plugin_display_name:
+                return "No relevant analysis agent found for this query."
+                
             start_time = time.time()
-            intel = self.get_plugin_intelligence(metadata["display_name"], **kwargs)
+            intel = self.get_plugin_intelligence(best_plugin_display_name, **kwargs)
             duration = time.time() - start_time
             
-            audit_logger.log_execution(metadata["display_name"], duration, query)
+            audit_logger.log_execution(best_plugin_display_name, duration, query)
             
-            if "error" not in intel:
-                results[metadata["display_name"]] = intel
+            results = {best_plugin_display_name: intel}
         
         # Synthesis using SLM
         context = json.dumps(results, ensure_ascii=False)
