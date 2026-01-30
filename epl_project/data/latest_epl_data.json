@@ -1,24 +1,19 @@
 {
-    "timestamp": "2026-01-30 19:23:43",
+    "timestamp": "2026-01-30 20:16:52",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3RoNjlKYU5Ta0tGOUJLV2hKNzFwMG5HUUhDQjAyRjlSWE04aGljLUJwTGFMalNsZmZ4YXJJWGlPQWdzUGpQQnNaY0dxdkRwaGpxNE03UWpuV3BDV1BvUGxrSjBCQXN5bWdzOGREQ2pXVjdlVjlJSjVIU0xNRVBFdWU5SGQ5OXJTbEQ5aHpRLXdEYlhrblZQYXB6ZFBLRTFLSUFrQQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "All your FPL stats and Premier League team news in one place - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fckQ0OTZrME0tM19kMF9kaUhsRThha0NvNTZHaFRFYWFtZEt1aFppT0hPVUlCV3ZvbV84MnpZeE1PanI1OGRobDdLekhKZGRoYnFrUEVkaUpsVEk?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "Premier League and transfers LIVE: Grealish out for season? Bobb signs for Fulham - BBC",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fUFBBWEVERFF3QzlmNUtTeGlfelFNMWs3dlZERTg0c25kNWh6enlVeV9yX3VPdmc4TmxkQWgxRHBfNmVkcDFoRWFndExYRWctS0ZSY0lBWG1ZaDdFdW9CN2hsSGhsdWpPTFBPQWlB?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtZjlXS204cndJMmhmcnNkWEZCTmFZSVVISnZ1S1BOS3ExbDJIUjlhX2txMHFPZmluVjBCR3JFWDBUZmdzNFNwRkN3NHBrVjc3dzV3ck5SMzhXTFh5VzllcHFR?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Scout Selection: Best Fantasy team for Gameweek 24 - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclR6bmV4dXNTUmlnWW1ScFo0SXc2QnNBSW5iVURsOExxbkhoS3VXb0NNMzVlclVEYTdGWW83ZEFid3o1TjNNOFQtQXFnRWpGeDFiQkdQSWJodzF0SmRycjcxY3lsbHBwN3JwVmRPZXJDX2JITXFsZDNPZGVtLWQ2bWo2cDZ0YVE0dURULVM4eEd0R19jbXY5UFNtSQ?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -62,8 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Andre Onana transfer news: Man Utd goalkeeper given chance to return to Inter Milan - Paper Talk - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2RwR1ZZMGtScU9JX25LNkZ0M0s0dGRuajlxd0pUSXZGWnpNbTA1b0ppSURDMEFHRXRBaHR4Q09Bdjd3aEFHU1EyTGg3X2dOTDUxSktXWVdoc1VOZUlTUVE3UHpxYmlYWWdjLU14b3RBRUxtdEtpaENSU3RWUU9tSjhjWEpDZHV3c3EyODd0cG5LNHFST00waQ?oc=5"
+            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZnA5bU81andPS1doQzhiZG9DUWZBRXBBS0JkWjhGNFUtdE8zLTdyN0J0TEdjRTl4RzNyVXZzT0NqRGFiU25aVHFXRFlua0hYTmd1c3lkTEQtdGFyU0JXUVhGazJ0cUpFRGVjdW55cWtOaXVYNnQyQk92bkV5YUJITXcyTm4tTEVmaTg5M05wYmVJTnJfZDVlbFBmdUpNZXp3akNUODFjSGlCVUc2UUhBcnVodzdlUHlMUXY3RWQ4Tm9hRWNtY2FuRmxsdjJRZUdpSGtIbTVESG84a0JPMGJkMXlYbm5mbVBzV1h2SFMwa01jN1JKZl9DaUhR?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "'평점 6.18' 충격, 황희찬 프리미어리그 최악의 선수로 선정…\"울버햄튼 전체가 참사, 사실상 강등 확정적\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14eEpIWHFaamlPRjZHTDAyWFM3ekRuOUNRbTRyRHNFLUZrcjkxNXhLQlNta0VQeWZNbVRRT212WXB6a3hZYjJUVFBBNHI0a2xvUmxOOVNZQTNJd2Ew?oc=5"
         },
         {
             "source": "머니투데이",
@@ -72,13 +72,13 @@
         },
         {
             "source": "v.daum.net",
-            "title": "세계 최고 리그는 EPL? 잉글랜드 클럽들, 챔피언스리그 상금 '독식' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NOVNHRUFxU0J1c3FYeE5yRDZ3a0JGLWdRdzdNVGRpMTFaQ3Vtd1M0bFBOQ0RYMWZfZGc3Y2s3UTdUeXgtZkY1dU9STGcxbWc?oc=5"
+            "title": "1순위 멈추자 2순위로 향하나… 오현규, 풀럼행 막판 반전 현실로 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mRkJlMVNneHprZjNnNFdVQXRHZ3BkZ2VjaFpFbURrTzNRZEhfUlF2NFl4WElCZHcyU28tQVM3UXpUMkNXanVrZjhyUmNKSk0?oc=5"
         },
         {
-            "source": "mydaily.co.kr",
-            "title": "UEFA 랭킹 1위의 위엄! EPL 승승장구→5개 팀 챔피언스리그 16강 직행…'우승후보' 레알 마드리드·PSG 'PO 추락' - mydaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaVprUHh2d1h2dkhsMHAxdUFrcHM0bXpLU2dDSFBzeXdBRlpRUzZtSDVoLTZvcDloOXM0Z0M5X2NPeVlRbE8zOTNSX0FobFo3MTBMTzRGOU5EVGlBR2pLWQ?oc=5"
+            "source": "스포츠경향",
+            "title": "[스포츠경향·스포츠토토 공동기획] 프리미어리그 빅6, 우승을 향한 안간힘 버티기 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTHAwWlY1ZU9nQ1c4dTBNdk5IOHJyb0lHYS1HS0ZuV2VpMG9pMS01Q191UHg2MkdUN2haRVZqaVN3dkw4cWJZaXduaXJpbWZPYm94bTJFdzc5NVBlUmfSAWNBVV95cUxOYnhiUkJhT1h6ZW9ZQzUzR2dDTmVManN0WW9HNGZWTTR3OHBjcHBIQVlTczhjX2RhVzBaaWNvVF9ELXUzZU5RNnR5bG0xa2hkaFJobTdJUW9XM205ZWhDUDEwNXM?oc=5"
         },
         {
             "source": "MSN",
@@ -96,14 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmExVzRzRzk1VHhEVzFqUVpZNVVRWl91QURNY0RYMVVTdjVQTjc3V01rVHJnb1piU1dBRmhYUU5hT3BMWlE4NC05OWNvRjNnVGxsN18tTjRBb3d0M0NPdUZua2hfWHU2ZW5QcW9XWHJWczZJTmUzcTE4MFhQSUJET2ZiTlNkMkNvZ3k00gGfAUFVX3lxTE5ObmZ6bjY3X2JTYjdVc2pSaVpnT0Z0VXp2ZnNLTWp2Y19waFJacVJqX0x6MEhMT21KYTRjQklIZW56SXp1NDQwZ2YyM0VfTHAzYlhiSG82aVZfVkFOakJ3UVJSc3Zsd2pqY2lIeDFQYW1hZnhISTFHVTQ0bmN4M2dnR29LUnRkYXhVTU5yRkZSa0pUZzNBWnNNSlRGSG5PQQ?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "'평점 6.18' 충격, 황희찬 프리미어리그 최악의 선수로 선정…\"울버햄튼 전체가 참사, 사실상 강등 확정적\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14eEpIWHFaamlPRjZHTDAyWFM3ekRuOUNRbTRyRHNFLUZrcjkxNXhLQlNta0VQeWZNbVRRT212WXB6a3hZYjJUVFBBNHI0a2xvUmxOOVNZQTNJd2Ew?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "1순위 멈추자 2순위로 향하나… 오현규, 풀럼행 막판 반전 현실로 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mRkJlMVNneHprZjNnNFdVQXRHZ3BkZ2VjaFpFbURrTzNRZEhfUlF2NFl4WElCZHcyU28tQVM3UXpUMkNXanVrZjhyUmNKSk0?oc=5"
+            "source": "xportsnews.com",
+            "title": "오현규, 英 우승팀+명문 구단까지 관심→손흥민 이어 EPL 누빌까…\"리즈·팰리스, OH 영입 기회 얻었다\" - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RUY1MGRpR2cybHFXUmpDRjZqR29LT19nYTZ5dWNqMWlfWkQxM3NXWWRtdTlVQzJVdVhJN01SNHdKRnFTWG1XMWdtU1NLQUZwZFhNaQ?oc=5"
         }
     ],
     "transfers": [
