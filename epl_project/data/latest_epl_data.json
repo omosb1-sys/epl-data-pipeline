@@ -1,34 +1,34 @@
 {
-    "timestamp": "2026-01-30 09:28:06",
+    "timestamp": "2026-01-30 10:22:03",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Transfers LIVE: Premier League manager news conferences as the deadline looms - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zNFVNQ0hxTWZ3NFBKSkxUUER3Z0ZWYmlReXRWWEdBa1FWV25VQ2MzVjBkeFlDTHhOeTVtM0JXUzFpMEs4NjdFQmhIaTZndVdLeDdSVHNWUFF5OHVtS3BQajZfNDY?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League: 10 things to look out for this weekend - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3RoNjlKYU5Ta0tGOUJLV2hKNzFwMG5HUUhDQjAyRjlSWE04aGljLUJwTGFMalNsZmZ4YXJJWGlPQWdzUGpQQnNaY0dxdkRwaGpxNE03UWpuV3BDV1BvUGxrSjBCQXN5bWdzOGREQ2pXVjdlVjlJSjVIU0xNRVBFdWU5SGQ5OXJTbEQ5aHpRLXdEYlhrblZQYXB6ZFBLRTFLSUFrQQ?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Champions League: Is Premier League on course for fifth spot in next year's competition? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcGFMQ1d4dHpRQ0xoZmxOS1lkTFRReDdvZ3ItTFQtYWFkWVdfVFE2Ylc0aG9TWU1Yei1NNTdMVUIwQTdKV05UemJ3UU0tNFNrbkYteGRWRFpOb2dUcWEwd2EtSUZnTDA?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "(2) Transfer news, Champions League and Europa League playoffs draw: football – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeUZzZmVqZ0g3VGhvWW9xOFNCS1QwdmVUV0E0TUFCRnlFX2YyRDU0OWFoRzVoZmRqY0poUklwcmdwbUtvdXBETHlWelRqRFQyWThNTEhURHJ5LWNCSEV2Umo5aEYybEx4U0wyam5zdFJUclI4cjZwVlFIWnpMdWg5WXJ4NnlGTXY4bGp6UDN6YzVKOC1fM2s3SjNJXzk1MV9wQzJXbUZpQUk5SzBfQkI1WU9tcXduOWVfTEpsUmtVWUNucEpvRmFZa2ln?oc=5"
-        },
-        {
-            "source": "Football365",
-            "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak53SmY5RTZaZVQyaDVSQ0R6ZUxJUVpZNGtha0owQW52M1ZFNGVzSzFtNmVUdGpWN0JLMFFYY2xaQURaWU1OLTVoRVh0YVNRcW9Xa0t5RDd2TzdQYjl4S2JsaG1UbUVFaVdFU0VvNEVFM3pqWWdZQ2gzc3ljaHgwa2VOejQxVW9KSVNtUi1fUGJrRFdFejZOOFpZNWF2dk5Fa2ZOOTc5S2dMQTV0VERvUw?oc=5"
+            "source": "Hammers News",
+            "title": "Bad news for Chelsea ahead of West Ham clash after Premier League make official announcement - Hammers News",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOclZyUGFkQTZCSXdWWmNrd1hMWFJ1ck1tanZudEVSRGFxRGE5MkQ1ZGxZbnhqMm5kbktFNGRxa29NTVdWVWJoYk94T1pzdG16SGdQQk1xWjdZZXB0Rjd5TFc5bFdQeGtQNmw0TU1fYThnTU41aEl1SWx2elBDZkduN0lUbXZwcmVzYW95NTNlOXJ4V2RLOXg1ZkF6dDFpcDN5c281TWhwSEFzb0FHelZmVVNVS1ljajVkd3dmelRla28?oc=5"
         },
         {
             "source": "Yahoo Sports",
             "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Yahoo Sports",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN29YSDVVUDN6QXBTR0M3WGo2dzFOS2czdWN4NVpybTl6TmJ2TDVMMG9YZzZ3ZG9vRzNWZ1VrOHVMci1IMlJUeEtQTVFnQl9SaG9XNW9tU1Y1a1FvY0xXUDRVcU1VZ2lSZFVLVjB5Qlo5Q1BEeGpEczBLemFmTGN5czJYc2Z4Qm1RTkJPa1ZLRQ?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak53SmY5RTZaZVQyaDVSQ0R6ZUxJUVpZNGtha0owQW52M1ZFNGVzSzFtNmVUdGpWN0JLMFFYY2xaQURaWU1OLTVoRVh0YVNRcW9Xa0t5RDd2TzdQYjl4S2JsaG1UbUVFaVdFU0VvNEVFM3pqWWdZQ2gzc3ljaHgwa2VOejQxVW9KSVNtUi1fUGJrRFdFejZOOFpZNWF2dk5Fa2ZOOTc5S2dMQTV0VERvUw?oc=5"
         },
         {
             "source": "OneFootball",
@@ -61,6 +61,11 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "알론소 경질 후 벤피카 참사.. '다급한' 레알, '유로파의 왕' AV 감독과 긴급 접촉 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jckM3QUdvTmhUeUFTdVdYLWVjM3FnNmktZlZFRHlNZXhRYlVDY2gxNGlkV0NlSzQtdDU0TklnMkNIQnZjZ1ZxSm1oNnNXV1E?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
             "title": "손흥민이 '차원이 달랐다' 인정한 유일 선수…한때 'EPL 왕' 아자르, 첼시 후배 팔머·이스테방 극찬···\"축구 더 즐겼으면\" - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80Q3BZb3VDcWxKQXpvX3owanBKSWtMVGM5ZmJWaDB5OG02VndZNVp4TExrMVZ3ekNTdjNFLTdCa1RtbGw3d293NlFCbDFiRWxhTUNXby0yS3lPUE81?oc=5"
@@ -77,8 +82,8 @@
         },
         {
             "source": "v.daum.net",
-            "title": "'위대한 명장' 펩 과르디올라, EPL 역사상 최단 기간 '400승' 달성 금자탑 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10d01KUHhHSU50QXRHcFl2cDUyX3RCZ0c2dWo5Ym5kVmNEZ3dVUl9nUUtoYmFHdGhBWk9BYTlHd2twMEVKU21GdjVENG1sRkE?oc=5"
+            "title": "세계 최고 리그는 EPL? 잉글랜드 클럽들, 챔피언스리그 상금 '독식' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NOVNHRUFxU0J1c3FYeE5yRDZ3a0JGLWdRdzdNVGRpMTFaQ3Vtd1M0bFBOQ0RYMWZfZGc3Y2s3UTdUeXgtZkY1dU9STGcxbWc?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -94,11 +99,6 @@
             "source": "네이트 스포츠",
             "title": "FC서울 떠난 린가드, EPL 대신 이탈리아 간다?…\"세리에A 구단과 밀도 있는 협상 중\" - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QbktHMUFxQ0w3cFljQTB2YzRXTWY3aW5mZzRvNnlfQTRyNVgyVVVVVlJYeGJCUWpSYzlQU1lyRUpCMFpiUF9jT2dWVk4ya3RqYVN5aTZPMFVJQmVk?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "'FC서울→세리에A' 이게 되네!…\"린가드 막바지 협상 단계\"→英 BBC '비피셜' 떴다! - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6VlVKRWNCVVpVQ0M3a1RTZWpGbkFRMmNfbU9JVDEwTHBWRDhzT2t4Y3FVdHRTXzhFUS1yeU1TOVlVQ2pkbmVtbEUwRDdES2VTM2MweUxYTVFtX0kt?oc=5"
         }
     ],
     "transfers": [
