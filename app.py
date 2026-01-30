@@ -3,22 +3,39 @@ import streamlit as st
 import os
 import sys
 
-# [GATEWAY] Antigravity Global Entry Point
-# 리포지토리 루트에서 epl_project/app.py를 실행하기 위한 경로 조정 및 래핑
+# [CRITICAL FIX] Antigravity Global Entry Point v2.0
+# Streamlit Cloud 환경에서 서브 폴더(epl_project) 모듈 인식을 위한 경로 강제 주입
 
-# 1. 경로 추가: epl_project 내부 모듈들을 인식할 수 있도록 함
-project_root = os.path.join(os.path.dirname(__file__), "epl_project")
-sys.path.append(project_root)
+# 1. 절대 경로 계산 인터페이스
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.join(current_dir, "epl_project")
 
-# 2. 작업 디렉토리 변경 (Data/Assets 경로 호환성 확보)
-os.chdir(project_root)
+# 2. PYTHONPATH 최상단에 프로젝트 폴더 주입 (모든 import 경로 해결)
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+    sys.path.insert(0, current_dir)
 
-# 3. 실제 서비스 로직 실행
+# 3. 환경 변수 설정 (데이터 로딩용)
+os.environ["PROJECT_ROOT"] = project_root
+
+# 4. 실제 앱 실행 (모듈 임포트 방식)
 try:
-    with open("app.py", "r", encoding="utf-8") as f:
+    # epl_project/app.py 내용을 직접 실행하여 Streamlit context 유지
+    app_path = os.path.join(project_root, "app.py")
+    with open(app_path, "r", encoding="utf-8") as f:
         code = f.read()
+    
+    # app.py 내부에서 'epl_project/' 경로를 사용하는 부분들을 보정하기 위해 코드 실행 전 cwd 변경
+    os.chdir(project_root)
+    
     exec(code, globals())
+    
 except Exception as e:
-    st.error(f"🚀 배포 서버 구동 오류: {e}")
-    st.info("현재 디렉토리: " + os.getcwd())
-    st.write("사용 가능한 파일들:", os.listdir())
+    st.error("🚀 **Antigravity 배포 엔진 치명적 오류**")
+    st.exception(e)
+    st.info(f"검색된 경로: {sys.path[:3]}")
+    if os.path.exists(project_root):
+        st.success("✅ epl_project 폴더 감지됨")
+        st.write("내부 파일:", os.listdir(project_root))
+    else:
+        st.error("❌ epl_project 폴더를 찾을 수 없습니다.")
