@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-01 13:35:51",
+    "timestamp": "2026-02-01 14:16:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "The Guardian",
-            "title": "Nottingham Forest sign Ortega, Premier League and WSL buildup, plus more – matchday live - The Guardian",
+            "title": "Nottingham Forest sign Ortega, Premier League and WSL buildup: matchday live – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLW5SX01FUEV4QzZ4Z092Qkc0c3Badjc1MjY4MWxpaXJNYUpuWnNiRTJWYWFNS0FCOTJJS3NmcDJZWHBod0hBM1pPWmZjUC0xZWZ6ekNuSzlpS2xwS2lCbnFuWEYyMC10N3IyVXM4WEZZTDNiWm45MEswSW1ESmhRTHJoRzBsaDR0OHQ2eEN1Zk5ockhLa2JSd1NjdTdQYnVJMlJwd3dKcERKWnV6bHdiTFh3bFZuc1BfbjhKUC1R?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Liverpool 4-1 Newcastle United: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHBhb0RsamxtV1FJOFNENEJneHFqQkNZZjRWV3g2WkI1dVA3enBhdFJvXzlQTXB6Q2hBUDYtd3pzY3l6MWdueloyNXZnWFExRWg3clR1ckVCX0M0MjlmU2pQandub3JhQnZMaGtEZVFHdXQ0RWVhYlZ2UkFKNERuZXhpeWh3VW52RGtSNVR4RXNyZ2lzUzRyR1htQ0VwMmRuUU1mZQ?oc=5"
+            "source": "BBC",
+            "title": "Aston Villa vs Brentford: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4taHZZb01KbU44My0zeVRJcTY4U2Z2TVplMDVsTjRidDBibTRWd0FkVG1jZHJRYTROaXRBS2h3RHI5YXpLR0JRZzZPTDFTMENKRlNUR0FUZzl4VTR3X1FQZzVn?oc=5"
         },
         {
-            "source": "EPL Index",
-            "title": "Report: Newcastle reject £26m bid from Premier League rival for midfield ace - EPL Index",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnlqaThVM0FIaDRGNU1FWWhBTmFadjFpcEFCMHJENWM2RVRiWGNHTGMyb3JEcjlMVmZYVVlMeWt1NjFtOVAtWWRfekxnbmdzLTlsTUJuYXhtMGF6Qlg1dnBfRVRlYldEOXYtNlM3bS1SdzJhbVU4WWJJMC01OF93VzJTbXdnOER4RFZGbWNpTy1tbXV6NExDMGw4TUxTWkI1emJnd2hFRTJlUVk?oc=5"
+            "source": "BBC",
+            "title": "Premier League: Build-up as Abraham starts on Aston Villa return, Man Utd fans protest - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tZGFBb0ZZNEhzR0wyQ1VQb2N6TE85OEZGeDdNY1RhdWZEd28zVUMtUHUzSnBuX3dtQlFEampDX2wwbjhnelZmUnZuTUtzODJOVmJzbHRnLUhQWldDcFVFTlVDR1A?oc=5"
         },
         {
             "source": "Stretty News",
@@ -42,8 +42,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Crystal Palace make £48m offer for Wolves’ Jorgen Strand Larsen - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2JrX3M4UEFxYW5QVGlUeGNqQTREVFg1UFdvWDVZM0o1cjFqVERXX1RRWFJuVVgxUWwzZjRHX19YakpicWF1dmQxbS1pYXFtUE9tNFhSOG5HVXFiTkhnV0pybWpLak9EbHNDMUpaeXUzT3AyY3ppNWd4LXFxS0RyVGp3TUltTFh5YmlJb3ZZdDNzUmMz?oc=5"
+            "title": "Transfer news live updates: The latest on Jean-Philippe Mateta and Jorgen Strand Larsen ahead of Monday's deadline - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWwwanF2eW5CSkpudG90SFRIdGVhUzlDWTJJSjZhNGgxbmNyZTJ3bkhtZWNyczN5bGlGSmNOckpJTmlTWklEbDN6cGhxWEJfM1BCY3RpRml2SjZvX3N5dlJPVXc1Ny1TT2h1SXBVa1laa2VlQjVBOU9BRTBheHI2YmJhSGFseXl2RDYwMWtEaWZHLUFhMVBKdEFIXzNHNE1YX0EtUA?oc=5"
         },
         {
             "source": "Rousing The Kop",
@@ -81,21 +81,6 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjRnTWtFWmFfVUZaMEdRVUF0alRaZnp1VHVvRXBrYWVMbHZvMjVwTTllbDR4ZTkzRnoxUnpTb3pwd1cxSm03S2FNbjRoZjFweXVLaVRheV9hZzh0TW1QSXl4MTdWNnViWTNpdUNpUHhOa3cxbk1STGN1X2lfN1QwZ1g1dzkzVXVCWFA40gGfAUFVX3lxTE5GWTZmbVJBdkwxdWdPSVFGRjAwME5IdmdmQ1ZjLXgtbGhGQUZxamo3R0VDU0NhZjBYZ3NIbUMtLUY4SEhtQVRMNl91dzkwTndLdThnMTZlSUVHQm9VeEVPczZDaktPb2c4eU52VVM1Rl9TM1k1aXFwMkgtMWxoUDVRSXBfbm9SaGl2RS1yRFB0OF9SbllTQlAtNU9tN2ZtNA?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "韓 '초대형 이적' 오피셜 공식발표 나온다! 리즈 시절 임박했나…오현규, 겨울시장 마감 앞두고 EPL 중하위권 이적 가능성 재부상 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EMm91ZFVCQkVtYjBPdlJVNm9aZ0w0VEdNNHZKWVpIaG1zRzljMDk1WDBXTE5HZFprSGMwSHZRY3V0VkJJaV9Sa2RzVkhScUxMRkN6VUZaaFl5Z3hD?oc=5"
-        },
-        {
-            "source": "스포탈코리아",
-            "title": "'미친 버저비터!' 해외파 드라마틱한 반전 나오나...프리미어리그 구단 리즈 유나이티드, 데드라인 앞두고 오현규 향해 관심 표출 - 스포탈코리아",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUw0aHd3emowenhZQnlLQkRBUlIwcDVYcnVTNWJoVTBBWWRGTzBWWHM4NkZHZjJTOXhZS0NUZ3BMQ2xoMzJGOTlWbF9TVHFNZHI2M0dpSTAzV2NTcmVEUVZCZ1lyZlVEcjNQMkdkWWNpdDZwVURuaEw1V285MlVOTlVR?oc=5"
-        },
-        {
-            "source": "OSEN",
-            "title": "마침내 이적설 종결? 돌고 돌아 EPL 입성 가능성 쑥↑ 오현규, '강등 탈출 시급' 리즈행 급부상... \"구단주가 적극적\" - OSEN",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Sld2S1UzU2ROV3V0ZlUwejl3Z25TSFlxa21BeElyOURuNGRQcHlJUXFFZXE5Zmw0M0xYTUlnS2lBMnpWanR3MDhxUlNuQVNLdnpJ?oc=5"
-        },
-        {
             "source": "v.daum.net",
             "title": "프리미어리그에도 ‘수면제’ 확산…“잠든 게 아니라 의식을 잃은 것” - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ib05pdnZsM2VabjkyYzdpcXNiamFZeDRsNVNNSVcwa2s0WXk5U3NaaThzN0JPdEJtc3d6LVRIU2xta0tVLWUtblRaOTRqcjQ?oc=5"
@@ -104,6 +89,21 @@
             "source": "스포탈코리아",
             "title": "'토트넘, 왜 이러나!' 항명 파동 문제아, SON, 후계자로 낙점...프리미어리그 명문 구단 휩쓴 스털링, '프랭크가 원한다' - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUgwUnJhdUNsU3A4dUNpeFdVWW9CZUwtRktaR1lCT1J4SWE5SHNSb3FENkhtLUJCZHl5NzlEZDNYUi1XMHVlSC1tdDF0SkRFR2tCVHg1TkY3WVllN3BwdDB6azN0UmRsc3F1MVNmdVRkSjJPeVo2RHdIWm5EU2QwV1VR?oc=5"
+        },
+        {
+            "source": "OSEN",
+            "title": "'충격' 선택하는 토트넘, 경질된 '이웃 구단' 전 감독 데려온다?... 사실상 프랭크 키우기 뒷전→전 첼시 감독 눈독 - OSEN",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nRFViMkU4OEt4ZGJZMHFvekEtRUNiaGt4Smp1d1B0X0t3UjllS05CUjI1bVBtZFMyOXBXQ0hJSU90NDNGNVM0NjFUWG9nRFF0VGhv?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "프리미어리그 간판급 공격수 된 ‘맨유 에이스’, 몸값 대상승...팬들은 “최소 1,400억 가치” 평가 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSGhHeUJsMEFQbVlrWVdjY2F4TDNqd0RndERCaVJnZ2F5c2E5bndyLXF2TzhiQzVpdGw2T1NfaTVBcUtWaEtkc2NvM3Z4U3VFZUxkeHJ6OUdZenBweDU3amduc191TFVyWU93cGRWa0hDeUZ4?oc=5"
+        },
+        {
+            "source": "미주중앙일보",
+            "title": "'슈트트 배신에 상처받았던' 오현규, EPL 진출로 보란 듯이 성공하나 \"리즈, 공격 보강 카드로 OH 염두\" - 미주중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBidUh5OTRGeUx6MWJybTJ5R3gwTFNudlVwaEJBN25vUEVlaUFkcjdiUDBieHF4LTgwUVJ2ZENodG1vRXhCRTF2NGo0cTFxREYxVlJjVEdUbDRXOUFYeUNCMmtn?oc=5"
         }
     ],
     "transfers": [
