@@ -1,24 +1,29 @@
 {
-    "timestamp": "2026-02-01 15:13:47",
+    "timestamp": "2026-02-01 16:16:05",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Nottingham Forest sign Ortega, Premier League and WSL buildup: matchday live – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLW5SX01FUEV4QzZ4Z092Qkc0c3Badjc1MjY4MWxpaXJNYUpuWnNiRTJWYWFNS0FCOTJJS3NmcDJZWHBod0hBM1pPWmZjUC0xZWZ6ekNuSzlpS2xwS2lCbnFuWEYyMC10N3IyVXM4WEZZTDNiWm45MEswSW1ESmhRTHJoRzBsaDR0OHQ2eEN1Zk5ockhLa2JSd1NjdTdQYnVJMlJwd3dKcERKWnV6bHdiTFh3bFZuc1BfbjhKUC1R?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "Premier League LIVE: Aston Villa v Brentford, Man Utd v Fulham, & Forest v Palace - score, results & updates - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tZGFBb0ZZNEhzR0wyQ1VQb2N6TE85OEZGeDdNY1RhdWZEd28zVUMtUHUzSnBuX3dtQlFEampDX2wwbjhnelZmUnZuTUtzODJOVmJzbHRnLUhQWldDcFVFTlVDR1A?oc=5"
         },
         {
-            "source": "AVillaFan.com",
-            "title": "Tammy Abraham STARTS: Aston Villa team news for Premier League match against Brentford - AVillaFan.com",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQy1uSmx6NVZHV0g3RE1MV1JlYTM2OHJxQTVJU3Nna2M1ZkxJMzY2UTRrdWhWWHBwRVFESUtqUTdUZ3pjWXBuVzNvM3NweHhmd1puUjFrbHBKTTllZDl0MTJEcGJESlRmV0U5eFpkOUJzNVhuU0NEMTlBblNRSm1DODFha3I4NUw2ZHVMT1YzRHNjeDBNeVhORjZlaGNwYXpfOFVxcGdZS2VtN1JURUN5T0R4TWlTZTEwUGc?oc=5"
+            "source": "Brentford FC",
+            "title": "Aston Villa v Brentford confirmed team news: Andrews makes three changes - Brentford FC",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT01hUHEyaXN1WkQ1QTRDY0UxWHhwMUg2N3JoLVJqTzROa2NWVjd0VVgybDJvTW0xZkFRM1ZENjBkZlgyeUxHNWdBWEdKZmZsamtTNUd1TnpNaWxJcm5WN1JXckNubDRtQ0NLWlVpTW5hNW9iUFdOU0JQQmJXX2s3Nk9hZVJ3YnVLYzlIU0dBaDhEMjdDUGFHdFBPaHZYNk95alM0UmZOazdGRk1IU2pvVHJiYzVwN1RnQjdmS200SUlCZw?oc=5"
+        },
+        {
+            "source": "TNT Sports",
+            "title": "Aston Villa v Brentford LIVE - Premier League latest from Villa Park as Unai Emery's side look to climb to second place - TNT Sports",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlRMRy1LSlhLbXZkOGxyNkdYOVBwZDU2NkFqVHNuNkgtU1lsMENkV01MaVk0MXJDS3FDWGNDQ1hSckplVG9fX3ZVZHpBNUZqV3RqZllQS2Mza3hNQjBrYWZEVTNOVl8tX1Q0dWxTd3VheUhEMjEtUDU0bWI5V3Fqd0FTSFBxaHd4Mkx3MTBtTWxwejdTMkxGVUkzdW1CaHllM3ZfU3BKMnFENGhNXzFpb2VPbWRndXFybU1zcTFR?oc=5"
+        },
+        {
+            "source": "footballtransfers.com",
+            "title": "Chelsea AGREE late winter deal - Fabrizio Romano - footballtransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZFBpYUFNMlV6bDVjczM1SkZHcURhYmVrZ0w4STFod1lpRUZIUk95cF93LUdteGJpSks4Qmw3bDVPVlQyUUc4anJjMnF6RkFZenEyV3BHd284djRNUk92d1BndFNZSlM1V19ONW5JYlNUd0JyQkdRRWFlVEh2bDIyM2RrZWhQMjd1WGo4MF9xd2FTaEdPWmo4TEN5V2tjejU0bTVCbXc1b2xiMUc1M3FMRFVXNHp0Zk5OSVNuQ2dQaDdUamxkWDlFUWZjLU9ZOXd4cjFhV1ZlRkh0WlIwVDI5YWd6TzREajhyUUZYMjdWTGw?oc=5"
         },
         {
             "source": "Stretty News",
@@ -29,11 +34,6 @@
             "source": "Foot Africa",
             "title": "Official: Ademola Lookman secures his new destination! - Foot Africa",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWlwckhVcnZfN0FQbUtKbm5wNVhJSkU3Y1RmM3JPd0VjQWNON245a2F6aUJPbGpndFZEakpMUWtod0JkRHAxSWVUdnlpYTZlUVNMd1BZT2J5ZVZVN25vQmlNTElnQ0dZQjdqZWlQOGlSYU9oQlgwQmNjenhwUDF1V0pNX1NXM2liX2phaFdVcU01VUFaRmVHSQ?oc=5"
-        },
-        {
-            "source": "Anfield Watch",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -77,6 +77,21 @@
         },
         {
             "source": "v.daum.net",
+            "title": "‘리틀 음바페’ 탄생, …본머스에서 꽃피우는 10대 공격수 크루피 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taDNBUDczbzUxUWNWMGJjcVc4MHBxclRrSk5veTRvTVVpdVM5a29KaEVSeUZMZW14ZTlMVGZZVnV1RU9uVzhGcmRyNzRXVTQ?oc=5"
+        },
+        {
+            "source": "스포탈코리아",
+            "title": "'미친 버저비터!' 해외파 드라마틱한 반전 나오나...프리미어리그 구단 리즈 유나이티드, 데드라인 앞두고 오현규 향해 관심 표출 - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUw0aHd3emowenhZQnlLQkRBUlIwcDVYcnVTNWJoVTBBWWRGTzBWWHM4NkZHZjJTOXhZS0NUZ3BMQ2xoMzJGOTlWbF9TVHFNZHI2M0dpSTAzV2NTcmVEUVZCZ1lyZlVEcjNQMkdkWWNpdDZwVURuaEw1V285MlVOTlVR?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "[오피셜] '한국인 16번째 프리미어리그 입성 막는다'…맨시티 공격수, '오현규 영입설' 풀럼 이적 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50bzFfZWJ2N3V2OXo1WTlXMC1QQmFyWUNRZVl1RDlRR1NKeXZSME1odjhhNzQxeUhUeDd3bGFId0Q2TnZxQjdnV3pjd0ROQ1hhRDA4WlVHckVZVVlX?oc=5"
+        },
+        {
+            "source": "v.daum.net",
             "title": "프리미어리그에도 ‘수면제’ 확산…“잠든 게 아니라 의식을 잃은 것” - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ib05pdnZsM2VabjkyYzdpcXNiamFZeDRsNVNNSVcwa2s0WXk5U3NaaThzN0JPdEJtc3d6LVRIU2xta0tVLWUtblRaOTRqcjQ?oc=5"
         },
@@ -89,21 +104,6 @@
             "source": "OSEN",
             "title": "'슈트트 배신에 상처받았던' 오현규, EPL 진출로 보란 듯이 성공하나 \"리즈, 공격 보강 카드로 OH 염두\" - OSEN",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rbTdzS3cwcENzVzFpalAtMmlJa2xCWUtPczc3RUxCbFExazdlajFzd19GN0tJeFFyVWZJdUJudHBIQmhvbklqSHhpbjY3NU4ydFV3?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "프리미어리그 간판급 공격수 된 ‘맨유 에이스’, 몸값 대상승...팬들은 “최소 1,400억 가치” 평가 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WSGhHeUJsMEFQbVlrWVdjY2F4TDNqd0RndERCaVJnZ2F5c2E5bndyLXF2TzhiQzVpdGw2T1NfaTVBcUtWaEtkc2NvM3Z4U3VFZUxkeHJ6OUdZenBweDU3amduc191TFVyWU93cGRWa0hDeUZ4?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "황희찬 침묵한 울버햄튼, 본머스에 0-2 패배…2연패 수렁 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRXhYaERERnM5ekpZcXRhSlF1UGJ2SnliQnNvdWlLdTBHTnVSOEk3bWJsd2pUTTAtbHJjdmJ5bGFxbmRoZWJGLU91SUwzczBnaTF4N1kzZTNGLXRTaXhqUNIBeEFVX3lxTE14Y1lmQmszYldLLXVhVGNuRzJLcVFNV3pmb1NMM0pGY0pTTFM4RjVJOTlGLVpHV2ltU0tjV0J1UnVfMWZzUGNzSXhhR1hhaDhhVnY2eWdlSXNKbWl6bGRCQ191WFVtMU9kTUkwdHY3SFE1empQNTZGXw?oc=5"
-        },
-        {
-            "source": "미주한국일보",
-            "title": "‘주급 6억원인데 8개월째 휴업’ 스털링 - 미주한국일보",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HcTJSQkNHZ3JTN21PUFVCWGh0ZGx6eXoxVmE1VUloaWNYdkJROS00ZkxHcUphcUtuZktpeGV4TWd2Q3NpTU0ySlg1c0x2Q3VkTGE3R0xpaUl4SE1mVTd3?oc=5"
         }
     ],
     "transfers": [
