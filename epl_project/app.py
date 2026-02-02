@@ -767,6 +767,10 @@ def render_dashboard(selected_team, clubs_data, matches_data):
     st.subheader("🕸️ 구단 성적 매트릭스 (Efficiency Matrix)")
     upgrade_ui.render_performance_matrix(clubs_data)
     
+    st.divider()
+    st.subheader("🎯 전술적 유사도 맵 (Tactical Similarity)")
+    upgrade_ui.render_tactical_similarity_map(selected_team)
+    
     # 경기 일정
     st.divider()
     st.subheader("📅 경기 일정 (Fixtures)")

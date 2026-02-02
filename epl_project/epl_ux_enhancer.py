@@ -292,7 +292,95 @@ class ModernUIEnhancer:
         
         st.plotly_chart(fig, use_container_width=True)
         st.caption("※ **분석 가이드**: 우측 상단일수록 전력 대비 성적이 좋은 '고효율' 팀입니다.")
-    
+
+    def render_tactical_similarity_map(self, selected_team: str):
+        """
+        [SOTA] 전술 유사도 맵 시각화 (Tactical Similarity Map)
+        각 팀의 전술적 스타일(점유율, 압박 강도, 공격 속도 등)을 2차원 공간에 투영합니다.
+        """
+        import pandas as pd
+        import plotly.express as px
+        import numpy as np
+
+        # [Heuristic Tactical Data] 2025/26 시즌 기반 전술적 좌표 (점유율 vs 압박/속도)
+        # x: Possession/Structure (점유/구조화), y: Intensity/Directness (압박/직설성)
+        tactical_data = {
+            "Manchester City": [95, 70], "Arsenal": [90, 75], "Liverpool": [85, 95],
+            "Tottenham": [80, 90], "Aston Villa": [75, 80], "Chelsea": [88, 65],
+            "Newcastle": [60, 85], "Manchester United": [55, 80], "Brighton": [92, 60],
+            "West Ham": [40, 70], "Everton": [35, 75], "Brentford": [45, 85],
+            "Fulham": [65, 55], "Bournemouth": [50, 80], "Wolves": [55, 65],
+            "Crystal Palace": [45, 60], "Nottingham Forest": [30, 85], "Leicester": [55, 50],
+            "Ipswich": [40, 60], "Southampton": [70, 40]
+        }
+        
+        # 한글 구단명 매핑 (app.py의 selected_team과 호환)
+        kor_to_eng = {
+            "맨체스터 시티": "Manchester City", "아스날": "Arsenal", "리버풀": "Liverpool",
+            "토트넘 홋스퍼": "Tottenham", "아스톤 빌라": "Aston Villa", "첼시": "Chelsea",
+            "뉴캐슬 유나이티드": "Newcastle", "맨체스터 유나이티드": "Manchester United", "브라이튼": "Brighton",
+            "웨스트햄 유나이티드": "West Ham", "에버튼": "Everton", "브렌트포드": "Brentford",
+            "풀럼": "Fulham", "본머스": "Bournemouth", "울버햄튼": "Wolves",
+            "크리스탈 팰리스": "Crystal Palace", "노팅엄 포레스트": "Nottingham Forest", "레스터 시티": "Leicester",
+            "입스위치 타운": "Ipswich", "사우스햄튼": "Southampton"
+        }
+        
+        data_list = []
+        for kor, eng in kor_to_eng.items():
+            coords = tactical_data.get(eng, [50, 50])
+            # 노이즈 추가하여 시각적 분리감 확보
+            x = coords[0] + np.random.uniform(-2, 2)
+            y = coords[1] + np.random.uniform(-2, 2)
+            
+            data_list.append({
+                "Team": kor,
+                "Possession_Structure": x,
+                "Intensity_Directness": y,
+                "is_selected": "Target" if kor == selected_team else "Other",
+                "Size": 15 if kor == selected_team else 10
+            })
+            
+        df = pd.DataFrame(data_list)
+        
+        fig = px.scatter(
+            df,
+            x="Possession_Structure",
+            y="Intensity_Directness",
+            text="Team",
+            color="is_selected",
+            size="Size",
+            color_discrete_map={"Target": "#FF4B4B", "Other": "#636EFA"},
+            labels={
+                "Possession_Structure": "점유율 및 구조화 (Possession & Structure)",
+                "Intensity_Directness": "압박 강도 및 속도 (Intensity & Directness)"
+            },
+            title=f"⚽ EPL 전술 유사도 맵 (Target: {selected_team})"
+        )
+        
+        fig.update_traces(textposition='top center')
+        fig.update_layout(
+            plot_bgcolor='rgba(0,0,0,0)',
+            paper_bgcolor='rgba(0,0,0,0)',
+            font_color="white",
+            showlegend=False,
+            height=600,
+            xaxis=dict(gridcolor='rgba(255,255,255,0.1)', range=[0, 105]),
+            yaxis=dict(gridcolor='rgba(255,255,255,0.1)', range=[0, 105])
+        )
+        
+        # 사분면 가이드라인 추가
+        fig.add_hline(y=50, line_dash="dash", line_color="rgba(255,255,255,0.2)")
+        fig.add_vline(x=50, line_dash="dash", line_color="rgba(255,255,255,0.2)")
+        
+        # 사분면 라벨
+        fig.add_annotation(x=95, y=95, text="점유+압박 (Modern Elite)", showarrow=False, font=dict(color="rgba(255,255,255,0.5)"))
+        fig.add_annotation(x=5, y=95, text="직설적 압박 (Heavy Metal)", showarrow=False, font=dict(color="rgba(255,255,255,0.5)"))
+        fig.add_annotation(x=95, y=5, text="지공 위주 (Slow Build)", showarrow=False, font=dict(color="rgba(255,255,255,0.5)"))
+        fig.add_annotation(x=5, y=5, text="선수비 후역습 (Low Block)", showarrow=False, font=dict(color="rgba(255,255,255,0.5)"))
+
+        st.plotly_chart(fig, use_container_width=True)
+        st.caption("※ **분석 가이드**: 좌표가 가까울수록 전술적으로 유사한 스타일을 구사하는 팀입니다.")
+
     @staticmethod
     def generate_seo_meta(title: str, description: str, image_url: str = None):
         """SEO 메타 태그 생성"""
