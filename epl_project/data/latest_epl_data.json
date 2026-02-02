@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-02 09:34:47",
+    "timestamp": "2026-02-02 10:33:17",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Premier League: Tottenham draw with Manchester City after dramatic win for Manchester United - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jUnJnZFRzWFlUb09LNDJpdW5DYmlfWHRlV1ZiYTJRMVIybzliUjBqd0lfSGZpRFBOd0o2RFpTMkl0V0VMT3BQR29td1d0aDBET3FxcmcwaU9zbjdObEk2dDBn?oc=5"
-        },
-        {
             "source": "The Guardian",
-            "title": "Manchester United 3-2 Fulham: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2NIeUV1WU5MSDlWalNOeF9jZjVXcllONzUwX0c3RjNabk5QbU9iSXAxUURickZhdUdTZ3RrcEdtNHdjSFdZSmptd2htak9sMUVtVzdnYmc4NExBQXhFLVN1bUJUaENnblYyZk9vRGZ3OElyTTBrTnVwOXhBNUZKV05mNHVxTVFOa1FxVWs3Yl9LVmJIN3hrZ0VoeXhac2lDYlE?oc=5"
+            "title": "Tottenham 2-2 Man City: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY282aDV0TEJobDNrU3VZZlVYVlAxRHMwYzdQRnBhWDFKTDFWd0c3OGE3MnloQXVndGNsX3RqMXhrQ2VsN3JEUzdweDhwUkdqU1JsbU14WXNsa3B4QTVtZFZHcmp6M3VRdnd0MTItdmhmMXhxWXJ4bGNSMFpJdzJUcHBJV1lZTWVKc1pKR3dueGItcDdwa1dpSXZ3?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Manchester United 3-2 Fulham | Premier League highlights - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1lDdXRFdkFXTFFqbTIybWVqOVNCWEZxdWhPTTB1U1lBWU81RUNlTWhUTFRUTVdlVHZLekJsWjQ2bjZ2S2wxVk1Vb1Z5VmxIOVpUUWxBTlN6cWdQMnhLVEUwZ2pLWGs1ay1RZDZYVjl6d2MzcGJhRmF3eTdaVFdPMVR5b1BwUUt1Y1p0dFNFUzhuZjh6ajNzTFd1aVFvZmM4NkJXaDJVc0VCU2pCZW9J?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Manchester United 3-2 Fulham: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2NIeUV1WU5MSDlWalNOeF9jZjVXcllONzUwX0c3RjNabk5QbU9iSXAxUURickZhdUdTZ3RrcEdtNHdjSFdZSmptd2htak9sMUVtVzdnYmc4NExBQXhFLVN1bUJUaENnblYyZk9vRGZ3OElyTTBrTnVwOXhBNUZKV05mNHVxTVFOa1FxVWs3Yl9LVmJIN3hrZ0VoeXhac2lDYlE?oc=5"
         },
         {
             "source": "Stretty News",
@@ -57,13 +57,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
+            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
         },
         {
             "source": "SPOTV NEWS",
