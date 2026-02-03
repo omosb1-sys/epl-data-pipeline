@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-02-03 17:42:38",
+    "timestamp": "2026-02-03 18:39:56",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Transfer window verdict: how every Premier League club fared - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpOSFVoRjZkcXgydFp2OGRUVXZ1aVRKeTNHWXVrLUhRWVBEbmdWcjFFZk1acHNmQ3c0WGNnTGhORHkxTi1PS1d3OTZMRjFsUWFwSUFqdjFCTGFYOEJfZEQyejRxbmlnbWxmMUJNT2tYbGYxNVlXcUk5a0xBTTY2ZFFCamZ5X2g1NXVrNTdiQTVRQlpjdWNadHdIeWxyUnBmemN3T1BmYkZNV0Nl?oc=5"
+        },
         {
             "source": "BBC",
             "title": "Transfer deadline day: Record low deals completed on quiet day - BBC",
@@ -12,13 +17,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Premier League, EFL, WSL and Europe transfers: Man City, Crystal Palace, West Ham and Tottenham Hotspur biggest spenders - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaU5SQTJFVjJqOTFfb3ZfaU16a1hIb0MzWVZfdjB4WjUxby1qYjdJUFREdWRleU1OTzFFT2ltQ0F4WUZ1bzNud3lLNTZvWHhhS2EyT0YzS2JaN0s5cGR5RlFZU0R4NEprU1ltVXBXc09LWWFCQXgwZ0VDSGs2MDg0TUJJci1Ba09KUy1OLVhLdlZ4U2Q2cWxVX2xkLTViUk9RTWUzeWhTQzdrRkU4aUN2cGNDOEgtYm1ERFpOWkk5VURCSkwtY25RaEJNMUk0RldnejNlNjlvZ0R6bzZNTk04THo2elFfM3Vfa1c4?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "VOTE: Who was the best player of Matchweek 24? - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDc3WFRQNWo5Zy1peVdzeW1GX0dtUmhwMng2bUhYNlFUUEk3WlJCVmVVOEl4eUlFdmZmR1VwQTZZVVZ6ZER0VHA5bXhUWG0td0dGYWUtQzNYek56UkJHcml5OFlGLTVrc1Y1SWoyakdoVHhicE9NN2VKQm9PSU03dGpZcnMtdkZFM3pFU3l4MncweXdLdEFfZ2lrYWJBS1BhNnlOWkJmUldGTlRjNHRzamlKa1dqZUt2Z1E?oc=5"
+            "title": "January transfer window: Your club's business assessed, including Man Utd, Liverpool and Arsenal - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmVxVzUwVjV6MWJmbEU2XzdYSk9JVENESUpVRk5GMGNSbHFMTkNHRmdtckpLUjl0QzBDNi1aaFE2VHE2TTNWOHpwb0lNbkVDaWhudVpGNWxLc2RwUGhhRldwRjF0emFoN0w5Y1k2ejRhdHl6czhtanhFemhHdVd2MW9DMFZwUnowZ1dSSnYzWGQybHZZUmpRSnRmaEJiZzhhR3h6dHJ5S283SlhYN3JJOGFyazM3eWZtaG02Ml92OFBMMzktYS13b3BYdDdqTDlibnFzdk5UTG9aTG1jcm1RTw?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -76,21 +76,6 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCOFFxRlVNcXFLSlJtZ19YVkhwOHBGV3FVbEl1MTZDSDFBQU5OV3RabjdEVWlnb0dWeXBxRkRSbEEya2dGOHNKR01qZ05tVk0?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"손흥민 떠나고 망한 줄 알았는데\" 토트넘 팬들도 놀란 '기적의 듀오'... \"미친 '전갈슛'으로 맨시티 혼냈다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94amJUcE5vMk1SbXZKaVh5R1NqTThlSE1PLTRfYmhlU1A1ZmRTOWJZM3ZGLWpGRkdrSFAyU0hsczBDUHBfbTBoT01SSi1CSkU?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "[PL REVIEW] 솔란케 '스콜피온킥' 원더골 폭발! 토트넘, 맨시티와 2-2 무승부…리그 6경기 연속 무승 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdEF1blpHNDYtQkpDVjA1N1Frb0tCZW9GdDRNdXE4c2UxTHVxdG9CNkV6b1FuN1VWMTlGbWFaQnN1UjlZM2hQaXFlNlFHOXhoNTBaZlVhYm5SUllfTG1KWG1YRXpQN1ZxdlE?oc=5"
-        },
-        {
-            "source": "스포탈코리아",
-            "title": "'토트넘, 왜 이러나!' 항명 파동 문제아, SON, 후계자로 낙점...프리미어리그 명문 구단 휩쓴 스털링, '프랭크가 원한다' - 스포탈코리아",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUgwUnJhdUNsU3A4dUNpeFdVWW9CZUwtRktaR1lCT1J4SWE5SHNSb3FENkhtLUJCZHl5NzlEZDNYUi1XMHVlSC1tdDF0SkRFR2tCVHg1TkY3WVllN3BwdDB6azN0UmRsc3F1MVNmdVRkSjJPeVo2RHdIWm5EU2QwV1VR?oc=5"
-        },
-        {
             "source": "네이트 스포츠",
             "title": "프리미어리그 간판급 공격수 된 '맨유 에이스', 몸값 대상승…팬들은 \"최소 1,400억 가치\" 평가 - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oUG9rcHk0dHR5bjRndnlMeWlIX2xOMWlHVnVSMFZPd1FlUjJsYUtGRjR0WlpWWXhWQXQ0RkdGX1NTMGhPbzZHQTRjUm9GSnZiQzlaTjlZcTNOeERI?oc=5"
@@ -104,6 +89,21 @@
             "source": "조선일보",
             "title": "캐릭 맨유 상승세에 BBC의 의문, “이럴거면 아모림은 뭐한거야” - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmN0bm9vNjJCQjg0a3Y1NHJvV1RmdW9sRExhazQ4SS1MNnBndUx0VUkzVnpUTzdRa3Jybmlock9NM1dRNWNXS2ZrTWJUX1h5eXJXQzZfd3F2cnlGYmhYc19Pc2EwQ0U5TnVHUUR2LVRpOE9yVVJBeG5hTEFVQjRCZjdTTVNJUjFxazl30gGfAUFVX3lxTE5HZnlOQXpuVjB3aHlES0lHY0M5a3pwc1l5eGtjV2VldDkyUWM0M2F0QnItdFJmS29DQm5qaU1KTGF1WU9yREF5RHpSMVphUzBNRWZhOThxWWdrXzlnZzdCWWNWRkM4bGl3X3VXMFpjRVNwZ3ZOdC1pb2JuMW8yRm50Y0RrTzl4dlRuVUxnN0NEdXdkaTRkbkRTZTZBYmdpbw?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "'Here We Go' 확인! 오현규 프리미어리그 진출 무산되나…풀럼, 1순위 타깃 영입 임박 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10YWRLY1RUNVRaNVRRY2luWWlVU2labHl4TTlkM1BwUHE2Rzc1c2lLRHUyUHdTS0ltM0ZKRjNNMU1HN3U2Nk9iejRvM3p5SWhMb3NiT1g5NFdvT210?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "'충격' 오현규, 프리미어리그가 아니다!...김민재 뛰었던 쉬페르리그의 베식타스 이적에 긍정적 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzV284Um9lSmZmVUd2VXRtMnRhWWx3MXdiSXpGSnREUkZ5T3pybHVRamhGUmFqX1RMSkpsSkF4UDhkcjZaUU1VeUhKcUJmSWJET1VfaGZXM2ZSZXNEYk1wU0lrU21DRGtuaU5WV1o1a9IBc0FVX3lxTE5hcWhUNFVVOVFCRElPZGlJbURpbmJVeWJYcklWM3hNV3o2NV9qWTBCTkFGUjZmN3liVDFYdU41QnU1SzVKY0ZUQkllWTNIMTRNX0kxSmxZRXpMOFBVNDFhS1JQUWY3UWhieHl6UDdXR0xHU3M?oc=5"
+        },
+        {
+            "source": "SBS 뉴스",
+            "title": "EPL 크리스털 팰리스, '황희찬 울버햄튼 동료' 라르센 영입 - SBS 뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4VEFNTmljWkxzUzVRZmE3bzM0R1dDdDVITjNXelVodzdYdUxCUWJFZWIxYkJpUVlwVjYtbzdCckpidFdteHUzWDZnSFd6NV9xTmY0OEVDak83YlVUQ05RMmRfQVVyX2w5NVE?oc=5"
         }
     ],
     "transfers": [
