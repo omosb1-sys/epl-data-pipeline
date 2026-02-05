@@ -1,18 +1,13 @@
 {
-    "timestamp": "2026-02-05 13:58:15",
+    "timestamp": "2026-02-05 14:40:27",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Daily Mail",
-            "title": "Liverpool boss Arne Slot insists club are ready for life after captain Virgil van Dijk - as Daniel Farke reveals how many points Leeds need to secure survival: LIVE PREMIER LEAGUE PRESS CONFERENCES - Daily Mail",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjY3MTcyNnNhWmlmUUtnZk94Ql9iYVRyc0lVYV9fTlg2cEtVX0hUVFAzdEktQVFQNmQtamtvdE5xWGpSaTdKeHBLV0JvVUVLZkVzMTFpQkllR2syNTJRMjNxT1NodUFsdmlmc3ZnUlNldmZZeFcwSnRRQ2ZtLWZBdFoxX0tCcWJCcUVHblQzUkJhZGI1Q2ZScnROMm1KSDI4dEhxSdIBqgFBVV95cUxQcFRlT2tGZS1ieHBIT3Y2UmxmN2ltRFFBVmNldVQ4dDF6S0l1ZF9LSmpDUXI0aEQ1YWN0blN2NHVSekpKVVRVQl9wUUlNZnJ4Z2R0ajNTUF9KNThpT2d4OVZwcHFaTDFxaGxxOW10MHFXMnBFU08xZElDd3NBaXJqZkFoVDVhWUR0c2tkR2pwSWNkLWtBTkpIN09HUE5kdkUtT2FnNnpJeUctZw?oc=5"
-        },
-        {
             "source": "BBC",
-            "title": "Premier League LIVE: News conferences and team news as Rosenior speaks - BBC",
+            "title": "Rosenior accuses Arsenal of a lack of 'respect' for pre-match warm-up - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wT0gzcTUyVENIS2wwdE9lSGhGVndiY1lWYk1Ec25UQWRaODVlcml4U2ZadTFVN2R2aU9lbTNucG5KUFA3dW0wS0psZklGa0NEM296dk9lbnlQbUV5c1FUSzQ3MXE?oc=5"
         },
         {
@@ -21,19 +16,24 @@
             "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWQwT3NTSHhUZE5CRU9Ld2lxRUIxaVBPbXBJREJaZDFiRUtUd3k5NTFzY1E5c2RITy05NXNUOFV5UVNuRDV5Mk4tTnFsRjNvSTBraHBxdEluZlkzVi1tZTRoQUx4NThaYzdUUDJlWXJ5aUpXTjNsRHBaVi1XQU1IMXFWVnNxS1VWcDdwMmU5eEdVOG1LLVhNS0JWZmQzS1VKczVFX01TN1lhWTZreHF0MW5BVGxFcHJXSzZDakg0Wkczd05DdmFDS2l1aHhnbDg3cHZwU0pma3Y2dlRuMXJjTnZ1ZVZYdlpoRHlua0hjYTk5Ujg?oc=5"
         },
         {
+            "source": "talkSPORT",
+            "title": "Liverpool tipped to re-sign £52m ex-player as key star set to leave - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEpHNDByQWhSN1NwLXpaTTREcHZlbTdkU09qcUt6MHFvNkhYQkpKRk5hSXNHR0hISnNSN1cwUTI4Q0lhU2lGWkZVblpka3A0LVhIa2xYVko4RGF4MDB6ZUFhb3dUYzhXZW1KVDZuWjN4dVZjd01jNkdOc044dC0zVEdpVW9PUWZQMk5aSjN0R3prWEl4YjU5c0FjZnBDSXM?oc=5"
+        },
+        {
             "source": "GiveMeSport",
             "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Molineux Medical - GiveMeSport",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
         },
         {
-            "source": "Stretty News",
-            "title": "Fabrizio Romano drops afternoon Man Utd bombshell after Leon Goretzka transfer news - Stretty News",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEZuWnVucl94ek8wcllLMmlGRFdTWjZWVUUwNHdta3RMN0I1S3ZTR1EyTl9Pb0J6Tk0zenBBTjBfU080d3YwN0N1bFNkUFZKM053OWtfQTNMdERzVXZCRHZaVEJnNG5EOTBjYm9od2xDUkgzeVVJVjB3QjU2SDlwWEJkcm1Mc21fa25ZalRPbU5ERm5uNWZwSnpfMy1jQVF0bXMxbG5obFdhSXVOM3lKUlE2c1hIZWJhZkx30gHAAUFVX3lxTE5IdXdGNTZOTE9YWEpRMUpoWkFYTV9SUlFoZDdvWXBXZTVDUTVhLWY3dTVVUkxabHp2OHVQUGZZcU9xNkM2ZDlpRTNka1BlaDJFVklsSHlsS0E3enR4RlJfNkNpM09NTkszZ1FqaFFLVHNqakdJenRUazRCY2JqakZiakZQYzZtUDdIRVlpTFVMQ2FUcFBhRElNWUZEZFVYN3l5NUdZYXNGNE9vSUdyd3BZcHhaLTRRYnlkRlZwc3Z1Ng?oc=5"
-        },
-        {
             "source": "footballtransfers.com",
             "title": "HERE WE GO! Fabrizio Romano CONFIRMS transfer hijack in Arsenal battle with Tottenham for wonderkid - footballtransfers.com",
             "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTGFDRW5FeEIzQzl4M1lORDJnazR1MU1oNGVROG9aNlVTRlZBWnFKeFpTVm01ZkRUWXpYb0t6TEFhNVo5T0pxeUlCYUpUNGRHZ0EwVE9EcHgtUlcwTmN3a196eXVFVDc4dGVlazBwYVA4T3N3LWc1cmJCLWJ4QWFjTGYxNFlkWDB4MkRNMFZTVVloUVdlRjIzNC1iSDZqZTBHR2hmQjN6YjZlR29JVFU3UHBnVzlyQWxrWENXTGFyaG1tNlhfWWtBelZaUHNBSE40SnhGNW1qdmh6NTdIckJBTUFfdkQ3QmFDemoxMUpPMHc3WlBxU3ZmMmFaQnAtMVY2eW5wNWdXZw?oc=5"
+        },
+        {
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -42,13 +42,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Tonali not leaving Newcastle despite his agent offering him to Arsenal - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkV2d21PSTV4QVJQa09taVA3MlMwU3c3X3FqZEpGS3lFdXZ2NkJDQUpnbjA4SjNYOXExMVJDZmdoZTFSdmxZM0RiejVFM3FLV1hndzlVejlCS1FfZ1B0ZnNGX2E1Rl9iWGtuX1hoMjBpZThyOGdvc0VnTWRvTWpLZWpBRERTVHlHTkcwZWsweW1ZZzQ0ZGxXdVBxdzhwSi1wMjRlak9Ld09nelRJSE1j?oc=5"
+            "title": "Palace agree McNeil deal with Everton - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWg5em1NQmlVX0dzeU5VaEY5OVFzOURMaldKOERYZll5MXR5Z2RMa1VGMF9MTTNzX3VDZE1yVThhTG1PUjdta29CdEphVzloNFdHck5TUC1vR2VhMk42NVBHMWN5eWctWXgwaE9KTS1yLUpqcldFanpsbG52V3Z1MGFvNzNJcGg2QVFvX3RTUGEtNF81YUs4ZXlqbjhDaVVhbnVsM2xBZ2F0X1I1QWtB?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Palace agree McNeil deal with Everton - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWg5em1NQmlVX0dzeU5VaEY5OVFzOURMaldKOERYZll5MXR5Z2RMa1VGMF9MTTNzX3VDZE1yVThhTG1PUjdta29CdEphVzloNFdHck5TUC1vR2VhMk42NVBHMWN5eWctWXgwaE9KTS1yLUpqcldFanpsbG52V3Z1MGFvNzNJcGg2QVFvX3RTUGEtNF81YUs4ZXlqbjhDaVVhbnVsM2xBZ2F0X1I1QWtB?oc=5"
+            "title": "Tonali not leaving Newcastle despite his agent offering him to Arsenal - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkV2d21PSTV4QVJQa09taVA3MlMwU3c3X3FqZEpGS3lFdXZ2NkJDQUpnbjA4SjNYOXExMVJDZmdoZTFSdmxZM0RiejVFM3FLV1hndzlVejlCS1FfZ1B0ZnNGX2E1Rl9iWGtuX1hoMjBpZThyOGdvc0VnTWRvTWpLZWpBRERTVHlHTkcwZWsweW1ZZzQ0ZGxXdVBxdzhwSi1wMjRlak9Ld09nelRJSE1j?oc=5"
         },
         {
             "source": "Sky Sports",
