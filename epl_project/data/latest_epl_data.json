@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-06 22:11:22",
+    "timestamp": "2026-02-06 23:14:50",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODcwRjlkd1BZUTdSalBKMXVUbWlVNU03ckgxYVFSZm1PVTg3b19kRGNIcU1jSEtkYS1NRVZndGw4ZWNudG1DeS1OblQ3UUdkVUtweFd1LWJQZEFCOG9ja0x1N1R6OEQxWUpHQUg3OVk4ZVU4QkUtYUx1X2hPeTNVWDBKRkpIc1BmeXRuVlhvYkZrcS1Y?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "Premier League LIVE: Leeds United vs Nottingham Forest - team news, build-up, score & live text commentary - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OWERmUzFHdXJMaXZ1UEtRekoyS2hwam9tcHRmb3JmMVgzdHk5QjJ4Rkx0dnNXQWdQem1KOTFVbDk1clp1RkpDcEE3ZDllZ1c4QUk0TTh5dWdmbE16anpwa29iUFk?oc=5"
         },
         {
-            "source": "Football FanCast",
-            "title": "£130m Premier League star wants to join Arsenal, he told his agent to contact them - Football FanCast",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNai1jc18zVVB6WUlMVkRTdTE4eTZXYXJvcXNPZFd5Tkp2ai04X2pmRGl5ckJVLXdQcVN2Q2owQnRCZXVHQlAtLWNYSno4Vk1iOGxlY1Qwc09DYmZfdElPazc2VFJLYjVRUVRtWW1QYlpib0pWRXFTbkE5dXZtNWpiUENRYUh0WndIUDJzRVVn?oc=5"
+            "source": "The Guardian",
+            "title": "Premier League news: Guardiola refuses to be silenced; Arteta apologises to Rosenior - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0MwUVNBYnBIX25oRU9LX2xUSEpZOHBfVEc1c2R0M3h1RFRDT1NWNUJJMjI1eHFUR3JNb3ZQc05kaW0tNzB0bzV0enI5a3JuSk5yUVVJWEpVbk5IQ0tHVGZfYnRsbk5kRmxidEtMMVB3U0drWk40czlhLVE2dmV0YjFaT3lvS21JOWlqS2hVMmlzR04tdTNiUnFKeVAyMjI5N3RKT2gxVXp3WEtRSHluMg?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: News conferences and team news before the weekend - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aZWhQYnJxaHV6Qk51TUZHcndNNDBaZEswSUFXZ3RDX2IwQW1NNU92Y1JtbEhtZVJYR2lpV2dxNFNsekFKQ3pJU1lxcVFZQ0xCQzJvcktwQTNlRXRlc1F6c3pB?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -71,9 +71,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yTm5pbE04aEs5NHJ1T2JlR2VxWXM4Y0ZQbEsxaTlEczlOWDM0N0J2OGpCMWpQU3dlTGdiUjZlUUx6cWd5bXpYSllpckxkaGs1ZDBzVVlPR1dLQy1v?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "‘U23 준우승’ 중국축구 한국보다 낫네?…쉬빈 프리미어리그 데뷔 임박했다 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9peVN0SXBSWEp4LU5RaUZiYlJUY3F4YU9ZRDc3d2tGR3dfcXhMSVNvMVFjSjRGUVZEcXpDTUlJWEJJWWtjZDFIdDhfMDNNUEN0WWZrLTkyTGVUS0RKOEk4RkJRaDMweTFjdHc?oc=5"
+            "source": "v.daum.net",
+            "title": "‘U23 준우승’ 중국축구 한국보다 낫네?…쉬빈 프리미어리그 데뷔 임박했다 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BYUJEQVBrOEwxVG44U0dndnBqSDA2bGJudGdNVGpNeExkUEJSTG5uTHVGb3ltNE1ZZWxVX05XOUFiU1BxMFE?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,19 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWtFTUhJeThvajNhbWt3QXRzY0w4SnFGNW9mQ21yT01WaFUwX2R3R3VmYnFvejhVd1hoVGRfbmt1WnRhQ280bC1uRl9QS3Zidk1NZlVPZ1BNOEpqanJUT0FCYm0wVHpDMHNUUDBUb0JxbWd5SkFZSnBjbWs1Ny13UmtjVGpxc2dmY1JB0gGfAUFVX3lxTE9maW1sMFlZX3l0U1ZROXRKVHlsR3VHbzFjRzBmQ2JYQkV1cGFQa2tkd0RqbnFQNVNVdTl0ak1rNnI1ck1RZEdHZHdmb1dHWGpFOXFLZVRJUWhwRURKTC1KbldRdzloMnVnQnJ3eHdWem15Y0l2a1NXNDdxcWlqTGpwS2k3b2d1UkUxVzVJbkJOZDVYUkR3XzFQUUhlZHNEMA?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "‘명불허전’ 손흥민, 韓 축구 넘어 ‘亞 역대 최초’→26년 동안 탄생한 ‘26명의 EPL 득점왕’ 조명, 유일한 아시아인 SON - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IMEMyWUR4Q2NueDBWNHVRS3AycDBHMi0tNWpkd0FxYUk1SFhKUjVyeGFQS1ljNjBORS1TYWxEYng5d1NLTzJoV1FrWlI3c0k?oc=5"
-        },
-        {
             "source": "네이트",
             "title": "'132년 만에 EPL 우승→3부 강등 직면' 기적의 아이콘이 어쩌다…'1840억 손실' 충격 승점 삭감 징계 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaSmVIeGJSVkZhMVFRLWNMM3hnOWozZVB2YmV4Vk02dVcySDBLWjB5QUtHME9sRU5KOHpnQVprRC1YNGZrcE1aQ2VDV1BrWGRfVm5oU2Q2ZnBvVTZwUVdwVg?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'재정 규정 위반' 레스터 시티, 승점 6 삭감… 단숨에 2부 강등권 추락 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mY0oxUm9hTWtYc2w0aktwc1FEUEJSTDhzdnJnNnFUQ2Jyc0ljTkEwckgzQ3V5UG1mM3NvZEhsdTFiczUyMWNnUEl3d3pIQ2s?oc=5"
         },
         {
             "source": "머니투데이",
@@ -101,9 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kMUdBaVNINEcxcFBfVUVsbl9UVVgzUjZGV19zTG1oTVZjMUJNUzJBTTdMSmp1TkUxc2FXSXMxU2JESWRHOUhvZG1sZ2pCSnZwSUdsemJmNFZ2dWZVTmhCamxnS1BfX0pNMVE?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "'재정 규정 위반' 레스터 시티, 승점 6 삭감… 단숨에 2부 강등권 추락 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mY0oxUm9hTWtYc2w0aktwc1FEUEJSTDhzdnJnNnFUQ2Jyc0ljTkEwckgzQ3V5UG1mM3NvZEhsdTFiczUyMWNnUEl3d3pIQ2s?oc=5"
+        },
+        {
             "source": "인터풋볼",
             "title": "[오피셜] ‘결국 시간이 답이었다’ 비르츠, 1월 ‘리그 4경기 3골 1도움’→이달의 선수 후보 선정 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mc2FCWUtLNm40dEtZT25EbmJ4UHdVbG5NSk9tYk5WcXhMV2FMM3hiNndvWnZBOTBXYVdUTm1KblRJaDEwYXdDZ0tDdnJrM3AxYzdRY3E0QmRqLTQya3YwTVlzemNyWDl3MVVPUWRfUGdFVFMy?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "‘2027년까지’ 재계약했지만…페프 과르디올라, 이번 시즌 끝나고 맨시티 떠날 수도 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ySGtydjZBUWtmR1RBQVpoV05weVNUVHJ0SVRTUEJqY0FFNEhEZ3g4aUJERDJ1LU51SHNUVHVjQWxTZ0NaTHcwdjJXWUh4ZnBOdzhOTUIzZld2TzJ6SWfSAWNBVV95cUxOLXRkYy0yREN4Vm1RWnItUWNLbVFieWFOTkpVS011NmN3YVo3OGI3QVVzYkFqRTNXMU5wSXpEaFRldThqZ051NGlJWlZTZ0g1cWlsNnZQdXJOcE9YX1dIQ0s4TGc?oc=5"
         }
     ],
     "transfers": [
