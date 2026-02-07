@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-07 22:14:03",
+    "timestamp": "2026-02-07 23:18:01",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Man Utd vs Tottenham LIVE! Premier League match updates, news, score and highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjNDdHFLaVBTaFRWLWtWb1kxMjVGRkU3ZlRtWmR0dG55UHBLZzVRVmFtNU56c0U0b3B6Qlc2a2xMbExGclFVdVUtaU12V1VXandQYndIb0lQRllhUW1UeGQ3U2YxbHZCUjF0ZlhhbGtRb1VNWjRUdTExUFJpdkFMUlBDSmN6Tk52NVZFOXhYRW5rcmhoUVQtajVhM05WOXU4am5la3p0RVNrV2YwSUxmNnhRZHJpUWhRdEhBLXNDSUYtSnR3bWtpT09QM3VXUm1UazB6aDgzNA?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: Liverpool to hammer Man City with draw between Brighton and Palace - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWExEVEFjTkRfUTltQkpKUlpYRzF2bklPWHduUVZTVFpOQW1YLUNWSHlJNnc1UmdORF9IM1ZuYUJ1ZVBVaDFkS2pIVVZLaEpmeUYyM2tSSWJFLTAzVXR0NFRmMUplTWo4ZWJEU25XdFZiQWlKWDBkQ0dfeFVfM2FKcWE2SXdlVk04TEY4amk2cGV2cVpaVGEwR1B2WGhCLUgtSmotSlFheV80Nmc5RlFSSnJDUG0yUEstZnFRTVZITVRaUHV0enZuSjVFWjNobnRLMDc3ZkRpOVlnY1VyYXMxOFJoamRldXdIcVY1UjBHN1QyQ3hN?oc=5"
-        },
-        {
             "source": "The Guardian",
-            "title": "Newcastle United 2-3 Brentford: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEVNdFk1M3k1UVd1YTZ2emdyREpBc1VpY2lNTmtXV2dfX3V0MHFNUHRhWFFqSEIxcTVZbURNVGVBT2VsNWpBemxNVEE2TW5qeEVDVXB0SHRGdE9SNVgySnJCaEt1YUc2VWE1cTBhQ21TYUxtN2FCVG5wb1BteFNJVTRldThuM1FDSHFaeXdYU1lQX2VidVlOdk14MXNDSmIxWW1law?oc=5"
+            "title": "Premier League news, Manchester United v Spurs buildup, and more – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUJzWFFDakFXWjhQS2wxbzZJc2xBc3U2OFc1eGpiQkxfbFdBNmtreWpLeGpLVWFSTm5tb0VJZmtna2JUT3R1OGhPd0hqenp0dTVfZDZLSHlnbUtfLWc1WUI2d25yODBGTm9FRE02TUdEZlRHbFFZOW80SzQ5LXdqRklaNm0wNFhyUUFLREVWS3A1QVQtX2lzZkVLN21IMWUyN1lERWZCMFJ2TXc0TDBkT2FIMmlZNGJsOW50dXoyY3FpYnVqcWswQ0xB?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Fantasy Premier League: Gameweek 25 Q&A with expert Gianni Buttice - send us your questions - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5McllJeXVuTS03b1dyUlJwSFdVaUVDU3dKWTh5SVdYVklaU3V3QmhWUVRESEctekctWTc0VHR2X1p4NUh5N2ZiZ2FvN21qUUlMSko5RDhDcm5HcURFQVZHZWdnVlI?oc=5"
+        },
+        {
+            "source": "Flashscore UK",
+            "title": "Premier League LIVE: Get all the latest news and updates - Flashscore UK",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2ZhVS1udTN1eV9ONU5ldzN4VTNGTllwR2JNejNxTjhMY1k3YXNOTUcybXFBcldyNWctdndUb3NCcG9ucVdwNE1jNVhCZEZKVEc4OUR0Z3lURE1IYnJEUElnTUw3X0R0Q0pEQkg1dGlGaHdWMUdnN2UzV2lvNEhhc2pQY3ZIeGdOV25B?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -66,14 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1dpMDBvMGhSUERQMUdjU2tiUWNIdlUzVXVYR1pjZHA1RkpfWXlkb2RXR0c1NVpmNGRzbVk2WWVjOFZUNTdzdUhVcE1XTFdZT0o4eko3MVp4bklZcEZiYXVpSHAycEcxLTVPbVdGanV3WWZVM0NOUVpsajc4cEZIWjNuNUN4M2l4aWFtQTZUOW1JN0R1RHMzVWhhbHFPWGFZaWVQUjMxTkk0eFhlblpNZTJNeFczQ1J1SkcyWHdIQ0JRelU?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"여전히 중요한 선수, 주장 교체 절대 없다\" 토트넘 프랭크 감독, 로메로 퇴장에도 '신뢰' - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0JfNm1QMHNNTTV6S0pZdTFEWGNpSFFERVZmdThvVThtckZCX2pGS25DQTlNTnpVTHBGMzZPQUVMcUN6RWtqWURUYmkzdDMxeG9mMm5Yd19QeDZyc2xJcjl6ZXlKdHRxcm5yeEVuNnJwdnJ0Zk5UY2gzejhXa3g4dzVwNEUtcUdyWkE40gGfAUFVX3lxTE9vcGFSaGhyT1QtSUdxSU1sOVRKdGlUQjEybjRmNXBWeXVFNFEtazBjQ25WTWRKUjhiMXVyZVFwXzJQOFlySXBseE9qSE1EVVpjbUxfSWxPdjBqMnpNel9vOWM2ejZXLVo0VmhGU2NVQTBKcnFuVmFFbHVETElkd25OUHpqYXVUeHB0Tlkxb3MzS3dYMWIzQS1KZllpbXBjMA?oc=5"
+            "source": "네이트 스포츠",
+            "title": "'꽈당 넘어져도 시그니처 세리머니는 해야지!' 36분 뛰고 멀티골 활약!…EPL 우승도전 아스널, 2위 맨시티 9점 차로 따돌려 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZWHRaVUhrVE1kNGREd2RNZTdiYmpkSGJCUjJBZ2pUWDlYdlpKTmFjYXB5QjJHam9FVE5aOE91VGR6XzJ1R1M3Sjg5TzJIVk11dmRIdmxVU1dub1lx?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "\"구단에 공개 일침 날렸던 주장' 로메로, 퇴장당하면서 평점 3점...\"이런 장면이 너무 많다\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZy1fb3gtcTU1NWtQVVJzN0pJa1FGUTh0MS04TTBNaFRWVmttM3A0QjJRLWlLaDlNMXZ1MXRtY0tsRWJCcUcwN2hodWxrWWp3SzJRT1U1NWl0MkhqMnBkTkRZdzZlcHdDOUNhMm1GWmg5SWxpUmhRdDRMRm9KNEp5NVNIYjlZN1ByRV9J0gGfAUFVX3lxTE1KTlQ0VGE2a0hEeklXRGpyeEg4TGFBS1RKNGVyNnZ1QXBJamV2ZThSekszRXo0YkZjWHZCaG8xSkxsbWNmOVN5Z2Z6UmdXemlkWkpNS19yUDdPNTRMbHFtWjBBeGZrdWdOUF93Rkc0djJWUTVRbjlFbEkxdEYza25MTTlpNjBacXRMd3BhckF4a0o3Y0RGNTNWV0dLUmtDWQ?oc=5"
+            "title": "13경기 덜 치른 맨유, 아모림 감독의 한 시즌 넘어섰다...\"벌써 지난 시즌 승점 추월\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMWFpNlVZY2YwQkh2X3BWalZlLUtERVhlQWR3eHRKRzNRX1phTkVGSW96RVQ1LWlKWHlaVndRSENvZE1BdkVtMmE4THFQTW15cnFFQWhrRDNnRDRIb3lxMnZ1Q1oydjl5N2E5UU1vZkJ0V2h3MkFkRXJxUUhweTVrRVZ4c0hWNWlZby1z0gGfAUFVX3lxTE82VjV3MnlxdXZxd2xQQmtYblpzTVlmZk1TSkZUZURPQVE0bzBtSlN1MDJJaGlDcGZrTkllc01JY3ZENm45Z3hGUUJIT2NtMkVmbFhDSGFRVzNfSFpaTE54WXlPbVJZRmljZFpIZUhjQW8zcmcwbDBwWFd2SFBNX2xTSkt3YW9sdE1rbTlZbFN0UVp6cHNvOHpDY0RET0kxMA?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "\"여전히 중요한 선수, 주장 교체 절대 없다\" 토트넘 프랭크 감독, 로메로 퇴장에도 '신뢰' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0JfNm1QMHNNTTV6S0pZdTFEWGNpSFFERVZmdThvVThtckZCX2pGS25DQTlNTnpVTHBGMzZPQUVMcUN6RWtqWURUYmkzdDMxeG9mMm5Yd19QeDZyc2xJcjl6ZXlKdHRxcm5yeEVuNnJwdnJ0Zk5UY2gzejhXa3g4dzVwNEUtcUdyWkE40gGfAUFVX3lxTE9vcGFSaGhyT1QtSUdxSU1sOVRKdGlUQjEybjRmNXBWeXVFNFEtazBjQ25WTWRKUjhiMXVyZVFwXzJQOFlySXBseE9qSE1EVVpjbUxfSWxPdjBqMnpNel9vOWM2ejZXLVo0VmhGU2NVQTBKcnFuVmFFbHVETElkd25OUHpqYXVUeHB0Tlkxb3MzS3dYMWIzQS1KZllpbXBjMA?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -81,9 +86,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yTm5pbE04aEs5NHJ1T2JlR2VxWXM4Y0ZQbEsxaTlEczlOWDM0N0J2OGpCMWpQU3dlTGdiUjZlUUx6cWd5bXpYSllpckxkaGs1ZDBzVVlPR1dLQy1v?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'오현규 합류' 베식타스, 폭풍 영입으로 이적시장 마무리…'프리미어리거 영입' 수비진 대개편, 예상 베스트11 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KZXR4RkFVMnBibDlMWlZhUW0xcVJDSXNzQVVXOGRQZFcyZmRCZ05EbWpSS281Q3JwZGZxbXhVTmp4QUw1RkZ3LWN2ZnhHMTA?oc=5"
+            "source": "머니투데이",
+            "title": "‘U23 준우승’ 중국축구 한국보다 낫네?…쉬빈 프리미어리그 데뷔 임박했다 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9peVN0SXBSWEp4LU5RaUZiYlJUY3F4YU9ZRDc3d2tGR3dfcXhMSVNvMVFjSjRGUVZEcXpDTUlJWEJJWWtjZDFIdDhfMDNNUEN0WWZrLTkyTGVUS0RKOEk4RkJRaDMweTFjdHc?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -93,17 +98,12 @@
         {
             "source": "뉴시스",
             "title": "황희찬 부상 교체…EPL 최하위 울버햄튼, 첼시에 1-3 완패 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBya2RSdy04VnZMdENoVkRlXy1tc1JYMWdFUDVuUkFPc19ZdHROS1BhMkFtT1pSQU1MUTJ3Z0F2UW5CdFBGMk9oNlFxQU1neFRzbzM4WXhYd1hFUUVaUnVVWg?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBya2RSdy04VnZMdENoVkRlXy1tc1JYMWdFUDVuUkFPc19ZdHROS1BhMkFtT1pSQU1MUTJ3Z0F2UW5CdFBGMk9oNlFxQU1neFRzbzM4WXhYd1hFUUVaUnVVWtIBeEFVX3lxTFBqbTFSZklwNjBucUNXZUFJbUFqZnZwQUU3b1NxUVJkZk5naFAxc1pDbXhoTVFYaW03dklUN3M0akxxd0dKZjlUMndHWGc4TjZ5OHN2Qld6SzlveFpraHVFTldfT2V0UVZLT3JMNWM1a2E0bnJ1N0pROQ?oc=5"
         },
         {
             "source": "xportsnews.com",
             "title": "1경기 잘했다고 \"손흥민 같아\" 진심인가…\"손케 듀오 떠오른다\" 평가에→英 매체 \"아직 멀었어\" 일침 - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KQ3UyeVFKNDZqRHB3eUxiQUdyVVFPZjhNWmhjamxSc1NQTk5tcS1KQ0hxQWl5RG1odWtEaVB3c19kdjgxVG1vVV9YTFhEbUpUTldlaw?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "[PL STAR] 맨시티-아스널-리버풀-토트넘 무너뜨린 음뵈모...빅6 킬러가 나타났다 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOW9DMkJHcWd4WnpVVzJTU2dCREtDWHZtLXBFcGllcTFXUGctR0p0bk4xSjlZN3dXUi1BYTBnbXBnQkhWTEtTVU5PNjkyaEpkRE9mYUU1QUNjNzJiUnhLaWVJQ2t3MU5XaVhpeFl2WU52ZU5W?oc=5"
         }
     ],
     "transfers": [
