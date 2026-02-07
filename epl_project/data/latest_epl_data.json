@@ -1,19 +1,14 @@
 {
-    "timestamp": "2026-02-07 12:22:14",
+    "timestamp": "2026-02-07 13:36:22",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "dailymail.co.uk",
-            "title": "Manchester United vs Tottenham - Premier League LIVE: Latest score, team news and updates as Michael... - dailymail.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUmpyZ0k4UW5UcGZ6TTlETTA0VUVsZGxERDFPX2FmM01TdTFraVV5VExUQWRHRFBXckc5Q3dwaFdhTDZDa1liMXV6TER0QWVQWFRMN201U0NFa1ZxTThSNks1dGNHaXlaaHhwTEdsUUtJclpBbDdfcnhlVEIxcmU1czE2RDh1Mkd3R1Btay1rS3BtNzh0dmk5aURXcW11b2lIMXc5bHdyakdJS244cnp3elpkOVEtWE9IWkpHWDl4TlhvdzUzc3hCZFdWU3V1dm9TOURLQVY1aHhQd2Mxd2lkMklYUUNmY19kZmV5bFVSaXlFZlEtdTlMLVMyM1p2UFM0VjhNdG9tSXlVUzFtMF82U0o3Y1B2QlVPSS1pZ2xWOW9oUmZPc3haNVZZUHNpQk94aTZSMVV30gG7AkFVX3lxTE1Fbm5fR1pBbEJ0eWZzRmw3QkNFN1MwcUVqYlgzQ3NGRXVzaWVUY2VQeDFyZFNKMzZ5QnpraUdueHZqWWxzVVBWSl9KRmdkUXc3WHBYZkVSTF9EcTBzWmxMSmhZUmE4Zi1jVUk2OUlPRjN2LWcxNHBrcXBxZVZJSUZ4ci1FbVZLem45Y1JMM2NSRzYxSXJMXzZnRHlLYWlhYzhXVjl2V1dILVo4Z3hza09sZFdYNjR4OUFGZ0xUT2MwTzQ0TDFDZ25RUi1oTHVLc1dpNkVIVlQ3bmZpajFwejUzYmR0Q1ZIdDM2LXkzUlpyOUZuM2NSODFzRHRFMnRQOXhfT0U0eXJqQ3ZWYnFQS1NMYkZfejBpSVB2aE5LU3BpZ2o4dUtVa3Q4bm9kak54ZVdha3NTTk1laVdzYw?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Leeds 3-1 Nottingham Forest | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3FabERTaHZwNFl5Yjl6aVYyS0gtVjlNM3hpLUdMcWRNdWstZFZ1WFRuT1JKUGVxTHR4TmVfWjFTeHVQVHhQQ3JWbHk1ZG13dGlvZ0JxRnpxR09YYkNSVWFRTExVVGxIRlg5LVpmWG8xc1JONkkzclRlWExTeDFGR256Y3R2Q3VpODNuZDlrYlF0MEJRRlNQNXZ2X1ZNcVdjeE92LVFFR0pXNk1fTHc?oc=5"
+            "source": "The Guardian",
+            "title": "Manchester United v Tottenham Hotspur: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDQtVXZCWXFPUWpFanZRU2psUzh4dms4ZWJDNUV4aXgySVh2ZXM3MDBJQ3o2LXVVSGlyRlM2TnNvU1VWUUdRajlBSWQ1WklMN1FwQUh1WUpabnBrRnhCajBMUlRJMWRjNHgtZzFaOWhxd1AwaWVjaDhvV3NxajV0MnNVUDB0LTYwOTRGRVBOUW5iVmRZZFA0UGVwU0JGYUhzd05fLTBUZG16LUFNRU1JZQ?oc=5"
         },
         {
             "source": "BBC",
@@ -21,14 +16,19 @@
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OWERmUzFHdXJMaXZ1UEtRekoyS2hwam9tcHRmb3JmMVgzdHk5QjJ4Rkx0dnNXQWdQem1KOTFVbDk1clp1RkpDcEE3ZDllZ1c4QUk0TTh5dWdmbE16anpwa29iUFk?oc=5"
         },
         {
-            "source": "GiveMeSport",
-            "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Molineux Medical - GiveMeSport",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
+            "source": "Sky Sports",
+            "title": "Kick Off 8pm: Leeds vs Nott'm Forest - live on Sky - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUVdVQ2xtUXhtaGlvU1o5b0ZqTVNtU1ZCRHNCcG5LdldKaDRkMEU5NlljM3VKbEctUVg5T0NPUng3UmxzMHB6UVQxSC1SLTdnRTU2Y0pxS05MSmgyZFlKWXlHeWpCeEJYS05GQzlrZVBqSlBSNjRXTnc5d1cxMi1fZU9Zd1RBOTlkVXVrcXJUNDh5Z0J2dG1fWm9ETFFXNC1UX2FObGowdmh0V0dxNU5mRVE5TmozSVN0bWxEN0tCejBlMi1xV19UNWVULU8xRWRLbWRHSWRoMjROdGlVQ2Z2c3QtUXVxZ3R0eXhRSEVZd1BoZ0NyZWk0V19raW9POEhZS2c?oc=5"
         },
         {
             "source": "Sports Mole",
             "title": "Man Utd transfer news: Fabrizio Romano delivers Andre Onana update ahead of Old Trafford return - Sports Mole",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVhFeklrNDg3RWpFMmlBWjVYWnB0RGwwZ2ROUXZSV2FoZnNiOVc1Slk2aVdGSnlsLUpBY2dZZ1BaXzByV3JTZ294V3FHMk5TQl9oenJ4VlVxNFJKNndJZDdIeVZnT0k2MDAxYTFWS3NSYmgyTzlOcWVJY1NDRjJhelJaMUZWb25GcnVzSXJhcTQ4YllEU0hnLURDQjUxekhWdy1SbGRMcXEwUml5N3ZWb3dWMEJQbGtrQ2E0Z1UxWVJJS2dvM284MHFiTEtES3BCNmZDRw?oc=5"
+        },
+        {
+            "source": "GiveMeSport",
+            "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Molineux Medical - GiveMeSport",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -62,8 +62,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+            "title": "Premier League fixtures live on Sky: Arsenal's trip to Wolves & Aston Villa's visit to Man Utd on Sky Sports in March - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOWJyY0FEQUVKd3VObW80blpreFJXNlZNalppRklyWEc3WlZ0WkFqT0t2YmJIMzR4dVRQQzNxOXllX3lYeXVJLVE1a2t4b3M2V0tIYzhpWlBOZVdxS1I1T1F6ZnMtbmxZT2FMM2dzVlV0SFQ3bi1FcVBDV0t4aUI1ZXNMNUhGUDE1eXpoSTExSGZDVExGamV3cXowNjR0elBXcTRUQVNVSmFMczJiRmMwV1FmOTZ2T2Mxdm9CMXZOWHF2S2ZCRVJJV3YwXzd5TUt6VS01bnVZeHZUZWRENHVVMGFwcEZXV0s4YmhlUVEyendTRm93eE1wb1l3?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -83,7 +83,7 @@
         {
             "source": "v.daum.net",
             "title": "‘U23 준우승’ 중국축구 한국보다 낫네?…쉬빈 프리미어리그 데뷔 임박했다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BYUJEQVBrOEwxVG44U0dndnBqSDA2bGJudGdNVGpNeExkUEJSTG5uTHVGb3ltNE1ZZWxVX05XOUFiU1BxMFE?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQUY0YnhHX2swVDh6TkRvbldycmlOZi1RZUJUWUQ2dzBnVXNpSlY4VDFJU1REWWhrdEUwOWxKdWJULVRWQnBta19zWGJvSUE?oc=5"
         },
         {
             "source": "스포탈코리아",
