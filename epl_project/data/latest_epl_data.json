@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-02-07 09:20:06",
+    "timestamp": "2026-02-07 10:14:27",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "The Guardian",
-            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODcwRjlkd1BZUTdSalBKMXVUbWlVNU03ckgxYVFSZm1PVTg3b19kRGNIcU1jSEtkYS1NRVZndGw4ZWNudG1DeS1OblQ3UUdkVUtweFd1LWJQZEFCOG9ja0x1N1R6OEQxWUpHQUg3OVk4ZVU4QkUtYUx1X2hPeTNVWDBKRkpIc1BmeXRuVlhvYkZrcS1Y?oc=5"
-        },
         {
             "source": "BBC",
             "title": "Premier League LIVE: Leeds United vs Nottingham Forest - team news, build-up, score & live text commentary - BBC",
@@ -21,14 +16,19 @@
             "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUVdVQ2xtUXhtaGlvU1o5b0ZqTVNtU1ZCRHNCcG5LdldKaDRkMEU5NlljM3VKbEctUVg5T0NPUng3UmxzMHB6UVQxSC1SLTdnRTU2Y0pxS05MSmgyZFlKWXlHeWpCeEJYS05GQzlrZVBqSlBSNjRXTnc5d1cxMi1fZU9Zd1RBOTlkVXVrcXJUNDh5Z0J2dG1fWm9ETFFXNC1UX2FObGowdmh0V0dxNU5mRVE5TmozSVN0bWxEN0tCejBlMi1xV19UNWVULU8xRWRLbWRHSWRoMjROdGlVQ2Z2c3QtUXVxZ3R0eXhRSEVZd1BoZ0NyZWk0V19raW9POEhZS2c?oc=5"
         },
         {
-            "source": "GiveMeSport",
-            "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Molineux Medical - GiveMeSport",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
+            "source": "Yorkshire Evening Post",
+            "title": "Big Leeds United change in bookies' new predicted final Premier League table after Nottingham Forest triumph - Yorkshire Evening Post",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNHcxSTZjOTNweFVaazBweEtDZ21sR0dob1E0Qkw0VmZBckpGWFdjS085WFdNX1hmSEtFRlZONjBNSHBySXZfZFFidm9aY2VSS1hKcTEzNFd0RjJnMloxTmxvMlA5eGIzQ1F1RWZzYmNsN3ducWU0Ql9DVkNXM19TNkQxOHZTeEp4ZVlDYnlpQkdRVVdiaXlsWFN3QTJRYnNTSERYeVVYcFNNWVhVSWRPZ2NpNklpTE96YUpoSzNzNWtLRnNhS3BWRFhGNmMwUWg1N2VvZ1dBTDVYTG1ISmxPdw?oc=5"
         },
         {
             "source": "Sports Mole",
             "title": "Man Utd transfer news: Fabrizio Romano delivers Andre Onana update ahead of Old Trafford return - Sports Mole",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVhFeklrNDg3RWpFMmlBWjVYWnB0RGwwZ2ROUXZSV2FoZnNiOVc1Slk2aVdGSnlsLUpBY2dZZ1BaXzByV3JTZ294V3FHMk5TQl9oenJ4VlVxNFJKNndJZDdIeVZnT0k2MDAxYTFWS3NSYmgyTzlOcWVJY1NDRjJhelJaMUZWb25GcnVzSXJhcTQ4YllEU0hnLURDQjUxekhWdy1SbGRMcXEwUml5N3ZWb3dWMEJQbGtrQ2E0Z1UxWVJJS2dvM284MHFiTEtES3BCNmZDRw?oc=5"
+        },
+        {
+            "source": "GiveMeSport",
+            "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Molineux Medical - GiveMeSport",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -62,8 +62,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Premier League fixtures live on Sky: Arsenal's trip to Wolves & Aston Villa's visit to Man Utd on Sky Sports in March - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOWJyY0FEQUVKd3VObW80blpreFJXNlZNalppRklyWEc3WlZ0WkFqT0t2YmJIMzR4dVRQQzNxOXllX3lYeXVJLVE1a2t4b3M2V0tIYzhpWlBOZVdxS1I1T1F6ZnMtbmxZT2FMM2dzVlV0SFQ3bi1FcVBDV0t4aUI1ZXNMNUhGUDE1eXpoSTExSGZDVExGamV3cXowNjR0elBXcTRUQVNVSmFMczJiRmMwV1FmOTZ2T2Mxdm9CMXZOWHF2S2ZCRVJJV3YwXzd5TUt6VS01bnVZeHZUZWRENHVVMGFwcEZXV0s4YmhlUVEyendTRm93eE1wb1l3?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "네이트 스포츠",
