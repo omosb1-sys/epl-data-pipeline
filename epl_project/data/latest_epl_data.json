@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-08 05:55:09",
+    "timestamp": "2026-02-08 06:36:11",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,8 +7,8 @@
     "news": [
         {
             "source": "The Guardian",
-            "title": "Premier League news, Manchester United v Spurs buildup, and more – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUJzWFFDakFXWjhQS2wxbzZJc2xBc3U2OFc1eGpiQkxfbFdBNmtreWpLeGpLVWFSTm5tb0VJZmtna2JUT3R1OGhPd0hqenp0dTVfZDZLSHlnbUtfLWc1WUI2d25yODBGTm9FRE02TUdEZlRHbFFZOW80SzQ5LXdqRklaNm0wNFhyUUFLREVWS3A1QVQtX2lzZkVLN21IMWUyN1lERWZCMFJ2TXc0TDBkT2FIMmlZNGJsOW50dXoyY3FpYnVqcWswQ0xB?oc=5"
+            "title": "Manchester United 2-0 Tottenham Hotspur: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDQtVXZCWXFPUWpFanZRU2psUzh4dms4ZWJDNUV4aXgySVh2ZXM3MDBJQ3o2LXVVSGlyRlM2TnNvU1VWUUdRajlBSWQ1WklMN1FwQUh1WUpabnBrRnhCajBMUlRJMWRjNHgtZzFaOWhxd1AwaWVjaDhvV3NxajV0MnNVUDB0LTYwOTRGRVBOUW5iVmRZZFA0UGVwU0JGYUhzd05fLTBUZG16LUFNRU1JZQ?oc=5"
         },
         {
             "source": "BBC",
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmthQTlnLU1BOTRDYjlHb2FEYTBnUnJhd0lIOWhRQ1hqdVdxalU3RXVXZ05zalJIdkV6RjBPWklnU0l6cE4xN3BvaTUyTVBESmVSTDE1M1VORm9rUUlFaENYQjNVdUhDWHZZam1KcjJqS2RqNFBCSTdNNURnWkhVX2VHbFpqQUp5anljX3BJZw?oc=5"
         },
         {
-            "source": "Arsenal Insider",
-            "title": "David Ornstein reveals what really happened in Arsenal's deadline day interest in Sandro Tonali - Arsenal Insider",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZEVVal9vY1dMMDNiY01rZTZjZzY2aWRWMWg4RkxoeVhZcnk0YTY3SFdGZU5RclMtOU9wRlNoOUVaNGdyNzVBd1k1bW1ya1ZTa0FLWVNFX3Z4M1NNV2t4NkpRSmhad0k0NlpYRHd3TFJONkxCTmlJQjBUYnlJQW95emtjclZHME1sY0gyU2VZWUZnSUh2LVk5a0R0c3J1b2VkVTRVZnE1SU82cWJWVFNKSUR0cl9VdnMwUkRWbHFSdGdLakhTcTdUazZZOGJxbGxPdXc?oc=5"
-        },
-        {
             "source": "OneFootball",
             "title": "David Ornstein Exclusive: Fee that Chelsea sold rising star for has been revealed - OneFootball",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRTekphM01oS2tqLVZ4STM5WWZHejFVXzdqZWpEWk1oN1hMUUwxMTJHb2k1ZV9CaElkT05tRE1ZZUE2bWd5X1QxU3RKV0o4Q2NIYkZwVEV4QTA4amNRTzI3WklXZmpfTWdaYWNuUDhoUWhSYU9wbDI1QXIxWmZQaWlQNnlDd1hISVMzU3BiVzBzSXgzOVFsMkxaSDFlWWkzT0J6bU45cXcxNEZCUVNXd2E5Q2poOE1uQUZDUkdRVmw?oc=5"
+        },
+        {
+            "source": "Arsenal Insider",
+            "title": "David Ornstein reveals what really happened in Arsenal's deadline day interest in Sandro Tonali - Arsenal Insider",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZEVVal9vY1dMMDNiY01rZTZjZzY2aWRWMWg4RkxoeVhZcnk0YTY3SFdGZU5RclMtOU9wRlNoOUVaNGdyNzVBd1k1bW1ya1ZTa0FLWVNFX3Z4M1NNV2t4NkpRSmhad0k0NlpYRHd3TFJONkxCTmlJQjBUYnlJQW95emtjclZHME1sY0gyU2VZWUZnSUh2LVk5a0R0c3J1b2VkVTRVZnE1SU82cWJWVFNKSUR0cl9VdnMwUkRWbHFSdGdLakhTcTdUazZZOGJxbGxPdXc?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,14 +61,19 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOWJyY0FEQUVKd3VObW80blpreFJXNlZNalppRklyWEc3WlZ0WkFqT0t2YmJIMzR4dVRQQzNxOXllX3lYeXVJLVE1a2t4b3M2V0tIYzhpWlBOZVdxS1I1T1F6ZnMtbmxZT2FMM2dzVlV0SFQ3bi1FcVBDV0t4aUI1ZXNMNUhGUDE1eXpoSTExSGZDVExGamV3cXowNjR0elBXcTRUQVNVSmFMczJiRmMwV1FmOTZ2T2Mxdm9CMXZOWHF2S2ZCRVJJV3YwXzd5TUt6VS01bnVZeHZUZWRENHVVMGFwcEZXV0s4YmhlUVEyendTRm93eE1wb1l3?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Transfer Deadline Day deals January 2026 - confirmed transfers in Premier League, EFL, Scottish Premiership and around Europe - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObURxY3h3Z2QyWjdhM1J3aDdBcFV4blBtNEtTejNqRWhnbHg2M05GWnRyLXlTMDYyVGtmRWhmNjYtUzJuSnNpR0h5TWZqSk1oQ3dCTEJ6TXFZNGJic1ZCS3RhXzhyRzUzRjlZWTNLWnBTWENDVno1OFdXYlI1QWxpTXoxR2J6eDJSOU8zbEVYYXV2WVNXUTVwN19jeG90WktPM1NwUm5XVU14dWt2Vl92YmdBRnRXTkdMei1ibjJmMGNjYWJRVnlSR2lkUmtTRi01cDVtSm5SZzR1cXFPWS13N3drLTBxdjBaSEh3TXNNdTNQSmhqbXRybGU3NmstbVVGclJxR1Y3WQ?oc=5"
+        },
+        {
             "source": "스포탈코리아",
             "title": "EPL 뉴캐슬 박승수, U-21 팀에서 첫 골…1군 콜업 기대 - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ004bFd6YlBxcTlKanZQWV9TeWpjNnlPT0Nhb0x0bmxiRUY0T2lFSnhYUWdpekZlekhSY0YwSmxFa3JhdDNmcHpQSU0wZmVYRGZWYk1XOGdYZ1N1U0NZV0hhaE12R2gwSEJWYW12VTBGejBIS0Q0c3lUOElzY0lMQ1hR?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "'부상인데!' \"황희찬, PL 오래뛰는 것 이해안돼!!\" 망언, 울버햄튼 '자중지란' - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLU5iLW85dkxDbnJ4WkJxTkF2N2FVcEU1RFZNcG1YNFVDZHJicEpDMmJBOHp6OTZ3NkJtQlQwVlRpc0lUUWJqakllbzc4Smd6WTR6MG8xZFhNNWdZNnBBdkExWFVvbDVKX1oyQlBEaWhSemYzZTExTk9nZFUwLTVhUVptNTEzU0ZQSFA40gGfAUFVX3lxTE0tVVhITWdxOUQwYjNxeHlfXzFPQmNDT1BEZUxTXzRBMXFHVTZtb251MDZZSGlmcGItNFExbmJnNzQzQjE5NXpWdTUyRmZGdGYzTHY4Y202dzJqWUZHT0NWeW00NVM2WWFMdnd2b3pOdmZuSTVZMlhmbldCSkhaclExYzFRRDZpLTdDNHNyRmJoMFM4cF9EaEdwbnBtclVfNA?oc=5"
+            "source": "v.daum.net",
+            "title": "손흥민 이후 토트넘 주장 잘못 뽑았다…프랭크 감독도 반박불가 '퇴장 판정은 맞다' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GT2hMMkFuaGJTaU1wSUZlT3loQXlReElGcHdZekFfQUEwdm4tQ0o0OWV4b3BkbGpjeG9JaU01MzJpRUZNeVRJWHk0VHJDQmc?oc=5"
         },
         {
             "source": "뉴시스",
@@ -91,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQjEtenJNeUlfUzJSclVmYzc4Ykt6LUpHbnZpdlRXaG1mMzVabXp4M1E3MWM0amI2a3Zsc19DTGNUZlpfb0N5WTkxN0dHNnZ6c1JRTm5iQ2xIWVBKVXlUZ21BcWpHTlFERkV6VjkwYTlCN3pPckE?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "13경기 덜 치른 맨유, 아모림 감독의 한 시즌 넘어섰다...\"벌써 지난 시즌 승점 추월\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCcDd6cjZLZXZqQXpkT215NTFKSVF3MF9peXo1OGpTUGVOajBHVGI3Nlp5b0hCZ21mVG1wZHlfbW1waUt3aEJhdm5NMjI0dDQ?oc=5"
+            "source": "newspim.com",
+            "title": "[EPL] 황희찬 또 쓰러지고… 울버햄프턴은 또 패하고... - newspim.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90SF9ER2JuTno2bXY1TFZTeFFMYWtiT0JodWVZZV82TVM0enE1eWptRlhONU0zU2FKR0pDXzM5bWJ4b1JfRThSS2U5bkZ4RW1ZOEV3YVVkWVBMbHVY?oc=5"
         },
         {
             "source": "edaily.co.kr",
