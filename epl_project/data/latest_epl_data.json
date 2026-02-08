@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-02-08 06:36:11",
+    "timestamp": "2026-02-08 07:31:23",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Manchester United 2-0 Tottenham Hotspur: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDQtVXZCWXFPUWpFanZRU2psUzh4dms4ZWJDNUV4aXgySVh2ZXM3MDBJQ3o2LXVVSGlyRlM2TnNvU1VWUUdRajlBSWQ1WklMN1FwQUh1WUpabnBrRnhCajBMUlRJMWRjNHgtZzFaOWhxd1AwaWVjaDhvV3NxajV0MnNVUDB0LTYwOTRGRVBOUW5iVmRZZFA0UGVwU0JGYUhzd05fLTBUZG16LUFNRU1JZQ?oc=5"
+            "source": "Al Jazeera",
+            "title": "Liverpool vs Manchester City: Premier League – team news, start, lineups - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHlPcUZyaVl6WW9LRV8zVlpVWU1xdHE1eDVUUGpnLTFYYVRKQlRqaXM2Z3FBTm5fd0ktRExWWUdfdkpMdFRfcXJmYTZCRFRCdnZ2UjNSVVk1Z3BGVGoxQ2Vrc1N4bi1ia0VIYlJlb0F3dEhFd2s1Y2E5ZTVaRko4Vm0tYkk2ajFWWERxWjB1T2pBRjlKX3dsNGx4UWNpd2RkQkM00gGoAUFVX3lxTE1oa1l5V3JqQktlY1lhc2RIMnRveXIya0R2eDROaEhFbjJ0ci1oQ0JQeXBpT2tObktXWlNrVEdQeHluNXVaWEtCMmRoWVlzWmJ6WEFHb1J5ZkRkS2p0OS0zSnI1dVladmdEQnctSjNQQkQ1STZNQjRXMnRNM1NVM00tZE5SNWQ1elFOVG5kTjUwNHpOVVBKR3ctWVZ4M3B5S1pqRUl3blRaeA?oc=5"
         },
         {
             "source": "BBC",
@@ -16,14 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RR2l1WGs4S05rSHZNX0dQeXJVTzk0LTY2LURzODctTHlLYzl4TzJhUkdtUE5qb294Tl9iY3lnQ2dRQlJBZjlpMXJrWlZSbUs5N05zNU1EUnlKb3lHU3dPUG9EUEwyUzQ?oc=5"
         },
         {
-            "source": "Al Jazeera",
-            "title": "Liverpool vs Manchester City: Premier League – team news, start, lineups - Al Jazeera",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHlPcUZyaVl6WW9LRV8zVlpVWU1xdHE1eDVUUGpnLTFYYVRKQlRqaXM2Z3FBTm5fd0ktRExWWUdfdkpMdFRfcXJmYTZCRFRCdnZ2UjNSVVk1Z3BGVGoxQ2Vrc1N4bi1ia0VIYlJlb0F3dEhFd2s1Y2E5ZTVaRko4Vm0tYkk2ajFWWERxWjB1T2pBRjlKX3dsNGx4UWNpd2RkQkM00gGoAUFVX3lxTE1oa1l5V3JqQktlY1lhc2RIMnRveXIya0R2eDROaEhFbjJ0ci1oQ0JQeXBpT2tObktXWlNrVEdQeHluNXVaWEtCMmRoWVlzWmJ6WEFHb1J5ZkRkS2p0OS0zSnI1dVladmdEQnctSjNQQkQ1STZNQjRXMnRNM1NVM00tZE5SNWQ1elFOVG5kTjUwNHpOVVBKR3ctWVZ4M3B5S1pqRUl3blRaeA?oc=5"
-        },
-        {
-            "source": "Sports Mole",
-            "title": "Man Utd transfer news: Fabrizio Romano delivers Andre Onana update ahead of Old Trafford return - Sports Mole",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVhFeklrNDg3RWpFMmlBWjVYWnB0RGwwZ2ROUXZSV2FoZnNiOVc1Slk2aVdGSnlsLUpBY2dZZ1BaXzByV3JTZ294V3FHMk5TQl9oenJ4VlVxNFJKNndJZDdIeVZnT0k2MDAxYTFWS3NSYmgyTzlOcWVJY1NDRjJhelJaMUZWb25GcnVzSXJhcTQ4YllEU0hnLURDQjUxekhWdy1SbGRMcXEwUml5N3ZWb3dWMEJQbGtrQ2E0Z1UxWVJJS2dvM284MHFiTEtES3BCNmZDRw?oc=5"
+            "source": "Sky Sports",
+            "title": "Arsenal 3-0 Sunderland: Gunners move nine points clear at top of Premier League with hard-fought victory - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZXNLdzlxa0dwVVQzMFY2emh2UXZQX19lNjdGM05IbGo5Y2ZCWXhld3hlUUZHdUpFT2pWTlJ0MUlORTFYNXZPd1g0Y0FrTE9uVGlRcm85WS1GS3hOQUxqdnBXWEZ4TEtKdUlVeE85OWdCQVBFY1BIbU1vcUV4a0pJenZ2WnNsOElMVXNJSTJhdE1LVXhSUFNkeXhfNDJOUDREanotaDBROXNNUHI1cUtTQ3JTUHE3dmlmSTgtOUhBVV9kSUlKenA1YzdvMGNMZUZSNEFvdEZMNTMwOTQyZDFnMEp2TUJZWnNUX25aTDdlbw?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -36,19 +31,24 @@
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
+            "source": "footballtransfers.com",
+            "title": "HERE WE GO! Fabrizio Romano CONFIRMS transfer hijack in Arsenal battle with Tottenham for wonderkid - footballtransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTGFDRW5FeEIzQzl4M1lORDJnazR1MU1oNGVROG9aNlVTRlZBWnFKeFpTVm01ZkRUWXpYb0t6TEFhNVo5T0pxeUlCYUpUNGRHZ0EwVE9EcHgtUlcwTmN3a196eXVFVDc4dGVlazBwYVA4T3N3LWc1cmJCLWJ4QWFjTGYxNFlkWDB4MkRNMFZTVVloUVdlRjIzNC1iSDZqZTBHR2hmQjN6YjZlR29JVFU3UHBnVzlyQWxrWENXTGFyaG1tNlhfWWtBelZaUHNBSE40SnhGNW1qdmh6NTdIckJBTUFfdkQ3QmFDemoxMUpPMHc3WlBxU3ZmMmFaQnAtMVY2eW5wNWdXZw?oc=5"
+        },
+        {
             "source": "The New York Times",
             "title": "Liverpool to pay at least £2.8m for Rio Ngumoha after Chelsea compensation decided - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmthQTlnLU1BOTRDYjlHb2FEYTBnUnJhd0lIOWhRQ1hqdVdxalU3RXVXZ05zalJIdkV6RjBPWklnU0l6cE4xN3BvaTUyTVBESmVSTDE1M1VORm9rUUlFaENYQjNVdUhDWHZZam1KcjJqS2RqNFBCSTdNNURnWkhVX2VHbFpqQUp5anljX3BJZw?oc=5"
         },
         {
-            "source": "OneFootball",
-            "title": "David Ornstein Exclusive: Fee that Chelsea sold rising star for has been revealed - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRTekphM01oS2tqLVZ4STM5WWZHejFVXzdqZWpEWk1oN1hMUUwxMTJHb2k1ZV9CaElkT05tRE1ZZUE2bWd5X1QxU3RKV0o4Q2NIYkZwVEV4QTA4amNRTzI3WklXZmpfTWdaYWNuUDhoUWhSYU9wbDI1QXIxWmZQaWlQNnlDd1hISVMzU3BiVzBzSXgzOVFsMkxaSDFlWWkzT0J6bU45cXcxNEZCUVNXd2E5Q2poOE1uQUZDUkdRVmw?oc=5"
-        },
-        {
             "source": "Arsenal Insider",
             "title": "David Ornstein reveals what really happened in Arsenal's deadline day interest in Sandro Tonali - Arsenal Insider",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZEVVal9vY1dMMDNiY01rZTZjZzY2aWRWMWg4RkxoeVhZcnk0YTY3SFdGZU5RclMtOU9wRlNoOUVaNGdyNzVBd1k1bW1ya1ZTa0FLWVNFX3Z4M1NNV2t4NkpRSmhad0k0NlpYRHd3TFJONkxCTmlJQjBUYnlJQW95emtjclZHME1sY0gyU2VZWUZnSUh2LVk5a0R0c3J1b2VkVTRVZnE1SU82cWJWVFNKSUR0cl9VdnMwUkRWbHFSdGdLakhTcTdUazZZOGJxbGxPdXc?oc=5"
+        },
+        {
+            "source": "OneFootball",
+            "title": "David Ornstein Exclusive: Fee that Chelsea sold rising star for has been revealed - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRTekphM01oS2tqLVZ4STM5WWZHejFVXzdqZWpEWk1oN1hMUUwxMTJHb2k1ZV9CaElkT05tRE1ZZUE2bWd5X1QxU3RKV0o4Q2NIYkZwVEV4QTA4amNRTzI3WklXZmpfTWdaYWNuUDhoUWhSYU9wbDI1QXIxWmZQaWlQNnlDd1hISVMzU3BiVzBzSXgzOVFsMkxaSDFlWWkzT0J6bU45cXcxNEZCUVNXd2E5Q2poOE1uQUZDUkdRVmw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,39 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOWJyY0FEQUVKd3VObW80blpreFJXNlZNalppRklyWEc3WlZ0WkFqT0t2YmJIMzR4dVRQQzNxOXllX3lYeXVJLVE1a2t4b3M2V0tIYzhpWlBOZVdxS1I1T1F6ZnMtbmxZT2FMM2dzVlV0SFQ3bi1FcVBDV0t4aUI1ZXNMNUhGUDE1eXpoSTExSGZDVExGamV3cXowNjR0elBXcTRUQVNVSmFMczJiRmMwV1FmOTZ2T2Mxdm9CMXZOWHF2S2ZCRVJJV3YwXzd5TUt6VS01bnVZeHZUZWRENHVVMGFwcEZXV0s4YmhlUVEyendTRm93eE1wb1l3?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer Deadline Day deals January 2026 - confirmed transfers in Premier League, EFL, Scottish Premiership and around Europe - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObURxY3h3Z2QyWjdhM1J3aDdBcFV4blBtNEtTejNqRWhnbHg2M05GWnRyLXlTMDYyVGtmRWhmNjYtUzJuSnNpR0h5TWZqSk1oQ3dCTEJ6TXFZNGJic1ZCS3RhXzhyRzUzRjlZWTNLWnBTWENDVno1OFdXYlI1QWxpTXoxR2J6eDJSOU8zbEVYYXV2WVNXUTVwN19jeG90WktPM1NwUm5XVU14dWt2Vl92YmdBRnRXTkdMei1ibjJmMGNjYWJRVnlSR2lkUmtTRi01cDVtSm5SZzR1cXFPWS13N3drLTBxdjBaSEh3TXNNdTNQSmhqbXRybGU3NmstbVVGclJxR1Y3WQ?oc=5"
-        },
-        {
-            "source": "스포탈코리아",
-            "title": "EPL 뉴캐슬 박승수, U-21 팀에서 첫 골…1군 콜업 기대 - 스포탈코리아",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ004bFd6YlBxcTlKanZQWV9TeWpjNnlPT0Nhb0x0bmxiRUY0T2lFSnhYUWdpekZlekhSY0YwSmxFa3JhdDNmcHpQSU0wZmVYRGZWYk1XOGdYZ1N1U0NZV0hhaE12R2gwSEJWYW12VTBGejBIS0Q0c3lUOElzY0lMQ1hR?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "손흥민 이후 토트넘 주장 잘못 뽑았다…프랭크 감독도 반박불가 '퇴장 판정은 맞다' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GT2hMMkFuaGJTaU1wSUZlT3loQXlReElGcHdZekFfQUEwdm4tQ0o0OWV4b3BkbGpjeG9JaU01MzJpRUZNeVRJWHk0VHJDQmc?oc=5"
-        },
-        {
             "source": "뉴시스",
             "title": "'캐릭 매직' 맨유, 손흥민 뛰었던 토트넘 꺾고 EPL 4연승 - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnaHNfaHA4Qk9HNXI5UG8tUU1ZalRQbDdSeFlJcTFQVzRLRnJEOXV5YlZuS29TMl9PRnBKR3ZVb25uSFJ1NUdLZmpTSjhYVXljTjdxUDRGTVJuM0FRSy0tdtIBeEFVX3lxTFAteTFCUnJNdFB4MWJaZzlqR2NkTGsxbXMxWU90b3AyNW1YV0xrS0xaRkJTRERDb3VWVU83dm1XZS1LOThKakJsNlc3M0l2dEdtdDR6bXpBaE1GZ3psRUNqTi1LYXJ4VHFkak9KbExZWW5sOE5UY3JzRw?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "[EPL] '캐릭 마법' 맨유, 토트넘 꺾고 4연승…4위 도약 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSc19VVjRGbGc2bld0aHNTdWppY0tBTGduM1U4ZXhIRzNwSzZfQjYxNFYyVlZZay1BRzN2aERfRFFnT3NtbURVeE1GeG14T2NVaUx0MlI2cW8wY3JS?oc=5"
-        },
-        {
-            "source": "Vietnam.vn",
-            "title": "실시간 축구 경기: 맨체스터 유나이티드 vs 토트넘: 프리미어 리그 25라운드 - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUxYRHdKX2U0MklLLWI1T1FCSV9EdzF5TFRfeHFGVFF2QlRZRHZFcWFXYmhxQi1NZ2JmYTBxNHFjWmJ1MTNWM0t1V1NBYk15WUtoYk9wWFVlUFlCWl93bzdzV3ZKTXpBR2otcFQwZEtUZ0RhRUZFcEhpZ2pLa0Noa2hvOXNDZXFnaFE?oc=5"
-        },
-        {
-            "source": "starnewskorea.com",
-            "title": "'손흥민 후임' 토트넘 주장 또 초대형 사고, 단 29분 만에 퇴장→맨유에 0-2 완패... 무려 '7경기 무승'→14위 추락 - starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQjEtenJNeUlfUzJSclVmYzc4Ykt6LUpHbnZpdlRXaG1mMzVabXp4M1E3MWM0amI2a3Zsc19DTGNUZlpfb0N5WTkxN0dHNnZ6c1JRTm5iQ2xIWVBKVXlUZ21BcWpHTlFERkV6VjkwYTlCN3pPckE?oc=5"
+            "source": "조선일보",
+            "title": "\"인맥 축구다\" 비판 들었던 에반스 코치, 토트넘전 '세트피스 골' 만든 주인공 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTYzMDQ1UWtJOUo5RXl6QkVfT1pmS0JrS0hlV1Y3cXk3dHdDaGR5RG92czBpS1BXTll3VVloSG1pMUVpeUlIR09ZNW96Y2VWcm9MRGNCZWJMRHByUzh3QzFZZEhZNnYtakRHTE5XS2JfSFN1ckxGT0JFcHFBMHlaSFZhME9lMGNydlRJ0gGfAUFVX3lxTFBQRDJhSEttLVBhdGF5TF9namM5YXhKVmhuc1lPSHdwcFpLbVk3S21EZENSSWs2SEhMOWdVTjAxcW44WDZsSnF5UkptZlVQLUZZRDdlZU9wTHJoN090dlBkeFpNLU9hY0dMa2dWRlcwbG9xZnhjWFhVVEpaUjBnTnI4VEJLZURaRU9OVmcwSGE2SWp6SldRbWZmcVRzRzlUbw?oc=5"
         },
         {
             "source": "newspim.com",
@@ -101,9 +76,29 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90SF9ER2JuTno2bXY1TFZTeFFMYWtiT0JodWVZZV82TVM0enE1eWptRlhONU0zU2FKR0pDXzM5bWJ4b1JfRThSS2U5bkZ4RW1ZOEV3YVVkWVBMbHVY?oc=5"
         },
         {
-            "source": "edaily.co.kr",
-            "title": "'파죽지세' 맨유, 천적 토트넘도 3년 4개월 만에 꺾었다...리그 4연승 - edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdF9UMHRxLXl2YmZKUnl5enZuc2lhOU5seFlQRlVOSzVJcGNpVWtUdWtXaGROSGdEZnd1TTVpZGpkdzRrTERLa2VhTWlpTzFVUjJuN0ViOXlYYWFwY3BsT0dCdjZiUzQtYTZ5SUkwT2VMdmw5Uk9xMUxxbU9kLVVqTA?oc=5"
+            "source": "스포탈코리아",
+            "title": "EPL 뉴캐슬 박승수, U-21 팀에서 첫 골…1군 콜업 기대 - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ004bFd6YlBxcTlKanZQWV9TeWpjNnlPT0Nhb0x0bmxiRUY0T2lFSnhYUWdpekZlekhSY0YwSmxFa3JhdDNmcHpQSU0wZmVYRGZWYk1XOGdYZ1N1U0NZV0hhaE12R2gwSEJWYW12VTBGejBIS0Q0c3lUOElzY0lMQ1hR?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "‘U23 준우승’ 중국축구 한국보다 낫네?…쉬빈 프리미어리그 데뷔 임박했다 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9peVN0SXBSWEp4LU5RaUZiYlJUY3F4YU9ZRDc3d2tGR3dfcXhMSVNvMVFjSjRGUVZEcXpDTUlJWEJJWWtjZDFIdDhfMDNNUEN0WWZrLTkyTGVUS0RKOEk4RkJRaDMweTFjdHc?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "[PL STAR] 맨시티-아스널-리버풀-토트넘 무너뜨린 음뵈모...빅6 킬러가 나타났다 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOW9DMkJHcWd4WnpVVzJTU2dCREtDWHZtLXBFcGllcTFXUGctR0p0bk4xSjlZN3dXUi1BYTBnbXBnQkhWTEtTVU5PNjkyaEpkRE9mYUU1QUNjNzJiUnhLaWVJQ2t3MU5XaVhpeFl2WU52ZU5W?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "1경기 잘했다고 \"손흥민 같아\" 진심인가…\"손케 듀오 떠오른다\" 평가에→英 매체 \"아직 멀었어\" 일침 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KQ3UyeVFKNDZqRHB3eUxiQUdyVVFPZjhNWmhjamxSc1NQTk5tcS1KQ0hxQWl5RG1odWtEaVB3c19kdjgxVG1vVV9YTFhEbUpUTldlaw?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "꽈당 넘어져도 시그니처 세리머니는 해야지! 36분 뛰고 멀티골 활약! EPL 우승 도전 아스널, 2위 맨시티 9점 차로 따돌려 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQQjdnNFhOWk92c0FxLWFrZ0tXUUc0VTlweTJGYUdXNHpfQXR6cTJMTHdNTVNNalhlQkdZaTA4QmdTRzRpV3hHTC0tVkpyUG5RSWxJckhqOFVGVS04aGJzSUpIRFRjYVVoV1czREpOTVdpZENFLUpMcTUxM2hTempUd0ttaHZWTHJDS0s0TU04TU1WQ2NxdEtRN3BFdktjWHRVSUtpNFpoYmFmNWpsQ0pweWdrZWVudVkwZktza0k4eldyVkZQeVFNaXFYN0ItaHZNQklTRUFWMlFfS3hWcmtBaWtTT0dPZFY1cXBkTGFQMnhwblQ5V0czWU1DTkc2TzVWS3FXQXB2TmNnZ2lhVU1uM1pHZnNZcTltaE9UN1NCdjRnWHYzTjZQV19LZTBZQmp2eEZtOE1fRlFLMWhkaWtYek4tR01XajNJOGR2M0hmdXBLQXBWbjhLQ3JEaG1ZQ243RURvQm9pZ0JHSVJKNURQVGROd0lGaUxnUVk2Vnl3UVViYkRwNXlzZXUzaUFzVXhTWmNCamg1YVlESDd2cW0yalNvblQ5TjVzbFNsUGRvMjRxVlRKUXJWdTVpX2VjbUQxZkJLMi04dmFqbjBxblN4RERHeGp6a00xZ2o4WExZRHZnYndNUG1McGdhWTRRVU5Pd25OS2xaTGZlQmFnNEM0MjJQeVpFaktURTdLMVdsTVJpRUlfemY1aFdOdGxKUnd4dTdQVkRFQjdYMlROM0ZSUkFDSGlDanRLd0o0b2VUNENnTmlCbnhSbURTNXFuYWMxRWJ5X1JHUTFMbTlNaDJKY01vNjBaQkp3dUEtbEQ4V0FXMko1RlhHclJ5R1Z6X1JpT0E?oc=5"
         }
     ],
     "transfers": [
