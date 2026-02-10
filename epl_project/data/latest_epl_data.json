@@ -1,19 +1,24 @@
 {
-    "timestamp": "2026-02-10 06:04:44",
+    "timestamp": "2026-02-10 07:51:23",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Premier League predictions and best bets: Newcastle to drag Spurs further into relegation picture - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbEc0UTFhX1VScGZnalNmWHRjelpWV0prd2xMbHc0T2ZxU1lSbmxWcUw2Rkt2TjRjZmljLXVLVGwxeENiT1JlR2hhc05vU3Q0ZFlpenl0cFNqTTNha0hWMnhmMVRGakY5T2dKUnZ6MUpuSEJ2bm5oYTl5ZUVEajBDLVRHaHZJTXRvMlpZeGc5THdaQjNMa3p2YUl1RnRvalpadjB3RHRXSzN4aER5eWRRNHo4bURtSEFpTFFLa0JZSWlyMlN2cVRGcl9mbWp3b2lxZ3draVNPZk12a0g2UUMxX1kzRFdvdw?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODMwd1Rxb0E4RWJISUF4SWNPbVE1ejM3VGY2X0JzaTJTcGo5LWJISW1INld4RTFEVnNDWldPQkdGcG1xLS04MEpXeEduRDZXZFBFMVREU1R6Q25JT1ZiNExabzdDTzZNeDlHdElaNThWSTdFbXR4VE42ZmEzOS02b0NrNW5fRmNFZHdLRVVKZGVRUm9wMlRaS1lGZ3MtSS1YaFVpaXNYZmJQZw?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Premier League LIVE: Reaction as Man City's win at Liverpool plus Frank news conference - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMm02Rkp6Y3lHejlkSTNaNEI4NnplQV9tVGRyVzl1MzFoVlNDdkFXeGhIUzZlQXRKalJoUVctX3FtSm13UTNtQXZDcXVVb09vY2QwanVrMkNnY0JfaU1QdVJtSFI?oc=5"
+            "source": "Premier League",
+            "title": "Predicted line-ups for Premier League teams in Matchweek 26 - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1BWZzJCSFkzUGVMM1B4dWZKZ3VxeEJEbm1zdWNLb2xwNUFxQzVhTGstekc5U2NodS1hRkNNbU1NWDhYZndYRUpVRUY5aWlvaGhySl9oTFVpQ1pwMU9DMkMxVms2OFl6LWpfLUYzWnBjRzBBU0VqXy1fR0N1dGZiUG5oU05aX09GanNCSVVvT2NiM1pPY241UzJOa2JiV21jd0kyM3JodGtwNHR5YWw4ZzFjeXg?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -61,6 +66,16 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOWJyY0FEQUVKd3VObW80blpreFJXNlZNalppRklyWEc3WlZ0WkFqT0t2YmJIMzR4dVRQQzNxOXllX3lYeXVJLVE1a2t4b3M2V0tIYzhpWlBOZVdxS1I1T1F6ZnMtbmxZT2FMM2dzVlV0SFQ3bi1FcVBDV0t4aUI1ZXNMNUhGUDE1eXpoSTExSGZDVExGamV3cXowNjR0elBXcTRUQVNVSmFMczJiRmMwV1FmOTZ2T2Mxdm9CMXZOWHF2S2ZCRVJJV3YwXzd5TUt6VS01bnVZeHZUZWRENHVVMGFwcEZXV0s4YmhlUVEyendTRm93eE1wb1l3?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "\"이것도 팀이냐!\" 'SON 당장 데려와'→'로메로가 주장이라고' 토트넘 미치겠다…프랭크 일단 로메로 두둔 \"젊은 리더다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUYzZjRJWnFwS3BzTmdpWXFra3dLdVRYUEp1aXBMbmg2NzZDYVRmRUN5RU1UWXZyRUhBS1FLV2JqMnFtaGZhQko0RW9UNkhNZ1FTbHVHWDNacTM3NjNWUV8wSVFETzJ0azNXS2cyN2dEaU9Hcm5Uei1kLTgyNjVVODJlTzVMZzVVdHBZ0gGfAUFVX3lxTE0wMzBGcEVCaXR5MEJSMkJKb1lXa0JQLVBVMGpXdmhZTTRQNGw4QmppbDZEWHhYcFRHTFpsMU5IWGEtMWlRaGE1Rnp3cEtwU1lkR1NCTG5URGJJell1V0ozUjNmM2U0N2xVbXE5d05MLWRKWFBySWFibFdWT2lpd1hwZE8yUTkwdkxvdUY2em5YZXJYdGZMd29fc0prODc4UQ?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'아스날-맨시티 관심' 다 뿌리친다...뉴캐슬 '핵심' MF, 이탈리아 복귀 추진 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaG81ZWVEZDhiLW53LUZreXpvRHNXbjlDWTNpV003bUhJQXY0RzVoN1c0YXBTamhLeXF4Qzh0M0hlV1Rnc1hBSHB2MG01Vy1GbVJNdFhoZGVlcTBFQ2FQZWhmd0dMS0o2SGNRem5MNEU4blpuZENTNmZNOU1ocEwxTGlRd2JOVDFXcHl30gGfAUFVX3lxTE5aWTVEYXp6NXRQaWx3c3hFUml6VG5QOG11dmQ3eDFZMGlpdG5KZGdhUGN0c09KeGh2TC1zLVdCUV9YUHYxTlhCUDFSUDN3dm1lN3NvbkVfclVpcnA1cDFsX21LelhKSC12TmpQM2lUTmhzRzkyYUxtUkNWaF92UHEwZUE4ZjhBdnl3UGdHUW0wanFNYUtwc01NamhsLVRiWQ?oc=5"
+        },
+        {
             "source": "머니투데이",
             "title": "리버풀 꺾고 자신감 회복한 맨시티 펩 \"아스날 추격 가능하다!\" - 머니투데이",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zLVMzX0dRbWV5U01WbjFGbl95allKQnEtSW9lVU16SzJlcmRXY0NDSDRtbVRPaUtEdUdjV2l6UWV2R2NmZ28td0dHRjNmYUhlYmt3d3FQU1E0WGFQd1k1Z25Bb3NaOFBiQVE?oc=5"
@@ -76,29 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FQXRUSTZfYklyX0hYVkpzNWVTdFRYWWpzQ0Jhdk4zM1AxQ2ZYemNyS3ZKQjlFS21RcDM1NVFkX0MySWdZRWVvZVRoanNmVTUtTUk0R2tJU3JOWjZOUzZ3TWxsbExhWFJ0WFJGNnNLbWRCX181elE?oc=5"
         },
         {
-            "source": "mydaily.co.kr",
-            "title": "손흥민 빠지니 더 불안해졌다! 같은 팀 맞아? '두 얼굴의 토트넘'→UEFA 챔피언스리그 4위↔EPL 15위 - mydaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TYmtlT3NJcm8tSVI3ZWpSM1g1dndtQmJxNFo1WDJZOTVYM0JFOElvZ0wzeXBQdVZMbFlqcWU5QXJsbDdrb01SMzBnb2k1VlF3SU5YZnVxREZiN054QWJsc1p1ckxIZw?oc=5"
-        },
-        {
             "source": "네이트 스포츠",
             "title": "팬들이 \"아침에 경질될 거야~\" 조롱…손흥민보다 어린 프리미어리그 감독의 굴욕 - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94YV8wS2pWN0QteDhlSkVnaTRxNWdzZkdRc2tZSk5wVTNhTUt1eGZOeUFSMF9nSnBMV085SUg2ZkFoXzlhWlJxNXdnQzg0ZV9VNVRlYWRsQk05aklS?oc=5"
         },
         {
+            "source": "mydaily.co.kr",
+            "title": "손흥민 빠지니 더 불안해졌다! 같은 팀 맞아? '두 얼굴의 토트넘'→UEFA 챔피언스리그 4위↔EPL 15위 - mydaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TYmtlT3NJcm8tSVI3ZWpSM1g1dndtQmJxNFo1WDJZOTVYM0JFOElvZ0wzeXBQdVZMbFlqcWU5QXJsbDdrb01SMzBnb2k1VlF3SU5YZnVxREZiN054QWJsc1p1ckxIZw?oc=5"
+        },
+        {
             "source": "Chosunbiz",
             "title": "'두 시즌 연속 강등권 경쟁'에 축구팬들 의문...\"토트넘, 언제까지 '빅6' 지위 유지해?\" - 조선비즈 - Chosunbiz",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2M2RWVkd0FEVHlGdk1IaHZ3SFF4M3h1R0huYkVRVjRCTFBhVEh5cVk5RzNkRklra0NSWWgyaGVocW12ejJXRHZkZ2RCZUZvaWJUUlhFV0h0emNqNnFFLWlTMUo4ZlgxRC01YzlzeFJ4T0FOWldzaEIzSENEb1htYTV1TdIBlwFBVV95cUxOeVZGSnJoVUpNN1pkR2pxM2IzX29tTlREMnROVnliMEcxT3B0MVIzc0FOTXYxYlVKRXZ6TW5ybU5JbnhBY1NnajJDZ1QzVl9NRWVxbXdwVUNMNGd5SGVHWE5IX19zY3gxaUxaRmJkRXVTX2MwVnNxNjBOTklwRGtMUWxPczZiU1BRUTBVQ2p5ZTB2R241X2p3?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "'두 시즌 연속 강등권 경쟁'에 축구팬들 의문…\"토트넘, 언제까지 '빅6' 지위 유지해?\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ybDhNX004XzUxQkdZSXMwQk5waVpmNU1QNkpTSU9qQXl3OEtCcUQ0dWdieER6R3FWMGhpVExXTk1CU1N1RzJJSk9ZcUlPRVdqbkNwdnBERHFHWmdZ?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "\"그러게 거길 왜 가서…\" 첼시 눈독 1536억 FW, 1년 새 英→사우디→튀르키예→러시아 '저니맨' 전락 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnhxWkRsRkZRYl9yb2t6NFB2WE5XcjhzVERFZFlFU09hZWpGOGpEMjJqMUxLOHByeXBNdS1PV1dYSGxJcjhzLVU0TUxDWHY3MWdScDc4ZDFWMEdtUlNEeUg1Q2RUdjdETEsybmdlc293TXpMakFjLUJTNnJkdjdXVTdsVGVmeG9WMWo40gGfAUFVX3lxTE9ob2lVUjZtUjBrZTR3QklYaXlnV2NldzhaZmNFVDVjVVo2VkVLcWJ6M2ViN2tpZXZrODZEQkRRemFld2dWVFQ2dmpKRGZqYm1zb0Z5Z28wU3dOYndHY2p2Q2hkTm1LcHJJNk5iYVhfWGxJX3ZSRklfVVJLSlpaeTJiUHAtTnplX2U5WktQbjkyOXlxZzBOdjRIdFpzRXQxaw?oc=5"
         }
     ],
     "transfers": [
