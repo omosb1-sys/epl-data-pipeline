@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-10 08:37:30",
+    "timestamp": "2026-02-10 09:47:57",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "London Evening Standard",
+            "title": "Tottenham XI vs Newcastle: Predicted lineup and confirmed team news - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOampRcVVHNWpwdGhfVWhqZGhMZFg1ZlFoSGhxMlJGZXZhMW1EZFlUZkd6R0RBeWc2SGU1TGg1SDlUWDVEOHJvdXdhZzJMN2lmb3FHbVZpSGx3LUlnWEhibEZjZkxUOUpaYWk2bTdrenVfUm0wZDBBcS1HczVzTlRmZ0ZtSzJrU3RWZHU1VGZWWE9xckRpUm5HMFpFZjhwYncwMjBQMGVWWGZ3UmR4aGpXWW1UZlE3VFUtV1psQzJRMlRvYUNaT0I3R3NYcmpQdjFrcFJlaHVoMDVxelpjYWV5TlhWUzhrNm41bFRsOXpjTQ?oc=5"
+        },
+        {
             "source": "GiveMeSport",
             "title": "Tottenham vs Newcastle: Team News and Predicted Lineups for Premier League Match - GiveMeSport",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzF0MVBzaFhLZWhJRVJyX0ZMdnQtRktNQzA0Z0hqeU85YVFScENEeHQzWk5fNkRUVV8yWUxyVkE1OFZIcENFSDA2YjRTTEMtaHVVM1p6Mnl6a1pjbjJYa1lUaWVCeTNJODh5TzhBNkJITHp1a3IwM0VzVzBtc1pTallSSWZ5NFdpZ3lxRDNXZEZCOE9jVEF0UFJSNDVkRjJpckE?oc=5"
         },
         {
-            "source": "Manchester Evening News",
-            "title": "How Manchester United should line up vs West Ham in Premier League fixture - Manchester Evening News",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGdzVDNjaVlUMkNOUFFZamMtdUdnNm1xemJicE9Bc0hTS0FLdnhldGhjRjltS3BjX3NGSGViLXppQzIyX3JRTXhUWFVoSUVsczhIaGM5b3RyX2paLU8yRnZjXzNkY0o4Yjc5STF1UHdybmRoV3FXT1dKZ1NoZGhUZ3lSNnZydlhIRndqQXFWOENWWFRHV1pXNjN5UGlSUdIBowFBVV95cUxPRU9IamxQWVhJd1Z6N0xJMGRkRGYxLUlBenhMU25iWHlGcUtSMGFEVHIwVnRMTHFka0lGeVJ2eFN1YTRWTnFEX19CT2FGTU52bEV2OEQ1N0ZxeVFUbV9VQkZUSVhwRnM1U2g5TTROS1c0Ry1xeUlXT0g1TEU2MG5sdlRrVGdWLTBNNVA2c21RM1ZDNG5kaDQ3OHRGcGRNcWFfN0hB?oc=5"
-        },
-        {
-            "source": "London Evening Standard",
-            "title": "Man Utd XI vs West Ham: Predicted lineup and confirmed team news - London Evening Standard",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORVJ6Q0FnTVppcXp5NXh2QXY3cnBQODl3VXhxMXZ3OGJVazVONjZsTEVDcWs1anptcUtZbzNaNWptSmJfUVZLNGhoUm1ScnB0RmZacGdGc1VhbXVPa0pLd3ZPUlJxMXBiUl95VVNkZVJpZF9DcmZMLUliel8tUlJLdEtzN1VEOUJSanNnN2JBRW1xajZFY2ljYVc0SmdFcGJPWkJlbXU2eU1JQ0RkRTQ2SEVZb2dRdTN1d1ZiOWxlSlhqSUpkMm51S0R4ZHVkc3IxQTkxd2dnMmdXdGdLc2RrbUQydjdoSlU2eHpj?oc=5"
+            "source": "talkSPORT",
+            "title": "Thomas Frank could be forced into major Tottenham switch with 10 players out for Newcastle clash - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzRSRVZKMzgzOXV2XzVLUTRwOXFEOWxrWGN4bEpxSGdFVGNfc0tqRmVIZW1LdWNhUnZwS1R4bHp1QkZ2TGlFTTZiYUI1cVZEN3paS3VNRmV1Vmd6aW1DZHRSV05VN0JjNG9paUM2R01TMTZyNGh4UFpicW4wckxFSGM2ZzRfaExXQy1LYnc4X3dkWDRiYlE?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -66,29 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOWJyY0FEQUVKd3VObW80blpreFJXNlZNalppRklyWEc3WlZ0WkFqT0t2YmJIMzR4dVRQQzNxOXllX3lYeXVJLVE1a2t4b3M2V0tIYzhpWlBOZVdxS1I1T1F6ZnMtbmxZT2FMM2dzVlV0SFQ3bi1FcVBDV0t4aUI1ZXNMNUhGUDE1eXpoSTExSGZDVExGamV3cXowNjR0elBXcTRUQVNVSmFMczJiRmMwV1FmOTZ2T2Mxdm9CMXZOWHF2S2ZCRVJJV3YwXzd5TUt6VS01bnVZeHZUZWRENHVVMGFwcEZXV0s4YmhlUVEyendTRm93eE1wb1l3?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"이것도 팀이냐!\" 'SON 당장 데려와'→'로메로가 주장이라고' 토트넘 미치겠다…프랭크 일단 로메로 두둔 \"젊은 리더다\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUYzZjRJWnFwS3BzTmdpWXFra3dLdVRYUEp1aXBMbmg2NzZDYVRmRUN5RU1UWXZyRUhBS1FLV2JqMnFtaGZhQko0RW9UNkhNZ1FTbHVHWDNacTM3NjNWUV8wSVFETzJ0azNXS2cyN2dEaU9Hcm5Uei1kLTgyNjVVODJlTzVMZzVVdHBZ0gGfAUFVX3lxTE0wMzBGcEVCaXR5MEJSMkJKb1lXa0JQLVBVMGpXdmhZTTRQNGw4QmppbDZEWHhYcFRHTFpsMU5IWGEtMWlRaGE1Rnp3cEtwU1lkR1NCTG5URGJJell1V0ozUjNmM2U0N2xVbXE5d05MLWRKWFBySWFibFdWT2lpd1hwZE8yUTkwdkxvdUY2em5YZXJYdGZMd29fc0prODc4UQ?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "'아스날-맨시티 관심' 다 뿌리친다...뉴캐슬 '핵심' MF, 이탈리아 복귀 추진 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaG81ZWVEZDhiLW53LUZreXpvRHNXbjlDWTNpV003bUhJQXY0RzVoN1c0YXBTamhLeXF4Qzh0M0hlV1Rnc1hBSHB2MG01Vy1GbVJNdFhoZGVlcTBFQ2FQZWhmd0dMS0o2SGNRem5MNEU4blpuZENTNmZNOU1ocEwxTGlRd2JOVDFXcHl30gGfAUFVX3lxTE5aWTVEYXp6NXRQaWx3c3hFUml6VG5QOG11dmQ3eDFZMGlpdG5KZGdhUGN0c09KeGh2TC1zLVdCUV9YUHYxTlhCUDFSUDN3dm1lN3NvbkVfclVpcnA1cDFsX21LelhKSC12TmpQM2lUTmhzRzkyYUxtUkNWaF92UHEwZUE4ZjhBdnl3UGdHUW0wanFNYUtwc01NamhsLVRiWQ?oc=5"
-        },
-        {
             "source": "머니투데이",
             "title": "리버풀 꺾고 자신감 회복한 맨시티 펩 \"아스날 추격 가능하다!\" - 머니투데이",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zLVMzX0dRbWV5U01WbjFGbl95allKQnEtSW9lVU16SzJlcmRXY0NDSDRtbVRPaUtEdUdjV2l6UWV2R2NmZ28td0dHRjNmYUhlYmt3d3FQU1E0WGFQd1k1Z25Bb3NaOFBiQVE?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "'아스날-맨시티 관심' 다 뿌리친다...뉴캐슬 '핵심' MF, 이탈리아 복귀 추진 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JWVZ0c2VSbm5zdldUNWpUR0tCYXdNWmE4dFprVm1zbkpkZFZJQXdKSHNLS1JXclRUVjY3YWxqTmp5TUFoWVFsQTFkVm8zTkE?oc=5"
+        },
+        {
             "source": "Manchester City FC",
             "title": "[2025/26 PL R25 리뷰] 맨시티, 리버풀에 2-1 역전승…홀란드 종료 직전 결승골 - Manchester City FC",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3BCS3RmNFFrNWhGRFN3dmd4S3IteExEZi02T1lxSHlIWmRseXdMUG1VbjZWX0xzNDRtdHVEQ3JvVHVCMjF4akpxQThkX0dCZVBTdWdxUFNDVzRoWTQ2NEozRVpCalVTUzBaTEFYU1VzbFlxaUVBeU9XVG9iclZIUWhHSjV4UV9tNzQtTzRsOGF3LXE3YVRvRzgtNkdXUGs?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "맨시티, 안필드 역전승의 버팀목, 단신 수비수 마크 게히 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUUh6TUZjSkVVdnFrM0pJMEVJT0dhWXVUOVJkQ0JudTlLdFl3NHBxMDQ1akNKekpmQkRNTVhfdHAxYm0tb20wSUUtZEZFa1E?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -104,6 +94,16 @@
             "source": "Chosunbiz",
             "title": "'두 시즌 연속 강등권 경쟁'에 축구팬들 의문...\"토트넘, 언제까지 '빅6' 지위 유지해?\" - 조선비즈 - Chosunbiz",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2M2RWVkd0FEVHlGdk1IaHZ3SFF4M3h1R0huYkVRVjRCTFBhVEh5cVk5RzNkRklra0NSWWgyaGVocW12ejJXRHZkZ2RCZUZvaWJUUlhFV0h0emNqNnFFLWlTMUo4ZlgxRC01YzlzeFJ4T0FOWldzaEIzSENEb1htYTV1TdIBlwFBVV95cUxOeVZGSnJoVUpNN1pkR2pxM2IzX29tTlREMnROVnliMEcxT3B0MVIzc0FOTXYxYlVKRXZ6TW5ybU5JbnhBY1NnajJDZ1QzVl9NRWVxbXdwVUNMNGd5SGVHWE5IX19zY3gxaUxaRmJkRXVTX2MwVnNxNjBOTklwRGtMUWxPczZiU1BRUTBVQ2p5ZTB2R241X2p3?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "추가시간에 또 실점...이번 시즌에만 4번! BBC, \"리버풀, 균형 잃었다\" 분석 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGxmaEZET1ZOYzBmQUJrV0RQQlY0NFhIREpEeTFYR0pLbWk1RXBGWW92aTZRcVJVbl9fWUxkdmlIZHJwczNBdHQ2NHY4VlZUSHZuWUV1akc1em5VX1lQS25SLXJWcUlQYVRBc1dWeUJPcURhUjNSZTlQa1ljYjFrNUdFY255WXViMnBr0gGfAUFVX3lxTE44VF9uVlBfV3I5RWxVNjRCSTFkMXBtWlp4NkRzYUFsMFdzdDROUVZkNUFXU044d1d4YXFRZkZuUFpjSXZHWmlldS1seEZaNFExUGNraUJHR3Z0d3BiMnkxTVRnNERGN3pxMzM3alZRelFQdl9seEVUcFlCcnYzc0NmbGV5dUVIMGVrTzg1V2NUbmRBalp0d1BvNVpyWEstcw?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "'카세미루 대체자? 프리미어리그에 있었네' 맨유, '1988억' 뉴캐슬 핵심 미드필더 정조준 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95alI2ZTlvcUUyaHZKbEp1MzQ2UU0tMlkzUVhiZ01HbVFhbkwwbmQ5VmNjZG51SVBaRzdCdk5VYk5JN0lZblMxRmRHbk5Yb3BtV012OU93U0J4Q1RE?oc=5"
         }
     ],
     "transfers": [
