@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-11 19:48:39",
+    "timestamp": "2026-02-11 20:27:33",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "West Ham vs Man Utd LIVE! Premier League match updates, news, score, stream and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkVsWE05VVFXbzBkcDVyaF9HS2JfMEtPM1ZuQTdMSVdnS3hDdkp4NjVOVTFscDB5R2dTMzg1RVVqd3RnZkpka3paS3VYUG9TdG9hMXpzQ05YakhpTkZrbjRERlIzMUhmX3JqcUx2eXVKTHZNcGJ5dXo4QUFnQkRuWkp4N3FoeG1sbFFrR3BEOU00ZmpaalI3VVpjNldneWZLbXpuWDk4YTY4UHhzcGJlVmkxYW5pd3lHcjMtX0stdXBKNVZjM0VKdVgtbUF5b1l0Znd4ZlU2eHM0SmVDTll3?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "West Ham United 1-1 Manchester United: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVVLNXRVM2NMUjhxYU1iblZSa3VqN0xuTUlQUnd5S3p6d2ZPRjkxbG9jWkpCNnA3bTV3a0pMUVJNYVRGQnNuenQyYkl3UkdHQ0p3NjhEQUwwd3dVcnRIZEFtdVc4WmRPSG9abHE1b1V1Q3FVWmo1ZVlJeDY3MWQyVUR5dWVYVU5td2ZEQWU4cTVPNjJWVmdYVkpSclNqQjM4YWc?oc=5"
+        },
+        {
             "source": "Daily Mail",
             "title": "West Ham vs Manchester United - Premier League RECAP: All the reaction as Michael Carrick's winning run... - Daily Mail",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbTVJZDd6LUpOUVBKV2lYbV9vX3Jkd3ptcFdnS1hQRWJNcXpYbE5BTmRfdGRXRDVuREYzWWxFcnJZTE5PTnA1aG5xTWhMTDZfSURGdnNXR3NwcXR3SEt1OGxxSXYyaDJ1RjVadVpfNkZoLUxPMWJKOGR6aVh5WVBlUFFxc21lNUdpTkd1SnF3ZWlJaF9CYlVqTGlBZDlCcjBod3FwVkhqTkQzUWRkZ0w1ajRud1U5RjJtSzl4aklWWFJhYkw3eXFVWNIBzgFBVV95cUxQRzdta3BrYzNlOWlWeDlMa0dhNlNIMWpjODJTUEZJcV9CTmVPeG5wT3U5a2NZazIyZXBaelllMDZKT3FYTXA2RzFYa3BxaGxxMmltUFVKWmVrUkdibmJVVzNQSjdMaHhQZ01wYW81SjJHalJvajhHaEE5SWRqZzVpeEkyN0dzX3I2LVEwN1RLS1lWSWMyeF9EMmo2SGN1VXFxOS1ONlhVbFlCSFhhU0lKMVg2RlMxYUs2aVdnYkpHOHlNeklrSUpERmZiaGo2Zw?oc=5"
-        },
-        {
-            "source": "talkSPORT",
-            "title": "Football news LIVE: Frank sacked by Tottenham, De Zerbi tipped for immediate Premier League job after Marseille exit - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzdnczVKQnpWVnBEQVlfQW9IQWRxUGxxNTF3QnlKbnZQRDlWX2pjVU1ORjhvRDZXNU5kLUVwNVhFU2pxeS05TTl4UWI3ZzV5em1rV3BHUzNHTk1FaksySkxFR0FJSnM5eWdxeDBLaW1yMFpqaGZXM3BYWEtZSGxLN3ZuVjJFbk1sbUtRQTFzbFNLOVVJclViQTVxS2F2bHczUmpVMVVzNVdUYzdRb1R3SUtNdjM0dw?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Premier League title race: How it stands and remaining fixtures - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2cwTW9ZWmRPQW04aFpocEV0RW5CQVRMV1I1RXJtQktmd2dTWUxYdnBlbGhQOXE0cGhaMzJVQmY3cDZrME5fOWd3VjFUd3ZoRVVJcGlGckZtRl9nekJSVG8zWXljX21GQzNGZXV2R2VMM0FfS2V4Ny0tbnZIUzE0dzhQMEVOcVU2Qm4zc1hCeFl6OVZhS2xJSGFsNWttVDNMZlhubjF6aW1tdnlT?oc=5"
         },
         {
             "source": "Stretty News",
@@ -66,9 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
+            "source": "네이트 스포츠",
+            "title": "\"내가 1000% 적임자야!\"…'프리미어리그 16위 추락' 토트넘 프랭크 감독의 자신감 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hMmUtbzdiYl9IOVA4cVR0QXJUa1poaU9uZHo3VGNHNUJzdGhGc1lQOGdFbVVQZU9LcG0zMnpCcDhrVGxKbF9sOWdEVGNOTHBTWE1hZjJMeWt3RUQ5?oc=5"
+        },
+        {
             "source": "조선일보",
-            "title": "프랭크 경질 토트넘, 'SON 스승' 포체티노 아닌 '마르세유 사임' 데 제르비 손잡나 \"EPL 복귀 관심\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3p5ellybFZwMEVZNmRaWEJTTGRLeFFzMWthWkI3bkpPcXV4SEtWU0x2VmVDa0FnZnR4QzJWTkZMOVR1Yk5xSU5iMWt1UmhOWXN6RXBiSHN3UHFhVzdSTnpYeHJDWFl6bzN4WlU2Y2JzdE5SSGVlN1QyejVlYndJM1Jnc3NyVF94WnIw0gGfAUFVX3lxTFBVZ0oxRTFjYnE3QzY3Rm9lY3IySE1ZZTZYQ1BEYmM1elY1UWJ1ekJrdnRPSURSR3hRZnpUWEpTTmVSYW5kekhQM1NaWm1rT3FrSE9qQkZ4b0JGYnpCUkVHckhNeEtTb2RwNjdJSzNaWEp5V3pnQzhSeWpHUERrTHZfY3RuU1V4NDBMVjlOVXYyd1BSMkplTktTSGtDaTBWTQ?oc=5"
+            "title": "‘무무패패무무패패’ 토트넘, 또또또또 졌다! ‘강등 위기’ 현실로...뉴캐슬에 1-2 패→16위 추락→강등권과 5점 차 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2l0ZWlMMlFEV3JtQzVVeElVZEVLTGd5Tjg2MEtBdzNUWUNGRkQ3X1E4eFVab2dMRG5rX21RVHZVa2puczlBRmtOaldqVnQ0blhsU18zVDBjVWN4Uy1QTzJoV3BQVDRYU2FSejRYbkFzOHNFa2lqd3BYVDViSWhvd2syVU1CV25vcThv0gGfAUFVX3lxTE91RlZnd2Y5X19sNE9wN0hkM0dPZTE1eFhtOWxaWTlzRWR1SmVaY2QxemF2d2Y5aFk3VVNUSkJ5X2lYTjRjcTUxWjFXUTFvcVhPTnFLZW1xQjdjMERlZmJZTVU0ZWhXcFNDSlMtVk83MXg5RGRyYWhVNHM0UjhrUl85Y2l3Ulp1MklPVWZMdDdNSE11RG41MjFuamdLS0Y4Zw?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "역대 최악 갈아치웠다...토트넘, '26.9%+아스널 컵' 프랭크 감독 전격 경질 '오피셜' 공식발표 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYYmV2ZGFOdnNrRUdvU0FRajk0bkx4dkpVd3RvZlowYzJWMnhxbEhObVR2UDlmTTZhd3l1eVZDOW5RSzZmZ0xTb3JDbExXd3gtYklsQXJSMGlJMGV2ZXpTMl80azBlcDhPbC1Fdkd0Y9IBc0FVX3lxTE03RVFib285ck1pSHpnTS1fMklfRkQ1VFZMUjZjSTNMVkZ4MlhORjlmb2Zmc3lORU1uUlZZMjRYblJnRVpmWk5yS0o5MGczc0pRamtZQ2t4cnVuWGFsTVBIZmd0UjhsU3BrSDdZREVnWGw1UjA?oc=5"
         },
         {
             "source": "이투데이",
@@ -81,29 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wOElCS0hSZzZ5Wnk1UzRjRGZvRk1OQy1zZGpwYXo5Ukg0bHZ0azA5QnVIbHYydTYxc0dxNWJpQ0d1d2tCZGc?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "\"내가 1000% 적임자야!\"…'프리미어리그 16위 추락' 토트넘 프랭크 감독의 자신감 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hMmUtbzdiYl9IOVA4cVR0QXJUa1poaU9uZHo3VGNHNUJzdGhGc1lQOGdFbVVQZU9LcG0zMnpCcDhrVGxKbF9sOWdEVGNOTHBTWE1hZjJMeWt3RUQ5?oc=5"
+            "source": "조선일보",
+            "title": "“이 경기는 15초 남았다”.. 맨유 전설의 말실수가 ‘우승 조작’ 음모론으로 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaFJWczR0dk5WYk9FRmpJelFMaVgyV1hFR1czVlRXNXV0TUJWWXBCRk1pa0lUU1ZMYmh6WDhmbnFtZnN0OGNJb0lhQW5vblFKUTVJelV2RkFNbzVUQ2s0MUhVRk9ialg2WEhLNGtmSnVfazQwSlBmZGJ2QUs2eV9LTUlSbXY4SHJHdG5n0gGfAUFVX3lxTFBxVVljU28yY0Vacmk0cjRKT3UtVXFPWS0yQUpSNDIyUDIwcWNzZzFUV2t5Yk5mSTNDWEk1bEFRbXI5ZEppYVVwUU1mdkFYRHR4VWc3b1c4S3JRV3RMVkhOSkJWLTFuQU9nVWs4RGpVWDEzMEtrNjlDUUY4RFNKVFdBZzd2RWlRaDkyRGV1VEhKOWI1Mnc4czlDcmFvOXNXZw?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "[실시간·PL] 맨유 ‘5연승’ 쉽지 않다, 점유율 71%→유효슛 1개···날카로운 모습 없이 웨스트햄전 0-0 전반 종료 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZZmNOSjBLdTlYdDFFQkZZREJPMlItSDVaeUF3WVgwOEMxeHlTZ1lJSjVINDQ4MDYtR1VCaHh5OG1mbWV2NkloZ01QTHV3T1B0ZzVSTGRCTjNNbFlFQWfSAWNBVV95cUxQV3dTbEJ1TEJ6WDBnTGF3eW1vTi0yWGt6WW85bzdSNFc0SlVJaWVmQTV4d1FTeVJGSzZ5U2ozc2QzWVJfdG5uMUg2TVRPNGdvVUxGU1dYSzBZTWZqal9GT1hrRFU?oc=5"
+            "source": "조선일보",
+            "title": "프랭크 경질 토트넘, 'SON 스승' 포체티노 아닌 '마르세유 사임' 데 제르비 손잡나 \"EPL 복귀 관심\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3p5ellybFZwMEVZNmRaWEJTTGRLeFFzMWthWkI3bkpPcXV4SEtWU0x2VmVDa0FnZnR4QzJWTkZMOVR1Yk5xSU5iMWt1UmhOWXN6RXBiSHN3UHFhVzdSTnpYeHJDWFl6bzN4WlU2Y2JzdE5SSGVlN1QyejVlYndJM1Jnc3NyVF94WnIw0gGfAUFVX3lxTFBVZ0oxRTFjYnE3QzY3Rm9lY3IySE1ZZTZYQ1BEYmM1elY1UWJ1ekJrdnRPSURSR3hRZnpUWEpTTmVSYW5kekhQM1NaWm1rT3FrSE9qQkZ4b0JGYnpCUkVHckhNeEtTb2RwNjdJSzNaWEp5V3pnQzhSeWpHUERrTHZfY3RuU1V4NDBMVjlOVXYyd1BSMkplTktTSGtDaTBWTQ?oc=5"
         },
         {
-            "source": "데일리안 미디어",
-            "title": "K리그1 인천유나이티드, 레전드 이청용 영입 - 데일리안 미디어",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83eWVZdlZpUnYxOEhzdktFdmtfOTJlN1IzRjBFbUNCSmt6bnBoZFk3UmpyVkx1czhqbE1wSmhSOS1TbTR3T2JmUFZWakFVa2tncGppUDBhcWJiNjNOLU0xX9IBWEFVX3lxTE15OG5NZEtsSHNqcEZ2c2FSVU10enN6ZndZRnZnRURPVUplMnl0MnNzUnI3VlVUUnpfY1lTbVVpV2dOeFQ0eXVWUTFWdllybk1VMTNsa0NDdnk?oc=5"
-        },
-        {
-            "source": "뉴스핌",
-            "title": "'포스트 손흥민' 해법 못 찾았다…토트넘, 프랑크 감독 8개월 만에 경질 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZTdXT29ZclFLTlc5c3VEbFZqbmhUQk0tUVlETm50eVhSNXYwWGVVR3JvUUhEaERkcFo1VGt0N0JEdW1FV2VHQUpMWnJNb0NPZ0hYbDRscWI0Vk5s?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "[속보] 토트넘, 토마스 프랭크 감독 '8개월 만에' 경질 '오피셜'…\"새 사령탑 찾겠다\" 구단 공식발표 - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IcWtZMFFDdG1rdWxtenpHY2tHdGVHNEgxTEs2WUE0b3hCYkhVdHljb3kxZHlsRUJLOGc5OGlBbHRuaWN2WEN5Q0d1ZVpHMmNWZjJfMg?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "토트넘, 프랭크 감독 전격 경질 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lQU9MamE4Wm1FUVRwem4yQkQ4ZlQtV2lMN0FpT1AzdWFzTVNITDdIQ0NFSDdCUk1EazdTMjhZcm9rWkE2N2txdXpxYjZaRE50Z0JFczFYM0JFekEzRFpBWjhiT3VHeTJkdkxNUGdnNNIBc0FVX3lxTFBmZEtqRl84dDRfeUNQdVQzRGNpaFVTSHlnTUZNa3Jwbk9jcGhUM1ZWVkhkWXRvWUduX1B2b0t3LS1GVWJhNHR6Ym9jbVVBczF4Tk01R1lqbGZPWTM3VkUydGtVTThmR0duaVpoamQ4Y3I3bkE?oc=5"
         }
     ],
     "transfers": [
