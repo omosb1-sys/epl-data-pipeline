@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-12 21:23:28",
+    "timestamp": "2026-02-12 22:20:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "London Evening Standard",
-            "title": "Brentford vs Arsenal: Premier League - LIVE - London Evening Standard",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUXVpNTdtNkdramRRY0gyajk4TXgtNTJrMGNObjRNZ3lyTVBpQkx4MHgzTk9ybnVXNVRMbHdjNEgtNV9UR3IxV3hqM3BMdzh2UUdnYmxkVURkM0QtanFjRDJRMUtkN2tSM0k5TUVFeElHNjZJNnhMTjRHUGRqQ1pRemh1VUlGR2FZajZ5RnVJSEJJWDRIR1ZReXRQakJISExUM013bnU1dnRuMkg2cVZ2ZlgxLWNMbE5uSGxMT2hIenJwakg3U0FDWjNIeERLWXM?oc=5"
+            "source": "Daily Mail",
+            "title": "Brentford vs Arsenal - Premier League LIVE: Latest score and updates - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0RPVmljS29JZUJJeENORVRkOG1vWmpiOWdldTJsVzJBcEx2b05xZDJzQU9NeTViREktcUxRZzg2THpCMHE4clVWWHM1ZEJfaTNWM18tS0hMTngyOGFPM3V3QURiR1pjZ0Z4YlNPaVl1WE9OeG5JVV9ydl8tbzhDQ3VRcHN2dzZkRzZRVWlzS2luX3J5VGZ0aUNZZ1VHUUJHZmVqLVJyYVZOVUxCTVFNMzVfeVMyVUVrODVkTg?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Manchester City and Villa win, Burnley shock Palace: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGpnNEpka29rZVZSVjBGZXdOZTZQYlFPdHB5TlpuLUFldGZGOG9KVTBJaDh0d09fdElJMlhJcUhZdG1uXzlTbFVkeWhoemNzb1BUQWRwSkpwSHdiU0Ffc0NxT2FtWEdtZ21ZRlZKWURzS3JjVmdsNjl3VlRrYms1MWRtVVBWZjRRb2ktMk1HOUhhZEk5N201RHdGUzFFVm9nck5UX0JCTl9GRE5tSnhDZnB1VTU0UGVOdEpyanhNLUJ2Yl9kbGVnZjdLcHRnVko4ZW1YRVhydEtvLWV2V3c?oc=5"
+            "source": "Sky Sports",
+            "title": "Premier League Darts: Gerwyn Price defeats Michael van Gerwen in final after wins over Gian van Veen and Jonny Clayton in Antwerp - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPak9SdE5kNWV2NFRkeVhtWThEQU9oSHpaRGE1VXBTVTVJMGFRRS1IbmpzUm53Ukx3RmtmRFBBNEVlX0VZUS0yMUZhai1TWjFOWjcyb2l3M0FCaWU3WDBfaFhJOHEtN3h4c1N2Y0xuTkFOMkliMEk1X2xJb05nNjJPRXpSMGNkU29Sb2JQV0VXWk1sWnJtTXNKamJrRlFsN1pvcnp6NktnNHJjSFkwRV9saS1BR0tTamU3T2Z3YmZ2TVJJWmt4bGY3YW44UEE2UFhlTFQtc21Nc0U2MnlwWGdzVDc2TllnMXlhOWdTZDhXVUM2LXZGeUVFNWxpYTc2Z3Q1WGtIU3VRZ05FalpC?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Man City 3-0 Fulham: Pep Guardiola's side close in on leaders Arsenal - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOYlVvNEV0WmxYdmxyMWUtR2x2VU4xaTBSNlRGR1lqNzRXX2pXUWVxdXdLb1NBU2doS0cwaDBIRU1vbDQybklRa0hSWWVFeGZzYmZ1M2F0dk1ZMXdMT1lWMjJTSDhpbTQ?oc=5"
+            "title": "Premier League: Nottingham Forest 0-0 Wolverhampton Wanderers - highlights - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIWkRoVThWLWMxZDI2RnRYU19lQ0o2dDJrNVl4MG40am5ta2FLQUZVbFR2NFV4MWFxUWhiVk12V3VIT3lieWZaZkFLQU16TllNcFlwT0dhSUR3REw4eGRWdDNDN0pZRms?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -63,12 +63,17 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1RHckQtYU1ISjRINEpCNDNUSDZEZUxkVEdGdnYzeEhILXJKYTB5RlBsT2tocDk3T0NiZWFSOTNQci05S0RkZXgycW1GRmZCc2RBclB4X0FHZllfQUNxajhjMFZJTTZneGtsN212V2RNRHZqLU9qaHBVTktjQTZPclNGMDhWVkF1ekdaaTZzYnZ2anBzRWdvY1hpZFMwSVZJMFBtYUd5eGtHdXZDb3BkSGNnYkZnYW8yNEx4eHNBNGw?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXVSemdJSFE4bFlrdmtmVU91VE5KY2VPVDBBdTdwRU5kYU8zcnZOVEFRMWJEckF0MG40cEh3cmctMXZKVlhNQ0RyQURTMG9RTEN1a25Lb3UtamduNy1JRXBJOXBlVENfeWVpRnMyN2NWYi1qd1M3UkdVZmY5Tm96Z3JHVnp4M1dIeGoyd2wwSW8yLVcwVU00bmRmWDJXSVVFczZWQWh3Rzl5QmtrWU4tbGF0dUJYbkZtWXdoRk9wMFhxZw?oc=5"
+        },
+        {
+            "source": "이투데이",
+            "title": "맨유 극장골·토트넘 또 패배…프리미어리그 순위 정리 - 이투데이",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iNC0yTTQwNS1IS21KRnRrQjUwcFJzdDZTOVd5eF9nbEJaY1RwWWREdWNWc2RQT1dCYW5Tak0tYkU2NFNvVnN4cXNlelRJLS1BUDMySA?oc=5"
         },
         {
             "source": "네이트 스포츠",
-            "title": "[오피셜] '날벼락' 韓 축구 대형 악재 터졌다!→결국 EPL 한국인 전멸 현실화 '최후의 1인마저 부상이라니…' 월드컵 홍명보호 어쩌나 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UT1NzQXpXdV9NSngtSURMLWFLNGZkTWVZYS1ZbEJDUE9lU3l4bC1FbmJyWlNZRjBGOUtqY19JZEFVMFZRUTFQT1FSYTB1NlBWdTdjcUZFd1pSNVJ1?oc=5"
+            "title": "'프리미어리그 최악의 영입'에 맨유 선수가 왜 이렇게 많아!…\"1위 첼시-'도핑 양성' 윙포워드\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mOEtSWTBQOEJwSWdQc01iZktOU0JUUXl1dURXRGlVdDMzT0JBZ0Z5SjZHY3ZWMVNES2hvelJwVVNiYm5xYUNwVGZ1b3hUZGZqODZsQmZQbmZ0UWRp?oc=5"
         },
         {
             "source": "데일리스포츠한국",
@@ -77,8 +82,8 @@
         },
         {
             "source": "v.daum.net",
-            "title": "'653경기' 40세 밀너의 시계는 멈추지 않는다...EPL 역대 최다 출전 공동 1위 등극 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53dW9xUzNhdXM5eWFBU1h3V0JZTkk4Nk1MMlA5TXNON1lfVWVXU2VZYlZkSHhzaFlGY0pjMF81YnVKS2d4c0FMV0pBRXZkN0U?oc=5"
+            "title": "'카세미루 대체자? 프리미어리그에 있었네' 맨유, '1988억' 뉴캐슬 핵심 미드필더 정조준 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wOElCS0hSZzZ5Wnk1UzRjRGZvRk1OQy1zZGpwYXo5Ukg0bHZ0azA5QnVIbHYydTYxc0dxNWJpQ0d1d2tCZGc?oc=5"
         },
         {
             "source": "m.mksports.co.kr",
@@ -86,14 +91,9 @@
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GQVJEVHpQRmdQdnU0em5LcHFIU1p5Ni1RUjYwcmkzRDNrOFJldzUxRDRpTTVrdS1rRHhqNmw1ZjRsQmNudHMtVmMyc0UtbUJYWlZYM1J0RGdvVTA?oc=5"
         },
         {
-            "source": "이투데이",
-            "title": "맨유 극장골·토트넘 또 패배…프리미어리그 순위 정리 - 이투데이",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iNC0yTTQwNS1IS21KRnRrQjUwcFJzdDZTOVd5eF9nbEJaY1RwWWREdWNWc2RQT1dCYW5Tak0tYkU2NFNvVnN4cXNlelRJLS1BUDMySA?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "'프리미어리그 최악의 영입'에 맨유 선수가 왜 이렇게 많아!...\"1위 첼시-'도핑 양성' 윙포워드\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSUt5cE8yal9kYjdyb2I5NnRWbXprYjRDaFB1ZzV1QjZEenNFdzJkalh0eHNka2trdURNRE5xYTlHcEFGRjZqLUJidDJNaUl2RW1faXI5NDNjRFVob3Q5aGpMSkMycXQ4QUhnNWNKNHBZaXNk?oc=5"
+            "source": "xportsnews.com",
+            "title": "\"손흥민 후임 잘못 골랐다\" 英 BBC 일침…프랭크 감독, 토트넘 부임 8개월 만에 경질→\"로메로 주장 임명, 득보다 실\" - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRnRUWnhUY0dlUk1LbTcwYmJScFFObVNqM0RuMUhzMjM5WksybkxsdklXTktYeWptT3dQUS1xTHFhQWJNSVU0aTRncEtqUkVwb2tsaA?oc=5"
         },
         {
             "source": "뉴시스",
@@ -101,9 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ESFR1UWpJTkpzdzQ5NEJZVjhKcU1FT0tCMVpyendUWFE2Q1dZRlJZNTE2TDlNWWZaZlp6MzRXOFVPa3RIYjE4aVphVGVEQTI0eS1vVHZ1OG1vUzVjd0t3WNIBeEFVX3lxTE9TdWVJVWtNc1I3VlVyWFBvbDkzNFRWbzhSb3NZRmVvVmNUNjI4YklodV9QQmJRb0dFbWd5amlEQXFVT09raVNOOU9pN2p2Rnk2X3NyYU1FVGdtUmV2dkxXOFJMa05YMWRWMVNQX29sNUh1S05NVlBFRQ?oc=5"
         },
         {
-            "source": "sportschosun.com",
-            "title": "\"토트넘 빅클럽 아닙니다\" 프랭크 경질하자 포스테코글루 폭탄 소신 발언…발칵 뒤집힌 수뇌부, 이유있는 손흥민 '大탈출' - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmX2xQd1dTYlBTamZweEZRa2s3bEV1WENJMi1LODlvSUZnaE96SUxkVkpud2hJSG1JRGNOYktwd3BhOVVXalJSbjAzNy1aVEFNWHd5RG5hVkRzdGhIUUVKRTkwWEhYbW9fNGZtX0ZISXk4UmtYRmpZTlU4c1diUdIBd0FVX3lxTE1mTTV0TEFpcXVBWVROY2Nub2JId0dXMnR2cnl5LVo0c21kSk5KTWRCWFJMVWZodF9QeXhMX2hPa0Q2RkhRSUpUQTF4eTlYWC01aGVmUnFXRWptaUkyenFhUHpUX3BaMmRhMFVOUzEtVjhYRFR5V0pv?oc=5"
+            "source": "네이트",
+            "title": "[오피셜] 불멸의 기록 깨진다…40살 전설, PL 역대 최다 출전 653경기 타이→곧 단독 1위 확정적 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hbnF6THFkUUktTjNtczl2aTN3SjFLSS1GUDZKY2ljaS1UaVFQWkFjZFF2NXgxQWNyWmhna1dXTHBmbHRuVTFjQVNQYkNILTJhTnF5OHBCUkluUVJibmJsNFR1OTJSNTJ0Y1JXT1BYd2lSU3lpbkg0MA?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Premier League transfers, January 2026: Confirmed ins and outs for all 20 clubs",
+            "date": "2026-02-12",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
