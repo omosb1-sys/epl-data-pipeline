@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12 07:43:27",
+    "timestamp": "2026-02-12 08:33:00",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,14 +11,14 @@
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNDIxdEFoOGE2WXpxMGo4SGZBMDJNdFEzem1Ib3RsbUdRV2xzaGFIcTdRbHpVSldBVG5HdVJTZG0tTmxvdHVpQUJuRlg0N3ZQOGd1MU00Y0l3ZEVISlZvWWxB?oc=5"
         },
         {
+            "source": "BBC",
+            "title": "Premier League: Burnley deepen Crystal Palace woes - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YT01fb05JcFd3ZEpWNF9lRGdsdXBpRkNKV29fSGlaRlVPenRFSWkxQlVWX1ZmV210Wl9RY281dW1CNzBDSVpBTzV1cksxQm8tWm9meTl2WnhEcHBMZU9hSXJ5Mm5jamc?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Manchester City and Villa win, Burnley shock Palace: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGpnNEpka29rZVZSVjBGZXdOZTZQYlFPdHB5TlpuLUFldGZGOG9KVTBJaDh0d09fdElJMlhJcUhZdG1uXzlTbFVkeWhoemNzb1BUQWRwSkpwSHdiU0Ffc0NxT2FtWEdtZ21ZRlZKWURzS3JjVmdsNjl3VlRrYms1MWRtVVBWZjRRb2ktMk1HOUhhZEk5N201RHdGUzFFVm9nck5UX0JCTl9GRE5tSnhDZnB1VTU0UGVOdEpyanhNLUJ2Yl9kbGVnZjdLcHRnVko4ZW1YRVhydEtvLWV2V3c?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Crystal Palace 2-3 Burnley | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUJsX19IWWpuRE1ReExFS2NvaVJlY2pSMHg5YVlFZ3pEU0s1ZGF4eHlmT3IwWGxtMVpXNFYwOVdtRzJyMHM4MHZEZzNVZzEtQVdvNXkzRUY4SFRSdFpWbmJOTUhJZXZ1V2xsVm1vaHNtOXp5TDdWaVlZR2lEWnQ1X2Z0blFETVZ6aUNRRHMySkhnMmpjNXhXdTJwOGRuakhtX2VWeWNnYzlCTU9UZzlaQm02UFZDbVdmQTVQdWU0NkZ1UTA?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3FuQXlqUmRuOFZiYk0yVHZ6c1FkRnBPRWtueS00SUxhamdqSkxaNFQxYTZpOE5jbFlDckg4RkxUM05sLW9fSzMwNl9aNmtLYUd1V1pWdWFuTXZLTEdGZ3JOckVfWlF0RzhCbE9CWU4wdWw2WTNLYU5SdVJYaUhFYnVCOTlBZlJ1eWxrQzdteWdBeDBXMWUzdW82T0JrQVNVb1Q0bG1UbEkwWHRpUEt2YTZqV1BTbkhMRWpFUlh6eTNqOV9V0gHKAUFVX3lxTE1Fcnlwa2xicDJtUVpGVFFxRnE5WEJnSGcxc0l0aVBLMjhjOGJiRGRnREE5amlOMDJBcDNtcXktMExNYTJnQnd1OEZsdEtwbHp5cHVUeUtwNTRqb1VFMkFGdTRGaHdSbXJIck4yZklycUVhSmZ1N3pScHFHU2xZdTZaYjFHLWUxSUd4bll3OW51TDNBTFczWXRhWTIzM0ZRUU53MDdKLVlJUEt4R2ZaWUp4YkRNMEV1R3I4bFZWZVRFOWRyTDdBRnpWMVE?oc=5"
         },
         {
-            "source": "Stretty News",
-            "title": "Fabrizio Romano confirms De Zerbi exit as Manchester United manager race takes fresh twist - Stretty News",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXplTk41OUpFaENVYU5jMnByeTgyVUotY2FhWUF3YjBsV0hWSVlJWXpUVUxJOTlsYmM2M1ZLcXBfZGRCa0tfVVY5YTVDVDhpWlNuRi0wcXB3SlhkT09hcDNWZFlRNmlPbl9RVElBeFRnMkpyREVHTXQ0TXgtZ21UbldldVA3NW8tLXNYdUUtZl9ybzlOVHBWaWtBY1FZcWIybm9HdDBja1NpZkdWUTJ3Zk1KLTVCWENXMDZhRFVabWhkMi1o0gHKAUFVX3lxTFB6dnk3cE03cVNCbEh2dVhocmNFYVFGTW5ZeFg1U1pVU3BieWxWbXFqWEVULWkyY0JNYk5oYVJ1S2NzSDljVm1zd1loQWd2NEN3MGlmam1zN0lPdkxJanNULXJzR1VnakU0akE4ZHMzYnJUZFlXVjg2MnFvX1ZWNnZWNVozS2FjckxBbkxYeU1KMGJjZER3Y09kZHdTT0hvMHBFUHdnN1NGM0ZBbGt1VUpwLWNsVmtBYzlUNXVadWpoQ1dtT3JNaFhVMVE?oc=5"
-        },
-        {
             "source": "footballtransfers.com",
             "title": "Fabrizio Romano Transfer News: €100m Arsenal SHOCK, Rogers to Chelsea LATEST, Diomande to Man Utd ON - footballtransfers.com",
             "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNU0kweDJsWGhuUjRSYTBGT3cwY3FMeFhhejVrTWFFcFVSTTIyRmE2S2hoQXA1ckx0RFRtR3Nxei1kbkMyb2x0VHpYM3N1N2hVbE5CUlZjdVFMeXJBdFpTTDNEdGNmc2dRVDdSMnlpQVBYVXpEeXgxTl9iQjBxYVg0WDNYQXRfUHppeXRRTmRFV1g4NG9jSVRlWlZSVG9qMVJzOV9FRWhIZTh4dWZYMzM1UFBHNS1IemM2M2VwQVptbU9qOVpZTkJhQjdTZTlKMy1oV20xaXlsMDNzQ3ppVndoVHhQQVd0ckRoQUZwVUxBQW9OeG16MjNQazZVVU9GWWkzZlgtR0luTmpleG90OEJ5VmNjRWxYU3c?oc=5"
+        },
+        {
+            "source": "Stretty News",
+            "title": "Fabrizio Romano confirms De Zerbi exit as Manchester United manager race takes fresh twist - Stretty News",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXplTk41OUpFaENVYU5jMnByeTgyVUotY2FhWUF3YjBsV0hWSVlJWXpUVUxJOTlsYmM2M1ZLcXBfZGRCa0tfVVY5YTVDVDhpWlNuRi0wcXB3SlhkT09hcDNWZFlRNmlPbl9RVElBeFRnMkpyREVHTXQ0TXgtZ21UbldldVA3NW8tLXNYdUUtZl9ybzlOVHBWaWtBY1FZcWIybm9HdDBja1NpZkdWUTJ3Zk1KLTVCWENXMDZhRFVabWhkMi1o0gHKAUFVX3lxTFB6dnk3cE03cVNCbEh2dVhocmNFYVFGTW5ZeFg1U1pVU3BieWxWbXFqWEVULWkyY0JNYk5oYVJ1S2NzSDljVm1zd1loQWd2NEN3MGlmam1zN0lPdkxJanNULXJzR1VnakU0akE4ZHMzYnJUZFlXVjg2MnFvX1ZWNnZWNVozS2FjckxBbkxYeU1KMGJjZER3Y09kZHdTT0hvMHBFUHdnN1NGM0ZBbGt1VUpwLWNsVmtBYzlUNXVadWpoQ1dtT3JNaFhVMVE?oc=5"
         },
         {
             "source": "The New York Times",
@@ -88,12 +88,12 @@
         {
             "source": "v.daum.net",
             "title": "[PL 26R] 강등권이 보인다...토트넘, 안방서 뉴캐슬에 1-2 패배→리그 8경기 무승-16위 추락 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vMWpyX0lNMjE4QVhhVjJIcW9RSkI2dUk4Qi1ZNV90cnpyTGsxRUI3MEtYRV8tWHdOVlVySElKQzZxeE0yaWZmT2JmbG1OZHM?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DczNFUXdnWUZWY2NVcllkMGRQQTIwM1kxOXZYQW1aNjdJSEstaFhRT0tmbjVfcFJxRXFwUkFjaEpqOUhydnc?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "[오피셜] 토트넘, 토마스 프랭크 감독 '8개월 만에' 경질…\"새 사령탑 찾겠다\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xUlBWcG9KZ0ZaU0dvdWNRZzVDQVdkMjFYWVdkcHdSbGV2b1hvWFNoVHQ0UGtiUDdDUF94YjVfRGtQWUo2a2t0djlYZTZzanJaR1BBMmQtdGJsZlN1?oc=5"
+            "source": "m.mksports.co.kr",
+            "title": "손흥민 떠난 뒤…“토트넘은 강등권, 경기력도 최악” 루니의 송곳 비판 - m.mksports.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GQVJEVHpQRmdQdnU0em5LcHFIU1p5Ni1RUjYwcmkzRDNrOFJldzUxRDRpTTVrdS1rRHhqNmw1ZjRsQmNudHMtVmMyc0UtbUJYWlZYM1J0RGdvVTA?oc=5"
         },
         {
             "source": "이투데이",
