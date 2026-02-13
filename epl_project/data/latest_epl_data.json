@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-02-13 21:24:43",
+    "timestamp": "2026-02-13 22:21:50",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Arsenal: Will Arsenal's end-of-season form haunt them again? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVnBsRGFBakhNTnVnNDBWUkVmTnp0aGFobkFFbm4zSzU3emg5YzloRk5wTVJOTUowYm9zQWZ1aEJpQ2k5ZmotUGdGU3p5Tm1KQXFyTVNVU1preEIxRlRnNF9HT1QxQ1E?oc=5"
+            "source": "Sky Sports",
+            "title": "Arsenal's Premier League title hopes hit at Brentford as familiar pattern of struggling after Man City play continues - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONGFrTWR4RGNndkE1UkhFLVRZTlhKeWRLR2x3THBLanJfeVl0MHU4UndrZFRmaHU5cUI0akcwZ25sWG1wZlZaQ3hmRXpBUU44NDU4M0dXVm5rbnRtckpETGhCUFV4TGd3bWlIeHVDMUlFTTkwYzVLbS1FMUdrUzhBNUZUQm9LMUtZcDNqTGRBbXpvZkdwcmF2cmNraWtQRUF5TUVGbXZJTjZzal95VlY3bmk0QzVLVWFfb21yVnNrbVJEdjJtbFJuVXg2TDZzRVZwVE1QNlczMUdYZkZCZjFmdUVGTmNuNVJFakJIblJYUWdDSmtkRDQ0NUhxOXRIWmgw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -67,18 +67,18 @@
         },
         {
             "source": "v.daum.net",
+            "title": "‘손흥민 동료’ K리그 왔다…파주 프런티어, EPL 출신 루크 아모스 영입 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSnZNUWRsMDd6dU4wQTdHbTlzRjQtMVZMZFdIV1BDcmVaTWFnTkhSWUpmcE1PODdodXU0Mlk5RlBYVXBETEdiZThlWWF4OWc?oc=5"
+        },
+        {
+            "source": "v.daum.net",
             "title": "[공식] 신생팀 파주, '손흥민 동료' 영입! 토트넘 성골 유스 출신 루크 아무스 합류 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45dW1yempiWFVxeURmS0VPclBfeHVQbl8yR3BzWE54WmhBY09SMTMwcnlZZlZWd19lMURUYk92YWVVSWRESzNYMXNBQnhaSnM?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'5경기 무패 행진' 맨유 반등 이끈 캐릭, 1월 이달의 감독 선정...정식 선임 탄력 받나 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XR0RyanVrUG5Kb2J6LWVhaDd1RWFQUHZuVHhoVDZubzFUaWZHYm42MDBnZFZqMEhvVnozemlzUl9laTI2M1dwbTBYbzExSms?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "'브렌트포드와 1-1 무승부' 또 흔들린 아스날, 맨시티 추격 속 시험대 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OUF1UlFJU2lzNHZNWEx1YWJnU2RKMHpEb1U2VnVkb2NtakpuU0x6X1FzNjlFM0dZRTdQcEs0N0xVazdLMGc5OTNYNVR1VmJDZENtZjR6NWVqSWNiZ21GWDNDeHRFamR4LVE?oc=5"
+            "source": "네이트 스포츠",
+            "title": "'초비상' 선두 아스널, 또 우승 못하나→2위 맨시티와 승점 4점 차…브렌트퍼드 원정 1-1 무승부 [EPL 리뷰] - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85UFZpN0lEQk1RZ1JjWU9yYm5Ja3FvTG5qZDRGajBhTVlBbGRvY2EzSlBnenBnYTlLcFdOd0p4VEtFLWpXNV8tdFFaV2dLNTlKZnhHMXpyaDlpSHJC?oc=5"
         },
         {
             "source": "Manchester City FC",
@@ -86,14 +86,14 @@
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3VZUEFwUk9TQUxqZ3hiUnJYYjY4d0FfTHNuWHo3QnozVFBNMEtpZFVET0F4eGl1Qnhjc2g1X2trc2VzN3ZIeTdwRE40MDVYcFdTcUV0Y09pcUFJVGM2R3oxSmEzTnhYX0JseEdZV2tBVkJ1TFpzWldIejAxVXNtMkd0VEk0eEk2NnlDV3ROSTFfRVkyY1VSemZ6bXZiMXFGMHN6VDlPV18?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "아스날 또 뒤집히나…'맨시티 승점 4점 차 추격, 리그 1위 또 불안' - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQVkZnN3lVLVNSM2VwME9EMlhsUnl5eDBDMGlCdkYyVDEwNmZKM1c2VW5BcHRfbjBqeEY4aXIwbXZJZHc1QlMwRUlQN1cxaDlqLWFFb0Z0ZFQtYkJt?oc=5"
+            "source": "Manchester City FC",
+            "title": "[2025/26 PL R26 리뷰] 맨시티, 풀럼 완파하며 우승 경쟁 본격화 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmNqdnY1cmRON3p0dDFlajk2Yl9CaUlMc3QwdFg3Ukp1MzdtUlozeDdFMU1OZW9veXdjODZ1UFJJclhVekJiVzN2b3g2MUR4N2MyaDFWRWpFSVR6b1lWN1FaTFdqT0FOVV80bzh2NU9iRld5Y0trblV5MnNudWZkNUg5RXUyS1NPWm51RndrRGViR1ZkZkxHN05vRHVMMUZGZmR2aVpYMU96R01L?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "토트넘, UCL 포기하고 EPL 잔류 집중하나…임시 감독 선임 계획 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EZWNsRnRLYmhaWTRjRWp4Y2lHMU1YNmVRcDBmX2t2TVk2eFhMUmRvVTlVWUhOdXlnX19zcUZNdThLSnpzRnlGUERySTZlWlF3QnBpamJJanFTLWhP?oc=5"
+            "source": "v.daum.net",
+            "title": "[오피셜] '손흥민 전 동료 K리그 왔다' 파주, 토트넘 출신 루크 아모스 영입 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SemxDR2k3emNkdE1qaTNRMGVxY0Q2TzlxdFYzVFBybW5neUFjY1RyYTZORGI1Y0I0YW9Dc2xHRFR6dGJycG4xam1ETDBkenc?oc=5"
         },
         {
             "source": "뉴시스",
@@ -101,9 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1U2xpdzNUdjlnSDQ3VnNMU0xsbW1ZcVNsOU9jdEI1YWYwZlYtbTdkblN6Rnk3S1pLUnVBNV9PSVVDMjhJZDI0N2NKSU1vdko1QklzSGNhdGNzeG9OLVpXTNIBeEFVX3lxTE9rNzRUNTlQb0lTWUNPaVAxUUN0M1V6ZW9McE5Cdl9EYU0yOHFKVV9SUlFNekFDTVpZTC1LMHBTcUo4Z040SktSaFF3bEUwNW9Ga3dFN3JHVDBPUndodE1HbnAtcXQ0dC1CdUVyWWpnc3FxTjlYbmh6ag?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "손흥민 없는 토트넘, 강등 위기에 결국 조기 감독 경질 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUNrT0drRFNVVVZ3THJXOEF0U19iQXFkMlkwQ2pZa3UyNTJyV2VQbW90aHFuM2k4M3laRm9oOTF6emdLYVVENFlhVDkxWDVpWm9sVEpEYmpzaXhYZkpnMzF4NmZOVVdFbnVtZWprTmRqMC1tSFg2bUY2a0s4RW91NmoxQ2MtWnhKQkFV0gGfAUFVX3lxTE43blVqUVFEa3pxY2NINlRJUmpsZzBlMXJHVlBleDhRSlY2cXQtT1RXNXEyZTZTLXdQWVRMTDdxSk13NWd0OUxFT3hudlY5UWJOejR3cjdfOXlUVE1jVlMwWUFsaDI4WUFqcndlQVRtdURDczMzcFhQeHBiRUh5WWt5VUhab2t1RGdiaWhxd0piZTB0SXpmbGtrZHNfYzNWOA?oc=5"
+            "source": "네이트 스포츠",
+            "title": "토트넘, UCL 포기하고 EPL 잔류 집중하나…임시 감독 선임 계획 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EZWNsRnRLYmhaWTRjRWp4Y2lHMU1YNmVRcDBmX2t2TVk2eFhMUmRvVTlVWUhOdXlnX19zcUZNdThLSnpzRnlGUERySTZlWlF3QnBpamJJanFTLWhP?oc=5"
         }
     ],
     "transfers": [
