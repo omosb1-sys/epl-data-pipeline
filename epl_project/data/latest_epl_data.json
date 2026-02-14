@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-02-14 15:15:04",
+    "timestamp": "2026-02-14 16:16:10",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "talkSPORT",
-            "title": "Tottenham rejected interest in wonderkid Lucas Bergvall from two Premier League rivals - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLU55MGI2TG5YR25GV2FjVXRTdXprclFWS0lOQTRNbE43TEFZWnBNNlJEV3JpQjBHTU9mUC1KV2RyS3ZiS3cyTlhTcnVzVEpXem9FX0RwLWRSMklJdkR5U2cyT2hST3NUeDgtVjE2Y05Od2VIaXY1YU8wNWlsOFVYMUl2cDJ2TVlOWjZINnp3cXNFcnpNYmNhQw?oc=5"
-        },
         {
             "source": "Sky News",
             "title": "Premier League pitches £750m annual boost from ad sales revamp - Sky News",
@@ -17,8 +12,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Best Premier League 'Valentine's Day' moments! - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWxUVWJBMUNOX0JyMUJEckRkcFFwaGlwelI5aGkyTVVVWTZGQnBnMU9tWnl4eUx6ZzI0dFhRYk00V2lzc1k4TFVFX18tX3BTQ0RLTkloMHdWWUlibnJpTWpoLW0zWXJka1B2S3dFOHZhRFNVQUIyeE1DQk9aRTBrU0lhTDdGRWtGc2d3M01vOUp1QnU5aV8zUHZaWnJXeXM?oc=5"
+            "title": "Man City and Arsenal locked in compelling Premier League title battle - is the Gunners' grip beginning to slip? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZTZnSFZmeksxMHFGZnNoMlZxRWhsQmM2MjJDRmJNZVJoaUxHczIzcDZSMmlBOVlYRGZkZHNxV1NSY0haOWFLUWZfUEhpMjVXeXlIcTNyS0w5MnVHMklTREVOX2ZCaDJROWRCVUtqakRRb2xMWjd3LS03Y2dXSnJ4OUxvZ0NQb0lEb0hqdm9HSHVEQ0l0STNIc1V0dFlrOWhUVkN5VGp1NGxDTjF4YlZTelQ3Nm03bUR2YU1BX1pESk1ra2ExOGNqbWN3ZkVrQUVmYXdvTm90Uy1WaFduYjlnQjBzaXlwc2p4aTBjT2xkS0xVT2Rq?oc=5"
+        },
+        {
+            "source": "The Sun",
+            "title": "Celeb barber loved by Premier League players banned from driving after boozy rampage in £180k Lambo - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3owTS1BdHFDemRQbU9yS1pvWXhxNmM4UkdwX1M5eGZVbVZrUDBIQU11TnRfczljekFZeWxVd2FhUG1qRFFyY0JpZk5lT2otMkhkeVJqVmhMSVFjN25JMUtrX2MtWjMyOC1BQ2ZIREt5dm5SaThOc1EwbHZLSDlxR2hXNkU5MURqRTJoUkd5dXM0VGdp?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUlJOEJfa3YwZk5VVTdoRjIxQ1Y5RHloWGp3VzBsUHBBYUtSRE1OVFN2WFlkLUtfRG5aMFgxTmIyZW81bGxWUDN0dU10ZHFaN1Y4V1hWZlBjQTB5SUpCa0V4YTdQc2ViX0NMUXVlS29VUm16OWdwa2V5N2ZfVlZBR3JJR1QzUy1HaXJwbHVJUnRQMTVnSVRpbkVrc1Q?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Tottenham confirm appointment of Igor Tudor as interim head coach - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWtHVlhzaWFIOXFQQncyWnlUM1BWLVUwVUtiT2Q5U0x5cjNPLVVGLUI4ZEhMUkUzZjZxMHlSejhvVUJ1REZ3d2hCWXhSTWU1b3NkcnpjemNaRHlLS0d1VFhuekdkeHZBVk93dUtCVHlpcDhzcnFfekE1NmFoanl1RWcxNXlIZEoxdDBvMjFFaw?oc=5"
-        },
-        {
             "source": "Pain in the Arsenal",
             "title": "Arsenal got rocked by the last injury blow Mikel Arteta needed right now - Pain in the Arsenal",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTExZa2ZsYjdkMDA4MmRkb09zZXgxSU5PVkcxZ3NpTHRfbDZrQmdJcTJyXzJDdWtyNWdpZERDbnJWSU40a0dycjhDMTUtMlpReUdVZ0M4bFkwSE45UW9tR2pXcFNERjU0aXk4Z3ZfUzVtS01hMW1BcHEzY1o4c2tVcXNhTU96VkU?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Thomas Frank sacked by Tottenham after eight months in charge - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2NVQVh4ZmpJRW12UE1VTldaZUhCZzRuWUtjdm90cDQ5U3VjbWJxM2ZOREc2d3hJMWZWWUo1U21yNXpwdjNnTWQwem5maElISW4tZGkzMEc2WVdjTUxGNmVRd2RYczZSZXFDRFJrRUc2YVRsT3Y3aHJxX1B3ZkdMeElFWWRFQ19UN2c?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -58,17 +58,17 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "[EPL] 강등권 위기 토트넘, 4개월짜리 임시 사령탑으로 투도르 선임 - 네이트 스포츠",
+            "source": "Sky Sports",
+            "title": "Igor Tudor: Tottenham confirm former Juventus boss as head coach for rest of season - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVk4wNWZiT2hYRl91MzFYZFU1TnpDc3JQdnJ6N2RvdjNLaFhwUlVLVWJvdU5CdXdSSXROWG9na0dvR044QzVha1ZwRDduemRraE5JYVc4eWFaa2pSblMzOFc2Nzd3SV9MTzhVNWxRei1NeXVzMGRUTkROVXZkUUlIXzlDVkNJX3BOWVU2bXhkZHFHVF9KTXZWOHo0QnJOQTZZZk5HUmg1NlF5UzJWUHJHNzcwLTJQWnJfdlVSc0tRWWlmdVdHR3J4Tk9Fa1FUVUZXX2pN?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "[EPL] 강등권 위기 토트넘, 4개월짜리 임시 사령탑으로 투도르 선임 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tS1dGNkZHdU5JQjdLTl9BNU41YjVxclRpd2ZyNVp0bTVMa2NMZHg5bXBKTklabU0zZU9iUlY2VDRySlMzcE9HWUF2YzltLW9pclVhV29sYnF1d1Zv?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "스페인도 '프랭크 토트넘'의 기형적인 승률 조명...\"리그 승률 꼴랑 26.9%\" - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVdDBHXzBGYy1XS2o2UDRNbUs0aEF5ak96NElnYk1xSjVnRXJyYU90YjEydzBDblpKS1FvRzExMGVwOUtkT0VpVWc2YjBfUGhxcmtvMWJuTXZ1eE1MblJfdWk5cDhGb2tHeWc?oc=5"
         },
         {
             "source": "xportsnews.com",
@@ -76,9 +76,19 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05ekpjV2ZUVW00ZUpGLTJHckhROGZzakVJZEVFVFMxR3dzUnE0cjlSVzJYOE80cVNvNjJaaVpFMHlqMl85b1lNVEdMLUNDNFNxMHN6Vg?oc=5"
         },
         {
+            "source": "sportschosun.com",
+            "title": "'손흥민 떠나니 이상해졌다' 토트넘, EPL 보다 UCL+UEL에서 더 많이 이겼다→승률 23% VS 71%...지난 시즌부터 EPL 최다패 2위 '불명예' - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYdms5dnd0QTNXR0RvTzl6MWF2a3hYNEVpUG94Ykc3MElwTEs1U1dFU3pRTW8zSHNFNWNBV3BHQm1hWmNaVXVzYkI2YnhNbjdMQ09qdWVYSWFHb1lSS3FZMHRDaEpNaEZfaUQtTnoyTXpqaDVxd3ZQMW5Ud18wd9IBd0FVX3lxTFBYWkRTNk5rWmVFMTlXSjlDeXB6aXFBcWpTOWhTQ2owS3dIcHV1TXRhdnpBbkpOd0ZwNWVTVjRITG1GMHVJMTgtUjQtZm9oZkJRS1dVRWNaRDc1ZkFPb1lkRURMTEY3N2xiTmZpcHFaWUFKN0daUE80?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "아스날 또 뒤집히나…'맨시티 승점 4점 차 추격, 리그 1위 또 불안' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BM21hVjZRUWlxbU94aXN2bnphUE9fcFFXQjZqWnN6aklrSWdvTHozNDB1V2oxVm44ekRROFlZbURnSEoxcEpETEZvMlpuQnc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UQTRpSGZ4UzdqRmpROTJXOFFWX0JMN2wzQUk2cm1uZ0VfdC1CRmpDeF94aTVLXzVKZ3BQdmFpd3MtXzdtTWc?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "스페인도 '프랭크 토트넘'의 기형적인 승률 조명...\"리그 승률 꼴랑 26.9%\" - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVdDBHXzBGYy1XS2o2UDRNbUs0aEF5ak96NElnYk1xSjVnRXJyYU90YjEydzBDblpKS1FvRzExMGVwOUtkT0VpVWc2YjBfUGhxcmtvMWJuTXZ1eE1MblJfdWk5cDhGb2tHeWc?oc=5"
         },
         {
             "source": "뉴시스",
@@ -86,19 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1U2xpdzNUdjlnSDQ3VnNMU0xsbW1ZcVNsOU9jdEI1YWYwZlYtbTdkblN6Rnk3S1pLUnVBNV9PSVVDMjhJZDI0N2NKSU1vdko1QklzSGNhdGNzeG9OLVpXTNIBeEFVX3lxTE9rNzRUNTlQb0lTWUNPaVAxUUN0M1V6ZW9McE5Cdl9EYU0yOHFKVV9SUlFNekFDTVpZTC1LMHBTcUo4Z040SktSaFF3bEUwNW9Ga3dFN3JHVDBPUndodE1HbnAtcXQ0dC1CdUVyWWpnc3FxTjlYbmh6ag?oc=5"
         },
         {
+            "source": "mydaily.co.kr",
+            "title": "`방관자가 된 김민재, 토트넘이 영입 원한다`…EPL 클럽이 이적 문의 - mydaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nVmp0NUZrYzBRYlRuSlQ1RXdnNjBIMklneFFwMFNCREpCbWlsM0dHZWdtUFVFdENVdlV3cGI0YnNpaHFsRnhYSWx5aXRVMG91OEpwOFpSanFDbGI0UC1mU2ZpNmdzZw?oc=5"
+        },
+        {
             "source": "인터풋볼",
             "title": "[오피셜] 2001년생 괴물 공격수, 프리미어리그 1월 이달의 선수상→브라질리언 최초 2회 수상 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rV2Ftckc3SjRzT25qT19EQjVsSjZLVFA5QkZ3SEJNWkJsWThGdHBhOGVEQTNxZ2h0VDcwWURxNWF3YkJ1Szk0N2w0SVl4WnJLeTZZZmZURW42cWR1Z0NLV0xXMnVYVXJ0MHQ3LTk0bkl3XzBw?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "[오피셜] 맨유, 캐릭 ‘이달의 감독’ 그러나 “정식 감독은 글쎄” 5G 무패행진+감독상 받아도 ‘증명’ 부족하다 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QVzc3N3h6c1A4OEQwYmNXbmFfVndRRHZFcDRLUENNYWVRd0NkZGJpd2MzWXhXY0pFbmVIbS1ObHU1akNXcmo1SUtCb3dxX0FpSXp2SnNIVTdNV1I0c1HSAWNBVV95cUxQLXJuZC0tTTdHSDNySWlRblQ5WGJwdW8xTEZRa1VsRkNSTW5VMjZWM0FReXV1VDFKazdXd2luVm1uaklfVXczeExHdVdhRVJoWHlCaEFBWmUtZDJ1NTlMZkxNYUk?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "'토트넘에서 쫓겨났지만 끝은 아니다' 프랭크, PL 팰리스로 돌아온다 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVXJ6NGtYZkExSzc3V01nOUpCbEY3dkpVMGJNbldoT3lkc1F6NVpRbkhiZ2VBQWsxRmtaeGI0cjdsQWFsWEM5TUhUbVhGZXd1eURMN1hENVNwOUUzMm1EQk9pUEdvUnh4bkNGMU5CV1ZuVHdVSUh5QzJIN0VIT0dJWWdLTzFRSFdzWVVj0gGfAUFVX3lxTE5oTTF4MWpXY3phV0lCd3dpS1pPNXE0MTZBNi1qUUdBUDNieUt0UVBYeFQtZVFVWW1RQ1g4eV9mSFQ1QnN1OGhXYWFXSk5ET2VPMVBMNmVBaFUxZHRvZU1DZHp5VTZfM1FhTWVaSkZpTnFyX3VhajhQdDZ1c1B2dWxWeVlHMTNELUJCZHdhY3NpZHhxZ1RnOUlHY25ZdS1YZw?oc=5"
         }
     ],
     "transfers": [
