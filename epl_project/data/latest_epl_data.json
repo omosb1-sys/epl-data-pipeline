@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-02-15 01:07:53",
+    "timestamp": "2026-02-15 04:10:50",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky News",
-            "title": "Premier League pitches £750m annual boost from ad sales revamp - Sky News",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMm9rM3ZJcTJiQlJZdkdvTXBDWmhqVEpCVEVuWWpRUGVKSTFBTEdPRnAzenhWeFFkclNlNzRqREwyeUlwZ2JISjRhVElySWcyeWl6cFNwbS04Y1IyWXozbG1GNGEwS3Nqc3BkMncyZGZYOU5ZVzFWNWhOM0tLOVZUaHRiS2JVZXB4MWdVaUZlTENxM2hycnJTQ2RtWDFUUQ?oc=5"
+            "source": "BBC",
+            "title": "FA Cup: Man City 2-0- Salford - from 'demoralising' 8-0 defeat to pushing Man City all the way - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMl9fOUZQSmoyT21zTl9pb0tHMmQzNFJ6dmpLRTNKYm5tc3BUejZVRlFKaEk1aGNicmx4UlRhRHhyUFBKLXBLUjlrUE8xM1FfdmExXzk2cS16NW5Jc2VxV2tfWkIzVWtNcWc?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Man City and Arsenal locked in compelling Premier League title battle - is the Gunners' grip beginning to slip? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZTZnSFZmeksxMHFGZnNoMlZxRWhsQmM2MjJDRmJNZVJoaUxHczIzcDZSMmlBOVlYRGZkZHNxV1NSY0haOWFLUWZfUEhpMjVXeXlIcTNyS0w5MnVHMklTREVOX2ZCaDJROWRCVUtqakRRb2xMWjd3LS03Y2dXSnJ4OUxvZ0NQb0lEb0hqdm9HSHVEQ0l0STNIc1V0dFlrOWhUVkN5VGp1NGxDTjF4YlZTelQ3Nm03bUR2YU1BX1pESk1ra2ExOGNqbWN3ZkVrQUVmYXdvTm90Uy1WaFduYjlnQjBzaXlwc2p4aTBjT2xkS0xVT2Rq?oc=5"
+            "title": "FA Cup fourth round: Liverpool, Arsenal, Man City, Chelsea, Newcastle, Aston Villa and more in action this weekend - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlZMblpPTzRIWVRpcTdtUFhjZERndVhBMGFucDFWdjJvRkFkRlpPc2laMzR5ZU1pX3R6UERhbVl4Ullxb3JZQ08wbFpqUzhaSE5DSmhnLWczSlhCdEd2T2hmYzhZZWF6QmxEcU0tcmZEZHFYZFNReXVBY0ItSUQ1VHFURjRfYnZNWW13a3VwcjJ2ZnNkRnd1czljeDBJVUlrNkhtSFQ2TE9xTzRCR0lULW5GS3VWZThxdWhZeVpmMXhmeWotYUZWd2oyTkR5SDBuQjk0T2lPUzViMlRKSkdnekJCcDR4Z3dtN3NQNk5TaHJjQnVweHc?oc=5"
         },
         {
-            "source": "Metro.co.uk",
-            "title": "Michael Owen says £64m Arsenal star is not 'the answer' in the title race - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaFFTQU5NZmtLcmt1NWhyWmZvajVYVXRHeFI2cktoU3BnZFhCZ1FUdVhTSDg0TElRUkdQX1YtbXozeXY0am5WM0ZJMzhraEhfM0dwSWkwekJjNzA1ZEZtRE4tMDhHNExhZkk2N28wdkJoM0E4X25FNkF2TU9TellaZVRZNWJ6Qm1RbjR0ajJ0UVZma1pGbXdXeUNjcHlRbzJGUVJwSURSS2ZRS2JUU0YxS29rdWJXWDDSAbwBQVVfeXFMT2EzOE42QmQ1bmNfWk0yVmtYbDRNRHhPb2h4b3lFLXllWEFTeVdwb1M0T00xb2dHOVliSTQzS1ZMN211SjdTUXdQUDM2N2g1ZG03aXhyTlJFQnA2Rl9rRUxGQmlKeFBDTkhzMjBMV05raElXZTByM0RlSEJNcXBLN0FuamFYdU4xN1VSRzRaRjZ1NWNKVXNZT2ZZS2pYOUJoMVhYSHI3VERQaFdkbXh1TzJTVFo1VFdlV0J0T2w?oc=5"
-        },
-        {
-            "source": "The Empire of The Kop",
-            "title": "Fabrizio Romano warns Liverpool face ‘big battle’ to sign ‘explosive’ Mac Allister heir - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3FuQXlqUmRuOFZiYk0yVHZ6c1FkRnBPRWtueS00SUxhamdqSkxaNFQxYTZpOE5jbFlDckg4RkxUM05sLW9fSzMwNl9aNmtLYUd1V1pWdWFuTXZLTEdGZ3JOckVfWlF0RzhCbE9CWU4wdWw2WTNLYU5SdVJYaUhFYnVCOTlBZlJ1eWxrQzdteWdBeDBXMWUzdW82T0JrQVNVb1Q0bG1UbEkwWHRpUEt2YTZqV1BTbkhMRWpFUlh6eTNqOV9V0gHKAUFVX3lxTE1Fcnlwa2xicDJtUVpGVFFxRnE5WEJnSGcxc0l0aVBLMjhjOGJiRGRnREE5amlOMDJBcDNtcXktMExNYTJnQnd1OEZsdEtwbHp5cHVUeUtwNTRqb1VFMkFGdTRGaHdSbXJIck4yZklycUVhSmZ1N3pScHFHU2xZdTZaYjFHLWUxSUd4bll3OW51TDNBTFczWXRhWTIzM0ZRUU53MDdKLVlJUEt4R2ZaWUp4YkRNMEV1R3I4bFZWZVRFOWRyTDdBRnpWMVE?oc=5"
+            "source": "Manchester United",
+            "title": "U18s: City 1 United 3 - Manchester United",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEJEVmRNUk1qVHhTbTNwVG5NREVtc2xqOHExWVVMNElodmgzbWlJMlZFRGRhVVVSTVBaQXZEbG5jdENBcXpEQUxhdUZWZkE4eGQ0YkhwT1lrNFU3aUV0Qi1iWEJwa1pzZUVyc3VvYnB5ME1yWTNEcUFLUXhvcDZDNzJPdm1lN1dacURNbThTSGFrVDJVRnBqcjFzSEZWbHdjV3FpdXY2WFVhTTVXY1l5VkhQYjVsUTF5clE?oc=5"
         },
         {
             "source": "Stretty News",
@@ -36,24 +31,24 @@
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
         },
         {
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
+        },
+        {
             "source": "The New York Times",
             "title": "Tottenham Hotspur rebuffed Lucas Bergvall transfer enquiries over winter window - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUlJOEJfa3YwZk5VVTdoRjIxQ1Y5RHloWGp3VzBsUHBBYUtSRE1OVFN2WFlkLUtfRG5aMFgxTmIyZW81bGxWUDN0dU10ZHFaN1Y4V1hWZlBjQTB5SUpCa0V4YTdQc2ViX0NMUXVlS29VUm16OWdwa2V5N2ZfVlZBR3JJR1QzUy1HaXJwbHVJUnRQMTVnSVRpbkVrc1Q?oc=5"
         },
         {
+            "source": "Football365",
+            "title": "Ornstein: Tottenham rejected Chelsea, Aston Villa 'calls' for Spurs star; face summer 'battle' to keep - Football365",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnhmS2ZUck9PQ2JMM2tOUFZDSVdzR2FmQlUxeVBqczZQNEVHR1A4MTFTOGM1dzdrWTlTdTF4dEFBMjB2U3ZGamxmVjQzcXc4NHo4RDJyd3NSeFZKaE5MendZQUx6MGxuc2pudFRIOHBiT3lTdjBQeFJhb3IxVFRMQWZ3ZUh2aXFoMGNUMlkxS2d3SV96VmpDY25R?oc=5"
+        },
+        {
             "source": "The New York Times",
             "title": "Tottenham confirm appointment of Igor Tudor as interim head coach - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWtHVlhzaWFIOXFQQncyWnlUM1BWLVUwVUtiT2Q5U0x5cjNPLVVGLUI4ZEhMUkUzZjZxMHlSejhvVUJ1REZ3d2hCWXhSTWU1b3NkcnpjemNaRHlLS0d1VFhuekdkeHZBVk93dUtCVHlpcDhzcnFfekE1NmFoanl1RWcxNXlIZEoxdDBvMjFFaw?oc=5"
-        },
-        {
-            "source": "Pain in the Arsenal",
-            "title": "Arsenal got rocked by the last injury blow Mikel Arteta needed right now - Pain in the Arsenal",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTExZa2ZsYjdkMDA4MmRkb09zZXgxSU5PVkcxZ3NpTHRfbDZrQmdJcTJyXzJDdWtyNWdpZERDbnJWSU40a0dycjhDMTUtMlpReUdVZ0M4bFkwSE45UW9tR2pXcFNERjU0aXk4Z3ZfUzVtS01hMW1BcHEzY1o4c2tVcXNhTU96VkU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer news: January transfer window 2026 | Premier League deals, ins and outs - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnE2V3V3Smw3Rjg1M2R3SVNCYURuaENLOFduX2NYNkhPdEF5ZXJ3a0FwMWZqcVM1SGhJdV9zWU5EbFp0emZBRWMwTWdCcmxRclZLY21rZ0xUbmxmZ1VkOFE1V0NVc2xENFVaNWZLSTR3TmlQWS1VWFpDMWVDSVZVVE11NXU4UVoxRzRqS053bXF2RFhkeUd6VVlKNTNFeDBQb2U5d0VVVWJiX3ZYaC1ucU5qaW10cG1YNk0zNUNIRF9Ydi1WLWRRT1NYbw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -71,14 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW44X3Z1ZXRRVmk0YXVCMEFab1dnUUc3cGJCRjJOcGRYQVNHd1NWb3dBdlVKT1NBT0FvOEtGTmRSbGxCVi1OY2YzczNyRUp4OV9TNkowSnJSTGZNZjZNT3pUZzVIZUVEUXB3X0RlWmJFZjc2d1o1R2NOTlY4c213ZE41dnhlVERpcjZR0gGfAUFVX3lxTFAzYU5zSVhBeUNFWFlfTktSU01zWk42MXItVkN6bTZnQlgwRmR3Q0JSUkVNV2NjYnVBSFBtTW9IeE1Oa3o4d1h1SnkyXzBNNUpQRFVNb3o3U3hJT1diZ2F4RDBvZXhJMTc4OTBmTHlSQUJRN3g1Y05UY3lTck41bzRVTTROUUlnYjVTLWZGcEJMNE1xbHc0QnQ1WUxxYXN6Yw?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "뉴캐슬 박승수, FA컵 교체 명단 올랐지만…1군 데뷔 무산 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SYVJOLXRoRHIyeGxGY1NVNFFielBabHA2ZGY3amdqOUx6T2xxZU94VjFVYzNuZVJYT0tXa2xlWHFqMHRIU0NOWTloOGY1bk9YZm5VSzVNcWJickxQcENpUtIBeEFVX3lxTE4wdEQ5cGw2YmxxSGFUMm5jcGJrZUV6Z1pJOUZjQVNOUmhvaVVzNlFTaU1mV0VzRFpucTlMMHJfRTlhWW13ci1wYnZNbHRicjg0YWlTckdzMGU5enFkZGhNc2hMWDhnUlpjekgtZ0tSZG04M3pRSW9ZSQ?oc=5"
+            "source": "조선일보",
+            "title": "아쉽다 박승수! 상대 퇴장에도 벤치 대기→뉴캐슬 1군 데뷔는 다음에...뉴캐슬, 빌라 꺾고 FA컵 16강행 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0lmb2diMjV2c3dHenJ6M01LQUF5ZE5LcFdLVVZRd3FiOVU3YUoyM0JzYkM4NUloOTlTVVZyX05yRklPNWQ4Y3NoRjZuZnJvRjJOUjZCb0Vna0lEaEQ1bjZmOE90T3RUbGpiOFljNFI2V3JPcmdrdUFSeXVCSkpRUGo2el9VNFZKejJr0gGfAUFVX3lxTE9femFHV0c1SW43QjNMMzlSWk9UZTl3MUpHd212MDdMbTNYTEhCUlFRQlBzLVA5d0lFNTRCdWhmNW1xbElsX3gyVkNnejBsWTJZNjJfV1g3amxqVGoyRGlBS3dBcVFmU21SaDEtRXJRQmxmMzNxWXF0V1BSa2FHLWJQSVYzVUduLUgzLWlZQ2FFY0ZmZlFDQWtodHc3VjBBaw?oc=5"
         },
         {
             "source": "네이트 스포츠",
-            "title": "[오피셜] 2001년생 괴물 공격수, 프리미어리그 1월 이달의 선수상→브라질리언 최초 2회 수상 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IUUJnNDBEMGRwZUkwTWI4SUp2d0wwaFhSc3RicEQ0WmJDNTdmWW9taTZ0US1kWVM0aXZ5cWNzRzBuamxmX0gwYjhwVFBHcjhPMlQ0X1JIckF2N3Zw?oc=5"
+            "title": "강등권 추락 위기 토트넘, 임시 사령탑으로 투도르 감독 선임 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SME5ERG1zR0FjcWxMNHJEU244LVQ1S3lDMl9aX1VDVmlQX3NkT0NJYUxjVWwzYzU2cUxJbm1OOVdQdElsUWljLWRUalo2S2NfTmFzSmlzUEFmQXdB?oc=5"
         },
         {
             "source": "머니투데이",
@@ -86,19 +81,19 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVdDBHXzBGYy1XS2o2UDRNbUs0aEF5ak96NElnYk1xSjVnRXJyYU90YjEydzBDblpKS1FvRzExMGVwOUtkT0VpVWc2YjBfUGhxcmtvMWJuTXZ1eE1MblJfdWk5cDhGb2tHeWc?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "아스날 또 뒤집히나…'맨시티 승점 4점 차 추격, 리그 1위 또 불안' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UQTRpSGZ4UzdqRmpROTJXOFFWX0JMN2wzQUk2cm1uZ0VfdC1CRmpDeF94aTVLXzVKZ3BQdmFpd3MtXzdtTWc?oc=5"
-        },
-        {
             "source": "xportsnews.com",
             "title": "손흥민도 이해 못할 충격 인사!…EPL 경험 '0'인데 강등권 토트넘 임시감독+데뷔전은 북런던 더비→투도르 부임, 대체 누구? [오피셜] - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05ekpjV2ZUVW00ZUpGLTJHckhROGZzakVJZEVFVFMxR3dzUnE0cjlSVzJYOE80cVNvNjJaaVpFMHlqMl85b1lNVEdMLUNDNFNxMHN6Vg?oc=5"
         },
         {
-            "source": "톱스타뉴스",
-            "title": "“강등 위기 탈출 정조준”…투도르, 토트넘 임시 사령탑 부임 - 톱스타뉴스",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0XzRwTTNFTm5RZWNWNW9JdmxoU2I3VWRXRU9nRzYxUkVBUFliVWpzd0MtejlLRWVrVHdzcUpiUkxhZEJ4NVB5VU5iMU16NGRjOTlGZVRtNDVRbTgwazc2RFlRRkpkeFJWTnZKUmp3Y3g4UQ?oc=5"
+            "source": "네이트 스포츠",
+            "title": "[오피셜] 2001년생 괴물 공격수, 프리미어리그 1월 이달의 선수상→브라질리언 최초 2회 수상 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IUUJnNDBEMGRwZUkwTWI4SUp2d0wwaFhSc3RicEQ0WmJDNTdmWW9taTZ0US1kWVM0aXZ5cWNzRzBuamxmX0gwYjhwVFBHcjhPMlQ0X1JIckF2N3Zw?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "아스날 또 뒤집히나…'맨시티 승점 4점 차 추격, 리그 1위 또 불안' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UQTRpSGZ4UzdqRmpROTJXOFFWX0JMN2wzQUk2cm1uZ0VfdC1CRmpDeF94aTVLXzVKZ3BQdmFpd3MtXzdtTWc?oc=5"
         }
     ],
     "transfers": [
@@ -108,13 +103,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Premier League transfers, January 2026: Confirmed ins and outs for all 20 clubs",
-            "date": "2026-02-15",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
