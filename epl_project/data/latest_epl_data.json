@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-02-16 17:30:00",
+    "timestamp": "2026-02-16 18:27:35",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "talkSPORT",
+            "title": "Tudor starts work at Tottenham, Chelsea players criticised for footage - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzdnczVKQnpWVnBEQVlfQW9IQWRxUGxxNTF3QnlKbnZQRDlWX2pjVU1ORjhvRDZXNU5kLUVwNVhFU2pxeS05TTl4UWI3ZzV5em1rV3BHUzNHTk1FaksySkxFR0FJSnM5eWdxeDBLaW1yMFpqaGZXM3BYWEtZSGxLN3ZuVjJFbk1sbUtRQTFzbFNLOVVJclViQTVxS2F2bHczUmpVMVVzNVdUYzdRb1R3SUtNdjM0dw?oc=5"
+        },
         {
             "source": "Sky Sports",
             "title": "Ivan Toney: England striker leaves door open for Premier League return and reveals World Cup hopes - Sky Sports",
@@ -14,11 +19,6 @@
             "source": "The Sun",
             "title": "Former Premier League referee calls for Howard Webb to go and compares him to Ruben Amorim - The Sun",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmNMTW1nbHVXX3pBU0xYdXlFeDFCSE40SUF6dTQ4LWJrcmgwZjhBWG1pTEoxWXRKWWdzbjgxMTNheC1lVUs0QzhxYU1HSDdLX29CczdFaFg1SlpfYlpGX1N1Tmk4ZHcwVmNpdmpOOEZDRlBWOWVsTzRTNzJoakZSSDVVVmZBMUJQRXdZMUJhQVE?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Match officials for Matchweek 27 - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmh1UldCYVJGMnlPUU5jQ2pta0ZfcFVzOEdDSTdQSXd4TVo0YkhzZC1qM1ZkNHotNDJZUGs0d1Y3RFZLb19MdmtDSzZ1Q3pRYlVnSXRMbmUxcFZMV3BwWlRLdVQ2OVlSMVRpUE9tcFAxQUJ6ZTVWSFhERml1dHRfRzRROFM?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -91,14 +91,14 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOR2VIYTcxZlphWVZBbWxsZTdmQU9JOGFxTzQybGNnaUx3YV9ySTBmVHpkWVpOUFBNTTRjTlg4RVR6ZDBFMUJscWxaUEQ0SFVyRmU1MEZSMXJTeUVCNEN0RG9OVDBLaGpSekE?oc=5"
         },
         {
-            "source": "문화일보",
-            "title": "“앞으로 헤딩 횟수 제한” ‘축구 종가’ 英 특단 대책 이유 - 문화일보",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubDhYZWY2bjZsSnA2WnQ1dmZpYUVsQUtVeXluVnRjYUk4U1dXQUhDeVdMeDB1NUg4d01NVUZBcXRyVG9lRWp5RFIwaVdJN1k4?oc=5"
-        },
-        {
             "source": "인터풋볼",
             "title": "손흥민 뒤를 김민재가 잇는다? 프리미어리그 진출 가능성 UP…“토트넘+첼시가 관심 가지고 있어” - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xTFhjM2NvWkFVMGM4YjNZUnczWmFTcE0zUzI5dFZpZHVLVXVvUzN3YUotM0hHXzJRZWwwckxNOU5ETEdCMnFid1pUUlhMZEs2XzJxYjJJZGdkR005eXcxZ1pLcXFta3djNTRfRFFTQUhZMzhh?oc=5"
+        },
+        {
+            "source": "문화일보",
+            "title": "“앞으로 헤딩 횟수 제한” ‘축구 종가’ 英 특단 대책 이유 - 문화일보",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubDhYZWY2bjZsSnA2WnQ1dmZpYUVsQUtVeXluVnRjYUk4U1dXQUhDeVdMeDB1NUg4d01NVUZBcXRyVG9lRWp5RFIwaVdJN1k4?oc=5"
         },
         {
             "source": "sportalkorea.com",
