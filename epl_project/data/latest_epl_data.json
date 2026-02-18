@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-18 06:47:56",
+    "timestamp": "2026-02-18 07:42:38",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Premier League transfers, January 2026: Confirmed ins and outs for all 20 clubs",
+            "date": "2026-02-18",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
