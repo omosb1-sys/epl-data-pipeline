@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-19 21:21:05",
+    "timestamp": "2026-02-19 22:19:56",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "Wolverhampton Wanderers 2-2 Arsenal: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWNHemtWR0FzS2dRbUNhNHJlNXNfWUZtS0gtWW1Sb3M5X09HOXl4UGYwLVkyZ2JaQlZ5S0FrNzJDRVBTTmM5V0VJR0RZX3R5dVZYWXJiazBEamFlVUZNeUprSmMtZkJLNldjNW5yWEVuZlNwVlk1cWlDSnR6OVp0b1p2VEFtd0E5RnBFUTFLTElTV0tYWXE0M2R6ZEFxcEdqYktZd2RKV2lwNlU?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Saka signs new deal, Arsenal held at Wolves, Murillo slams Forest into lead - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzdnczVKQnpWVnBEQVlfQW9IQWRxUGxxNTF3QnlKbnZQRDlWX2pjVU1ORjhvRDZXNU5kLUVwNVhFU2pxeS05TTl4UWI3ZzV5em1rV3BHUzNHTk1FaksySkxFR0FJSnM5eWdxeDBLaW1yMFpqaGZXM3BYWEtZSGxLN3ZuVjJFbk1sbUtRQTFzbFNLOVVJclViQTVxS2F2bHczUmpVMVVzNVdUYzdRb1R3SUtNdjM0dw?oc=5"
+        },
+        {
             "source": "Sky Sports",
-            "title": "Wolves 2-2 Arsenal | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWJGdm92V2NsUGp3VzNWTFpiazNTeUx1OF9hRkZabWczVkRuazh1NWVFVFpMaG1NejlyM2VoUjdTVEZEem1zME9qQ0ttWk4tR05Zai1PYUg2RGtSbGt5VE9LTFJpTENlcUZSb0VGbzM5WW5OcS0ycWxlR2NpT2VMNFBjdV9xWGNVSE5RcDdGMTRqWWY2SVVMUVg4RnBJeXFRc1E?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Ten KEY questions for this Matchweek 27's fixtures - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSENwRDVnbmxYbk1RMHplWkdJNF9LUDNlaHZNWTBWa0M1SHpWZ2NSMTU1WmVPblJKeXpQeFdjVlFlSno2QVJqSnJpeHBjSDZKU1JmUE02cXR3eTN5M0ZiQnA2UDhfSVpYT1o3ZVlxcFQyV0FuZDJfV1AzRzRCbUpqcG03N1BySkpSakNNbEZ0RWp2aG0wbjBZMUpUMA?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League predictions: Chris Sutton v Embrace bassist Steve Firth - and AI - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxNW9xbFdQam5ydWZpMkYwZ2syUjhsT29XdlFVb0tkQVhRVF9zY2ZLYWpzcFZET2NPMXNtSHZ5OWkwSjJmYWtaZ01OVF9CVkFCUzB5WDZKcXVOZzhzTE1fcnMzb0wzNlk?oc=5"
+            "title": "Premier League Darts in Glasgow LIVE! Scores, results, commentary with Luke Littler, Luke Humphries, Gerwyn Price in action - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPck1zX1J2N21ZaDJhZHAweERxamxkQ0RXT1RDRHJnaV95ZUVSS2trNFpIMm5wNUlwcXFJdEFpek94N05oTE5sWkNIRHBPQ2J6emw1dHpnN3NQdGtFNHNLc3ZKZHdHcDZQaEVLdW1CTkF6WUhhQnpuMEEzSzdaR180MEQzSHFtbV9hWTNLUTUwa1pFeFJIcUtVRy1SNGt3WlR0Uk5vQmNPNWl0V1lRQ2NZSkt6cmkzWkRMLXBwS2FINnVveDFsaVRKUDBWRWt3QUVJd2hFZGRmT0w4UEpMd1ltOVpGeVdPdWtwb2FjalNjazZ6cE1YdS1YandBTTBSWW0xc1RHR19R?oc=5"
         },
         {
             "source": "footballtransfers.com",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzZ6TUNSZ0lRS0JiRjQ5S1FLRW4xQ1dOaEljMWZwb1FyX2dfdTdFUWlaVzhCV2tOdFNaeTRvNlMtajJRT3lNNVp5Y29VclhTc1lFb1lJOVpaY2pZYXBfYU9oX2JsMUhfYmVZbk5yYkxqZzlmdlc4clpfenZvdFNaQi1sLXZ6NlZRQlhoSW5QMENqTFkxZzU0amlHa1p0SHkyTDVaZ0g0VFBTUmE5eGNFbE9wZWJtSlY0NkRLWWlaSXhTLU5hWjhETTRXMzktTm4xVHBWUWFRZF9xSlVrdUx3OU9tNnk4bkh0MXVV?oc=5"
         },
         {
-            "source": "footballtransfers.com",
-            "title": "Fabrizio Romano Transfer News: Mac Allister to Man Utd TRUTH, Arsenal CONFIRMATION, Chelsea DECISION - footballtransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWWZVMGVaS2ZQOGFPZmhpXzNkUDJTUGlralVhX0JhMHF5b0NxVTFLRzJpQkFDZkN2cWlDRHBkTlNCeWdNbURhNjJ1STY3TEVNQnBRWF9QZHVFYllEMXFXQ1JKUmZ4cExHdUVheExTV2s4MU5mYjc4SVNRV2M4WGl3dFg3UjBKUkZ2akszYm9ObUZwa29VV0hHSFZ4QlZaNGtuSm8yUXhuRWFxbzBUWU83THFMWWdSSjR3NEg0SGp4b2xIN1Y3Z1N0SzRpREIxT01HNzRRZ082LTVwT3hOSXV1WWNaSWhLcDVQWGotSjhDVE1ISUZQOVkzV2JSaUVEY1h1bGo5SzdPTnY1Z3I5OUdCUzkyOXdSREJCMlR2Qjd6cw?oc=5"
-        },
-        {
             "source": "GiveMeSport",
             "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Medical at Molineux - GiveMeSport",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
+        },
+        {
+            "source": "footballtransfers.com",
+            "title": "Fabrizio Romano Transfer News: Mac Allister to Man Utd TRUTH, Arsenal CONFIRMATION, Chelsea DECISION - footballtransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWWZVMGVaS2ZQOGFPZmhpXzNkUDJTUGlralVhX0JhMHF5b0NxVTFLRzJpQkFDZkN2cWlDRHBkTlNCeWdNbURhNjJ1STY3TEVNQnBRWF9QZHVFYllEMXFXQ1JKUmZ4cExHdUVheExTV2s4MU5mYjc4SVNRV2M4WGl3dFg3UjBKUkZ2akszYm9ObUZwa29VV0hHSFZ4QlZaNGtuSm8yUXhuRWFxbzBUWU83THFMWWdSSjR3NEg0SGp4b2xIN1Y3Z1N0SzRpREIxT01HNzRRZ082LTVwT3hOSXV1WWNaSWhLcDVQWGotSjhDVE1ISUZQOVkzV2JSaUVEY1h1bGo5SzdPTnY1Z3I5OUdCUzkyOXdSREJCMlR2Qjd6cw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -81,6 +81,11 @@
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PekdNQ0dpb1QzU0tsbUd6NDk0WXpqUlJBVmRMWU5uWFdPdTJkUVUzUnpCVVNGcUxwMVdDbVhuQ3AwNFFMNjFoS0xUa2tBcmRSZ0VVd0t0UURTRW85SmdQNGlPWWh6QQ?oc=5"
         },
         {
+            "source": "스포츠동아",
+            "title": "‘꼴지 팀 상대로 2-0→2-2’ 아스날, ‘EPL 선두 수성 노란불 들어와’ - 스포츠동아",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45R1JmWnItbDNsNXpHSkZITVNiZEVlV3YtUmlvSGk3MEZ4MldDOUhhSjBMVXlHeENqR3Y0WFA1NGxxM1BPX1I2QWFnc0VlQkpCa3pValhMNHVkTFBtcW0tU01aanN0cTdwOTczNEtnS1g5Zw?oc=5"
+        },
+        {
             "source": "sportalkorea.com",
             "title": "'韓축구 대형 낭보!'...\"연봉 257억\" 김민재 16번째 코리안 프리미어리거 등극하나 \"KIM, 토트넘·첼시 레이더에 포착\" - sportalkorea.com",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkNLdXpFckp6Ullob09KSjdGbXJDOFJsZVh5MDVzOElLMlNvQkdSbm9RdEZOU29VVzJheFY4a1RJMUFjTHBZclFnZk14SjhZY3Y5Q056enRJQ3VWS2VwcThpY0Z0YkgxRUZtemNqa3Fnb05SRElVY21QMWp0bU03dTln?oc=5"
@@ -99,11 +104,6 @@
             "source": "미주중앙일보",
             "title": "‘초대박 이적 터진다!’ 김민재, 손흥민 직속후배 되나…토트넘 러브콜 16번째 프리미어리거 가능성 폭발 - 미주중앙일보",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iTkV6ODZld1kzSDRyYkU2OFh6YjBBek96bC0xeXhpVjFmZnZFOTBHandXa1p2dTdoeTVkcmt3UXBNRUpOQmFhaDB0LXdnN0VmZ1ZBQTc4OERpaEhfQ3JsQ0l3?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "英 BBC “아스널, 앞으로 뭘 해도 욕 먹는다” 리그 1위가 20위에 2-0→2-2 추격 허용···“정신력 지적 피할 수 없다” - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZjFTSzU1NHRzVXoydDluclFfblAtNmdtSTg4c25oR3JqdXlleFhBU0ozRFY4SWZjX2hYQ1E2RHdUN0lxQ0FrNHJPWUx0VDBkODhsbEFSME5zUHhqbFHSAWNBVV95cUxOTmY0Zi1MVDlGVVdOSTRDMVJtOTMzZFp2cjRwVElWbktMcjNCWkx4SjJoY2dmeFNrSlVVWXNsSDIzU19pZ21wRTl6N2pXaTctLXMyWGF5VnIyX1haVFEtN1djTm8?oc=5"
         }
     ],
     "transfers": [
