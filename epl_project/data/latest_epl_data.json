@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-20 16:24:32",
+    "timestamp": "2026-02-20 17:28:34",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "talkSPORT",
+            "title": "Football news LIVE: Oliver Glasner future, Tottenham name Igor Tudor coaches, Neil Warnock on relegation battle - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzdnczVKQnpWVnBEQVlfQW9IQWRxUGxxNTF3QnlKbnZQRDlWX2pjVU1ORjhvRDZXNU5kLUVwNVhFU2pxeS05TTl4UWI3ZzV5em1rV3BHUzNHTk1FaksySkxFR0FJSnM5eWdxeDBLaW1yMFpqaGZXM3BYWEtZSGxLN3ZuVjJFbk1sbUtRQTFzbFNLOVVJclViQTVxS2F2bHczUmpVMVVzNVdUYzdRb1R3SUtNdjM0dw?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League: 10 things to look out for this weekend - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnlmdzdLUnlhZzdyVzI0ZlVTc1R5MjhVTDRrMWNCekJCeUNmZEVXRTNicDBMN1o3MDY1QlcwaENDbnNjRmZ4bG1tb0pEaS1QQzJ6Y1JqQUN1WlE3cXRYcW40RDJfNURDSXZDc2JlWTNWdy1yVlR3VFRPbVZ4UFE5Mm9Ya0g2RFRoUVBza3ZOX18yaE1vZW1fczFDanF3WkltbTBYdA?oc=5"
         },
         {
-            "source": "talkSPORT",
-            "title": "Tottenham name Igor Tudor coaches, Neil Warnock on relegation battle - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzdnczVKQnpWVnBEQVlfQW9IQWRxUGxxNTF3QnlKbnZQRDlWX2pjVU1ORjhvRDZXNU5kLUVwNVhFU2pxeS05TTl4UWI3ZzV5em1rV3BHUzNHTk1FaksySkxFR0FJSnM5eWdxeDBLaW1yMFpqaGZXM3BYWEtZSGxLN3ZuVjJFbk1sbUtRQTFzbFNLOVVJclViQTVxS2F2bHczUmpVMVVzNVdUYzdRb1R3SUtNdjM0dw?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Predicted line-ups for Premier League teams in Matchweek 27 - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT00yUm5xTW5DRWRvcVR4MWdIS1k2bGVNc01taHI2bUtKY2VNcFlxZkUxaDVadXh2d2xFUDZTTVVFQm4xczVLZk82UXdyUWZnR1lFekpOV2tMV19RUW5aQkdaSFBxbWo2ZmRZRGpKN2lLVTl5eUdHSzQ3b09wWGk2Xzd4SE1aZEVvaHBfU0FvZk9RcGRhYnZIMXlJWGV1b2t1SjVYcFZWaEY?oc=5"
+            "source": "BBC",
+            "title": "Fantasy Premier League: Gameweek 27 Q&A with expert Pras - send us your questions - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zVTc3T3VXZ1R5UTYtTmlqTWVWTEVCY3gwX2FYd2V3S2l5cS1FNUVIU1h0Mjd6ODREXzdtRkNDUXAyd0l6aVZSQnVpeVNYNkNPLVNMWVVjNWdSU0RIS1lXRG9HSHo?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -52,6 +52,11 @@
         },
         {
             "source": "Sky Sports",
+            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeEZUeklSZl9YV3FKNUw1VUhYOVpCZ0NpYzF3MGE2YlpEeDRFaEVyYmtWUnBEc1JuWnRyZUdfQjFLclZoZ2JzOHRkcFZIRVRyallmS2lIWTYxaXBIRTZRWDRyUlFhWXRMeFNnVndXZkJqcHh1QmpsSTVNMlEydXQwVVBCS3hFUmFHUEM1NmVyRHZZcHNfQXBFdHZhVmR2RWNEd3lsLV84b3pWYjlyZGJzV2Y4eG9vbkZ1bXltLUx5bTU1VzloNFNMSm9yaW5XcHlaeFFuRk05aGxvZy03ZmhwQjZMcjZ5aTBiX3JQU2l2RDBBQ1FzRTdr?oc=5"
+        },
+        {
+            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
         },
@@ -61,19 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
-            "source": "Chosunbiz",
-            "title": "Tottenham relegation could trigger mass player departures and overhaul - CHOSUNBIZ - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYUJoQWVEZEFVdjE4WUxvQkdaeTIxQ3VIZWh6Ri1GVzVfajlvaVVUcFpsNVlxbE9OM3U4X2tPb1o0Xzl2cnRDY3F6RVRrN1Fac0dqLWJZVjRtS1hVVnozeXpWdjRISVduNG9nWjdvbFA2MkxtRmV6d0RkazQxYWfSAZMBQVVfeXFMTkh6WnlJRmFvMTFDTFRBb1ZkTVppY29YLWJSQVlUN2Vxa0ZsTXdlU3pab3RFRUVfcGFnbERCOHNaeWFqeTU2XzBaUXlkT0RLNU9OZVlyaG5pQ1VoZExPNXY4VEtUMVYzUlN3Wkg3akRhMUpsUGZ0WFNpcHEwNVVOcXZPX0ZWVHJySy02QkdJNEEwOGdj?oc=5"
+            "source": "조선일보",
+            "title": "\"이름 아는 선수들 다 떠난다\" 강등 시나리오까지 나오는 마당에...이제 토트넘 '빅6'라 부를 이유 있나 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnFxVVRiREgzaUJaVWZ6eEx5RGpXd255Q2gyckFxUUdBTVYwUW03N3FGZEJod3djdnFvR2JRMkUtaXJfRWVDdUJrbURaQWVnTTkwLVFBQUhmdllKQVNhMUVybnBnNFJaZ0xwYUI1M3NjYXI0RHNMNF9naENhZVVqR3N0NnhwQ19qSXhB0gGfAUFVX3lxTE9rNE54Sl81MVJONmt2VGxUbHRkZFpTUGNDMVJ0SU1oM0dCd3ZSX29uRndZeUZEa0RDZGdPWHVrT2drOUhQZEY4VWVxbUVtcjRIN2xIV1FfRjJUeG1ZTmpUZk4wNXIzQWZtNHlIMW8zQ1JjUjl5NHBHV2hYY0lGX3hEem4wdkZ3ekc1aTlmVV9CWFN4QjhlZUhSZUhmRjJjMA?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "'흥민아 케인아 보고 싶다' 토트넘, 진짜 망했다... \"핵심 스폰서 계약 종료 확정→수천만 파운드 손실 위기\" - MSN",
-            "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQZXhvN1JPa2pfRTF6enJVVl9oa2pXc1hCc2ZxWm1lQ2xnQzVmUHI0cEZEUE9PTHRwV05UV2RJQklHZGxzc0Z3VzV5SmNYMV9YbUdXZnZDWUtsNzBCc0o5R1hsSF9QNW94OVdjZ0MtbVJVbjNrNFgwWS1uVm9uVmRQZWc3X3V5ZTVmNEoxVV9ubWFYckpYeml4VEc4T3dPUjE1Skl6UUZRRGRVbXVOUzdCOFdJZE9mOGhFVjBuV2xQMFBCMUFSQ2hfS0RfVG5idzZPOFdoaTE1SmVaZTVTU0h1cmJwOHJTc2xhMHVveGwwV0lOTUNITm1RYW5DTlVBWHNlSmg3Y05XVWdvajNhWnJZV2l0XzFfWnBmWm1FMTExQjhOZTdWLU9mYzNEdTNodTlFUzJucXFEX0tXTnZEc09ZcnMyTC02UUpfalUxOGRGQkZiQTZpM0w3aklHLWZZSWE3ZUFnWEtEUldDVUwySG03d1JPNV90ajNzY0ktcHh1R3RBOHF4RjZvbk5fTDNFaHkwWm5tTHNONGdNazBsaXZVeF9feXVJNlhJSzZ2dS15VDhudUJsSlgxSnItODFmekFrNi02blluOTU2OEVkeHhpdmd2Z0tNT283Z2lzVTR5blNHQ2lpaEFYOGNibW02QkQ5Z1Y2WmhwNnB2ZUYxNUoyRGpGdmtjQjlVN1pYVjBVcVYxNk1WSkhxZlJMOXF3THg0TU8xUDg5YV9kWmItcnk3LV9mM2h6QXpxRlNBRXpPMVpieXo0SWh6cnh3?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "투도르 “변명은 없다”…강등권 5점 차 토트넘, 아스날전이 첫 시험대 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VelZxa090ZFJldkNSX21GLVdYeWo0YXRaZXM4TVZOMDJheXFGSjZnLTczTVlOYmxVOVRocEsydzdXdlNXeDVQZUJGb0lXeU0?oc=5"
+            "source": "조선일보",
+            "title": "3.36% 그래도 불가능은 아니다! 토트넘, 강등시 스쿼드 폭파 예고 \"다 떠나고 팀 망한다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDllV1c1QTF4RmFONHIyYWJ3Q2I5RjNNTlZuVU1zOUxsN2huVUlwX1labzhRRF9yWGx3ZzlsWWZ1aUd0UWpTdDlra3UwaWdKMmFDc2Z4ZGxxUmRGR3cwZy04aGlCVUZzRHByeWM2QzFObDRfb05zSzM3ekRfek1PRzBTSUxjVTlwQ0Jj0gGfAUFVX3lxTE9pQlNrQWVVbXkxcUVNcTJmSlU2Vl9MRXNMLW1iWnB5WF9YblROVkUycktxWnoxUE5sRE1VWDlEWU5ESTVqaVNNQXZFZ0FwT0JZaS1YNDVzTXdnVmFxMmtpcVpoaG1PeUVxRDE1NVRnb3hFWXdLSl9wVVd1MkZCdlhWRFllSFM1TW1oRjhaSXo3cXVYYThFWHJwWlpjOXpUdw?oc=5"
         },
         {
             "source": "뉴시스",
@@ -99,6 +99,11 @@
             "source": "SPOTV NEWS",
             "title": "韓 센터백 빅딜 신호탄! 김민재 PL행 배당률 급락…\"런던행 가능성 치솟는다\"→프리미어리그 이적설 급물살 - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQY3BuYkw0RDVSaXlOeUJrZXloRzRONUpYWk9hamFXS0FGbFBTOFUwRkRsbDVMcWpTcVNzRGR0MGhjVzZpUGVqTFdvUHNWbHB3TkF4cEt4STNNbnllbUtMbEhnWkNBZUJycGtxbFYtbw?oc=5"
+        },
+        {
+            "source": "sportalkorea.com",
+            "title": "\"추가 영입 필요 없어\"...'韓 철기둥' 김민재, 프리미어리그 이적설 종식! 뮌헨 단장, KIM 잔류 쐐기 \"계획 포함 시사\" - sportalkorea.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnpDY29SbFNLNXByV0ljcWtXeHdMeGNWVTNyUEtsd0xTbjkxdEFuRWFJalNJTlppQTlxV3ZjX2hJcU1vb194eE5qeElwQnpFbFZyY2trY0lHaTRnUExoQi1hWWl3Szk4R2ZjazBLTXlaSzdlZW5WRjBCRnF5YkxoNGN3?oc=5"
         }
     ],
     "transfers": [
