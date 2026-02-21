@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-21 18:18:22",
+    "timestamp": "2026-02-21 19:15:48",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -12,13 +12,13 @@
         },
         {
             "source": "The Guardian",
-            "title": "Premier League news and buildup, EFL and more – matchday live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa216dV9ZM0kzZ04zMk1ZLVZweEJzM2hSc2VhQU9JMWVyekxwUnJWT3BIWEE1cTRoaE5pOWFCcUdXVTlxZXRBTmJ3S1NZLWxMQnBxcDhsWHdmZ28zd0JtU2ZXelFJMXJBTXo4NWNiN0x4LTMyY09qbVktRVNwTHpRc2NNMWJYN2JqLWpDTncwUWIzR1dpREZsS0JFc21URmJlWGFESS1uTlFJTGZ0?oc=5"
+            "title": "West Ham v Bournemouth: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTNLMlpTUnpVVHFHMFR6Q2VCN3JDS1FIcWM4U3pyelJySVN2cDhNaExsZjlLRGx4ekt2cFppMFlpZWVvdGtUMGlNaTdQbmhmaHVlY2ZLZlFLXzN0QmFSQUdNczFjRlMzVTRLV09kaVVwajhiUmYybFNGcDBfRWlRQXY4TmdCNDJHOWwxX3A3VnFQcWxUamR2b3pFbjM?oc=5"
         },
         {
             "source": "BBC",
-            "title": "James Milner: Brighton midfielder breaks Premier League appearance record - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0emc4NzZmME5JeVlYVXBQbVZTZjJzak9yTVBvaHhWN2h5NU9RSW5IU3ZpbUNrY3Eyc2RWZzh1aW1EcUY0ZXpTZWpmMkZmUlZLMUtZcmpvN2J0R3oteG9zRnNFVDFQUjA?oc=5"
+            "title": "West Ham vs Bournemouth: Confirmed team news - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYcmJNS25ZaG9JQ1l6em5wWmhVdXBLUVpJOGk5eENQbDFVMVB4TXhkb3laek9PVEFRZXRYV3d1dWJZc3RyUEx1UVlRVkJJYmY4aWlsWDBCLWU1cGtScV9Sb2t6ZnB4ZFk?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -81,6 +81,11 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWZMTVJNVFF0TGZCSHBRcHdmQnVtQlN0bFJydjRVdXZpQXdqSGlPQlFXZ1pHOTFYX3ZDRUI4SEV6VXRSWVdPTThXT0wxTUQySHJNb0xMME9BanVnUHdxWjR3YU5abno0SGV3YnFEbnZGaGJ6MHVLdUxQNlJXbUx4MG9pMHR2NU96SHI40gGfAUFVX3lxTE15c0NhVk5zVHJrZ1loMURZeHRDcjRBTkk1QWI5emhaVG9XM3hENEdnUzBpbEJodVA3aXg5aHhpUzgxbW0zNmpxN2k2ZmM1RGdBMGo0MmRhM1JBRlQza2ZfaUlJNnRfRlI4SUROUDMxRnJCNWNuUElCUDBDOVNWWUo5ZjVaRGFGWDhKQnFKWEZUWXY4cHA5WFMwUi04c2llVQ?oc=5"
         },
         {
+            "source": "금강일보",
+            "title": "일몰 시간 잠시 멈춘다… EPL 라마단 특별 조치 - 금강일보",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyaTV5S00wZkJ6RWM4ZTh4QWZKM05GQmhYRjlIR1FWQmxZazJpUk5BSVJ3eXVyYmd4LS11dGhyVUN6WE1QbEgtMjBINWVpOE5RSUszelBRejQ1WnRzMUVEdmJXLXhjMjE4MEE?oc=5"
+        },
+        {
             "source": "Chosunbiz",
             "title": "\"아스날 우승 못 하면 떠나야 할 것\" 英 전설, 아르테타 경질 가능성 '냉정 평가' - 조선비즈 - Chosunbiz",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdmhfdjRxeW95RWppcWQ2elM1YmhJY3V3OFIzTWhORHRzOGdDVk1BYVpLekhzdW1vNUlESmFpcGw2ZFM4NE9LYXVkN2xnelYxc1Y4TFZ1bWFfZVMzSFJUc0FkSENFVmIybVBtWEgtTjhYS3l6dlVlTXh6ejNRQ1dRYnJENNIBlwFBVV95cUxOa3djNVF5M3huazE1RmUzT1ZveWhqZElSRlFvTHVGNEZ0cFA3NVhpTEpnbkhTUWlmeGdweVpnMjN1YkhmajVVUmIxa25CRGxna2VOcFg3YjlTd0Jscm1tNmFQaUlGMWNMVFdVQUtJRVpMczRDQVZ2WXV0QXgwLS0wb3k1V0dNS2dEa01xbzB5RjhtTENQajNB?oc=5"
@@ -94,11 +99,6 @@
             "source": "스포츠경향",
             "title": "“토트넘, 50년 英 축구 역사 최악의 수치” 손흥민과 ‘유로파 왕좌’ 오른 후 겨우 12개월 “2부 강등되면 최대 망신거리” - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTAyYnNVT0otU0JDYThUVTR5TE1UaS1Rc1Jza2tKZWh3MnM1MEZVeEV2WkZmWF9aMElYang3bVdxN2c0YkpIRVp0RVVDVTBmMUVUR055QjY4cHZTbkHSAWNBVV95cUxNdGYyTXR5U1lHU0NsUk1JalZUTE0xWVR1U3hVdWoxS1hIeXZ3QVRZVDFxM3dFcjhMTXVINkNrZExkdlBUT2JqZHFkdU9QTjI5UWVXYWg4ZGpLY01ZS1BGZVV6Y00?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "이강인 패스, ‘괴물’이 받는다? PSG, 홀란 거취 맨시티에 문의 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN3FBWEdob1V5NzdrZGJOcHlxTGxoZTRROUpXbzdXNDBNcjd2RGVseDRyZGZ5czdBMjBadlRSdFo4Vk94M3JvaTJZZkN0YnB1WWFHMmQ0Zld4UG5hLWRraW9VTUF6ZnZTUUd2My1vempzdkhkRnVOODgwQzV2Szdzc0ZCbTlJOGREUVI40gGfAUFVX3lxTE5reXFOYWJzQ2ZQZmV5akFaaWR0SG83dVQ1SUZKdlFXUlJlM0g5WHlnWTltLTZfWnlDdDBfS043bU1BNW5WbFFIUHd5dVEyMHQwcTEwVkRIa3dTQnJEbzZPcFRCSkZtMm5aeFNyZEFwZlB2OEk1RGIwMmF2X0lpc2VTeGlDRnprbmREOTdWckxTSkRDNEVxVWc4eG5IYTVWMA?oc=5"
         }
     ],
     "transfers": [
