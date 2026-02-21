@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-21 14:15:46",
+    "timestamp": "2026-02-21 15:14:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League LIVE: Build-up, team news, live text and score updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZFZFbFVudGwydlZHM3ZtQjhSaDMyYU55ZmpUSHFJOXRHTk4xeXVJSGJCMnNPZ2tLMDR2NURlLVo1X0VzRkU1NXNsSXdqWmxPU3MxdmFrSVNoeElhTUxWRFFB?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "The secret to James Milner’s longevity as he makes Premier League history - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXdXeXBPLXBEbUZMT0hhUUtBRjVEMmlMM0NRZ0pGcXhEYm5OeDZEVk9fZ01TZWZvYlZqaXRwWktvNXU2OFlta09JUU1UWTdlSHV2eUY1YUhmX1dCZVpCYnFId3NqQkFfZlBOZXRPUVFzSXl3SW40NjVaUjNwWGJWNWdFQ0JYazZzcUJ2aWlPVjhSMVVpMlJ4WWhSdUlPU1FtMUNEaDRnQQ?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Premier League news and buildup, EFL and more – matchday live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa216dV9ZM0kzZ04zMk1ZLVZweEJzM2hSc2VhQU9JMWVyekxwUnJWT3BIWEE1cTRoaE5pOWFCcUdXVTlxZXRBTmJ3S1NZLWxMQnBxcDhsWHdmZ28zd0JtU2ZXelFJMXJBTXo4NWNiN0x4LTMyY09qbVktRVNwTHpRc2NNMWJYN2JqLWpDTncwUWIzR1dpREZsS0JFc21URmJlWGFESS1uTlFJTGZ0?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Declan Rice on Arsenal's current form, the draw at Wolves and his 100th Premier League appearance for Gunners in north London derby - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQjctQU1nWElPcFF0dl9GZmlRVndSM2lmOThYWXA1dkVaUmVnNy1wZk5BcTk1UzRWNTZlSVk5RGRhdlF5b2E4ZWI4U1NnMlI2c01UMVVtazhBaWpIOE9Rak5wM2JEWGdDWjE2VUU1N19XUm5mbVd4TEhFeXZyRi1hM0dqdkVZNUhOaTJGWmZUQkYwSFNsbUhobENzWlNmQ0dWT1ZSYU5Dd1hpLVF2aTBjMjFGVDZxNDNfLTBGVkE2MGlEbW44bU5wRmgwR3p0a0VQX2phc2xwOUZzME83MXUzOU50SzUtdlVtbDRLMGZkNU93NHFWeUM1RkZXb3NJRlNNOWJ3S1pscHEyZ2hBZTc2cGxn?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: Title race tremor! Tottenham to rock Arsenal in north London derby - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPenVKRWE5WXBkRXl4Y1FKcFNJSmZVMTRBb0lKb3pBUFlmdnN3NmlJT0hQdEQ1OGRjVlJUQzNLbzQxcXhUbFd4VUNvbmdjMTZGcU8tM1ZEX05ucTZPaU11V0sxc251LUdfM3dNNXYyQ1RnLW9fOEZldWNsemdoNXQtVFp6OHl1TXp4WVZURU5XZWQyTWFTNGhBbFlDSlEtckVHelJtMndBcGFHUTBPeDFxZFFOcFNGM1lXalozSU42V0ZzcFVvNXdQbnBpYjBVb242aHRmWGdYVUFLWmtjdW1wNUZkSkVBWXU2dmZuQW9vUnNhTW8?oc=5"
+            "title": "‘Freak of nature’: how James Milner closed in on Premier League record - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2tIekhya2I2U2ZzeGN2UmtOUnd4ZWxoUTlUZkxsc0tEQWZpMkRnekMwRGpnWEJlTVlWYUlka3FHYlg0QXppQUNQUmVILTZ0MUNRS2JZZTktNVpwVEZxRlZMUVcxd1M5M1RYa2l2RFdWaGVMVVE5MnkyLXh6dG56SlJpT093TXJWSjJVM1RHN2FlU2doNi1VdlNudmlVblR4UGxnVDdXbVVzN194NEt1di1Nam5YR2c?oc=5"
         },
         {
             "source": "FootballTransfers.com",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaDFaaVpJZWdfSXNodHF6OTZaQy1lT3RydTBTc3hwX0ppMS1vSTdDVWEzeGJkUUNwNUYtY2wwM0J6T1laU3RubDFBREZzX1d4V3plcENrSTAzbXVvb3lQSWtjZjE0QkRYVFFHWUpXeEV5VTdVeWY2Ujh6UUdwbThIZ1Fra2daX3VSb2JYY3NnQWtMSXRNU0xGVnBubUxRbWthUS1teENvVTFIQTY1TWF4NGktb1lFcmJnTnYySXUzdktfaVlqZ29RbEVoR2FRZEJ0bmxDd3pn0gHbAUFVX3lxTFBLZ2EtU3NvSlF2eUF4bGhkWThfS0ZSbXR6ZGVfNkJUcXZONGdWNkVwUjNzaEU5QnJ5THlRQjhTZ2N6dklfZi0zVzdTeWRrZjRCODlhZVV3bTdCRVUzRkVGVllxTnRhNVFkTmFObk1sejBsa2VFaC1Wd1ExcmFqN0ZXdFNleElpcGlEYzVBZ2hzek16LVZydVJlc1ZRU3ZoMGpUdFZ5MEpBVWdiN3Z5WnRlOWpTWVRpUEZBSVJvUU9qRmlEVm90aGNxZm9JUXZjNldBV3VnWXhETTN1SQ?oc=5"
         },
         {
-            "source": "FootballTransfers.com",
-            "title": "Fabrizio Romano announces Premier League club in manager sack talks - FootballTransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUhJWXFMQk01T2V3d2hiMmlrSmtSVXlneDBKcHdLbV9kUW5VZnBEeXJlbTV0bndicUlyR21HbG9HWFdLUTRrQ2RvMmZmWFpEUklHOGVhcFhELS1uRWo3bG1UWkl5amo1R29WMmlURnJxQnM5bWNfaXVBT3BFT1FRZ0psdFp3aGg5c1pUdnB2SVdjdkxUdmJzQ2xBZW1lQUFKcG1iczdDQjVza3kxUENYQVRwR1hnTWc0MjFiNm9xZGRGUkd4VDEyeGxQd0U2a0kxZFE?oc=5"
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -58,7 +58,7 @@
         {
             "source": "Sky Sports",
             "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
             "source": "sportalkorea.com",
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HOE5GUlZpZXg1Y3J3TXZmRDk0Z0pXN2FnUmREdGxaSWo5dGxINnV1aWViRmFYeGNLaVdRSmtWeWNkNkVETHJWUlhOQ0IwXzg?oc=5"
         },
         {
-            "source": "Chosunbiz",
-            "title": "Tottenham relegation could trigger mass player departures and overhaul - CHOSUNBIZ - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYUJoQWVEZEFVdjE4WUxvQkdaeTIxQ3VIZWh6Ri1GVzVfajlvaVVUcFpsNVlxbE9OM3U4X2tPb1o0Xzl2cnRDY3F6RVRrN1Fac0dqLWJZVjRtS1hVVnozeXpWdjRISVduNG9nWjdvbFA2MkxtRmV6d0RkazQxYWfSAZMBQVVfeXFMTkh6WnlJRmFvMTFDTFRBb1ZkTVppY29YLWJSQVlUN2Vxa0ZsTXdlU3pab3RFRUVfcGFnbERCOHNaeWFqeTU2XzBaUXlkT0RLNU9OZVlyaG5pQ1VoZExPNXY4VEtUMVYzUlN3Wkg3akRhMUpsUGZ0WFNpcHEwNVVOcXZPX0ZWVHJySy02QkdJNEEwOGdj?oc=5"
+            "source": "sportalkorea.com",
+            "title": "\"추가 영입 필요 없어\"...'韓 철기둥' 김민재, 프리미어리그 이적설 종식! 뮌헨 단장, KIM 잔류 쐐기 \"계획 포함 시사\" - sportalkorea.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnpDY29SbFNLNXByV0ljcWtXeHdMeGNWVTNyUEtsd0xTbjkxdEFuRWFJalNJTlppQTlxV3ZjX2hJcU1vb194eE5qeElwQnpFbFZyY2trY0lHaTRnUExoQi1hWWl3Szk4R2ZjazBLTXlaSzdlZW5WRjBCRnF5YkxoNGN3?oc=5"
         }
     ],
     "transfers": [
