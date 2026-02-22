@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-02-22 11:12:28",
+    "timestamp": "2026-02-22 12:22:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: Title race tremor! Tottenham to rock Arsenal in north London derby - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTEhTRzZ5MlZBdEZLV3B1Ymxkcm5mZHFRN2pWUkxUZnM2SFUwcjhhTnZ2UEFybk44XzhmU3Z6VXJoSE15bXlqQk91dzNqZjNrZFl2eUhYZkcwNGtRcmZpamQtNXkyRFIzX1N5bTB4VkdkM1pKckk0QlhyWUtGQ0c1S0k1d3dydU5OanRQaEVyQ2laWGNIQVY2WnJqOXR2N3dxLVRPZzkxMjl2YmZzZ1RWMTNKdzhqWno0U2x3a3c5TkNHblQtYUoyVHVOZDh1SmlhOTRsNFcxQ3Awc1pTWEllRHNQZzU1bW9UQzJWa3g0OEtlUTA?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Manchester City 2-1 Newcastle: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQy1PUENadW9wNS1MR3hjeVBjM2ZWWVBtaU9qUC1QNWJ6RDZpREhlYkpHM1l2eWdIRzF2VUZCODFRcXVudWhDLVpaZzFiaFZuWEJQX1otdS0xQlh3WWZwZnJSenowT0wzY2FjNVFHS1dZci0weEw1akZIMUpJUDEzaHMxVmRqYTNMN1FEVmhUd0VxdWRLcUJabUdsOWJZNDk2NVVv?oc=5"
+        },
+        {
+            "source": "mirror.co.uk",
+            "title": "Arsenal vs Tottenham referee is 'banned' from officiating two Premier League clubs - mirror.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzJXSkhVU0J1RFBuWE1Db3dBQ3ZJVmVubmRrT2szVExGNDM3VElIMUZBYmtGbkEwMjdTcFhiZmsyVE1GQnlyWjFQcWZSaThNTk9vdnFuTmpleUluNThaOTlmUVhhRDN4Z3NoenV4LWNVZGY4N0ExWTBkSlVZS09zQTNGdHZtSm83dkQzTWpBc2ZMVkF10gGaAUFVX3lxTE5vOTQ3ZHdqMGU3c0lCeUZDRWRmNjVpVkdtT1kyS3R4REM3c0F2T2x5Mi11UDVyTkg2dExfOG8tM1NXSXJzTUpGZk0yVGRIV1dNYVdMTEJFYVdGMGJkZk1xRy11MElxNy1aWl9VWXBGTGxLZHN3MVk0M2VqVVpUQlQyZXlPd20yZmV5blRiN0xTSldFempnRWhuVEE?oc=5"
         },
         {
             "source": "BBC",
@@ -31,8 +31,8 @@
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUhJWXFMQk01T2V3d2hiMmlrSmtSVXlneDBKcHdLbV9kUW5VZnBEeXJlbTV0bndicUlyR21HbG9HWFdLUTRrQ2RvMmZmWFpEUklHOGVhcFhELS1uRWo3bG1UWkl5amo1R29WMmlURnJxQnM5bWNfaXVBT3BFT1FRZ0psdFp3aGg5c1pUdnB2SVdjdkxUdmJzQ2xBZW1lQUFKcG1iczdDQjVza3kxUENYQVRwR1hnTWc0MjFiNm9xZGRGUkd4VDEyeGxQd0U2a0kxZFE?oc=5"
         },
         {
-            "source": "Anfield Watch",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
+            "source": "AnfieldWatch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - AnfieldWatch",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
@@ -53,17 +53,12 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3ZITlFESVNKemdteGQ3WGxVUXBOdnJqcUZHR2VUVmVjUTV5dURxczdfaGhwLWxiX3Y2eVRuUW9zRXBNRTBwaVd3blVjdWM0MkhhbEhYbzUyTklQelc2aTNkSDJ0NWgtR3RUMUI2V05KdTU4X3drdVBwTy13S1pETGpWMnpCaHF1NkdjWHNyd0ZCZ1NuWXNiZm1CRERVUllmLVJ6bEJLaVRsZFlCRDNjYjRndURMcVp2T1E?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "EFL transfer news, rumours and gossip for Championship, League One and League Two - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVlZM0N5dUx0a19qdGI1LXBMczF2eWw5NTJRMUJUSWhtVTJqV1I5TlJ4Rzh4NnpsY09fWktIZHctZDFyR2luZmdkSlhncmdIdml5SnZCNHlyYnZyQ0FFcmxSWmZEM3dXU2cyQU5IWG5RZzd0d1d5MGlRQUg0cDBQUmNVTExnU0pwVnZMX2dxVlNHYkwweVBJZ3VmNGJEWW5kd1Rxa2lwN3d0bURsN2NMUUREeUhIN1hCODc2ODN1N2MtUHdqeE5FdldGM1dTWjh1OXhvdWJn?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
             "source": "뉴스핌",
@@ -71,9 +66,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zTW1FdERwNjlNU3RuX19pMnliZzdQSWlXdXVRRUpGMWtCbVNxdXRHcXdLcHBpNXBaRkVWZlBWS3lNM0tXZFZScm1TbXo0TFpYM1RXRVVtbnJhT3Ro?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "[오피셜] 프리미어리그 역사에 남을 기록 등장! 밀너, 통산 654번째 출전→\"역대 리그 최다 출전 기록 깼어\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkVlbFhqS1E2Rl9VaWVTbjgyVUdXZnhVYW5SOWgyZ0RETnIycHNQNjNTWHZuZC10YWxCa3RONVNlbm5Ja3o3TWJCSTctN3ZMUG5LZjktNjdzQVByc1Bhc09saHhJek5qeEQxSUlhWG9HVDhzbFkySUlpc2RVQl82cTNB?oc=5"
+            "source": "네이트 스포츠",
+            "title": "[오피셜] 프리미어리그 역사에 남을 기록 등장! 밀너, 통산 654번째 출전→\"역대 리그 최다 출전 기록 깼어\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lMzFlWHBTM2JPUnEzS201SFZNSWV1NDhrbnRwODZiTnZqNmVXcEM3UjRkaDJHdS1KWjhiWUZjdWcwXzJmTDRHaVFCVDlVNWZjdk5JRzZNSkxSVHpN?oc=5"
         },
         {
             "source": "톱스타뉴스",
