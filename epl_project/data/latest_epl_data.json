@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-02-23 20:32:46",
+    "timestamp": "2026-02-23 21:33:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Everton v Manchester United: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFhMWllhaWh4R1h6eWVmWC14ak8xcFhLeElYT2lReTRYQUt1MUlFZ1NPSldRTkRNSWo5d05kcEpLNTYtQnR6ZFFEbEZJM3g3QUNaUlpHMUFPb3NvWmdzS2o2WjNBZGhlVDNiQkdPRGE3V1phNFpra09IMmFtV2ZyVldkZkR6QzgtcHd1SFdzWm9ZMlBrUEVBMzROMFdodlhLQU1v?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
@@ -14,11 +19,6 @@
             "source": "Sky Sports",
             "title": "Tottenham: Relegation from Premier League a real possibility after north London derby thrashing by Arsenal - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZzVTdkhrZmoyUDRfU1ZqdU1kdDZaVFFzamJIZmFGNjZMWFphcE9pcWI3Q0FNTW9yVzV1RzFTOUpOVXZKaFRlVnd1bXVBeDF2bXViX1JTLTZQRUdfNmFxN3c0UG5hTV9SbUJHZnVIYjlrRHlRRUFuckZTZWFaU2tpZk95RlBwcEFpVmxDbGE1ai12YXYxTXVaN0tiS01SQ0tJTlpCSm9pMEhYWk5pMXlUUE96cjA3Rm8yNzlzbVFFMFlpaXQ3SHlqNzZyaFg5ckp2elFKeEJvU2pjMnBaelFOdWNJeXpqc3dzc3JNWlNYcmpZUQ?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Everton v Manchester United: Premier League – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFhMWllhaWh4R1h6eWVmWC14ak8xcFhLeElYT2lReTRYQUt1MUlFZ1NPSldRTkRNSWo5d05kcEpLNTYtQnR6ZFFEbEZJM3g3QUNaUlpHMUFPb3NvWmdzS2o2WjNBZGhlVDNiQkdPRGE3V1phNFpra09IMmFtV2ZyVldkZkR6QzgtcHd1SFdzWm9ZMlBrUEVBMzROMFdodlhLQU1v?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -66,19 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNTRZcVdYX0dNTC0wWmRNSUpKYU03YTM3UE0zSE9JNElSX3RKNlNBcXlvRDRiMUtITlBUT05JWG9Qb0hsU0dTQml0TXhha2I3NlJkd1BYbEZKbmNWeXVVOURzSDZWV0RZLTN4b3ZmUlZRMXM3QnhkRUl6WjJUUGh6WVJza1g2WWk5aFYwZ212eFFYR3dGMW4wWXBkY1ZrSHAtckNIdzRhdkZKdDFYSWhmQ252VWc4b1dfQVJ5RTYzUVV1eTlNR3FEdWlCZUtSZ253V3hoNWY2dXEyUk9qVmhIZ3NTZ3E5N0JMQXQwemFfNUM5bl9idTN0WG02RQ?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "EPL 토트넘, 라이벌 아스널에 참패…감독 교체도 무용지물 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WmJfQzlLeXgyTHJhUC1UWEtVWFh4WE9EWmJ3d2U1SnJqR1FzYnV6dG5tSjZjVGVoeTc0aWh6R0xpX290Q1dQaXVBNEJLR01CMTNrVm9YY0c5U08tU2c4NdIBeEFVX3lxTFAySlRNZWx2NXhHZXh3bFJ3VVZRVzFDb3V1VTJaZHJUckNyOUtqVDRQUmRTNmFNS3hncDV3SDBOWXpvREdMNDNSaC1NVEhoekJpUGo1dmplbEhMNWQtQUFCOFQ3ZkdvVllvcUNBYkFFUThxSmh4TjlPZg?oc=5"
-        },
-        {
             "source": "조선일보",
             "title": "\"로메로-반더벤 동시 탈출 가능성\" 토트넘, '철기둥' 김민재 영입으로 수비 재건 초강수 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGU0UzhtcEd2Q1BkMVlObFRPbDJTWnNLVzJtNlgzejNheG9OVEtxQ3BTTWVlcE1xOTNSOWdzenZHU0lBSnltLXJzSlh4dUVLSG4wNHl1Z1dleTZsX1J6ek1wQ0NrR1JtM21HYzNtT2Qwc1p6Q1VBRnFpMUFYaWVjOWhTYmozY2wxQzMw0gGfAUFVX3lxTFBxd2NQTVZuX0xNc0F6Tkd4by1BUnV0QmxRR1o4cmlITjhvaVZ5SzVGWURhQWRtN2Zkb0JjVjdrS09Ja3BJclVhRDVHb2k4VmY2RC1JWWJ1ckwxTmNCTVpJQjRPU21VZFVNVVNUMU9LVU1TSHJtS0NkejcxMnUzb3loZkY5ZXd2V2Jkck5uQk95NmJTWVBsNHIzdzhHRTdwWQ?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "'경질 두 달 만에?' 英 풋볼 런던, \"토마스 프랭크 토트넘 복귀 가능성 있다\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tamlJclNpOFd6TmwwTzd1ZW90N21tUHVDbGdaN2Y4aXhJNFFFUFVWNjZwdlJoMk9XUGw2SzdSamdYdU5TZ2JMSjJGYnZBWjA?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
             "title": "\"손흥민 순자산 1448억\" 아시아 최고는 다르다, 해외 매체 보도…\"MLS 톱클래스 연봉 160억+스폰서십 효과\" - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBteXJDQlp2LTIxczNrSjFWRlN4VXhMYzNVeVpfejBMaTJ1Ylg3dklXRGhZT2xnQ1h5a3VnZ05wY3hjQlhrNXVpNmFxZlhrNV96azY5dk1kSzlWalhT?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "EPL 토트넘, 라이벌 아스널에 참패…감독 교체도 무용지물 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WmJfQzlLeXgyTHJhUC1UWEtVWFh4WE9EWmJ3d2U1SnJqR1FzYnV6dG5tSjZjVGVoeTc0aWh6R0xpX290Q1dQaXVBNEJLR01CMTNrVm9YY0c5U08tU2c4NdIBeEFVX3lxTFAySlRNZWx2NXhHZXh3bFJ3VVZRVzFDb3V1VTJaZHJUckNyOUtqVDRQUmRTNmFNS3hncDV3SDBOWXpvREdMNDNSaC1NVEhoekJpUGo1dmplbEhMNWQtQUFCOFQ3ZkdvVllvcUNBYkFFUThxSmh4TjlPZg?oc=5"
         },
         {
             "source": "OSEN",
@@ -99,11 +104,6 @@
             "source": "sportschosun.com",
             "title": "韓 축구 초대박입니다, 김민재 한국인 EPL 21호 프리미어리거 가능성, 이적시장 전문가 단독 보도 \"토트넘+첼시 영입 명단 포함\" - sportschosun.com",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yMGlUdjc2c3Z1RWxPZHFETk0zSjV3RGlVT1NfeHZLYk1nMlVobnlyM2NKYlBGWVkxeWxjY0JxY0hpdndnQmJta1ZRSUFQVGhUQWZZTURxYVJ6dUM2bThaZUFLQ1NoMHFSZUhUMkVQOU9VUFFZbFQ2TXQ3YzVwd9IBd0FVX3lxTE9xNnJxZG5GMEFKQTFYa3RVRTlMU3BoeDVaMXI4Rk05UTlRb1k4T2hWWU5TOVN3NngycERFazA0b0tYenprYkRUbW10LUlyUVVDaDJFemRtSHlONkxJdGRWS3U3QkF6dzJLVUFaNm1STmhHLTBoTk04?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'경질 두 달 만에?' 英 풋볼 런던, \"토마스 프랭크 토트넘 복귀 가능성 있다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tamlJclNpOFd6TmwwTzd1ZW90N21tUHVDbGdaN2Y4aXhJNFFFUFVWNjZwdlJoMk9XUGw2SzdSamdYdU5TZ2JMSjJGYnZBWjA?oc=5"
         }
     ],
     "transfers": [
