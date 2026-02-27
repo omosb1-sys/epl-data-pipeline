@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-27 16:27:31",
+    "timestamp": "2026-02-27 17:25:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Fantasy Premier League: Gameweek 28 Q&A with expert Heisenberg - send us your questions - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03TDNDdWxKdnI0QVJuRnlDOTYzcXNYRlJ4LWtnbkNUSmdEUGFQdHZfQ2tZV21lUG96VWhtSy1OTXMyb25NV2JUdnJzeXlGZS13X3VwQzV2VWcyRWhuaDJxaXpR?oc=5"
-        },
-        {
-            "source": "BBC",
             "title": "FPL tips LIVE: Gameweek 28 Q&A with expert Heisenberg - send us your questions - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BU2xlb0Y3NlRqY0RzZlBKc3lMUlFpZHdxUlJqM3ZIaTRwSlpqdUtrUzBfd3FnSXpyQno1ZjNKMHZpSVI1SFdKUHBJOTYtVFRHanctR0hUU3g2V3RDRDhQMXRPS28?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Scout Selection: Best Fantasy team for Gameweek 28 - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0pEeUZyam9qbkVaajRHam4tRUdod1lUU3dScmNVaTlJYVNUWjI3YlpON3FsbTRHSEIzOW9sTzA5ZmZOc00wYmdQYVUtV2F6eWRQX0JuN3NOYUNGU1FzVTR3OVVKT1lGLWRXNk5xbXVETmhiRGozc3JUb2NPa0xTZUFxTjY5NnVNNWF2a2FmZUltVnZubnF5SmVSaw?oc=5"
+            "source": "The Guardian",
+            "title": "Champions League last 16: Manchester City face Real Madrid; Europa League draw – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0UzM2RWem1vdlg0M0Fhem9NSmF4RTNqWGpwNWVob294S25XS1JHdU0wNURraW1TZ3FXSW1NQ0ZiUW5kRmFMdm95MGtVbjJLZjU3NERuVERVZnRTYV9wM1REOGQ1MTVKWGwwOGpqNEhiazZTcTdsOWJXUVNEQ2JYSXB3RnRra2VhQ0wwY21aQy02R0JhdWVqWkVteDFDaDFiUFB1VVhUSGhsRE1TMzk5LWRlZk4yQUg4WlE?oc=5"
+        },
+        {
+            "source": "This Is Anfield",
+            "title": "Man City 115 charges: Premier League criticised, rivals ‘don’t understand’ delay - This Is Anfield",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlFVN3hKanpVd2xOd3o0dmF0WktoX2J2cUxGSm84bzNqYjFXaU8zOTFNQ25NUWdXaVFLTm5tSm0xSEtGbE44RGplYS1iYjRZa191T3BRZDZzRDBiUElTaFFHc2ZYVi0zcmw5RVdiMFIyeVFNbllJSGduNkRIT09zeWZSbWhfUHA1SVJ2M2N5Wm5KcUctRElBSnBnVC1YeVFXbWFV?oc=5"
         },
         {
             "source": "Stretty News",
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Tottenham confirm appointment of Igor Tudor as interim head coach - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWtHVlhzaWFIOXFQQncyWnlUM1BWLVUwVUtiT2Q5U0x5cjNPLVVGLUI4ZEhMUkUzZjZxMHlSejhvVUJ1REZ3d2hCWXhSTWU1b3NkcnpjemNaRHlLS0d1VFhuekdkeHZBVk93dUtCVHlpcDhzcnFfekE1NmFoanl1RWcxNXlIZEoxdDBvMjFFaw?oc=5"
+            "title": "Arsenal make opening £30m offer for Ajax defender Jurrien Timber - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTC1XQ250bGoxLTVXMGVLVkNyMHpXdUQyZnZ2QmRLNS1aR2JVcUZNSDItUGh3MTVOR2RuSGJLX3VDamtjSUZMYU5CdjI5eF9yR19kZnJuLWZtMlNtV3JjamxCV281MEtJX1UtRDVXQ3M4MXBpZ0hNdnB6R0tESHJIS1k1dmhnVUk?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -71,19 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sS2xWMzI5eWRmeGVLSVpvR1dRbU9PNGM1TXRDeGR0WFR0STF3ZXFUb1FFcEstSDhKcWxrd2VQV1U4NFVJRlN2MmlZcEJWc1psX2lFa3Nfb05BUFNydGpWSXR5X3FlVlpE0gFsQVVfeXFMTnFpeTNnSGpjNGdJTEZHOVpMMld2TDJoV2EzNll1WW5zUmhoeWVXRjJ2eF9QWUFVeDlyZUtsQzNCX19HbnA3YXk3LTFyblc0SEhYYjdpR1dHQ3BxV05CTzFISG5zX1FuVDdqczM3?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "[오피셜] 조규성, 영국 간다…프리미어리그 팀 노팅엄 '한국인 유일 토너먼트 진출' 미트윌란 격돌 'UEL 16강 대진 확정' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lS3JJcFEtS3BpS1Z5VE51UzZ0SWhyc2NfdHdFR2d1VTVvN0JEanhZVFRPRE1YLU1RdHZFRklaWmNBVkEtd0E?oc=5"
-        },
-        {
             "source": "조선일보",
             "title": "\"초신박한 대진! 5시즌 연속 레알과 챔스 격돌\"→맨시티 과르디올라의 겸손한 리액션 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmtJQ2FqQ3dmMlZPRkhNclhGOTI1bExNam91SU9LMVI2TkJGR2hOLXFkeFg4VFM5ZXhZWTZwdmpDM3NjdXFabm9FVkZ0czNlUkNka250WWVkOFJTc1RneWZza21VOXk4M2VFQW5CS05RSmduS2ZvZ3dMZlBuenNqYzlHOVFZUnpuMi1r0gGfAUFVX3lxTFBPZnJUcmcyOEgxdVNCNmFQUFlXazJYTmFLaEthTkFfb1BaM2o1TFdLTWFKYTBLQnRfbHZSeHpDMEJXVmh2WVRpZlZYOHFzekROa1JKM244SUxvVVJETzVIeGIwR0VZR1RsUklRRWFTV0JrcGVlbmxJcnh1d19mTHNFYmlsWTVaRkd5N3B2Z0JIZkJKb1pWc0x4NU5UVVhCbw?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'콤파니 감독이 신뢰하는 김민재, 바이에른 뮌헨 경영진은 이적 검토'…튀르키예 클럽도 경쟁 참전 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vV2lrajJ5WE4zbEtzeXB1NEVJWERZZzJqYTIxQkV6d3FiU2I4UTBUSzlzVTRFbnBlYmVFcXhKNEhtT3ZZX1E?oc=5"
+            "title": "[오피셜] 조규성, 영국 간다…프리미어리그 팀 노팅엄 '한국인 유일 토너먼트 진출' 미트윌란 격돌 'UEL 16강 대진 확정' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lS3JJcFEtS3BpS1Z5VE51UzZ0SWhyc2NfdHdFR2d1VTVvN0JEanhZVFRPRE1YLU1RdHZFRklaWmNBVkEtd0E?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -94,6 +89,11 @@
             "source": "OSEN",
             "title": "4위에서 14위 급추락.. '리그 생존에 집중' 토트넘, 챔피언스리그 파워랭킹 굴욕 - OSEN",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfZ2FBd0x5eThLQXVWcEEyNGFtV2hMNEVWUzMwb1pzTVJiOVVYdmVPbEwtMkVpbU5uaTRUN0RBZExRZ2hlUmxLSkRnc2t4NUFPeU9Z?oc=5"
+        },
+        {
+            "source": "일간스포츠",
+            "title": "[오피셜]레알 vs 맨시티 초대형 충돌…챔스 16강 대진 완성 - 일간스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qdGtBR1pvMjZsQzUxYzFTZm9obWNhNEFMMTI2OUVralJSd1lTaW9GbHF3WmpFUzUyU25CNjF1REVJUGg4MkZHNmQxUGtRaGpoOXQ1bXpILXF1UWM?oc=5"
         },
         {
             "source": "SPOTV NEWS",
