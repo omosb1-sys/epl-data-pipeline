@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-02-27 07:38:01",
+    "timestamp": "2026-02-27 08:28:47",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "‘Premflix’ app to screen all Premier League matches live – but only in Singapore - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW40OFhQYXozdkNHb2JJOGdqZnlJdDBFZ1REci1kNHRUYUMwd2FVTHdwa2lPSVJLRE1Hby1KUE9KY0FtQW9vY0FMQ2tLZTZMcklBbmhPa09LTDl1aUJUdElJZGUtX3JjUC1CYWVIMHQ3d1JYY2VFVktDRXU2VEhyb1RmZW80UzU4U0M5cWZlcVVXd3BJNjNtNzd4UWlnSm42cm56TzZ4c0ItajBKX3JDeEZKTQ?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "Man City 115 charges: Javier Tebas says handling of case 'damaging' for Premier League - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rbUdOWWN3UXlkTkdwV1VXYVdPdWxNN0F5SEl3Y0M0UDVqc1VyNF83OFFDRUZjMGFQaV95cTZQeEV0V2dhc2g1a0wtWEhLa21HSzFmMTJ2UERVX2w1endDanRXWGlPWHc?oc=5"
+            "title": "Premier League to launch Singapore streaming service for 2026-27 - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qbXA0YWFLR3pTQjV0ZUpuZVN0c0lnRlh4RkFVTXAtb1pCdFFzOXh2LW01MG41ano3X2pJZEFNdmZ6dVlUblNzbEhleTVPcVR3dndqR3NjQU5jYU1XUTd1Z3pTTHpzS28?oc=5"
         },
         {
-            "source": "ESPN",
-            "title": "What's going on with Premier League's 115 charges against Man City? - ESPN",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeldXQW1NR0V4MHdScU5sQ0luZ2E3NkhTVTVPSk8zX0FOdjEyX1plX2wzQlhNb2xmZUl1dTJNUEQwZVNZcnp0bExfYWJNU1liOXJHYndpQTVXZDIzeW51UVgtSjRlWlVtNDhTV1FnR2xoMTFjcTh4SmFKOG4xYzNvbUU4TTc1STMzd1lIc2xPLU9fN28zU1N2ZkpLd0xzT09DS3ZySXJmNFNCTVZ2TEFNU09YcGRyRFB0eUxfZENR?oc=5"
-        },
-        {
-            "source": "Manchester Evening News",
-            "title": "Richard Masters answers question on 115 Man City charges as Premier League CEO speaks out - Manchester Evening News",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWlXc0ZYUW1fMWUxOVBLa2w2ZFhObmFpdFVaN3VUSm9FZ1RFZndZemlBMkt3X1RLSGZ3YWhydTJ6bkFQM2VXNDhNN1BKZWhQcHJlYkZ1RTl3U2syQU1RU2d6YUxCdUpuVnNsTzRKd0ZSSEVwX2pQdm5idFFQNnRwa1pieWFYQ1ZaUDZkVDkxTnJFRENDZnZxczJzdUhxZWZQOVFINW1LOVV6d9IBrwFBVV95cUxOOHNvaWctWDlqOGRmS0VZd3lrdk1sYWU0YzFUT2pHMTNzdDRhcG1PTURSakppQXhpYzZSX256TVlqRTBiSnV2OTEwMmZuNXhDTkdHbm5SYmxMNFFtSWNmLVBvV2kyS0JZNng0a3lIakZiMnIxRkVnWEhmcjRsakVLX19WUGJnZEV1YlVKTEJEc1ZGdTZvYnptSEhKSmRSaXJ2WTdsZmFUa0FDb0pQSWJR?oc=5"
+            "source": "Financial Times",
+            "title": "English Premier League to launch streaming service in international shake-up - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQUQ0enRQNF9Fc3FEWWxlSzJZWkcwbVFoWWVFSzB4bU5aM1hkTHQ1QUplczIxamxDX1NCUWREdXhUWV9mUGVJVlZmdHF4dlVGLVlSWnFnT0Q0S3ZoejJfblBSZkU1ak5WQmNsbjZZWE0?oc=5"
         },
         {
             "source": "Stretty News",
@@ -81,29 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjlwSEFSbUFuR29SbDdaQk5PUkdYTENVTHNpdWVhd1JkMlR0Q2VYZllkbV8tRmxmVnlXSGxVbXVlV1dqNUhoWjdOR0w3cHVIUU9zRDFSNDBkSU9MWENYZzZtSVlGSDhMNGZBS0Z5dllVNDJrT1VDV01GWXhVeDlNVVhYOUE0WXMtdjNn0gGfAUFVX3lxTE1kMDRSMW1UNkpWNFJTUjVHOVZXQ2stbjNScEJxdk1qUVMzZVlfaFUwaW5GcEx4NVROb19OZ212ZFgxbzZISmRBYjR4SlpPX09pbW1TTHZGeDBrZWFVbG10RmFrRk9qY3FwQVVpblpYQlBISXlGcmxzb09vREVvb1V4dVFjeGVYb3JFYTkwcWFsSXhOWVFfQUoyRDVMNWFEVQ?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "EPL판 넷플릭스 나온다…\"자체 스트리밍 올해 싱가포르서 출시\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OV3pPbEg3ekhvRFFxS0xOMHBDbFlhTWhYSWR4S0hXY3FtUWl2cUViVzhqOXQxcGRXT3BmUTlzQW5oNFB2MGFGTEE3dGNpZlh2dzFLRjVoLXU1czJxWXNYaGM3N1ltUnhnSFpLOEhVTThrZ0d1VWRFSQ?oc=5"
+            "source": "조선일보",
+            "title": "4위에서 14위 급추락.. '리그 생존에 집중' 토트넘, 챔피언스리그 파워랭킹 굴욕 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejlDRUFRaVlwdGN1WmhtNzBudHp3amV2N01tVEdLY1VQU29JMGl6cDlmUlYzb3JVY3Zmc0p2NFBlc21wOFBaVndvN1Z0by1LYmcxREE1Wmx4WUJVQmx2bGNQbjFNUlBxRkp5bFhSaHZ0aHdQd0hwX19EcTJlNEtZRUtnd2l5VFFxS3Vz0gGfAUFVX3lxTE1QT3JPR1hKczViWVdrVGlLRm5IRHVENW1vS3E1UzhZZml0dGRGdTNxT2swbXhzWFhZZzhkS1RVNkVJMlptTUFXLU1zMXBNelNHREZUd1NFdUFnS0w0bUk1Yl9Wc3JNSjhZUGFHRERsTnVaSjJfeEsycW1KQ0FPbzVuQUNOT1EwUWFlSlBQSkpaX2VITzc3ZzBGWURMOFFQVQ?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "\"레전드급 재회\" 성사! 박지성·에브라·테베스, 맨유 '세 얼간이' 다시 뭉쳤다→아르헨티나서 회동 \"에브라가 신호 보냈다\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mSGREd2lSWEh4X2liOWVJelFJd3NHRW1kWFZ1ZURJNlRqbWtzY1JFbTNENWZNMlJlTnVCZDJnM3JxSWM5bVRobVFObHVzSE9fR2RZV00yWmJSZUpMT1M2bVdlNy02dExMWTB6U1hKVWVobHZkZWc?oc=5"
+            "source": "네이트 스포츠",
+            "title": "'강등' 이야기까지 나온 토트넘…BBC도 경고했다, \"11명 부상, 추락하면 재앙\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RckRKV2VMRzF1aG9jS2pJY3pkaFVyVTN6S3lHNDBTTTh2VnE2NzRDRDlwcTAtWEh5NnRscy1DRFVyOWJkVmN6N1RrRUpfNXdzSG1jNEVQbHlCaWpQ?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "韓 축구 역대급 사건, 10년 만에 초대형 프리미어리거 탄생 “김민재, 뮌헨 떠나 토트넘 이적” 가능성 떴다 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DWW8wdUhWOGo1TDYwNlJhQ3B0MXI0YmJCSHgtYmVETjhkcWZpcUx3UHcxSFZfckpEY3NOS1JCSE5YMTN6LV9HVWVBLWstMVRhN3lDX3prVGJuZ3FubXg2MEp3X2NlRlRUbDFESDFwb9IBc0FVX3lxTE9KUndnTzM3ajhScVFfMTh4LWlyeTF0NVVrZEpaMkVXUGx0NjVjYndvTzN5RHhNQ2Y0MUlyRllLSWJNN2VsNzdBcjdSS0ZHM1lXWEl2MFo0QjNXbjJpbDVLZ0tsdC1xaGRuUDhoM2s2NEZTXzQ?oc=5"
+            "source": "v.daum.net",
+            "title": "“손흥민 시절은 상상도 못 한 불명예” 토트넘 “SON 떠난 후 1년 만에 챔피언→강등권 눈앞” 리그 0승, 언제 탈출하나 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STHFwRnFFVGJDNk1DTmdzMnBybXVXdWpabDVibmZPaTdMR0NfdENoaXQzZGlGNnF5Mk44SzkwV01TdnhzYU1ZOEwwMUJBQ0E?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "맨유만 바라봤던 남자, 1255억 가치 확실...현 시점 PL 이적생 활약 1위 \"공격 모든 면에서 뛰어나\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xeXNvcnVvRnRPNGx5SWFfVDJaZFVMYzhIaVZjUlNET3J1cmo2TFNuWURCZS1qZm1tOXN2dk9TZ2k3MnBBc25jRHc1M2ZrQ2h2WlpicGtqaV9mdmlGb0s3Q3h4ZU9GT2ZneFV1dDlNcWN4RFFO?oc=5"
+            "source": "네이트 스포츠",
+            "title": "손흥민 떠나니 망했네…토트넘 No.1 골키퍼, 결국 방출 명단 신세→레알 마드리드도 노리는 브라이튼 수문장이 목표 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KUzE5dDBfa05CbENlR1pwSW1tcGxJcDdvM2dfWkp1N2JwcFQxSFBJdlBIX2k1cm0zdGctVnBXc09GMUlRekF3S2V0VUc5Y0t1NndodzR2RERVc2h3?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "‘먹튀’ 요케레스의 화려한 변신···‘2026년 EPL 득점 1위’ 토트넘전 멀티골로 라운드 MVP - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16bEp4Q1VYdUhKendqMll6aVctbW5oT3laX3VxZURKMzlaUjRBWDVNMndtdG9Ud1ZZNmxlMnRHWW9pQlU1SEdFTFFFM2Y3SDRjTWhWUlFVNkZURlJvVXfSAWNBVV95cUxPMm9jY3lGZGMtcU9taTZXSGRQa3poaU9JUmpsWkt4WVhzRXVFbFZHSktwMnlqT3duRGdEOGEyX0pkUTliQ3V2OVBIdUVUdkpZNE9ibU9yQWVoV2hDVTlYakhDN2s?oc=5"
+            "source": "뉴스1",
+            "title": "EPL판 넷플릭스 나온다…\"자체 스트리밍 올해 싱가포르서 출시\" - 뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wTUFQX1JWUnN0VlpMZ0NWQy1fLTdla1pqWlc5SGF0aHR2bjR5YndpcVBXcjhENnNfalhldjF0QVFISlFKeHNqeEgyaDkwbHFEdGRj?oc=5"
         }
     ],
     "transfers": [
