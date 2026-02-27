@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-27 10:26:26",
+    "timestamp": "2026-02-27 11:23:49",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,13 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Premier League team news LIVE: Liverpool, Newcastle and Bournemouth news conferences - BBC",
+            "title": "Champions League draw LIVE: Premier League clubs to find out their opponents for the last-16 - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BU2xlb0Y3NlRqY0RzZlBKc3lMUlFpZHdxUlJqM3ZIaTRwSlpqdUtrUzBfd3FnSXpyQno1ZjNKMHZpSVI1SFdKUHBJOTYtVFRHanctR0hUU3g2V3RDRDhQMXRPS28?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: West Ham win at Liverpool to spark Spurs relegation panic - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYThxdmkzdGxtMkZTZE9FNGdEVS1NUE9FeUgyUWF6Z3hqUTFiU1JTeDNkck1uNmhzRDNqWUxENVluNU5BUlQyUjAwYUdPblNXRGxlYlFxVUdVb3VPZE1zT2ppbnpLN0swdDBZQU1ocmVidGRvZWo2Z0h5WFBLM2NYU19qTWcyUDRkMDctalduYkwyX05EbHBhaDVlRU9Hc241UWh2aXoyb1BHeVdNSnhYcENzSUEza1NQNTVhWHZwSnA1cmh3XzU2ZjJIdEo5VDdTaDlBMzdydkxKdnFsRnNOUkt6Y0JXb0Za?oc=5"
+            "title": "Champions League: Premier League clubs to learn last-16 opponents in Friday's draw - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMC16RUhtbFhfNDI5dEx3WUpkZ0kzM2VjaHY0OTc3YU9GOERiblozeVI5T0NSM3lJcHBhRHpoZ0oyZmJjSVBZeks1ZkJneUtMdVA1ZEx1RTNCaXBJcGJWcy0xLS1YTC1WMnlmdUwzLW8zQzY0cmY4cHhKN3p1U3dYbXhfY25qaS1Dc1lWblVQYzZ0SWNKS01HTHdXeFZKSVVuT3BDQlZfVXdRaDZ4bmlNU1Ewck9mTGJUbkxNQXVQcDlNN0U0aUdicVp1NS13ME9C?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Champions League draw, Premier League news, and more: football – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0UzM2RWem1vdlg0M0Fhem9NSmF4RTNqWGpwNWVob294S25XS1JHdU0wNURraW1TZ3FXSW1NQ0ZiUW5kRmFMdm95MGtVbjJLZjU3NERuVERVZnRTYV9wM1REOGQ1MTVKWGwwOGpqNEhiazZTcTdsOWJXUVNEQ2JYSXB3RnRra2VhQ0wwY21aQy02R0JhdWVqWkVteDFDaDFiUFB1VVhUSGhsRE1TMzk5LWRlZk4yQUg4WlE?oc=5"
         },
         {
             "source": "Stretty News",
@@ -21,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXBEVmFaZGkzT2RNd2dnLTJzbHVaTWdJVEZPd3dMRXlPdjNkQ0R5V3JKOTEzMWI1NFJIY2gyUl9BeGp5a2N4aTROLUhqa3VXbklrQXBMU3NLZVRGSUIyYml6RndVWGNWb0p2emJUS0J1TThwbzRHM1JUQ2R6RHR2ZUZhYXRxLVNDSVpTck4xSnJwMVlPOWtj0gGcAUFVX3lxTFBWdl9Cd2k1eWNGUk5od045c2luWENyMEhRbFRUa3dkV185YjRMUld6SnhnVF9xMEVmajduNjdQcGJnZVBvXzRQd3lXMExreWRqU3FCemtzZXVhbWZXU3V4b1FVXzc4cWVVWEJTTzdPQTZzYVVUZkNmaUNHdzFmVW94N0h3NFNXcDhKRXdOTVJhMDFPeG52WTVGVEhTMQ?oc=5"
         },
         {
-            "source": "The Empire of The Kop",
-            "title": "Fabrizio Romano warns Liverpool face ‘big battle’ to sign ‘explosive’ Mac Allister heir - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3FuQXlqUmRuOFZiYk0yVHZ6c1FkRnBPRWtueS00SUxhamdqSkxaNFQxYTZpOE5jbFlDckg4RkxUM05sLW9fSzMwNl9aNmtLYUd1V1pWdWFuTXZLTEdGZ3JOckVfWlF0RzhCbE9CWU4wdWw2WTNLYU5SdVJYaUhFYnVCOTlBZlJ1eWxrQzdteWdBeDBXMWUzdW82T0JrQVNVb1Q0bG1UbEkwWHRpUEt2YTZqV1BTbkhMRWpFUlh6eTNqOV9V0gHKAUFVX3lxTE1Fcnlwa2xicDJtUVpGVFFxRnE5WEJnSGcxc0l0aVBLMjhjOGJiRGRnREE5amlOMDJBcDNtcXktMExNYTJnQnd1OEZsdEtwbHp5cHVUeUtwNTRqb1VFMkFGdTRGaHdSbXJIck4yZklycUVhSmZ1N3pScHFHU2xZdTZaYjFHLWUxSUd4bll3OW51TDNBTFczWXRhWTIzM0ZRUU53MDdKLVlJUEt4R2ZaWUp4YkRNMEV1R3I4bFZWZVRFOWRyTDdBRnpWMVE?oc=5"
-        },
-        {
             "source": "AnfieldWatch",
             "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - AnfieldWatch",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
+        },
+        {
+            "source": "GiveMeSport",
+            "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Medical at Molineux - GiveMeSport",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -52,13 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSzN2NTQtc3diMTU5Sk10OUVVTFlVNnhWN3pqSkg1b0VXVzBCeDJRMXZGQ1pWVEJERWdXZ1hvOXh4QnBzMnl5ZmJrcWpfRVhVRkgyUEpUWG9ZdGNWam91dThyWVZ2Y1A0aHhfYm11WnZKa3FCeTRnakp2dWZMN1J4MnlkSVFhYjZSTkNXTHdMbklFbTV3aWRreXRPRFg1dTZVNkw0MGZ0Wm1kT1NWUWJJTEVZbmhwMVBWZ1VYWVVIV2ppTzgydnFqMGk5QmFhbmg0aEZMUzVBSHFJdjEzaUZER2k2dUlScWdzNldSc3dsbXNlY1k4?oc=5"
         },
         {
             "source": "더게이트",
@@ -66,29 +71,29 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sS2xWMzI5eWRmeGVLSVpvR1dRbU9PNGM1TXRDeGR0WFR0STF3ZXFUb1FFcEstSDhKcWxrd2VQV1U4NFVJRlN2MmlZcEJWc1psX2lFa3Nfb05BUFNydGpWSXR5X3FlVlpE0gFsQVVfeXFMTnFpeTNnSGpjNGdJTEZHOVpMMld2TDJoV2EzNll1WW5zUmhoeWVXRjJ2eF9QWUFVeDlyZUtsQzNCX19HbnA3YXk3LTFyblc0SEhYYjdpR1dHQ3BxV05CTzFISG5zX1FuVDdqczM3?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "\"그냥 약팀이라고 생각해!\" 토트넘, 풀럼전 32년만의 10G 무승 위기→투도르의 응급처방전...OPTA 예상 '승' 확률은 27.5% - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazBHOG5kMUoxM3A0bXFnTHNodmNzSWNybHNGaEtvUWVkX19nN2NsanZnVkt5QWVLVmg2dC1PeGxPZ0E4Z3NtSWFvMFpJcnQteGRxWXdQUVVDSVY1WjFjYjh0WTZwZFVXVkZUWVpqeUZOWkZBeGZlT2xRUFBKc3UwaUVNZUhVM2ZUU2xv0gGfAUFVX3lxTE1GZ2ZBRGlsRE5MazJCZG1vU3B0cTNuVVMwWk1CSC1Kb1VlQmsta2lONDZFOGg4a1FpZjdUV1VGMHhGZGE2eU1uRHlBaUJZRl9zak1Cbkszd3F4bjdEc0tXcGF1QnF3algtOVI3T3FKOE9xOThxQ1JEcHJjbDNZOThpUkJxZWV6ZVhEMmxEOGRFZnNGQmJOalJZMWYtd3Rfcw?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "강등권 경쟁 대신 UCL 활약 원하는 토트넘 센터백, 맨유도 영입 경쟁…대체 선수 김민재 지목 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BRk1uTFROck0zUUxrdnJvWFRqRnVLSDRHTGpoLUR3YlMxeEJZeDdRa085RmVfeFM0N1lUVFA4akpBc2M2VlE?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "韓 축구 기대 커진다! '뮌헨 벤치' 김민재, 토트넘 루머 계속...\"KIM 영입 계획 중\" PL 16호 코리안리거 탄생할까 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjlwSEFSbUFuR29SbDdaQk5PUkdYTENVTHNpdWVhd1JkMlR0Q2VYZllkbV8tRmxmVnlXSGxVbXVlV1dqNUhoWjdOR0w3cHVIUU9zRDFSNDBkSU9MWENYZzZtSVlGSDhMNGZBS0Z5dllVNDJrT1VDV01GWXhVeDlNVVhYOUE0WXMtdjNn0gGfAUFVX3lxTE1kMDRSMW1UNkpWNFJTUjVHOVZXQ2stbjNScEJxdk1qUVMzZVlfaFUwaW5GcEx4NVROb19OZ212ZFgxbzZISmRBYjR4SlpPX09pbW1TTHZGeDBrZWFVbG10RmFrRk9qY3FwQVVpblpYQlBISXlGcmxzb09vREVvb1V4dVFjeGVYb3JFYTkwcWFsSXhOWVFfQUoyRDVMNWFEVQ?oc=5"
-        },
-        {
             "source": "v.daum.net",
-            "title": "'초유의 대위기' 손흥민 이적→감독 경질, 임시 사령탑마저 \"커리어 역대 최악\" 인정... '단 1경기 만에' 좌절 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eWVUWktVejg1UVJ1R2s2MFZNREdwNDY1dUJQc0FXOGNEX2JKOHdMM2dDbGNnam96c3hBU0NpVHdDaTRjSVE?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "4위에서 14위 급추락.. '리그 생존에 집중' 토트넘, 챔피언스리그 파워랭킹 굴욕 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejlDRUFRaVlwdGN1WmhtNzBudHp3amV2N01tVEdLY1VQU29JMGl6cDlmUlYzb3JVY3Zmc0p2NFBlc21wOFBaVndvN1Z0by1LYmcxREE1Wmx4WUJVQmx2bGNQbjFNUlBxRkp5bFhSaHZ0aHdQd0hwX19EcTJlNEtZRUtnd2l5VFFxS3Vz0gGfAUFVX3lxTE1QT3JPR1hKczViWVdrVGlLRm5IRHVENW1vS3E1UzhZZml0dGRGdTNxT2swbXhzWFhZZzhkS1RVNkVJMlptTUFXLU1zMXBNelNHREZUd1NFdUFnS0w0bUk1Yl9Wc3JNSjhZUGFHRERsTnVaSjJfeEsycW1KQ0FPbzVuQUNOT1EwUWFlSlBQSkpaX2VITzc3ZzBGWURMOFFQVQ?oc=5"
+            "title": "4위에서 14위 급추락.. '리그 생존에 집중' 토트넘, 챔피언스리그 파워랭킹 굴욕 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UU2pidVhnYWtickNwamE4LVFmb0RseGxmbW55ajk2V3hpaUpkVjlxVUJtc08ydWJucFM0a1U1Y2loT1JWUVE?oc=5"
         },
         {
             "source": "네이트 스포츠",
             "title": "'강등' 이야기까지 나온 토트넘…BBC도 경고했다, \"11명 부상, 추락하면 재앙\" - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RckRKV2VMRzF1aG9jS2pJY3pkaFVyVTN6S3lHNDBTTTh2VnE2NzRDRDlwcTAtWEh5NnRscy1DRFVyOWJkVmN6N1RrRUpfNXdzSG1jNEVQbHlCaWpQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'초유의 대위기' 손흥민 이적→감독 경질, 임시 사령탑마저 \"커리어 역대 최악\" 인정... '단 1경기 만에' 좌절 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eWVUWktVejg1UVJ1R2s2MFZNREdwNDY1dUJQc0FXOGNEX2JKOHdMM2dDbGNnam96c3hBU0NpVHdDaTRjSVE?oc=5"
         },
         {
             "source": "네이트 스포츠",
