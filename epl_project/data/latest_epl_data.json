@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-02-27 23:14:15",
+    "timestamp": "2026-02-28 00:56:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Fantasy Premier League: Gameweek 28 Q&A with expert Heisenberg - send us your questions - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BU2xlb0Y3NlRqY0RzZlBKc3lMUlFpZHdxUlJqM3ZIaTRwSlpqdUtrUzBfd3FnSXpyQno1ZjNKMHZpSVI1SFdKUHBJOTYtVFRHanctR0hUU3g2V3RDRDhQMXRPS28?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Wolves 2-0 Aston Villa: Premier League – as it happened - The Guardian",
@@ -12,13 +17,8 @@
         },
         {
             "source": "BBC",
-            "title": "Premier League highlights: Wolverhampton Wanderers 2-0 Aston Villa - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNci00Slp6MEdNcG1lMkRHRXJwSXJlRlpWYncxRk4xdlZOR1o5VmNtVUs5ZFJtSU5VcDZYMFNoZkswTlNQdnlYLXFJeTF0WGJhaHNGdG94T0ZHTXFydExwRmxkelU1QXc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Live Commentary - Wolves vs Aston Villa | 27.02.2026 - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yTUJtMldqNDQ0RUFPeUl3clhvRERyQXlzUmFnUng3UW5JdDY3Uk5fQzJUTkhvU0JfeXV6b0xJQXU2S1EwN0huWU9OME5RXzgtZENSb2hhZjhYVkk3Q2xrMDB5T05vOFBBUllMWUMtekpwRG1qMFhR?oc=5"
+            "title": "Premier League LIVE: Arsenal vs Chelsea - radio commentaries, preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMenhtUTNtcFhNVzlLcmFNNmlIMHh2eVhPR1ZrVmQ3Nlc0bFl3TDR5SGtKUkZYcWM4Y1g5QktOVWkwTmxLU1J3UEI3d2pEbEk5S3lycXVWQ3Zqc2F5MGRna1JB?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
-            "source": "Stretty News",
-            "title": "‘Making progress’: Fabrizio Romano provides Tuesday night update on €30m Man United deal - Stretty News",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXBEVmFaZGkzT2RNd2dnLTJzbHVaTWdJVEZPd3dMRXlPdjNkQ0R5V3JKOTEzMWI1NFJIY2gyUl9BeGp5a2N4aTROLUhqa3VXbklrQXBMU3NLZVRGSUIyYml6RndVWGNWb0p2emJUS0J1TThwbzRHM1JUQ2R6RHR2ZUZhYXRxLVNDSVpTck4xSnJwMVlPOWtj0gGcAUFVX3lxTFBWdl9Cd2k1eWNGUk5od045c2luWENyMEhRbFRUa3dkV185YjRMUld6SnhnVF9xMEVmajduNjdQcGJnZVBvXzRQd3lXMExreWRqU3FCemtzZXVhbWZXU3V4b1FVXzc4cWVVWEJTTzdPQTZzYVVUZkNmaUNHdzFmVW94N0h3NFNXcDhKRXdOTVJhMDFPeG52WTVGVEhTMQ?oc=5"
-        },
-        {
             "source": "GiveMeSport",
             "title": "Fabrizio Romano: 'I Expect Official Wolves Statement' after Medical at Molineux - GiveMeSport",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01VHRTeE1mWWJWUHYwQTVhb2NFa2ItMVd3eWhyWkRpb2NtLXJBbXlDVzNFVlFOb3pNdjVWZDVtRGZMTUNNQ25KVUVQZ3o0TTJZeDc0RXpqcktFYWFMRVItbF8wbmlGU2wyNXRKOERub2xtRVVoWG14dFJGYw?oc=5"
+        },
+        {
+            "source": "Stretty News",
+            "title": "‘Making progress’: Fabrizio Romano provides Tuesday night update on €30m Man United deal - Stretty News",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXBEVmFaZGkzT2RNd2dnLTJzbHVaTWdJVEZPd3dMRXlPdjNkQ0R5V3JKOTEzMWI1NFJIY2gyUl9BeGp5a2N4aTROLUhqa3VXbklrQXBMU3NLZVRGSUIyYml6RndVWGNWb0p2emJUS0J1TThwbzRHM1JUQ2R6RHR2ZUZhYXRxLVNDSVpTck4xSnJwMVlPOWtj0gGcAUFVX3lxTFBWdl9Cd2k1eWNGUk5od045c2luWENyMEhRbFRUa3dkV185YjRMUld6SnhnVF9xMEVmajduNjdQcGJnZVBvXzRQd3lXMExreWRqU3FCemtzZXVhbWZXU3V4b1FVXzc4cWVVWEJTTzdPQTZzYVVUZkNmaUNHdzFmVW94N0h3NFNXcDhKRXdOTVJhMDFPeG52WTVGVEhTMQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -71,6 +71,16 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sS2xWMzI5eWRmeGVLSVpvR1dRbU9PNGM1TXRDeGR0WFR0STF3ZXFUb1FFcEstSDhKcWxrd2VQV1U4NFVJRlN2MmlZcEJWc1psX2lFa3Nfb05BUFNydGpWSXR5X3FlVlpE0gFsQVVfeXFMTnFpeTNnSGpjNGdJTEZHOVpMMld2TDJoV2EzNll1WW5zUmhoeWVXRjJ2eF9QWUFVeDlyZUtsQzNCX19HbnA3YXk3LTFyblc0SEhYYjdpR1dHQ3BxV05CTzFISG5zX1FuVDdqczM3?oc=5"
         },
         {
+            "source": "뉴시스",
+            "title": "'황희찬 부상 결장' 울버햄튼, '리그 3위' 빌라에 2-0 완승 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWW16R2lIemZ6Q3ZuNmduRzRJQnZuTklqV2NfcFMwX0Q5djlDTnlVbFBIQkFUd0dCNml1ZUd2VnRDU2ItUGlkalUwZEhta1c2QVdKeDdPRGJQaDNCUjFqSNIBeEFVX3lxTE8xNnA3WWhwbm9NV3k3QUJVcWFaLWFuX2NzZnlIVHkyYk56dWJJWi00V0J6ejZVRGd0VHlyOW5oTVFNRTNQNERkaUo1dUFyc04teEJPTGg1VzNwMEFfVEFuT1VaeTZXWXBhWVNtdEZLYmlSM3F0dWZqSg?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "프리미어리그 역대 최다 출전 기록이 안 나올 뻔했다…\"6개월 동안 발을 들어 올릴 수 없었다\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xZmN0TVFpR2tvR0F6WnR6ektBcjhkeGgtdkM4bGFQR09LLUJEUzJrcjBjTkdLaGxMbkVueE5rZDhZOUJPXzNzWVhvend4ZW5FYzdVQ20xWDBtVHRB?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "'황희찬 결장' 울버햄튼, '상위권 경쟁' AV 상대로 2-0 완승...리그 2번째 승리 성공 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94WTZiU3RvTm9VREViazVkeDBxWnlSbzkzck1mMUtDbHNsZDFHNnJzVGVlR290RUNwZnFtdVEyNUxzRVlzT3c?oc=5"
@@ -79,11 +89,6 @@
             "source": "조선일보",
             "title": "4위에서 14위 급추락.. '리그 생존에 집중' 토트넘, 챔피언스리그 파워랭킹 굴욕 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejlDRUFRaVlwdGN1WmhtNzBudHp3amV2N01tVEdLY1VQU29JMGl6cDlmUlYzb3JVY3Zmc0p2NFBlc21wOFBaVndvN1Z0by1LYmcxREE1Wmx4WUJVQmx2bGNQbjFNUlBxRkp5bFhSaHZ0aHdQd0hwX19EcTJlNEtZRUtnd2l5VFFxS3Vz0gGfAUFVX3lxTE1QT3JPR1hKczViWVdrVGlLRm5IRHVENW1vS3E1UzhZZml0dGRGdTNxT2swbXhzWFhZZzhkS1RVNkVJMlptTUFXLU1zMXBNelNHREZUd1NFdUFnS0w0bUk1Yl9Wc3JNSjhZUGFHRERsTnVaSjJfeEsycW1KQ0FPbzVuQUNOT1EwUWFlSlBQSkpaX2VITzc3ZzBGWURMOFFQVQ?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "손흥민 떠나니 망했네…토트넘 No.1 골키퍼, 결국 방출 명단 신세→레알 마드리드도 노리는 브라이튼 수문장이 목표 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KUzE5dDBfa05CbENlR1pwSW1tcGxJcDdvM2dfWkp1N2JwcFQxSFBJdlBIX2k1cm0zdGctVnBXc09GMUlRekF3S2V0VUc5Y0t1NndodzR2RERVc2h3?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -96,14 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYk5pcFBnYmtIU0FqT1BmS3hYN3dSSGlXYXRJSVlEdmdvaXc3aGk3QUN0X0I2NUNVVUdPR1lmYVBDODJpRkpnbjhDZklhLW5qTHR3a3NMeXRERUdpY28tVUxYS2FGSXdja0NleWdfTDJFNnhCb2c?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "이강인 뛰는 PSG, 첼시와 UCL 16강…김민재의 뮌헨은 아틀란타 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zbU1kU2JFcHVaWUFiZE5mVHl4bnE3ZFpwNFRTMjRNUmtKaFJkNS1mdUc3VjFMdDFuN0NPbjR3X3MwQVppZWtLa2V1MTltXzZJdEZSR09WeHY0VWpiMkhUR9IBeEFVX3lxTE0ycjE4djMyZWFlSVZmb1ByeGNpVkJaak81M24wQ0REdmhhMk9oMzZSb0JnQkZoYW9uSFpMZ0M0WmpzV3EyMWtPRWxDb3NRT3d2QU5uX3ZPT1doSy1fQU51OER1MlNsQmpudnJCLVFobzBTQWNLQmlVZA?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "\"그냥 약팀이라고 생각해!\" 토트넘, 풀럼전 32년만의 10G 무승 위기→투도르의 응급처방전...OPTA 예상 '승' 확률은 27.5% - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Eb2ZmUHJkSWJ4RWQ1SDRWZERuQWxXMllTVTkxRU1XQmxJTFpoQk8tT01KV2pXb0pwUF9KT19uV1FGVDBFd3RoUGJGOVM1U0JYQ3Z2TDJKamJNNVpxUUhaQV9qcHpXdFllMUJfYk9YTUpUd01LSkx3UXhBNUNpUdIBd0FVX3lxTE1EdHV2MDlrYnB0S2x1QVNRNmF3Y19XRENJdUQ1ZmtVX1pjMHI1ZWFpRE1hTlhlREROdjdNZnpkV0cxRzJRSXBsWGxsN2xVVmZSaG5iZlZDOG1Pb1lBdlYzbHBmazJyWlI1VFJWUFpwUDVQQkpIMjgw?oc=5"
+            "source": "미디어펜",
+            "title": "[유로파리그] 조규성·이한범 소속팀 미트윌란, 노팅엄과 16강 대결…16강 대진 추첨 - 미디어펜",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96SGNBQXlCVVN2VXd3Ym9DcUJNc3RaOUZlazltdXJUaTVnNTN6QXQ3U1RxX1VkZGxwTll0MmRpN1lhMmpvLU5BQnItTlN3WmlQdk5xYtIBU0FVX3lxTFBKc05fY3pWUUlyM2lKWWUyckRFTTgxZnJFdW5kYUtLU3RobC1hS0NzaHlUbGlhWFpXOHFlRENUU3pFVXdwN3ZxMjVZQ0QxeXZTaVp3?oc=5"
         }
     ],
     "transfers": [
