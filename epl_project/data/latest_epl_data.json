@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-02 06:41:53",
+    "timestamp": "2026-03-02 07:41:40",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Daily Mail",
-            "title": "Manchester United vs Crystal Palace - Premier League RECAP: Latest score, team news and updates as Benjamin... - Daily Mail",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX0ZkMnhGaHh3T3RtZ01jTHpIcjZHc25hLUgxWnBPSnBsdVNlYVFCZ1FLZWI1cDlHZTUwOXZZSmJXa2J0aUdFVWNaVkNkTnBPQWxSZG53b0dMcWY5WlZWVjFLZTR1aHJDN1Y1aEozWW5ma21KdEQ2T0JlNFlXYWo4Z1BvclhqVnFZeFdTOWtrTGtiZ1hKZS1rczhTam5DS1k0eGN4dzRwRXIzODFXYzNYQU5fczBSTWZvRmRURG9hdjRfcUozX3FEWTZwR1B2SjNzeTVUT1Z6ZVZuQzFRcmxiMzlXTjJoa0IzZTJ30gHwAUFVX3lxTE16V1J2aDEwUXRhdEowRTVCbERBRVMzT3Jqek5qNE9jTjgxM0RyX1M3em05R1dMTnRKREhQMGd2VE14dGJfZ1NmdVZGSWkwZVdJNGhmSV9QTDNnVXQ1Zk5XNDV3M0tWV1hmMHVpS1g3eXZoWVNxZm5fMGpsSUdISUI0dS1hSWZxYVQwS2JqRVN4TjBwb3lndXBfSGxHc25MVlFnaU1lWUdKMlBWeXNxX3c2Wkt2ZzJQRUVlZWhJaEV4dUhlcGZCMkh0WUpRWEVsTjFfOTdvRG9ReTJKTTRRenZVX3EtNVFuMkRpVF9oYVZMSw?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Arsenal 2-1 Chelsea: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3lFQzVySWJZMHZuZmg3WFBIb3pVWFd4cDU1QjB4cGZQX1ZqVjYzajNuXzVqbXNtMFl4MmlzUzNHa0N5NUJNNmt5M1R0VzgtYnQ3WHBhT21XVG5YQ3JWTnIwOVp3R2FOakxJb3RQeFVKWmV5WkZ6azFIU1JFNExKVDgzWjhUWm11cno0NGlwV1NhOUZEcVE?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Mason Mount: Manchester United star attracting Premier League interest - Paper Talk and transfer gossip - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWTZoNWVuREFwQzVmS0I2cmx0Q3MxY0gtb3ZjWUQ1b2o2YzNRSnB0ZVJtMXpJWnF3czRLNmtDSkdoamg0b1Z2QmQyVFltdlR5OWhndDh0a1kyc2FlZEszQ0QyVDFNNGlMSHFoVHNWTEVublFaTU5zQ0J0LXJzNG5UZU8zbjY4Vkk2MzRoTG5LZjlnWkpVQlVfN0NiTXhhQWMzd3JGaEE2YXJMUGNYTmVYZFRKRTBVOTNpdTlHMGp3VHFtUmlXQU5Jd0RuNUFXWU5wazJrSEE0X2kyNnNKYkZ2eE1idzNrSUlBYnBN?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "Premier League highlights: Fulham 2-1 Tottenham Hotspur - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FSGFRckhGYU1PN1FIRXU1Yk1qZjhYd3Z2RVpfRTdKRGlmZkZQaWhWMWJOaW9FeXE1dWRzaGZpSDc4LXE0eUZGUW9YbGM5VTJjVEs1NDFRSk5IeXhZampUbi1vTmJJSjA?oc=5"
+            "title": "Troy Deeney's Team of the Week: Pickford, Branthwaite, Saliba, Wilson, Fernandes, Ekitike - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBncGw1azlJLVRIeU5PX1prNllxcDBCY1FwUEhtOUxDOHBTTlYyajBQXzFmUkxMbVNJZ1BLaGVPNDhvNzVVcGs2dGFubkZya09nYnpzYlFkNmRDVnFNd200dERQREloWjlUN2c?oc=5"
         },
         {
             "source": "AnfieldWatch",
@@ -52,43 +52,23 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
+            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'세슈코 역전골' 맨유, 크리스털 팰리스에 2-1 역전승…리그 7경기 무패+3위 도약 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXZDdGt3Q19JeURGa3NzSHdZSHJoazUzM1Vma25WRlo2SW54a0ZkcmlQUXNtYkF5eHNQLTRHMFp5a3p5Tmk3Wi1Kd2Vub0tUR3d2Q0RlTndNd1JkSFc3dloxNzJjdVZYZi1lTUF5TTFadDZPaEFYTVlVa2drVlFWRVhn?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'선두긴 선둔데' 아스날의 코너킥 '인간 지네' 전술에 팩폭...\"역대 최악 추악한 우승팀 될 것\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OakZLSjFvdlVNZlJyRWxtaFNxUGxzQUl2TXdSd1F0dDZJa05ocmRjaGtCbXpWQ3hUdWtxRlIzUnpfYmxROGNtdlhQMU5kcVE?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
         },
         {
             "source": "네이트 스포츠",
-            "title": "'무무패패무무패패패패' 토트넘 2부 간다! 풀럼 원정서 또 졌다…히샬리송 만회골에도 1-2 패 '16위 유지' [EPL 리뷰] - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQlg0LTN5Mm9fVzFkbnNIZlFzNEo1Nmk5R1lyQkgzeDZaRklCMm9oRUdZd0drdWJRV1ppRnBTUVdObTBUWnptZFY1WHVBZlpIQ1pmNURlX0lTZEhq?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "손흥민 빈자리 이렇게 컸나…EPL 토트넘 10경기째 무승 '추락' - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hamEzYjlZY0NuUEZsTEl3b1p2QWVoblRpNm1EQl9ibHpyaUlHQjkzbkw3czR4cnY2RVM3R3RCVVlYWVJlR2FUcEZpT3hsLWVCWkRHSDVodWNiMDVEdllMVNIBeEFVX3lxTE1Tek9tZWhiUGthQk9aVjFnRWRPQXFvU0ZDQ25PbG5FRTVvb2FNTUxTN0l2NDFjUWZqLVZ5VTZFYXZnb2s0WVZnb2hwMzRMT3JaUTFpRGN6VmRLZUtLTDFUSWI3bnVCUVZFTlQyZ3NmUVBuU2xRUUktMA?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "\"또 졌다, 심각한 비상사태\" DDLLDDLLLL 토트넘 10경기 무승...풀럼에 1-2 덜미 \"구단 최장 무승 기간 타이\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpeXIzWkxJeGhkc2RIZHgzek9OSm5TVFJ6Tzh2SThvQXhxbHRWOEx4dWRDeVRfbW1aSEpqaW42NnVUMkRPQ1l1OUF3MklwWlk?oc=5"
+            "title": "또또또또 졌다…리그에서만 13번째 패배→풀럼에 0-2 패배 '강등권' 현실화 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kQy05RzJydDA1cXlIU3FoSnFHZ1dORVE5SlRLM1JhQ1hmTUdhd3ZidHptRW1OcUdHUTVHU2ROWUgtS1llS19lYTljRG1udC1PNkRBQm95TW1oZElP?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -101,9 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVkpUdUVhWVFfTkVtdkw0RmdYcTBxNE80Q1ZHcEJQcUhaaVZuWGlCM21mRkc2UEFfMm9NcktQSk1CZjhydFBxU3ZBYXY0OUl5T1Q4OQ?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "또또또또 졌다...리그에서만 13번째 패배→풀럼에 0-2 패배 '강등권' 현실화 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzJyTFppZk1jRFZOT002dEFORmdER2daV3ZhejNTQWdDYVA1dUhnMDh1elNrY1ZwbkduZWlpaDlnTXdIdmgyZENWUlZRUlRfN0ZsRzRFcGl5WTdhZGFTX1ZsTS12TzVmeGdPTWJPb0dkQ2pyMTNIQkJSMlZlbDhTWUxUeXlXWm5jSWw00gGfAUFVX3lxTFB4QzJyaTlvZzFDUzhlbEU0TE5qSWlHYVlQSHdnT1Y2em9KWmtNUS1hZk51M1ExWmQxbEgxYVBnbjA1bV85U1gxb0JDbTlPV3Z5aXliX0NNc3NDNTI2Yl9vblRWeTJXWWVHbVV5bWE0RnpuQXVhMkc0SzViT2xTVmM4SFlZb1RhOE5iV1BGNnUzN0FwS19raWJ0WlJ6bWp6QQ?oc=5"
+            "source": "인터풋볼",
+            "title": "무려 현역 선수! “프리미어리그 역사상 최악의 영입”…‘역대급’ 혹평의 주인공은? - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTzJkZXNuWmlmVlgxR2hwcUVFc0xicXA1NnhCQ0Q0eG1HeFNkU2VCU0QtYUZFZ3hMbHZERzFrb0JpRHZnRlk3U3hEYzRyZElEeFNOZlBFbTdUdXhRdURUQlBaaTVQV3lmc3VNYmJVczRCQkpn?oc=5"
+        },
+        {
+            "source": "sportalkorea.com",
+            "title": "\"62억, 이강인 연봉 3배 줘!\"...PSG 미드필더, 결국 프리미어리그 무대로 떠나나 \"아스널, 첼시, 맨시티, 뉴캐슬 등 관심\" - sportalkorea.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjBRNDdzU2VrQXFOMU12X1hhZHY2U3Voa1VFeC0tZUgyT1V1Z0RjbmkzYW5NWWZmRlZpTDVyYzBsMHpoOEJxaks2ekhWSXBFY1NkQk0zaEdpUWduclM3WUpQM2QxaWFYMmVZRnJ5WExJZjNSeWwwVVNYZ2ZsRV9YT1Bn?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "[오피셜] 조규성, 무릎 부상 회복하면 영국 간다…프리미어리그 팀 노팅엄 vs 미트윌란 격돌 ‘UEL 16강 대진 확정’ - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTT0RpUEdzYlFDZlR4cUp0WjIxcVlRNG9vYlNNYXc2MTgtaUQ4LTdQOFpnYTdyRllHSFdTN2ltOXNHVVBOQWVMcVVhMlllUmx6ODdhTFpwNkpDRlFaVndic0pRd2NCMUVUWXhvZTcwQdIBc0FVX3lxTE9RbV9kaFpmZlJ6UF9Vd2YzSWFXS1NtSklhM3FPT3lBVmItb044WWFlVDExQkJOZlNKbFpzbHRfQlZWY0t2UEd5Q0RTcEdxNmFvSjQzQkprZy1yRzlFRHNJNmJFelhYSXlsTXNzeF9yMWQwMmc?oc=5"
+        },
+        {
+            "source": "시사포커스",
+            "title": "‘10경기 무승’ 토트넘, EPL 16위…강등권과 4점 차 - 시사포커스",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSExGVmxGMXJpYzFkWXRTZkhjSTFFdWZRNlhQeVliVXlkLWxXaHo1bVg0aDEwamhRRndkbFZib01mNm9GZUd1ekMtMVZ2b1BuajJaSzUzb3lCcnA3VDc0cUZhVnFyYXZXM0R1Z2Y1dw?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'세슈코 역전골' 맨유, 크리스털 팰리스에 2-1 역전승…리그 7경기 무패+3위 도약 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXZDdGt3Q19JeURGa3NzSHdZSHJoazUzM1Vma25WRlo2SW54a0ZkcmlQUXNtYkF5eHNQLTRHMFp5a3p5Tmk3Wi1Kd2Vub0tUR3d2Q0RlTndNd1JkSFc3dloxNzJjdVZYZi1lTUF5TTFadDZPaEFYTVlVa2drVlFWRVhn?oc=5"
         }
     ],
     "transfers": [
