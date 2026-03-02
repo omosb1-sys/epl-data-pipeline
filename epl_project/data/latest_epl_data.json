@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-03-02 05:43:13",
+    "timestamp": "2026-03-02 06:41:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Manchester United 2-1 Crystal Palace | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZThDc3JHczdwTW1kbjltUW1fSXU3dVVnb1NjQUFJamsyS1ZuOGdMSWhFcEJ4VDB3aWNSbHhsWElyeDBZNkktMEgyZW9uMTBJSzUyb3ZCT1FWRFIxbU1RU3F0WFJpc3JHVmRoNW1WUnQ2S1VoVjJuRkMyVXlDUEZfaDlWbFVaOU9JUXhudWt1T2JPSE1KWWJsT180a01jYUI2ek9IVEx3LWE1cWd2ZktlcE95Vm1sTjdyYWc?oc=5"
+            "source": "Daily Mail",
+            "title": "Manchester United vs Crystal Palace - Premier League RECAP: Latest score, team news and updates as Benjamin... - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX0ZkMnhGaHh3T3RtZ01jTHpIcjZHc25hLUgxWnBPSnBsdVNlYVFCZ1FLZWI1cDlHZTUwOXZZSmJXa2J0aUdFVWNaVkNkTnBPQWxSZG53b0dMcWY5WlZWVjFLZTR1aHJDN1Y1aEozWW5ma21KdEQ2T0JlNFlXYWo4Z1BvclhqVnFZeFdTOWtrTGtiZ1hKZS1rczhTam5DS1k0eGN4dzRwRXIzODFXYzNYQU5fczBSTWZvRmRURG9hdjRfcUozX3FEWTZwR1B2SjNzeTVUT1Z6ZVZuQzFRcmxiMzlXTjJoa0IzZTJ30gHwAUFVX3lxTE16V1J2aDEwUXRhdEowRTVCbERBRVMzT3Jqek5qNE9jTjgxM0RyX1M3em05R1dMTnRKREhQMGd2VE14dGJfZ1NmdVZGSWkwZVdJNGhmSV9QTDNnVXQ1Zk5XNDV3M0tWV1hmMHVpS1g3eXZoWVNxZm5fMGpsSUdISUI0dS1hSWZxYVQwS2JqRVN4TjBwb3lndXBfSGxHc25MVlFnaU1lWUdKMlBWeXNxX3c2Wkt2ZzJQRUVlZWhJaEV4dUhlcGZCMkh0WUpRWEVsTjFfOTdvRG9ReTJKTTRRenZVX3EtNVFuMkRpVF9oYVZMSw?oc=5"
         },
         {
             "source": "The Guardian",
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3lFQzVySWJZMHZuZmg3WFBIb3pVWFd4cDU1QjB4cGZQX1ZqVjYzajNuXzVqbXNtMFl4MmlzUzNHa0N5NUJNNmt5M1R0VzgtYnQ3WHBhT21XVG5YQ3JWTnIwOVp3R2FOakxJb3RQeFVKWmV5WkZ6azFIU1JFNExKVDgzWjhUWm11cno0NGlwV1NhOUZEcVE?oc=5"
         },
         {
-            "source": "Sports Mole",
-            "title": "Arsenal transfer news: Contract 'security' of key Mikel Arteta target from Premier League rival complicates summer move - Sports Mole",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbktrQ2RZalhfUW9UVDhoM21xUFk4Z1g1V0M1V01FeGlxUTFrbEVHOVhId0lXWFVjNU5uUFlZVWRJa3h2T0xxd1lIbFgyc0RrZXAyQmF1dTEzMVRiNXhMQS1qY3BLSmdXLVozS0lZRmpOYUxrcWZyekd3QkZIYWRMVjhWOEhVdUdoNlpBeEtsR0lPeG52TTZUSDFOMmpxRWlyanpXLWhNT1B0YlExYUV6Z0pZVUVRR21MRnJvSzFIQVdfNjd0R3AzV3dXX1hwQ2hhbWo5OXE4dEdrTzNYb2hZ?oc=5"
+            "source": "BBC",
+            "title": "Premier League highlights: Fulham 2-1 Tottenham Hotspur - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FSGFRckhGYU1PN1FIRXU1Yk1qZjhYd3Z2RVpfRTdKRGlmZkZQaWhWMWJOaW9FeXE1dWRzaGZpSDc4LXE0eUZGUW9YbGM5VTJjVEs1NDFRSk5IeXhZampUbi1vTmJJSjA?oc=5"
         },
         {
             "source": "AnfieldWatch",
@@ -66,9 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "'세슈코 역전골' 맨유, 크리스털 팰리스에 2-1 역전승…리그 7경기 무패+3위 도약 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXZDdGt3Q19JeURGa3NzSHdZSHJoazUzM1Vma25WRlo2SW54a0ZkcmlQUXNtYkF5eHNQLTRHMFp5a3p5Tmk3Wi1Kd2Vub0tUR3d2Q0RlTndNd1JkSFc3dloxNzJjdVZYZi1lTUF5TTFadDZPaEFYTVlVa2drVlFWRVhn?oc=5"
+        },
+        {
             "source": "v.daum.net",
-            "title": "EPL 경기 중 이슬람 선수 물마시는데 일부 관중 야유…과르디올라 “종교와 다양성 존중해야” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kUzdXWk5WT2xrYkMxRjVwd3AtOU1pN192NjdKM21kdVFocnRqNEk0cm5KRVpNMGZZTFYyR0xpQUUtTUxrTl9oN1kyenlWRzg?oc=5"
+            "title": "'선두긴 선둔데' 아스날의 코너킥 '인간 지네' 전술에 팩폭...\"역대 최악 추악한 우승팀 될 것\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OakZLSjFvdlVNZlJyRWxtaFNxUGxzQUl2TXdSd1F0dDZJa05ocmRjaGtCbXpWQ3hUdWtxRlIzUnpfYmxROGNtdlhQMU5kcVE?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -76,34 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQlg0LTN5Mm9fVzFkbnNIZlFzNEo1Nmk5R1lyQkgzeDZaRklCMm9oRUdZd0drdWJRV1ppRnBTUVdObTBUWnptZFY1WHVBZlpIQ1pmNURlX0lTZEhq?oc=5"
         },
         {
+            "source": "뉴시스",
+            "title": "손흥민 빈자리 이렇게 컸나…EPL 토트넘 10경기째 무승 '추락' - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hamEzYjlZY0NuUEZsTEl3b1p2QWVoblRpNm1EQl9ibHpyaUlHQjkzbkw3czR4cnY2RVM3R3RCVVlYWVJlR2FUcEZpT3hsLWVCWkRHSDVodWNiMDVEdllMVNIBeEFVX3lxTE1Tek9tZWhiUGthQk9aVjFnRWRPQXFvU0ZDQ25PbG5FRTVvb2FNTUxTN0l2NDFjUWZqLVZ5VTZFYXZnb2s0WVZnb2hwMzRMT3JaUTFpRGN6VmRLZUtLTDFUSWI3bnVCUVZFTlQyZ3NmUVBuU2xRUUktMA?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "\"또 졌다, 심각한 비상사태\" DDLLDDLLLL 토트넘 10경기 무승...풀럼에 1-2 덜미 \"구단 최장 무승 기간 타이\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpeXIzWkxJeGhkc2RIZHgzek9OSm5TVFJ6Tzh2SThvQXhxbHRWOEx4dWRDeVRfbW1aSEpqaW42NnVUMkRPQ1l1OUF3MklwWlk?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "EPL 경기 중 이슬람 선수 물마시는데 일부 관중 야유…과르디올라 “종교와 다양성 존중해야” - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZGc5X3FRUXh0UVJ2XzJaSmpvWXk1WTdDNjAxbmNHazNMVVBydWFTekg4aWNZdFJGV01mdENQTUFueWpyZ2ZlcnVzcThZd0NHQjZxbG1oRGhWQzI1eGfSAWNBVV95cUxOd0Z5XzliNEFDVjRlSjVYQzZDLTdicXkzbllDbklsZ0ZDR0NISDlEVktfN1lTb1hlSkFwYlZUTFNOWi03RFY4T2tYUFlxZGFPblQyRlF0ZEt6cjhGRG1oMDM1VGM?oc=5"
+        },
+        {
             "source": "xportsnews.com",
             "title": "'손흥민 선택이 100% 옳았다?'…살라, 커리어 최장 기간 '무득점 굴욕'→EPL 10경기 연속 0골 - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVkpUdUVhWVFfTkVtdkw0RmdYcTBxNE80Q1ZHcEJQcUhaaVZuWGlCM21mRkc2UEFfMm9NcktQSk1CZjhydFBxU3ZBYXY0OUl5T1Q4OQ?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "무려 현역 선수! “프리미어리그 역사상 최악의 영입”…‘역대급’ 혹평의 주인공은? - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTzJkZXNuWmlmVlgxR2hwcUVFc0xicXA1NnhCQ0Q0eG1HeFNkU2VCU0QtYUZFZ3hMbHZERzFrb0JpRHZnRlk3U3hEYzRyZElEeFNOZlBFbTdUdXhRdURUQlBaaTVQV3lmc3VNYmJVczRCQkpn?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "[오피셜] 조규성, 무릎 부상 회복하면 영국 간다…프리미어리그 팀 노팅엄 vs 미트윌란 격돌 ‘UEL 16강 대진 확정’ - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTT0RpUEdzYlFDZlR4cUp0WjIxcVlRNG9vYlNNYXc2MTgtaUQ4LTdQOFpnYTdyRllHSFdTN2ltOXNHVVBOQWVMcVVhMlllUmx6ODdhTFpwNkpDRlFaVndic0pRd2NCMUVUWXhvZTcwQdIBc0FVX3lxTE9RbV9kaFpmZlJ6UF9Vd2YzSWFXS1NtSklhM3FPT3lBVmItb044WWFlVDExQkJOZlNKbFpzbHRfQlZWY0t2UEd5Q0RTcEdxNmFvSjQzQkprZy1yRzlFRHNJNmJFelhYSXlsTXNzeF9yMWQwMmc?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "토트넘은 강등각인데! 4연승에 신난 '리더' 손흥민 \"필링 굿, 수고했어\" 자축 메시지…2명 퇴장 유도→벌써 1골 6도움, MLS 완벽 접수 - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YUFY0ZHBNYlRmNjBJVmRLZ0dFc25xUW8weHJrNWxldkIzRC1BWTVwTGttWmM4RTNiZjlaakFvQTdGVlJ0YkpPODlGWEVyREVTU1BxYi1ONWM4U3NzbWFDZWMzaDhhTHBiSk52ZktVS20wSjdJMXBndW5xQVV5QdIBd0FVX3lxTE5FSFhGRHJlS2drOGtPRnRCZzUzNU1qcHE2QjRGM0IwbXdGMVM2NGpWMnBnVnVoaTlxaWZKVVhFeFlYZ1J0bEdKZzJDSjhINnVLR1dOaVVtOVB2dnFUdll6WFRZOHpzcEhOV1NubV9xWVJEeE5KX2hR?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'세슈코 역전골' 맨유, 크리스털 팰리스에 2-1 역전승…리그 7경기 무패+3위 도약 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXZDdGt3Q19JeURGa3NzSHdZSHJoazUzM1Vma25WRlo2SW54a0ZkcmlQUXNtYkF5eHNQLTRHMFp5a3p5Tmk3Wi1Kd2Vub0tUR3d2Q0RlTndNd1JkSFc3dloxNzJjdVZYZi1lTUF5TTFadDZPaEFYTVlVa2drVlFWRVhn?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'7골 난타전 쾅쾅쾅쾅쾅쾅쾅' 리버풀, '강등권' 웨스트햄 5-2 제압...리그 3연승 성공 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qaHE3Vmo3Z29ic0NiWXFlQXZjSXgxOXU5cmE5SU1OTjU4S3VZVkNGcnZlYWxpTjQ2RkZZd0ZKTmEwQllnVkE?oc=5"
+            "source": "조선일보",
+            "title": "또또또또 졌다...리그에서만 13번째 패배→풀럼에 0-2 패배 '강등권' 현실화 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzJyTFppZk1jRFZOT002dEFORmdER2daV3ZhejNTQWdDYVA1dUhnMDh1elNrY1ZwbkduZWlpaDlnTXdIdmgyZENWUlZRUlRfN0ZsRzRFcGl5WTdhZGFTX1ZsTS12TzVmeGdPTWJPb0dkQ2pyMTNIQkJSMlZlbDhTWUxUeXlXWm5jSWw00gGfAUFVX3lxTFB4QzJyaTlvZzFDUzhlbEU0TE5qSWlHYVlQSHdnT1Y2em9KWmtNUS1hZk51M1ExWmQxbEgxYVBnbjA1bV85U1gxb0JDbTlPV3Z5aXliX0NNc3NDNTI2Yl9vblRWeTJXWWVHbVV5bWE0RnpuQXVhMkc0SzViT2xTVmM4SFlZb1RhOE5iV1BGNnUzN0FwS19raWJ0WlJ6bWp6QQ?oc=5"
         }
     ],
     "transfers": [
