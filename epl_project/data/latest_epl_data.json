@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-02 14:35:09",
+    "timestamp": "2026-03-02 15:31:37",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Sun",
+            "title": "Final Prem table predicted by supercomputer with top 5 battle going to the wire - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTRIdjJFWHprUDJoMkM1T1RDTFQxa3R2bjJIdzNWeDFsNlE2MWw5V2dPdnUzT2xqZmZudS0xeTMzZVFuZFh6czFDc2Q4a19HN1JiNzJwZEhacXhzWFN2M1VhQXBmQmhMczdoYTRYRHhIdlplSGlHeXE2dFY3S0FpZnBKTUNjeVlrZk5TT0pCNXRybXpBbUxUc0ZaT0VfQktwWEE?oc=5"
+        },
+        {
+            "source": "The Mirror",
+            "title": "Chelsea handed clear VAR verdict vs Arsenal as Premier League told mistake made - The Mirror",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkhvamU2NzBtVHpWb1hEdUhJdW9BaWRza3luZTVONU03LTJWek1kLVhWa0xVLTE0cmI3RjFlU28zZ2hBSU5QYmF0SGY2QUE4b1pUelZ3WnVIZEdfcUYtT1FabEotSnJhNHlncDlWT0t4aG1OV3RJeTNhMTYtZm9QWlVUTHpCT2xoLTBid3l4cm9nNW5hNkFZ0gGcAUFVX3lxTE9qOWtmN1RhYkFLTGpzaGU0QWRhUTg1bVNwUGtfMnZ6U2ZGU2lnV2VjR2g3VE5oblRieUpYY2dmelZEOVB1S2JHb2F0b1JIQUZVdlRFRDN5Um5QT1NVVGtmdm0xUFNUSGROd01RZUVVWE5od055RzVGb3hHUDh1Z3B5UmZ3UDF2N0VsWVZWLWlGOFFPWXZMUDgydE0yaA?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Premier League LIVE: Team news, reaction and news conferences - BBC",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Y1FTWWRKa2xKSFhYZ2xwMm8wVVV4VFZsLVhoUzBvaE1Od3lXcE9LYjkxOW11T1FEOWpZeDFyNnZxbUhobWF2MjJxZ3RrLU1JQ2JPaDlnbUFaVlNnRFFiVlRR?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXh3QXJzeG9reGxhS3RjU3NIV18wMFBHSzltc1BxR1dDNkY5QzBPbi1hYjduenE5RzVYZEZ1ZWxKcVhSUjlkQU9VaEJPZmoySU9qbmJiNmJ6ekJtS1BuYm1Rc1NjZHRGQ29faVZRTkhxeENvcmM5bXpWLWFyQ1huZHdoeUFnTldyWU5IUlZtcDNseDlyZ0twd2h1NjU0OXhQMDIzT0FlQUM?oc=5"
-        },
-        {
-            "source": "Football365",
-            "title": "Van Dijk moment ‘speaks volumes’ for Liverpool as Premier League faces ‘backlash’ - Football365",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1lndENOQXk3TDloNy1Bek9QY3dORlVuQnRPVmtWcTZTd2I3Sl91aEpPaFJPMGlKUzJjcUJpbFRYN0xSWW0wcXFubVlGemV3Vm1sRnFER0hmR1RiMUNiWHRFb3RGQVYzNGxhclBjWTZyVUd4ckFJNW5YQUNGR2JZWmhDVDgyQklEYjZzdUx0R0drQjVKOWxOZEdyeDE4R1RoV2REcWRSd0IzSzBsanBV?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkFTRHBvSDRSTVFjUWJPZjNpYkFETkhsdmlIUHZDMUk0UHBBMEZjUWcxcXdPdGU0Z0NtaXF5UUVZXzFZRU8wbHlna19CSnJ4X3RfTnFzNWFsZ3FvR1ZtV2RoMW5HM055Rm5GTzN6eXlBZzRWOTBxcmE2SU53aXpTZ2ZOVWZIcm5MTHc?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPak53SmY5RTZaZVQyaDVSQ0R6ZUxJUVpZNGtha0owQW52M1ZFNGVzSzFtNmVUdGpWN0JLMFFYY2xaQURaWU1OLTVoRVh0YVNRcW9Xa0t5RDd2TzdQYjl4S2JsaG1UbUVFaVdFU0VvNEVFM3pqWWdZQ2gzc3ljaHgwa2VOejQxVW9KSVNtUi1fUGJrRFdFejZOOFpZNWF2dk5Fa2ZOOTc5S2dMQTV0VERvUw?oc=5"
+            "source": "Hotspur HQ",
+            "title": "Fabrizio Romano drops word that Tottenham's first January signing is all but official - Hotspur HQ",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3h4Sm1FOWtVZFROczhkT2VidUtReUVrYk82eVVQSm1sWjVPX20yakpOUkdDMzBVUS10eV9rVk43WXJmRk5aUC1sd3pINVpyMkNiWmVCZkg5d3l5LWh3SzYxcVRPb05oYnBFbk1rU05CYWw2Q2VJbTlqWXl3ZHZvZTY1dmNmN3F5azc5UG9vZjdIOFhac05zZ1BPSWxXWTBCbS1Pb2lxWHhCbU1PX2ZHcnRnbjd0QjZvSHZnbw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -42,13 +42,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Tottenham Hotspur rebuffed Lucas Bergvall transfer enquiries over winter window - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUlJOEJfa3YwZk5VVTdoRjIxQ1Y5RHloWGp3VzBsUHBBYUtSRE1OVFN2WFlkLUtfRG5aMFgxTmIyZW81bGxWUDN0dU10ZHFaN1Y4V1hWZlBjQTB5SUpCa0V4YTdQc2ViX0NMUXVlS29VUm16OWdwa2V5N2ZfVlZBR3JJR1QzUy1HaXJwbHVJUnRQMTVnSVRpbkVrc1Q?oc=5"
+            "title": "The Transfer DealSheet: Latest summer window plans for Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkl4Sm5TWG1hc1RfQWFMMWlTMUxhdWVGUEZyQjFfbkVvNUJZNFFNUXNxdnY2Z1haNjB6bjRkM1Ixek9pZk41dUJGRzhnaXZTM2tMQW9CRElUTk5nQmhTdkJrSG9mQUNyTExQSmt3UXB1YUg5VmtIZEpxTU1TTzF1dUhQcnk3aExmVE1KSVIwMVZFTHdZTEZHa0dYbTF1bHBfc251UDN3a241UWwtbjB6djBoOXlhY1lMWjFralpDSkM2WDgxVnlCOEFNRQ?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Arsenal reach full agreement with Ajax to sign Jurrien Timber - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXN0ZG85Wld1dGFqMmszSE5BYVhMTWZIUTBXd1pRNDZfZ2paUllpUHd0UVQtVWxvQUtNNUQwX2l6RER5Wi1ycFdLcThSWEFjaEQ3QVNOVTg0ODJGbEpQVzNPZjE2eDNoZld2OHBoSnp1eTM3NnRVYnV1MDVCOFlWT1ZKUkJZektnN1I3cFByaW9jVlU?oc=5"
+            "title": "Tottenham Hotspur rebuffed Lucas Bergvall transfer enquiries over winter window - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUlJOEJfa3YwZk5VVTdoRjIxQ1Y5RHloWGp3VzBsUHBBYUtSRE1OVFN2WFlkLUtfRG5aMFgxTmIyZW81bGxWUDN0dU10ZHFaN1Y4V1hWZlBjQTB5SUpCa0V4YTdQc2ViX0NMUXVlS29VUm16OWdwa2V5N2ZfVlZBR3JJR1QzUy1HaXJwbHVJUnRQMTVnSVRpbkVrc1Q?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,19 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "토트넘 4-1, 첼시 2-1 승리...아르테타 아스널 감독의 런던 더비 공식, '하프타임에 승부를 건다' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aY040cjNaWkZhOFVkekY2el85YXJBWFg1SkhQM3VKYXVRLU56Y3VQRjFEWnh1Z2Z6b3NaZ0ptWHhJMDZtdUlsbGp1bS1kZGc?oc=5"
+            "source": "네이트 스포츠",
+            "title": "또또또또 졌다…리그에서만 13번째 패배→풀럼에 0-2 패배 '강등권' 현실화 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kQy05RzJydDA1cXlIU3FoSnFHZ1dORVE5SlRLM1JhQ1hmTUdhd3ZidHptRW1OcUdHUTVHU2ROWUgtS1llS19lYTljRG1udC1PNkRBQm95TW1oZElP?oc=5"
         },
         {
             "source": "네이트",
             "title": "무려 현역 선수! \"프리미어리그 역사상 최악의 영입\"…'역대급' 혹평의 주인공은? - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVBWZmZTM0daeF9BbGNuNEY2ajREYmtER0RuZWItQ09HMDlSMkNiYTFKa29MbDBmeXhsNm5fWWhUekdWOUVZS3gwSDNhU3VkUzhHNWF5SlEteG9pR2xnTURsR1NLMmRKWktVazE3Vi1EbW9OR1V5aVFydUZwV0NsYjdn?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "또또또또 졌다…리그에서만 13번째 패배→풀럼에 0-2 패배 '강등권' 현실화 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kQy05RzJydDA1cXlIU3FoSnFHZ1dORVE5SlRLM1JhQ1hmTUdhd3ZidHptRW1OcUdHUTVHU2ROWUgtS1llS19lYTljRG1udC1PNkRBQm95TW1oZElP?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -96,14 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjBRNDdzU2VrQXFOMU12X1hhZHY2U3Voa1VFeC0tZUgyT1V1Z0RjbmkzYW5NWWZmRlZpTDVyYzBsMHpoOEJxaks2ekhWSXBFY1NkQk0zaEdpUWduclM3WUpQM2QxaWFYMmVZRnJ5WExJZjNSeWwwVVNYZ2ZsRV9YT1Bn?oc=5"
         },
         {
-            "source": "시사포커스",
-            "title": "‘10경기 무승’ 토트넘, EPL 16위…강등권과 4점 차 - 시사포커스",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSExGVmxGMXJpYzFkWXRTZkhjSTFFdWZRNlhQeVliVXlkLWxXaHo1bVg0aDEwamhRRndkbFZib01mNm9GZUd1ekMtMVZ2b1BuajJaSzUzb3lCcnA3VDc0cUZhVnFyYXZXM0R1Z2Y1dw?oc=5"
-        },
-        {
             "source": "네이트",
             "title": "'세슈코 역전골' 맨유, 크리스털 팰리스에 2-1 역전승…리그 7경기 무패+3위 도약 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXZDdGt3Q19JeURGa3NzSHdZSHJoazUzM1Vma25WRlo2SW54a0ZkcmlQUXNtYkF5eHNQLTRHMFp5a3p5Tmk3Wi1Kd2Vub0tUR3d2Q0RlTndNd1JkSFc3dloxNzJjdVZYZi1lTUF5TTFadDZPaEFYTVlVa2drVlFWRVhn?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "토트넘 4-1, 첼시 2-1 승리...아르테타 아스널 감독의 런던 더비 공식, '하프타임에 승부를 건다' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aY040cjNaWkZhOFVkekY2el85YXJBWFg1SkhQM3VKYXVRLU56Y3VQRjFEWnh1Z2Z6b3NaZ0ptWHhJMDZtdUlsbGp1bS1kZGc?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'추한 축구'인가 '승리의 기술'인가? 아스널의 세트피스 논란 격화 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqMGplN1k5eWhPekFnaXlSZ1RpX3dhSG5rMlNqTlZXRy1oUjZNM25LSFp5dHZvOEF6Q3BvTldubmJwdzMtaFE?oc=5"
         }
     ],
     "transfers": [
