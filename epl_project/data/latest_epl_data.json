@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-03-02 16:29:41",
+    "timestamp": "2026-03-02 17:36:08",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "The Sun",
-            "title": "Final Prem table predicted by supercomputer with top 5 battle going to the wire - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTRIdjJFWHprUDJoMkM1T1RDTFQxa3R2bjJIdzNWeDFsNlE2MWw5V2dPdnUzT2xqZmZudS0xeTMzZVFuZFh6czFDc2Q4a19HN1JiNzJwZEhacXhzWFN2M1VhQXBmQmhMczdoYTRYRHhIdlplSGlHeXE2dFY3S0FpZnBKTUNjeVlrZk5TT0pCNXRybXpBbUxUc0ZaT0VfQktwWEE?oc=5"
-        },
         {
             "source": "BBC",
             "title": "Premier League LIVE: Team news, reaction and news conferences - BBC",
@@ -19,6 +14,11 @@
             "source": "BBC",
             "title": "Arne Slot on set-pieces: Premier League games not a joy to watch - BBC",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ra2loaDMyZnRfN1lxZnNUYkRxZGhzZ192cmZqVzJJckZyVnQwcnJ2U28zR29HNEV5WTR1VFBlRDhTQ1ZidmluS3BFYmQxTloyOTZ1Rk9BYU1aU2pHa3hIVm1PbjFUd3BXNXc?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Arne Slot admits he does not enjoy watching most Premier League matches - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjNYN2lGWmVjdl9DOUQ5VWVHZzA5ek5wZUdISVhCYkNhc0VWR3M5UDVPcmlrQ1ZicXo1T19DcVY1ZGgxTEgta2VucVRpXy05Q2VwWTBLQm9LUXhYOHJLenlsN01CbEJYQlpmWjdJbUZTUXFWY0lzMlZrbmN1em41RXFNVGFuNmJQdU9xUmt5cXdXemluT2swOU5BalVobUpROTQxcEQ0NHFzQjMzVGxZSURJLWpjZ0Q4ZTJ3LQ?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -73,7 +73,7 @@
         {
             "source": "네이트",
             "title": "무려 현역 선수! \"프리미어리그 역사상 최악의 영입\"…'역대급' 혹평의 주인공은? - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVBWZmZTM0daeF9BbGNuNEY2ajREYmtER0RuZWItQ09HMDlSMkNiYTFKa29MbDBmeXhsNm5fWWhUekdWOUVZS3gwSDNhU3VkUzhHNWF5SlEteG9pR2xnTURsR1NLMmRKWktVazE3Vi1EbW9OR1V5aVFydUZwV0NsYjdn?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jRUdMQ1dIUFplYVZhWDVURlFDTGU5NTBaOEg0MHdyWEZtSTFXNTdRdmlKeW96ZWl3YmRiQ0otNnkyakNIeWhHV1otY1pfZ0VqTGZsMFd1emlBUkp6akppZg?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -96,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13TUt3dWRNMlVrRDh4V0ZTd1ZtaDRjRWN2bURxSGFXRHlJam90TWR0Ym1hTWtsQTYtc2F3eVNvamJoanlYMHFhRUVLaEFGLXltZEtnMGRRX2JONTh6eEtQcVdjV21RQQ?oc=5"
         },
         {
+            "source": "sportschosun.com",
+            "title": "\"얘들아, 우리 팀은 세가지 문제가 있어. 공격, 중원, 수비야\" '강등 위기' 토트넘 투도르 감독의 한탄 \"대단한 상황\" - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Md2FuNEVwQndOZDJDR09XWENRTGtSYmI1VHBLXzktRmNLOW8zMWkyMWNQWVpSblBraEhENGprUlVjV0NNQzdrbjB4ZU5WdF85bjFJZXJsdzhXVFhOV2MxeDgwS3NFSkpGd2tsbW90d3lzamZxelFIcC1qMVZlQdIBd0FVX3lxTE9KamhmX1dSbzFHOXB6UUZoS0tfci1wUERrWkZQaXVMRTVGcEFrdlZ5b05kRmhvb0txbzR5Z08tREhrd2otRkpUQ2ZLVm9zYkd5SUdVVUZJek0yc0t1S19VODAxMEk2N2lqMWJKajQ5T3dkVVVpNkNZ?oc=5"
+        },
+        {
             "source": "네이트",
             "title": "'세슈코 역전골' 맨유, 크리스털 팰리스에 2-1 역전승…리그 7경기 무패+3위 도약 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXZDdGt3Q19JeURGa3NzSHdZSHJoazUzM1Vma25WRlo2SW54a0ZkcmlQUXNtYkF5eHNQLTRHMFp5a3p5Tmk3Wi1Kd2Vub0tUR3d2Q0RlTndNd1JkSFc3dloxNzJjdVZYZi1lTUF5TTFadDZPaEFYTVlVa2drVlFWRVhn?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "토트넘 4-1, 첼시 2-1 승리...아르테타 아스널 감독의 런던 더비 공식, '하프타임에 승부를 건다' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aY040cjNaWkZhOFVkekY2el85YXJBWFg1SkhQM3VKYXVRLU56Y3VQRjFEWnh1Z2Z6b3NaZ0ptWHhJMDZtdUlsbGp1bS1kZGc?oc=5"
         }
     ],
     "transfers": [
