@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-03-03 12:30:22",
+    "timestamp": "2026-03-03 13:50:40",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Yes, relegation is now a very real possibility for Tottenham | Jonathan Wilson - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWcwZVIxaW14V1BldGpGWFJSeXpVVXUwdEl0MkQtMkFKaVJsZGI5aUk2Mm9ZNE8ySndfdGJUOEw0VjNtdzROUFFnWDd2eDlHLUt2Y3R2ZkNWX1JMd2tKVDd2MzE0djhnMHFNVm5oUlRuOTd3MXRvMV9icU1XVXpzRWQ0eENoYk95RmI3YWpJdTNpUGs4S1BB?oc=5"
+        },
         {
             "source": "Sky Sports",
             "title": "Premier League predictions and best bets: Listen to Arne Slot and back Liverpool to struggle against Wolves low block - Sky Sports",
@@ -12,13 +17,8 @@
         },
         {
             "source": "BBC",
-            "title": "Wolverhampton Wanderers vs Liverpool: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IRjFjZ1hiOVZsellOS1ozZl81VHVQeXNHQ0R0dy1TeHZUVm05Zml6QkswMThsUjJ0ZUZCZXEtMXpjNnFma3pMbm9WTWx1a2hKNm1HQnJjQjd4X1NpTFlaOFhtY2U?oc=5"
-        },
-        {
-            "source": "This Is Anfield",
-            "title": "Alexis Mac Allister could help break Liverpool into top 4 with never-before feat - This Is Anfield",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGFIbERLU0ZadGJYZlJ5MjRCbXNnZ3M5OGloaHEtSFBaUVdoNXFENlEyQ1Bqd0U4eUJOZFd0MmpLaVNCYWZ6cEktQXdseldmaWM4OG5PZjFrN3FwTTZRQVNsQWFfdFc3eWJUUU5hTDdaU0FZZ0FJYnpRSmt1TVJhWU5RdFVZbmVGdmc?oc=5"
+            "title": "Premier League LIVE: Build-up, news conferences and team news - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUEZUM3BtNzVqa3pFbVM4R0d4WEJuUUhZc0lMY0RmUHBYZktJQzluYnZNcmFiRFVrVW9RSTFxQThfeXVkYmpuTklzc296c0lmWlYweEtzS242SEIxRzhTQUo3TGU?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -62,18 +62,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Nottingham Forest transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTDZJNFZXdUp2RkFqZUVoVmRvTHFjVmJKaUVxdWcwa25fb2N0NzB2NDhSRVo4UmhtRHpla2hOczFjNFJWRFlZdkRyNVBDbnZQeHFETnhlMHRlQmRwT0RzWFd6eTBTWndnRjdoUFJCY2dmUkpERmxPRjVDNUczcFplUXZKZERfTG1Sc2NGX09RbnJUeXNXbnVBWl91MFVLQmdBWE1KSmtDZFRDc0NPUDlaRnoxczFTbnN5NHVWcFExNDAzVTFpVWcxSzVZc3dqMDA4VDhYTmRId213RjJQUEpNMzlrN014ZEU?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "사우디 상상초월 돈다발 공격에.. 바이에른, '33세지만 전성기' 케인과 재계약 서두른다 '종신계약?' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxREJjVHEySEYxUnRTQzRLbm82NUo2Vm1KUHU0Vm1rOUxlM0xRclZNRkp4am15c1Z4SC1LbWZnX0lWb3hOdWdQd2ppOUtRaGs?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "‘손’ 놓은 토트넘, 손 쓸 수 없이 ‘와르르’ - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OQ0VjQ1pWQkE0a2JOcUhUMVZkOGlDQzMzMk5KR0U2Rjl1enhxaXhhRmJPMFg2MHN3SFQ3TkVGZWNNbXZhMkE?oc=5"
+            "title": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU0Q2UTNHZGlrSm9tYjVjME4xUEtwVHp6UF9rV0FBNFRuSjR5RXJqOFhYSzByMzcxZEhqQVM5ZWt5WUdSdjZqSE15bUZFb0p1T2Jvbk1GMFEyblFCSk9vUGVpZ3d3SWtTd1JUcFV0UmdmRWY4TDJmQmhaa2hZYUFUSERhbUNhdjl4dER1MU1zZ25PejdaSEhPdS1jdzVMMVNuWFBfVUlGOTZwRUhkM2IxbmNVcUQzeGE0dmFJUjR6LXhPeVhPVTYwbUhGRmRaV2Y5eHlOd2diWDBieFRQWHM0eGdGTEtXb0xob21vYS1QZ3pmdFNYbnlNaw?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,18 +71,13 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRldQVTliUnZhenVDQkJJSk9SZXdvR3ZMZnhENXd5TUxIRFdzQWxuSnpmUXYwbnNVQVNHRmhZTXZFYjNBZERoMTRrTDRTM0RLUU5lUlFIdXpKSjJ2Z3ZKVHh4bVJIUExQTU9ra2F4aDdiYnlRamVrVFkxRWlUUlgwYjNONDRxaHFycFhn0gGfAUFVX3lxTE1KYUVxQzdMbnQ5SVczY2dNUTg3d2NDN2pMeEVoekpWLWs2RUlYRE03aEZKaHVPNS1tRmpfeXFUUzN2SFFYOTlQUVlRcnRJMm5SUTVDU282U0pWSWpfT3BjLTB6dUlFZ3pta1lmWTVQTUJIcVlnd3VyZ3VlQnBPQnFrRmVuSmExVWFxZVRCNzhCbzhQSWFsLVU5UGxpMkxRUQ?oc=5"
         },
         {
-            "source": "starnewskorea.com",
-            "title": "손흥민 OUT→감독 경질→참다못한 충격 폭로 \"토트넘 문제점은...\" 고작 2경기 만에 '폭탄발언' - starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tMmJ6dGl0bDJWaEczc0xFd1UyVzJYbEp4NUo3eG5XUERoUFpob3BqVUx4UmFYTDlaclUwMlpyc0ZqWExhdzFpWGNzNzZDc0lUTmV5aU1YSjhnZUx0QUVhbkZacXV4d0hCZWI5TVRmVVloT0NWX0E?oc=5"
+            "source": "v.daum.net",
+            "title": "‘손’ 놓은 토트넘, 손 쓸 수 없이 ‘와르르’ - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OQ0VjQ1pWQkE0a2JOcUhUMVZkOGlDQzMzMk5KR0U2Rjl1enhxaXhhRmJPMFg2MHN3SFQ3TkVGZWNNbXZhMkE?oc=5"
         },
         {
-            "source": "OSEN",
-            "title": "\"작전대로 딱 맞아떨어졌네!\" 이게 PL 오피셜 계정이라니...토트넘 GK 조롱 논란→구단 공식 항의→결국 삭제 - OSEN",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqVDk0cWluMUZSd3BBY1NsSzNudVNqWXQ0UUpmSTdva1E3eTF0X015QU9Tb3pmTTdQd0t6Y1ZXdXR2cldMV0h2S1F5MWNPVVV1Rk1r?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "'이게 무슨 축구야' PL 유행 중인 '사람꽉꽉밀집코너킥', 도마 위…전문가들 \"개정 필요해\" - 네이트 스포츠",
+            "source": "네이트",
+            "title": "'이게 무슨 축구야' PL 유행 중인 '사람꽉꽉밀집코너킥', 도마 위…전문가들 \"개정 필요해\" - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zWGgwWmJzQ2Z5T0Q4TlNTcXI3M2xDcnN4TlpDNFRFWTV3c1lvdUtlRzVmQmUwdFppaEswcHM1T2E2enFnSUdqSVMwZW9mOUwzcThDc3QzQlZoM3Qz?oc=5"
         },
         {
@@ -104,6 +89,21 @@
             "source": "xportsnews.com",
             "title": "'손흥민 선택이 100% 옳았다?'…살라, 커리어 최장 기간 '무득점 굴욕'→EPL 10경기 연속 0골 - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVkpUdUVhWVFfTkVtdkw0RmdYcTBxNE80Q1ZHcEJQcUhaaVZuWGlCM21mRkc2UEFfMm9NcktQSk1CZjhydFBxU3ZBYXY0OUl5T1Q4OQ?oc=5"
+        },
+        {
+            "source": "mt.co.kr",
+            "title": "'이게 무슨 축구야' PL 유행 중인 '사람꽉꽉밀집코너킥', 도마 위...전문가들 \"개정 필요해\" - mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzdl9qUmMta0g0MW5qdE9qOXBLVWYxbGlwR0s4WnFfUUk5OVlmN2c5eUZyMUJGQ3Bxeno2VXUxVTBKZ1N1amdiaU5yU0hfc0Ztcmp4elNZbFRUeDBPX2xLOE16TEdVQXNkQ1E?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "무려 현역 선수! “프리미어리그 역사상 최악의 영입”…‘역대급’ 혹평의 주인공은? - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTzJkZXNuWmlmVlgxR2hwcUVFc0xicXA1NnhCQ0Q0eG1HeFNkU2VCU0QtYUZFZ3hMbHZERzFrb0JpRHZnRlk3U3hEYzRyZElEeFNOZlBFbTdUdXhRdURUQlBaaTVQV3lmc3VNYmJVczRCQkpn?oc=5"
+        },
+        {
+            "source": "스포탈코리아",
+            "title": "\"62억, 이강인 연봉 3배 줘!\"...PSG 미드필더, 결국 프리미어리그 무대로 떠나나 \"아스널, 첼시, 맨시티, 뉴캐슬 등 관심\" - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjBRNDdzU2VrQXFOMU12X1hhZHY2U3Voa1VFeC0tZUgyT1V1Z0RjbmkzYW5NWWZmRlZpTDVyYzBsMHpoOEJxaks2ekhWSXBFY1NkQk0zaEdpUWduclM3WUpQM2QxaWFYMmVZRnJ5WExJZjNSeWwwVVNYZ2ZsRV9YT1Bn?oc=5"
         }
     ],
     "transfers": [
