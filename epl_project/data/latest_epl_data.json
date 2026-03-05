@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-03-05 01:04:18",
+    "timestamp": "2026-03-05 04:01:09",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Newcastle vs Man Utd LIVE! Premier League score, match updates, team news, stream and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFgwS2RhUFRBOWV0VDQyT2ZrZHdjY3NKbmx0MWtDei1IVWpuc2VYUUE2SGRpdlN5NkVvYXMwR29SRkdxZWFUR281OXJRaXhRTlEwaG9WM0thLWNmSGllUDBxREdSQzZIYWNhOFJENDNlYnloM3gzdlI0TFJxZTFhaGU0LThWY01PMVFDZkNkMmNRRlBwVjBtS2cwc1M4Q2RIYVdXYVluMkRWTGFiQWhBTkdiZW5kakdKNTdMZWhfeEc2VlNFRmdScTdPMVBvTnowWTQtX3h5Q1BaVmtlSllJeU0tQjlVUTQ?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Newcastle United 2-1 Manchester United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnUtTmxYdzBDc3JuSlJRdnJzWmswa1lmcmJsR2lzUFZpQi1IOE9hVEwzMk9LbXRiWlpzeVBoaEI3dTJLOWtsZXhmNnAzMXVRZGtRYzNRcDZranF1TFJvMFlDTk9fa3VFRG9pQ0pBdTVpY0p0WWM4d0VSal90SDQtdERFQTFoY3Z0aV9NcE1xajVpaGhyUHZmZjd4QjJmdmdYZUFobEdB?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Brighton 0-1 Arsenal highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUFdaLW9ETTZ4WlJnV1FHNWFWYUFWSjl1U1Y1MDJiZDdqdkU1VVU4aGhVMUtBVnJfM2w2eHFrYzBuNF9CZ0VJSmw3dktheTVxSEJESTFqYXQ2X0RZa0NmMU44QVBlMjlGV2VWWkVUcTFYMzhacERsUTJLckJXYS0zUmtOOTlQZDVZU2NBTFZDbFE3ZUtRSzVKUmtTWFQ0NWo0dmN5akM0MktkZDQzLUhnakF3dE40d1lYYVVUd3J1dUhyM09PSmdRTU5RN2xIQ3FYelBPbDYzMVI0aXZSY2F5U3dFTDJ0dw?oc=5"
-        },
-        {
-            "source": "Chelsea",
-            "title": "Match report: Aston Villa 1-4 Chelsea | News | Official Site - Chelsea",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbklNazFTbWxhMnpJQTg1VW5rT2RFRDMtYmNXYW5rX0xha0xoWngxd1lZTk9HREFZdG1Hd0hHZEs0QmMzbmJhQ2doYjJwcC1WMmdEUFhnazBEaFRLNWRITDN6bTFoSU5jNUExU0xZS0wzUmRDOW9iM3pBV3JDMDZ2OWpxZTQ?oc=5"
-        },
-        {
-            "source": "Anfield Watch",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
+            "source": "BBC",
+            "title": "Watch Match of the Day: Newcastle beat Man Utd & Arsenal extend lead over Man City - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14MXFIRTlMYy1TblMwaGZuTHhZOTJKRjlkQ2tZU3l2ejFuMFpGQnlpdXFuX2IzSi1aVnZNV3FsMTl6WllseExxY0NhQ0VVaFdrNzBTcWxMMGJCSUJkd2ZKejRIYWE?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -31,9 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3FuQXlqUmRuOFZiYk0yVHZ6c1FkRnBPRWtueS00SUxhamdqSkxaNFQxYTZpOE5jbFlDckg4RkxUM05sLW9fSzMwNl9aNmtLYUd1V1pWdWFuTXZLTEdGZ3JOckVfWlF0RzhCbE9CWU4wdWw2WTNLYU5SdVJYaUhFYnVCOTlBZlJ1eWxrQzdteWdBeDBXMWUzdW82T0JrQVNVb1Q0bG1UbEkwWHRpUEt2YTZqV1BTbkhMRWpFUlh6eTNqOV9V0gHKAUFVX3lxTE1Fcnlwa2xicDJtUVpGVFFxRnE5WEJnSGcxc0l0aVBLMjhjOGJiRGRnREE5amlOMDJBcDNtcXktMExNYTJnQnd1OEZsdEtwbHp5cHVUeUtwNTRqb1VFMkFGdTRGaHdSbXJIck4yZklycUVhSmZ1N3pScHFHU2xZdTZaYjFHLWUxSUd4bll3OW51TDNBTFczWXRhWTIzM0ZRUU53MDdKLVlJUEt4R2ZaWUp4YkRNMEV1R3I4bFZWZVRFOWRyTDdBRnpWMVE?oc=5"
         },
         {
-            "source": "footballtransfers.com",
-            "title": "Fabrizio Romano Transfer News: Ronaldo decision as Premier League manager chaos continues - footballtransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaTN3aG1IUUhFeDMxdlE3M2pkc2FHVGR3aXBvTTBfVWxzMlhfNE1oMVRBNEptX1FHRWlFc0JqUDRZT25XUTRxY3NPcUFoSmQtYl9PVTY0SkR0T2dqYVhDdDVIc3pUS2lBbnNKMWNXVUd3U1ktNVhnRkp1eU9WZVdKZm42LWp1cHpucW5xaTJ3cG5jSEk0UWdTUE5CSGdCOUtTZ3NtMDVwVkNFUnI3M05INENjWGFUT1VtRmphdjVsS29zUzZDc2Q4bHlIZWtMWnp2dXJHTkxkSVdJMW5Na0RhdDdKbDBDb3lVZ2lCakpuR0JXZFpYZnQwNg?oc=5"
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
+        },
+        {
+            "source": "The Celtic Bhoys",
+            "title": "'Official announcement' - Fabrizio Romano drops Celtic news - The Celtic Bhoys",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkFTRHBvSDRSTVFjUWJPZjNpYkFETkhsdmlIUHZDMUk0UHBBMEZjUWcxcXdPdGU0Z0NtaXF5UUVZXzFZRU8wbHlna19CSnJ4X3RfTnFzNWFsZ3FvR1ZtV2RoMW5HM055Rm5GTzN6eXlBZzRWOTBxcmE2SU53aXpTZ2ZOVWZIcm5MTHc?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -52,11 +52,6 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
@@ -66,19 +61,24 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "[PL REVIEW] '이게 뭔가요'…맨유, '전반 퇴장' 뉴캐슬 상대 1-2 충격패→캐릭 부임 후 첫 패, 한계 오나 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OZTRKdFpmVDFCZFdfMUN0cmcwNFVjbTd2amxIR0tya2Y5SFlDa1JhVzNCRHlFZURCa0o3T0NUT3dGcnJpaE5VNnFmaDJfZHdWeWFQUFAxRlhKOXVh?oc=5"
+            "source": "Premier League",
+            "title": "Fixture changes announced for April 2026 - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0ExUFVEd1RfaHNOVEFDUVV6cFgyVzRXMUYzN1hxX3ZzZDJjTE8xTXcxZGUxZUp3ajRhRnR6Z0l1RlBuSTZJS1NSemJIR0t1YjJlTHlKSWEwRXJ6TTUwelJzNkxoLTBLR3dnd2xRd2l0NFdpMFluMmZOeHZzQUxmN1d3YlQ4T08tVmNVc2pHUy0?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "‘임금 반토막 임박’ 동네북 토트넘, ‘강등권 빨간불’ 제대로 켜졌다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zcWJFVnlIX2JIdTVuZEYyV2diQWN5Zm9qb2dsamVTYzhTWGpSY1hlTDN1WmR5R2REdk1qX2xydHN3UVpXOHlGd2MyeFhoQWs?oc=5"
+            "title": "\"누구도 이런 축구 원하지 않아\" 경기 압도하고도 패배, 아스날 '침대 축구'에 직격탄 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITFhaLXJGV0RqTXJqQWxabnJlbzhvNm1FSDB3REZ2MGpKR2U3NVlxYVNxeGhWVEgxckt3Sjd5SUxLbUZidEplcGJocFNjTHc?oc=5"
         },
         {
-            "source": "노컷뉴스",
-            "title": "선두 아스널의 힘 '10번째 1골 차 승리'…2위 맨시티와 7점 차 - 노컷뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52NTZFVTE5YWUzSm45em5ITnctTkU0QzdaUmRCeFFGdDJRczY5aFNrZzZINFYxd2d2VkJ5UXYtMVdCNlVXcEcxU01RTnkzamEzWkE?oc=5"
+            "source": "네이트 스포츠",
+            "title": "노팅엄 고마워! 아스널, 브라이턴 꺾고 EPL 선두 수성→맨시티와 격차 더 벌리며 '우승 가능성 UP' - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SMm9UVHpnY2VZcE55aGJJNmhCNGNLREI3NlNjSVcwUFFYbmRKMUptc2RQWG5qTGtIWTZ5Qzlud1pXcUVYbmhDeExwVWE3NXN1OTdoVDI5WjlISktl?oc=5"
+        },
+        {
+            "source": "sportschosun.com",
+            "title": "韓 국대 EPL 승격 도전, '1골 최악 부진' 日 국대 때문에 폭망...현지 맹비판 폭격 “재앙 그 자체” - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMbDRTeGQ2ckdmYV9VMWk0bzJ1V1h2eWdaLXJDclMtRUMtSXlqYkRCaEx4LWo4dW55aXpPVkFZdkU5UWlCNUdENXJzMFZhTkl4RHFlU3ZCX0lPcV9PU080LXlBVFZHQ05qaGVkRnVDRjYxN19YS2xrQmV1YUYtQdIBd0FVX3lxTE9kX3pIRHFqRHNOY25XMVU0NHEzS2lCa09MSHFwNEpHdlZjWnRST2ZQS3hDTlpnNnJDVk1BWWloSG05Ui1nQmFEOUE0bmVBLTFvdEVEVC1oQ195aFBEUC1SOWI4TmZYM3hNT2Z2U25wakFfUWhPb21F?oc=5"
         },
         {
             "source": "조선일보",
@@ -97,8 +97,8 @@
         },
         {
             "source": "v.daum.net",
-            "title": "‘입단 2개월 신입→10년 손흥민과 같은 연봉’ 토트넘, 분노의 구조조정 예고 “시즌 종료 후 선수단 연봉 전체 재조정” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MZUthZG02ODFVenFoUzFRZmg3dk5kdXBic014aWFra2lhQ01mRXNhaFdpM2dEbGQzdUhva3k4eVlmckJXTU14SE5CaTYzcW8?oc=5"
+            "title": "'강등권 경쟁' 토트넘 공격진 대실망…'양민혁 복귀가 해결책 될 수도 있다' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rZ28yMi1DVk10SERvQ3l0WmJabVZVWkRpNThIUEZvMWxYOVIxeTlSeEF2alhvTkFGLXA0ZUU1Q3VEbXNLY0JlS3VUMlhVQjg?oc=5"
         },
         {
             "source": "네이트",
