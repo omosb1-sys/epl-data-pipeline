@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-05 10:27:45",
+    "timestamp": "2026-03-05 11:25:16",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Man City 2-2 Nottingham Forest highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWTZFQkkwT29idU9abm9IZlQ4Nk00TDFFY0tCRlBrX2lNQkdFQzJoeENGeDdCNDFlNEpaMWYyWG1hV0pwT0VFdWxkT3JKSHljZEVKNGVnX21JdERvQ0EzbUtGbkpLZ0w3NHBBcmFjelJHY0RqU0FhMTQ1MDdiMU9lazRHWnFQbkpma0Myai1JSEV5QmFUY2F3cEhLM1lhQ2wtMHJ4UTZMUTRaLXo5WWJXMVJnZUFDTzlSMHFNTElKQmVqMjFUVjdIendkODhGY25wRzNpSEE5SlJBMTRBazRrakl0aUVkMkVXMlBkUFFneF9YNWtZNFpyZ2ZmQl8?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man City 2-2 Nottingham Forest | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaS1laGs0M0xZNDJWc3dTT3FqMnJVVWZYbDdJcXVidEV1a09Za3JONFJiNjlEQVA1c1JSdzVNZEFCOGxiZlBleG96MVA1UDZmZVJaUUowUzFtbEVFNmc2VWFCSmczbTJqcm4waDg1SUlhV3N1QU1ScWNLVG9sVEFnM1c2ellsb3dFS2ZEbjF6OVZ5SjQ3azVRdVRmYVUxeEM3Y2F2NzlPUGZBRENTZ3Z1SERR?oc=5"
+            "source": "BBC",
+            "title": "Premier League highlights: Newcastle United 2-1 Manchester United - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JQVY5R3NYc0RVSWxGdE04VG11ZXkwSTQ1S2JSQVgwVGQ0aXdpQ2NLQkhlNExGVjctWjdDbzZldHFIdE9ERUxoSklOSkNyaXJldFRKOFVNZEZqWFNqZEJGaTBJcW5NWXc?oc=5"
         },
         {
             "source": "The Guardian",
-            "title": "Brighton 0-1 Arsenal, Man City 2-2 Nottm Forest, Aston Villa 1-4 Chelsea – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTEhjNHRwa3otOEpHUWQ4WG56Y3Vzd1hjVGE5ZUF4cmkyYm80NWtfYjdsdWZ2RlMzcmlsMmFUMml6UlNpV3pCNGlOQmVkM2RYS3o3dlpEMUFlcU5ZdGNOWUtPMEtpMDcxX0dzcy1TUnRKZjNyRXpMUFVhOVNRMHA0TW16MXNSLVFBdFo4RWdqaFFWZ29WR1BLR3FXT29FMmQ3LTl0Wmdfc2tHU3M2R3RsUVlObjB6UTNCbXdRR3BsNzVEZENwQTlmb21jVEtpOU0xblJBWEVlU3hYTjhOWGtka0NUMlM4NzhUTDJMS1U4dHRHQQ?oc=5"
+            "title": "Newcastle United 2-1 Manchester United: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnUtTmxYdzBDc3JuSlJRdnJzWmswa1lmcmJsR2lzUFZpQi1IOE9hVEwzMk9LbXRiWlpzeVBoaEI3dTJLOWtsZXhmNnAzMXVRZGtRYzNRcDZranF1TFJvMFlDTk9fa3VFRG9pQ0pBdTVpY0p0WWM4d0VSal90SDQtdERFQTFoY3Z0aV9NcE1xajVpaGhyUHZmZjd4QjJmdmdYZUFobEdB?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "Newcastle v Man United live: Latest score and updates from Premier League - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTGNORGpDU0dsWVhKUGZ0cjl0dk5YZWpibmRQTU51Skw0dUpSVzFsTTc4bjVJV3JtNTY4cTUwWXFKSXk1WnpmT2VZai1YY1BEUTRBWG1aTl9GaUM0NUNKbzNxaF9LMVJrQ3hBZ3lrZTFIWGZVMHZhQUZxMEJST1QwNWNOX0JENlZ0QzdERXNKcmN2NG5YX0dqT1p5OEpqNl9aRDh6RFpVQmREVXdoQjBVcEdzdVZEY28?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -47,8 +47,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "The Transfer DealSheet: Latest summer window plans for Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkl4Sm5TWG1hc1RfQWFMMWlTMUxhdWVGUEZyQjFfbkVvNUJZNFFNUXNxdnY2Z1haNjB6bjRkM1Ixek9pZk41dUJGRzhnaXZTM2tMQW9CRElUTk5nQmhTdkJrSG9mQUNyTExQSmt3UXB1YUg5VmtIZEpxTU1TTzF1dUhQcnk3aExmVE1KSVIwMVZFTHdZTEZHa0dYbTF1bHBfc251UDN3a241UWwtbjB6djBoOXlhY1lMWjFralpDSkM2WDgxVnlCOEFNRQ?oc=5"
+            "title": "Arsenal make opening £30m offer for Ajax defender Jurrien Timber - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTC1XQ250bGoxLTVXMGVLVkNyMHpXdUQyZnZ2QmRLNS1aR2JVcUZNSDItUGh3MTVOR2RuSGJLX3VDamtjSUZMYU5CdjI5eF9yR19kZnJuLWZtMlNtV3JjamxCV281MEtJX1UtRDVXQ3M4MXBpZ0hNdnB6R0tESHJIS1k1dmhnVUk?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -57,13 +62,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlMtSF9leV9JQmh2cmpodlZ3SXM0ZEJoSnZRSl9WYWZGZ0g3VnY3OGVKcVhnNHF4QWxJTDJiNmNkT1REZk9SeWlvWVdjTkszMkMzeUFtUS1wZm5OSVExNmN6d3lEaTc3S0JxRWZYeXpQRS1Pa1U5WElmdXZBQk5IeGw0MmlIVHc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSXNxZ25falpWSDNKdUY4YWFUaHF3SHJ5bUFGVkNGNnByWU96dmg3a3A5cnhXRjhZWjQ2REtKN3FyVFc3b3dqTmVXVnhWQmowX2h3NnExcXJIV3ZuelhRR3Y4OGdiRVk1Z1ZDVGIteGIwSjFMTjVZNmVkZm43ZmJBYS11YXN5djRxYlNiZ3g3YXRZc3g5V1FzSmdSZFZhbElKX2kxdnpQM29IX3Fld2FVZWxRbkJtN1JwTmNneTJQdk1sTk9FdzgxUjJYWGRGUkpKdV91UTFIWEZpTmszTVdFams4dXNMOHA1MmFlZDY0eEZGZVBNTWNF?oc=5"
+            "title": "EFL transfer news, rumours and gossip for Championship, League One and League Two - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVZvQ3Z3djZGbDRyWnEtWkdtdGVDVDE0ekFHSG00M2ZaT1VLVU9oZzVnbnphWmNsLWE5QzZZU2YtaWlkWk1jalJVYktxRThMS0FSdVQ2R3lBMDZuQkZhZ0poY202UGVSM3NTLVpWNkQyWW1PM3lrOXI1U2hmRlRLME40Vk5zV3E0M0ItQlBwSXJQTXhPQjdJTjR1Q1dQMzJrMWl4c20yUEdaNlNVSm9NdzAyLTdIU1pRS2hGTGViQ08xQkRLNlJGcmhWWGZQYm9XTlBUamVR?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -77,23 +77,8 @@
         },
         {
             "source": "v.daum.net",
-            "title": "[영상 Clip] '승점 6점짜리 경기 완승' 첼시 로세니어 감독 \"훌륭한 팀워크 보여줬다…이런 모습 유지해야 해\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WQm1idzBlSE10ZmVkdXN0ZExqRkQ0dE9UYkRCUXJFUXBvekFVSmN6MzRGaVZlRG12ODlOajV5VUZ2R0V5RHdfUnFmd0hrc3c?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "EPL 꼴찌 울버햄튼, '극장골'로 리버풀 제압…부상 회복 황희찬 벤치 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WUS14R1JuTGxJM3ZYQjlmMlFrLWpfRmFJMG9HR25RNE1QS2xTWmRJUDVvd2dTeFAzRk9NVVVFN1NKaHNNMGwxcUJhbVJPdzg?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "역대 이런 챔피언 있었나.. 리버풀, 90분 이후 실점 패배 5경기 '역대 최다' 불명예 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3dTa195UnpMcFk3MjJGdVkyN0l5aF9ROS1JVzRONzRsRWlNdklDNUN5a3JPTnZVWW5VZmxZYVpfOWtwckowVzBvc3o4U05OdEV5YVNYWHZWQ0NMbXFxdEYwV0h2elBvMFE0bmJFNVpvUGF1M05Qc0pZSk4weGU2aExEVml3WEM1WUhF0gGfAUFVX3lxTE5mR0szU3hLX0xDTk5jUHctVzAzbzZ0Q1NobjdndHZFSHdsM2lMT3dXMXdWVzBaV1YyN1pGNVpPam9NS255X2RUUk5OM0FmVzFTTjVvNWszVTZJTDlsbDB5S0llUzFQdWtaajVFNE9vbnotenBqWl9JMkFJVWFtSGFqeFhHM2sxYllQR0ZZQUM4TTRUSVlYd0YxTXM3R2tHUQ?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "동점골에도 고개 숙인 득점왕 살라! 진짜 EPL 우승 물건너갔다…'최악의 골 결정력' 리버풀, 19슈팅에 단 1골→꼴찌 울버햄턴에 덜미→EPL 4연승 실패 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByaGNsdEd4Tlc5ZDA1cWdnWjJWa0pNYUNpb0M1MFN2ZEZKOUlBdTEyRjNLOVlTby1HOTBZOTN5TVRzZ3QxdElzUmYwUUk0Tm9HVXctazJOT3RDSjc1?oc=5"
+            "title": "'손흥민 보낸 대가'…강등권 추락 위기 토트넘, 뒤늦은 대참사 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CdmpPcmpMeUtIUVZjaHRrcVlCTDNfZXpYUHpxMTkyM2YtZndZVFNHR0pZQThsdDJQZnpuVTl4Z3BqWm9hVXpQNUhrUnBNVG8?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -104,6 +89,21 @@
             "source": "조선일보",
             "title": "49년 만의 최대 위기 토트넘, 강등 시 선수 연봉 절반 날아간다 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRldQVTliUnZhenVDQkJJSk9SZXdvR3ZMZnhENXd5TUxIRFdzQWxuSnpmUXYwbnNVQVNHRmhZTXZFYjNBZERoMTRrTDRTM0RLUU5lUlFIdXpKSjJ2Z3ZKVHh4bVJIUExQTU9ra2F4aDdiYnlRamVrVFkxRWlUUlgwYjNONDRxaHFycFhn0gGfAUFVX3lxTE1KYUVxQzdMbnQ5SVczY2dNUTg3d2NDN2pMeEVoekpWLWs2RUlYRE03aEZKaHVPNS1tRmpfeXFUUzN2SFFYOTlQUVlRcnRJMm5SUTVDU282U0pWSWpfT3BjLTB6dUlFZ3pta1lmWTVQTUJIcVlnd3VyZ3VlQnBPQnFrRmVuSmExVWFxZVRCNzhCbzhQSWFsLVU5UGxpMkxRUQ?oc=5"
+        },
+        {
+            "source": "경향신문",
+            "title": "‘손’ 놓은 토트넘, 손 쓸 수 없이 ‘와르르’ - 경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNlp4SHZENFB0MWZBclB1RXpPdDVOdnJJQkZ3a2c2d3VDamJHWVBwVFNfbW9TZWlXbXRDSTBnMjF3eW52dTJFY254LTNIeWpNYjViOFMwakF4UdIBX0FVX3lxTE9kcUdaVzJpbG1rOVFtTzRrMUJXalZBYTNsZXpHTEh1WXNEdW9UU3JwbkNYbUdXb00xQVZUMmc4NXcyTHhFQzdyTGlFWlhpWmk4eGt4NkdZWUxNNFdoXzNN?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "EPL 꼴찌 울버햄튼, '극장골'로 리버풀 제압…부상 회복 황희찬 벤치 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WUS14R1JuTGxJM3ZYQjlmMlFrLWpfRmFJMG9HR25RNE1QS2xTWmRJUDVvd2dTeFAzRk9NVVVFN1NKaHNNMGwxcUJhbVJPdzg?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "역대 이런 챔피언 있었나.. 리버풀, 90분 이후 실점 패배 5경기 '역대 최다' 불명예 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3dTa195UnpMcFk3MjJGdVkyN0l5aF9ROS1JVzRONzRsRWlNdklDNUN5a3JPTnZVWW5VZmxZYVpfOWtwckowVzBvc3o4U05OdEV5YVNYWHZWQ0NMbXFxdEYwV0h2elBvMFE0bmJFNVpvUGF1M05Qc0pZSk4weGU2aExEVml3WEM1WUhF0gGfAUFVX3lxTE5mR0szU3hLX0xDTk5jUHctVzAzbzZ0Q1NobjdndHZFSHdsM2lMT3dXMXdWVzBaV1YyN1pGNVpPam9NS255X2RUUk5OM0FmVzFTTjVvNWszVTZJTDlsbDB5S0llUzFQdWtaajVFNE9vbnotenBqWl9JMkFJVWFtSGFqeFhHM2sxYllQR0ZZQUM4TTRUSVlYd0YxTXM3R2tHUQ?oc=5"
         }
     ],
     "transfers": [
