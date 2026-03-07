@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-07 22:11:46",
+    "timestamp": "2026-03-07 23:12:22",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,14 +11,14 @@
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzliclZ6aDZjMEdkUHlKbXJHdHRKYkE0VTZYUDlCMUZGek5MeWlMdnJZcnY5QjlaS0dZYi14V0llaEUyTGJZRGdwSlJsZEhhanhvRVRtZFlobG1ocGl3NVFGa2V1SW9UUkZKWjU5Vlk2TDFjMzlSRFJtVjVZOGo4aGFucm9IdW9lOFRPUkUzakpyMGtneDByTW5aZ1MtUdIBowFBVV95cUxOdFJROFg4TUZURVQxTHBmMW1qalRGNEZmblU2MG1HRU81S0lkcUh1OXdscFJ3V3JNQWhCTHduYklkbmhqbzZIWHV0SWcwVVVqcmNLMHo3UzZ6MzBhNlRhOGl0S0M1MDkwZ0Q1ZTRIVzdYaFIzcGtNMmk5YU1rTU9MNEVhNWV0bThwV0I2QTBOTFd3NEZIdExFX3ZrcWR2TFRUc3dn?oc=5"
         },
         {
-            "source": "Daily Star",
-            "title": "Man Utd 'plot move for £40m Premier League star' as alternative to Yan Diomande - Daily Star",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFE1NTdHci1XM1l4VlFJcjhMRFhRZ2VjbWZFaU9IRDRUVDY2UE1RTXZ6enRmRzNtWnBqR0VpSk0zb1JPODFJV1dXc0oyaEc0ZWw0LTV5aU1XTHdnSzhBUExvd3N5aWF4Unh2T0NpREJVSC15NmplcjhDOE9Ia1pESkhqS0tVUnpyc3RQbkI1T3M5VVg4VjFQbnNUODV3Zw?oc=5"
-        },
-        {
             "source": "Sports Mole",
             "title": "Man United transfer news: Red Devils weighing up 'surprise' £40m summer swoop for Premier League attacker - Sports Mole",
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWkpIZEt4NG41RGxNQ0FQMjJRU2lrczJON3Z1UVBBWlBLNmZ3QnoyZG9FOUtSQVBKcXQxT0Fmb3dTb01SbnNSeEFRem9Wa0ZqWmw4eXUySXJpLWFsdE5NZGpvdkV2M3ZWRzd0Qy1sQW41Slo3LXVsLTUwM1FpVXZnelJwUFJOS3pRb2EzWXYzWEx1MTdFN19sLWVnbFJqcUEzdWZCMUE5X2dUbWNIdDBtSV91cGNvbDczbzlUV19KQi0xb01fY0Q3WVR4Y1NHenVFeVJtMGZmeDVpbjNHTzRVM0hsQXpfMmZZWE9UNA?oc=5"
+        },
+        {
+            "source": "Daily Star",
+            "title": "Man Utd 'plot move for £40m Premier League star' as alternative to Yan Diomande - Daily Star",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFE1NTdHci1XM1l4VlFJcjhMRFhRZ2VjbWZFaU9IRDRUVDY2UE1RTXZ6enRmRzNtWnBqR0VpSk0zb1JPODFJV1dXc0oyaEc0ZWw0LTV5aU1XTHdnSzhBUExvd3N5aWF4Unh2T0NpREJVSC15NmplcjhDOE9Ia1pESkhqS0tVUnpyc3RQbkI1T3M5VVg4VjFQbnNUODV3Zw?oc=5"
         },
         {
             "source": "footballtransfers.com",
@@ -113,13 +113,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-03-07",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
