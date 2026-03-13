@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-03-13 17:25:55",
+    "timestamp": "2026-03-13 18:26:25",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "Premier League",
+            "title": "Scout Selection: Best Fantasy team for Gameweek 30 - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ19KSlJjVXZGTEdyZ1JzR1dDVFZOYW9lXzVVTXdSZDZfLWJrV1ZjVlItUlBmOVFpZXpVa3RVLXhCTl9XeUJvT3JaWDRPcEFYQTZXX2RJMmJRMkRUTi1UYXlNeEh6MkZtQ3owUW1XVndOLWZmZzg5d3dCMDZOemM0T3k1S1NybWpVcjdMYS0zQmxRN290Wjc3a2o4MA?oc=5"
+        },
         {
             "source": "BBC",
             "title": "Fantasy Premier League: Gameweek 30 Q&A with expert Heisenberg - send us your questions - BBC",
@@ -14,11 +19,6 @@
             "source": "BBC",
             "title": "FPL talking point: Target Liverpool, Brentford and Fulham in gameweeks 30 aand 31 - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WOVNwM0RRbU5yVXpQWlV5alJIRGkwVGhaQ1ZzMzhoeHpUNUxLT01TS0RyVGNqLUFKbGpJLXVqS2NIcVJJUkdUcnZXSHFzTG1HU003bll1RzNIbnF6QWRvbGRkQVhwLTg?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Who is the best FPL captain for Gameweek 30? - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUtDdzQtNDI3UjNKN0E5clVhSjRtZ19ET2QwUlQyMDNVenczWnV2TTlDT0ticDl2SnFyZlRNdzhEN0ctSTU5MVRsZ21LcjVWd29rTjdPMmVxaDBoSWVJY2RJVUpJUDBDQ0x6NUNEbmtuYjZ1MHNERDlERXFET2kzTFZzSkNPV2NHWFExM3ZpODZJa0ZXU0hLLQ?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUE4xMjdlVFFnNVc1U09ZZWRqTFFmbVJ4LUdFbWNhVThDa0VnYnJlc2xrbWM1dHQzUllad2lXZUxSZG5RSUtKSDMzdTlHMlJuc0ZpNkp0Wjk3cFhyekl3QWltWlVPQkx6UVFPTE85OVlBWnpDczZ0SVFSdjFTUkNnSGE0OWJBWXFFcVZGSnZtdHl1N24zcWRIYUpKaWU0Mks2d3A4RERtZkd0bkJ1MFRsaERaek95Nl9OS2xPdzljUmM0dG9vUFJqYzdpVldEcnh1aGkxQXJ1X0tEM0JSUHk1U3NBUUFXcUVhMTZwMEFQaUxHUENIUEtKdzczY3hta29SU2Vr?oc=5"
         },
         {
-            "source": "Hotspur HQ",
-            "title": "Fabrizio Romano drops word that Tottenham's first January signing is all but official - Hotspur HQ",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3h4Sm1FOWtVZFROczhkT2VidUtReUVrYk82eVVQSm1sWjVPX20yakpOUkdDMzBVUS10eV9rVk43WXJmRk5aUC1sd3pINVpyMkNiWmVCZkg5d3l5LWh3SzYxcVRPb05oYnBFbk1rU05CYWw2Q2VJbTlqWXl3ZHZvZTY1dmNmN3F5azc5UG9vZjdIOFhac05zZ1BPSWxXWTBCbS1Pb2lxWHhCbU1PX2ZHcnRnbjd0QjZvSHZnbw?oc=5"
+            "source": "The Empire of The Kop",
+            "title": "‘He intends to stay’ – Fabrizio Romano update on Liverpool star will be music to Kopites’ ears - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkp3TUhONm9ZLW9JSmxsU0k5YVRTNXY0cUQwYkRlRDFBdGNwZk5RMWRNQ0VJMlBjcUVTQkNhdHcwX0daa3BFVXVaUmRRaTZ5cTB1NVlITFRGMFFZUGwwcXJHMWJPRE5SSUhpa25WYl9NcG5fdTlKV3ZRaHR3MVlURlFPRndwNWJIb2JvQzU3WENHZlFsZ2JtVUtremlrSnZMVk9Vc0Via3BiQ0Q2U2w00gG0AUFVX3lxTE9hUER3cDdySmJsQ05YZDhsYWMxTzN5S2lkWWkxUmZnU2w0SHZKa0xGMnFWbFlaZGNOdTl0NU1LYUhlOG0teXJ1bTdfMnFkbDdfNEtNa0Y1Z0p4TGlCNEhGR0pNd2VQNDMwdGlLVVd0WHRqWjlKejZVSm1ZS1NlVU1OeEU4R0xyT1NiRTYxUU02bFk0RzdqTkpLWVFsd3hIcEVWcVk1ZzYwbkI4NUZpeVJoamxadA?oc=5"
         },
         {
             "source": "The New York Times",
@@ -57,11 +57,6 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0lnbmFOcEx1TDBjZG1fem9ic3JQNFRfa05hT3R6alQtOHk0dXNfQkRTd0NLa0hTdThQaXhFSHFxdVVsUVpVU0R4VDBrbmJsQUpQMWQ4RTI0N0tmYTBWUDV2d1dYRVphZi1idE1WNVlLWEZTUF9EVFdURVg1QlJLN2k0dXVWUVY1ZFNqTXJaQ1NqeW5NWDRzR0RHeDFJV0dqSDV5a0d3TUcwaERGWHNhd20zaWhqMnNkN3hWcExlLWF1UWJmRl8xa1VPVEpYeFFwaUNDVklGeU5PNHdrQjZ0Wjh3Qk5TZkhMMktiMU9LNlRGelZu?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
@@ -81,9 +76,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fd2k1ZXdaMkRuQU1sWF9Md1VfUVRXYnVpV0RCa2Joa1pjbmZsTWF4N0VjOWRabGFqYm5XQldjNDIyUVRESkNoVlEydVVCa1hmN2NHcXAxT3o1Umsw?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "손흥민 없는 토트넘, 리버풀전도 암울…6연패 탈출 가능할까 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjUtSEJacmZmZ3k1VElOMU43VXhrMC1LbjFBX29kTWM5ZVlYYkViS3BJa3ZLdVZDMHhTQURjbjNHOWZUTy0zU21jeWFld0Z6a1UxLVpMRG1VTDFPclFTMDYwelZfZ0dFY3hNOE1jOWNHbFpQLWRmZEFFd2JfNlFBUlBHUUN4SF83dXBB0gGfAUFVX3lxTE9kVG5haThNMTlNenFveGF0ZGpITFdVQlNWZkRNRGpkYXdQV3BmMmxvMkFxR3l4VmhockRfVWhhV3BaSVAyVU9JV1ZFakw2Wm5DVnBNSWE5RFV0WlQ1UTY2dkNZV3JkYVBtbURNZkRYZlhDUFU0N1JvNURQZnpqaE52cVUwZmVqVnY1THQxZFpERzFOcjZQRGpmeDM2QW1VMA?oc=5"
+            "source": "v.daum.net",
+            "title": "'韓 축구 에이스' 이강인 본인도 깜짝 놀라겠다...대형 폭탄 이적설 줄줄이 쏟아진다→\"토트넘-첼시-아스날이 원해\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZUXhvTkN1bkhtZ3hTeWhlT1laN1owZEdjbWdFRkFKdS1WbGExNmZ0bk9NaGpBaVhUdmc4bm9jRV9JcHFsMkE?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "英 BBC “토트넘, 49년 만에 2부리그 강등 위기”…표류하는 투도르 임시 감독 “선수들은 울거나 싸우거나 둘 중 하나밖에 없다” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56eGE1dV9HUy11bFlObXJ4UkwwN05LbUFIY2ZxcVN0MUFSUlY5MnZlRzdqTW82aUxRQUcxZ1V4eDBjb2RJWUdHT21BNi1PWHpKS0pkUnIzdVA1c24xS2phXy1WX0lLMVhSZDZqX1dPONIBc0FVX3lxTFBUbmJBZVBfQTU1WW5mODlUb2hlYUplcV9kUkdnazlfamlHNGFsU2hjVm1zOGxxcmgwTnpEWVA5dU0ySFJKUFVHRmQ2T2hjamdRU3lETHNqcDNjZjROZVZwbHl3U05TUEwtYXJWVXdwU01vQnc?oc=5"
         },
         {
             "source": "mt.co.kr",
@@ -91,19 +91,14 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSU5ZUDFoYkFZdXVWbm9FbTFBN1EySFJJbnZhZTVFUHFyak1wMXNVb2lQa1ZwLTE2cFpRY05Tc0ZZLVVkVmZCTy1WQ2QweDBXaDN3ODJLdF82Z2N3dkJPdUswYlBCbkxELXc?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'무승부' 뉴캐슬-아스날 빼고 전패...'세계 최고'라는 프리미어리그, UCL서 고전 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45Rm5hOW5hWlA3bHRQQm9JeFBmXzlWQ0duQlJ4UkRGNFB4R0VrMlNLQnZWWk5ybmo1STd4OFdjTk04MmpGSlktNE5RT01iQUU?oc=5"
+            "source": "조선일보",
+            "title": "세 달 만에 터진 조규성... EPL 노팅엄 상대로 헤더 결승골 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXprQWZwOHZPUTByTWVJX0VnMzdoMXI5NjRSSXU0TGFfZFByUXQ4R1RJb3Z6N1ZlSS0zVDNsNTlnLWxUM2RnYUZ0Rno0YzRpZzFiMlpnVVVJTDYwOTVqYmJkbW1pWnJKM2ZkbnN6YXF2TU9kUWktMVRnbEVINnI5aDJDWU9WQUt6M0000gGfAUFVX3lxTE9SNkRWRlhVQzk3eVJNMWc4cDA5ZjdyMXdyTVVmNUlwQnFCcG04d2NiRjJDMzcwYlh2eFJLV2pyQ21mN243OUVnUXNTZS1tUkJ6RUNvNW54dDlUaHlQTGNQVmk3VlNuZ2JBWHEtZS14aExLQ29GRDlpZ0JoU05kYkoyM29FZ01UaFUwc3hqQzh1NnBuNVJsNm94NzhWY0xScw?oc=5"
         },
         {
-            "source": "일간스포츠",
-            "title": "‘주장 맞아?’→킨스키 칼 교체 배후로 로메로 지목…“이게 대체 무슨 팀인가” - 일간스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yUDJaYjY1SkItclE5alVKU2pZUlE0anoxSW14ejBaLTdVWWFZdHFCX3VESkxnbUxkcjZrbmt1NjBmMW9MQWZETFFTaTVhQ1dsblM5UUgwVUpKVjQ?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "'이강인을 2부리그로 보낼 수는 없다'…토트넘, EPL 잔류 확정하면 이강인 영입부터 추진 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBla0J3TlVfLTMzdWpyNHFXdzhMWmlGSXctdF9WaGhTaGhvTGtheTd2Vk91Y0J4NmVzZi11U3NBWTFLYXNqdElYQzZZWVl3bE5LMkV5VzljRXRMTDhw?oc=5"
+            "source": "xportsnews.com",
+            "title": "EPL 팀 박살낸 조규성 환상 결승포, 상대 감독 자극했다…\"너네 이긴 거 아냐, 아직 안 끝났다\" 분노 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01U195QXV1eHdtajFIWWU2MDEwWThBeTNqZjI4VjRUeFlkR2ozeDJ1MDhzVE9wTGVFMlZaX2VlVHJrOGRBZ3Znc2lwaWVaN3JvWjNYdw?oc=5"
         }
     ],
     "transfers": [
