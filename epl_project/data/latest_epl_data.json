@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-14 19:18:49",
+    "timestamp": "2026-03-14 20:14:57",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "West Ham v Man City: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVndaLVpzd1MxWWJ3d0NnZl9OLTc3bjZPV2xzYzFFQVUzR041Nm9ZX1pIUG1ielF4SDgyZUNRMEUyZkJub2dKTjZvclpEUDdzbjZLVE52WlBrVk9oNUlTeVYxRHVkZTdHeHQ0c0piVzZpaUJvSUNKeEFCZkRIanNoTUkyQ2xaOGJTMjZmRmhIWlNIZmVRZ0RScQ?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Pep Guardiola: Man City boss says Premier League title race will be over if his side do not beat West Ham - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORkpSTE1ObEJ5Zkp1THFhd2ZwVXQ5dHNuSmFNWnp5MWdnYlJPUGk2VmV1S2xYYVdTemtIU3hKUkZudV9TSFF0clpfbEhVLXpRWFI0Nm9YTWpzM3NMVHM0WVQyWG1ZWWlhV2hZVWpmU0hqZHRIYmk5aXA0TENCVWx4eEVkN05Ga09LNVNNNE9xRTNvd0llOW41em5BQU9lTDVmTGp2d19fN0Q4QXJtRmJSRy1ndkRUZ1l3UVZCQXM0dTRObnduVFZUQTFkMUo0cWpxS2t4RVNLYk10MXVjZEJjSkR5bXB6QzlrRE56MzQ3TmY?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Premier League LIVE: Arsenal vs Everton, Chelsea vs Newcastle and West Ham vs Manchester City - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81SU1vZF9YZEtvMWt2c0prQXFoa3BWemdHaWtlV2QydEdiX0dodVo4b0o1ZTVFV1FnVS1MZmhqOXZzUDdteDJpeDdyaGwzajltVVVXVXY3dDhCOGdpQkpVZlN0ZDY?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkNG5waFozSFoyVkltbkI2OEt4SmVZcHl0NTdTOFhRcm5BVHB0N0ZSNjU4MUQ2TG1XY2k0R2VfRFpjWDV0MlRYOEdzY0txVG5nOFVyRXlMVE5uaktWbVFkS0Nn?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Arsenal v Everton: Premier League – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkxKZ3dLVjNPUWlxUFVhYlMzZnd3ZnNjMnBYeVN3dURPX0pEX2lkZU5BM3NYNDlJb05YRV9xS1MxdklIamdXWFVMNkpwTnZOX0k5ajJkdmRIV0FFcDVYcW9nU2RIQm5aODNhRHRaS3dKRnJwZENRQWdjVnplY3ZxM2tBWFhvQ1h3ZTlPU0dxVlRLcUdnTUlmSDViMzBlMWNQUUFFYzNEdC1ZblBweEN5ZC1jMG43dlJNY1RYODBSNUJiZFRfaVhHVDlUUXU?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNURUUlFqZWQzeXJYaDhfWEJQT3I3NVQ2NFJZeTF4WkxPcS16NHJwLW5KVUtTamlmbE9WME5jQlRuc01tbU1neVNwbEM2Nmp3T0hkTUdzZ1dJeDJHU1BmdHF6RHE2MjRrNDZscExNSEJQNWRoYjEwTVBzUWtmbEVMa2o5T2lYelJNR0Z3b3ZGUjlxckxpU3lZd2tMczRpdmd1Q0ZkNDhkY3dUNUlJYlZzeDRrNEM3VGNqSzhCZVBBU3ZTUTd3aGtFcUVTaElDQWZOZ3c?oc=5"
         },
         {
-            "source": "FootballTransfers.com",
-            "title": "Fabrizio Romano Transfer News: Arsenal signing confirmed, Man Utd want Diomande, Messi to Barcelona? - FootballTransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUE4xMjdlVFFnNVc1U09ZZWRqTFFmbVJ4LUdFbWNhVThDa0VnYnJlc2xrbWM1dHQzUllad2lXZUxSZG5RSUtKSDMzdTlHMlJuc0ZpNkp0Wjk3cFhyekl3QWltWlVPQkx6UVFPTE85OVlBWnpDczZ0SVFSdjFTUkNnSGE0OWJBWXFFcVZGSnZtdHl1N24zcWRIYUpKaWU0Mks2d3A4RERtZkd0bkJ1MFRsaERaek95Nl9OS2xPdzljUmM0dG9vUFJqYzdpVldEcnh1aGkxQXJ1X0tEM0JSUHk1U3NBUUFXcUVhMTZwMEFQaUxHUENIUEtKdzczY3hta29SU2Vr?oc=5"
-        },
-        {
             "source": "The Empire of The Kop",
             "title": "‘He intends to stay’ – Fabrizio Romano update on Liverpool star will be music to Kopites’ ears - The Empire of The Kop",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkp3TUhONm9ZLW9JSmxsU0k5YVRTNXY0cUQwYkRlRDFBdGNwZk5RMWRNQ0VJMlBjcUVTQkNhdHcwX0daa3BFVXVaUmRRaTZ5cTB1NVlITFRGMFFZUGwwcXJHMWJPRE5SSUhpa25WYl9NcG5fdTlKV3ZRaHR3MVlURlFPRndwNWJIb2JvQzU3WENHZlFsZ2JtVUtremlrSnZMVk9Vc0Via3BiQ0Q2U2w00gG0AUFVX3lxTE9hUER3cDdySmJsQ05YZDhsYWMxTzN5S2lkWWkxUmZnU2w0SHZKa0xGMnFWbFlaZGNOdTl0NU1LYUhlOG0teXJ1bTdfMnFkbDdfNEtNa0Y1Z0p4TGlCNEhGR0pNd2VQNDMwdGlLVVd0WHRqWjlKejZVSm1ZS1NlVU1OeEU4R0xyT1NiRTYxUU02bFk0RzdqTkpLWVFsd3hIcEVWcVk1ZzYwbkI4NUZpeVJoamxadA?oc=5"
+        },
+        {
+            "source": "Hotspur HQ",
+            "title": "Fabrizio Romano drops word that Tottenham's first January signing is all but official - Hotspur HQ",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3h4Sm1FOWtVZFROczhkT2VidUtReUVrYk82eVVQSm1sWjVPX20yakpOUkdDMzBVUS10eV9rVk43WXJmRk5aUC1sd3pINVpyMkNiWmVCZkg5d3l5LWh3SzYxcVRPb05oYnBFbk1rU05CYWw2Q2VJbTlqWXl3ZHZvZTY1dmNmN3F5azc5UG9vZjdIOFhac05zZ1BPSWxXWTBCbS1Pb2lxWHhCbU1PX2ZHcnRnbjd0QjZvSHZnbw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -52,13 +52,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -76,9 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTE1FU1NMa2pOcXkwMl9ZQ29WNDVBa0NsYXN3MFVQZThxaUFsQmJwcVNSVWt3b1ZObkU1U2p2N2Q5RTRmS3VKMGQ4aVZROW5XRGhzS2lyLUVsSGl5akZWMENNTTdKbjFYcU9EM2EzQ3BRWXFkb2c?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "\"웨스트햄전 패하면 아스널 우승 확정적\" 과르디올라의 생각···\"EPL 우승이 세상에서 가장 어려워\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DNHJSaC0zOE5PcmZGdGdNdS1fRUJHTHl5anh6REpST1dUSFVDT2I1TFYzOU81NTdwdlJjUFptLTlSNy1yQUVRVTl6aVNOdlk0Y3FJbkVRWlpkcW51?oc=5"
+            "source": "v.daum.net",
+            "title": "미쳤다! 손흥민 후계자 온다…'韓 미드필더' EPL 영입전 폭발! 토트넘 재참전→\"PSG 재계약 안 하면 이적시장 대폭발\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EbVNMVzlBVFdNdDlfYm5zQ1AyeklIY0FiNmxwQktXUGl3Q1ROZjg3Z1BhU1QyU1huT0xYd1c4eHpnb0RCQWc?oc=5"
         },
         {
             "source": "v.daum.net",
