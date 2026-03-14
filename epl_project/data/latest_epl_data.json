@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-14 10:16:22",
+    "timestamp": "2026-03-14 11:14:59",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,7 +7,7 @@
     "news": [
         {
             "source": "The Guardian",
-            "title": "(1) Premier League buildup as Arsenal prepare for another title test – matchday live - The Guardian",
+            "title": "Premier League buildup as Arsenal look to put pressure on Manchester City – matchday live - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTjEtN3ZrZV9GeTU3cHVRUnk1dE5nRS1LM2tldG5YN0ZFUzYxZExGVmV0VXlsdjNBUFdTZ2Q1VUNIbERVVW1KNXpxQkFiM1U4UGZMajRUemtXNVlJazBFb2psaEVuWEdjUlF5MlRyS3k5UU5IeVFHLTBKNHlZY3BHQV9kVjVobnhHLTB2ZmFFdVo3X1g0RzNWV2drbksydmFHYjBBcHkxdWNFcUxIdlFFM3pScVRVQ0hRZ2dYQVFVbmNjM3J3cnkxRjdOTTY?oc=5"
         },
         {
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05UHBsenlZcDFxbGQ3SlRvd1dwXzI3cU9IbWtSeUZ6VDVobThVNWZaQk8xTUVlQkRIUTd5Z0oyZ1Ntc2Z0SUlCYmVwd3EtYkpJczZRSS1iRmFFa29qaExDWjVtY0k2a2s?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Fantasy Premier League: Gameweek 30 Q&A with expert Heisenberg - send us your questions - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51STd0V2dNNDFGVjdMT1FxN05nUjR5THFnb1l5N01YVFlaOVNuVjVXTTBfWVhMRENoWGV1WTdlNzNSbGRJRTMxLXFQVlhFMDJ6bDcwbVBjbEF2UEc1bnI3TDhhNDI?oc=5"
+            "source": "Premier League",
+            "title": "Scout Selection: Best Fantasy team for Gameweek 30 - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ19KSlJjVXZGTEdyZ1JzR1dDVFZOYW9lXzVVTXdSZDZfLWJrV1ZjVlItUlBmOVFpZXpVa3RVLXhCTl9XeUJvT3JaWDRPcEFYQTZXX2RJMmJRMkRUTi1UYXlNeEh6MkZtQ3owUW1XVndOLWZmZzg5d3dCMDZOemM0T3k1S1NybWpVcjdMYS0zQmxRN290Wjc3a2o4MA?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -52,18 +52,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -76,8 +76,8 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTE1FU1NMa2pOcXkwMl9ZQ29WNDVBa0NsYXN3MFVQZThxaUFsQmJwcVNSVWt3b1ZObkU1U2p2N2Q5RTRmS3VKMGQ4aVZROW5XRGhzS2lyLUVsSGl5akZWMENNTTdKbjFYcU9EM2EzQ3BRWXFkb2c?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "이강인 1500조! 엄청난 빅클럽이 부른다→'모기업 세계 1위' EPL 구단 러브콜…\"개편할 공격진 최우선 목표\" - 네이트",
+            "source": "네이트 스포츠",
+            "title": "이강인 1500조! 엄청난 빅클럽이 부른다→'모기업 세계 1위' EPL 구단 러브콜…\"개편할 공격진 최우선 목표\" - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpODJpb2Z0U1gxYXZ5OFcwa3FiQ3NOeVFKVGZHb1c2RllBR1Z2N0tVY2hHQ2lGQnBuVHNwWk14ejZTdUZOS3RTTVppdzc1VmRPT2VOSHpVc1dzZkNJ?oc=5"
         },
         {
@@ -87,23 +87,23 @@
         },
         {
             "source": "v.daum.net",
-            "title": "[공식발표] 조규성, '꿈의 무대' 프리미어리그 구장서 뛴다…노팅엄 포레스트와 유로파리그 16강 원정길 출전 준비→무릎 통증 딛고 팀 훈련 소화 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nTWVidThnVHFvTFFkSlNvM01NUlpyNUNHRnIwdndNSFg2S2d2SG5lR292MC1XOXoyaVJHekpyVWw4bGpmQjRUQngwakEwakU?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'토트넘! 잔류한다면 기억해! 나야 조규성!' 노팅엄 침몰시킨 한 방 '나비효과' - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02U1FRVmdRRV9WNzRLMmk5elcwR3p1S1MtVlEwZW9zU0VfSE1Mcld2SE1WdUp3eGZqcUxyY01Nc2RGeVhGbi02Qy15Z3Z2VnJTUDU4ZVJHWS0xZU5y?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "세 달 만에 터진 조규성... EPL 노팅엄 상대로 헤더 결승골 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXprQWZwOHZPUTByTWVJX0VnMzdoMXI5NjRSSXU0TGFfZFByUXQ4R1RJb3Z6N1ZlSS0zVDNsNTlnLWxUM2RnYUZ0Rno0YzRpZzFiMlpnVVVJTDYwOTVqYmJkbW1pWnJKM2ZkbnN6YXF2TU9kUWktMVRnbEVINnI5aDJDWU9WQUt6M0000gGfAUFVX3lxTE9SNkRWRlhVQzk3eVJNMWc4cDA5ZjdyMXdyTVVmNUlwQnFCcG04d2NiRjJDMzcwYlh2eFJLV2pyQ21mN243OUVnUXNTZS1tUkJ6RUNvNW54dDlUaHlQTGNQVmk3VlNuZ2JBWHEtZS14aExLQ29GRDlpZ0JoU05kYkoyM29FZ01UaFUwc3hqQzh1NnBuNVJsNm94NzhWY0xScw?oc=5"
+            "title": "'조별리그 통과하면 뭐하나' EPL 전멸 위기 봉착…UCL 16강 1차전 6팀 전원 무승 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMU5uNTRHY0xXZUJFTmlnSlRlWEZGc2haMDNxUzRGZzI2aUJ4NUNyZjQ1Sk9WaENOblB1WktDM3hXakROVmc?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "33분 뛰고 프리미어리그 ‘컷’ MVP 한국인…英 BBC 감탄 “조규성, 머리로 UEL 16강 1차전 기선제압 평점 7점대” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44VjNjbmRGLXNBcWdqY1JfLUVTenVKVm91N1drSGM5QjZaZEh6alNkcnMtTnhPVjF4NWhkdzlBNGdlWkpJenc?oc=5"
+            "title": "‘손흥민 최고 은사’ 포체티노, 맨체스터 유나이티드 감독 후보 제외 ‘친정’ 토트넘 복귀 “북중미 월드컵 종료 후 컴백” - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mdDc2ZFVHdHRYa2N4M0ROdk1jVkdZOG9DSnFkd3pPLXJkMGZNczZQdlVVWkxja1pONlBkR0s3WWo4OGdKeHc?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'무승부' 뉴캐슬-아스날 빼고 전패...'세계 최고'라는 프리미어리그, UCL서 고전 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3NOSWFTTG8yRzlFMGs2UlRJdFBYVFFRdlZkeHg4bEdKX0xQc1lldnBfb0VaOUJjd1FndHE1d0o4dVJ0UndNc21ZV3pnNHVINU5ZVDdXNzJDRGN3b2E2aC1maGhuVnM0YXVLNVA0LUl6X3JmcDBJWDZaVm9rMHloZG5iTVlGN1hacTJB0gGfAUFVX3lxTE5PemdZLWVFV1BwUlRHcUVLZGJvdmVlMjRNVnFpWnJMbW1CMkdJbUNrTjkyaUVTcWtrRUppWEppQWZyZVdQRzNEMHZvTk9WYlpVdlJmdTlRTUxQNmpXdnREWm5MNmZHa0UyT3d2azd1VmZ5eEtCQVg4b3o4YkFMeUlPN0I5Tm1LYlk4NkhvR3V5dmtZZHYtWlFqNWZKMFNyZw?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "[공식발표] 조규성, '꿈의 무대' 프리미어리그 구장서 뛴다…노팅엄 포레스트와 유로파리그 16강 원정길 출전 준비→무릎 통증 딛고 팀 훈련 소화 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nTWVidThnVHFvTFFkSlNvM01NUlpyNUNHRnIwdndNSFg2S2d2SG5lR292MC1XOXoyaVJHekpyVWw4bGpmQjRUQngwakEwakU?oc=5"
         }
     ],
     "transfers": [
