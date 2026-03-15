@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-15 01:12:43",
+    "timestamp": "2026-03-15 04:22:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "West Ham 1-1 Man City: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVndaLVpzd1MxWWJ3d0NnZl9OLTc3bjZPV2xzYzFFQVUzR041Nm9ZX1pIUG1ielF4SDgyZUNRMEUyZkJub2dKTjZvclpEUDdzbjZLVE52WlBrVk9oNUlTeVYxRHVkZTdHeHQ0c0piVzZpaUJvSUNKeEFCZkRIanNoTUkyQ2xaOGJTMjZmRmhIWlNIZmVRZ0RScQ?oc=5"
-        },
-        {
             "source": "BBC",
-            "title": "Premier League: Arsenal 2-0 Everton highlights as Max Dowman becomes youngest goalscorer - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wRkstMUhzcklOajJTY3VaOU5lZWZSSEEtRmg2WmI4d3FpZjBlMnhjQkNkYjlkTXhuaEd0QXg1MXB3eXJsN0pIbzlXcHFWZlVoM1ZIWHlkNlhRRE1INkV5WFJfX0Z4Mms?oc=5"
+            "title": "Premier League: West Ham United 1-1 Manchester City - highlights - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uUHEyZ3NZVXZTSnlDaE9IS0VFdVhfWlhEVWZaMHZHVmFqNEp2LWh3YWNodXlGUXNpTVJfY3Y5V1U5QmhjM0NWUERIeVpyal8tM2ZfUGRGck82UUtNOTJSUmxpREVQd2s?oc=5"
         },
         {
             "source": "London Evening Standard",
             "title": "Chelsea vs Newcastle LIVE: Latest score and updates from Premier League - London Evening Standard",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZWxvaWd5S0ZzTUZxR2tfZFBCeUF2M2l5ZU1yYXNQeDlReGV4TzVYNkVvbUFYQnQ2bzlSdHRkN2FvSVVlRWk3VzBWQXNUcF9HemdyUE9wQTVKU01QZU9tWGJlOEFvZ1ZhdGVCRGxFcFluNU5uUWdZb0gwWnhRdFlKdGdhQmxJaHdLb3cwNFZuNFppWVVxMDlhVkNpb0NPcmVkNUVxeXhfZ1pSb0NDU0Nmb1k5RFVpOVd2bF85SFFBLVd0M0NTZXVLNE1BckY0SFE?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Chelsea 0-1 Newcastle | Premier League highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUdRVmozZTZUX1V3LUpZUlJQdVktbXZqcjVpTnJ2LVU2OHRFZUx3c2IzeVZYd0RQUlg3QmtWZ2xyWllsZi1RbkdicDlsbi1XSU5UMEJGWGR0Z2lOdkI1U2NrSlpUc2dPRHFGQU41RU1qZ3RjbzVHLVhNUmtXVjNkUDZDS1QxWTZVVTlRV2tTQ2pRMGtudVlMZG1yZEh3WnZyVEpvS2lB?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbGN3dDBCaWt6OXpsVHdWcGpBd2c5S0ltd2lHZ1gxOExlZXFKcGhDZlYxRlI1YVhFVDlUTDFDUkg3eWpXZUVkRUR6dGQ2M3BVaEFYZG14QUgtMXFlcnBfb1lTX1AxOThDM2NETDhfbFZLNDdwMWtHcEVONWxubzJNV1NfMnBhLXBaUlhWME5pYVlMY2lxT0hBOUY2eW5YNm1qbHR1QkQ5alB6N18zUHJwd1RXN1BzanhmSjNsYXcyS2RDSU9zWjBDQzJPdXJvdDRNbkd3UEJyV1VoMVJZOHNoa044aUJpRTJmbTdmWFdURUtoUGJ3V2RfRVd6QQ?oc=5"
         },
         {
-            "source": "ManchesterWorld",
-            "title": "Fabrizio Romano confirms 'official offer received' for first Man Utd transfer of January window - ManchesterWorld",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObENuTWtzbE45VmVSVThwblpuVGVta3YtcFpIZVJrSlJBM2xPZ1VuT3NpR1JPLUxMOHFzcmFoamtCMDF6cGtZRzlZbWkyWjRidXZkTU5laVluN1JMSEZ0WXlsMjNrVnMtaEZES2lBMVpPdm9veXhXZWQxdm1Eek9EUnZsSUt1VXZHRDlyQ2NSVFk3emlmWjh4NWFSc1p6OU1HeW9HVVZoLUJvdWhONnlGRnduQmJKNjRJMldhVzEzTmhCQ3VTYWRrVFhJd3R5THMtaHRWb2RXeTFNVmFDNkZlNi0wTV82alcxcUNKWnpzWnhCd250RVdCbA?oc=5"
+            "source": "The Empire of The Kop",
+            "title": "‘He intends to stay’ – Fabrizio Romano update on Liverpool star will be music to Kopites’ ears - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkp3TUhONm9ZLW9JSmxsU0k5YVRTNXY0cUQwYkRlRDFBdGNwZk5RMWRNQ0VJMlBjcUVTQkNhdHcwX0daa3BFVXVaUmRRaTZ5cTB1NVlITFRGMFFZUGwwcXJHMWJPRE5SSUhpa25WYl9NcG5fdTlKV3ZRaHR3MVlURlFPRndwNWJIb2JvQzU3WENHZlFsZ2JtVUtremlrSnZMVk9Vc0Via3BiQ0Q2U2w00gG0AUFVX3lxTE9hUER3cDdySmJsQ05YZDhsYWMxTzN5S2lkWWkxUmZnU2w0SHZKa0xGMnFWbFlaZGNOdTl0NU1LYUhlOG0teXJ1bTdfMnFkbDdfNEtNa0Y1Z0p4TGlCNEhGR0pNd2VQNDMwdGlLVVd0WHRqWjlKejZVSm1ZS1NlVU1OeEU4R0xyT1NiRTYxUU02bFk0RzdqTkpLWVFsd3hIcEVWcVk1ZzYwbkI4NUZpeVJoamxadA?oc=5"
         },
         {
             "source": "The New York Times",
@@ -57,13 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDJobzh4N0k1WjNRNUtQR1p0NTIzenhqVTF6THpNSEJuX0RXQnRlWFVkdFlnUnRrVTJFeWVMNjd5YmVkTXZaUlBFZmgzSGRXUDV6emUyN2NVaGt3cTB4a2JRVFM2d3BrSmdURFJqSXVQYW4wMXUydkpQdkdCa3NUNkNWclNMSkZYYjlMczd1ZUNYNy1QX05RWThDc0dKNDAxNkxOSmdTSi01eTFHWW03QlVhNm94MDdpTHY0WDU1ZTF0ajIzRHo1dE5zS3hmMC1neUxTVnp5M2NNZw?oc=5"
+            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMDAtXzdnSGZ4VE9OTW4wUHo5Q0xMd1hibDlwLWFsanMwMlhCRDRKSUZIMUlfSEhhYVJMc3FEMGNCdVZIT2loM1FsVWRjUmJPTVg3a0pDQ21razM1cE5mdmxVNGo3NDdwLU1oOHZ5QWJkUnYybzBUTGhmdExLdkdVSm1oOWZLeEhDWUlzOW0xVDR3NmtKU3hLaTZSeGRPMVByMkxfRll5TW5Lbk1qeFlKeHhuSWxMSnpNaEl4czIyYU1iQmhubkE1THRJcERtVGlIeFpSQUprallmbU52V1NMWFNVVVVlbTd1WnlnWGtMeHVhX2tYT3djdTNB?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -76,34 +76,34 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTE1FU1NMa2pOcXkwMl9ZQ29WNDVBa0NsYXN3MFVQZThxaUFsQmJwcVNSVWt3b1ZObkU1U2p2N2Q5RTRmS3VKMGQ4aVZROW5XRGhzS2lyLUVsSGl5akZWMENNTTdKbjFYcU9EM2EzQ3BRWXFkb2c?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "이대로 아스널의 우승 시나리오? 맨시티 또 발목 잡혔다…웨스트햄과 1-1 무승부, 선두 추격 멀어져 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UUkxSQ1BENXBRNEFEdWg5bk85QTY5cmE0akZMNWJ4Z2hRRnJHLWRYRmZKaG4tZC1KSHJnRHhlTndhM18zMzVDbExrNHczSXZCamlFYnM5N1ZZZ3RMVmVyYXhFMU5aSHZR?oc=5"
+            "source": "mt.co.kr",
+            "title": "'투도르 울거나 싸우거나' 토트넘 PL 16위…투도르 선수들에 싸워라 메시지 - mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqV1ZVVFhVa1I4Sk5QSm9BMDhJdTBMZU9SWE1NVWN6LUNVcGthTXFUWDBjLWpfZG1MV0tXVWozZ2FrSnVCT0h5VVB4R3dmQjNfUHBES2h6Z2NGb3A5ZHFwVzNOcFJncDJkS0E?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "아스널 다우먼, '16세 73일'로 EPL 최연소 득점자 등극 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XWEk5YjA3VU4zejdSRzJnMHVCZnlBb1ZSaVExUnBIUjdiMW5VS2pNVUdGd21uQkt3VUo2VWxHRDNCSnVCNXRveGlFdG55Z3VCNlUyT1pOQmZOY0o2WXpJcdIBeEFVX3lxTE1MQ0NZdHlQSG5hNmlNeUd6NkdTZEk4d3N6Y3JHeC1uVFNmSzU2S19CNmxwTG1yVzdZeWlxN0t2T05SanhCOWhsWmVpWmNJWWJBTXJNY0xnNm12cFdfNm5lSUVqQ3BrSzFDQWFnaHoyc3dJdU9NQ1FwcQ?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "“태도·의지 아무것도 없다” 루니, 토트넘 선수단 공개 비판...\"무서운 사람이 빠따 쳐야\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFRUUC1iR2NKeDBYR3U1QjB1S2d2X3lSTWZJc3ZLdkwtWlJPRk1UTFJQTG5nQllZMnVPM2R3UzR4d3pua0FMekFmSVpLazhzSGl6V2tnT3dMalVtdUhPTFROMTlodHBsNzFnTlktR3ZvM1h0MXd4WWxaQURVRjhDMURKZW55Qk0zNWNn0gGfAUFVX3lxTE1Gc1pVYmxBeW1wRWJHcElWRHRSalBiRS1jNkJmMjFINE4zcXhrZVpOa2lGM01BWjdTdmFLWkdyLWFjSlBJNDBoN0lZUmg5eklCang4b0VNOF9kSDhlUmJIcUNaZnozRHQ0TXlndmFYSTVLc3VLZmExSGhXZUFlSnc1U2IweTlRNUxoaElJQ0NsQTQ1ejBtMnRxRkZHYndRMA?oc=5"
+            "title": "아스널에 ‘메시 후계자’ 등장? 16세 다우먼, EPL 최연소 득점 신기록 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnh2eXRKZ1R3Q1l2Ynp3Y3U4aFA1LUxkd1BOaTZMMTVGREkwNnhUMjE3Mm00Zy11M0ZiVEQ0SDFEaXdVOFpuaGFsTUZuZDFHY09tZFgtWlNWcXdRNGJaTXFKY0ZPYnYwTDdBT0JTNlkyaHRzQXB3LXIwRjNPRnhxM21OLVc2OU84UGkw0gGfAUFVX3lxTE80S0hGWE5LZ25INDE5NWNPMUZpeWVxaThJVDJocXN0SHZ0WHlGUWJUQUlFa0pya3hxRmo1RmlWMnpQS2p3XzBQRFM5X08xeWVTSUdVM2VsRnZHbV9IMmFRQjY5SndqVjYtLUpKejRWT0FKWkRHTU1GZ1FmYUlhbENOZXgtZmdYN1I1MjRVOFV4WFVaNU5xdHFNQTlnb0kxTQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'조별리그 통과하면 뭐하나' EPL 전멸 위기 봉착…UCL 16강 1차전 6팀 전원 무승 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMU5uNTRHY0xXZUJFTmlnSlRlWEZGc2haMDNxUzRGZzI2aUJ4NUNyZjQ1Sk9WaENOblB1WktDM3hXakROVmc?oc=5"
+            "source": "네이트",
+            "title": "'16세 73일' 아스널 맥스 다우먼, EPL 역대 최연소 골 신기록 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSnZkQzBheFlVX1VWYW1TdldYZGpnOE5PaWZSNHl0eUVsV3BESGVoR2ZvOTBlTHNmdW9Ma3ktQVluX3pQSXRyejlZRkdnR1B0MmtYXzlR?oc=5"
         },
         {
             "source": "SPOTV NEWS",
-            "title": "英 BBC “토트넘, 49년 만에 2부리그 강등 위기”…표류하는 투도르 임시 감독 “선수들은 울거나 싸우거나 둘 중 하나밖에 없다” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56eGE1dV9HUy11bFlObXJ4UkwwN05LbUFIY2ZxcVN0MUFSUlY5MnZlRzdqTW82aUxRQUcxZ1V4eDBjb2RJWUdHT21BNi1PWHpKS0pkUnIzdVA1c24xS2phXy1WX0lLMVhSZDZqX1dPONIBc0FVX3lxTFBUbmJBZVBfQTU1WW5mODlUb2hlYUplcV9kUkdnazlfamlHNGFsU2hjVm1zOGxxcmgwTnpEWVA5dU0ySFJKUFVHRmQ2T2hjamdRU3lETHNqcDNjZjROZVZwbHl3U05TUEwtYXJWVXdwU01vQnc?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "'흥민이 형도 떠났는데 반 더 벤도 결장한다고?' 리버풀과 해보기 전에 이미 패한 토트넘...진짜로 강등 위기 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHh2UnpoRVZMYnFHV2JYMUFXbkd2dTdtQnJtRWl6QjBKWGRCZndXd3VCWFNYdjM5bWJ4c1lWbC1PdVFtVTYwMkdXVDJCZ2pnaTI0bUpzZWZwR3dBV1JHUWpTY2hvRnh3NWpTLVpVMGJ1YTJ6eHpOb1ZiWS1SdzJ1R2ptRWQ2aUJfWGU00gGfAUFVX3lxTE1EZlNFWkEzNjR4QXZxMTVwWFZLZS1sSGJ4VUYtRjQ5TGxYeGxGd1RIeHAxUjFydDhpRzZ6RFloXzlkaURibi1OTTduTFBVV3Fva2tic3dKU3pQMVBvS2VvZE5tQVF4bmZoai1GMEx1NW5DMEhQdXlhVG9obU9faEFKbE4tLVhuenRtbjNsX0FiMmdTcmU2eVNkX2hHWklzbw?oc=5"
+            "title": "33분 뛰고 프리미어리그 ‘컷’ MVP 한국인…英 BBC 감탄 “조규성, 머리로 UEL 16강 1차전 기선제압 평점 7점대” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15aHNvX042NGdpSm8zVzNDVkNlN29rNWd0TmY5Wk11d0V6N2d1c1lPV1ZGT2R5dDNCUUZ6Z0VDNUhTQ1o3Ym8ybFhYWmZuQmc3Y1dtcHVxQ0t6a3hRWHNtemdTTDc2SzM0Q01UdnJXVdIBc0FVX3lxTE9UbEFsOUF6ZUlCdzdqVDFkcGtxeVhEOUMyNG9ub0NVY0ZtcTYzX1NFTnZoNHlBeTJIM3RpWWo2OTFET2J6RzhyU0NIWGpta0JjTjl0MXU3bExHMm5yMnhjbkNPaW5Scy1DMUYwbDgtV3ZXd28?oc=5"
         },
         {
             "source": "v.daum.net",
             "title": "[공식발표] 조규성, '꿈의 무대' 프리미어리그 구장서 뛴다…노팅엄 포레스트와 유로파리그 16강 원정길 출전 준비→무릎 통증 딛고 팀 훈련 소화 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nTWVidThnVHFvTFFkSlNvM01NUlpyNUNHRnIwdndNSFg2S2d2SG5lR292MC1XOXoyaVJHekpyVWw4bGpmQjRUQngwakEwakU?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zUHl1RXE2dzFTRUc1dGJ2Z0V4aEV1RFdNUTByTnR6VEFjTUxrSWYtY2lINHkyV2lSbEs1TjlCRHg1Q1hpR0E?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "date": "2026-03-15",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
