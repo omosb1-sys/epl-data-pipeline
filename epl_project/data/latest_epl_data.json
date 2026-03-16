@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-16 01:12:37",
+    "timestamp": "2026-03-16 04:29:28",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "Liverpool 1-1 Tottenham Hotspur: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODZwYVBvTUxpZW9TSTNiMS16ZHhxSm9BSTRwZ196S050SlFCaE51aXhHNkhyaGJ6SkJzc3phTElkUGtTQ0JpRWhIb1BYMlYyLW1xa3ljZmlkR0J0MzVoMzVpSUxCejZhejBlVk1hWW1iZnkyU1ZXQmlPU2lZVzNtSG9VT0xVN296WE5sd1RxRl8zdXlENGZZbXl5RDJ1b0locDQ4SXFn?oc=5"
+        },
+        {
             "source": "Daily Mail",
             "title": "Manchester United vs Aston Villa - Premier League RECAP: Latest score, team news and updates as Red Devils... - Daily Mail",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORC1TZ29TOXNkODdleEsyX2d2MVVzbk5mS09zZXdvNnpiczVPM2ctdmVudHFyNHFqYVJLTElWVHJMNVVSaURocjc5dk9UNUhtbXZCR0EycDctSVA5OFQ4a1VrMVJ3Y3BTdjdEajdiLTZNNk8wdDNrbFlKSEdES1NGWmVJV2xOM1QtUFZnbFJORTI1Q1h3bF9DN0J3ZTNHZmZFdDkzS1E5M0lQUkh3aG1QMGRJWFJZNlNVQjNPLXh6cnRUM0VTNV9xWUlyMk_SAdIBQVVfeXFMT3Q5UzF1MkU2NDdCcWJMeGxFc0RwYmhNMEY5S1VQdHNGLUNJRHhqVjY3OVRtRWtnclBTbk43aVJlaHJqSnJzUFNJM0NEODRFNHZpcTIwV1hsYzJCNFZQdjduZTFQV05hVl9mLW5hOVVzakkzTlFSLTVtLUJnYnotaldyQmxYaDhKRlNPR2tTdjZ6NlY3LV90MFd5NUxsOTFfbF80eE9KZVg2RWo3cnlPOUdqWjJfTDVlZThCS0ZiS2pidzVJRXppOUV3SEN1UnFvN3N3?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Quiz: Who does Dowman join as Premier League's 10 youngest scorers? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hOFV0SElGYmItMlNHVmdiVFFvWmdJc1lSb0NMdlo3akh5VkdFVWt4bDU5Qnp2LWpTTjQ2XzNsUGdDR29SWmc1cDlpalkzSXZCUGlDbmdsV0tfd1lPSEpLa2ZJdG5QYWc?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Liverpool 1-1 Tottenham Hotspur: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODZwYVBvTUxpZW9TSTNiMS16ZHhxSm9BSTRwZ196S050SlFCaE51aXhHNkhyaGJ6SkJzc3phTElkUGtTQ0JpRWhIb1BYMlYyLW1xa3ljZmlkR0J0MzVoMzVpSUxCejZhejBlVk1hWW1iZnkyU1ZXQmlPU2lZVzNtSG9VT0xVN296WE5sd1RxRl8zdXlENGZZbXl5RDJ1b0locDQ4SXFn?oc=5"
+            "source": "Sky Sports",
+            "title": "Nottingham Forest 0-0 Fulham: Vitor Pereira still winless in Premier League as hosts move out of relegation zone with draw - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYVE5eVlSMENZVWdyQzBfOWJqQXMtTUVtMTZxX1dESXVnd2JRVW5jWmJUUS1YaUtmem1xMnFKbnJBampqZG13VERmNERqREd4V0VyaVNrdEhMb05DOGxxdlFaa3ktVVFfRnNKa0hIalNoZFE2QmZRUEd6ZWJrNC1BeUNJUktZOFRESlA1ZldDZ3RuVlpjNnRRY0hzLTVWX3ZlVHRCMkc2VWhjSXVsZFAtLVlrMWZlclZfVXh5SzJfaXlWd1J0cHFYeWdmektFNDBvLURGOERuX2RIVFZILVVWX0EwZmxaTEtyVUVwbkdNZk85NWk4R0dpbU84ZGJnZk5oRFdqSEs0OA?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -36,14 +36,29 @@
             "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObENuTWtzbE45VmVSVThwblpuVGVta3YtcFpIZVJrSlJBM2xPZ1VuT3NpR1JPLUxMOHFzcmFoamtCMDF6cGtZRzlZbWkyWjRidXZkTU5laVluN1JMSEZ0WXlsMjNrVnMtaEZES2lBMVpPdm9veXhXZWQxdm1Eek9EUnZsSUt1VXZHRDlyQ2NSVFk3emlmWjh4NWFSc1p6OU1HeW9HVVZoLUJvdWhONnlGRnduQmJKNjRJMldhVzEzTmhCQ3VTYWRrVFhJd3R5THMtaHRWb2RXeTFNVmFDNkZlNi0wTV82alcxcUNKWnpzWnhCd250RVdCbA?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZnA5bU81andPS1doQzhiZG9DUWZBRXBBS0JkWjhGNFUtdE8zLTdyN0J0TEdjRTl4RzNyVXZzT0NqRGFiU25aVHFXRFlua0hYTmd1c3lkTEQtdGFyU0JXUVhGazJ0cUpFRGVjdW55cWtOaXVYNnQyQk92bkV5YUJITXcyTm4tTEVmaTg5M05wYmVJTnJfZDVlbFBmdUpNZXp3akNUODFjSGlCVUc2UUhBcnVodzdlUHlMUXY3RWQ4Tm9hRWNtY2FuRmxsdjJRZUdpSGtIbTVESG84a0JPMGJkMXlYbm5mbVBzV1h2SFMwa01jN1JKZl9DaUhR?oc=5"
+            "source": "This Is Anfield",
+            "title": "Arne Slot future: Liverpool “steadfastly behind” head coach, claims top source - This Is Anfield",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThvaHNSUllFUXloQ0N6NVZoQllSNzVyVGhfT0xySFBCZEx3dWxHV2Y0NnhITEE5Q1FnTlZmOVNkSWdHUG9NYkJzdlVLLVhqdVFsaDFLY1c4bTVpUUM2TWVwdlZ5UXhZRDc4VHV6eGtmUFUwWXppenAxRXduVzNvTUdXODgzdEpISGVVQkJzbUJYMUFLb1Iw?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Tottenham working on potential options to replace head coach Igor Tudor - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU040bEdqNkd5RV9aQ3FQN1c0Q1RTZGIwZUY3Y0JXbm04Ml9CM2gtRXVTTUJMaDQxdDFqbXQzeEI5d2c2TVFXTWVzOGxtcVhrSWlCU0djOGR5d1YyRXZzVWFrQl9UcGlsZ1JtYmpISG1uMVl0ZmlHQkJqNmpSY1A1V3d5Y1VpdHBYZ0dLdEVjcGpUZzg?oc=5"
+        },
+        {
+            "source": "Yardbarker",
+            "title": "'From what we hear' – David Ornstein drops huge Arne Slot update after Liverpool’s defeat against Galatasaray - Yardbarker",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNemcyVjFWc05PeTY3RnFSNkJEY2dMTlpmdkotb2JuT3RrNVc4czc3X2I1REJBVzRnWEx6SFhFbWlBQnRyUmZGQ2x1VVpGd0QxTnpVR1BTa0pCb3c1ZWJHWjlSSkFMNU0wM3pNY0ZHUm03RUVvVTR6dXpqNXVkcWJkYWlqcG5xeFJCZ3ZNTUV6OVRqNzlpRmhqQlJkVUVISDRGcFdYWGtMRFlkR05rY3dzYmcxbjZxVTZDRlJnZVJwdE05Q3ZHTm9qU0p5dklSdEpDU3hLekFhTkdlam83aGxFYWVyeGdKZG5CV1RWOU9Sc2paNFhhZkZ4dg?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0lnbmFOcEx1TDBjZG1fem9ic3JQNFRfa05hT3R6alQtOHk0dXNfQkRTd0NLa0hTdThQaXhFSHFxdVVsUVpVU0R4VDBrbmJsQUpQMWQ4RTI0N0tmYTBWUDV2d1dYRVphZi1idE1WNVlLWEZTUF9EVFdURVg1QlJLN2k0dXVWUVY1ZFNqTXJaQ1NqeW5NWDRzR0RHeDFJV0dqSDV5a0d3TUcwaERGWHNhd20zaWhqMnNkN3hWcExlLWF1UWJmRl8xa1VPVEpYeFFwaUNDVklGeU5PNHdrQjZ0Wjh3Qk5TZkhMMktiMU9LNlRGelZu?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Live football today on Sky Sports: Fixtures, kick-off times, TV channel and stream for matches this week and weekend - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNUtwTE9mSy1wdnJkXzVhY0VHN0p0RkJQeTlWby1nT1hjN0pCdG1lOWlaU0pCTElkUERQMDVzcUJYeXphWjd1bkhPOG9hWWx1N0RpV1I4QTh0M0tsUVFFT05sU2NDZTNCMTdlTmhFdjBqQzhTWmZvbHJxbWZ2YWtrd0NmRmhMckJiZGZGQzhjQkNNNVZlNzdmZ0J6MU9UbDI3UnhJcW5JQ3BJSHpuR1lIbXJTNDU5bjhlSXdmemdWb2FaWjVJY0RNel80Q2VEbXBlVWE1bmUzMzdTNHEtdVZuYVlhSzhUYmZMN3ZZV3ZOMV8zbnJUMVpGUWVvcWU?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,24 +76,19 @@
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00czg5SlZjMWlHNUxJU24wSUk5dzdUUGhYZmRmTnVjcjIwZXVtY0VXNjcxU1FscFRrbjloRy15V2xxVjZmMGpNQjNJa2ZUXzNlZi1XZUhzUERPMldsQVY4TDk3R21VME40UURELU4wY9IBc0FVX3lxTFAxLXVFRHBXd2Z3aVRTcmprWjdBMGU0c0ZKNzRZaFFNeFktZFh4QnNhODdYRHh2OGhSd1dlbWpQOXJEYzVoYnI1TG02dG5RQS1mUnFzallJNEpNdWs0VTM1U2pIV2lfaEgtYlNRY1hOMFFQb28?oc=5"
         },
         {
-            "source": "이투데이",
-            "title": "'승점 1점' 챙긴 토트넘…프리미어리그 순위는? - 이투데이",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FSTAxb1NtVktLRzNtWmlJM05pZE8tOFB5aHRyR0t6UDhNVVpsQ1ZyRXZVclJXQ2ZuMFhUbWpST1dLWm5fV0s5emYyMzNQS19NUlFjcA?oc=5"
-        },
-        {
             "source": "조선일보",
             "title": "히샬리송 극적 동점골...토트넘, 지옥의 리버풀 원정서 무승부 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjlpbW9oUjJvU21vbXNQbHNncEVWRlZsTW9PeE5STVNDbkJXN3g1bURuckhFVjJ5S1lhMWYwTFdtUmExZUZDV0l5OVRWTG9MXzlmWUlZc1gtVmw4OUI3VVBaNTBJcDQ5UEFMTF9ocS01SjFYTTRXVjEyUWl1MHJ1c1FTMnpRd19fc19z0gGfAUFVX3lxTE0yTHRwa2ZsWjBhUXZnTXBNUks1SUFpQm1COUtUNGcwckJmamUxSFNWLVpIQk96ejVpN2plQzQ3eEJrMnBoanlZR3ZkNnJTUmN5SXZPdkEzSWkyOGtDOFdoTk1odElzRGIyd1FwQUhjNEh5U21UYzZsMlBhNWxrcVlQR2FiUGNRNm9iQS1mNUpIQl85RW5Ja214czQ5UldYZw?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "서로가 발목 잡은 리버풀 토트넘, 졸전 끝 1-1 무승부 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WRjlwU3RpU2QxT3dPUzM4Ql93dWFTTG5UVmFrbjQ4dGVPeDlOeGJqeWhlMmI2bjlBRkVDdEhQSTlkUi1LcUZOZGxOTVlMVU9LSXJscGZNQUIzSml1?oc=5"
+            "source": "v.daum.net",
+            "title": "[해축브리핑] 경기장 안팎서 끊임없는 잡음 토트넘, 드리우는 '강등 그림자' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vdHJObHBwVHBhVW5tYWdMQS1mY2dJZ0NJdWlVNTJKZmJvM0tmLTgyOVhFaXBJanpvRFBKU2tOd2d6amxTMkNCY0lnNTJyY1E?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'16세 73일' 아스널 맥스 다우먼, EPL 역대 최연소 골 신기록 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSnZkQzBheFlVX1VWYW1TdldYZGpnOE5PaWZSNHl0eUVsV3BESGVoR2ZvOTBlTHNmdW9Ma3ktQVluX3pQSXRyejlZRkdnR1B0MmtYXzlR?oc=5"
+            "source": "이투데이",
+            "title": "'승점 1점' 챙긴 토트넘…프리미어리그 순위는? - 이투데이",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FSTAxb1NtVktLRzNtWmlJM05pZE8tOFB5aHRyR0t6UDhNVVpsQ1ZyRXZVclJXQ2ZuMFhUbWpST1dLWm5fV0s5emYyMzNQS19NUlFjcA?oc=5"
         },
         {
             "source": "sportschosun.com",
@@ -86,21 +96,26 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPOWF4Y25qWlk1WEE0UTBCck9ma2VlTjM0RTZ5anNqTEdzS3EyS3RLUjlqRDlxcUk4UTF6QS1tb0RtS0JUZXV0VjlycW1hcklTdXVyRjNDa2dPRlpieERJSFFDbDhTbVljQmI3YlBJZ1o1UzIzcHBNTnFqbGcyZ9IBd0FVX3lxTE04RndQVjk3eUdlM2lFRU82Qk9ZeFdRakpPeTZKaUlNaTZSWU15WXNGMnNtZDEtcUZjU2JSZlRHel9ubDVJOUQtQ2hFSTl0c2VXcDlYTXpzQjJpY0dfc2tzMTFWNV9MN1QyWDRlaGJHUWtLQlVJcDEw?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "아스널에 ‘메시 후계자’ 등장? 16세 다우먼, EPL 최연소 득점 신기록 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnh2eXRKZ1R3Q1l2Ynp3Y3U4aFA1LUxkd1BOaTZMMTVGREkwNnhUMjE3Mm00Zy11M0ZiVEQ0SDFEaXdVOFpuaGFsTUZuZDFHY09tZFgtWlNWcXdRNGJaTXFKY0ZPYnYwTDdBT0JTNlkyaHRzQXB3LXIwRjNPRnhxM21OLVc2OU84UGkw0gGfAUFVX3lxTE80S0hGWE5LZ25INDE5NWNPMUZpeWVxaThJVDJocXN0SHZ0WHlGUWJUQUlFa0pya3hxRmo1RmlWMnpQS2p3XzBQRFM5X08xeWVTSUdVM2VsRnZHbV9IMmFRQjY5SndqVjYtLUpKejRWT0FKWkRHTU1GZ1FmYUlhbENOZXgtZmdYN1I1MjRVOFV4WFVaNU5xdHFNQTlnb0kxTQ?oc=5"
+            "source": "v.daum.net",
+            "title": "16세 73일 도우먼, EPL 최연소 득점 기록 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1N1hxa2VGMkpHQkNlcWVqWGR6ZXB5WXd4MGNKMnBOSlBCRGJMYkpfbXhDRlZlQ1JueVlTYXJ3bkhKdkpyN1E1MEF5cmx2Wm8?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "맨시티 두 경기 연속 무승부 '자멸' EPL 우승 경쟁 끝나간다…9점 앞선 아스널, 22년 만의 우승 진짜 보인다 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdHF3QzZEa2dYeEY0UFlpdWdSVG1yZ0tvUnZzWE0teXFjcldZaVBZbnJaeW11SWtuaFJaWnZ3VnJnLVNtLU13UGNrZG9GMjV3STlmMmNnYVJNRHJi?oc=5"
         }
     ],
     "transfers": [
         {
-            "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
-            "date": "2025-01-14",
-            "type": "Official Transfer",
+            "player": "Antoine Semenyo",
+            "date": "2026-03-16",
+            "type": "Official Permanent",
             "from": "Bournemouth",
             "to": "Manchester City"
         },
         {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
             "date": "2026-03-16",
             "type": "Rumor/Verified News",
             "from": "Unknown",
