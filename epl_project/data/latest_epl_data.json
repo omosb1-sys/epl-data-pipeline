@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-16 23:20:01",
+    "timestamp": "2026-03-17 01:04:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Chelsea fined £10.75m and given suspended transfer ban for breaching Premier League rules - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zR3BUanpYSWFyQ0M2dkJ0RFkzRmpqV1dEVVJKdmlqOHZieGxJcEktNERzS2FKOTFQc21lZGgwbGVvSWQ0dDEtclRfdDBTdEFCY0RjLXJMa1h2TFNWTDByQ3pkT3FoR1U?oc=5"
+            "source": "The Guardian",
+            "title": "Brentford 2-2 Wolves: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmdRdnpfelN1R2Z3emtKQU9NbTEtVzZqTnpBVkpMbnZncExUdTdlUldmZ3dqLURjaEcwbW5DU3Q2MmNWYkhDRVJ2NjlxYVg3YVBaV2RsOEdJS0RabHIzdUhCU0dSYlhVVmZuaGU2ZFBaeVlrRlRVX0JReG5ZSDlGTUxiS0M4VUdWeDUtUmw4MlJGaFlYeHNv?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League highlights: Brentford 2-2 Wolverhampton Wanderers - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KWElfZkR2TWctVWV6TkNfbWFaS0g3a291TlJpcUFKZ0R2b1d5NmdVRVhuRThKNGtaSTJtZ205QUlpVWd5LVFjREFQeFNUclpsSXRlQmtsS3lmalYweG5jUEZSbGxlLVk?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League LIVE: Brentford vs Wolverhampton Wanderers - build-up, team news, score, stats, text commentary & head-to-head - BBC",
+            "title": "Wolverhampton Wanderers - BBC",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11T244a2Iyb2tqOTRkY1pMTnR0NE1HdENZbmFhNFZGenBwODI0X0NvaVF4enNjdWdkaDhYeHFINWFsUlJlQWVHbllqQ3JYLXhUWFN0OTZjR2Z2engxUFBjYTh3?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Brentford 2-2 Wolves | Premier League highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2pLQ0UwY0JYbVpoSUJUZUtNSFZ6akRySm5wb1d5VzhncEJXRmFackt1VXo0T1I3VDF3SE0xY0s1Z1o4OUVJWHo2N1NIaDBoRVpMMmRMRE1yaHVZaE1DNEh0VW85WmtkdGI4b1Y5YlJKX0JOdzE1QU50ZGNKUUpaVTN3aHAyeTVCRjZBdERaaXNGTC1CRlRTZk9fVEFRTUROWkhGRQ?oc=5"
         },
         {
             "source": "Stretty News",
@@ -26,8 +26,8 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93bThQdWxUS2R0UDdjMFNWMFE4cW1QcXRfclBLaWdYS0F5aDJDTlZCQUJWVFdsa2FhQWxmV0p3YXpnVGVtSTVqUkRMc1FRdzVqSGs1R2lDMV9zbzJVVVVGU1NwS1VxRzVvbW04TGZJVUVCR0ZSRHM0aVBR0gF_QVVfeXFMTy00cUVwUFptSE5iYXlHRVJZM3U1RXY4LTV3cGJRQ051ZDZfYlgzdHl2SWxFSDVuTXJHOWp5dVRleEszVGZIa3JGZlBzRUhSMmE5ZlZEaGk2dDBLMVZxdDI2QnplM2FfTFl3VzRYajU0b0pXRWN3ZmMxLVREazl6WQ?oc=5"
         },
         {
-            "source": "AnfieldWatch",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - AnfieldWatch",
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
@@ -66,24 +66,9 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZnA5bU81andPS1doQzhiZG9DUWZBRXBBS0JkWjhGNFUtdE8zLTdyN0J0TEdjRTl4RzNyVXZzT0NqRGFiU25aVHFXRFlua0hYTmd1c3lkTEQtdGFyU0JXUVhGazJ0cUpFRGVjdW55cWtOaXVYNnQyQk92bkV5YUJITXcyTm4tTEVmaTg5M05wYmVJTnJfZDVlbFBmdUpNZXp3akNUODFjSGlCVUc2UUhBcnVodzdlUHlMUXY3RWQ4Tm9hRWNtY2FuRmxsdjJRZUdpSGtIbTVESG84a0JPMGJkMXlYbm5mbVBzV1h2SFMwa01jN1JKZl9DaUhR?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'흥민이 형 봤어?' 히샤를리송이 토트넘 살렸다! 리버풀 원정서 극장골 폭발…1-1 무승부→6연패 탈출 [EPL] - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KZkZ1U0V5aVNoX2o3N1BYZEJGMW04bl9hY3hXNnlGRHNSQ3h0SklTMEFIYnJTS2pCNklOeXZ1X1BEMThwWXgya1cwN0xqMTU1Z1pndUNuVEg3cmFQ?oc=5"
-        },
-        {
-            "source": "이투데이",
-            "title": "'승점 1점' 챙긴 토트넘…프리미어리그 순위는? - 이투데이",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FSTAxb1NtVktLRzNtWmlJM05pZE8tOFB5aHRyR0t6UDhNVVpsQ1ZyRXZVclJXQ2ZuMFhUbWpST1dLWm5fV0s5emYyMzNQS19NUlFjcA?oc=5"
-        },
-        {
-            "source": "톱스타뉴스",
-            "title": "‘리버풀전 복귀골’ 황희찬 결장…울버햄프턴 2-2 무승부 - 톱스타뉴스",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MUmxBbXNTMS1UbmJUWVRzbGw3SDl4UWN2cndyM3dFalE0WjYxQkwweDFqaXRSWWZMbzVTZ2RtYVVwbmxqNDFQRU1jYU55aGNwMTA0REt4SUg5MFdqLUVRbHBXNnZJaUNkZ1JZMUFEbDl2Zw?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'뒷돈 딱 걸렸다' EPL 명문 굴욕…무려 215억 '역대 최고액' 벌금 폭탄 맞았다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zT21fWUdSYlA1ZVhoTGRrMUMxclhhYU1QZHlOSm94cUw4MHptSF9OSjkzUjkwY213b2lMUlN0S1dTdjQzTlJydURnR044Z2EybWo1eUZ5dzNsd2dvWlpfbFBfUUI1X19uM0hYU293eEVSSEtTSDRsSA?oc=5"
+            "source": "조선일보",
+            "title": "[속보]\"첼시 살았다! 승점 삭감 없다\" 프리미어리그 공식 발표, 불법 이적 거래 213억 벌금 '솜방망이' 중징계 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2MzQ1JzcEVCUGY1d2t6YmhxcTRaZzhpWmltd0xTU05OSVRzWXdXcExCMUdBcm5QbmlNTUNmVnZobGo1UlFTVDQtVnlZYi1RcS1qZEVjempiTllvSmVwcnRFdTJTUktKQkVjSy0xeDRYem1lejItUERHUG1XLTJYMHRvYXBTVnRHZUxv?oc=5"
         },
         {
             "source": "Your Field",
@@ -96,14 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XZVJVN2RYY0JzUndzb05udFQtMHQ3MzR3WndRc3gyRklyT3BMUHdrb2JRYVI2bnh1RkxKMkxIaHNweXZxcnc1YlAxY051OGxQeVZoaEVPcEZaNWpWblp4cA?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "'금자탑 이렇게 빨리 무너지나' 손흥민, 올타임 레코드 순위 하락 임박...브루노, 4도움 적립 시 역전 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1seFBHWGpQLXY3MTZJcklYcU9YQUs4bmlMRHNuel9FdU5LbTZ1NzdWNUpzeTliaF9RRVlaVXlFVkZjN3g5Z3d6ejVzc2tFNUpvQXBLQ2hTdmNZWTRlb3lES0hWQmxrOExGUVpodFZqSdIBc0FVX3lxTE40NmJ3cjNyeWNhQng5bGN1LWdGRjZfOEozM0FhWTd0LVdEM2lOYmZ2N2dwOV8yVnd3c0tjNGJKdVp1bmVhbWg2NklMYV9NRXFDcWNoZjNXUDh1WGZxZXpuWXpieWVVcmNpSEMxYmhobXVYOFU?oc=5"
+            "source": "v.daum.net",
+            "title": "손흥민 떠난 토트넘, 슈퍼컴퓨터 강등확률 14.9%...노팅엄과 단두대 매치 성사됐다 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sbWN3T1UyQ2dFNk8xRmw3TTB4MXRja2FzS0dOMmNhU1BuWEFfeGdFd3hBUHZrN3h4QjMyeGY4M2JGalhxVXp3MUVyTzVDYzA?oc=5"
         },
         {
             "source": "네이트",
-            "title": "맨유 미쳤다! 캐릭 2028년까지 선임→창단 150주년에 리그 우승 시나리오 나오나…캐릭 \"우리는 그 목표를 향해 나아가고 있어\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6bXJ0RlBtQmFaXzNZcDBqZFN6TDYxNUxQZXRzZV9zUktqTUJ6a2JXXzAzSmdhWHNwSGU3Q2lTdVJYb2ktc21zWjF4QUJGSmptVmdNMnMtaUFmdjg0?oc=5"
+            "title": "'흥민이 형 봤어?' 히샤를리송이 토트넘 살렸다! 리버풀 원정서 극장골 폭발…1-1 무승부→6연패 탈출 [EPL] - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KZkZ1U0V5aVNoX2o3N1BYZEJGMW04bl9hY3hXNnlGRHNSQ3h0SklTMEFIYnJTS2pCNklOeXZ1X1BEMThwWXgya1cwN0xqMTU1Z1pndUNuVEg3cmFQ?oc=5"
+        },
+        {
+            "source": "이투데이",
+            "title": "'승점 1점' 챙긴 토트넘…프리미어리그 순위는? - 이투데이",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FSTAxb1NtVktLRzNtWmlJM05pZE8tOFB5aHRyR0t6UDhNVVpsQ1ZyRXZVclJXQ2ZuMFhUbWpST1dLWm5fV0s5emYyMzNQS19NUlFjcA?oc=5"
+        },
+        {
+            "source": "스포츠동아",
+            "title": "EPL 최연소 득점 기록 갈아치운 다우먼(아스널)을 향한 레전드들의 찬사…“배짱과 재능 모두 갖췄네!” - 스포츠동아",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jZVBXamNwZExsQzJVeDk1SEpwQzFDNmwtYXRsUTd1b2ZITEhBY2p1TlQ2ZnhDcnN6bmtXMjdJeV9KQjFtSlhZbkU1cFlZV2tFNlkzVXdYMUo0ZTBwdmFKandJNGhLSWY1Wnp0M0tHcnVydw?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "16세 73일 도우먼, EPL 최연소 득점 기록 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1N1hxa2VGMkpHQkNlcWVqWGR6ZXB5WXd4MGNKMnBOSlBCRGJMYkpfbXhDRlZlQ1JueVlTYXJ3bkhKdkpyN1E1MEF5cmx2Wm8?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-03-16",
+            "date": "2026-03-17",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
