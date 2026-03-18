@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-18 12:41:21",
+    "timestamp": "2026-03-18 14:13:47",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "VAR error cost Brighton a penalty against Arsenal - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsUDloT3Y5S2dScEVhMXlNY293TTcyQTRhMkRrSHpJSE9WUWZKc21vcWNPVTk4M3RGTF9sdnpLQVh2MnUzdXNENW1tb0plUEVjbkNrb1I4MHpyb3NlN0NSdWMxX254MnM?oc=5"
+            "title": "Chelsea fine: Was Premier League punishment including suspended transfer ban lenient? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5ODRwbDlaN3BITXVPWHJMbEZwMF84eTNYUjRWNDdJS1BxalhTU0tTbUk2cTdlWExnRUdlN01iVDA4SjhELVhtYldldGRIMDZTaGdSUzZZa2NoMzNBM0dDVzJXTVFza2s?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Chelsea fine: Premier League 'extremely lenient', says Christian Purslow - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BdHBtNUNwc1JIUVlBb09SSmZqdl85YklmZVA2dXY5WUVKUjBDWFpGZDVvUXlPUkJRYUhsUnRuSjk1ZnVNNmFPQm94Qkg5TzFCNFVoQUpRTVdDNWhUb29RRVBBUWJYYURGNlE?oc=5"
         },
         {
             "source": "Football London",
-            "title": "Arsenal flying Premier League flag in Europe despite scrutiny as Chelsea and Man City crash out - Football London",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTExQTd6UUxTekNLQWk4TTdldUgtYlEwMnl0ZGdReFZRZjlGQmgyQ05STHVUUnhwRUV4ckdWeERDa3A2bExkWHNBRnh3bG1CdkdUUTc3Z1luTHRaN2RtM0ZFYTVGS0FhU0hPU3J0V1Y4c3BGdmpXT3dfa3I5R0t6NVY4MU9jVHR4dlBzQkpqV2_SAZYBQVVfeXFMTUhZUUt5ZEtMVmRRSE8teENHQ0l2SnJFc3VRLWlGYnptVmxJUmNuYlpySjBRcWhBVm1HZVpic0ZCYU81QkhieDJjWHo2SUxYVnp0RVc3Z0xCZUpjX1JGWDBCeUVZakdUVlVoZ0R3dTJFdUNnOEs0dG5wTEE1U1BGcXR1bi0xMERlZE9pY1BFcWs4dmM1dDhn?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Liverpool may end up getting rid of Slot purely because they cannot think of what else to do | Jonathan Liew - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1paODJfalVYNFZlQm9FM3ZVdWZ3SDhsMk9veWNMcUtmeC1NcHVHdEducTBHejRIN1F5al9ILUthQlB2blk5Vnh5SEJMbG0ya3RZb1hYNmNCd2FRczBZUVpsTXg3ZTROcEo1ZFd2Rk5QdVdBNjN6U3I1Ums2MmdCNXFpelpFVF9UVUlvLVJQbGhIamI0NU1nM05wY2p1TkFxbzd5VUhaSEZSSU5kZkE?oc=5"
+            "title": "Premier League quietly dropped potential Man City 115 charges punishment hint in Chelsea statement - Football London",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRJazF0a2lGZWJwUFVtV1h5aU50Q2tyM1J3aUJZUW9SUk9ZMER3OWlFZ1BhT2xJcW96Z0NWNzlBWjRiZ1VfUENyZmJaVnVUU05PaXRqVlJONXBtR2lQc0tCTXUtNWl3eDluZ1ZyeVdMZ1NXZURFTlVMbzNjNWtqZzJUb2I1YnAzTXJPZtIBkgFBVV95cUxNNkVSUWNZNVh0MEdvQ3h1UlJPT093STZtSmZNTEJyWDFSNlFFRFVwU0hrYUJWRklWWE00anZJNTBrZy1vZzExc3VTRXZYemtxYjlCc21VdmZKYUhJeFNWWmM4cnZkRDBUUU4tYld6RXdqbU5LYjM0NXZFM2VOWmU3cG4ybjNZTTlPMzZMV0VGTERkQQ?oc=5"
         },
         {
             "source": "Stretty News",
@@ -36,34 +36,19 @@
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Chelsea handed suspended transfer ban, £10m fine for breaching Premier League rules - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc1pCdVpQbTZxbFg3VHp1cjlpX21qckZxM1VXUHlqcHNCRXVJdmIxT1RQZjI0Qjlxa3RsWl9WU1hPakNQWDZQN05hNTFVZWt2Zi1zc21NZ25RLXBVdE5xZm9NT2Jyd1RNRjBOX2U3V3ZBTFlfZFlhVUJGVFA3dHF3b1d6Smx4XzZxNThNV3owcUtUZw?oc=5"
-        },
-        {
-            "source": "This Is Anfield",
-            "title": "Arne Slot future: Liverpool “steadfastly behind” head coach, claims top source - This Is Anfield",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThvaHNSUllFUXloQ0N6NVZoQllSNzVyVGhfT0xySFBCZEx3dWxHV2Y0NnhITEE5Q1FnTlZmOVNkSWdHUG9NYkJzdlVLLVhqdVFsaDFLY1c4bTVpUUM2TWVwdlZ5UXhZRDc4VHV6eGtmUFUwWXppenAxRXduVzNvTUdXODgzdEpISGVVQkJzbUJYMUFLb1Iw?oc=5"
-        },
-        {
-            "source": "Yahoo Sports Canada",
-            "title": "David Ornstein details Chelsea’s busy transfer plans for the coming summer window - Yahoo Sports Canada",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDdQdVF0TFZMY0FTZWNGbFBpa05PQVZXR1JVMUgtckFLS0loQzRTV0JYMXNlVDF0NDkzaWhqTE5sUnljeUxBUG1ZN09UTjNqMEdKTGVONV9kazEwbXM4cjVEQ2hBT1JmaWd0OU8yWkI2aHRQeWRDdEZZQzVBbldqSExLNlRJSHBidm5v?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaGhIVGI4NE5oZzJMdV9BaXhvNzl2UzVDbWFUQm1KZHZ2TTg4Zm9Fb3owNklBYWNXQjY1endmYVNoY1ZmbERMbk81SHZ5WmRrTzZxTFE2YUxZOEZVcGZZTDZVUjhPM1lOZlllZUMtbWVOd3RXZEFnZGthakljcldIbTBGMk1mdTdOay16RFkzOEV4Vkh2cDd1T2xXUU43bnVnSDFXNzJtNlFLT2ZEcTVySlIzNmJvTy1Wb0ZiQWJfVHhRanl3bnNuY2t6dldvRk43eVROSUhBdGF4TEhCUDBWNkxwMUp0Z2V2VmpEMjhsTjltSlBncllz?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
             "source": "조선일보",
@@ -113,13 +98,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-03-18",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         },
         {
             "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
