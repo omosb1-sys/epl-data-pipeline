@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-03-19 17:45:57",
+    "timestamp": "2026-03-19 18:39:54",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Premier League news conferences LIVE: Rosenior to speak after PSG drubbing - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNF9oQmFWRlF1WkFXYXlqcGd4N3d4TnpCWkZMdlVlaDV5N05NZWwzakU2SE9KTUMyQXRFRU9Wbk5Cb2pfd1VmZmlmWjVFNE5uREY4TTV6amNPd3dqUmgwTUNn?oc=5"
-        },
         {
             "source": "BBC",
             "title": "Champions League: What has gone wrong for Premier League teams in last 16? - BBC",
@@ -19,6 +14,11 @@
             "source": "The Guardian",
             "title": "Champions League review: more trauma for the Premier League as Europe’s big beasts stir - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalhsSmEtYlM5aEswODI3NzgxSVVZckZRb0NvMk4yb1hVd2xzZ3loN0FKVWpPNHJHblltRlFVQi0wb0lVTm9ZNnByNmVnZFRPZTRQZmhDMlI1ZWZvTkNVZEdpQ3RSZXZjT1h3dHhQTkVETk8wMjB4MTNrYThFbGdVd2hRMWhsbVlOb2FuMkhuTGtLQkJmZHlra29PM2Z3bVBfbXo0VVVwMEY0cmpvZ0R4VmxYQQ?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Premier League is in cultural shift towards boringness as stats prove Slot right - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYm9vZnl1WnRJeUJsdTk5MkJmMVZUQ1JXR0lfTndYWlhwNzZGZWZqZFlicExXVU45ZjFpT3ZyZmJfWVJnUHkxWGx0RU9pUTRvV2VQaE9WRnA0cW0ySlRGU1VTelFTV195SnNHcWE1MTUwVDg3d01SQTdSY25XRkdFd21GSmFyOVZVVUlaZFYzUFZWTFhjYmRDOVF1OE1iZ1M0?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTHVFb1NDdlg0Q0NLejg2S1RlYnNzeFJlWUFvVm5TZGI3WmJVTjJROTlDSV9yaFo0WGJMNFJoZklrOV9sMFFkb1J2M0otbHBRU0NzLUdyaDBJaTJ3VHfSAWNBVV95cUxNWGRaRGNaeUJVMWxiOUZtU0gzNlV2WHozS1JLN1NmXzA0RWNJaEVWR2xpVkNlaDRYcm9SN2RmbkdBVm56NE95VEprR2RaZ1dWX1Vfb3pqZ1ZweGVORTRJcHFmdVE?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "'오현규 EPL 입성' 악재 터졌다! 'HERE WE GO' 피셜…풀럼, '610억 ST' 영입 근접→주요리그 입성 딜레이 - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxONzFZMnl5TVB1LXNDZ2tiZ0t3b2tHb2xjV2Z3REdaM1BUWUF3eTg2YXB6NFRuSkI5MGhfakFfcFlYNFpZeHdxRldPNWJUX25MUndIUVFGRi1tY0R3T2lUM21WUWpsUkw4VEhoNjFNSUlIdkRrcmlwUHFvZXhfWnYwNWZsdjJnaFNOd041aGR4alFjZm16ME1qajViREVrU1RzR243QWxSX3F2YlM0amtNRFF6LW9DRk1fZUxmNGw1d2htcE9nRkJyUFZlTmk4MzE4V3F4NnBFNi10SHkzMzZVTlFEQUhTQVB3ZUExc0ptZDBhVlhQQkwzZjFubG9WeTRIelI2UG1SaHNLOXM2NHhRR1MtOVE1NTluME4tY1d4V2JLWlY5M2ZETHZYU3MwdWxKZ0FXZzJXUlZSTzlMRzczbGItX20wbEFEWTNzbTBUTC00a1NkUUF2MlpmZjVtcHZ2TEJUTkpxQW5IUTNJTmlFVlVQUWMwekZ5MlFTaEZpWFZMM0NfbHJEMDVHU1J4elZrOTVSNjk4cHBEdmNoc3NYekxIc2x4MkFCb1JnbnlWbWRwenpFLThIMVF5NWlzZHhPQ2hxZmh2a3lyRl9LRHRNMXROckpRcXJB?oc=5"
+            "source": "sportschosun.com",
+            "title": "'오현규 EPL 입성' 악재 터졌다! 'HERE WE GO' 피셜…풀럼, '610억 ST' 영입 근접→주요리그 입성 딜레이 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RVVduVy05T2ZGUjUxMTNGeWdJNWR4dERKdUNyWEs1NHpja2p1dFFxc3NSbXZVNldrdU5vV1VfWUVTX2hIekhudXA2U2N0Mk1IX1FHb3lOQzkxYnJ6U25iZXk2OVBrWlBOZjRQbEl1SVAzV2I2WkVWanRhZlVrUdIBd0FVX3lxTE9uZE5RUndSckd3MEJVOG1KYjVzZFhjNm55TDhmdFpKdE9jMTRZNWthOHNiRXFJSktOS1J6MVBfN3Ffb0I2TUVXaEl2VEY1dkhDNkx6b3dNWVVFUzJvSEJ5ODNqUDJoUnpvaWxDVy1FVURlNm0xcmdN?oc=5"
         }
     ],
     "transfers": [
