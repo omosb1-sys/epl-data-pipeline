@@ -1,111 +1,10 @@
 {
-    "timestamp": "2026-03-20 09:29:43",
+    "timestamp": "2026-03-20 10:26:49",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [
-        {
-            "source": "The Guardian",
-            "title": "Premier League and Carabao Cup: things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDFIN1hUMGlMTE1KOUV5V0xuOThmZGwtWmtlRXo2Q3FlWTB1ZUNKTURiaWhROFBLV1BOZUJVTGE2WUJwRW15WFBmLUV1dWxYUWFhb2l0Rm9CbHo3TkdTS2kxd0NZblRiRzdSRUwxUk50V25hUzBsTWhQSF9hd1h3ZVJxTEtDU1Zhd2ZqUkRCajVaQmk3OXVranhHTlZxangwZl9XSVgtMDgtS0FLMl82emdmbGdJUQ?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Bruno Fernandes? Declan Rice? Sky Sports ranks the Premier League's top 25 players right now - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1VYczlLVzVWdUtwMUFYNFdBSzgzNjhwNEFveDFEUFdoLWZraUNLZDJyM0hVQnNfTUZuU3loRkFxN2hKNEpOaTNnbVJNckhpMlZJa1VtVkdEdGhwT0tQNlp2YkhJOWNpOWVHTzlqcy1QRDZMZ05ycGlieTlFQmlld0NsbHpaWVo2Y3JTMU1LQmUwZHNHa3ZMTXczeVhYd2VNY1hRaWtEMlNSMGRYS2RucEt4ZTVhbE5HZnBUNVoyZEVWTlNiNkFxdE10T0JvRU1SWmpxYmN3VHVlLWhw?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: Manchester United to end Bournemouth's unbeaten run on Friday Night Football - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORlBnLTN3c1M3cXY5aEhQOVdkYWpTeV91WnZsamNpMG41VnJTUXdJblBJbEJNOEZlV2RkTE5kcW1VU2F2SnhKT01aOGd3MUkwbXdZNjZUdGlBWDg4NVE3M09pR2wyVzJWMVdtM3B5cExFV19DWkRCTG5NTGo5Rkl2aFRHWEFfOFdMUHN2MWJPdVJaWVFPdThOeUctQjk3cFFpazFDT1RLYU9PWUNwZGJoemNFZGY1SEtWR1JxdTZqUmtfcnVtSFVscmFZbW5CcTFHNHFBaGowTkFGY0xoU18zOXUwQU1kU0V3Z1Qtd1pacFNGRHhpYV9yYVlIZlZpaDZj?oc=5"
-        },
-        {
-            "source": "Stretty News",
-            "title": "Romano reveals Man Utd ‘absolutely buzzing’ with rising Carrington star: “The next big thing” - Stretty News",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93bThQdWxUS2R0UDdjMFNWMFE4cW1QcXRfclBLaWdYS0F5aDJDTlZCQUJWVFdsa2FhQWxmV0p3YXpnVGVtSTVqUkRMc1FRdzVqSGs1R2lDMV9zbzJVVVVGU1NwS1VxRzVvbW04TGZJVUVCR0ZSRHM0aVBR0gF_QVVfeXFMTy00cUVwUFptSE5iYXlHRVJZM3U1RXY4LTV3cGJRQ051ZDZfYlgzdHl2SWxFSDVuTXJHOWp5dVRleEszVGZIa3JGZlBzRUhSMmE5ZlZEaGk2dDBLMVZxdDI2QnplM2FfTFl3VzRYajU0b0pXRWN3ZmMxLVREazl6WQ?oc=5"
-        },
-        {
-            "source": "GiveMeSport",
-            "title": "Fabrizio Romano: Man Utd Now Making Phone Calls to Sign £100m ‘Superstar’ - GiveMeSport",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmdFSHpLQ1VVRkJKM0x0cFBWWUQzQWRIenUwSzQ1YnJ3djZqUl9QSGNpb3hKLWdyMDJROTdFM21OWm1Cdzg4TkQxWXNGY0hlZjZ1eFNtVWFvLU5ZRC1MQ0pONDFCUGJBeXdacnRZRjRLRV9WWGxuajhUcDNyY3Iwbk5VU3B0MGNpcVhqajlFay1kN0lKLTV3?oc=5"
-        },
-        {
-            "source": "MSN",
-            "title": "Arsenal transfer news: Fabrizio Romano reveals Gunners optimism as official talks with €100m superstar start - MSN",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSGZmc2Q5OExUTW5hNXdzQ21VWVlrZllJZjg3UENvOUY2czgxNUlwdlVKWk9HeFgzNlRHcjBDZDdaRjI5WDVqQkRzQkdVbnlla1pmQWdEU1JRUVBSOEVtUkd5cm1pbk04Rm1DbkhFTWdhMnJISmUzTXpTbG1QX1JQcWNEUmhJOUhvYmN1aUdJMGpqakpScHVMa0tUWm1WWDlUOE5ydE4xOFdzQzdBbHY1VnB6dmp6dkZzU2RKRV82Q3Q2azhERkdIT2lya1VQRW8zalRnR0txVndpcUZjbUt6TFl0Tm9OOWE2X3IzUjZ6UUZLWWt3ejVKTzU0QXlFZXI3?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Kobbie Mainoo, Lewis Hall return to England squad for Uruguay, Japan friendlies - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0F2ODJLTXdlUTF6X2FFdlJNU1RFLTNPcTV4T2tNem5DZ2JudW5BeXF4MXRhOXJPYld3RGFaWFlhblJVb0tvUGE0RUJRYlV3dkZXczNKU2JVM3JEWjNZN24tWkVPLUpaRnI3c1pSVEZ5ZlBVUGxuOU14YjVMZW0yR3E3Q2U1d2NCdW40aW04dw?oc=5"
-        },
-        {
-            "source": "This Is Anfield",
-            "title": "Arne Slot future: Liverpool “steadfastly behind” head coach, claims top source - This Is Anfield",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThvaHNSUllFUXloQ0N6NVZoQllSNzVyVGhfT0xySFBCZEx3dWxHV2Y0NnhITEE5Q1FnTlZmOVNkSWdHUG9NYkJzdlVLLVhqdVFsaDFLY1c4bTVpUUM2TWVwdlZ5UXhZRDc4VHV6eGtmUFUwWXppenAxRXduVzNvTUdXODgzdEpISGVVQkJzbUJYMUFLb1Iw?oc=5"
-        },
-        {
-            "source": "Yahoo Sports Canada",
-            "title": "David Ornstein details Chelsea’s busy transfer plans for the coming summer window - Yahoo Sports Canada",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDdQdVF0TFZMY0FTZWNGbFBpa05PQVZXR1JVMUgtckFLS0loQzRTV0JYMXNlVDF0NDkzaWhqTE5sUnljeUxBUG1ZN09UTjNqMEdKTGVONV9kazEwbXM4cjVEQ2hBT1JmaWd0OU8yWkI2aHRQeWRDdEZZQzVBbldqSExLNlRJSHBidm5v?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "첼시, 2-8 대참사…\"간첩 잡았다\"→라인업 유출 사건 전말 공개, 그런데 범인이 외부 인물? - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xdnBNYzhFSl9LLTlZZTROUG1DSGlTeFpzY0YxRkRld014MEZ3eHNrSktuT0ZYcmI0eEw2SUJ4NlVhblBJRXBPbnBnSEs3bzFWVmpNOFdldmlvWGRi?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "\"승점 삭감 왜 없나\" 첼시 솜방망이 징계 논란...프리미어리그 공정성 도마 위 \"에버튼은 왜?\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVRkeVgzQTF0aV8zNmJqN1U5dVFqOEVGTUptRHNFSlZsQmNkMmI3bWhzT2VxYjhBUjRWOFVzQWVzUTNxVFVoQmZqSmJMZlptWWptNWhjOU03WUxKN0FXU09uUi1tX0pDUUVDSFEtT0Q3Sm9zQjBWSVRDMVE5OFZNSWUxRXV5TWVJaGY40gGfAUFVX3lxTFBUZlRESTlScWRkVWJ4ZHhmNTVQNVdBZEQ4NGEyVTMzRFdNVVRCdjZzLTJrVUozdlUwa0dnMGRESkkwRkpFendHTmZUaXg2dVhWSnJscDY4V1NfendyYnpBVkZaUklZTnBqQ3M5T3hZNk0wUDAyalZOeU9TQVZzSU4zSG5pUThxQ2g0RDVxMG05dDBLdFNnQkJaVmpGeUM2TQ?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'18득점 30실점' 슈퍼리그라며? EPL 줄줄이 패배…체면 걸린 8강전 → 아스널, 리버풀에 달린 '최고 리그 자존심' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrT1JfRzJJZlkybGJ0aUJ6clRjb29SVkF4S3VJazNjc1J6OUpBVUUwMFFDZlM1TnI2d0NQUVVQMUEtQ0RBWF9RUk5mT0M5Yjg?oc=5"
-        },
-        {
-            "source": "뉴스엔",
-            "title": "‘슈퍼리그 맞나’ PL 24시간만 4팀 탈락, 이유는 [UCL 와치] - 뉴스엔",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85X0hXQTdQaURHSEx1WElwMkdxN3h4bFdIVHNKaFpzZWhNSlhjbW5YZTBOeFJLd05ZSXBneU1MSmxRYjRBQzNGSEJBSWpwcV9Fcnl5UFpmYmI4dXZDS3JCdkNtNzRTQV85TGNz?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "손흥민과 뛸 때는 프리미어리그 최고였는데 어쩌다...토트넘 주전→트레이드 대상 전락 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkM29vdzFHQ3NDVUFpZ1RmLW9oa0c0Wjg1RlNOQjdubEJZak5pMURoWXZPZWQtNTM0MEFWaFdXVElObDR1a1VydVhPSEZkbG11Rzc3UU16a25WcGRGeFJfcklZbzdrRkctdkIwSzBkUnZFYUV2?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "[오피셜] 맨유 ‘축구의 신’ 맞다 ‘공식 발표’ EPL 이주의 선수 선정! 올 시즌 통산 ‘5번째 수상’ 리그... - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTHVFb1NDdlg0Q0NLejg2S1RlYnNzeFJlWUFvVm5TZGI3WmJVTjJROTlDSV9yaFo0WGJMNFJoZklrOV9sMFFkb1J2M0otbHBRU0NzLUdyaDBJaTJ3VHfSAWNBVV95cUxNWGRaRGNaeUJVMWxiOUZtU0gzNlV2WHozS1JLN1NmXzA0RWNJaEVWR2xpVkNlaDRYcm9SN2RmbkdBVm56NE95VEprR2RaZ1dWX1Vfb3pqZ1ZweGVORTRJcHFmdVE?oc=5"
-        },
-        {
-            "source": "데일리안",
-            "title": "'어쩌다 어쩌다' 벼랑 끝 몰린 토트넘 홋스퍼, 강등 현실화? - 데일리안",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uNzdoVEl5b2ZPeDJnclVhM3lJZHI3VTlZMjlvZU1LTll0WXpKcUdVYmttVkZycUVlM1V4NzR6QllWVmRZel8wNVd0c0VqVW8ta3o4NHFtb9IBjwJBVV95cUxOUlZzZmdKdUIwRTZaX2s5bGx3Wk9kc2M4ZDJncWhsVno5ZXI2ZFRqbDF4Z2Z0dEdKWjQ4eFZCX2o2ZFByY0NkS2lQZldUeUUxbS14TGhPVHBJek85YmlNRlNiTndWMGlna3g5M0tIVlZhNGZNRkI3dmd6OGVrSzhxUlB3dk1INm9odzlHTmNYZXF0bUctcE9HTmFYbTlHcDBQekc0ZFVqMklRa1RLS0RmTWcxcXYwZVdDTldDeDN2WmtNWnV5bkRmeWJhQXNTbGNCaFRoQk1EYWhyMDBKazBpM2otejk0M0hySnZMN1A1QkRBbWFWQ0U4dmFIMnJBb3ppaVhhT3U4dFNlcTJ2VHdN?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "황희찬 >>> 호날두, 韓 축구 대형사고 터졌다…63위 vs 72위 '깜짝 놀랄 통계' 왜 나왔나 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tUW9pcEpiNXBqamlSZWZnckh2eVVtX0pLd3hsb1pja3djV0NtSi0tQmg5dUUyTGNvY3gtNC1ZbjZZWWNpUUQwckhfVWs1SUJBLXkzYjRILWZ1TFJU?oc=5"
-        }
-    ],
+    "news": [],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -113,20 +12,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-03-20",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
-        },
-        {
-            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
-            "date": "2026-03-20",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
