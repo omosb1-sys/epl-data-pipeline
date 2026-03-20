@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-20 14:35:03",
+    "timestamp": "2026-03-20 15:32:42",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Premier League and Carabao Cup: things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDFIN1hUMGlMTE1KOUV5V0xuOThmZGwtWmtlRXo2Q3FlWTB1ZUNKTURiaWhROFBLV1BOZUJVTGE2WUJwRW15WFBmLUV1dWxYUWFhb2l0Rm9CbHo3TkdTS2kxd0NZblRiRzdSRUwxUk50V25hUzBsTWhQSF9hd1h3ZVJxTEtDU1Zhd2ZqUkRCajVaQmk3OXVranhHTlZxangwZl9XSVgtMDgtS0FLMl82emdmbGdJUQ?oc=5"
-        },
-        {
             "source": "talkSPORT",
-            "title": "Tuchel names Maguire, Mainoo and Bellingham in 35-man England squad - talkSPORT",
+            "title": "Tuchel names Maguire, Mainoo and uncapped player in 35-man England squad - talkSPORT",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzdnczVKQnpWVnBEQVlfQW9IQWRxUGxxNTF3QnlKbnZQRDlWX2pjVU1ORjhvRDZXNU5kLUVwNVhFU2pxeS05TTl4UWI3ZzV5em1rV3BHUzNHTk1FaksySkxFR0FJSnM5eWdxeDBLaW1yMFpqaGZXM3BYWEtZSGxLN3ZuVjJFbk1sbUtRQTFzbFNLOVVJclViQTVxS2F2bHczUmpVMVVzNVdUYzdRb1R3SUtNdjM0dw?oc=5"
         },
         {
-            "source": "The Sun",
-            "title": "Ex-Premier League star arrested in drugs raid in holiday hotspot is revealed - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR21nbVdWaWJqVVI4WGo2RUR1LURZYWpfdWpTMHk1Q29nNXpwSmRWZ2pGSVlwcHhUVHBNTjN5dE4ycDRLTG54UzlJT2dJNS0wOVFpelFuZFJWR2k0dFNQcW9YcThSZDdCV1FRMEhNZlluaWRBcGh3cmR5dEk1ZlI5Sm9YOGNnTzkxWlRfTTBuT2s2c2hnY2tFZjRtaTU?oc=5"
+            "source": "BBC",
+            "title": "Champions League: What has gone wrong for Premier League teams in last 16? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3amJ6WjZYcWJacTVZNUF2NnlETnBqMVRydHNHOWZSVl94dDhhYW00S2pvenpweE1teV81eVFObGJESFA3U1k3SDZYWENwVkM3QWdhV1VYZUVCYlB6NE9wNFNrQzU2ZkVXeXc?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Four English sides out - is fifth Champions League spot still on? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90MzY1TUZqUzdudkNWMUVZSl9sdkw4OTZYQWt4R3Z5NzFfOERMem1rZ01wZThfbkozRnhlc3hlNVdoTHQtRXdsNjJHRUZ2ZTZaSlJjTWszSmpPeDJSYnhUWWwzR0lrOVk?oc=5"
         },
         {
             "source": "Stretty News",
@@ -37,8 +37,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Kobbie Mainoo, Lewis Hall return to England squad for friendlies, Alexander-Arnold omitted - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0F2ODJLTXdlUTF6X2FFdlJNU1RFLTNPcTV4T2tNem5DZ2JudW5BeXF4MXRhOXJPYld3RGFaWFlhblJVb0tvUGE0RUJRYlV3dkZXczNKU2JVM3JEWjNZN24tWkVPLUpaRnI3c1pSVEZ5ZlBVUGxuOU14YjVMZW0yR3E3Q2U1d2NCdW40aW04dw?oc=5"
+            "title": "Manchester United close to agreement with Kobbie Mainoo, Harry Maguire over new contracts - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjkwZ3l1OEsxVG42R3pkVkhFZzQ4QWZtVTlhQThpaHlLX3BkYmF1RFQ5RHNKM3M1MmFxRmgza0hNcU84cWhXcC13d3ctODE5Y3VKRDdhNUp2NUhHc04yM2tTMVlaOXVlUVBObkVELUlhWWlYb1JEOVFCeUNkRjhYUTdnTzBLNEhoX3NFUzk3TnBXNm9LUXdFNzVPVFhiOEpn?oc=5"
         },
         {
             "source": "This Is Anfield",
@@ -46,9 +46,9 @@
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThvaHNSUllFUXloQ0N6NVZoQllSNzVyVGhfT0xySFBCZEx3dWxHV2Y0NnhITEE5Q1FnTlZmOVNkSWdHUG9NYkJzdlVLLVhqdVFsaDFLY1c4bTVpUUM2TWVwdlZ5UXhZRDc4VHV6eGtmUFUwWXppenAxRXduVzNvTUdXODgzdEpISGVVQkJzbUJYMUFLb1Iw?oc=5"
         },
         {
-            "source": "Yahoo Sports Canada",
-            "title": "David Ornstein details Chelsea’s busy transfer plans for the coming summer window - Yahoo Sports Canada",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDdQdVF0TFZMY0FTZWNGbFBpa05PQVZXR1JVMUgtckFLS0loQzRTV0JYMXNlVDF0NDkzaWhqTE5sUnljeUxBUG1ZN09UTjNqMEdKTGVONV9kazEwbXM4cjVEQ2hBT1JmaWd0OU8yWkI2aHRQeWRDdEZZQzVBbldqSExLNlRJSHBidm5v?oc=5"
+            "source": "The New York Times",
+            "title": "Kobbie Mainoo, Lewis Hall return to England squad for friendlies, Alexander-Arnold omitted - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0F2ODJLTXdlUTF6X2FFdlJNU1RFLTNPcTV4T2tNem5DZ2JudW5BeXF4MXRhOXJPYld3RGFaWFlhblJVb0tvUGE0RUJRYlV3dkZXczNKU2JVM3JEWjNZN24tWkVPLUpaRnI3c1pSVEZ5ZlBVUGxuOU14YjVMZW0yR3E3Q2U1d2NCdW40aW04dw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -86,6 +86,11 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTHVFb1NDdlg0Q0NLejg2S1RlYnNzeFJlWUFvVm5TZGI3WmJVTjJROTlDSV9yaFo0WGJMNFJoZklrOV9sMFFkb1J2M0otbHBRU0NzLUdyaDBJaTJ3VHfSAWNBVV95cUxNWGRaRGNaeUJVMWxiOUZtU0gzNlV2WHozS1JLN1NmXzA0RWNJaEVWR2xpVkNlaDRYcm9SN2RmbkdBVm56NE95VEprR2RaZ1dWX1Vfb3pqZ1ZweGVORTRJcHFmdVE?oc=5"
         },
         {
+            "source": "아시아투데이",
+            "title": "“빅리그 보인다” 오현규 ‘리그 4호골’에 베식타스 현지팬들 ‘열광’ - 아시아투데이",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWnp6a1kzVUYxRXBxLWYxcF9LcGVMZ25yVGY2NXJMT1hPbVFjN1pwMWotRjliRHZBbXBObkw0di0tajdhWFhSN0t2Y2d4aVBTMXhUbnptS3hTM0stUXhtS0JpeXBDd3g3QTJNQWtR?oc=5"
+        },
+        {
             "source": "데일리안",
             "title": "'어쩌다 어쩌다' 벼랑 끝 몰린 토트넘 홋스퍼, 강등 현실화? - 데일리안",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uNzdoVEl5b2ZPeDJnclVhM3lJZHI3VTlZMjlvZU1LTll0WXpKcUdVYmttVkZycUVlM1V4NzR6QllWVmRZel8wNVd0c0VqVW8ta3o4NHFtb9IBjwJBVV95cUxOUlZzZmdKdUIwRTZaX2s5bGx3Wk9kc2M4ZDJncWhsVno5ZXI2ZFRqbDF4Z2Z0dEdKWjQ4eFZCX2o2ZFByY0NkS2lQZldUeUUxbS14TGhPVHBJek85YmlNRlNiTndWMGlna3g5M0tIVlZhNGZNRkI3dmd6OGVrSzhxUlB3dk1INm9odzlHTmNYZXF0bUctcE9HTmFYbTlHcDBQekc0ZFVqMklRa1RLS0RmTWcxcXYwZVdDTldDeDN2WmtNWnV5bkRmeWJhQXNTbGNCaFRoQk1EYWhyMDBKazBpM2otejk0M0hySnZMN1A1QkRBbWFWQ0U4dmFIMnJBb3ppaVhhT3U4dFNlcTJ2VHdN?oc=5"
@@ -99,11 +104,6 @@
             "source": "Your Field",
             "title": "韓 초대형 호재! 686억 LEE, 프리미어리그행 급물살...브렌트포드 '골든 보이' 이강인 향해 러브콜 - Your Field",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MNGIweXhaMHNRT2JfbGlLOFF0OGx3SjU2dUgtWG8xR0RxZmROR1BTSlBldk5YeGxUNVRtVmhCaFZ1UWZRcWUzV29kZUR4NndGNGJZY2pfdE9JSXpnUUo1c3kxcTVhbEJSMEVNU0NRVUVvcUZpc2c?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "첼시, 2-8 대참사…\"간첩 잡았다\"→라인업 유출 사건 전말 공개, 그런데 범인이 외부 인물? - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xdnBNYzhFSl9LLTlZZTROUG1DSGlTeFpzY0YxRkRld014MEZ3eHNrSktuT0ZYcmI0eEw2SUJ4NlVhblBJRXBPbnBnSEs3bzFWVmpNOFdldmlvWGRi?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "date": "2026-03-20",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         },
         {
             "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
