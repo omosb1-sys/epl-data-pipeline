@@ -1,24 +1,29 @@
 {
-    "timestamp": "2026-03-21 11:14:07",
+    "timestamp": "2026-03-21 12:23:08",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Premier League highlights: Bournemouth 2-2 Manchester United - Harry Maguire sent off in draw - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWTdBNVhScUw4b0VMb21LVnBqd3BMN3QtakhNdGN2U2VjRUlYOXJRdnIyejdGZDNrektZX1FRbDRXYVhiTUl3ZDZKM0x6QUJZcWl6U3RucWF1SGM4OEZuUUhob083UWs?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Everton vs Chelsea: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RX2NSLUhnTHZZWUdNVHYzWUJFRGxxeDhpR1NGcy01bUM4TzFkVzZMSE1uZUJPYWdqZV9scUtMazhybDlsYWZLMnoxUzNnNDdjVHhSMWlWZzFNQ19wUFh5MHl3?oc=5"
+            "source": "The Guardian",
+            "title": "Premier League buildup, United fury, England squad fallout, and more – matchday live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUFprMDh5ckt1QmN3VGphVmtwTnllNi1RVV8ydDZGSDJrbTBiRzkyOTd0SGZ1ZWZ0NEVBMnFjMVFBLUc4Z2M2UEs1SEhkN1BCa3ZqRFVFdzNxdXRqSENQa2oyQ3owbVN0dDNSSnVCZU45Ul9Ea3dFbW5BLTl3OENLOHVVZmZkZjJ6X2NoU1o3S3NGUEJwM0t4cVNvZUNZS2RjRFFVVUt6ZmtOYWowblpIRmdmdEI3SjdLc0dxaHFLS1YzWUs5eGdEc1Y0QXJoMDhvZXpSTDlkM3RBQmFvVlJ5Y0FOaVpRY2hWb2ZWd24zLVVIdXpGbVpOeDBhU08?oc=5"
         },
         {
             "source": "The Guardian",
-            "title": "Moyes seeks clarity over Premier League’s decision not to deduct points from Chelsea - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXFUSVFfSERvT0Nha0dhOTUzTjNhTFJ0OHVDamY2cWJNdWFEYW5tZDRZeGpnNnpJaDdJd20yOC1ibDZrc3dSdmlpaDBITmFCQjRiU2ZvRXdVRXp5YXhSeUpCVFRGTEJQV1FxV1lrYUQxZm9vNFQ2dVdPWC1FZm0xZ3hjTHBhdkU3bk9PLVBnZG5WNDdYYy1NZDlEZVI0U1dyNFp6NkR5RndNbzZ6dVdLem9WTQ?oc=5"
+            "title": "Brighton v Liverpool: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEpsa2Q5RjdUSmM0REczU1BGWUFuOE9LZ3dRQ19uWUpGLThiN1RyeXZ5SXJSb2FQZTNFUEFVWDlQQzJrNnVZc3ZkOWVSM0F1ZFJwTktTYklfWEV3MGIyZ0VXMG5xNWlhd3BjZlRQWkw5SGpEMTdZTWt3ZVlvNmpFVGg4MkY2N21kZ1FURk1PV1YtTzhJTk00akxn?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "Brighton vs Liverpool LIVE: Latest score and updates from Premier League - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajF5bDYtdTBEU1g5OVZuODM0OUdUYjNrUExMMHVoajZLdEFxbV92QkI3bVotU3JYTklxWUZWOVRTbjJIMVpfUVVidENzMVRGR01JRklGRXVheGxib29faldjX0lTbWhCaGstNEw3YTg0SHdRT3lYb0lPMW9vOWlXU2s0WTRMamtmcEV2TTFPRTM5STVSSzM5MnU2NC14cGt5akJoU0Y3cGJrdnU1b0VvekFHd1ExUkRQ?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "Arsenal transfer news: Fabrizio Romano reveals Gunners optimism as official talks with €100m superstar start - MSN",
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOTWVONXh0c2NCMmlfTVhDVnBjNy1kWGM5a1E5V2FlSmg3T2tUOVY0VHc1NmtEM0ZaMDBqX0ZUTDRNcFFVbklKQUhwWHdtdm5wT3daOTdiZlVvX1hIMXpRUXZxWEwxTnRsRWxpaUxXd3dmVTh4d2NZVW1ra2x0T2F5aE1HbE80UHAxWmtkYURjY0dyVVpOQ2VXZGFnQnR5NXRJSkh6UXdlSjF0Z1NvTUNzYTFXX2dUU0VzX050SHp2TG5fOV9mWHFoNWk4Vk0tWjJ3MXBLTWNPanNHcDAyQjBEN2k5eVN5emtmU3NQN1FJVUhrYUptenBBQWRxMXgwUHJkdHhuMk14bExEQm1qbFM4RE1fUmZOX1Z4YkNXVmxqdm9sRV9mMGNkQjBSa1I2NXA0TkFnclhKdDgyc1FBNTFsX0hCaUNtOVdFMHNMWVl1TjJEYUo1Q1kyWEgwT1hLNC1TZzNCTnBBUU96Q01TWVhwaEVPOVRoUDVHNXpfZzBBdVJQdnk0b21kTVhQNXR6NW5OenFhLWdmSQ?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -29,11 +34,6 @@
             "source": "AnfieldWatch",
             "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - AnfieldWatch",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
-        },
-        {
-            "source": "MSN",
-            "title": "Arsenal transfer news: Fabrizio Romano reveals Gunners optimism as official talks with €100m superstar start - MSN",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSGZmc2Q5OExUTW5hNXdzQ21VWVlrZllJZjg3UENvOUY2czgxNUlwdlVKWk9HeFgzNlRHcjBDZDdaRjI5WDVqQkRzQkdVbnlla1pmQWdEU1JRUVBSOEVtUkd5cm1pbk04Rm1DbkhFTWdhMnJISmUzTXpTbG1QX1JQcWNEUmhJOUhvYmN1aUdJMGpqakpScHVMa0tUWm1WWDlUOE5ydE4xOFdzQzdBbHY1VnB6dmp6dkZzU2RKRV82Q3Q2azhERkdIT2lya1VQRW8zalRnR0txVndpcUZjbUt6TFl0Tm9OOWE2X3IzUjZ6UUZLWWt3ejVKTzU0QXlFZXI3?oc=5"
         },
         {
             "source": "The New York Times",
@@ -66,9 +66,29 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "'韓 축구 초비상!' 英 PL '한국인 전멸' 초유의 사태 터진다 \"HWANG의 울버햄튼 경력은 이제 끝났다\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZMl94ajE5dEVPamFuUTVBRzNtN0pPWFlmZ21YNFVkZWhJdU1FMHVPUDJhMmoyQnRDM1c4aUhxQXlqYmxueTlXa2lPdHhHOGlLZm16b0JoT0NxYnlf?oc=5"
+        },
+        {
             "source": "조선일보",
             "title": "\"기마랑이스-토날리 말고 이 아이 어때?\" 맨유 전설, \"활동+역동+강인\" '1605억' 신성 강력 추천 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm5nMUMwSENLdmVpWmVQd3NPeXk0UE5DM3dtb3J6Y29rZnZmWUtsQXgxV0xmdmY4dk1BRS1HWm5JQlM0Uk1QcXNOb3F0UjRkVzdWZ2V5aTltN2owYWI2UnNTUldVRU02ZV9PWlQ4NTRzdlVINk51dmxlSWMzRDRMeDZ3SVhhWjdwMnpj0gGfAUFVX3lxTFBzNXJCMkM3eHJvZExJUWVBd3VwRDZkXzVnaGhPSU1wcWxleTkzcXlueTVoZ2xDeXV4Zm10SmViTVFFY25Sc3dTeHhkYU5mRkdWcU5ab3M1S3hlWjU1d3c4bURBR094eGRjMU1DOTRFUWpZQy1DYlZBSFhteWNRekE5aEQ3NVowSlV4RlJ3QkFWZVJjb0RuMXFlaDlaa3B6Yw?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "2-8, 3-8 대참사→EPL에 어떻게 이런 일이…\"프리미어리그 수치, 첼시·뉴캐슬 UCL 1년 출전 정지 시켜야\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zZmJOQjViWUFFNFoxUkJKay1EeEs0akNjNHduS0I4YTNTX2JmZDlNem5pNzFQaXJmS0ZYT0tyUzZlb01BUUhUbHVFNnJKc1pTSmhBbGktYmlnWW1W?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'탈락탈락탈락탈락' 6팀 중 4팀 전멸→\"EPL 거품인가? 슈퍼스타 부족\" 英 매체 한탄 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVW1RYTBRWHJUeVg4cGs5UFdEdEpFaGUzTEI3Wjk5VG04dFU2eDNxZEFLT2thbGhXS0piUks5TTJNbWFBcjRvSnJ5b3M0R3EwS2oyVUlpSkhWSW1J?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"왜 PL은 UCL에서 흔들리나\" 英 BBC 분석…일정+세트피스 의존 지적 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWVWU3NGluZldEVDNJRVlTekdMaEtRRzZNY0haTEZXMmNnYWRPNHE3VE05X2J0WHBIVUZTZXQ3Z0drbm1QZXlvQmdBR080R3JkMDRidE16UmN6NS13?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -76,34 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0NUNGWmZ5WHZSNlU5R213TWhib3hoenRVQjdjTk1aTjBtX09fcUdPZGFtbExoLWVUYXdQTTRpUFdYTXRtUm1jMVRUYnFIUVc0M3ctWUw2bjl0dW9yLVZwWTFxdXhXWDR6cTdmTXBXMNIBc0FVX3lxTE5lcllBdXJmTjBXb2hHV1YzcExpV2tFTFBibkU5ZUx5cmpqb2I1MzZOQTc2NHptUl9Db05kRkIxaC1VQmlLcE1mYjNURHY1UnlBcGRBQUNnUjZKdkVFWE8zcFgtX2hONC1POTg1X00zXzFKR3c?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "\"승점 삭감 왜 없나\" 첼시 솜방망이 징계 논란…프리미어리그 공정성 도마 위 \"에버튼은 왜?\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EeTdFa0xESUhtd3pBTktudUFnd2ZKNmQ4M0p1Z3pvakRvd3Z6b1NBMlRmelE1bGJTYURrWFR6WXRRdjE4S3B1Vk9NcWdKX1Y4NVFNM3BDaDEwaE41?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "손흥민 고별전서 십자인대 파열→목발 짚고 한국 떠났는데...'시즌 아웃' 쏘니 절친, 매디슨 \"강등 시에도 팀에 남을 것\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JenpCR1ZBaFlOUWtXRDZJaUFscDVxWUFvWkVmZ2hId1g1bWRsSkxXTFVqOEp3Y0VZdnI4SUxPb25RcWQwMWczTzJtLURHWjUyRlZ6X09Temd3NGpsMjFrVmpiMUN4TG5QWWZBZDVJbXVDUkxkMVE?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "[승부예측] 3월22일(일) 23:15 PL 31R 토트넘 vs 노팅엄 스코어 예측 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkZ0ZnZmVvWWpFbDEzSGh4Yjd5R3c2TlBGdVZtamdlN3g4dlpfU3RCS3NFRzdPbjRXeWc1SVJfNjJ6NEFkbUx3SWFCWWdqczVnUkNqMmNHZ3F5ZDF2MGhVQTNIN0FEVTJZaHZvZDg0cTFUV18w?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "‘韓 축구 초비상!’ 英 PL ‘한국인 전멸’ 초유의 사태 터진다 “HWANG의 울버햄튼 경력은 이제 끝났다” - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUNG9SMkpWcTRXVml0aGlkRVNZcWJ6SC1WRlFiUk4tZWJ1eDFJcmdxaE10OG1nbm9NV2xPRW1wUWVveWlDVXA0RlRlRjN1UEhQUkpzRVJld3lkUkh0TFHSAWNBVV95cUxPOXRGa1JXQ0RtV2dFQ2ZoTVlnV0FwbEhOdlk3bVI0V2UzQnptZW4zbVZKZjIwWHgtcTVLaG9FQW5SX01WZzJTYm5rWnk5ZXdTcGVWRzZ6Q2RrZHV0Zll4SzE5bW8?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "\"미친 것 아니야!\" NO PK→레드카드 OUT…마이클 캐릭 맨유 임시 감독 분노 폭발 \"이해할 수 없는 일\" - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SUzl6eVpvUXczT1RiTWhlQkRfUDlVQnJmek1BNkh4SlNhVUNwNlktdU1Ha1Mya2tkY1lrSDJUckJ1dzY1dXhlMXpwQ3VuTUZoYmpES3V1QmZWS1RtUHZ0Q0pwZzhEOWI0WnRwZlZ5N25iWUJKTE1nSm5aSTJuQdIBd0FVX3lxTE9Sa3ZoUG5hQjdDRDEyQWlYTmNldlRrQmVHZE5uN3R6NFlCb2ktN3NWRmdtRUtLVEQtb215VElBbzBLZEZyUGlrRHpGNWVwRDZ1Z2xBUzlkZDM2T3plaXJwdldrS3Y2THhsYW42MXFlaWFPSnhKYTRj?oc=5"
-        },
-        {
             "source": "v.daum.net",
-            "title": "\"아스날의 세트피스? 골키퍼 막는 반칙, 그러니 싫어하지\" 리버풀 전설, \"우승하겠지만 아름답진 않아\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1N1k3cE1vUWVDa2kwRXB5bDBQMkVMZlRjam5Xc09nQ1Rubm8xc1o5cjAyNUFNaWdJUWxqeHl6ZjJ3LVZxZ2dOR1RITGtUSDg?oc=5"
+            "title": "'18득점 30실점' 슈퍼리그라며? EPL 줄줄이 패배…체면 걸린 8강전 → 아스널, 리버풀에 달린 '최고 리그 자존심' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrT1JfRzJJZlkybGJ0aUJ6clRjb29SVkF4S3VJazNjc1J6OUpBVUUwMFFDZlM1TnI2d0NQUVVQMUEtQ0RBWF9RUk5mT0M5Yjg?oc=5"
+        },
+        {
+            "source": "OSEN",
+            "title": "\"승점 삭감 왜 없나\" 첼시 솜방망이 징계 논란...프리미어리그 공정성 도마 위 \"에버튼은 왜?\" - OSEN",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pdUZ0V3pEbzBlOVRZbUlLU0VXTDFIUnRVNTB4aU9iUE56a0cyOVVlYV9udmJWMDlIaVdIRjIzWUdPTVdmUHQwWUFrNnJiTEVLWHJN?oc=5"
         }
     ],
     "transfers": [
