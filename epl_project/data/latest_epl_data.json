@@ -1,14 +1,19 @@
 {
-    "timestamp": "2026-03-21 15:15:22",
+    "timestamp": "2026-03-21 16:15:43",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "Brighton 2-1 Liverpool: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEpsa2Q5RjdUSmM0REczU1BGWUFuOE9LZ3dRQ19uWUpGLThiN1RyeXZ5SXJSb2FQZTNFUEFVWDlQQzJrNnVZc3ZkOWVSM0F1ZFJwTktTYklfWEV3MGIyZ0VXMG5xNWlhd3BjZlRQWkw5SGpEMTdZTWt3ZVlvNmpFVGg4MkY2N21kZ1FURk1PV1YtTzhJTk00akxn?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "Brighton & Hove Albion vs Liverpool: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94ZV9QWDFWMjFiT0hhY3pkWkRVZVJ0bUZrclcwNk9IYXdUZzE4NThiT3AyMFNERTZPVVR6Y2J0UzJZTUNoSXMzcmZyWlkwd3NpOUFMdGh0ZkJTQ2FYVk9zam85MFM?oc=5"
+            "title": "Premier League highlights: Bournemouth 2-2 Manchester United - Harry Maguire sent off in draw - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWTdBNVhScUw4b0VMb21LVnBqd3BMN3QtakhNdGN2U2VjRUlYOXJRdnIyejdGZDNrektZX1FRbDRXYVhiTUl3ZDZKM0x6QUJZcWl6U3RucWF1SGM4OEZuUUhob083UWs?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -16,14 +21,9 @@
             "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPME5TdkJ5Y05UTzQzLVQ4by0wc1cwZ3ZBNnlBQXYySS1KY3NIOHRaenJoSHhINGo1OHp3LWx1d3ZJQ01QZjJ5ejNqLWZ3d0RjampPSWV5NTF5U0hxZHVJamRDVW9EVnE1d2VMRDUtNzRHUFUyX3F1QUpna2hISW93SkN4MVBsVmlSZE8tUWp0Tmo3eXdVZUE4cUhNSzZBQkkwTTlab1U2T1hfRHZJVG54c0lJckw2UzAzLWkxSlJTNDk4b2cxTVVoVEFtOHpSNHNiWExFUWxPSi1XN1BTSnI1dDJfYW92am9FWjBiczgtNWFGRVliSkk5VUhLaHFTSFNV?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Premier League LIVE: Brighton v Liverpool, Everton v Chelsea, Leeds v Brentford, Fulham v Burnley - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80WERHOGxfOUQtX1VENWNfV2ZqcFFJb3ZpbEx6QjhqeHpGSkZyLUk5U1NCdDhJTDlwd2pSNE1VYlQwSng3aWN2aHFFTlJYN0hpNXkySEhYRHBSMkJhOF9LMzlVSUNuSGlDWXc?oc=5"
-        },
-        {
             "source": "MSN",
             "title": "Arsenal transfer news: Fabrizio Romano reveals Gunners optimism as official talks with €100m superstar start - MSN",
-            "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcVZjcV80VHRUR2hYSnJVQ2xDaWt0NnVSMHMtZ2FidllyN3hsYzNqZVUxaGFTQlA1Z0hGN2hVMXlLYWFaV3RGNE9wd0dlSl93WVpvOWVUbDdIR0tRRXRKU2thS2RYSlc0WWh6SnJIdU1ZSGJSY0JMaHM3a3hqa1lJaW9iQlRXS0U5WXZ0bUNIRm9ydnk4R2tVVHA3X3JUOTIwUno5MjNfVDN0a3N3d3MtRElqbldfa25JbFkzY1lLVldSOUFRQVY5dGhYUi1Gck9EQW9HZlU0aHd6NFpFSlh0Z0tQWXN2cWVkVFpmeXVRWkp3ckNZaDJuS3BfTEE5cnk2akF4d3gtcENrb3ozUkFRc3NqVWZnc1NvWm1fUC1zUUZWeHFaTVlEbmFhOEhqNmF5dzJKaVg3NnBtczRMMUZHenZhT2JYc1FKUGNkU196VERsX3VubTQwWGNTTFpfU3dRZWVKNzNSZE9kWFZwNUdxd2t5ZEVkdzBVMTVhWE1VZTdWMXJURGprWHdUVC1IaWdfMnRybUJB?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOTWVONXh0c2NCMmlfTVhDVnBjNy1kWGM5a1E5V2FlSmg3T2tUOVY0VHc1NmtEM0ZaMDBqX0ZUTDRNcFFVbklKQUhwWHdtdm5wT3daOTdiZlVvX1hIMXpRUXZxWEwxTnRsRWxpaUxXd3dmVTh4d2NZVW1ra2x0T2F5aE1HbE80UHAxWmtkYURjY0dyVVpOQ2VXZGFnQnR5NXRJSkh6UXdlSjF0Z1NvTUNzYTFXX2dUU0VzX050SHp2TG5fOV9mWHFoNWk4Vk0tWjJ3MXBLTWNPanNHcDAyQjBEN2k5eVN5emtmU3NQN1FJVUhrYUptenBBQWRxMXgwUHJkdHhuMk14bExEQm1qbFM4RE1fUmZOX1Z4YkNXVmxqdm9sRV9mMGNkQjBSa1I2NXA0TkFnclhKdDgyc1FBNTFsX0hCaUNtOVdFMHNMWVl1TjJEYUo1Q1kyWEgwT1hLNC1TZzNCTnBBUU96Q01TWVhwaEVPOVRoUDVHNXpfZzBBdVJQdnk0b21kTVhQNXR6NW5OenFhLWdmSQ?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -57,13 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWszOURJWHRoOFY4UFZna1Z0OUhOYTBWaFVoSjFOM2lBV1h3ajVqT2ZxQm1BeWVZTm9fYVkxXy15eTgtQnFXbkZNODBWcjBtT0xIMVUwcVU2cURyZ3RwWmxwdDAzM1MxX1FuRnJpYTBJbHBpeWNYZzRVVzY3RnV1N0t2R0JiQWRPbWstTGdDQTU5bnczLXdPZDd6alhpbTdjWnFjX2NIZWhCcVEyV2dPS3RjY0d2VGRLT0swaE1PUkV2YnRoWERtUHpOM2xoX19wY2U0ZjVEVVowRHB1QjlEallTQjN6bVVrLTFmNW56MG5VdTNL?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
             "source": "네이트",
