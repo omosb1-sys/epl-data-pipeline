@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-21 06:29:04",
+    "timestamp": "2026-03-21 07:25:29",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,23 @@
     "news": [
         {
             "source": "The Guardian",
-            "title": "Tuchel explains ‘tough decision for Trent’ and refuses to rule out Dowman for England – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVRKbTdaRHlKWmVNLUs0OTZYRW5qb3JFSkVJUUNqVjhjTXk0THp6LWxOTHB2ZGJpVDJIRGZHOVdmUWpKQUF2STlNLWRldXZvenNDanFrNTZDb1c0RVFYdHU1RlBqQ3ZpZWdjZVRIZHJWRlJoWVBuNzNrN1hwM09lYzk1QUJHUjRxOWNOVkE4ckVaekJhekNrOEs2Y3dOV3dxOEFIeWFVWHYxMlNqYWVBcU85aGg5UkdndHpTOXZsS1M?oc=5"
-        },
-        {
-            "source": "The Guardian",
             "title": "Bournemouth v Manchester United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXVGenlUR00wSWhxUnhDSVl0MnBwOXAzNndJN3hvaWhqZGprdXpMNzBtR3F3elY0SUdSSTNNRmVnMVJUdHRxdG5HcEE3SjdSblRsMUVyMWcyQ0kydGcxd2FDWDZaeGV5WnhjZUlyNmN3YzRIYm1IVkZTYnBhOFFmN2EwLUJZaWh1ZnAweVRyV3VPa1NXbjBneWVvMnhrQmVQWHQ3c0RGSDA?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League: James Milner - The Football Interview - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5bnVFMVBnV2xHTnpucHFCeGRmY290bzQ0d0VjNTd2LU5INXUtYnlOVWI2YlFQVXgzNGdzV2FZdkNHQTllek9qU0I2SGdZdWIxb19SbXBkVi0xQXAxeG9kZGpveEo?oc=5"
+            "title": "Klopp, small shinpads and whether he really is boring - Milner in his own words - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZekZpNjJmb2tvN1p3cXF4NUJSSWdOR1R6Mno5c2tHOFJtM2xfOHRYSTBGZHU3LUtzSVNSMmRtSmhwU0FhTjNnRFZ4LWllSVlnSzhBelViekxnZk9tR3ZFRExnb3gwZFk?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Tottenham: Guglielmo Vicario to have hernia surgery with Antonin Kinsky set to start against Nottingham Forest - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcTNfLWdJTUtSS0VfWm1aanpJWnlwcjQxbHduNHA3ZkE5cEI4eWhoQVhIVDlxa3VBbTQ4MVI5NzBpTldxcFotLTE3RWtQZ2JBVVRURTBteTVJSmFMaHZCVlZqUFd4N0U?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "Arsenal transfer news: Fabrizio Romano reveals Gunners optimism as official talks with €100m superstar start - MSN",
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOTWVONXh0c2NCMmlfTVhDVnBjNy1kWGM5a1E5V2FlSmg3T2tUOVY0VHc1NmtEM0ZaMDBqX0ZUTDRNcFFVbklKQUhwWHdtdm5wT3daOTdiZlVvX1hIMXpRUXZxWEwxTnRsRWxpaUxXd3dmVTh4d2NZVW1ra2x0T2F5aE1HbE80UHAxWmtkYURjY0dyVVpOQ2VXZGFnQnR5NXRJSkh6UXdlSjF0Z1NvTUNzYTFXX2dUU0VzX050SHp2TG5fOV9mWHFoNWk4Vk0tWjJ3MXBLTWNPanNHcDAyQjBEN2k5eVN5emtmU3NQN1FJVUhrYUptenBBQWRxMXgwUHJkdHhuMk14bExEQm1qbFM4RE1fUmZOX1Z4YkNXVmxqdm9sRV9mMGNkQjBSa1I2NXA0TkFnclhKdDgyc1FBNTFsX0hCaUNtOVdFMHNMWVl1TjJEYUo1Q1kyWEgwT1hLNC1TZzNCTnBBUU96Q01TWVhwaEVPOVRoUDVHNXpfZzBBdVJQdnk0b21kTVhQNXR6NW5OenFhLWdmSQ?oc=5"
         },
         {
             "source": "GiveMeSport",
@@ -29,11 +34,6 @@
             "source": "AnfieldWatch",
             "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - AnfieldWatch",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
-        },
-        {
-            "source": "The Empire of The Kop",
-            "title": "‘He intends to stay’ – Fabrizio Romano update on Liverpool star will be music to Kopites’ ears - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkp3TUhONm9ZLW9JSmxsU0k5YVRTNXY0cUQwYkRlRDFBdGNwZk5RMWRNQ0VJMlBjcUVTQkNhdHcwX0daa3BFVXVaUmRRaTZ5cTB1NVlITFRGMFFZUGwwcXJHMWJPRE5SSUhpa25WYl9NcG5fdTlKV3ZRaHR3MVlURlFPRndwNWJIb2JvQzU3WENHZlFsZ2JtVUtremlrSnZMVk9Vc0Via3BiQ0Q2U2w00gG0AUFVX3lxTE9hUER3cDdySmJsQ05YZDhsYWMxTzN5S2lkWWkxUmZnU2w0SHZKa0xGMnFWbFlaZGNOdTl0NU1LYUhlOG0teXJ1bTdfMnFkbDdfNEtNa0Y1Z0p4TGlCNEhGR0pNd2VQNDMwdGlLVVd0WHRqWjlKejZVSm1ZS1NlVU1OeEU4R0xyT1NiRTYxUU02bFk0RzdqTkpLWVFsd3hIcEVWcVk1ZzYwbkI4NUZpeVJoamxadA?oc=5"
         },
         {
             "source": "The New York Times",
@@ -53,17 +53,17 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeEZUeklSZl9YV3FKNUw1VUhYOVpCZ0NpYzF3MGE2YlpEeDRFaEVyYmtWUnBEc1JuWnRyZUdfQjFLclZoZ2JzOHRkcFZIRVRyallmS2lIWTYxaXBIRTZRWDRyUlFhWXRMeFNnVndXZkJqcHh1QmpsSTVNMlEydXQwVVBCS3hFUmFHUEM1NmVyRHZZcHNfQXBFdHZhVmR2RWNEd3lsLV84b3pWYjlyZGJzV2Y4eG9vbkZ1bXltLUx5bTU1VzloNFNMSm9yaW5XcHlaeFFuRk05aGxvZy03ZmhwQjZMcjZ5aTBiX3JQU2l2RDBBQ1FzRTdr?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
         },
         {
             "source": "조선일보",
