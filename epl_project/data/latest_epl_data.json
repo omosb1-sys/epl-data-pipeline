@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-03-22 19:17:27",
+    "timestamp": "2026-03-22 20:14:09",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Newcastle United 1-2 Sunderland: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWo3b3pXUVg5UWVGVlBwQjVva2dWQkFoYW1VZkh3LVplUWo4Y2tSTmFNdzdHUmZwSUFxT0RtUjVMcjk4clpyUVdxdmlJV3BESDYwbmM1OTRRVUxoaXZucjVDcDhtTDgxNFVTMnh5Y0EybVp6b2JwZjhMWUhDU0d4MUY1UWJvNDZjaHFKMFc3VFc3Q0VVNWtveG5nemdIYUdzMUNzdVRfQWp2c3lTdFctTA?oc=5"
+        },
         {
             "source": "BBC",
             "title": "Premier League: Wins for Brighton, Fulham and Everton - BBC",
@@ -14,11 +19,6 @@
             "source": "Daily Mail",
             "title": "Brighton vs Liverpool - Premier League RECAP: Reds' winless run extends to THREE league matches with Danny... - Daily Mail",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVZSQ3JHdDBSR1BxZ2tZZzN4Nm9pTHdjelpiTEk5dl9kY2xOQThfNWppMVc1a2puYU9tLUYzUnIxcWNXWWE1MVVRd0p4c29iSUU1LTZna25rTFQzVk5XMHk0ME54aDY4bEJqdnlBdG5mOUx4d0tFUlBNMV96MHlxWkZlTXVQSVhxMW5mektlYUdvWjRFX2pOVmNUYnVCaTFaV25GVTBKbkU1Zy1iLUdxYkhTY01LOE1QMnBYY2Vn0gHDAUFVX3lxTE9hOW8yUVVudmxhZmhVLW5QM1NxS2JCUV9pX1pnX2ltbjZpakc3QjBmZXlmVjJGV3hxcTNkQ3ZZN0IyVjFZdUNZNnhmMGl1MXdmb2UxZGVjMXZVZTctNW1waVBDUVYzVTVCV1A0M0EyWTRzR09SbGJrTURQZVo5M3R0ckE2MGEyNXlRTFo2RVkxSmtUeFZxWUx3Z3dNUXl3TXV1SmcwUHA2TzVlTTJFelpMdm9ZOGY5by1qWldqMU95UHc5bw?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Brighton 2-1 Liverpool: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEpsa2Q5RjdUSmM0REczU1BGWUFuOE9LZ3dRQ19uWUpGLThiN1RyeXZ5SXJSb2FQZTNFUEFVWDlQQzJrNnVZc3ZkOWVSM0F1ZFJwTktTYklfWEV3MGIyZ0VXMG5xNWlhd3BjZlRQWkw5SGpEMTdZTWt3ZVlvNmpFVGg4MkY2N21kZ1FURk1PV1YtTzhJTk00akxn?oc=5"
         },
         {
             "source": "OneFootball",
@@ -52,28 +52,23 @@
         },
         {
             "source": "Sky Sports",
+            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
+        },
+        {
+            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0lnbmFOcEx1TDBjZG1fem9ic3JQNFRfa05hT3R6alQtOHk0dXNfQkRTd0NLa0hTdThQaXhFSHFxdVVsUVpVU0R4VDBrbmJsQUpQMWQ4RTI0N0tmYTBWUDV2d1dYRVphZi1idE1WNVlLWEZTUF9EVFdURVg1QlJLN2k0dXVWUVY1ZFNqTXJaQ1NqeW5NWDRzR0RHeDFJV0dqSDV5a0d3TUcwaERGWHNhd20zaWhqMnNkN3hWcExlLWF1UWJmRl8xa1VPVEpYeFFwaUNDVklGeU5PNHdrQjZ0Wjh3Qk5TZkhMMktiMU9LNlRGelZu?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
+            "source": "mt.co.kr",
+            "title": "\"손흥민 향해 눈 찢더니 또! 충격 여전한데\"... 답 없는 EPL 관중들, 몹쓸 인종차별로 더비 '초유의 중단' - mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNVB4TFppTnlod1hfeXZjZFVxRkFBRXdBUzZoMDI3OTFEd0l6Uk16VF9zZkxnaHowN0dpT3BYNlMwQVBlWV9BcEg4VjZWTXYtUk9LSlhvcjZOa25BM1BaX2FVaVF4ejdMeXc?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'연봉 73억' 황희찬 혹평 또 나왔다→\"골 넣기 위해 돈 받는 선수, 역할 제대로 못 해\"…EPL '20G 2골' 비판 쏟아져 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUHBUQlEyVFRvLWRGSjRTb3dheWJvRkNXRXZvbnNNS1hndlhtOUFRV2Z3N1l5bUhIQkJkaFlOQnVqcEtQVzBHbDhEakpaZ1E?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "손흥민 팔아치웠는데→49년 만의 2부 강등? 초비상…홈에서 노팅엄에 0-3 참패+17위 추락 [EPL 리뷰] - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNTGtZUURfcm9Ca2g2SHZGallBX2NvUjhJeHdNenpFRzVRTkM1dWYyWnhpQ3VJLXkwLUYzamQyVk52TXNoNkVqT2VWUTdZX3lYNmVXd2RkYlJhbERk?oc=5"
+            "title": "손흥민 팔아치웠는데→49년 만의 2부 강등 '초비상'…홈에서 노팅엄에 0-3 참패+17위 추락 [EPL 리뷰] - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aaGtkNUFlLTh6WW42NUsxTUZYNElUeWQybUtYSEZqakZ5RExmX3Z6bTJBbGxPUzhjb25hVWpWVS1WZExydkE?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,9 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3BGT196VXIxeU9pY2N0OENfVi1LWkNza1MxUmVSWG9iYVVrUVRIOGswSmhOZnJaTndPak5SZ21KanFWb0RWc1JEb0lLdFQ0NlVSSjJWUkhIenpoOFlFQ1Zldng3OWRJNHpsYkVrWVlZQ1ZFYkptM2xmbHV3aThtQUFfTmhDVUtlbFM40gGfAUFVX3lxTFBFVU9fRHZ1QWVhY1BwWFdsRUtFN2laMmpGbE1qSzdfRXctU0s0bXJ1ejZycVcyQ1JrNGJSSnJDbTRONTVLY040QzhIZXdBRmZ3cE05dUJOTnRYZndvXzh5QWhCTDFsckNEVk1QS2IzOHlEeFhZVUlueVBRbkw4NXd4aEM3NFB6X20tajJaUmlMeEd6emJrRTRHQ1BXSXdPUQ?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "반전 또 반전 'Here We Go' 확인 '韓 간판 ST' 오현규, 프리미어리그 구단 러브콜 다시 살아나나...\"풀럼, 페피딜 무산 위기, 구단간 문제 발생\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HMGtOLWotd2VuVjNodmtxWFlWbW56ZHJkR3NheEMxc3ZqTmY0VEVVdTdMRnlTSGVzM05hOXRYQ2tJbUVVXzN4dHdzVEFMYUNUcmtTWHh3RHhXaDU5UUdjT25nd0hhSzhoV2JIVlhTa2EyY2ZsR1E?oc=5"
+            "source": "네이트 스포츠",
+            "title": "반전 또 반전 'Here We Go' 확인 '韓 간판 ST' 오현규, 프리미어리그 구단 러브콜 다시 살아나나…\"풀럼, 페피딜 무산 위기, 구단간 문제 발생\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10NkhpREM3UEdaS2J1STRoaDBDeUF2ODBMcmlwZk1JTy1WcV95Z0JHdXJ4elN6alIzWDRxakgycDExRjNmNGtaT2QtbEJtdnRQcUtIamFjSlprZFhIOEliOE9UYjhubk1Cd1BYWDdWTU5SRFhFX1E?oc=5"
         },
         {
             "source": "스포츠경향",
