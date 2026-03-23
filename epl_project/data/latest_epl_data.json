@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-03-23 12:38:03",
+    "timestamp": "2026-03-23 14:06:19",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Newcastle-Sunderland paused after reported racism towards Geertruida - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOMlVkUWhLY3Z1a3F6SkVJeldKZzdmOVNDWkVuYW9vMTZEdDE5dTlDY2lvODJNTTZzOXV3bVZWd3lLOVZOY1lhX2k1NklPLWxMZmRaTlhNSlZTS2JtZXNVa1ladmhWNGs?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Tottenham Hotspur 0-3 Nottingham Forest: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczVVQjZlc2xsUVRDSlNER0RMYmVLTWNCUDQ4Uzc5Z0ZPdF8xSkgwbHViVVlSZkJid2dSczlDRXp6OWVGRzNnZGVyRDZ1c3pQUWYteG9ycTBhbmxKN1hqV3B4RXhfQUVQV3NGYktrUVBTWFQ3RkU1NDI3ZGNGT3lib1Z1dXJlOHJFRk9oYlRadU54T0U3c09LRHFQQlZhdkFneXljVjR1aE5XeHRRRkhfUg?oc=5"
+            "title": "Newcastle United 1-2 Sunderland: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWo3b3pXUVg5UWVGVlBwQjVva2dWQkFoYW1VZkh3LVplUWo4Y2tSTmFNdzdHUmZwSUFxT0RtUjVMcjk4clpyUVdxdmlJV3BESDYwbmM1OTRRVUxoaXZucjVDcDhtTDgxNFVTMnh5Y0EybVp6b2JwZjhMWUhDU0d4MUY1UWJvNDZjaHFKMFc3VFc3Q0VVNWtveG5nemdIYUdzMUNzdVRfQWp2c3lTdFctTA?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Tottenham's Premier League relegation fears deepen - shocking stats, surprise subs and 'seven finals' in focus - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODctanc5WHRMbV9YOUVQN29wa0hOSGx1cFc4cVpCQnAtNDMzVy1oc29RN3dDTXpLbFlSSERBUld1VVZfSUl6RmtNS2V0MjZFMy15U0FpQ3BUQmpKcUg5V1p0VXJqakFLMDlnNTZzVUhTU0JxSE1ra3BFUXZhMHE2cmZ2RWxHcVVYSzlzekdMV2ZUZWhuVl9WZkxndGY5bFcyX09pTllZZ1hVMFQtUFhWRTd5anEyVThlaDBiTWJqbW40NGs5bkk4c3NmUjJMZEx4eklnMDNPSzVXa2xDRjRtdFVUTXBVUDRZOHZ1VmMzVWw?oc=5"
-        },
-        {
-            "source": "Yorkshire Post",
-            "title": "Supercomputer's new Premier League forecast after Leeds United, Spurs & West Ham blows - Yorkshire Post",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHFiLVg3X0pNLUtrNkhyQWFsSmNfblc1d0taMTk2bWF0WG5jSGxkbWpqTVF2RzNMOWlEYnlZR2d2ZmRac1RhdGJLeWZqTlJDa2RUSFp3Q2RuUExLUHhmX2paMVlYOFVjUzhNdlhLSDZsTHRYSHE4ei1iSVZmdndlMXZKYXpkdkd5MkdCUTRjbUpsY29helc2SS1mYWVpYUdGaTZIckluTGx1bXZndkhBak1jaXVHT3g5STNyNW1XcERhNmpvUVVJdWhfTQ?oc=5"
+            "source": "The Mag",
+            "title": "After embarrassing SJP incident the Premier League and Newcastle United release official statements - The Mag",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFdOWV93bjlsd0hLWERMRVp4WDJOZnRTZXRFQ0ROQ2hwalh5SnhaMnM2aUFwa1IyUUlLWmUzU1pxUm9QbUJsMXlCZ1lGRzlDbDE4M0hvOG10TXJiaHAyWmFOeVJiWlR6d3RwQnB5a3RHemh2bFlaUjRRazBReUk0cDFING5zazY4TEhjQ3ZpaE1vbHpVZnptN2xsajEzUEZNdWM4RHZsRjczWVlCb3FxOUVHTmN3UUExWURjek1oVXVSN2NJWnJuNThnVHpoZw?oc=5"
         },
         {
             "source": "OneFootball",
@@ -61,14 +61,24 @@
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
         },
         {
+            "source": "xportsnews.com",
+            "title": "손흥민 팔아치웠는데→49년 만의 2부 강등 '초비상'…홈에서 노팅엄에 0-3 참패+17위 추락 [EPL 리뷰] - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQT2J1akxuM0pvaTljVGtNemFjNm5qSjBNeWlhd0sya0tOUl9zdHlUbEhFcERVYS00MENJTzhidTFEUDdGR0RDZVJXbWdJanpXYUlLXw?oc=5"
+        },
+        {
+            "source": "Vietnam.vn",
+            "title": "맨유는 아스널 선수들을 영입할 준비가 되어 있다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NcFg1Njh2NVRhS0J2M2Etdk1ad0Z2MlY3Tmd2Y3cxcmJ5UkpwLTM3UEdxM29VRmxRRzBrN3ZJWWFOS2djMm96Vk5JTGh3R0ZtRnN3WXZVc2VFdmZ2bGhFUThic2xVTG15cUpjRUFZNA?oc=5"
+        },
+        {
             "source": "이투데이",
             "title": "'0골' 토트넘, 진짜 강등되나…프리미어리그 순위는? - 이투데이",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hdG9XUmtvZHZudHU1SVRtVEFzVHlCSXFMSkZlZlB4XzhBcWVEbkpaX2Q5di1TRHJGd3ZpZVVuM2pLSkI4cjRrWjlpRUU5Wk1MS2dmcw?oc=5"
         },
         {
-            "source": "mt.co.kr",
-            "title": "손흥민도 통탄 \"토트넘 기괴한 두 얼굴, 도르트문트 잡던 팀 맞아?\" 강등권에 유럽도 의문 \"UCL 16강도 갔는데...\" - mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hZVhrWmFST3BaVnh1T2c1WTh3dmdFNGhwbUVIQTVteU5lZWkwbUo5b1dXd0NCMjRxV0h2M1VSUWlKZmM0VjlTeHowS3FCdkMwTFZrQmRrT0JpWldfcWFsNXZfSWlvVGI0S3c?oc=5"
+            "source": "조선일보",
+            "title": "'무패패무무패패패패패무패' 토트넘, 소방수도 재앙이네...英 BBC 다음 후보 3명 공개 \"생존 위해 3번째 감독 고를 수도\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3RBOVg0dDJMSnRPZ1lkRWdQRzV3cFNVOTZ3ZHdvS0FzbWpZdlJnQXp4YXRoNTV6cHh3Q0MyRzVZeFhsM0dWck9PMnpITkVWbnBHdGpJXzRTUDB6Y1NnSkNIUkJmbXVBeXR1cEJRazYtVkE5OXJYeEkxYVBPVjE2S0tUczRGMHhsLXlB0gGfAUFVX3lxTE96TEhmc2dUNDd4NkFHS0xwQm4ya3JjUElueG9tUWgyeXRWaUZqWC1TeDZUVk9uX0tuSXdRbzlpT3kzLTNUTy16bHJBcFNwREZyYTJacVJVN21SNDU4SjZNUDdveXZWb1llUVk4U1RsbHJmNmxWbXktemN4WlExNExuLXdKRk9pdlZlM1ZRc3ZhQTVtUU5Ga0dXcGZ6bTVBbw?oc=5"
         },
         {
             "source": "뉴시스",
@@ -89,16 +99,6 @@
             "source": "Vietnam.vn",
             "title": "사카의 가격이 떨어졌다. - Vietnam.vn",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ONXN2VzNmUXZkNXJRNmNCZ1EzZGNtWjl3eWFTOHpaYjFFMHJWelFBUzhRemZSUDBsLS1BWE8tT2gza1ZWTjdpZWZTTHVWYjA?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "명장 펩 과르디올라, 또 하나의 전설 썼다...아스널 꺾고 리그컵 최다우승 감독 등극 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMml0YTNiUFZ4YnhOYkZXajlZckJSSjVseV9IMXp1OTVDVUE5dmFNelhCVWRndlNiZWRfM2tPVlc5eFJFSHU4Z2d6UEZEUG9LUlRGUVdCc0xtSzJVRTg2aUZPbnVtckREQ3pJU09ZNUFlU1FyWEMxYUpFUDNkZWlvZEVNbXBsWEoxblA00gGfAUFVX3lxTE9LVHo2UTZzZEJDU0Z6OEVmWUx4N1lMNFFqZWE2cUtrSExEYmF6MjliR1QxWGs5MEpjdnY3T09Qb3JzdHJCSUVMcm9GaXI5SHdfdG02RnVHd2lKTXpYcmhNdlhWQ0xlWDZYSk5jeVZEdlgzRjJjUW9qdjk5aEY1SE9YZlRubC1wWE1jZXNKRDNuWFBYc0JoZk56a1N6ZVVwMA?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "\"박지성 때부터 똑같다, 한심한 짓거리\" 日도 맨시티 '아시안 패싱'에 폭발... 우즈벡 선수 우승컵 들자 '허공에 휙' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tTDFVUFJwSFNpbk1YZTljWlhKejZFV2V6SWlsOV9ReFZxM3ZCbl9DcU1tZDZEWGZwUlk0MDAtQmI2UVB1VVE?oc=5"
         }
     ],
     "transfers": [
