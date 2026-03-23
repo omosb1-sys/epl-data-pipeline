@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-03-23 17:41:41",
+    "timestamp": "2026-03-23 18:37:33",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Sun",
-            "title": "Fans convinced Arsenal could bottle Premier League title AGAIN after Carabao Cup final heartbreak - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejFmYnhYbE9pTmpMb1RoUXkxQ093RE1fYTExN0UzMEt3THlzWUZSejNLRS1yZVdHUXV0QXQ5MDVIc2Z5NXNUdDl1U0VoUFRrMW1XRzIyX3VJZHliWDMybTR3MVFxMkFNV0dHZlc4LUVLRm52WE9kc29mR3NBUFBoZlVyaTFJdGNvQnlmZXZFd1JkeTlkUjA3ZnA5ZHdRQTZnRFE?oc=5"
+            "source": "The Guardian",
+            "title": "Carabao Cup final buildup, Premier League news, and more – matchday live, as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2RSRGlDNWRka0Z1VHVOaG1TSlhLMnlMcC1HLTFSSk0weVZWMWw0MDNVNWVCSXg3QS1hNjhOTEpNTHphSHhuZ19nZUh6MkRXOVMxOGhRUDR4bnF2WDN1QTZnZHJrUjl3Y1o4TDhtSDdVODhmWTVTdGlzd1NWUDYxRDllVjIxWWk3MkJINjhCclpiV1VQYkNpOVJYeE95Y3NUZnU0VENIUzRBSTVaZHlYU1V5X1Y4NXREM0RRV3dJcw?oc=5"
         },
         {
             "source": "BBC",
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxN3VRMktzUGJ6NktxclBnaVpyNkNhZTFnQ2tBbVpXM2p6U05zQVlfaXNfNGFDUlQ5c3J2bm5Bc1pCUm5zS2xGQlJ0YTFoYy1qUV9zSlB5WHQ0MFpqa2RDeC15ZUlMSWM?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Tottenham Hotspur 0-3 Nottingham Forest: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczVVQjZlc2xsUVRDSlNER0RMYmVLTWNCUDQ4Uzc5Z0ZPdF8xSkgwbHViVVlSZkJid2dSczlDRXp6OWVGRzNnZGVyRDZ1c3pQUWYteG9ycTBhbmxKN1hqV3B4RXhfQUVQV3NGYktrUVBTWFQ3RkU1NDI3ZGNGT3lib1Z1dXJlOHJFRk9oYlRadU54T0U3c09LRHFQQlZhdkFneXljVjR1aE5XeHRRRkhfUg?oc=5"
+            "source": "Sky Sports",
+            "title": "Premier League: What is going wrong for Liam Rosenior and Chelsea? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnU2X2lxOVkwWlBmT1VpR01pZGF6blJkcWQtNmdPcU1TbnNaUXlpb2stMlFLQkRsWHJ1MFhvOUctbEJSN1N0djdfOFlSOGFfTWh0cnhtZU5xeWk1aFEwdGNGVWdzMkM2QlNnTkZiOFBMMUdqMmJ2RHhXTXZYSF9YUFIxdFIxV3VNdzc1MGNiaHJQUVNNcFZXTlRiR2FqN2h5T1F5aW9QbWduSmdWOHdzLTFzVEpjOTZQMXM3eQ?oc=5"
         },
         {
             "source": "OneFootball",
@@ -71,6 +71,11 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQT2J1akxuM0pvaTljVGtNemFjNm5qSjBNeWlhd0sya0tOUl9zdHlUbEhFcERVYS00MENJTzhidTFEUDdGR0RDZVJXbWdJanpXYUlLXw?oc=5"
         },
         {
+            "source": "Vietnam.vn",
+            "title": "투헬 감독이 잉글랜드 대표팀을 분할하겠다는 계획으로 논란을 일으켰다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVpvRlYtVXZYc3k0WTZOclE5Y1dLRmxBcUtndW5BRzgyMVdBbXN2OGVaU3FmYnc0VGVaRlc2cEpqNVNWUkRmTTFyUHVqWUxpc1BkSFhMZFNjR2pHTWJjcFVlNHdFS2JMM20zR1o3QzNzM2dldV9udHFrNVB4TDZZV1BpR0Y?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
             "title": "프리미어리그 클럽 vs 잉글랜드 대표팀 갈등…EPL 잉글랜드 선수 출전 비율 겨우 28% - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zVENMd0hsZHlEV0VZX2JpaXBsOUdOUC1YcnR3STdURVdXZF9mNVlDby1XOUdmdVZ1WWhRVVpCSlZVbl91VEFiSzAzV2o2NjBvemIxaHB2c3ljVm0t?oc=5"
@@ -94,11 +99,6 @@
             "source": "인터풋볼",
             "title": "'결승전 완패' 아스널, 리그도 적신호 켜지나...'핵심 DF' 살리바 \"발목 부상으로 佛 대표팀 하차\" - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vdDNDLVR2b0hxLVdGeTRuN2pUS19GdHFRN1VxVkdFZkdXRjRiLXZudnhuOVJMcG9yaW0wbHpDcWZLeEJBMi0yS3h4U3BBRHFNZldseWRZd2dMWjU5MnFwRFRKSzM2Rmg5WGtGajZvWG05NUVy?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "'리그 5경기서 승점 1점 추가' 실패한 '소방수' 투도르 유임은 대재앙, 英 BBC 두번째 임시 감독 후보 3명 공개했다 - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pZWV0UlNPNVdxSWtTcVRFQnNMZmJxV2Zta2pfTHUwSEtOMGdYRVJ1S1poMlo4ajZlbHk3aEs0cW9zZ1VFaktlZ0dsQWJIWGZYZnVjdlN0RFdIM3l0QXVVQ3p3VVpHXzlHN2hLb3pEU0pwQnZnZjI2MVBoOWFYQdIBd0FVX3lxTE05Tmt2amY3eVhES2E3VXVZRDg5anBGc2lJbnRqeTgwLUNnVUZqNnc3eW05TURLanpHbldOVldPSjFBazNkd3hMVHpJcnc4OXYyQ3NfeDhjR3VKMXJjQTRfSEpsVVdHU25mWEFWN29Gd2RyWWVqY0dv?oc=5"
         }
     ],
     "transfers": [
