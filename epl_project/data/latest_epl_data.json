@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-24 07:45:44",
+    "timestamp": "2026-03-24 08:37:42",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -17,8 +17,8 @@
         },
         {
             "source": "BBC",
-            "title": "Sunderland news: Analysis - Wayne Rooney on 'massive' league double over Newcastle - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pVW02Z2d6YzJZR0hiODc2c1FXZVlFQW5qY2hlc3p5Yk1MdHo3VFRFckhDaVNJUnVjOGxXT3ZZWlZBdGUwUWl4X1RsUDJLcURIV09Ta3BUUnJVeVd6RFpqdkFCWDBFSkk?oc=5"
+            "title": "Premier League: Is the international break good for your side? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUWs1a29tV1ZNZ2JWcTI3aXhTZnRqamNiQzhWUVM3Wl9FdmdTbE5xa2Q2WVdwQnpKcXBkaU82LWlSZXlfX3d2RlhKTE02NDR1cVpmRjFHZUxISFQ3R1ZMSlVyZnplMDl2NGc?oc=5"
         },
         {
             "source": "OneFootball",
@@ -62,6 +62,16 @@
         },
         {
             "source": "네이트",
+            "title": "'주장+감독 불만 폭발' 맨유 오심 논란→전직 프리미어리그 심판은 \"둘 다 페널티킥, 주심 이야기 듣고 싶어\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS0NUbDk2UGFzazBNV1YtWWliMERSSkl2TXhrbmVBYWUzS3hvY1JiR0phdXl6WVFDOU01RFM0X2FzYmxscG9jWDFoWElDVDk4dGJCQXVn?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "“헛소리다” 클롭 감독, 레알 부임설에 강한 부인→은퇴는 아냐 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82OUFobWpuMkl4N1pkZ0NVa013b3AtTUh4VmxpN09YNzE1cXc3cWEzUGxzVWlRaU5JQVBveUJTckd1bTVnSlE?oc=5"
+        },
+        {
+            "source": "네이트",
             "title": "손흥민, 韓 축구사 초대형 쾌거 또 터트렸다! 4반세기(25년) 베스트11 당당히 뽑혔다…선배들 이렇게 훌륭한데, 토트넘 강등권이라니 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNFJHbUYzXzl4N0RWRDdEdWZSMzJuSGxZeEpnNTNDMUt5RXFnVHh1azM3bWJIV2FfOHRuT0dhaEd4YnFOSmM5ZzR6T1ZoZmZrU2VpZWJLcWdvZVhh?oc=5"
         },
@@ -89,16 +99,6 @@
             "source": "v.daum.net",
             "title": "'누가 더 절실한가' 아르테타 vs 과르디올라, 아스날 vs 맨시티...리그컵 결승서 정면충돌 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oOVJWb083UEFzeE0zNElqVnZBMHZDZm1aX255RERUS1EwdUxDZUthRzFwU3BaZktuWFZ2cjZvbkx2VEVnNXc?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "손흥민 떠난 토트넘, 노팅엄에 완패…49년 만에 강등 위기 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZ0EzWVZ6OVRqdmdmOGJicTQ0Y0tORlM0LUNRQWJBUzZFemRzc0U1YzRaWkxELTFZSTdGT3lxYUxoejRZTkFTTEdEbFRWV3dSLUxaZlV0aFo4WEJqd1JkYtIBeEFVX3lxTE9aN0NRamJsUXpvcXpnVmRkNGpuRXhjZlNwSFhwZkl1bmNnSTlYV19iaU5kTW1mLXFwdVczVmRZUkVXZzlsenNQZjQ0a2ZrZjItRmRfTVE5MkRURDQ3MlFjeWVXT3YxVHBkZE04ZXFPZzZPQ3ZWNmttVQ?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'주장+감독 불만 폭발' 맨유 오심 논란→전직 프리미어리그 심판은 \"둘 다 페널티킥, 주심 이야기 듣고 싶어\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS0NUbDk2UGFzazBNV1YtWWliMERSSkl2TXhrbmVBYWUzS3hvY1JiR0phdXl6WVFDOU01RFM0X2FzYmxscG9jWDFoWElDVDk4dGJCQXVn?oc=5"
         }
     ],
     "transfers": [
