@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-03-26 10:41:12",
+    "timestamp": "2026-03-26 11:40:19",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Premier League",
+            "title": "Pick your EA SPORTS Player of the Month - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkpocnBVNng4VFRhSDJXNVhNVEFFcnptV2xPeUJGZ2FLcTc4OFJuWVkwZ0V0Zy15NEJ2VUpZTFpLQk9DRU53dHdORE9ISHczVExLRGJFM2NNNG9EV2QyMHlUem5GVXpIbHZOTnQxbmprNXdudWN1Sm81YVhIQVhwOFY4aEJOaHlTOVlQUHptMjdlTm5BXzRjczg4eGo?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Everton exploring legal options over lack of sporting sanctions against Chelsea | Premier League - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1BIYXp3RG9yTk5NYURKRDZQSC1VZkg4LWFwVmRJTUFwdGFTTHU5MXJKaGtFcVJET0FZRF9jXzNWcVdwZlNlOEtNcGk3aElVaFZ4cHgwY0dveDE1X1pVMk5qUkM2MVlzX2pHcnVHYll2Ylg1MHJ6NmFxZEF3ZFdMNy10QmFmMk02Y2JtTmF0aW1VY3NFVUJqcnJzMXlxSE52ay16eFNxTVVacmV0cExjQ0Q1SFNpZ0FIOXJCVFJJU1hFM3c?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man Utd, Arsenal and Man City transfers: Elliot Anderson, Sandro Tonali and Adam Wharton among midfielders on market - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM2FfTEUwS0pOZEY3STNETVFYZkw4T2psWXVVUEdaaGl2SFdrQXl4OEpBVklwTmNxUFV2SmVzc3dfYWFwYkd2d25QeVlhTXViTzlHb3d0Z21ydF9oOVN2WnQyYlpFQlFQMTk2UnpWSG1wakk1dm9jaWlDYl9lczVzZ3dTazI1emVQTWpvNjhhaG9taG11YUtwN1N5XzFxZEl6RXlSZ0hLalR0dUJ3aXZQbUd5RWYtSkVTUkFzOXQtTFNwSGNORjMwOXZpWGtROWVXZV9FZGR3VFNKdEVRLWlOb2xLeUdEeVdIZndnYXBKQ29lQm9NUWFEVjQ0cGo?oc=5"
         },
         {
             "source": "BBC",
@@ -66,11 +66,6 @@
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "손흥민 떠난 토트넘, 노팅엄에 완패…49년 만에 강등 위기 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZ0EzWVZ6OVRqdmdmOGJicTQ0Y0tORlM0LUNRQWJBUzZFemRzc0U1YzRaWkxELTFZSTdGT3lxYUxoejRZTkFTTEdEbFRWV3dSLUxaZlV0aFo4WEJqd1JkYtIBeEFVX3lxTE9aN0NRamJsUXpvcXpnVmRkNGpuRXhjZlNwSFhwZkl1bmNnSTlYV19iaU5kTW1mLXFwdVczVmRZUkVXZzlsenNQZjQ0a2ZrZjItRmRfTVE5MkRURDQ3MlFjeWVXT3YxVHBkZE04ZXFPZzZPQ3ZWNmttVQ?oc=5"
-        },
-        {
             "source": "네이트",
             "title": "'넥스트 레전드' 제2의 손흥민 나올까…프리미어리그서 입단 제의까지 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vTVN2UHpsenktczFwdlFjNUdlUjBEWFpiU3lHWjNfSXpncW9pU1gwSUs3bGVDLXV1OXZfNzdEeUI2SGlEU2ZOcEJjUlMtZTZBZDkxWVdDUVI2NXJySWtHZQ?oc=5"
@@ -104,6 +99,11 @@
             "source": "xportsnews.com",
             "title": "'109골 64도움' 손흥민 이어 살라까지…EPL 전설과 또또 이별→\"한 시대의 끝 도래\" - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qcnh0a1Nnd2xfQnRDZVlmelBlUTdrYl8weFFfZmtHWUVNNC1ZbFgtWnVsSVJPNjJ6S0NwbEI4dUNHYlAyTF9zWDNCS2thcW56Y1NLUg?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "‘주장+감독 불만 폭발’ 맨유 오심 논란→전직 프리미어리그 심판은 “둘 다 페널티킥, 주심 이야기 듣고 싶어” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9scjdBVjNlSmVGOXRlYWRvT2c5UXZoaTBjdlRuNHp5OXk0Yks1NjhsYURRTkE4akJ4UzFkXzFwSkc0bTBSNXBVVlJySUl2aC12Y0s5VmFtWHBfVjk5cEtsT1N4YVNqdTV5TXlQSld5M0hDTXNT?oc=5"
         }
     ],
     "transfers": [
