@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-03-27 08:37:45",
+    "timestamp": "2026-03-27 09:42:35",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Premier League",
-            "title": "Pick your EA SPORTS Player of the Month - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVhLSjJYUlBXTl9TMEpYUjdNZTk4RkRFZm5ZQUlWanpTWnAxVFJsSmlFdW82MDZVLWkzR1lBUGlmUEVKZVhMTHE2bi1BWk81OTYxMXFoRlBWa29HRU41eE9GWTBra3VMUnljLXlhM3lIWWVsRmJGR3dULWpIYktDay14WlhQMjlXMDBfV3V4QQ?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "Refereeing and VAR errors increase in Premier League - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaU0pfYWV4Rk11NEVHcW8xdVM0amRfVE02VHdWTlA1TWZETENjVFduQ0tTcHAwSjhIeFh0bWswVS1jYmN4bjNmdnNPMXUtbnYtejVSa2pMUEI3TjVkMXNTbkttTGU3LU0?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Pick your EA SPORTS Player of the Month - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVhLSjJYUlBXTl9TMEpYUjdNZTk4RkRFZm5ZQUlWanpTWnAxVFJsSmlFdW82MDZVLWkzR1lBUGlmUEVKZVhMTHE2bi1BWk81OTYxMXFoRlBWa29HRU41eE9GWTBra3VMUnljLXlhM3lIWWVsRmJGR3dULWpIYktDay14WlhQMjlXMDBfV3V4QQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -76,9 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MLV9hRW5IMnV5Mk0yaEpReTdrbk5xNEpsLVM3dGZ5eUx0ZS1fYVRtcHpvRWtRNWdWV0NLT2w3ZDNKVU9YOHJuRHZqS1d0M3E0S2xVRlV6bFI5eVNmcjdtb0l5bnVsWnVvN0Z3NXA5UGhnb2hpM1E?oc=5"
         },
         {
-            "source": "starnewskorea.com",
-            "title": "손흥민 OUT→7개월 만에 파국 '무려 감독 2명 경질'... '2026년 0승' 토트넘 EPL 강등 '초유력' - starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wd29XZENVUW5PaEV3dWRvTjlyTkxYVTVCbHEzZjRGYWpRdG5QMXQ4dlVRX0ZRODNTTzhYVHpQcGdVLTZrSWY3WUFvT3BKOXpIdi1PSndnVGp1WXMxazc0aFZXU05jRjk5T1NNYk5LcGg2azdGSHc?oc=5"
+            "source": "v.daum.net",
+            "title": "'투도르 잘못이 아니다, 기본도 안 된 토트넘 선수단이 문제'…EPL 개인 최다골 레전드도 비난 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZLUd2QU9zeTRIUnNlelQzTTRaLXV3Qk5XOVFudzJ2bWJaTEduRXJ1dXdpVEtrT0Z6RWQwYlpXUFhOQU85WS1OdmRaSzQyTjg?oc=5"
         },
         {
             "source": "네이트",
@@ -86,9 +86,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHdVJIVFNfcGlhQ2g2cmFTRnJZdDM0eGkwRnNVSTYwMlNqS1AyV1haYk5qUEF3alFZY2x2VGYtWll0NDJWRjQxc0xaRXNxTnBwUXhhTU5rZUIxX0hK?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'토트넘 강등 위기로 몰아 넣었다'…프리미어리그 주간 베스트11 선정 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZzVtTXcyeHJaLWNMZzU1ak5yd3JWQXNyNmRqa2NsbDRkUVdlWmNpOWU2UlBNcy13M0RCYWtqdkJhczVZdTFfa2FyVEVVRnM?oc=5"
+            "source": "starnewskorea.com",
+            "title": "손흥민 OUT→7개월 만에 파국 '무려 감독 2명 경질'... '2026년 0승' 토트넘 EPL 강등 '초유력' - starnewskorea.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wd29XZENVUW5PaEV3dWRvTjlyTkxYVTVCbHEzZjRGYWpRdG5QMXQ4dlVRX0ZRODNTTzhYVHpQcGdVLTZrSWY3WUFvT3BKOXpIdi1PSndnVGp1WXMxazc0aFZXU05jRjk5T1NNYk5LcGg2azdGSHc?oc=5"
         },
         {
             "source": "edaily.co.kr",
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWJtdjI5QTNnZG5vMzl0ZGxNVFdrTlNBT1dfVEdpWU5xdlAzWlVGTXF1ZEtDVk5oSmxrTVRxVExUTl85dEFIejl1TGhqQVJlUk5XY0hHclZXRjJpT3phRlMyZk9CZGkyWGR4dnJKU1g5MTZBZHRTSm9zUExpakxqbw?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "‘EPL이 끝났다’ 손흥민→살라로 마침표, 韓 현지 언론 “수많은 팬이 ‘바클레이스 시대’ 끝났다 탄식” - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2YXJ4Y1dpOExpaUJpamQ3dTFPTWVINzcxaG1wa1N4ZlRGakhkVlhDUG1YeGpVLW16OGlJdHp3dzhweHVEXzFOcnVSVklLdk5wa3VnVGVyQ2Z1MzRnSXfSAWNBVV95cUxPZE85ZFFzMXhkRFRqN2FVMkgyd0ZHUmhOZGdtYmtITFB5aU5SeThFWWxqZHR0eFQ1Mi15aENMLVF1Y0FrX3dKNFBFSEl6cC1PdmRtaW1KRVZkRWphSERJMGt0Z1k?oc=5"
+            "source": "뉴시스",
+            "title": "살라, 9년 몸 담은 리버풀과 결별 공식화…\"이번 시즌 후 떠날 것\" - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6a01CT2dON3FvekNCSDRJejR0M1dJUFkxMnpGUjNZR2VRN2tvbkYwWW12aWdpbzNBUk9YU2tJMlNmQUZWcWpqT19QWHc5WG1QLTBtMGhHQjdCcUZHMzM4etIBeEFVX3lxTE5RUjJrZElxT1NPcWJfOFUzV29SUGVfWnc1cWxiWERPdzB1b3VJOE9KUUdqUGJ6bWhBVHQ1SjU1WlhuRFVsRlUwZFJjVVROVUdCR013aVo4bC1iQ2xycnBmZjl2Q2ptMU5hYldzdHJEU0JnWnlFY1FXNQ?oc=5"
         }
     ],
     "transfers": [
