@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31 22:23:38",
+    "timestamp": "2026-03-31 23:23:44",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -36,8 +36,8 @@
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2gtLUhLQzlsUmtXOGxCM2pDblkzVFJBa1FLN2tHYWJUSUE5bUx3OVUtWnJpb1g0Z2NobU1VQkFkYkhYZFBLMjA0ejFWSm1GNzQzZW1aa3VpQ1pFMUxIY0ctWVlvRVdWVU9TUnBuLTFCM0h6ZFdhMVJCRTR4Sl9DYUhGRlItVFRHbnJZMzJqdEZqN253VkpBOW91R1lzUjR0R09SS19UYkM2WDZxUlNqWUdNMDdVMTQ?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Igor Tudor departs Tottenham after 44 days in charge - The Athletic - The New York Times",
+            "source": "nytimes.com",
+            "title": "Igor Tudor departs Tottenham after 44 days in charge - The Athletic - nytimes.com",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDYwYk53eEF6V1I2TThxS3RaT2RMZzRiU3E2SHhZcEt2YmR2ek5pbHUzdkppWkxkZ0FFTUk5UkJkSUs1WmJYU1FRNzBpRkl4YWtGTFp3OFdiak9QZVphYVJid0VXc2xnaFVKVEZhR09vWkFIVkRVVm51TFhMaFhhTEp1UVlOa0E?oc=5"
         },
         {
@@ -46,9 +46,19 @@
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0hwTWJMbWNza0c1YmJTSjVJYi1mWWR5S2FCcWhtdUFGcjZkcWN0REdwRVdnZXVvS1U2RDMxQWVUaUh1S2RjbjkyVmRpYU96djVMTmZvMy13TXd1eGljcTVSbV9fUUtjNjAzUE1Wek5GOHpSZ2E4S2xpUENGSnhWWmV0VE5MR21CWEgxc1d6ckZqV0dUM2EzVA?oc=5"
         },
         {
-            "source": "Yahoo Sports Australia",
-            "title": "Is Arne Slot facing the sack? David Ornstein reveals Liverpool's stance on under-fire manager - Yahoo Sports Australia",
+            "source": "au.sports.yahoo.com",
+            "title": "Is Arne Slot facing the sack? David Ornstein reveals Liverpool's stance on under-fire manager - au.sports.yahoo.com",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DVXZYZVgtdXlwMU0tUjlBVjB4LTZoOEdXZnk2RWtLZHpwOHI4SnJRdHlLX0ZSUVBhTi1lSDFNV0Z0U3RwVXRaSlU5cHBHX01HX1pQVjE0WHZKYVZ0aDhpNjB4WkhpNGl2SzdzNjdhaWdnOEhQcVp0eVFB?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Scottish Premiership news, transfers, rumours, gossip and more - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2hkREZYQ3lIQXowejRsNEEtamQzR2pjWmhSaXctdFVvc1dKSkROLUJCa2kwbGQ2M1hnTkIyZWt3SGZVWWg0M0FfOVdzcjlDSGN4SWcxTGZZNWtnMGN2ZkMycXFPTVY2X2VKbGdITWl2QjR6S1JaeXlEeDZaMm9CYWc0aTk4anVDQzNlekJISEg4TkMxSlJLMWJpRWFOSVByenVZc0c3dGVWYWNDT2pMb2JTa1pQYVdFWWpN?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFI4S1VBOU1CM296NndNQkpPMkNZT3lqb1BaX0tRQ2U0SUNwUUdkc2ZwUVVvcE90NnItdHl6SkdOTU9CTE1mSFFya1pSQkF5REpFaVdOYWlzbndOa1J6emhKalpLUXRqVzF0ZTg5dzVTNHJWaWNIQmhtZk16VVloLTJnLUFiLVN6cFkzREoyd25ieW5uTDBTUk5UZ3lMaWFKNFF4VWV5N1U4N1h0RHc0aUhEeGJBVTM1X1RJdU9uZHVXQWNPUEhmeHdLNUNlaVNhT2dHbVRqV05qREpFSmVwZERnWC0tSkEtZFh5dTk3eFRMdEcwUGd3?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -56,24 +66,29 @@
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeEZUeklSZl9YV3FKNUw1VUhYOVpCZ0NpYzF3MGE2YlpEeDRFaEVyYmtWUnBEc1JuWnRyZUdfQjFLclZoZ2JzOHRkcFZIRVRyallmS2lIWTYxaXBIRTZRWDRyUlFhWXRMeFNnVndXZkJqcHh1QmpsSTVNMlEydXQwVVBCS3hFUmFHUEM1NmVyRHZZcHNfQXBFdHZhVmR2RWNEd3lsLV84b3pWYjlyZGJzV2Y4eG9vbkZ1bXltLUx5bTU1VzloNFNMSm9yaW5XcHlaeFFuRk05aGxvZy03ZmhwQjZMcjZ5aTBiX3JQU2l2RDBBQ1FzRTdr?oc=5"
+            "source": "네이트",
+            "title": "EPL 무대를 밟지 못한 FIFA 회원국은 모두 83개국…중국인도 있었다고? - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TcEFONjVNQ1FadThhQlB6S2tvZVlVOHpoamZ5X1oxRUlNOE5MVXlMVlRGMktCY3hHWW85ak1ELTU0RzBnYXoySUtWeElkOEhjSGNveVRB?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "source": "chosun.com",
+            "title": "\"프랭크 실패→투도르 붕괴\" 토트넘 초토화, 데 제르비 선임 \"순위 끌어 올리겠다\" - chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTd1YmhVUHdsRmhwNXI4LUQtUFpOSXg4T2dGaDAzY0pfY05VdV9NLVBVb0R1OU4yNFZnUG53cThwdElmbUdycHVtLXRIckJmZU8zMzZLVEpCcUdrTFRPc2M3dFBkLVFHV0hHWmFsZGJRNmFna1FhMXpxZklwYmpwbHZvQVFvZkM1SXRj0gGfAUFVX3lxTE1pd0hab0UxTXlTVnh5OWk1aFpQbkxYd09KakxxWEtiR2dsNWk1SWxsU2s1NmQzTm9UVThXV29qZTQ4UWZBd0ZHZjVKVUI0RmV6dGtGd0dYemVYZlFOMWM2ajF3R2VMSmJtTUFlTFJ1aWs3TzdYQkhqNVBjblo2Y0RLWDB2TkptRTkxRHY5LV9pRG1tQy1PUmdoU0VYQ2FXWQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'강등 위기' EPL 토트넘, 새 사령탑으로 데 제르비 감독 선임 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRjV4bFgwMWwxUGdmQlBUSjJMMTZqeURGX2NDNHZJU0gzOG1TR3AtUGtnWHJ0cjFYSWZoZ0c1TnJLZW11RVI5cV9heGtCZGM?oc=5"
         },
         {
             "source": "sports.donga.com",
-            "title": "EPL 무대를 밟지 못한 FIFA 회원국은 모두 83개국…중국인도 있었다고? - sports.donga.com",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UVTdsamktRzZQSGNiQzRNOFRCdG14YkhZMDUycjlYR0Q3R1ByU0o5ZUs5NE44cmhkWVVhX3F1bkxKZzRldkFsOExiOEkwSWdudDFSd3dqWS1qNS1TVU9oVmNLUElTTFNSbXlZS1F1SUdZZw?oc=5"
+            "title": "‘13G 연속 무승’ 토트넘, 강등 시나리오 또 나왔다! 그들보다 더 긴 EPL 무승은 더비~미들즈브러~선덜랜드뿐, 모두 챔피언십으로 - sports.donga.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GczdGVUNJOGIwZkxIYkw0Y1ZIVlBIQTZjTEgybnpiRGR3Ykw2dndtWjdGdFJsX0puR1VVYWRaTWoyNGJsZ3gyYkMzQ2c4MEVlTnRMejFNR0Nmb3U4Ykczd2I5a3V5Wmx3aWdzanU1T2w1dw?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "\"세계에서 가장 큰 구단\" 토트넘 지휘봉 잡은 데 제르비의 최우선 목표는? \"프리미어리그 순위 끌어올리는 것\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JMjVoZXNFeU1CMVRzQzJhc1NRQ3pCMmdndTB5andvV1kweGdiMk13eHNQN3YxdkZoM2xJODhscFZZblo1VGw3dUVJaER0eWxZZFpxNFZVdHJMWmU5?oc=5"
+            "source": "chosun.com",
+            "title": "‘손흥민 전 소속팀’ EPL 토트넘, 데 제르비 감독 선임 앞둬 - chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQmVUMzhMaTNQUmlYRkEycXUtU2pnSDF5ZjRqN0dNTEJWbUwwUEFvV2h1VHBHODk5UE9wUTRnWEhRNldOaF9jdXYzRUhMYW1xa2ptX0pncmRCRWlvZmxyeWxuZHVjc0p3dGROY1Rsem81N19VUTVQVi14WENoUlVKR2d4Q010ckk1WlBJ0gGfAUFVX3lxTFBIY2dCRGRDLTROMmgxdnRKTHpoZ1M0OEtKa2Q0NEV2eGFWQ09XSHZwSTBHU1k5VThkRlMxRWgzemEyc3lUUHp1el9tdENiVnVvUlVzNTRnbllSSFM1dHE3dTh0RDRMVEJqU0tnb1FDcE1DT2ZSLXNXYzc5ZU5aSEFRaUJjcm8wRVh5WlY5eFZmd0FHVEtHaWZYWWZiaUlQRQ?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -86,24 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GNDctN3N6X2lUd0FBVFNEYUtjRnNMVTNOaDd0YTlXaFc2X1NqcllkTERCUUd0bW55OTdxYm5GTGFTdGZBT3g2RjlQN0g0S3RDX3ZwNXRnVG9fRDRoWFZ1ZDdoVHRDLUxrblhsYlhiRzJ5QQ?oc=5"
         },
         {
-            "source": "xportsnews.com",
-            "title": "\"황희찬 우리 팀 오자\" 매일 같이 러브콜…'한국인 좋아하던' 그 남자, 토트넘 지휘봉 잡았다→데 제르비 북런던 입성 [오피셜] - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aLUsyTHVLVUNDY0FHZlZMWkpOU3VuYlRUOWhTQk8yTUlIdlEzSGV1bkZhRHliTkpaMW9iU0QxZ29VUDZtTW55a29ILTNHemNQMG1pOQ?oc=5"
-        },
-        {
-            "source": "OSEN",
-            "title": "“손흥민·살라 떠난다”…PL 아이콘 공백 현실화, ‘스타 부재’ 경고등 - OSEN",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93MHZKUU9xUmVMamx6dDR5TjNUME9pdTZqbWZRSTJLT1ZkQjdYeGtkUXV4QkNaYkRFdFY1RHpHNDRmVDVJdTc2b2huVWpWMnp5bG5N?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "[공식발표] '충격' 손흥민 주급 겨우 3억 8천 'EPL 빅클럽 최저 수준'인데...레비 회장 'EPL 1위' 115억원 챙겨 '전년 대비 50% 이상 증가' - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1US3RCbG9tekJqWk9Kc084NXRPbTN5S1JaTEVpdzNqc2h3STNqWGp1UUV1YkpJN3lXVklfSWtVOTNHSlZZTVRBbzdfbEhZbFF0YzdnQUZoTVlKaWpjbm5TYW5tOFVtMzJleVdfaVd1QWNnc3N2Umx4SU1WbDhHQdIBd0FVX3lxTE9RcUN2SjBwdjRTejJlaFJXNDBHcHk2djlNeS13VFBUX05vZUxNV21RbVpmelJZaGNMa09iY24wd1FfdDF0OFY1TGpILUtuZ09BWkJ2ejRzUlhodDB1V3dEM2Nqc2J1V01UeGI3QnJmY0V4WmpqZ2pV?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "프리미어리그 최고 미드필더가 맨유 유니폼 입는다? 1티어 기자는 \"맨유가 선수 측과 접촉해 정보 얻고 있어\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CWVQ1emc2bmNSVWY2bnVxR2htR3RCSmVyVC1rMmw5eXR1bGcyLXVLV3ZHTU5LYncyV01CYU9nWEdHMUd2ZU14ZGVETEdhQ3FJOWVaVFZjNlpBbUFl?oc=5"
+            "source": "한겨레",
+            "title": "고군분투 ‘손’ 떠나자 토트넘 휘청…강등 위기 뒤엔 누적된 구단 패착 - 한겨레",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQQWhuekMzLTV3LUtERW4zTWozeHFQYlJrWG9fS3ZyZFJVbUkyOEtwakNCelpiQkRMYXRaZkszUDFBcm4yOEgzLVdLZTNCQnl3QVJRTUtTNzhONENDcXdzRGI5Tmg?oc=5"
         }
     ],
     "transfers": [
