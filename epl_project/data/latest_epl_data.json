@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-03-31 06:09:27",
+    "timestamp": "2026-03-31 08:00:29",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "Sky Sports",
+            "title": "Tottenham bosses trying to convince Roberto De Zerbi to take managerial job now rather than end of season - paper talk and football transfer gossip - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWnVCb24zVG9ja3g5ZjdTNlU2eHZsU2lYcXlJN2lPNEx1b0d4VmZjdFB5VklicGV6VlpDQk1LS3FkUFRJMWgyWmNXamR4Wm92aE9HNnUtMFgzNHdUOG55X3FDVmE1UmRHREFvNzZDNk9VU3dQX2tzSFR2MlU5dFJZMm8zT3FnVG5aZ2ZRLXRGYkR6QXV1YTBVTlN1R0JvMURpaHhZN09hUFdEVGhpMGU3Skp4NTg2cWxlVGVoRWEyZzB3NUh6WW5zRDBwc2J3cGtyT0UyU1VZLVM5YVBveHhCWHI1cXB2VWxJX2xEZlBwa1VPdHZtQUJiOThSWkQ3Sm12dXdqMWxhRk04REdfR1BFS1c3QU5xNWktZU9oSnRiXzIxakZuNm1hTmxqQnVtSXBTRmJUV0RkZHIxcVU?oc=5"
+        },
         {
             "source": "BBC",
             "title": "Sky Sports TV picks: How they work & why they are headache for fans - BBC",
@@ -12,23 +17,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "'Igor Tudor's departure was inevitable as Spurs roll the dice one final time in search of Premier League safety' - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOWRPSThrTzAzYTRnR3hRMjJ2cWJMRHJmTy1WNUloMUQ4Y3l0c1pCUmZiaU9BeGZnLTlkbzU4ZXZoMnZ6bVBnWVNqcDBiemQ2QUNDTVVCQVZiNE5oVVVsazE1YWlvYTM5OWwxSEk2Y1BSTDBmaUgwUzRra1Z4Vi13RUVVXzc4WHEtN0JvOTBpV2FhamM5cVhBbEl3QW5LTXc5SUI4ZV9PU211YlpGZUFLaXJCZ1laWFJIbXYwdnM2NGVEbDZlQ18tYXJSTTlQbGRpcXpZYm1fN2ttaExuek1LVU5sSWozMWFRS2hWNDZHMGtCMS1UZjhR?oc=5"
-        },
-        {
-            "source": "The Mirror",
-            "title": "Arsenal stars 'should be banned' as Premier League told to make new rule in dramatic rant - The Mirror",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFNYYjJwSDF4S1YtZFU0S3hBRmRDUHRuLVR3VXg2eXc2WVRiRFd1alp4SWstNU9nNXFqZ094eW13MGtCdTMyTUF3R1N5aV85V3hhemVqSzBibUg0X1hBX3lTdkRJUWhqbUFQS090eVBqZDQyUk5FNFFNUGpydEhKOFg5SDhKSTJHNTg5aVViTGxEZ9IBlwFBVV95cUxNa1h0RUgza3hJaGRGaHVVaUpWWGF5UkZ0UkkweHFUcndFdENENEh1RVNzNVNBSVRLU21iUER1T3c0NUpJdWwtX19veU5BdDI1VmdESVpUOXdyT1hFU19qZGtwcHdkOTVvb3ptV0d3cW9EMTJtV1dCUHhFODVvXzVzMTI1Um1DYUtaMHhHVlB4bHgxNTI3UmVR?oc=5"
-        },
-        {
-            "source": "The Empire of The Kop",
-            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
+            "title": "10 players who only scored bangers in the Premier League - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGM3Ym5Va21FOVFTNy1NcWc0cmJQQTRhNUNGdHpyRmVuSldYS25lZFFCXy1aQXRrUVV4MVM4WWRHVXFsVTRMUEJWRTVDOVlvRTFIVDlzeUs1SXJvNTl2SzRFbWRaWDhKaTRoN0U4SnpYVnlwcmdmVmc2TlRhZzJkUFJCc3I0X09wSVFKV1hJak1kdlJkYU45dGVXZC1RQmxUdlVWaGZHQ0FMeHFjMk1hU0h3?oc=5"
         },
         {
             "source": "TEAMtalk",
             "title": "'They love him' - Romano reveals all on Arsenal chances of blockbuster Kvaratskhelia transfer - TEAMtalk",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3gybjQzUGRMdFBWX3VmNjhHZzVheWl2bEEwWFBBZXFpaEllQWRqNTJSUkNkN3JYdGJpaU5mUGNCbVV4NzNOek1EZ0RzX0pySnBfRzFGbld4eFhsR0NFay1SZm92U1N6amJFVHE4QmphTFhpLVVvLUh3OW5xem44OTcxaUtLbnlGaUFGQVpOdWJNNFlXRmkwaWVXd04wR3VkWHBFUG1Db29nWkc0d2dRTWF3?oc=5"
+        },
+        {
+            "source": "The Empire of The Kop",
+            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
         },
         {
             "source": "DaveOCKOP",
@@ -66,29 +66,29 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
-            "source": "한겨레",
-            "title": "고군분투 ‘손’ 떠나자 토트넘 휘청…강등 위기 뒤엔 누적된 구단 패착 - 한겨레",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQQWhuekMzLTV3LUtERW4zTWozeHFQYlJrWG9fS3ZyZFJVbUkyOEtwakNCelpiQkRMYXRaZkszUDFBcm4yOEgzLVdLZTNCQnl3QVJRTUtTNzhONENDcXdzRGI5Tmg?oc=5"
-        },
-        {
             "source": "v.daum.net",
-            "title": "팬들과 기싸움까지…토트넘, '성폭행+협박 혐의' 옹호한 데 제르비 감독 선임 → 英 BBC 떴는데 현지 서포터들 반대 성명 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aUGg4c0xaTmtSY05HQmllWlVJTkpPdUFoT0lZRzFVTlhRN21JSGJtV1pYVEs0Z0F4ZkhhYlpJcTZFbVRBUmc?oc=5"
+            "title": "'강등 위기' 토트넘, 선수단 대탈출 신호탄?…'손흥민과 트로피 들어 올렸지만 떠난다' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KRVFjNkFEakZiS2hqdm1tS3V6c045bi1sX1BOSnVFQm9xZy1xVk9peWpERWxkd3U4N1pKYW9xQjIxVnJJbERrajVSTVZreVk?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "프리미어리그 팬 75% \"VAR 없애달라\"…구단들은 '유지' 고집 - 네이트",
+            "source": "news.nate.com",
+            "title": "프리미어리그 팬 75% \"VAR 없애달라\"…구단들은 '유지' 고집 - news.nate.com",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51VVBJZHB1S2FkeGp3dGpRNHRXZFJzZlFEOFhZQ1RfODdIczdXVE9kRW1HcjdnckZFOGFSRHNtYUUwUE8wZmZGamFfcUFVMXdfZ3dXZTdBZElDaGlhYkQtNzhHbGFLYi14eXY5YVNpcXdnY0dEYWRnSw?oc=5"
         },
         {
-            "source": "sports.khan.co.kr",
-            "title": "‘제2의 손흥민’ 찾았다! 프리미어리그 ‘선덜랜드’ 입단 테스트 주인공 탄생 (넥스트 레전드) - sports.khan.co.kr",
+            "source": "newsis.com",
+            "title": "'손흥민 전 소속팀' EPL 토트넘, 데 제르비 감독 선임 앞둬 - newsis.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcUZzSFpTS2dQYjl1MGxkcC1WWGNjVHpKWjU2MGxxMjlMT3E2dEpCbW5kblFneUw1Z0g0eGhBS2ljb0wzVms2UHcybzhoMTFtVHc5ZHV6X3UwNzRWNk5fOdIBeEFVX3lxTE5sX2JPZjNMMGpNc0Z4T3pzX2xUTVI5RHZfV2lod2Jmd1dMMDFYRHo5eHd6TXMyWlpaa2VBTzlXUmVUQzd2UTNiMTlVS0N2ZXVkSWFpQkY0cWJ2QnZ6UWxPVzl0MjdiR0xLeE9mem1NZG5WV2JabG1vZA?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "‘제2의 손흥민’ 찾았다! 프리미어리그 ‘선덜랜드’ 입단 테스트 주인공 탄생 (넥스트 레전드) - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtQTVaamVXRDFldmp6OTJ4Ml9KUFNXbGUzZUs2YU5ZVnFyanRUMFkwZzZpM1Mtd0o5XzlSTlhSckhUWGlZNzEwZWZnXzBCRFNGQ21ZWE0waFZldVdMS1HSAWNBVV95cUxOcGhuajJOSnk5ZGs2VzZidzdEbTBCVHhyZW1XbEpzdnhJN0lCYlczZFVuTEs1NVpETmJ5cVlnYmE5U1dSQU5YbzdJX0pPZ1dqVG5vdXdyZmZxTkRVYUNBQ3JXcFU?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "'아이고!' 아스널, 이걸 어쩐담...A매치 기간 무려 11명 부상 이탈 'EPL 우승 경쟁 적신호?' - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82bHBsb1pNZEdwOUxtTkFXbnFpQUNralRxR2NfcWJuN1ZpdmxDSFY3YWd1TGh6OTZaeERxUUdsZnRnd3cxQkwxbHlnMkMxNkdINXFKYmNVWEJuM1g3NkQyVTZ4MVA0Y29sVnBEeE1fY9IBc0FVX3lxTE9ZNkszN002em9xdW9oSURhd0M0QWNaTENxckYzNHExcHA4NVR1ek1TUkk5LUNNSHhhajE2Q1hscG52YkVkbkRvdVhUNXgtNFY2YWFkZzR3OUt4Nk0yZXN5UVFWR1JMbFNrVGNJZjM3Y2wwaGc?oc=5"
+            "source": "footballist.co.kr",
+            "title": "[오피셜] 나니 합류! 수원 레전드와 상대하는 '프리미어리그 도움왕' 레전드 - footballist.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GNDctN3N6X2lUd0FBVFNEYUtjRnNMVTNOaDd0YTlXaFc2X1NqcllkTERCUUd0bW55OTdxYm5GTGFTdGZBT3g2RjlQN0g0S3RDX3ZwNXRnVG9fRDRoWFZ1ZDdoVHRDLUxrblhsYlhiRzJ5QQ?oc=5"
         },
         {
             "source": "OSEN",
