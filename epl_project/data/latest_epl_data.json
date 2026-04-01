@@ -1,19 +1,14 @@
 {
-    "timestamp": "2026-04-01 20:33:12",
+    "timestamp": "2026-04-01 21:31:50",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Chelsea finances: Blues record pre-tax loss of £262.4m - the biggest in Premier League history - BBC",
+            "source": "bbc.com",
+            "title": "Chelsea finances: Blues record pre-tax loss of £262.4m - the biggest in Premier League history - bbc.com",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Iejd4LUw4Yl9mYmxtZ2FBRE5DZjVBaGgzMHpSaXJ2dzhPNEJCdGVNUjFVNHpBZjFWNkg2czh3emQ4NzhQRjQ1dEJGbmM0MkRpSFRxcXJRN3VCX2x6dmx4RWEwbXRheEE?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Why you should go BIG on Man City again for FPL run-in - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSDV3LVFuVldSUkxmNUN5RklOcV9xNkxCYnhTXzNPcXhrNmxkZkxrby16UjR1R19RdXFEaS10elFoUllHbjlFV3d6S2pXdFJvckZGUXhoQ0E?oc=5"
         },
         {
             "source": "talkSPORT",
@@ -21,13 +16,18 @@
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzM3WXdXb3hQQk4yZThfMkNwdDY1bzVUaTR5OFhzUnNxSTJNRTRsTC0tNU1oQ2tmVnVXU2ZGM1NwYkoyMDBvdnpRMW5kb3lVc25vMnd6blBDU1E3Mm1mUlZ2alQxSjdVVzJ5TXJra1BnSDZnRG5Ld1RGaVZDT0tKdTdhVGwzd21kNzN1dVhNbGs?oc=5"
         },
         {
-            "source": "The Empire of The Kop",
-            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
+            "source": "thesun.co.uk",
+            "title": "Prem icon, 40, leads wild nightclub party with arm in sling as Bosnia stun Italy - thesun.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2F4WWZoTnVfcXVGeEVIVHVnQ2twdUItRmI0ZFRWcDVwOF8tRTdNUVcteEVKdXJTVnVYMmVKbjFaUTJiUVd2U3lKaHJvbzNYRzBYSmxMYW0xNTVuTTJxa3hhSXdaMnhlYWJEc2tNRVRZeDAxS3YyOUFyYXljaXdFVWdwbVQ1cmxv?oc=5"
+        },
+        {
+            "source": "empireofthekop.com",
+            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - empireofthekop.com",
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
         },
         {
-            "source": "DaveOCKOP",
-            "title": "Fabrizio Romano explains why Liverpool passed on signing Nico Schlotterbeck - DaveOCKOP",
+            "source": "daveockop.com",
+            "title": "Fabrizio Romano explains why Liverpool passed on signing Nico Schlotterbeck - daveockop.com",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2gtLUhLQzlsUmtXOGxCM2pDblkzVFJBa1FLN2tHYWJUSUE5bUx3OVUtWnJpb1g0Z2NobU1VQkFkYkhYZFBLMjA0ejFWSm1GNzQzZW1aa3VpQ1pFMUxIY0ctWVlvRVdWVU9TUnBuLTFCM0h6ZFdhMVJCRTR4Sl9DYUhGRlItVFRHbnJZMzJqdEZqN253VkpBOW91R1lzUjR0R09SS19UYkM2WDZxUlNqWUdNMDdVMTQ?oc=5"
         },
         {
@@ -57,8 +57,8 @@
         },
         {
             "source": "skysports.com",
-            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - skysports.com",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
+            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - skysports.com",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0lnbmFOcEx1TDBjZG1fem9ic3JQNFRfa05hT3R6alQtOHk0dXNfQkRTd0NLa0hTdThQaXhFSHFxdVVsUVpVU0R4VDBrbmJsQUpQMWQ4RTI0N0tmYTBWUDV2d1dYRVphZi1idE1WNVlLWEZTUF9EVFdURVg1QlJLN2k0dXVWUVY1ZFNqTXJaQ1NqeW5NWDRzR0RHeDFJV0dqSDV5a0d3TUcwaERGWHNhd20zaWhqMnNkN3hWcExlLWF1UWJmRl8xa1VPVEpYeFFwaUNDVklGeU5PNHdrQjZ0Wjh3Qk5TZkhMMktiMU9LNlRGelZu?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -66,8 +66,8 @@
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMTZyV3o3cTJaQjZWcjJESll1aEFaaUxxOTZxS2dRbVVSN25IZEprTEZqeFM4RTdjOG9KX0c2RWdwR1FpaGFSZnR4S0RjV1pKQmh0UzQydlZybTlWcXBaNFRldy1UdWR1ZDNmRzVBVQ?oc=5"
         },
         {
-            "source": "news.nate.com",
-            "title": "'쏘니 나 EPL 복귀해'…'SON 절친' 바이에른 뮌헨과 재계약 무산 위기! 맨유 '러브콜', 바이아웃 '1140억' 지불 결심 - news.nate.com",
+            "source": "네이트",
+            "title": "'쏘니 나 EPL 복귀해'…'SON 절친' 바이에른 뮌헨과 재계약 무산 위기! 맨유 '러브콜', 바이아웃 '1140억' 지불 결심 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0anJsUWNDaHFELUtzVzVhMXdzdmIyMEdMNEdtcVAyeTdqelRSYXdOdklVLXl0QkhZMWt0c0hQYnl1RElQOV9BN2ZaZUUzUUNoWUUxRFhuLTBwRFE0Y3M0eQ?oc=5"
         },
         {
@@ -76,8 +76,8 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hNW05ZkM2QmJaaXg0N0RfaGVIVWFOc25NampMMEpoeUl4d3ljS2hRYTZHMXc1blJfT2hoVHNOeWxaMHJ6M0E?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "프리미어리그 팬 75% “VAR 없애달라”…구단들은 ‘유지’ 고집 - 스포츠경향",
+            "source": "sports.khan.co.kr",
+            "title": "프리미어리그 팬 75% “VAR 없애달라”…구단들은 ‘유지’ 고집 - sports.khan.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82aEhPQ251UmRqaDY2YThFdFh6NjF5SHhpQUtJd2hncTNYWlVENmpTZktIV2R0Y2dMSmRLSTRfUnc1bzRTVmZQSF9uQmVOZGRNcDAybmI0eFNPN0RKUnfSAWNBVV95cUxPWEhVTXNjOTBFQnMxUzNScW1Ib29fU2pLZmlpWG9yQU91VTl3eS1FQkhucE8xN0g2eVl5ZkZiY2I3bjU3UjVHQmpjbW5zWEZtVnU1WDk1clFheU14YmFXdU9OYlE?oc=5"
         },
         {
@@ -86,18 +86,18 @@
             "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQNzdzLXRaMUV4OU1KdlN5OEZjS2xOZWVERUNHOVAtbk8tWFhWcEx2aG9McUFaam54R012N19Nb29PQU1BdENtaGZBODJ6Vm12NzNvRHN2ZEVtNTBjUmpWRDdqR1Zzb3FlaGZ1NUlfR2F4WGVyaHZuclVfVUNtQzNNMDEybmV6MHBuNUNBcXBuNlgtTHRWSVVOWGtYaFhkdnlzTnlwa3c1Y3ZVUzVVZXhVUlM0OVV3RXRvSVpRdHV0ZWlJUnNnbXNZcWZJaWNzSnZhTEp5SHBkQk54RWV3UG5FMFQydHc3T3JPY1JBX19wWWJwclRVSndlQUZJSl9LazE5b1o2UDA3Zy02TWd6dGF2U3NLREo4bkxwWUVIV2N2a0VYaXd3SDBSbkdBU0VOSHFmTXk4ajlvYkdZN25UaThTQ29haDlvdTg0Wkdmcy0zc3RsVWJuTmhjd01SckFYaXBXM1VHQlJoUTFScUR3OENIbTFDRDdSelpFLXhpaVp3ZVFhdnhxZDM0Nm44ckYyLThRY3BYSXAyY19pQVlJOXNWZTdETEsxY3p5VFdwWGpuV0ZVeDJRY0xqUTNpUVllSkJKekVtS1J5VUo1MWtwbk9wd3FWSmJhUzlobjdRQkxFeTh2YktCdjVqeUFEX0UwcExIdDlsWFA5RDNhdWFnTVFmQWF1NA?oc=5"
         },
         {
-            "source": "xportsnews.com",
-            "title": "\"황희찬 우리 팀 오자\" 매일 같이 러브콜…'한국인 좋아하던' 그 남자, 토트넘 지휘봉 잡았다→데 제르비 북런던 입성 [오피셜] - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aLUsyTHVLVUNDY0FHZlZMWkpOU3VuYlRUOWhTQk8yTUlIdlEzSGV1bkZhRHliTkpaMW9iU0QxZ29VUDZtTW55a29ILTNHemNQMG1pOQ?oc=5"
+            "source": "sportschosun.com",
+            "title": "\"토트넘에 이 선수가 필요하다\" 5년 계약 데 제르비 감독, '워너비' 1호 계약 바로 이 선수.. 21세 '영건' 독일 청소년대표 공격수 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pRS1CYWg4SVBydWF4WDNVY1U1WFFDWjE4Z3BiZXZMNS05RjNId3cyT0dYWlMwd1l3Vng5UGZUTHhVSjR4dTJwZW92dHhMTTV6MldSMGo3ZTRLbm16U0twSDhsM0x3X2xnMFFlbWNwZWprWEY0Y1Z3OGVPTEFpUdIBd0FVX3lxTE1RZ2ZDUkZINVBEcDFwZFlvU0taVGotYkp5VTQ2Q2ZTcE5QMm1uZGZnSy1xN1FOanlDUXJOdGNBSGpkWlBzckRub1RVOTJZNFJ5bmFwZWtqWks2Z0NTREtmckIzdlNYblE0TnlXNWFTWXdlb2l6WjF3?oc=5"
         },
         {
-            "source": "newsis.com",
-            "title": "'49년 만에 강등 위기' 토트넘, 소방수로 데 제르비 감독 선임 - newsis.com",
+            "source": "뉴시스",
+            "title": "'49년 만에 강등 위기' 토트넘, 소방수로 데 제르비 감독 선임 - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MNVdYUThKR2psTlNWeENScE8wSXlZNWdsNjc3d19qZ3d6c29RWkNmR1lkdXZSUGxrNDJxLTdCcFVZT1RMZzkwYkNBTGJDdmptSUlJLTBMNFJjMFhVOWZtVtIBeEFVX3lxTFAzbzl1cG4tZUdTWFpmYTBfeU15VmoyeDJVRnVGbnZtd3ZGcHVjTzl3THlEMUtFN2tWUTZSTGxHTGNMMWlBRWx4SnpTa3pRb0Z2UjFKQzRUSktubkJrYkNTNG9yVVJWUVZjWnVJdTlOZXpXeWs3Y1AyRg?oc=5"
         },
         {
-            "source": "news.nate.com",
-            "title": "프리미어리그 최고 미드필더가 맨유 유니폼 입는다? 1티어 기자는 \"맨유가 선수 측과 접촉해 정보 얻고 있어\" - news.nate.com",
+            "source": "네이트",
+            "title": "프리미어리그 최고 미드필더가 맨유 유니폼 입는다? 1티어 기자는 \"맨유가 선수 측과 접촉해 정보 얻고 있어\" - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHhvaEhZdl80UjNuRUM1bWE0cWhJajlTRWF3TmJZLXJjRS1vOFVRUUJEczZtUnB4N3YzLXdxcWZLVjdsUTNqeFZiMEtWZFhCUE5yMVpfV2t4a1ZVcTNZdVNWWThuY0dHc2hlNVRYS1RyOUlMVTVxX1FzSlhVb3ZkellR?oc=5"
         }
     ],
