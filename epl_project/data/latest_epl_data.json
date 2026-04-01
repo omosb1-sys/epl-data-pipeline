@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-01 09:57:01",
+    "timestamp": "2026-04-01 10:48:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,13 +7,13 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Seven games to save Tottenham's season - De Zerbi becomes Spurs boss - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeC1YWWZRRWczVkpTSFc2R3drRk5FR0JSY3BlU3lTRkxxX3l0T2Z2TExxeUFoSTFwaUtYeTNvUkpnTFlaaFFBLUh3c3NnNVF2QTE3SXotQmQ5M3hJdkVIU01zRHBHVVNhY2c?oc=5"
-        },
-        {
-            "source": "BBC",
             "title": "Sky Sports TV picks: How they work & why they are headache for fans - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56UEh0Rkp2M1l4eWV0STlBZHhNNEVHRmhvTlhPTHlrYVpOMU90RHZXb0FiRmR0ejA1VHVyU1JrcERrd2dXYlVydjJ1MWl0UTBlUmtDUGxCd3ppZkNBbHNRSDkxNDdpRUU?oc=5"
+        },
+        {
+            "source": "Sports Mole",
+            "title": "Liverpool transfer news: Summer plans for Premier League midfielder 'accelerating' despite concerns about fit with Arne Slot - Sports Mole",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVDRCa0xyTjJsU09tTjBRUXM3emcyM21QQW5WdHh2MHFXVnpDcnNnSFRZdHZCbUltNjh4TGZ4OTFIQm1FOVY1OVVpMWVIV3JCTmNwaFIyZ2JVbEFWWkRCWVEtMWpZUXV1Z1paM3pjNjczdVpxWFVTRXZLaG1hbDlHanRtc0JqcjBrN1FmMThsclpFRUN3d1IyOXBMU1dvX0VRSVcwV0J1cWJGNGtfczdDOVVUUUVGUnFLMGYtOExIcGdpbXdGUGZHWVczUzBGMUdoRkd2eGl0c2czZUpXNThwQjQ4YldwZw?oc=5"
         },
         {
             "source": "Daily Record",
@@ -52,18 +52,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
             "source": "네이트",
@@ -76,24 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaU29UYmEyck5WZ0FTWmpiUWtES1hTRkFBX29hcU9GX1F1N3d4dElCQ2FuZXE4cEFXQnliOGZNWDY3a21ONTdHOTRSQnBtS00?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "[속보] 토트넘 '오피셜' 공식발표…\"데제르비 선임 완료\" - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMTZyV3o3cTJaQjZWcjJESll1aEFaaUxxOTZxS2dRbVVSN25IZEprTEZqeFM4RTdjOG9KX0c2RWdwR1FpaGFSZnR4S0RjV1pKQmh0UzQydlZybTlWcXBaNFRldy1UdWR1ZDNmRzVBVQ?oc=5"
+            "source": "v.daum.net",
+            "title": "토트넘 ,신임 사령탑 데 제르비 감독 선임…\"리그 순위에만 집중할 것\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aWk9tWWRCdERwM3U3cTFvWmR0SW1pal9FX05yU3hORFk4MUlWZmJBb3FSY1NIZEdpaWFmeGdPdDlwMXpwUGxvZGV1OW1MWDQ?oc=5"
         },
         {
             "source": "스포츠경향",
             "title": "프리미어리그 팬 75% “VAR 없애달라”…구단들은 ‘유지’ 고집 - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82aEhPQ251UmRqaDY2YThFdFh6NjF5SHhpQUtJd2hncTNYWlVENmpTZktIV2R0Y2dMSmRLSTRfUnc1bzRTVmZQSF9uQmVOZGRNcDAybmI0eFNPN0RKUnfSAWNBVV95cUxPWEhVTXNjOTBFQnMxUzNScW1Ib29fU2pLZmlpWG9yQU91VTl3eS1FQkhucE8xN0g2eVl5ZkZiY2I3bjU3UjVHQmpjbW5zWEZtVnU1WDk1clFheU14YmFXdU9OYlE?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "‘손흥민 전 소속팀’ EPL 토트넘, 데 제르비 감독 선임 앞둬 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQmVUMzhMaTNQUmlYRkEycXUtU2pnSDF5ZjRqN0dNTEJWbUwwUEFvV2h1VHBHODk5UE9wUTRnWEhRNldOaF9jdXYzRUhMYW1xa2ptX0pncmRCRWlvZmxyeWxuZHVjc0p3dGROY1Rsem81N19VUTVQVi14WENoUlVKR2d4Q010ckk1WlBJ0gGfAUFVX3lxTFBIY2dCRGRDLTROMmgxdnRKTHpoZ1M0OEtKa2Q0NEV2eGFWQ09XSHZwSTBHU1k5VThkRlMxRWgzemEyc3lUUHp1el9tdENiVnVvUlVzNTRnbllSSFM1dHE3dTh0RDRMVEJqU0tnb1FDcE1DT2ZSLXNXYzc5ZU5aSEFRaUJjcm8wRVh5WlY5eFZmd0FHVEtHaWZYWWZiaUlQRQ?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "\"군더더기 없는 스타일\" 토트넘 26/27 유니폼 유출…1부에서 입을 수 있을까 'PL잔류 vs EFL 강등' 갈림길 - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpWmdMbEdwaTg5QlZmc0h0RGNVWktIVjA1YmxLT2luRTA2c2h2Z0l0YmY1QUNwaGY0blFFVnpKa0FKTU1xdE9RNG9YMUNtSUJHUXJMWHJwSk1RUnBpVVlsbzJHYWplN2xZTG5SVjhQWnpWMkthRUE?oc=5"
         },
         {
             "source": "xportsnews.com",
@@ -104,6 +89,16 @@
             "source": "뉴시스",
             "title": "'49년 만에 강등 위기' 토트넘, 소방수로 데 제르비 감독 선임 - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MNVdYUThKR2psTlNWeENScE8wSXlZNWdsNjc3d19qZ3d6c29RWkNmR1lkdXZSUGxrNDJxLTdCcFVZT1RMZzkwYkNBTGJDdmptSUlJLTBMNFJjMFhVOWZtVtIBeEFVX3lxTFAzbzl1cG4tZUdTWFpmYTBfeU15VmoyeDJVRnVGbnZtd3ZGcHVjTzl3THlEMUtFN2tWUTZSTGxHTGNMMWlBRWx4SnpTa3pRb0Z2UjFKQzRUSktubkJrYkNTNG9yVVJWUVZjWnVJdTlOZXpXeWs3Y1AyRg?oc=5"
+        },
+        {
+            "source": "서울경제신문",
+            "title": "강등 위기 빠진 토트넘, 새 사령탑으로 데 제르비 감독 선임 - 서울경제신문",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjTU9QaHJkVkhjVFlXbFJDZzJMVjZMc1ZmT1MwY1FfYlh1QmdWNjl3LVQ3R056ZWxuNFM4RGQ0Z2hfazlNTmthOVRjSWJWZkZ3dnfSAVNBVV95cUxNTGw2YkN0UU5zSUI1MWlnd0JMNUZCNVI1bTE2Z3VHdUhSVUpkU3RxZ0gyQ0xTckhDTkZFOTlvb21MeTZzdUdRQnIycEtPODNacGN1WQ?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "“세계에서 가장 큰 구단” 토트넘 지휘봉 잡은 데 제르비의 최우선 목표는? “프리미어리그 순위 끌어올리는 것” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tLWFVVG14SVZGUE02LXlQMlBVcU1PcWN5WGJXckZGRkVmc0NPNnVhRzZPMDBFYkFES3piWEZaZ0FFWG5PbmZld1FreDZEOVNNV1R3cV96VHlLN2pYY1dOaVdYeXBESWRnakV6X0ZHU0VHUGUz?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
+            "date": "2026-04-01",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
