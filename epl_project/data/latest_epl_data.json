@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-02 11:37:08",
+    "timestamp": "2026-04-02 12:43:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Who uses academy players most in Premier League - and does it matter? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VQWF6VnJ3OE1jZDFmQl9maWtsQ2lQT3pDUklsaEJEQVMycVA0ZWgxc0hOb3BlV0xUSWl1WTh2SWRUR2M5VExzODJYWkY5SzZTRnhORTdiejN0TlExNW16TV9fYnpwNEk?oc=5"
-        },
-        {
             "source": "Sky Sports",
             "title": "Tottenham: Premier League relegation to Championship possibility put into perspective by Spurs transfer spend, stadium size and trophies - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQV9QQXZyMEgzSFFhbFRtYTlfUnNydHdRY0k3WE1nQkp2RElYYnY3MVNfSFdpZ292aTZwVEpXWEJBWmNEQ0NXX1B0TEdCNFlFMTMydjhraGJmQ3p1TFNUMDF3V2M3OV91cnE2NVozODlIUGRQVFpuSkVuSWJlODZNQzRuUUtrT0ctdHEtdzBwVGZaUWVBZzljaGJjazVWTFpGeC00cWtDLWZPcllyS1NDSVpWU1JGNktKY2c3M1ZGSDRjcUNqRHFrLU1wbmtSX1piS0MtYlBwM280QzR4cVJkZ2hkZ0Radkk4a2N4QUdGclE5bUNsRDJuZXhncXFvSmotUkcyUVRWX3V6S1czbF9rcWdmLWdpLTJY?oc=5"
         },
         {
-            "source": "The Sun",
-            "title": "Premier League rule on Amad penalty decision in Bournemouth vs Man Utd clash - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2lkRGdHbzZsN1R6N2NpbDg3N19PVzZnZl9JVWtJZUp1RkVTa0FMNmJHdS16ekVlVEk3T09id1REUWVYNUhKampLT3VNMjlKWGVrNVZvNnNnYzZHOE9OSkx5Qm9JdDU0ZU9OS29DRGgtbkZkVmFoRmhSSHN3M0FIVlc4aFk3U25EQzZJSEJtOUFTZjQ5UllyX0Y4N2FGTUFhMmplU1owUQ?oc=5"
+            "source": "bbc.com",
+            "title": "Who uses academy players most in Premier League - and does it matter? - bbc.com",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VQWF6VnJ3OE1jZDFmQl9maWtsQ2lQT3pDUklsaEJEQVMycVA0ZWgxc0hOb3BlV0xUSWl1WTh2SWRUR2M5VExzODJYWkY5SzZTRnhORTdiejN0TlExNW16TV9fYnpwNEk?oc=5"
+        },
+        {
+            "source": "bbc.co.uk",
+            "title": "Bournemouth v Man Utd: Referee and VAR correct on Amad Diallo penalty claim - panel - bbc.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtR1EzLXZtWTMyOGl4aHBxM3VhMTBnM3QwNjJzVUU4Q2hqNjJyOU12NEVhOVZQZ0tVZmFxMGlsdnNmb0dSa3d5bV9Ud3BRLWkwc0M3dkw0cGphTi15N01rZFV4YkxxZ2ZISGc?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -66,14 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6dGRldzVyOHhHV052ejdwWmlJbXhiZUxzS29FUjgyV2RfWUpoTWpnY3MtS1g5QWc5cGcxVUxwWG5QRzh2aTF6VzhUSUNYbWpUdUFwdWRPZ1BTZmthTlhFcnk0Tm1FeHpKa210LWxUZEZqdmpsNHgyYg?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "\"22년 동안 우승 문턱에 서 있는 아스날 같은 클럽이 되고 싶어?\" 첼시 전설, 구단 방향성에 의문 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2lPMzBnUkJaRUVqV0dPMm5TNnRMUGFhSVFYOS0waVQ4OF8wa0NlQkJNLXMzbGR6ZXd1SjhCMEF0RmNvVUlNRmZ3Q0F0TE5tcjB3bDk2MUpxWTUwcnNyczZSeVJJUmNxWWVRemgteDBPSDFydGhULTBfU3FHaG96OEhSYXE3b090ZnFV0gGfAUFVX3lxTE4wam5QVzNRbTZJcWtDd1lqbmR6a0Q4Z0syTVFJSE5XcGJ5eWZqaUlaN2pFYlJGeFNNSHBzZ2tBR1pwUXUtbHl2WEdyUEx2OEVtNi0tcGsxTXpjeXpnbGVMTHAyeER5TzZFbjMtRmdkVTIxOVhna1ktSnNOdTVZLVotZ3R2T2pqazlOLU1vdl9ERG9kdlVENmFONUhIT2liRQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "‘퍼거슨과 같은 대우’ 토트넘, 데 제르비 감독에 ‘사실상 전권’ 줬다 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iMGRsM2xUYzFuaXdpRkRlSWJidmZqaF9NNVU5cVdqUTZlRW5wem9BSVJKd2Ywd2hTYVN0VWtZOFlLa09fUVZVZXJZRlFBMFk?oc=5"
+        },
+        {
             "source": "xportsnews.com",
             "title": "240억! 토트넘, 천문학적 거액 쐈다 \"이래도 안 와?\" 데 제르비에 EPL 연봉 2위+퍼거슨급 전권 보장→\"위대한 클럽에 오래 머물고 싶다\" - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lZU43NndRQVcyMHB3cG90V3h3ZXdvQUgzQ2wyR2phUWdzaVNqYjJwcGU4N2hHZG9UNDFCYWdhemttRWNodVVyQTV4QlQwMEdET1BCdg?oc=5"
         },
         {
-            "source": "chosun.com",
-            "title": "\"22년 동안 우승 문턱에 서 있는 아스날 같은 클럽이 되고 싶어?\" 첼시 전설, 구단 방향성에 의문 - chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2lPMzBnUkJaRUVqV0dPMm5TNnRMUGFhSVFYOS0waVQ4OF8wa0NlQkJNLXMzbGR6ZXd1SjhCMEF0RmNvVUlNRmZ3Q0F0TE5tcjB3bDk2MUpxWTUwcnNyczZSeVJJUmNxWWVRemgteDBPSDFydGhULTBfU3FHaG96OEhSYXE3b090ZnFV0gGfAUFVX3lxTE4wam5QVzNRbTZJcWtDd1lqbmR6a0Q4Z0syTVFJSE5XcGJ5eWZqaUlaN2pFYlJGeFNNSHBzZ2tBR1pwUXUtbHl2WEdyUEx2OEVtNi0tcGsxTXpjeXpnbGVMTHAyeER5TzZFbjMtRmdkVTIxOVhna1ktSnNOdTVZLVotZ3R2T2pqazlOLU1vdl9ERG9kdlVENmFONUhIT2liRQ?oc=5"
+            "source": "네이트 스포츠",
+            "title": "\"세계에서 가장 큰 구단\" 토트넘 지휘봉 잡은 데 제르비의 최우선 목표는? \"프리미어리그 순위 끌어올리는 것\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JMjVoZXNFeU1CMVRzQzJhc1NRQ3pCMmdndTB5andvV1kweGdiMk13eHNQN3YxdkZoM2xJODhscFZZblo1VGw3dUVJaER0eWxZZFpxNFZVdHJMWmU5?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -89,16 +99,6 @@
             "source": "인터풋볼",
             "title": "\"리그 우승한 명장인데?\" 콥들 속 터진다...리버풀 레전드 \"알론소보다 슬롯이 계속 감독 맡아야\" - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yaEVUNjV6VTJrbHU5by1WaHlBM1Bfb3NBVlNNS3BnWUNtQVg0RFhZSlplUVNQSVZMX1JYVzdqaDV4ZFRObGk5LUc0eWY4UW9TQ211V1NrUUtGVWZ2SE5BU0d5dVRITnpuWWJ5Snd6TWoxZjZ1?oc=5"
-        },
-        {
-            "source": "MSN",
-            "title": "'독일·스페인·브라질·잉글랜드 격파' 日, 또 프리미어리거 탄생 임박... 이적료 무려 '10배' 이상 폭등 - MSN",
-            "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNZHYyQkxFSnNNSm9lVXE0T3ZraWprQU1zWmZJN21LY1F4Q2R3WV90SjFHLW5JN0NYQVlLQjUyUHl3Sm94YjBEN3BteTZaOFZQLWl2YmNENENSVlh3SWJaQTdCcGpRa1dyaU80dnVNNllNZ1c1cV9JeE1ZVk4tSWx4TnRxMnVWbnlKMC1hYmVZNmFvR2YtcUljVld4cmRyRzNBZVp5bnl6dkd6b180aU9QOW1NaHhaYmZZVEsxM2R1X3BlenozZVViM0VMb0RjSXk4R1J5RWFZa3hJNGdzTFBuYloyVm1uVkpYYUdUZlRHcTRVY2xIdXdRXzdnbnFoV0lNS0xOTk95Skd5QjEzVlplNnZGODBXYXoyLU9kM3NyX2dLU3hHOFpUUWRQNy05alA1Xy1tV1NaRmE2b0YzeE5QbEhTckRoaVpyTWxIcXMzRDgyYmxNMUUwYUVZTlg2VnRtY19JaUxobUo4R0VYc0VPN1FydXlsVWtKcXRZQ2Fmd3F1c0sxSzd5UFNwNWJTaWpKV21oSGJhX0twREFRYkRpNklFaWZwc3dWR1VqNDAxWDFpX1VwcGZzTUtrXzc0SE1neGlWcGt0SDZSaHk0ay1aZ1MzS0laSkJfMl9sVnRwcUJfNjctMTRsOXNtNXFtZ2oydmNSVmQwZmtlaXhURVBVWjJCNlZvZC1RaUFxVFJQb3BmVS1nTmMwcHp1VW1RMEJnY2tR?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "\"군더더기 없는 스타일\" 토트넘 26/27 유니폼 유출…1부에서 입을 수 있을까 'PL잔류 vs EFL 강등' 갈림길 - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpWmdMbEdwaTg5QlZmc0h0RGNVWktIVjA1YmxLT2luRTA2c2h2Z0l0YmY1QUNwaGY0blFFVnpKa0FKTU1xdE9RNG9YMUNtSUJHUXJMWHJwSk1RUnBpVVlsbzJHYWplN2xZTG5SVjhQWnpWMkthRUE?oc=5"
         }
     ],
     "transfers": [
