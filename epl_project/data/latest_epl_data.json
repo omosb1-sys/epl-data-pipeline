@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-04 19:22:53",
+    "timestamp": "2026-04-04 20:17:00",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,14 +11,14 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXRhUmJoRV8xaTVhMnlmb2x2ckZGbmh1aFFtd3VVWmpSMUIyeEl4MENOYXhpMVNRc1hhcHhJUDF4UUFDMEltdENqa0hCRWtvVVFBV2xxZlJLeEU0SDhjUmw5SjhaZk1haU11SklibFJ4VWlNbXdUMnVBX2VvXzNQeldZSEwtRlB6MTBhS9IBkgFBVV95cUxPNW5WVExXQU1CbnRXd0M4dWRQUndDV0g4UGFwZndTRV9PTHJZenJsNUJOUklZOGdpRG9QeEJJLTFWd3JzelRBTWhPc2pRYXIzeFpkQ1Q2bURZN3JESmpOMXVwWS16RzVuMFdXQ1ZsazlHSTl2TF9JRlRweWlfd2Fmc3NZeXJyU0FPSE5IUklBc1lOdw?oc=5"
         },
         {
+            "source": "talksport.com",
+            "title": "Liverpool tipped to raid Premier League rivals for new manager as pressure piles on Arne Slot - talksport.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzhYRUlEQzVTcWlQMHNaX1hsUm5ScHZmTmlIeGVUREpEXzhMYjJRd21VNzFGLW1Da3hPSnl6Tm5FbkJfdWxCemE0SnBqWF9VUWxDNmZ1UWYyZXJOeGRKX1dyOGxZd1gtZEtlR2RGY19xLUpjb2hZOVNFbGJwUTZLOFhBanhvaThxc1J2ZWhZMUtSaEJKWVQ2Ynh4cVNvb3c?oc=5"
+        },
+        {
             "source": "The Sun",
             "title": "Premier League icon probed for tax dodging thanks to Deliveroo orders - The Sun",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGozMU1hSlktYzJYVlhGZXhlUDVkMnd5X0huZk1zaWhqeG5qYnM5TGtFTzh0dEtyZ3BjVGF3QnJQS21GZTlGWEVsYzY5YVI5S3FpRk5yd0dUR2NtVXRyQUVaczRRSEpOY1pTQUlKVVhlZUV1S29jMjN3T09yRDVWNVA5U1RqQ043QkdFcUxQZ0xsemxyMzJQMDhBc3VIalNobFE?oc=5"
-        },
-        {
-            "source": "TNT Sports",
-            "title": "Manchester City 4-0 Liverpool result: Erling Haaland bags a hat-trick with Antoine Semenyo also on target as City surge into the FA Cup semi-finals - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGs0VE5WNURoZ2g1eHk4cHBQSWJ2TTdPMlkxVTVXU053VlJfU1hhcEV0dTBZdTd1TG9hRzM1N1FWOXRDNndRcFh6RVZXbHlFSG5kWFMzYWpMY0hoeW5sM1lYQW9ISkZJQ0tGRHZjUXlyeW5KcWZRVG83ZVdHeWhtV1ZPVUVsMzJLb05nWkY1UXV0S3N3VFFTcjQteERMcnVTc0NQNUFBR0o0Y3J4SF9kR01XV0dWU24xcUZoRk1RRnZLU2VrbkxhaV9n?oc=5"
         },
         {
             "source": "Yahoo Sports Canada",
@@ -108,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
+            "date": "2026-04-04",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
