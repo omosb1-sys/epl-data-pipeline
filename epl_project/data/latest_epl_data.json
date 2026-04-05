@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-04-05 06:08:03",
+    "timestamp": "2026-04-05 07:47:18",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "talkSPORT",
+            "title": "Liverpool tipped to raid Premier League rivals for new manager as pressure piles on Arne Slot - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzhYRUlEQzVTcWlQMHNaX1hsUm5ScHZmTmlIeGVUREpEXzhMYjJRd21VNzFGLW1Da3hPSnl6Tm5FbkJfdWxCemE0SnBqWF9VUWxDNmZ1UWYyZXJOeGRKX1dyOGxZd1gtZEtlR2RGY19xLUpjb2hZOVNFbGJwUTZLOFhBanhvaThxc1J2ZWhZMUtSaEJKWVQ2Ynh4cVNvb3c?oc=5"
+        },
+        {
             "source": "Arsenal.com",
             "title": "Arteta wins Premier League Manager of the Month - Arsenal.com",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fR1pqX2p0aGVDdjhCTEtfeW9namU1aWF5V3I4N3FsUTJ3SFJDMlUzdHdwRmdLQmJMTkJVSGRBanZQek5reGZrVFgwSlpsTHBmMXBERkp6azJWWnVkQUM1UEMyMW92Q1ltS09OdWlTUUJ2djhfVG8xb1UwWQ?oc=5"
-        },
-        {
-            "source": "Football London",
-            "title": "Arsenal and Man City injury lists in full as updates given amid Premier League title race - Football London",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXRhUmJoRV8xaTVhMnlmb2x2ckZGbmh1aFFtd3VVWmpSMUIyeEl4MENOYXhpMVNRc1hhcHhJUDF4UUFDMEltdENqa0hCRWtvVVFBV2xxZlJLeEU0SDhjUmw5SjhaZk1haU11SklibFJ4VWlNbXdUMnVBX2VvXzNQeldZSEwtRlB6MTBhS9IBkgFBVV95cUxPNW5WVExXQU1CbnRXd0M4dWRQUndDV0g4UGFwZndTRV9PTHJZenJsNUJOUklZOGdpRG9QeEJJLTFWd3JzelRBTWhPc2pRYXIzeFpkQ1Q2bURZN3JESmpOMXVwWS16RzVuMFdXQ1ZsazlHSTl2TF9JRlRweWlfd2Fmc3NZeXJyU0FPSE5IUklBc1lOdw?oc=5"
         },
         {
             "source": "BBC",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnRrYV84M01vU0x1NzhkajZFc1FTVkhkUHJvMUpRRTRjVDJpWUFXa2FvTnFDUkczRzJybnk5djZpMlBkTUJ5NGlGZ01zT015RmpRUTBtcTdsVEpEeHBManNpNkl6NEl4djZQSlVRNXhMTG52bVJtOUk5bzdFblFtNFM0N08yNGNiekE?oc=5"
         },
         {
-            "source": "Stretty News",
-            "title": "Romano reveals Man Utd ‘absolutely buzzing’ with rising Carrington star: “The next big thing” - Stretty News",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93bThQdWxUS2R0UDdjMFNWMFE4cW1QcXRfclBLaWdYS0F5aDJDTlZCQUJWVFdsa2FhQWxmV0p3YXpnVGVtSTVqUkRMc1FRdzVqSGs1R2lDMV9zbzJVVVVGU1NwS1VxRzVvbW04TGZJVUVCR0ZSRHM0aVBR0gF_QVVfeXFMTy00cUVwUFptSE5iYXlHRVJZM3U1RXY4LTV3cGJRQ051ZDZfYlgzdHl2SWxFSDVuTXJHOWp5dVRleEszVGZIa3JGZlBzRUhSMmE5ZlZEaGk2dDBLMVZxdDI2QnplM2FfTFl3VzRYajU0b0pXRWN3ZmMxLVREazl6WQ?oc=5"
+            "source": "DaveOCKOP",
+            "title": "Fabrizio Romano explains why Liverpool passed on signing Nico Schlotterbeck - DaveOCKOP",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2gtLUhLQzlsUmtXOGxCM2pDblkzVFJBa1FLN2tHYWJUSUE5bUx3OVUtWnJpb1g0Z2NobU1VQkFkYkhYZFBLMjA0ejFWSm1GNzQzZW1aa3VpQ1pFMUxIY0ctWVlvRVdWVU9TUnBuLTFCM0h6ZFdhMVJCRTR4Sl9DYUhGRlItVFRHbnJZMzJqdEZqN253VkpBOW91R1lzUjR0R09SS19UYkM2WDZxUlNqWUdNMDdVMTQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -41,8 +41,8 @@
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDYwYk53eEF6V1I2TThxS3RaT2RMZzRiU3E2SHhZcEt2YmR2ek5pbHUzdkppWkxkZ0FFTUk5UkJkSUs1WmJYU1FRNzBpRkl4YWtGTFp3OFdiak9QZVphYVJid0VXc2xnaFVKVEZhR09vWkFIVkRVVm51TFhMaFhhTEp1UVlOa0E?oc=5"
         },
         {
-            "source": "thisisanfield.com",
-            "title": "“Despite reports to the contrary” – David Ornstein’s update on Arne Slot sacking - thisisanfield.com",
+            "source": "This Is Anfield",
+            "title": "“Despite reports to the contrary” – David Ornstein’s update on Arne Slot sacking - This Is Anfield",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0hwTWJMbWNza0c1YmJTSjVJYi1mWWR5S2FCcWhtdUFGcjZkcWN0REdwRVdnZXVvS1U2RDMxQWVUaUh1S2RjbjkyVmRpYU96djVMTmZvMy13TXd1eGljcTVSbV9fUUtjNjAzUE1Wek5GOHpSZ2E4S2xpUENGSnhWWmV0VE5MR21CWEgxc1d6ckZqV0dUM2EzVA?oc=5"
         },
         {
@@ -61,19 +61,9 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'2부' 사우샘프턴, 'EPL 선두' 아스널 꺾고 FA컵 준결승행 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kX09tV3JFVWZEbHFKRnJnRUc3MXRxb0lHMGhTd3pRV2FFZGhrUHNTM2pRYkpKUjc5OGc3clpLb2RxazRic3ZjajNaYnBIY2c?oc=5"
-        },
-        {
             "source": "네이트",
-            "title": "아스널, 2부 사우샘프턴에 밀려 FA컵 8강 탈락…맨시티·첼시 4강 진출 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nQ0RGelQzRHpVLWk1Q3ZGMWNCZ3pKNkJIVE9PRTM0c3JvV2ZTS3ZFMFB1d1Vkb3JKWlJxRkZ2RzBVN0E0ZFFIXzVvNU9UZGk4c01KU3JqYk1VU1VXZU54RHdIVU03LVotQXdYei1mWEt5Rlp6d3UwSg?oc=5"
-        },
-        {
-            "source": "뉴스핌",
-            "title": "'EPL 선두' 아스널, 2부 사우샘프턴에 덜미... 맨시티·첼시는 FA컵 4강 진출 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNNDV3dzVwS3pGckdIbGRnVU1rRzViWXItaXRVUEVUZnB2S1ktcXhPalpEQ0Q1cDV1QmFlcUgzTWRFM3NBSHJYRkJZQ0lFMlpLNV9tR2hFbTQ0VDZV?oc=5"
+            "title": "'맨유 주장답다' 호날두와 어깨 나란히! 프리미어리그 이달의 선수상 차지…개인 통산 6번째 수상 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1l5aEJuN2VyTkoyclhIZS1QWW5EamVMYm50SmV4cXlUbkoxNmRlVW9DNXNnNWJhcGtETXVrZDJVLTVsaENseS16YzZ5SDAwUlVkY3N6cWVTdERHNXRBUjF2anBrcERyNVhZR3VUNXpyZEhkS3dUQXVfNUpJNjlNN293?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -81,24 +71,34 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZOWZ1X0JwWHQtYVNydFpsMVl5b0Z4U0RBcmNZQ0Q1SzJwWkZPSjdISjRZNnVHTm5sNW1aekRYakx6VFk2TlE?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "'2부' 사우샘프턴, 'EPL 선두' 아스널 꺾고 FA컵 준결승행 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kX09tV3JFVWZEbHFKRnJnRUc3MXRxb0lHMGhTd3pRV2FFZGhrUHNTM2pRYkpKUjc5OGc3clpLb2RxazRic3ZjajNaYnBIY2c?oc=5"
+        },
+        {
+            "source": "뉴스핌",
+            "title": "'EPL 선두' 아스널, 2부 사우샘프턴에 덜미... 맨시티·첼시는 FA컵 4강 진출 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNNDV3dzVwS3pGckdIbGRnVU1rRzViWXItaXRVUEVUZnB2S1ktcXhPalpEQ0Q1cDV1QmFlcUgzTWRFM3NBSHJYRkJZQ0lFMlpLNV9tR2hFbTQ0VDZV?oc=5"
+        },
+        {
+            "source": "msn.com",
+            "title": "'2부' 사우샘프턴, 'EPL 선두' 아스널 꺾고 FA컵 준결승행 - msn.com",
+            "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQNHduQWxrTDJacWVWelRob1A2NFROX0Qwc1BnbmhrTk53VktlR2QyUEphVkczdFI4QzlONXBGR2FHUnkzLTlZcklvX1lPRDhaSEpxR0kyOG1SMW9zblY4R2d6WUd6V2NPV2d4NXU3T29rLVpnTTNsUmRCRkdSaGEwTVV3cTBScFpiTnlFMEJ4cm02MV9lem42VXRqaU1KcTAxcWdURXhRcFE5SW02QlBFb19NVEZ4VnRRNGR0M3VjcFRfSVlCQ1pBYWFxWEJCRE5oZEtjMTRSLWR1eEptS0RPUmpNUVhmeXpiMVZSTHh0dkQ4b2dBSkFvTFRsazhZcUVwTnc5dHlOb241dnR2aFhnc2ZEMWJ4WldfclNEWDJ6TE9aWDFnOWNCenJaWUVXRWlWLXJUNGt1dERzQ2t3aVcxRjE4VUM2TUFRWHc?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "[오피셜] \"정말 괴물 같았어\" 손흥민도 벌벌 떨었던 토트넘 핵심 MF, 결국 축구화 벗었다…\"오늘 은퇴 선언\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mRXZ0SVhsVG9TcFQzNGpuaTAzVXB2YjVPTTh5amRncHJETC1wN0lWV2xNdzZNS2gySGxJWUVSRWFNTVZwZTZpaW91MDMySEhuOEpjLTFRN2d5OThZeUE0LVJUajhRdVdZbzN2ei1leDRkRUpPOVE?oc=5"
+        },
+        {
             "source": "SPOTV NEWS",
             "title": "‘충격’ 英 BBC ‘비피셜’ 떴다, 로드리 맨시티 작별 ‘공식선언’…“레알 마드리드 제안 거절 못 해” - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Tam9lZHluNFByTm0zNU4tQ00yNmhFaWhiZzdJWUxqbllGQnlDRlR1UEdpRjNqXzBPM1hnVXI1LTc2LUNZSmNnZzdCWDdvUUN6c3JqbHMyazN6c0RfLTFZUFUwZVlqX1JkT1EwVFRMTdIBc0FVX3lxTE11ODZJTEhKN0NJbmY4M0p3c1Y4dFhXUUhEM0U4ZVM5SGZZMTFjUFpJZFlYaGtDWnpRN3NEM0Nod0tCWm5yU3FjaTAyM19RR1B6eWp3b0VzcUVRakZDblNpaU9PLUpVY3lDSTRsNy1ISU5GS2s?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "‘맨유 주장답다’ 호날두와 어깨 나란히! 프리미어리그 이달의 선수상 차지…개인 통산 6번째 수상 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tZU02Njk1SnVhOFhLVDl6U3gzY1hVUkVNR3AzQUc4bUhWLXZRQnk2TS15SXVKbE5VN25PREF2Y1JSSjJyR2twRXJrOXVoekIyR2thRG5XQ25LM20xQm5CZlgyUUZLNjRXSXZWc2p2MUFmTzNz?oc=5"
-        },
-        {
             "source": "스포탈코리아",
             "title": "'HERE WE GO 확인!' 이강인, '韓축구, 새 역사 쓰나' 프리미어리그·아틀레티코 마드리드, '동시 영입전' 돌입 - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTNJcXozbklmU2c1YTBLUzNCRHVzcUdCbGhSOE80b0tjUFVmTHBuRU44cFg0WHdReFg2ck1IY0pDRk1Ed2ZKeWdBeUNqSVliU2VveGI2VGNucDkwNlN4dThqTnVNSVZCbTdIVlc2cTNaMEFPbm5PMkRHaWEzYXRRazFB?oc=5"
-        },
-        {
-            "source": "KBS 뉴스",
-            "title": "아스널, 2부 사우샘프턴에 덜미…‘홀란 3골’ 맨시티는 FA컵 4강 - KBS 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY1FGamRBVkhJLW9hUkswbmozNWJLUlVOSVV1Z2xsSGM3TkZINDBPRzlfdEhXcUtwbHVtZnVoMVlaV2FLWEpBd0FkTXRBUVB1Ukk1aDM4bWdUaDg?oc=5"
         }
     ],
     "transfers": [
