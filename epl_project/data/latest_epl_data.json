@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-04 23:19:39",
+    "timestamp": "2026-04-05 01:15:52",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Southampton 2-1 Arsenal: Premier League leaders crash out of FA Cup to sensational Saints - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDIyTm9KUkhsNk9HNjI0a2c3WC1yRlh2YWxmcng3Ykd2UmluZ0xZckhoaGttb1JOVWlIRHVMWWFnUDJsUi0zc0lrOGt1WTBiM2ExYXB5Mk9GMUU3Zk1EUTI5cm9xYldWWXB3TTd5M1JycXVWZFZrOFZQXzNfS3lWRXNOX3RDbU9wZkdpdVpJWlp1R2VKaGZZUl9VVEY4c0kwOEw1OTB1VUNuV0NaZFB4c3lpQlZJWnY3LUdmekllOFJ3QTRCWTc0NjlsRHdUTy1WdUpHcUVjRTBJN2c?oc=5"
+        },
+        {
             "source": "talkSPORT",
             "title": "Liverpool tipped to raid Premier League rivals for new manager as pressure piles on Arne Slot - talkSPORT",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzhYRUlEQzVTcWlQMHNaX1hsUm5ScHZmTmlIeGVUREpEXzhMYjJRd21VNzFGLW1Da3hPSnl6Tm5FbkJfdWxCemE0SnBqWF9VUWxDNmZ1UWYyZXJOeGRKX1dyOGxZd1gtZEtlR2RGY19xLUpjb2hZOVNFbGJwUTZLOFhBanhvaThxc1J2ZWhZMUtSaEJKWVQ2Ynh4cVNvb3c?oc=5"
         },
         {
-            "source": "Sunderland Echo",
-            "title": "Premier League bad boys and how Sunderland compare: Most-carded teams and players - Sunderland Echo",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk1nNWtZTWtpOWNhdHpwUU84V0x0TThqMkNGbEJoMVllczkzdmJKelpCZ1B1cUx1WFNqWjlSbEZfb1o2NEM3SzhMSkxxaHNyNkF3MTR5cjJaT20zU3JSc1dKOExZTEZXNl9mY1Q5RjE5Skc1V0lKaTBmUmtxazEyTTNYVTZaS1NRZ285LXhnWTFoazhQaWt6VGVCQWllYU1ocTB5eVlIOEx5Zw?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "FA Cup: Watch Ross Stewart goal as Southampton take shock lead against Arsenal - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kSGlRS21zbllhcEZFXy14ejNpQnBaWmRuWUhTRjlnQ0VVdXlsX2k0Ry1zZDVyY3VGMllVVS00T3pIVk5abk1rd09lMFhnU1VnZ2Q0cldYX0JFLXh5R1Naci0yQnVLSW8?oc=5"
+            "source": "Premier League",
+            "title": "Which clubs have a confirmed DGW33 and BGW34 after FA Cup ties? - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGtZWFdwMWJSS2FWMkh3TnRFU2l5VXN0U0haRkd6WDhPaU1USm1Bd0U5WFJzSDV5STh5MUhheVlQekswa09fSVJMSGxJOFRrbWNkaHlpLWhQd3BMbFBCOXFTeHJ4bFJxSW1VNmZPcFppeXlNMUFaZURScjdBRVlBd0FVOTRLOFhOd0FUNnQxa0huTVNvbnlIdWluVTdDZFNrRzVKeGYtOFNBYWgt?oc=5"
         },
         {
             "source": "Yahoo Sports Canada",
@@ -36,8 +36,8 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93bThQdWxUS2R0UDdjMFNWMFE4cW1QcXRfclBLaWdYS0F5aDJDTlZCQUJWVFdsa2FhQWxmV0p3YXpnVGVtSTVqUkRMc1FRdzVqSGs1R2lDMV9zbzJVVVVGU1NwS1VxRzVvbW04TGZJVUVCR0ZSRHM0aVBR0gF_QVVfeXFMTy00cUVwUFptSE5iYXlHRVJZM3U1RXY4LTV3cGJRQ051ZDZfYlgzdHl2SWxFSDVuTXJHOWp5dVRleEszVGZIa3JGZlBzRUhSMmE5ZlZEaGk2dDBLMVZxdDI2QnplM2FfTFl3VzRYajU0b0pXRWN3ZmMxLVREazl6WQ?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Igor Tudor departs Tottenham after 44 days in charge - The Athletic - The New York Times",
+            "source": "nytimes.com",
+            "title": "Igor Tudor departs Tottenham after 44 days in charge - The Athletic - nytimes.com",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDYwYk53eEF6V1I2TThxS3RaT2RMZzRiU3E2SHhZcEt2YmR2ek5pbHUzdkppWkxkZ0FFTUk5UkJkSUs1WmJYU1FRNzBpRkl4YWtGTFp3OFdiak9QZVphYVJid0VXc2xnaFVKVEZhR09vWkFIVkRVVm51TFhMaFhhTEp1UVlOa0E?oc=5"
         },
         {
@@ -46,8 +46,8 @@
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0hwTWJMbWNza0c1YmJTSjVJYi1mWWR5S2FCcWhtdUFGcjZkcWN0REdwRVdnZXVvS1U2RDMxQWVUaUh1S2RjbjkyVmRpYU96djVMTmZvMy13TXd1eGljcTVSbV9fUUtjNjAzUE1Wek5GOHpSZ2E4S2xpUENGSnhWWmV0VE5MR21CWEgxc1d6ckZqV0dUM2EzVA?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Liverpool to not proceed with Lutsharel Geertruida move - The Athletic - The New York Times",
+            "source": "nytimes.com",
+            "title": "Liverpool to not proceed with Lutsharel Geertruida move - The Athletic - nytimes.com",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkpReFBWZGVxcUI2aEtKTElTcWxlZnA2MDQ5X0hySGZ4RUdBRDVORXBycHpVZHYwdFJhNDVlWHlCMVlkeXFQS1p4cFpZTXhpeThKOWQ3UVEzd3N1YWZiNG1zejJXNTNTN0drWEZMQVJ6MjF2QU9zTzlZckRuMThTQVJIM1V5TkdMcEVTZ1M0QnE?oc=5"
         },
         {
@@ -59,6 +59,11 @@
             "source": "Sky Sports",
             "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
+        },
+        {
+            "source": "뉴스1",
+            "title": "'2부' 사우샘프턴, 'EPL 선두' 아스널 꺾고 FA컵 준결승행 - 뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJcGRSWU4tdXhPTlFBbU0xaVpJdlZWOGpYUW05dnBlcTgyOHNKcDc5a3p3VTZYWThZVGJnMGplYTV6NDRSajR3Z0EtamlTM3lBYXRpMlAxeDU4X0tUcENzWg?oc=5"
         },
         {
             "source": "네이트",
@@ -79,11 +84,6 @@
             "source": "스포탈코리아",
             "title": "'HERE WE GO 확인!' 이강인, '韓축구, 새 역사 쓰나' 프리미어리그·아틀레티코 마드리드, '동시 영입전' 돌입 - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTNJcXozbklmU2c1YTBLUzNCRHVzcUdCbGhSOE80b0tjUFVmTHBuRU44cFg0WHdReFg2ck1IY0pDRk1Ed2ZKeWdBeUNqSVliU2VveGI2VGNucDkwNlN4dThqTnVNSVZCbTdIVlc2cTNaMEFPbm5PMkRHaWEzYXRRazFB?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "\"강등돼도 무조건 남겠습니다\" 깜짝 선언 미쳤다! 토트넘 새 감독, 1호 인터뷰...\"어떤 일이 일어나더라도 팀 안 떠난다\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODIzODZHT3d5UWE5WnY1M3pldW9hZldGNlJfNDBUQU9UYVh2cVFRUzU5UmwzZWtoS1Zudm0tTzY5ejE0LTVPa3pkeTc0QW1ZX0lRTlNmSWFLZjB2RW00Um5aVXozWlpvWmdIWC1KMWJfTmlDVjR4eUNTNE1BbDFGdThlUnA1NGJfbHNN0gGfAUFVX3lxTE9scnJwZ0dfWnFaeW1UUllldXhSZWNEWFNIOUdkQlJsdVVxeGg4bUl0cWJWeG52XzZ3WUxkLXppX0RZUG5WOThMRGRhWkItS3NRb3J4SU81V3FqNEJBamlUZkN3V2UyVHI5WmV0Z2cxdmx3N1JXNHZKb2xkVFd6WEN5bTFNeVJYcGhxd3VQU1U2TmZSLU5uaFFlQ0tpR1FXSQ?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -111,7 +111,7 @@
         },
         {
             "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
-            "date": "2026-04-04",
+            "date": "2026-04-05",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
