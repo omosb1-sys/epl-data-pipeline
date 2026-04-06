@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-06 06:23:41",
+    "timestamp": "2026-04-06 08:16:00",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Daily Mail",
+            "title": "Star-studded non-league football team full of former Premier League players sign Man United icon - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmxEUWFTYXJJNnFNVGo2QzZxYU5aZk9HcURXbkxJSFN6QjA3NURkVE0tS3NWYk91NUlGZGZxRWR0cnBMeks4eXdiMUZGa2dPcGlwTldNdy1QYWk2Zzc0akNZY0NFRGpFVy1jX2lsWFNIakZ6MVBKYkVNekQ2cWlyMXVmeEM3UlA2eHZOY19mOHZ1YUt2SHRvcDFZNHAxT3ZjVVV3LVZMVzFVdzlibWk1cnBEdTNzd9IBuwFBVV95cUxNQ2hTd3ZLUUdxdi0waFVLY3JTc3p1NlVwU3ppSmVRbWQ2cDV6WnEyaUxJWkhweHhYeFJYV0R1TFdBZVB1RmlReEVMWXdQN21VN0pTOU9DSU8xQ1VHdGJKdE5TMS1nMEpmTjZNWktFTUk4ZzFEZnhUVFA3bUcwbFhWLTZybFRVSWNSdW1DSHI2X3hfcmpEMVhCSnZ1dDVSaS1kV19PdWFkSXVvVUpOMlE4N0c4M3JmVkdVYUFJ?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League clubs facing £80m shirt sponsor void amid gambling ban - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnl6Rk5MRktxNThva2F6T2hwaFhDUzAxdkpuWE5BTjBaNEdkSXVzQjFtWU0teV9GemVCWGlqQml4SjBJNElaeTRNcUowdDR6ajdkbHV6T2R4R2FaaDNWLVg2Mkl3M29FYThxMDVsOXlGdEtjMHJ2eHRlUTRNTlA4ZU5WYWhUOUp1TE9zbnJodUV5VFp0bmxfRVFGUXNiQjhpdTRkOHBRcw?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Arteta’s ChatGPT Guardiola-ism is down but history beckons for Gunners - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1pNRFRJNTZMdWVqQnZaNk9kZGdxZ0ljMEREbGx3NUVZN0NjZUdiVnpaRHhDdVNpNkVaWWpwdXVBSFFoQVo5eHpraVk3QVNGVWJOenpGRE00RWZBWU0wRFR2MWtZai1kU1FsUmVlVjVGMkctV0hYWVJIT0M4MmRpTTJVaUF5dlUzR3A5X3dCcEZjWEp6cjFGRWpmY1o1VFFxR0xzN0xLSGNHdlYzdkE?oc=5"
-        },
-        {
-            "source": "TNT Sports",
-            "title": "FA Cup semi-final draw recap - Manchester City draw Southampton, Chelsea to face Leeds - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRzFGdFBDa296Wk1XS0lZVmozRW8wektvVDhtWTkwTnR1cURZSElGQUhhSTNybTRHRUhVR2g3cjJSbGpRYzAwY29tbG5pR1Y2bEJJQlJFcF8ycWVtampjUUNCaEhIczA2QXZRTk82ZmZNdk1SaWlZdXRDX3g4ZTNSVFdhS1lXWmtINWZQRUpLeTdMeVFkYktCSXdnOUtJTFdFVElrU2pJRXhmQnIya2ExYmNRUDdKMG9aSnRzZHptTnp4YzBsOGZTMG8wWWdTYjJ3RWQyNWxzTUF1T2Yzcm5Ca3RsZ25lYmpVRXFB?oc=5"
+            "source": "The Sun",
+            "title": "'Every good story comes to end' - £300k-a-week Prem legend announces exit - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlYtWGlPZXA5R21MQU5IUHJTUjVDX25hMC1rYTRjYUcxVnBZSUNMVjBpYUFhLUI3c0c4UjZGWjQ3Z3V1d0FhZmZfaWxiSGJQcUxRWUtIeTdOeElnaUxkazQtSWhTdkxZenZla0dlMEZxNkRUQmZNNnQ2dV91dXQxdDhnNU5YaUVnTmRHNWtPNA?oc=5"
         },
         {
             "source": "Stretty News",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlQaEtlZER4Q2cxNHBnbkZYOTNUd04yTTAxek44NVRrSWxSY3BHdmFQVzFvd2hXZWxPUWwxM1VabjRWYzJuMHlEQi1MRXp1ZUJ3WE1JOC1YWkl1U1BQSWdiRklDOXliellHaHRJOWpQNTU4ZTl5U3VpV0FvS3o4Q2NOWUREbVZPdEhvT3YxNEbSAZYBQVVfeXFMT0x4V3ZQRm9KVGs3TVZ4LUZyQkYySnpmUjQzV1N2T3ZKSnBROEdhSEhMeFpXbTg2WDFEZm55ZF8xaVQ4R0dnT2ZfSXUzVU5iZDBsNWswTTdPeWtITUx3X3RDbEJIMEtNTHJDLXNBQ2RFdllxYnlkQkIzSTR4a0YtdWVha2t3clpCUDRqNkFpd1BHT1dGVjVB?oc=5"
         },
         {
-            "source": "The Empire of The Kop",
-            "title": "Fabrizio Romano’s afternoon manager update is absolutely massive news for Arne Slot - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmtXV2VOTWt5WDA0MllBSFptaWlELU81UWllR05CZDZnZFM1Mll5M1BKLUh5TTlRRjJMMWh5Z1FzNUJCY3c1N2lNd2h3UVQwQWMxWVczeXl3a0hHbU9lelBCakJ6SjBrdFFGMlk5YWNiNlFKMFV5M1ItQ3NDalVVZG9mVEk0T2hmWkZNXzhFZ29uUUFhb3hNWmNIa0taU1h5WW5UU24xSmpySElUcjhycGt5Qm1MNGN0S2pQLURCRGRwNWfSAcgBQVVfeXFMTTlPc2JnV3NGRWZmajVzM3FKOUsydDZtd3FZSXBPbjZtdnpISDgzSmJXYjR0ZWJqWUlCa2hUemJLRU15V2NnYWNVdHdsYThzQzdRTTU2eWUzdFdFWGd5R2JFbTBDUFFYekJjRWJFSFBJZ184SVhZWG9RUEFLbUVJb2VOMHRGWkpZbEtSUkpEaWd1S0RHUXhmZG8tM1dLWjJmbl9lcXpYYkxlY0ZWTW9NNGxFVzlQQ1ZCc1V2ajRPUmxYNFEyenZVMy0?oc=5"
+            "source": "Yahoo Sports Canada",
+            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - Yahoo Sports Canada",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUk0dDVsdmJZLW5WTjBvTDlRR24xMjNNNG16dGN0ZEZpSEdOQUZDN1pXWGtNQ1VCdXFBc3RUbXBmZDhLcHRwbGFWdFlSVDlNNEN4Tzdaa1ZUZjVxSnNKMFNVd3RienQtU3VQcUgzWjdWbVVidm9ERk5HLTUwd1VXU1BRY0tMXzlybzNv?oc=5"
         },
         {
-            "source": "AnfieldWatch",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - AnfieldWatch",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
+            "source": "The Empire of The Kop",
+            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVZaTHpGckdXYVJROXFSanVIY2VlWm9xU1hVUldBRHRmQy1VNVotUG9UQ3ZBSkhheDhzOUZERU1CMXB3LWE5TkVqcVdBMG5VNENSOUlKU3BpVUpCOV8wdWdRdGZDNVFBQjlhaUxHbW9Ta0JMRUNrX2lfcU9LeFFsRkI4XzVJLUZ4cnlKSWhlOFpPTVpLRm41OXFkVWo?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Liverpool to not proceed with Lutsharel Geertruida move - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkpReFBWZGVxcUI2aEtKTElTcWxlZnA2MDQ5X0hySGZ4RUdBRDVORXBycHpVZHYwdFJhNDVlWHlCMVlkeXFQS1p4cFpZTXhpeThKOWQ3UVEzd3N1YWZiNG1zejJXNTNTN0drWEZMQVJ6MjF2QU9zTzlZckRuMThTQVJIM1V5TkdMcEVTZ1M0QnE?oc=5"
+            "source": "This Is Anfield",
+            "title": "Arne Slot future: Liverpool “steadfastly behind” head coach, claims top source - This Is Anfield",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThvaHNSUllFUXloQ0N6NVZoQllSNzVyVGhfT0xySFBCZEx3dWxHV2Y0NnhITEE5Q1FnTlZmOVNkSWdHUG9NYkJzdlVLLVhqdVFsaDFLY1c4bTVpUUM2TWVwdlZ5UXhZRDc4VHV6eGtmUFUwWXppenAxRXduVzNvTUdXODgzdEpISGVVQkJzbUJYMUFLb1Iw?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Manchester City close to finalising £20m Marc Guehi deal - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZThkd2lDZTQzWjJlcElmRFpZMklKd2pwSWdLN1NVSmtzcWtlQmFSczBreXZXbEFMc1VJSkZTYWM5eXlQSHV3eXBQMjBwTFctQVJBUzh3cnZtMDk3LUxZOThLTXZzRTZxeDFmU2lSSXZ4X1FjbGN0TDBSdG4xRmJNOVV2azFmTlNpVkZmU1V0Wm1rWWY3RWplMUsyNA?oc=5"
+            "title": "Liverpool to not proceed with Lutsharel Geertruida move - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkpReFBWZGVxcUI2aEtKTElTcWxlZnA2MDQ5X0hySGZ4RUdBRDVORXBycHpVZHYwdFJhNDVlWHlCMVlkeXFQS1p4cFpZTXhpeThKOWQ3UVEzd3N1YWZiNG1zejJXNTNTN0drWEZMQVJ6MjF2QU9zTzlZckRuMThTQVJIM1V5TkdMcEVTZ1M0QnE?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -57,18 +57,23 @@
         },
         {
             "source": "Sky Sports",
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
+        },
+        {
+            "source": "Sky Sports",
             "title": "Bernardo Silva to leave Man City: Captain to exit at the end of the season when contract is up, it has been confirmed - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZm9NYWZjaTBpcno5cVlxdzloT0IxMl90UGpwRU11VGFqdmpQcThMTWxYZUpPNkNGc2Q2d0hQbHFjLWctY0JnV2xVaFRhQkFaLTVhNlNRbS1oakJHTnEzT0M2NGo4S3hZUXI1dlpDRkZHZlhmR0F0Uk0yY0NDLVYzT2xxc3otemdoZHhCcGlHTjhqZzgyN0xET2F0NGQwWkk1NVdHUDNzd0stajBPYnpFaGFDUHdBYjA3dWFWVFo3Q0NkRHBWaVNibXBIRkViZUNDZHZQMUpGUXcxSkp5cXptMGVlNUZTM09LWE5xTDZORTFMb1pMRUo2Y09oc0hRSms?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
+            "source": "v.daum.net",
+            "title": "토트넘 역사상 최악의 감독, 다시 프리미어리그에서 기회 받는다...\"글라스너 떠나는 팰리스 부임 유력\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52clhndDNtYTJ6V01JcEpRblpDMWRBTUlXZjAxWUdmU0JnYnlaWnZ4dWpQbmo3N1BqaU5QZXlMSE1Vcy1VQ2c?oc=5"
         },
         {
             "source": "네이트",
-            "title": "펩과 맨시티의 동행 여부는 시즌 종료 이후에 결정되나? EPL 다른 팀 지휘봉은 잡지 않을 전망 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yODk3R2o1dm9zQmJ2WUpFREVkcGE1dk9pVUItNnVrVHRYTFZ0MTVibWhRZklMaEFLRXZIU2pwdm9IcnhJUVdSazYydFJZbVJGd0hFV2JzVzBVVjVsZEl4Rg?oc=5"
+            "title": "'맨유 주장답다' 호날두와 어깨 나란히! 프리미어리그 이달의 선수상 차지…개인 통산 6번째 수상 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1l5aEJuN2VyTkoyclhIZS1QWW5EamVMYm50SmV4cXlUbkoxNmRlVW9DNXNnNWJhcGtETXVrZDJVLTVsaENseS16YzZ5SDAwUlVkY3N6cWVTdERHNXRBUjF2anBrcERyNVhZR3VUNXpyZEhkS3dUQXVfNUpJNjlNN293?oc=5"
         },
         {
             "source": "조선일보",
@@ -76,19 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDlBY3Q3VzN2eldhOWU4V2lYR2xISkQ3TGt4Ql92aGRkZ0M4VDM5SFNpTVljbTVKUFFKOTFjWktWc2stX3hwZzRuQnVLRlBPSTR3ZUFnTXFnUk1jYVd1cmFRcXZSNnY2SXJSbzYwZFBybEtLU1ZVMS1ic0VYMG41X3UtUnpoWWR5N3I40gGfAUFVX3lxTFAydTktc1JRN2NHUVktaGtzNkMtUUtUQkNrNjVDVzZjV0pSbWs4QnVKNVNuTENMQzVCNnU1eFU0OU5pVE5mZGZJa09VM0hCb0tJc2tibGhPaGtTT1BZcGpKVjZjcVBUTmJFVUl5NFo0azVzYUZ5TWRTMkR2aEtqbkctQUFUZ0xaby0zSUstUVNuM2wtaWxwcVV1X29nYjFxUQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'2부' 사우샘프턴, 'EPL 선두' 아스널 꺾고 FA컵 준결승행 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kX09tV3JFVWZEbHFKRnJnRUc3MXRxb0lHMGhTd3pRV2FFZGhrUHNTM2pRYkpKUjc5OGc3clpLb2RxazRic3ZjajNaYnBIY2c?oc=5"
-        },
-        {
-            "source": "뉴스핌",
-            "title": "'EPL 선두' 아스널, 2부 사우샘프턴에 덜미... 맨시티·첼시는 FA컵 4강 진출 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNNDV3dzVwS3pGckdIbGRnVU1rRzViWXItaXRVUEVUZnB2S1ktcXhPalpEQ0Q1cDV1QmFlcUgzTWRFM3NBSHJYRkJZQ0lFMlpLNV9tR2hFbTQ0VDZV?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "‘맨유 주장답다’ 호날두와 어깨 나란히! 프리미어리그 이달의 선수상 차지…개인 통산 6번째 수상 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tZU02Njk1SnVhOFhLVDl6U3gzY1hVUkVNR3AzQUc4bUhWLXZRQnk2TS15SXVKbE5VN25PREF2Y1JSSjJyR2twRXJrOXVoekIyR2thRG5XQ25LM20xQm5CZlgyUUZLNjRXSXZWc2p2MUFmTzNz?oc=5"
+            "source": "yourfield.nexon.com",
+            "title": "[오피셜] \"정말 괴물 같았어\" 손흥민도 벌벌 떨었던 토트넘 핵심 MF, 결국 축구화 벗었다…\"오늘 은퇴 선언\" - yourfield.nexon.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mRXZ0SVhsVG9TcFQzNGpuaTAzVXB2YjVPTTh5amRncHJETC1wN0lWV2xNdzZNS2gySGxJWUVSRWFNTVZwZTZpaW91MDMySEhuOEpjLTFRN2d5OThZeUE0LVJUajhRdVdZbzN2ei1leDRkRUpPOVE?oc=5"
         },
         {
             "source": "경향신문",
@@ -96,14 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzQyX1pySUNQajdfaGJHbFVVTHVRMGVjSHdvLTM1M05iMERwTk1HdHAzenBPV2lmdmxwaVRyUVJDVUtLUmJyUkV6VWtlS3NWVExodm00YUxGd1REQXJGcXllbk9UR19BbTA0MjgtYm1TUm5Fbjk4YVF4d2QybVFDbTRRX0RocmdFUTNUc2tqUUJ5Y3ZEWFhZSUtVOXA4X3RvWWdKWVpRY0ZvQdIBX0FVX3lxTE5NYm9UaFh3VkZJX21ja191bFREeF9YSFJUeHJ1Q2dZZ3JLN09yOGZmYWJBaDhQYWFEY2cxZ3dXejNtMHBfRWZxWUJYUUJjY2RJUGpBRTVMYmItdFQ0MnFz?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "[오피셜] \"정말 괴물 같았어\" 손흥민도 벌벌 떨었던 토트넘 핵심 MF, 결국 축구화 벗었다…\"오늘 은퇴 선언\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mRXZ0SVhsVG9TcFQzNGpuaTAzVXB2YjVPTTh5amRncHJETC1wN0lWV2xNdzZNS2gySGxJWUVSRWFNTVZwZTZpaW91MDMySEhuOEpjLTFRN2d5OThZeUE0LVJUajhRdVdZbzN2ei1leDRkRUpPOVE?oc=5"
+            "source": "스포탈코리아",
+            "title": "'HERE WE GO 확인!' 이강인, '韓축구, 새 역사 쓰나' 프리미어리그·아틀레티코 마드리드, '동시 영입전' 돌입 - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTNJcXozbklmU2c1YTBLUzNCRHVzcUdCbGhSOE80b0tjUFVmTHBuRU44cFg0WHdReFg2ck1IY0pDRk1Ed2ZKeWdBeUNqSVliU2VveGI2VGNucDkwNlN4dThqTnVNSVZCbTdIVlc2cTNaMEFPbm5PMkRHaWEzYXRRazFB?oc=5"
         },
         {
-            "source": "KBS 뉴스",
-            "title": "아스널, 2부 사우샘프턴에 덜미…‘홀란 3골’ 맨시티는 FA컵 4강 - KBS 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY1FGamRBVkhJLW9hUkswbmozNWJLUlVOSVV1Z2xsSGM3TkZINDBPRzlfdEhXcUtwbHVtZnVoMVlaV2FLWEpBd0FkTXRBUVB1Ukk1aDM4bWdUaDg?oc=5"
+            "source": "v.daum.net",
+            "title": "'2부' 사우샘프턴, 'EPL 선두' 아스널 꺾고 FA컵 준결승행 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kX09tV3JFVWZEbHFKRnJnRUc3MXRxb0lHMGhTd3pRV2FFZGhrUHNTM2pRYkpKUjc5OGc3clpLb2RxazRic3ZjajNaYnBIY2c?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "韓축구 보배 이강인, \"아틀레티코? 프리미어리그?\" 골라간다!…'HERE WE GO' 확인 → 월드컵 후 블루침 예감 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZOWZ1X0JwWHQtYVNydFpsMVl5b0Z4U0RBcmNZQ0Q1SzJwWkZPSjdISjRZNnVHTm5sNW1aekRYakx6VFk2TlE?oc=5"
         }
     ],
     "transfers": [
