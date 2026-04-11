@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-04-11 17:22:01",
+    "timestamp": "2026-04-11 18:26:39",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Independent",
+            "title": "Arsenal v Bournemouth LIVE: Huge title race twist as Premier League leaders booed off - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2hmc1Z4ZlpKd0VBb21oMXhEMFI4SHpJM2EtY1NtOGE3Qk80Qmdoa0Rac18tVF9la21VTXRuX01OYlFlV0lfRmdDQTdsQW93WGRaZEVvVmNpTzQzbFBsXzBKNDNxYnNuZnRlb2M4TVF2ODNUTTVkTUFsUGFoWmJuNWdkajN4bXpPWHFheUg5T2VBSERSR1NsbUZqdS1IM3lBTFBXQWRvSzl2NFA0TFVfM21B?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Alex Scott and Bournemouth deal blow to nervy Arsenal’s title hopes - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONDVvVm1ILThYMzZDR0VZQ0NwQzBhaDdJQ21zLVo3cjU5VjA4MGlrX0FnMXgwTDJiRlJWT2syZVpIS2d5SkJtXzNfeko4QURRQ3AxNWRvNDk3bWxlRnZBMmdyeUJpSVpVMTUwU2RINDFzMHJhTkViRlV1eFNqYVd1WVJKRlhXMDhQcUk1TUxnYmxENGwzR1JkcFVtV2U?oc=5"
+            "title": "Liverpool v Fulham: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOejNfcVJKbFdlZWRKcVNXMjFhUXRjRzlZaEY0TlBjdDZEX0pfRXJSM2lnSmtZUnBMUGpjdDJ0c1YtZjB4WXhDbzZrRnV5TVpYdkZlOHNWSFpZaG5fM0hqNkpnQmRLcGhXQ2ZHcEZJcGhuYnVjT2FudFNMN1VzaWQyWmhOeldzLU00T19RQzdpNGltMG5lNU9v?oc=5"
         },
         {
-            "source": "Daily Mail",
-            "title": "Liverpool vs Fulham - Premier League LIVE: Latest score, team news and updates as Arne Slot makes Mohamed... - Daily Mail",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2JVVHZjMGo1ZHhMcE16eU40UlJXVVpTWElOVXhVUlB1Sll2UzE0ZGZnZVlVZnc1bU1SaGJ3YllrNmtHRExJLUxrbnAtN2I2Sm1vM3RZUGVTazNuUmNibWpsQ1BkYXk3MjZMYnY0YTlyNWR5WVlYTDZYa0w2Wi1qYm1PNHpXYUdUOHNJa19TX3BWdU9TREVEY1l6TDlySkZ4MWYwQldneGdCVV9JX2pMYnlxZERaNFBMMTNz0gHAAUFVX3lxTE5FS2FuNWltMDlYRGxYTU9YbkptdnhCNGNUVzZHbXQ5bkhOeDRWQnd2NHR4cXlMSDdMLUxEMGhaUlNNb2UxclNia2dmeWxWUkowLUdOZlFGVnh6ZVFIeWYyck9lWHo2VlkySHpvTmdndWdhQkNVNTBjckdsYmxhbHV3c2lURy04UVpYc0M0SnA2VjctOFlfT1dqR25HSUVaZEhjNXFubDFvdXo1bG5ELWZXem13SjdKNDJaYk5lUW9ZVQ?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Burnley vs Brighton LIVE! Premier League commentary, match updates, score and team news - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbm0tT1F0SkEzSFAyQkgyUjB1MEdXN1JHWmtELWRlTUlzQ19hMTRJU2wzM1FhaUZ2T0V1aGlKbXRoR1EydmRQMDFBejkyX0h6bGVWTDltMnZETHVXMWhheGZFMTd4V0tMRHkyNHdnbHpEUHBiS2wxVTJlelBuWmFZZjIzNjNzR3JTWnEwXzEtcFE1d2djV3FVVXJCRDUxVm9LdTZxbDVjYmZlQW5JRmJHUXM2OHUtWVFsYjdpQ0t5MG1fY2RxaUl5bENyZWNfQ0NZUlg1bG9rTnAzNWR5?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano: Talks held over last 4-5 months for Liverpool target transfer as Barcelona pounce - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejdhUnhGSXlwU1BFWE1DWUppaTRoSGRwU0Z3aEllM2FJU3N2cTJnTDFNZDNlQUtpblVCYXB5bjFaZFZ6cjJ5UFdBUDBDOG9FTGtKdFFoZ0xiQnlZdGx5d0FDVTl2S2w4anFSdmtIZzJjX2tCbzNYNXFlLXJKY3ZXdGo5b0ZtSVFQMEZPX3V5UUw4MlE0S1dsOUQ2cDJoLWxkS0E5cHJRWHVUUmVwOXd5d05MLUhHSEdHUUVXOVVTdTZ0aWtFUDhhOXAyR2hEQ2laOS10OQ?oc=5"
+            "source": "Manchester United",
+            "title": "Premier League confirms 2026/27 fixtures date - Manchester United",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHRrb200QnRQalhzN0ctTUtGZmdSU2hfV0ItdVFaRE5GQ3FFaGwxUnpTZUJPUmpXLWJTNXZrcmJGdDdxQllzYk5jMW5VaUlMeFFMN0x2X3pwTU5QdTFKVEs0T0pVeUdpbURDU1RGRTlhODZ3QmNldGNzcklUai0ybTJmbkJDN0tWTGtEYjVqbnRKWjQ?oc=5"
         },
         {
             "source": "footballtransfers.com",
@@ -34,6 +29,11 @@
             "source": "ManchesterWorld",
             "title": "'Deal done' - Fabrizio Romano confirms Man United sign \"ultimate\" England star - ManchesterWorld",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXJwWlZSaU94NG1oU3NYYnB1YmtKUUgzdlV2cEtYWUVCLThlVzhkb2J1dlVEQWlheVdYcVIzS0xIU1hFNEhMenNVTno0N1hnQTFsQ29WN01vajQtcXhfLVc1bmh2cjBfQ0ZFM2M1Qkdla3dUX21Zb3pRLWNwSTYxNDQ5ZWNDS2FMUXFzVTMyZ2NoWEN3cWIybmlrSzB5V2xIejRxN0JRS0Z5ZWNMaGNKVjMtcVZRT1R2QU0yeQ?oc=5"
+        },
+        {
+            "source": "OneFootball",
+            "title": "“Liam Rosenior and the club” – Fabrizio Romano reveals why Marc Cucurella wasn’t sanctioned by Chelsea - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWViZThEODk5NUtCTGtMQzZJc0tVYVE0aWdZNEVVM1hrMXpaaUhZdkhsNDZBX2JodTVOb2o1aV91T1NjSVIxa0xzWndzXzVzNC1GSk93M0hkQk9kZ1ozNXlYcFdEdU1qT2c4YjJuMGQ0a2ZaOEJNbF94QTRJTzJiN2J6TFZpWDZhTE9aczJqWmFtdDdwMW1BOF9vMVY1RzJqa0Yxcm1mREdmdWxQZzdZZXp5cGZGZjdqNTNNdzhkUG5Pb0FTbDd2eVZ0LTVnOHhHWnpTOQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -67,18 +67,18 @@
         },
         {
             "source": "네이트",
-            "title": "프리미어리그 한 시즌 돌려보니…AI 모델, 축구 베팅에 유독 약했다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4ZjBmaXBPSkFSVFJCWWc1UmlZdnRaRlBqOEJUMlBwdDY2NFA1OFR5N3N2bFE1Vm4wc3FBRF9vOU5YdXBNTHljazZueHhxSDZGUXFj?oc=5"
+            "title": "AI모델, 프리미어리그 모의 베팅서 모두 손실…\"대부분 파산\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SOWtyczZoOE9Lblc0aGlIdHhpY19EeWExV3hMMTkxZ2tpa3pQY0hjNmZQUFFhdXQ4TEJsSmUzSWhodWluZE1CWEE2U1EyM2x5WjJn?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "[PL REVIEW] 22년 만의 우승 도전 역대급 위기…아스널, 본머스에 1-2 패배! 연승 실패+3개월 만에 리그 패배 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucG84V19NaGUzV29PbjFGc29FZElYWnpVZklWY29ISklCaV93aVVLd1B0S01XRFpqZTFuV1NwZ2pFZ0Nwb2pJODhPX0Y2b0RpZGp2VmpsVWdUSUh5?oc=5"
+            "source": "sportschosun.com",
+            "title": "맨유 진짜 잘 나간다! '아스널, 패할 수 있다' 위기감…'8000만 유로 스타' 영입전 1위 질주 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PYkF2bHlmWnJqblFCR1JodmJLVHF6T1dJVnZUWS1Rd004ZHlLRHJIbFRzbGJlckk2alBIdnc5eHdPMkJHQjhQb3c0WTB5UzQ5eVdNRzk1RVVXeTdKLUtaNFFXS3dpSGZ3UVpKVXFfd2tSc2hTd1BnRTJ3dkZkZ9IBd0FVX3lxTE5tdEhXMUsyZkgzQ2I1YWw3NDhOUTdKNC1kT2tiMWRHODFoZzR6eHhZcHFHb2d1UWxyWEFmQWN2N3h3d0ptNFlsc3RxU1BybjBkSjdoX184Rkc4TlAyTUlpSlphTWlOV3MzSmFIVktsMTZZTlVlaFBv?oc=5"
         },
         {
-            "source": "xportsnews.com",
-            "title": "'EPL 한국인 0명' 상상초월 대형사고, 현실 된다…美 유력 매체 \"울버햄프턴 이미 끝났어, 2부 강등 불가피\" - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwU25jajBfWEd4dC1pZ01RTEhNUlVZX3UzT3ZoZEVNdUZIY0JBZXJySTlodUhVeEJQWlpUbU1tOUFtSnl2ak0zanYzWlFyZG5rNXdYbg?oc=5"
+            "source": "v.daum.net",
+            "title": "토트넘 끝내 강등권 추락했다…'6292일 만에' EPL 18위→2부행 공포 닥쳤다 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaSFJHdmZSSEEyMnhnSFRvMTVPNUpTeUQzVmlLSEowclJYRGQxV0xoU2sya1gwLW5OV2s3UEVhXzEzc2Ffb2c?oc=5"
         },
         {
             "source": "SPOTV NEWS",
