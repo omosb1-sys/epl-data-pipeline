@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-04-11 15:22:30",
+    "timestamp": "2026-04-11 16:22:30",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Daily Mail",
+            "title": "Arsenal vs Bournemouth - Premier League RECAP: Nervous Gunners take a huge stumble in the title race - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMVVjQVQyZjdCbU9FNmRuRzNZTWFWbzVOeEp0MWhKMWVSMzhMWkZ4eHBqcC1TWUlsbUlXN3d3bnpiZzRwcVBRYkVPVEN1b0U0MVlVZW5idzZMSExhbVhmaE5Zd1dtV3l5OTdxZHNIYkpBQXZtQUpEVzA5QlpXZEZERGFXbURzRDZ4THY5eUZ1UVN0YlIwd1Z5QzRfM0VNdmVTLW9sWVM2Z3Fwa0Z2bjN1SkRnX3U0d0MyMUt4X01xVQ?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Arsenal 1-2 Bournemouth: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGNybU5va2JOZjNoT21pNGg1Qk5DUkp5NGJjYVF5dV9xVXZkclktT2xnRjREclphcU45enItcm5GbVFlOUhzVmYyU2EydWdQUXVJZVlhZk1rMjQ4UWctNHdtcTFyYi1yNU5RTmlsVmdQUzZRdXAzOHh6cUtjSjF2WUJmaHlKU0lMV0xoNUpDQy1HcXpHVy10djZPbw?oc=5"
+            "title": "Liverpool v Fulham: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOejNfcVJKbFdlZWRKcVNXMjFhUXRjRzlZaEY0TlBjdDZEX0pfRXJSM2lnSmtZUnBMUGpjdDJ0c1YtZjB4WXhDbzZrRnV5TVpYdkZlOHNWSFpZaG5fM0hqNkpnQmRLcGhXQ2ZHcEZJcGhuYnVjT2FudFNMN1VzaWQyWmhOeldzLU00T19RQzdpNGltMG5lNU9v?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Alejandro Garnacho opens up on Manchester United exit, saying he did some 'bad things' - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2NUeUFyOVZST04zVHRTcGpENlFGUGhYRlFwdE5WSmVaYm55VmNGT0ZoLTB3dHBTY1BnTTNwd1liMW9yN2l2LUFfTUI0eEtWZU1VVVVzVU1LYzVYYnJRcnphNWg0WlVKYWR6QW5xOE1IOFhVdVRtR1hCNDJuUGRjZjJxWTZJc3pOa1pDelItd0hlMXpCMnZDeTJhSnpWcHBSZ1dCbVJPY0g0N3RaaTlrZFA0NFlUQXBQOVhSV3Y3Mm52Mnd4LTdQR0Fub3cyaWFycVV4TFU4Wm1MVzQ5VTBadA?oc=5"
-        },
-        {
-            "source": "The Independent",
-            "title": "Liverpool v Fulham LIVE: Latest score and updates from Premier League - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTJjMjkwdHVDejJPNnpWM0s5cWdTR184bWxTLVZlZGM2VUNjZmU4NFdDczRnbUo1MER0NkVOUTRTZXRrTW9BQ3RrbVg5M2xaTkJMaGdqRFJpUl9ycmxUVGdFUUlSaFV6OXM3MVhzRmxXOVlYX0ZtS1BxT0RTUVhzaUFsVzdhUGJxdm45WXFkSFdIR2F0ZHNQblg4clN6dHI0WmllaXE5RzI5QXFxelNFcE4wcVlGWXc?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano: Talks held over last 4-5 months for Liverpool target transfer as Barcelona pounce - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejdhUnhGSXlwU1BFWE1DWUppaTRoSGRwU0Z3aEllM2FJU3N2cTJnTDFNZDNlQUtpblVCYXB5bjFaZFZ6cjJ5UFdBUDBDOG9FTGtKdFFoZ0xiQnlZdGx5d0FDVTl2S2w4anFSdmtIZzJjX2tCbzNYNXFlLXJKY3ZXdGo5b0ZtSVFQMEZPX3V5UUw4MlE0S1dsOUQ2cDJoLWxkS0E5cHJRWHVUUmVwOXd5d05MLUhHSEdHUUVXOVVTdTZ0aWtFUDhhOXAyR2hEQ2laOS10OQ?oc=5"
+            "source": "Daily Mail",
+            "title": "Liverpool vs Fulham - Premier League LIVE: Latest score, team news and updates as Arne Slot makes Mohamed... - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2JVVHZjMGo1ZHhMcE16eU40UlJXVVpTWElOVXhVUlB1Sll2UzE0ZGZnZVlVZnc1bU1SaGJ3YllrNmtHRExJLUxrbnAtN2I2Sm1vM3RZUGVTazNuUmNibWpsQ1BkYXk3MjZMYnY0YTlyNWR5WVlYTDZYa0w2Wi1qYm1PNHpXYUdUOHNJa19TX3BWdU9TREVEY1l6TDlySkZ4MWYwQldneGdCVV9JX2pMYnlxZERaNFBMMTNz0gHAAUFVX3lxTE5FS2FuNWltMDlYRGxYTU9YbkptdnhCNGNUVzZHbXQ5bkhOeDRWQnd2NHR4cXlMSDdMLUxEMGhaUlNNb2UxclNia2dmeWxWUkowLUdOZlFGVnh6ZVFIeWYyck9lWHo2VlkySHpvTmdndWdhQkNVNTBjckdsYmxhbHV3c2lURy04UVpYc0M0SnA2VjctOFlfT1dqR25HSUVaZEhjNXFubDFvdXo1bG5ELWZXem13SjdKNDJaYk5lUW9ZVQ?oc=5"
         },
         {
             "source": "footballtransfers.com",
@@ -36,14 +31,19 @@
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXJwWlZSaU94NG1oU3NYYnB1YmtKUUgzdlV2cEtYWUVCLThlVzhkb2J1dlVEQWlheVdYcVIzS0xIU1hFNEhMenNVTno0N1hnQTFsQ29WN01vajQtcXhfLVc1bmh2cjBfQ0ZFM2M1Qkdla3dUX21Zb3pRLWNwSTYxNDQ5ZWNDS2FMUXFzVTMyZ2NoWEN3cWIybmlrSzB5V2xIejRxN0JRS0Z5ZWNMaGNKVjMtcVZRT1R2QU0yeQ?oc=5"
         },
         {
+            "source": "OneFootball",
+            "title": "“Liam Rosenior and the club” – Fabrizio Romano reveals why Marc Cucurella wasn’t sanctioned by Chelsea - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWViZThEODk5NUtCTGtMQzZJc0tVYVE0aWdZNEVVM1hrMXpaaUhZdkhsNDZBX2JodTVOb2o1aV91T1NjSVIxa0xzWndzXzVzNC1GSk93M0hkQk9kZ1ozNXlYcFdEdU1qT2c4YjJuMGQ0a2ZaOEJNbF94QTRJTzJiN2J6TFZpWDZhTE9aczJqWmFtdDdwMW1BOF9vMVY1RzJqa0Yxcm1mREdmdWxQZzdZZXp5cGZGZjdqNTNNdzhkUG5Pb0FTbDd2eVZ0LTVnOHhHWnpTOQ?oc=5"
+        },
+        {
             "source": "The New York Times",
             "title": "Tottenham in pole position to sign Andy Robertson, subject to Premier League survival - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3NLQ3c4S3lBYXNFWEgyMlhjX3hER0tYRTBmcHNUanNGSEtCaFJCcnc0SV9TSDhIbVd4TGhTcW5OYUxMNC1ObUV4N0tENTVRNkYteGkxamVRYnhoUHFqZkNta2pkTDZMa1U5MEtKUXJxcWVVX1RfbXZRbVgtU3dBYmtSSWZCeE5IdkJrZU5QNXFoQU55Q0JUS2ViY3JCUGpDR1l3M3BB?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Manchester United close to agreement with Kobbie Mainoo, Harry Maguire over new contracts - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjkwZ3l1OEsxVG42R3pkVkhFZzQ4QWZtVTlhQThpaHlLX3BkYmF1RFQ5RHNKM3M1MmFxRmgza0hNcU84cWhXcC13d3ctODE5Y3VKRDdhNUp2NUhHc04yM2tTMVlaOXVlUVBObkVELUlhWWlYb1JEOVFCeUNkRjhYUTdnTzBLNEhoX3NFUzk3TnBXNm9LUXdFNzVPVFhiOEpn?oc=5"
+            "source": "readliverpoolfc.com",
+            "title": "David Ornstein: Premier League rival lead race for Andy Robertson after Liverpool legend's Anfield exit confirmed - readliverpoolfc.com",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSG1OYm53ajBOWjlWOU1QX3FBdE44Qm4tY0lDc1lJVldKeWVfLXNlbThMbXlyRXJDRl8wSG4wRDBiUkhWajREZVY0LVlwdXFyUXhabjU0MUFTNFdWcW5OeTcwX2wyNUZXWlRyd1V1UlFyVTh0aDZGd1BQSzFJdEFKX1NLQVdOU1NESG1kaVpSZThVS1FERWpqLTFLaUJvVGowTUFOeE02MA?oc=5"
         },
         {
             "source": "The New York Times",
@@ -71,9 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4ZjBmaXBPSkFSVFJCWWc1UmlZdnRaRlBqOEJUMlBwdDY2NFA1OFR5N3N2bFE1Vm4wc3FBRF9vOU5YdXBNTHljazZueHhxSDZGUXFj?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "[PL REVIEW] 22년 만의 우승 도전 역대급 위기…아스널, 본머스에 1-2 패배! 연승 실패+3개월 만에 리그 패배 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucG84V19NaGUzV29PbjFGc29FZElYWnpVZklWY29ISklCaV93aVVLd1B0S01XRFpqZTFuV1NwZ2pFZ0Nwb2pJODhPX0Y2b0RpZGp2VmpsVWdUSUh5?oc=5"
+            "source": "xportsnews.com",
+            "title": "양민혁 팀, EPL 승격 확정!…그러나 YANG 11G 연속 명단 제외 '웃지 못했다'→코번트리, 셰필드와 0-0 무승부 \"25년 만에 1부행 99.9%\" - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Idk1nMjBTWUxRTXpfaEtHNjNQS0lFSHBnU1FRbHJzVzljb0VZODc4alYwcWZrR2RUSkJuOVlVMl9oeDNuX0c0cTl2SUV6TWNaWW0zbg?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "토트넘 끝내 강등권 추락했다…'6292일 만에' EPL 18위→2부행 공포 닥쳤다 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaSFJHdmZSSEEyMnhnSFRvMTVPNUpTeUQzVmlLSEowclJYRGQxV0xoU2sya1gwLW5OV2s3UEVhXzEzc2Ffb2c?oc=5"
         },
         {
             "source": "ZUM 뉴스",
@@ -84,11 +89,6 @@
             "source": "MSN",
             "title": "[오피셜] 토트넘, 끝내 강등권 추락…英 BBC 대서특필 \"전례 없는 최악의 상황→PL 출범 후 최초\" - MSN",
             "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZXpWb1NkSWNvZWhpcnM0cmltakw2MkR4QzRiVWNmcHV4QS1WOWJrdnlPSWFHYVNpc3FqbUJJUTdJcXN2RU1taUhYb1dTOEJ2WG52cnlPZG9wWmhyNnJpbmw2WE5MSWQxUEJoN3UtdTRXTTVuejJjalRoOU9GclZYbHpncmdoTEM2Y2xVNGFjcmxOc25ueFNsSXQ4dXJlUHB0OS1iQ2JFY1JnZWNQOVpKeFhQN0VCLXBZSWR2eUZJeWx5MktFbFJ6blB2N0xhdjh5UzVRVHhMckdLazc0VlhqNnRGZHpXcU00VG5udzFIZG9nUWEzRmZPYTdzNmxGc0xKdDVTY2prMDJmSDU1SEJWN1hfVXJJRk9UQlRIa2lZUWZJdDlqQ3NFb01tXzNMRkhMY3NLYTFCS1VIeFpTUl9DNUlMY3p2OEMxUEJsNHZ4TE10aElOdFlGWXh4WjdIdGRQajNkSW5IUFA2dkpGWG9tWHljRWdqbGhWM3cwUzhnRWhOc2lONENKM0R4TUkyM214cl85SmZaTmd0Q2hLMmxRcDFJNUkySS0yYnRCdWFRWks4Q1MxQVlrMDFINnVMZWtEbGZLM043QW9uTmY2NEhsYno3Z2pQdFBKOG51ZllNczNVcDdranRqNVByZ1Vxa2ZrUHlCMFh1amc?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "‘17년 만이다’ 토트넘(18위) 강등권 ‘공식’ 진입···웨스트햄, 황희찬 소속 울버햄튼에 4-0 완승+PL 17위 등극 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNU9CZkp3ZmljSkUtcE83eEtmdjVyOVo5RnZ6RGQwODRvSV96aFdDa0pjbElzdzlDSnU3dk1aZ25wV211b09zYTlsYjhacEU?oc=5"
         },
         {
             "source": "네이트 스포츠",
