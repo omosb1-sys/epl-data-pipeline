@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-11 05:52:34",
+    "timestamp": "2026-04-11 06:45:57",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League Highlights: West Ham 4-0 Wolves - Castellanos and Mavropanos score twice - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YWDlRNTRMTWp0NDNRdVp5LThVYXhvUWx0Nlk0czIxcy12eWxlQ0hjN1VVcmk4ZXRFTVdPbzhlQ2d6WWgwbUlXRkt3SVJrV1pkazQyVVVWRnJLTHNIMzc2dndRVXM4S2s?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "West Ham 4-0 Wolves: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVERxUkRHWnY3R1ZVYjdXbGVKQWZqMWtyS2FjZG9rVlVFTkEwNmlwVlNub1lGa0twY3ZJeXN4YlM3bmwwMWdBZEpUTDlEd1RGd0tjV0l6SzV0c2NkOHVBczVacWYtZEJTYWxHdWlnaXhCb0VfaTl2N1NEX25TVVdWWHRBZGlIbXJpNFRNWUtNZHhmQ2VLbzBFY3FqSXpHdFU?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "West Ham 4-0 Wolves | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamcwbFlKSEdVNmNTajNrT2tCcE85ZGJ1YTQ2MjN6Y2xPUEZRdXhmSl9HUGlHanZpMXJWaWdveGRXYmJvOFhHNDVUQURyMDZQQjRiWXJ2dk4zdkVaWlVKUzU0VldFaTU2c1M5V0dBdHZSblFMQU91d25hckEyRnp6TldvTVZtdE1hNWFvRUZUcHNFMFoxOG1TWkZvVnY3dDhMdHJv?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "West Ham thump Wolves to plunge Spurs into bottom three - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xSWdvSi1OZG9EMkg3RFNsb2lJam9jTXBTMmZwUEtoR2lQX3hkX2U4R2ZUN0g1UVhHZjhSN1BNVlF4NDluaVR4MEtsb1M4N3BtU2tmeExBT0xWaF9PbTdlUjlvalQ?oc=5"
+            "source": "The Independent",
+            "title": "Saturday’s briefing: Tottenham in drop zone and Arteta puts Arsenal talks on ice - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVpOTy1kMUc5ZGlESU1Oc0Vrd2owRE5OU0V0RGJORnB2eU1GSmxCeGhicnFuLVhDTV9wTWlSSzcxRnFZLUc2TUQ2RHhidXF3emJ4X2pFNXc3ZHZrR1BmeWpnZFVjcWNtam9DX3JwN1Jrd2tob0UtU3BCUUFyVEUwdzYzYTg1bnhhM0xqcEdtSmZocG9mS0lXaTc0TWZORFpTaWpEOUlPTTlhZWlwaER6ZURxWDY2SFU?oc=5"
         },
         {
             "source": "ManchesterWorld",
@@ -27,8 +27,8 @@
         },
         {
             "source": "footballtransfers.com",
-            "title": "Fabrizio Romano transfer news: Sancho talks confirmed, Liverpool deal close, Olise move latest - footballtransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUhXWUM4cXd1VWxGVGNJTXhxZHIwNHdERHd6MzY5S2FZbVEtbVg4MTlTS3VsaWE5SHpCZTZ0NWhfN3d2djE3d1JOakxRYVZzU2pzTlg2U2pYUlViSDlQZDBnc3U5SC1iNWJmVjhSZ2x4WEY4RXlQdklZcVNRdUhBQXRzWUlFTkZNZnRYTkJ2eEg2Z3M0dmxGVVdvTXE5Y1ZPc21jcnZqc3ZhU19ya1ZFUnlrMFpIVHlPTG0zVFRNUmk4WUZfMlJwR0YwU1FidWUydWstWUFGa1M4bVRIMXJkRkpZcE8wdUV2ZFlxYXM1MUFUaFlVTGRzcWpxUjA?oc=5"
+            "title": "Fabrizio Romano Transfer News: Grealish latest, Rodri contract, Anderson battle - footballtransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUENWX1E5M1RzMHg2Ukw4d19oWlBpZmFWSWxDZm5YRjlKWHpxcUViZG04aTdZSXFmMkxBaVhfZEVWQS1oaTlxSm9uc1BYbGxEUDFqbU4xaHRaMWhrZXZodndHSnlJMjdSbHl2OHJBRnBjWlo2a0ZTMllhcmVzalR5U2FJbUJwY1BFdlpMRDFBZGV2M2tYb2lRZjN0WU9oTGdFZm1QMlhhbWJrNFZjWE5jLXR0dnVjR2tMQlJTTTJScTdiZlNtdktDZjNIdVU1UjRya3pLNlFLZ3NGakNxYktGYzJNTnJpV05L?oc=5"
         },
         {
             "source": "OneFootball",
@@ -41,9 +41,9 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3NLQ3c4S3lBYXNFWEgyMlhjX3hER0tYRTBmcHNUanNGSEtCaFJCcnc0SV9TSDhIbVd4TGhTcW5OYUxMNC1ObUV4N0tENTVRNkYteGkxamVRYnhoUHFqZkNta2pkTDZMa1U5MEtKUXJxcWVVX1RfbXZRbVgtU3dBYmtSSWZCeE5IdkJrZU5QNXFoQU55Q0JUS2ViY3JCUGpDR1l3M3BB?oc=5"
         },
         {
-            "source": "readliverpoolfc.com",
-            "title": "David Ornstein: Premier League rival lead race for Andy Robertson after Liverpool legend's Anfield exit confirmed - readliverpoolfc.com",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUpNRHhqcGI3NndISS11Q0V4MGE5ZG5uRjZYVWVOYXFaVDV4SjM3Z1pJQkRGeWpDNnRqQ2dpQURfSTBaOGhvcU5wMk1Fb3ZhaC1ZZ0FxbXBUbmJ4RUhsYWJQNUNwalFJMFUyNHJjWG5XR2dFUndRMVpac2UxdVdKUzNET0d1eXVmTWl1X0hMUzlmVkZpbjZWTDlueDIyQnFtRlczUkdkckwyd0RPb0E?oc=5"
+            "source": "This Is Anfield",
+            "title": "Arne Slot future: Liverpool “steadfastly behind” head coach, claims top source - This Is Anfield",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThvaHNSUllFUXloQ0N6NVZoQllSNzVyVGhfT0xySFBCZEx3dWxHV2Y0NnhITEE5Q1FnTlZmOVNkSWdHUG9NYkJzdlVLLVhqdVFsaDFLY1c4bTVpUUM2TWVwdlZ5UXhZRDc4VHV6eGtmUFUwWXppenAxRXduVzNvTUdXODgzdEpISGVVQkJzbUJYMUFLb1Iw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -57,8 +57,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Premier League: Title, Champions League and relegation battles heat up as run-in begins - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1pzQmJtQWNKaV9GZnBVSWZ6WkVTOGRBRUY1ZGhhemhZMnoyUDk4UWMyRV9VcGRhVlBzMll2aUd3T01ZSG1iWjcya1hBeTNkOW5JMng0TVdMWDhlV3l6bDFIZGduQlR6V0RrbFdVZ3pvU2ppdUx6OFVBd25iR2E2T2lxQzdqN3FvT1Y4V3Q5MEJfVm5hdkxuNnEyZnI0QTdBVDZScHNubVVzX2Jvdk1tZDFJTWdhS1RXSE42MFZXWUJUeFFWU3hWV1VKZVptUExvSVo5dlRPNA?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
             "source": "조선일보",
@@ -66,39 +66,39 @@
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTVSbTBtTVMzVE9MZ25XNHI5M1NzT2VrVnJCWmRoQlgtWkxSWDhUeFgycF9iUHRWazFUMUZYM3M4QVcyR1JZN1g0SFNycUg3OGwxVUdIYk9jX3phSVNZOTdFRFdoa0VGV2xpc2JYd0hqQjZUaDEzVmpDLU9DQkNqanhmd2VvVXZYaXF6T2xqOWg5Yi0ySkI4TUZNQTltQdIBsgFBVV95cUxPcXp6aW1xaGxUdlBfTDQ1RXFXaHZ4VHlkZmpMMGxCQlRMUmJNQk0tbF9Ub2pET0tQWDFiYUpYbUYtQldTdFRhZFR5M3kwZXdiX0lwYlZyQ3pscEVveWtvdDM2QzVabHF0SEFPUWh3SDdVSFlSQXJBZzRvb0hJTnZtV25URmVMUGFDWVZSRGI4ZlptQ2VYQWxUTkFtQTBJbEYxQXczRnQtWHNjLUFNQ2ZVNDBB?oc=5"
         },
         {
-            "source": "sportschosun.com",
-            "title": "맨유 침몰시킨 한국인 등장...韓 최초 10대+16호 프리미어리거 가능성 '점점 위력적인 박승수' - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GS2xsUlRfUm5zaGpNUlA1djRUQWJVTTdUTkZHXy03dzh4YzBmLTk1bVZpYnJHbXFEMFVQTDBEcmxJNmNFZWJXUzc5dWZxTlAzUFJpU3lkSWJkWDF3ZGNhN1loSmkzeUkybmVnRHlzSEMtU2J6OVZHYjBmSTBTQdIBd0FVX3lxTE9RdjJwMzU5bjFNelhZaTVrc3VDR0JvU1pOd0dFZEZzMzdTM0NqeVh2bHZ4OVhTWXhvZk1kVm5lRVVSNDlRM1lVNmx4dWNJTU9QMWJtT1pHOF82VkczX3FJSS1xVExvTmtFNUN3STcxeTNGalk1UW1F?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "\"리버풀에 내 심장 바쳤어\" 작별 오피셜→토트넘 달려든다! 문제는 최악의 성적...\"강등 피하면 로버트슨 영입 유력\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2wtc2F5eVZwZ1M4S0VFSzlvOXZITGZxcXNEeXR6R0t0THJrRl9aLWhFUmR6cmlkWHlCLVRwZHhaeF9iYm1IVEhWYmNNU2xKNFE3NjZjZldvUjlwRHVhVWNTRkJQcU5HRXBEYUhHVWJHeDN6eHYxTzFNZUE2aXp1UGlhdlZPR0lnc1VB0gGfAUFVX3lxTE5ZZUJPdzdxZGtMS3EzZFpqdDYtX1pscGx1U2Fpa0RKcG9zbjNlYzdFRzVSSS05T2ZiN2JMOVNPNXZwQm9YY2RYbnBUSHEzRFczRHVTdTVxajBvb3hKeWxBV3JBLURHR2szSEx6eEJUZ0pFSUFrbWVzckkzRWoxTEMxWDB6SDJfMmN2cXZQbktCdzNOR0tUd2E5YTBqNXB6cw?oc=5"
-        },
-        {
             "source": "네이트 스포츠",
             "title": "'우려가 현실이 됐다' 토트넘, 결국 EPL 강등권 추락…웨스트햄, '황희찬 교체 출전' 울버햄튼 대파 - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IcHY1ajdmRTVjUE9Gck0ydmVKUHZ1bW50cUo3Qm5ycXgwNXpaSU1zOElSV0VySWllZjM1SXBtLU1kS3RUNkFvWG5lNGh1NmxIcXViblAzQm9XdGV0?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "'이럴수가!' 토트넘(18위) 강등권 '공식' 진입···웨스트햄, 황희찬 소속 울버햄튼에 4-0 완승+PL 17위 등극 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40U3QzdVVWSmp3amg5RTdmS3NQSHRFUTlzUHgzelRmSE82VWV0WDM0YkhnZTFfZ2c0N0NMRzczWGduVlBzX3REWVJKOG93WjNaZEdYcktJbV9rbVdS?oc=5"
+            "source": "sportschosun.com",
+            "title": "맨유 침몰시킨 한국인 등장...韓 최초 10대+16호 프리미어리거 가능성 '점점 위력적인 박승수' - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GS2xsUlRfUm5zaGpNUlA1djRUQWJVTTdUTkZHXy03dzh4YzBmLTk1bVZpYnJHbXFEMFVQTDBEcmxJNmNFZWJXUzc5dWZxTlAzUFJpU3lkSWJkWDF3ZGNhN1loSmkzeUkybmVnRHlzSEMtU2J6OVZHYjBmSTBTQdIBd0FVX3lxTE9RdjJwMzU5bjFNelhZaTVrc3VDR0JvU1pOd0dFZEZzMzdTM0NqeVh2bHZ4OVhTWXhvZk1kVm5lRVVSNDlRM1lVNmx4dWNJTU9QMWJtT1pHOF82VkczX3FJSS1xVExvTmtFNUN3STcxeTNGalk1UW1F?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "[오피셜] 토트넘, 끝내 강등권 추락…英 BBC 대서특필 \"전례 없는 최악의 상황→PL 출범 후 최초\" - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZXpWb1NkSWNvZWhpcnM0cmltakw2MkR4QzRiVWNmcHV4QS1WOWJrdnlPSWFHYVNpc3FqbUJJUTdJcXN2RU1taUhYb1dTOEJ2WG52cnlPZG9wWmhyNnJpbmw2WE5MSWQxUEJoN3UtdTRXTTVuejJjalRoOU9GclZYbHpncmdoTEM2Y2xVNGFjcmxOc25ueFNsSXQ4dXJlUHB0OS1iQ2JFY1JnZWNQOVpKeFhQN0VCLXBZSWR2eUZJeWx5MktFbFJ6blB2N0xhdjh5UzVRVHhMckdLazc0VlhqNnRGZHpXcU00VG5udzFIZG9nUWEzRmZPYTdzNmxGc0xKdDVTY2prMDJmSDU1SEJWN1hfVXJJRk9UQlRIa2lZUWZJdDlqQ3NFb01tXzNMRkhMY3NLYTFCS1VIeFpTUl9DNUlMY3p2OEMxUEJsNHZ4TE10aElOdFlGWXh4WjdIdGRQajNkSW5IUFA2dkpGWG9tWHljRWdqbGhWM3cwUzhnRWhOc2lONENKM0R4TUkyM214cl85SmZaTmd0Q2hLMmxRcDFJNUkySS0yYnRCdWFRWks4Q1MxQVlrMDFINnVMZWtEbGZLM043QW9uTmY2NEhsYno3Z2pQdFBKOG51ZllNczNVcDdranRqNVByZ1Vxa2ZrUHlCMFh1amc?oc=5"
+            "source": "네이트 스포츠",
+            "title": "리버풀과 이별 '공식 발표'→토트넘 입단한다?…\"사전 작업했어, 조건은 프리미어리그 잔류\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNTlEenVsWnk4RzN2NEFqS2V2aFQ3VnF4WFpPNVl3ZkZiQkVtM3ZXbXZDZDQxakkyTVA4bkdwMmpSODg5YzNpRk5ZanZ3TTdVOTJZbGE1MXBJZ0Fu?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "이적료 0원도 못 잡는 ‘강등’ 토트넘 현실, “프리미어리그 잔류부터 해봐” 리버풀 떠나는 로버트슨 고민 중 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQkdPOGJhUnRSNzFlX3ByRXNHNy1PTFp2dVYwUXFKVjRMNEtlNVZPdUJZYXJWcHhmekplTjlYTXczQ2Z1RmtqSGJPQXpKOUlNM2pHUVRTWXdqc1JQcVljVDBFTkpLdXdSeGozb2dYa9IBc0FVX3lxTFAxRU91R1RWVzltODM0Y2hqZG1LRUFtRHF4N3Q2bC1ILXFoX2pUcjhPZ3VkMWtMV3dpWTNpVjhVSEVLdE1qb09XYU5WY2hleWRBUUlMUzE2XzgyM0NIY1hVZG1LbGg2U2s0bmFPZ0lRTUM5M2M?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "'황희찬 교체' 울버햄튼, 웨스트햄에 0-4 완패…강등 확률 100% - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NcGQ5QWtRZzMxN2VsN2psbTM3RndGYkMyc2VsR3ExUTBjSEZjNXFLZGVyQWpyeElPR29oaFUzVTJqV3FFaHBVLUplaE9lRzVZdWc1OWY2MzF5MnYya3g1atIBeEFVX3lxTE1USkZuX1JHWXNMc3dSUTJDc0ZkLTRPSFdYWnJRdVNJa1JTYXJLV2pkUFotUzBCYlVqVzU2NEsyeHpacWVRalVyR1hxRGNRWUJnUFpuT00zdXRsRFNueENXeDI3NFM3cVhXSF8wRkZ5YjJkcFQzQXluaw?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "'맨유 어쩌나' 프리미어리그 최고 미드필더 영입 포기…왜? \"높은 이적료와 급여 때문\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05RnNEQnN0NDg4eXZNbUc4VXJPNTVET3BBa1JXUG1vRllNQUhhUzdaaXZ5LS1sRDBST0dBeEJDdUdUUjhGX1FjRXB4S3pWYmtvRUl0Q1JFWjdMcktm?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "이적료 0원도 못 잡는 ‘강등’ 토트넘 현실, “프리미어리그 잔류부터 해봐” 리버풀 떠나는 로버트슨 고민 중 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3S1lMVmJ2SDVTYzdnMVQ3MHpfXy1IM1ZaWlI5Vjg0RjlUS0lFUWhjN2F5NE5jV0VRcDg2Ql9OaEhYSmhjWkE?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "'EPL 한국인 0명' 상상초월 대형사고, 현실 된다…美 유력 매체 \"울버햄프턴 이미 끝났어, 2부 강등 불가피\" - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwU25jajBfWEd4dC1pZ01RTEhNUlVZX3UzT3ZoZEVNdUZIY0JBZXJySTlodUhVeEJQWlpUbU1tOUFtSnl2ak0zanYzWlFyZG5rNXdYbg?oc=5"
+            "title": "'우승 경쟁' 아스날, 벌써 여름 이적시장 준비...\"핵심은 아르테타 재계약\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fQ0o2c19ib3I1ZktCTDZuZHc0LVJSRU5CdE9EaWZydnVwc2xkNGNRU1dVQ1dkbkc3MHJCN0pET1M2N0JwVmc?oc=5"
         }
     ],
     "transfers": [
