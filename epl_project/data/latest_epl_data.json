@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-14 01:20:06",
+    "timestamp": "2026-04-14 04:35:46",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "London Evening Standard",
+            "title": "Man Utd vs Leeds LIVE: Latest score and updates from Premier League - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhuc0xyTmoyckdjUGRiRGZxakE1aDUwRFYtVmZCcmVTZlkyd0YwaTYzU2kyazlKcEZnT29RTDFJaW1MWlBtNU45c0xmTFBmc1cweWVMU0pwTEJjSllSUmRXN3F0N3R2WVNUclBDM3ZIQ2p1RW55Yi02MGd5MVRyV2lNZTQ5dUVQSnpZcUYxMUZTMkdJdm9XalA0STdNbnRaQ1BRTE5QSlZSeGs2S0dUZDBGc1VoS1RYLWloQjhkMDluUXEzRkE?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Leeds United: What does their win against Manchester United mean in Premier League relegation battle? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ejFNVk5ETFAtZ1d4YWVTSDNrMV8xYVlTOWdERmhJby1yZXZtbDN1M293R0VlZmNSdzRsTFZSTlNZQ2hKUmlpR3BYa1hMd01vWDBxRllQY2ZfaTRQWHh6Z3lhbHI0Tnc?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Manchester United 1-2 Leeds United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVpfMmt3YTZCQ2VMSU02TzNSOVM1TmZkaEhXUElFR3UweXNLSVc1TUhYYWRvMFJ4enc4eURvdnpuTzVZVVRXaFVTM05mTi1aX0lMOWRWWi02N0NoeFgtT3A5SlZXSWtjZE52OE1nMnRfQzJpXzRQck5Od2Q0S3JwWjBCUTc5cVhsenZqZ09QeWFCOGdETlB6dl9PaGpkZkJo?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Champions League build-up, previews and team news LIVE: Slot and Szoboszlai speak at Liverpool news conference - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xcHV0eDJrTk5Henh6ZHJqbkFZRmowNUp6SlRraWdqTXlScUt6VjAyRjltYVVOYzFmQUZLd1hraHRoLVdqYTJQb1ZDbmNrNXdMN1RsTmJqVUFDWmdyQnNrclNtRnc?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "'Big punch in the face' - could Arsenal really blow title from here? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzaUhPb1l2bG5qbEtKaUhIalZJeXRJQi1LaG5aODZtRnU3VFM1Qmd6VjNsRUhJMGdoYVNMbnc5ZDdKV0ljSXNPRXdqS3ZFTVlLNjV2VnAwNURIT0w2bXJCSnBQd2JHQnM?oc=5"
         },
         {
             "source": "footballtransfers.com",
@@ -27,8 +27,8 @@
         },
         {
             "source": "OneFootball",
-            "title": "Fabrizio Romano shares new update on Valentin Barco’s potential move to Chelsea - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDZMekhzaUR5aDVRVWJQZGVCTUh0YXBVbnUyRlVKamVyamtyT1hBbjhlSDZyWmJtN25fbEJka2Y5MTBrdjV0cDlwNGg3MDFlckN0RUFsRnBmd2lrOEVjczFzbHBPeGN2cjJGVFJfazlSSjRfa0c2V2pNVmEyMENWR3dWS3EtZVNoaWd3ODdLSjFXRG85Y2M3Y3Z0YzRWeGU2aXBwTFltMFl6YlpMX2Y5bTlVZFNRRjBWSUFr?oc=5"
+            "title": "“Liam Rosenior and the club” – Fabrizio Romano reveals why Marc Cucurella wasn’t sanctioned by Chelsea - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWViZThEODk5NUtCTGtMQzZJc0tVYVE0aWdZNEVVM1hrMXpaaUhZdkhsNDZBX2JodTVOb2o1aV91T1NjSVIxa0xzWndzXzVzNC1GSk93M0hkQk9kZ1ozNXlYcFdEdU1qT2c4YjJuMGQ0a2ZaOEJNbF94QTRJTzJiN2J6TFZpWDZhTE9aczJqWmFtdDdwMW1BOF9vMVY1RzJqa0Yxcm1mREdmdWxQZzdZZXp5cGZGZjdqNTNNdzhkUG5Pb0FTbDd2eVZ0LTVnOHhHWnpTOQ?oc=5"
         },
         {
             "source": "ManchesterWorld",
@@ -53,7 +53,12 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU0Q2UTNHZGlrSm9tYjVjME4xUEtwVHp6UF9rV0FBNFRuSjR5RXJqOFhYSzByMzcxZEhqQVM5ZWt5WUdSdjZqSE15bUZFb0p1T2Jvbk1GMFEyblFCSk9vUGVpZ3d3SWtTd1JUcFV0UmdmRWY4TDJmQmhaa2hZYUFUSERhbUNhdjl4dER1MU1zZ25PejdaSEhPdS1jdzVMMVNuWFBfVUlGOTZwRUhkM2IxbmNVcUQzeGE0dmFJUjR6LXhPeVhPVTYwbUhGRmRaV2Y5eHlOd2diWDBieFRQWHM0eGdGTEtXb0xob21vYS1QZ3pmdFNYbnlNaw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,14 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "‘토트넘 14경기 무승’ 데 제르비에게 프리미어리그 2위 연봉 240억 원 안겼다…부임하자마자 논란 터졌다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJNTY0RzdpN1ZXbHFDYmtDZHd2cFJ0LWZJRTVCbW9KUkFrTzhVU3BTbTRZWnEwZWtMaGZKaFF5UVl2cE1kLXc?oc=5"
+            "source": "데일리스포츠한국",
+            "title": "튀르키예 정복한 오현규 프리미어리그 빅클럽 맨유 토트넘 영입 명단 부상 - 데일리스포츠한국",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jRnh2NGlKNkk4RDZ5MFZINnVqakJ6M2ZDS2hFVmtPWFNsY3lJd2ZXb2JoRWdUY0RrS09ySGg1V1hoV09EMUdmaFgyUVp3TWI0NlVQWmNFMmk3TTE0VGN0b1FDaWVPcENmd2hQRWgxYWFramtoU1Z5UWdab9IBf0FVX3lxTFBLSlZ6djlXcXRMTGVURjd1bF81Ri1IeW9CN182ak5qazJYbUlJNXBIbDNLbVNlRURaT2dtOUxFZVJpbTZSYm1jVEtGRHRWUGN5eG8tVERNT1dQN3N5d1BCdFV4RDNCdzE2VExIY1laVWlST3BZWGtBc2pSMmFZU2M?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'눈물 쏟은 이유 있었다' 토트넘 진짜 강등 위기, 캡틴 로메로 '시즌 아웃' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50a044NFEtV1VxM1FnbWpkcV9Za3FYR3Q3RkdlV3hGWWlONXktQjAwQ1NXVk9YZXN4VVNqRmYxZWtkc3dyNVE?oc=5"
+            "source": "Your Field",
+            "title": "韓 초대박! \"맨유, 한국인 공격수 영입 원한다\"...프리미어리그 구단, \"오현규, 예의주시하고 있어\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUzJpZWNvOFBaaU5zZGE1NmlRNURWRFVJYTRZTnh2ek9uVmhwNS1HUm9ySkJrZnV6QUt4YVVYMjR3U0hkam1jWG5yYmQtajd1VDBIUGIyMkdMTUpIekMyMFQ1eks5SzJwdUlxN09kOVVXa3l2N1E?oc=5"
+        },
+        {
+            "source": "스포탈코리아",
+            "title": "[속보] \"맨유, 예의주시 중\"...'韓축구, 초대형 호재!' 오현규, 프리미어리그 입성하나. 토트넘 포함 'PL 관심 쇄도' - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWxBMUJNcGM3eUE5eTlJa0pDUXY3emNuRkZzYmVLd0JQM3pOQy1FVXBLZ0VsTW9fdDNrdHlxOUJKcHRScmdlbk9nZVR2ZkVzcmJMek13bVVXMWItNlZwWndQRG03UjJWOXlCUUh2dDBwUDE2VkxyR1ZXYndpVGlRSGZn?oc=5"
         },
         {
             "source": "starnewskorea.com",
@@ -76,29 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTeG9wTk5XYUVENHhBWk5mY0R5SXV6Rjh0VGRKekVDOVN2NWRPUWRtaWJBaW9BV2NyU0hJZzQ0cWNQUXZiSWZheFRqdVdKUlF6MkxOaEt5eGJUaDV3c2ZMTEhtU2lfTkVMVldHZGZvbzVmbkFkQUE?oc=5"
         },
         {
+            "source": "네이트 스포츠",
+            "title": "'무무패패무무패패패패패무패패' 14G 연속 못 이겼다…'악몽 데뷔전' 데 제르비 토트넘 감독 \"한 번만 이기면 모든 게 바뀔 것\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OZlYxeUlNV0JhRUM3ZzAxVkxyd3JGWndsLWl5X1NOSzdGNlVxUFJIR0pield6N2hCRTFzbmt3S1ZxSVhCNmpzZTNRNFRjTUdwQTFBNHNBNkRzTjdY?oc=5"
+        },
+        {
+            "source": "동아일보",
+            "title": "감독 교체도 ‘효과 없음’…토트넘 EPL 출범 후 첫 2부 리그 강등 눈앞 - 동아일보",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTHg5RVBhdTlEY08wUm9RNDIzWlNYeVpfZFlEZlNhVVFzVXpJaDYta1lhRXVmbWtMbmZ6UHJMaFU0UEthc1N3VkpiMVZhek9maTh6VjlSQWdoUFl4WkRFd1dIbEE2RkhjZHVDSGRTRldFS2Q40gFmQVVfeXFMUDVHV0gwTHRCUXpyLURKMldyNjItWUVjRW4zTTdoV1NaaFR3N3QtUFlBbXFhZmhxMmc1M0FkTzhGZjktUEU2T1ZBczlKVEtyeXZTV2pZSzRHN1p5a0lGWHY5d0t4TjVR?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "‘데 제르비 매직’ 없었다...토트넘, 선덜랜드 원정서 패하며 강등권 탈출 실패 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjJOXzJ2dFUtbkt0QkVQY3pXRzVuTWZPZ1k3dVdYcDc5QjlLaEZheHptSWZHeVBRNzZfVm9qVjhyZklKNHZ6bHJmS2lwRE84T3FvSklfbmhTSXlwcGJ2aVVSbWtmMHNxa29sOEQ4QnJvcjNyc2wzTENDdEdBQW8ycC1XX09ldVNnOUxn?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "미쳤다! 韓 축구 초대형 경사, 오현규(25·맨체스터 유나이티드) 정말 현실화?…\"맨유+토트넘 등 EPL 구단 주목\" 튀르키예 매체 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kTjQzdWg4WW9TYjg5cllmaW8yWldOb3F3WUNGdS1iLUVTSlJmOUY5TmtRVEROVFk5d2M5ZVZFX0g5azFrN2R3c0Y4bHBGdHdNaGh4QkRESlV2VnRp?oc=5"
-        },
-        {
-            "source": "스포탈코리아",
-            "title": "韓 초대박! \"맨유, 한국인 공격수 영입 원한다\"...프리미어리그 구단, \"오현규, 예의주시하고 있어\" - 스포탈코리아",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWpySHBtUVZZZE1zTnE3V09rUUtpbTRHQWJidUJKQ2V3TW5oU2pESVZsZ0dNaXFGZWNPNE9mSk8taWZHdVlSMkJaT3BBVDF6ejZOSU5SeThOZGFNWEF4T0YtOV9BVkFpOXl2VGhsNXBFUWtERUF4Zmo5XzFBS1NZOXd3?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "오현규 '韓 프리미어리거 멸종' 막는다! 천하의 맨유가 관심, 무려 \"1453억 FW 경쟁자로 급부상, 월드컵 이전에 움직여야\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54MHlBWXpsNmpsVWJhQW11aWw5UjhOSmh2QW9nRWdGLU5FUGdMMzZnYUw3QjRFc3BuTFVDS25hbXpORTlQTEM5Z2N0cURzd1dJSElna2loLUtqeTZoVDM1RG53clgya2FsYlZ0T25zSUZINVlEZFE1V0VfMA?oc=5"
-        },
-        {
-            "source": "Vietnam.vn",
-            "title": "마르티네스의 퇴장이 논란을 불러일으켰다. - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQndzcVRwb3VPMktMNktrLW1CUG4xa1hHOE93MUV1LXlBUEk2dk9NVFV1elE1NW1DMjRlU29ZT3FvRmJiNWlKTjdJdW5FaERMQXMtbXRCTWRTTHZUdXZBaWpQM0Z6QW5hbzU5NGJLdGo?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "캐릭볼 처참히 무너졌다...리산드로 마르티네스 '머리채 잡기' 황당 퇴장→수적 열세 자초한 맨유, 리즈에 1-2 덜미 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52TGcyeWNnLVUxVW51el95UktWaG0tT1pGZTIxeXdPZmxRbG5CaVFuQTRNdXhEVVV6Z0V5bkkxYUdXaDlCV2poaEJMN1RZcFk?oc=5"
+            "title": "토트넘 2부리그로 가라…올드 트래포드에서 41년 만에 승리, EPL 잔류 안정권 진입 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lQXQ2Q0JqeWxfNF9QQ1h0aDJyZ2FFX0xZakVGOFJvZDRlNmJVUTRxOU1XbmdZTnlYLXhWaVF2WmpHckhrbWVCc1RHVUt3ZFZDaHB1c1VTZy0ybFdSZHBEQUJoU0U1cldxY2M3UkRaU21xQXJlTklhYg?oc=5"
         }
     ],
     "transfers": [
