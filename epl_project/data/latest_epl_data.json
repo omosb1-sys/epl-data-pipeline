@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-16 13:00:18",
+    "timestamp": "2026-04-16 14:57:20",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League news conferences: Rosenior provides Fernandez update after club ban - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyZ0dIZnIxMThxaVA5bWR0Qzczb051b3h5ODFleUFpXzY2RDZ2dUJGMWlwNDRXY0JxS3Zpd0dQS0dZeG9YQ3d2UTBkdkFBd3JKTmhZc0tHaEp5T01SZDZGX1JR?oc=5"
+        },
+        {
             "source": "talkSPORT",
-            "title": "Newcastle told to avoid Mourinho, Arsenal into UCL semi-finals despite draw - talkSPORT",
+            "title": "Liverpool confirm Hugo Ekitike blow, Newcastle told to avoid Jose Mourinho - talkSPORT",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1Y5ODhBR3M2UUkyMTlxNGRYVG1BVGpKbzVfUGVBR1pnaVhidmxDSHRUVXVlZkhXYUNaNEdFR1hiNC1DLUVRdm5NUXRnWk14c1dmYU5mWll3dXhjUmxtVVdTMlB6YzFvNnkxa3pMeFZabTl1SFVLMVhWZS1yWHFCR3huTWU3N1VaX3ZOY2R6emZiQnlYZWNQOWlibkJfOWJ6SjJuQUpRNnQxUnBrWVR1XzBIeWZMOThWeXk0VkFES3QxdlhJZzZGc1pHTFo?oc=5"
         },
         {
-            "source": "Metro.co.uk",
-            "title": "Arsenal star Declan Rice sends message to Man City ahead of 'title decider' - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEJnRHU0Y0F3MnJUNkFQNEpXMmZ1ZUowbnJJMUN2WEw3RG51ZGVGU1hZbzRCVW1MM2pHNEdlcWtuV0w5OWJFVmV2S2dIZEFRU1VLLUxQbXAzN2NrU0dEOUdxZzBCRGRVNXh6ckFqdDJYMFk4U01GYkpOZGhtTlFuYUgzUW9Cejl0TWxYNm1WeEZQMEFmNnVVR0FNcTdnV3Uybm12dl95TG8temVJYXdPR1RBb3dYZUEyVDczZmU4TE02ak3SAcgBQVVfeXFMTmJOcWVfdEJ5THBDUDQ5bFk4VEpGUU96SUJHSzRDQTlzV19qS2NySjYzQm91UUIzOGQwVEM2b0FIS3BxZ2FNeEExUTF5ZWxJaVpoZkJNU2UzemIyZnBwSDZUanhPYU1pRWxTVVBmRHJJTVdLVmcxYjA2UmFoeExNM1JKR29JdHpJUXRURlZqWW5lUG5FNFlPa0NQRzUyeVpIYU9kdDlCM3E2dC1mYkFlTUg2UGE0b2xuUkJnenZOX2NoZFVyQkQxV2U?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Champions League: Arsenal reach semi-finals for second year in a row - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUdNbXZNczZVenpCMXlISzN1UWVMQlI3Q0twN08wZDJVSld6eEZ2VkJZUkxGREJEeVdyN2RfTkluaXdHcFFqRUJqbGhBT094Zm5wMHU4UUo0bkRpU2FCNk1jeGxFS0pOQWI2UzlzNUNkRVFCS21YWV8tQ1BXNXNCXzJKQ2F1Z1A3UC12enZuUDlGVnFjTV9LN3VyZlhiWWJ0LXZ5Y2RaXzNvbHhNUUE3eDlkRQ?oc=5"
+            "source": "BBC",
+            "title": "Manchester City vs Arsenal: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfd0ZLQlV3RXhQbkxjMVlDZWd5b01xZ01acnFoNnhMaDhEUWM1VzBwUl90X0UtOGxzNTJaeUN3eGZSeXRHZ0dkUVBnb2cyREpBMHlFTnhGUXc5cDhyZFRSR1ZVaWs?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmVBQTlESm5JeWZFVmxFYWI1ZUFHRXRNblRlRXgtLUV6azhXOVdkajhHN1pDTWVBY21WMzJqdzBrcUIzN1F5WnlxMFJ5ejZ5Y0dBaGUwZmxRM0o5eTdoenEyMTdYQVhKX3MyZHNVOUdITDFmVS0xN29pbHJmQUVZZGJVSGYyZmNJWWZVd0RNeWdrcVlSVWR1ODJmNkNzUGtUS2F0cUQzT2RXcXIzSWp0N0I1QkVrSm9PenZDeXg2OGNSVXVGMFJkQWlEVdIB0AFBVV95cUxQRjEtSHhnY25aVkJfS0hDbWhoSzRsLUZLS0ZJZ1ZDWGlseUs1cURZNmVFdjhSTGVpRjZEWWhOZXBzNC1UNkFaS2hEYmwxTlpzWk53TUxzQ0VsVXhOeElxRGdfaUZHYng1U3B6WFhqNzlGeWMwck1mWnhFVURTRU01MmRQZHpmM2lPWlVGWkFuS2pkLTB1akxtSnpVNWZLSlJDV1l6NkI0NHR0ZlNkTFZnQVJrOFJWUVZ2LWpRSUZkSW5hVVF4MkxsSXNTcEd2WmhI?oc=5"
         },
         {
+            "source": "Sports Mole",
+            "title": "Real Madrid transfer news: Fabrizio Romano drops major Eduardo Camavinga update amid Man United, Liverpool talk - Sports Mole",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUWhEeGhucTlwcTZPZFBuMDhLQThCWHE1OGIxT1k4SGJ3NzlHNllQbTVkRkVuYU9ZcTBVdXNlX0g4Q0FQZF9TWVJQdF9pak4wei0tQXoyVHdHTk0tTVhQY2JULWNPSjVtbnl3WE1sT0tRYWpfOTZTelItaDZLVXNEZXZHRVZnTnZRTVZGMTc5ek0zcDdZU2ZnVVppMmNfTk5TZUxrSV9uNWNYeEpja0dpMTdPQmctd3NySnFyTjEta0FrT011OWJ4QzdsWWRSeEhKdDVxb3c3Ym5IZGpsVTRmWkJaZDhRRzc5OEZ0eQ?oc=5"
+        },
+        {
             "source": "Rousing The Kop",
             "title": "Fabrizio Romano explains why Ibrahima Konate still hasn’t signed new Liverpool contract - Rousing The Kop",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjRwVGM2NTRxWjlUbDFHUEhpeFZ0cFFjbUIxRFlCSXhZamNtWGFfRURWYU1sUTRxczhtUnhCMnk1Y0dObGJqM3FfeGJLRDhLVEZ0cVI5Z2YwaGlEYUZadlFxZ3NPbmN1SC1Jbmp3cW5VRk82dEUxQ3VXbFpDX3dPT2RxR2lNUzhWOW1uVFlZb2trM29FOEFYb0dtdURwWm8yQTljdm9RVzI5dHV6NF9TNk1xc0tTYjVXX0lUTGgyR0pNYVZENGlv?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "“He really feels” – Fabrizio Romano shares update on Moises Caicedo’s Chelsea future - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenNGLWxVSFZ2Um9DYlVndDNUOGNpZmdSa1EyVGdWTTBWSGhRZG9VVmR6NjF3aVZYSVM5Nm1oaHpFR250UElWZk41Z1lmYVFtY1g1dEduNXVOdF9ZejFuLVZaQ1FrRjgwbTVjR0ROMEo5UUZCTFZVdTdLVl9qTGFHM2NjWnJSZkVjWWRuUGxrZzlyQ0t5U2FqdmI5bnYyaDJ0LUtnUy0wQUw3WEhPZDBnTnhYXzhRTjA0U0Z5Zg?oc=5"
         },
         {
             "source": "The New York Times",
@@ -57,18 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFI4S1VBOU1CM296NndNQkpPMkNZT3lqb1BaX0tRQ2U0SUNwUUdkc2ZwUVVvcE90NnItdHl6SkdOTU9CTE1mSFFya1pSQkF5REpFaVdOYWlzbndOa1J6emhKalpLUXRqVzF0ZTg5dzVTNHJWaWNIQmhtZk16VVloLTJnLUFiLVN6cFkzREoyd25ieW5uTDBTUk5UZ3lMaWFKNFF4VWV5N1U4N1h0RHc0aUhEeGJBVTM1X1RJdU9uZHVXQWNPUEhmeHdLNUNlaVNhT2dHbVRqV05qREpFSmVwZERnWC0tSkEtZFh5dTk3eFRMdEcwUGd3?oc=5"
+            "title": "Bernardo Silva to leave Man City: Captain to exit at the end of the season when contract is up, it has been confirmed - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZXl6T2p3OHBnNEdUNlN0MWVNT0hlUllleVhJejcyM3pDRGF4WmFzUDBWNk9yNXB0eld3bWQwNjdvcUNSZm9EcHhDVi1EMjRuOUNaNV9qMmtnV3d4ekQ3WkdhX2pidkppSUNPV1gwRVJxWHpaaWUtVmJwRFJ6ZFBWay15UHNRT2pzNHlLSnlFcHBKeFZ6UWtZLWd0Zmg4dlRJU2VJZ3FSTzJBdHdBTmZ3STYtcGdEeElKNVFjMUw1SmRSbnJVTGZoV2hHRWNQd2M1SzFvdU1TSTZLSzRLYlBuSFhKeFdZaUZvbU5fOTVLTURoeGJRMWY5dUEwdzdjclE?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "동아일보",
-            "title": "감독 교체도 ‘효과 없음’…토트넘 EPL 출범 후 첫 2부 리그 강등 눈앞 - 동아일보",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTHg5RVBhdTlEY08wUm9RNDIzWlNYeVpfZFlEZlNhVVFzVXpJaDYta1lhRXVmbWtMbmZ6UHJMaFU0UEthc1N3VkpiMVZhek9maTh6VjlSQWdoUFl4WkRFd1dIbEE2RkhjZHVDSGRTRldFS2Q40gFmQVVfeXFMUDVHV0gwTHRCUXpyLURKMldyNjItWUVjRW4zTTdoV1NaaFR3N3QtUFlBbXFhZmhxMmc1M0FkTzhGZjktUEU2T1ZBczlKVEtyeXZTV2pZSzRHN1p5a0lGWHY5d0t4TjVR?oc=5"
+            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFI4S1VBOU1CM296NndNQkpPMkNZT3lqb1BaX0tRQ2U0SUNwUUdkc2ZwUVVvcE90NnItdHl6SkdOTU9CTE1mSFFya1pSQkF5REpFaVdOYWlzbndOa1J6emhKalpLUXRqVzF0ZTg5dzVTNHJWaWNIQmhtZk16VVloLTJnLUFiLVN6cFkzREoyd25ieW5uTDBTUk5UZ3lMaWFKNFF4VWV5N1U4N1h0RHc0aUhEeGJBVTM1X1RJdU9uZHVXQWNPUEhmeHdLNUNlaVNhT2dHbVRqV05qREpFSmVwZERnWC0tSkEtZFh5dTk3eFRMdEcwUGd3?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -76,9 +71,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2b2M1WjNxczdkX3N5WFR2dGY1N3EzM0JaZF9VRkd2d3pNZlpFSmI4YTVSLXdMVkNYbFJQdldBZUhiUmExYUhzMmZLVE1vcWtEakdKc2lCUzQ1LS1R?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jelRxNFQzVEh3d2ZiZXBTZVFoVFhfV2Q1My1DdDVRdXl2SnJ0SVUtaEdNVUYxNTN5R0pUNGY0aDR6WFdWWUVjMWhYTmI4LXJiLVNIam5RdnNyY0k0SmZ2Y1lUQjFZeWhUc3pFLUs1VdIBc0FVX3lxTE9qbVZ2NTZRZDAxM3haR0liUTA0Wk5QMWlMWHZhQmdhak1yR3VsTEY5NmtoMGthVVNxMXBvcU9ielo1aFJYdXc2QzBMRTdFcXhWYTBhTFNiRzQ4R05kYXZoNGdfXzRrd1lhVHRidDBnSWx6dGs?oc=5"
+            "source": "v.daum.net",
+            "title": "'결국 강등권 추락 토트넘, 손흥민 같은 기적적인 활약 필요'…시즌 3골 공격수에게 희망 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0teWZzX1IzWjFralpEQ2hhR18yeDNHemhjUjQ1V0I0OG1oNkttSE1hSjBwdy1oWVZKWlVhSHBMRU1pTnNHeFE?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -101,6 +96,11 @@
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUxHTFMwc0Z2d3FjQUE0ekFQU1dkdWJXc1V6NGU3ZUtWdmh1LXJ6MXN5ZW5LV1pyQy0zMGpOZlBzTDFabFJvZ0JWV0c3NlN5am5ZNDgtTld1b0drY1UzRFozUEE4bkxnUFZoQXJsU29NY0NhT2JRaXo4QktxR0tvVUtfWdIBlwFBVV95cUxPX3FPU2hKUVlJSGxsZDFBUWJpS2RoNGJ5ZDdPRnNodTY0OU9Zd3czaERSeHRmVmJBS1JlREtvQ0hsdVZWeE5DVVBITmVIZFVpaGxiODE5Rm4td3lNLWQ5Q1hJQkRLdWdCMDVSWU4wQlRiVnNFWlJUbl9iRW50czNnQ1EwRFdEcjJMc0NGLUphcml1NXZsQk9j?oc=5"
         },
         {
+            "source": "SPOTV NEWS",
+            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jelRxNFQzVEh3d2ZiZXBTZVFoVFhfV2Q1My1DdDVRdXl2SnJ0SVUtaEdNVUYxNTN5R0pUNGY0aDR6WFdWWUVjMWhYTmI4LXJiLVNIam5RdnNyY0k0SmZ2Y1lUQjFZeWhUc3pFLUs1VdIBc0FVX3lxTE9qbVZ2NTZRZDAxM3haR0liUTA0Wk5QMWlMWHZhQmdhak1yR3VsTEY5NmtoMGthVVNxMXBvcU9ielo1aFJYdXc2QzBMRTdFcXhWYTBhTFNiRzQ4R05kYXZoNGdfXzRrd1lhVHRidDBnSWx6dGs?oc=5"
+        },
+        {
             "source": "스포탈코리아",
             "title": "미쳤다! '韓 역대급 재능' 박승수, U-21 폭격→프리미어리그 데뷔 보인다! 감독도 인정 \"분명 재능 갖췄어, 매우 좋은 위치\" 극찬 - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUF4ZWtvX2JQZWhZVFo2RjJ3T3lZdDVxZ0JjTVViaFdvejNYV3czYmNDNGx3S01ScEgyY2p4a3BsY3Q2bmJMS1dRUklJVDJGd0hQb01XVGN5RGsza1JfVm5SdG9wc3k0NkRhQm5qaHpUQXRMMG1DMjFjcVdhdlY4M3NR?oc=5"
@@ -115,7 +115,14 @@
             "to": "Manchester City"
         },
         {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
+            "date": "2026-04-16",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
+        },
+        {
+            "player": "Confirmed: Jose Mourinho could make Premier League return this summer",
             "date": "2026-04-16",
             "type": "Rumor/Verified News",
             "from": "Unknown",
