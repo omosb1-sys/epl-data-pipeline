@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16 18:01:49",
+    "timestamp": "2026-04-16 19:55:16",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -12,13 +12,13 @@
         },
         {
             "source": "BBC",
-            "title": "Premier League news conferences: Rosenior provides Fernandez update after club ban - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyZ0dIZnIxMThxaVA5bWR0Qzczb051b3h5ODFleUFpXzY2RDZ2dUJGMWlwNDRXY0JxS3Zpd0dQS0dZeG9YQ3d2UTBkdkFBd3JKTmhZc0tHaEp5T01SZDZGX1JR?oc=5"
+            "title": "Premier League title race: Could Man City and Arsenal go to a play-off? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxaHF5MkFqRkcxb0FRcjc3ZmFHdmlZZ01ZT04zektESnZmTmVyMlJZQVBzNmg5YjgxOUhrSVNNd1J3bFU3eUJyNHVEUWpGNVFVSEE2dmZIUm5oRXQ4QWlqUzRxU3RKTU0?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Premier League Darts LIVE: Luke Littler vs Gerwyn Price in Rotterdam - scores, results & updates - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BT0tLMTFhcUlDMU5VOElJR0tyY25mdDZqblhPQXp2SEhqTUwyZVFvdnNVR0tUeUM4Zmp3MVNOVUpyTVZDUnJxQUpzTXN1VUlULUgyZHZqZXlrdjlvc1lYYw?oc=5"
+            "source": "Sky Sports",
+            "title": "Declan Rice: Arsenal ready for 'ultimate test' at Man City in huge Premier League title race showdown - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd1B5Qy0zMEl6cVk3Y2s5LXU2Q1BuUkFzTUJSWWI5ZXhDdFBKNlNEMTRZcUpMQ3FtNVV0NWptbHBYd0g2VTVrWGIwMTl1aWFTUTdOSmVrbHpfTXB5YmxQSGRDckV5b1M3UllKcHJRUklYZlB2Ti1BdXpfc3F2aGVwcEctUmlvdDlrYVF0LWhYX1pYTDRpVllBUGJDSHJQalJBTUNPWUdvOF84MHBObURJcVhsNXVrZW5xM2k0UkEzd1ptOHRheWpoNlhWajdKeTFNZzB6bXZnWk0wWm9rRTExVmEzSXBIVW9k?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -37,7 +37,7 @@
         },
         {
             "source": "The New York Times",
-            "title": "Man United manager candidates? Arsenal outgoings? Gordon interest? Slot future? – Ask Ornstein - The New York Times",
+            "title": "Man United manager candidates? Arsenal outgoings? Gordon interest? Slot safe? – Ask Ornstein - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnZOc3RzVG9EaXllbEt6bXgxRTVSRS1LMkNjTHhUN0F0Mk5oYklTZEdHN2FnajZnbVdDV3YySlEyLV9mRkNLc1U5cVBDeUljd3Y5VDNERlpmX1puVEZMbDhDVlE3ZjI4eHNQNzlFUmtkMHRYUU9iYXZRSWdOdkZDcTR2S0ZHQzBHU2xpLVZZQjZiekVVeko0d0ZfRjFpcVlKME1oY05sVTE?oc=5"
         },
         {
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Andoni Iraola to leave Bournemouth at end of season - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmM0TU5JT0lvdExzbmwyRVdwdjRvTHVxNTV3ZHBJNG5VX3NVTHVsRUY3Q3RGS2hNMm1IUUlkUVRYV1ZwbC1CRWdvcnMzeGUyUnY3UnlvWURkN3VuQWZQU0xrOHBzbU1kSkNCQm5JQWJGeUZEc3VUcjB2M2xXVFVoRF95aHczSUZuUkZN?oc=5"
+            "title": "David Ornstein on Michael Carrick's United future - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hdnlDck5NNWxCY29GZlJqa3hJVUZIUlVIeTdLSUNyLXpLQkVHYm05ei1uNERwWldLMjhtNzEtS1lOaG03WnZ1RVl0ZVU3MUEtLU45Nm5fNkhxOE45WmRLZFE3OXgwZw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -63,12 +63,22 @@
         {
             "source": "Sky Sports",
             "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdE1qcDlSZU1XZEJrM1lLQWYzRTVyQXJqNDdTMkE2QWJvTmdBLUlhRFhtWjFHYzNaRFBFWWVRb0JqR1RGclJ4SHVmb1pfRnJzdHBNa0JBMUl5UHpSeW1zZTE1Y3pJUnI3aGo5RXBldldTZk53R19vQkd5MXFGbzB5SEMxc1Rjb0lEN25rUE81eXotREFnYXZhQWRVQUVkc0FhY0ZRQVVneVdITjE4Zzl4OXJndENTQmFqNG10UmNkdlNSTDE1c1pTVjJpU1NsU2FPdzVRNUdteUpEM2E4d2NsWl85SWF1QlVKZnBhLTZlQWNCNERQVjNB?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFI4S1VBOU1CM296NndNQkpPMkNZT3lqb1BaX0tRQ2U0SUNwUUdkc2ZwUVVvcE90NnItdHl6SkdOTU9CTE1mSFFya1pSQkF5REpFaVdOYWlzbndOa1J6emhKalpLUXRqVzF0ZTg5dzVTNHJWaWNIQmhtZk16VVloLTJnLUFiLVN6cFkzREoyd25ieW5uTDBTUk5UZ3lMaWFKNFF4VWV5N1U4N1h0RHc0aUhEeGJBVTM1X1RJdU9uZHVXQWNPUEhmeHdLNUNlaVNhT2dHbVRqV05qREpFSmVwZERnWC0tSkEtZFh5dTk3eFRMdEcwUGd3?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84QVRNdkRVS1V3TzZGREV6Y3JmX0V4Vl9iaVFVWGtwRjRzM2g2dHZJejBMbVl1cmtzcUlCdlYyYnJYMXBvNU8yODBIWDIyMFE?oc=5"
+            "title": "0.02% 우승 기적, 딱 10년 만에…3부리그 추락 위기→\"심판의 날 다가온다\" 2연속 강등 임박 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GMzhmVVhET2pCYmdHTXFQVDI4WUEwTjFnYlljVnlnMkpPaXZOUVZreHlMYzZXS0dnaVdFSG5rdE1Ucmt6LXc?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "아스널 잡고 '주가 급등' 43세 스페인 명장, EPL 크리스털팰리스가 가장 먼저 접촉했다..리버풀 맨유도 후보 리스트업 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHVBTFczeVJ2WmVudkVNZWdreGVwNjdPaVV4U3psZmdKZlZmMWthM2xYUzh0WXFxeFl2YVBKTDdabDVIN0VYR2M0ZkVTcnJTbGh3ZlRtTGZwaWZnVW53MHRicEMtYTdJUlVfcFhtNlU2ZnlzWmtja1poUzBVZG1TVXpURjhqcmhBemdj?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "\"충격 전망!\" 1년간 경기장 위에서 실종→토트넘 강등돼도 남는다...\"쿨루셉스키, 챔피언 최고 선수 될 수 있어\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TR2tmaUVPR2NEeG1VajM3WHpUb1BUWFRnUDlPQXlWOHVmcTdpZ0J6NFF1X19qc3AtemhRcVY2Q3pVaGcxTmc?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -81,9 +91,9 @@
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05eTNYMURES0s3S054VFhUMnFOcnN1M2JhQXVCRXlpUGtvZlNlY3c2TTVGT0JwSk82TDB1SmtJYncyWGVrazF0T0hCbEVhSXZXSmEyR3hyS2Y4VWpyaHZlT2NNZXhlWlRwNXJUYlY5Nk53Q3FZekpTbVVQVdIBf0FVX3lxTE1PY3Z3ZG00TzhtOTJqUmo1UmViQ09WTWIyaGhhNVdxajl5RVFaQ1pyTnlxcUVveXJPS1poR3F5TDhnRGxiSlZzVmo1aUJ1cGtsdUR5SVdFR201ck5FdjJvLTRyMFNjQ1JtV1lYLTFEbGxab2dHcldNY21mNFpralU?oc=5"
         },
         {
-            "source": "Chosunbiz",
-            "title": "'무무패패무무패패패패패무패패' 토트넘, 결국 2부 운명...슈퍼컴퓨터도 등 돌렸다 \"승점 37점으로 18위, 강등 확률 49%\" - 조선비즈 - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUxHTFMwc0Z2d3FjQUE0ekFQU1dkdWJXc1V6NGU3ZUtWdmh1LXJ6MXN5ZW5LV1pyQy0zMGpOZlBzTDFabFJvZ0JWV0c3NlN5am5ZNDgtTld1b0drY1UzRFozUEE4bkxnUFZoQXJsU29NY0NhT2JRaXo4QktxR0tvVUtfWdIBlwFBVV95cUxPX3FPU2hKUVlJSGxsZDFBUWJpS2RoNGJ5ZDdPRnNodTY0OU9Zd3czaERSeHRmVmJBS1JlREtvQ0hsdVZWeE5DVVBITmVIZFVpaGxiODE5Rm4td3lNLWQ5Q1hJQkRLdWdCMDVSWU4wQlRiVnNFWlJUbl9iRW50czNnQ1EwRFdEcjJMc0NGLUphcml1NXZsQk9j?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jelRxNFQzVEh3d2ZiZXBTZVFoVFhfV2Q1My1DdDVRdXl2SnJ0SVUtaEdNVUYxNTN5R0pUNGY0aDR6WFdWWUVjMWhYTmI4LXJiLVNIam5RdnNyY0k0SmZ2Y1lUQjFZeWhUc3pFLUs1VdIBc0FVX3lxTE9qbVZ2NTZRZDAxM3haR0liUTA0Wk5QMWlMWHZhQmdhak1yR3VsTEY5NmtoMGthVVNxMXBvcU9ielo1aFJYdXc2QzBMRTdFcXhWYTBhTFNiRzQ4R05kYXZoNGdfXzRrd1lhVHRidDBnSWx6dGs?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -91,19 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUF4ZWtvX2JQZWhZVFo2RjJ3T3lZdDVxZ0JjTVViaFdvejNYV3czYmNDNGx3S01ScEgyY2p4a3BsY3Q2bmJMS1dRUklJVDJGd0hQb01XVGN5RGsza1JfVm5SdG9wc3k0NkRhQm5qaHpUQXRMMG1DMjFjcVdhdlY4M3NR?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "'10경기 7골' 오현규, 월드컵 앞두고 맨유·토트넘 이적설 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQllCbElLbVhVTzBLcEtLTUdic0hoSWprMnl5Ul9Lb1E5a1d4WTA0NldQMDNLc1FfOGRHRmFBSE9NZmNWbUtocDZvMnYwSUZ3QUlKNzIySWRWckVKVWRwd9IBeEFVX3lxTE1YMG5GQWFpbk05TXdQWHJFOGw4dUR2emhJZkZEaHNneUpUWXJjSkdfRkVtb3hJZVh6ZFNuT2Q4Q2lGTlA1NEZzeEt5T2VDMW5ER0k5YXpRMXdybTY5U0xwZnp2UGdidDd1XzlpQ1Y0SWtCZXpodWVEYg?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "英 BBC급 '공신력 최고' 만장일치…“토트넘 강등→프리미어리그 잔류 실패” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHNndGNmF5QmgzYkxaMlZuaUpUZDJlc1Rtc09lNjhyWUJJSVdtSFFMZnlQR1Y5QnJMTG1yZzlLR0d4c0lzOWg4ZmVVamlfYktEX2l4Wmc1T1pIXy1pV2VXWl90akpFY1ByOVZnU2JJSdIBc0FVX3lxTE83dnlDalZHSmM0U1JRUjJUSEFHX1lLc0g2NXBjWmJ6TkRsRWx0a0hFc3pCamhWbTBkemtGZjN1QlRTbjlObEVxUU5LUkNDbGplVlA1eTBLVzRaVTI2TTBBOU04YlpTeDBJbkhQeVRQVkIzX2c?oc=5"
-        },
-        {
-            "source": "엑스포츠뉴스",
-            "title": "韓 축구 초대형 이적 가능성 '또 나왔다'…박지성 후계자? 손흥민 빈 자리? 과연 어디 가나→\"오현규, 맨유-토트넘이 러브콜\" - 엑스포츠뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10UjhTX1J0TlF6ODVQSzgzWkJtLXIzejBBNWFRT2VaYXliUDdLcFR6dHgzYmxfVXFReDY5WTFjNXR1aldaSVIwRmZwMzFtWjVvTndNXw?oc=5"
+            "source": "osen.co.kr",
+            "title": "'무무패패무무패패패패패무패패' 토트넘, 결국 2부 운명...슈퍼컴퓨터도 등 돌렸다 \"승점 37점으로 18위, 강등 확률 49%\" - osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hY19hR0pPSVFBY2pDMktPRzF2UFY4RnI1c3poUWVvV2RJcjlLcXVrVHl1MzM3UnFMWlVrSFdCOUVLaXpRbU5na0QtWUxqTU5lc1FN?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
+            "date": "2026-04-16",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         },
         {
             "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
