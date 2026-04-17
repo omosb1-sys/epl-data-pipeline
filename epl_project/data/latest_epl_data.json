@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-04-17 18:40:28",
+    "timestamp": "2026-04-17 19:50:08",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Tottenham: Roberto De Zerbi says relationship with Spurs board will decide future - not Premier League relegation - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSEpkYm93ZEVlbHVoUEE3cW0wTXlmb0Z0aEdxN0xncHFfY3BmX0E0TDl3M0ZFVDNLT19mcExxLWFDZC00Z2oxd3ZtcjhKNnMtZTZacVhXY0xhb3NwT1ZidWdFY0FLaGJnSU82U2NRMzNWdFlVRk1CS0I4OURhVllRczQ2SzUxMDR0YTdSeTdYR2lSZG8tcGM4ZnB1VFR5MXB6RnoyeUU5OGxUaVpWNnVfVVk3MlV2RTBVOE93bmV4OWhmckh3NFJncGp5dFVXYUVRQ2NnRm4wMWlRVlRudGJROFp1XzgyMFRvaVp3cXVfd3RubG1Da2Jmdg?oc=5"
+        },
+        {
+            "source": "centredevils.co.uk",
+            "title": "Tottenham Hotspur face Premier League breach concerns over Manchester United-linked defender - centredevils.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWZwczFZcXgwYTVHaGNsWUstRDhzUHB6Rk43bGlmZGVYZ196SlE0dml6TzRRUFNLaVBmSU9MVzJNSTJTRThjS2dXOWVvdTl6LUFfRTZQMXBBRTMzcWlEbzBkUGJIRVlLdTVQV1A5c0x3Nkd1Qjl6RTYyd0RxbndBazlSX0EySENOSXJ4MUNYU0RENEk2YkpFOXp3blI?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League: 10 things to look out for this weekend - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmF2UVEtTFFQYVdaV3YzUEVXRTJNTGFHNXlrbXdoZHlnUnV6aklUVXVFcHZGRWcxX1d5Tnl3UndXNDVNdjVuQWhUSlRsMDFmQVlZYmwwNENQa2hYZjdOSUpyUEhyQVJsNGRGaGNyUXBOZFhOTENWblhPQ2JlQ3c0LUxvV0s2NG5jQzFuTnNpVEp5bV9JaExnSGsxNzFCcHRaLWlXYg?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Everything you need for Double Gameweek 33 of FPL with the latest tips and advice - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDNRVHlNWDRaUXBmMktSQTltUE9reUJqMUNMcm5FbjZrRFYzcktGbmlYUkIzRUpNU0JfTVRPc0ZvaEU3RzRlNXlVTlpCTWRybmJQTlREWFd0a1dlSVVvUW1WR0c4eHZUa0hRUnh5STRoeVRGSUZRNGpmQ3NaNWZER29LM3I0TkRQaUNvV1dBWklhVFFGN29HZy1JUWQ1cWR1UlJwRlc1RzItRGNTcXRjbTBhWHg2cGNsQ1o4V3dZZHJpb1VWN0E?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "All your FPL stats and Premier League team news in one place - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NTE43U01YMERYR0RWcU00bWJaZmFqUWR2ZEJRUkotRWYtN1p5TlE4aE9XcmhHV2dzRXo4azc1Z2JJY1M4VlFTVjMxOTdlVHFfNWNZVVF1YndMUk5GN3c?oc=5"
-        },
-        {
-            "source": "The Empire of The Kop",
-            "title": "What Fabrizio Romano heard about Anthony Gordon transfer is excellent news for Liverpool - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmVBQTlESm5JeWZFVmxFYWI1ZUFHRXRNblRlRXgtLUV6azhXOVdkajhHN1pDTWVBY21WMzJqdzBrcUIzN1F5WnlxMFJ5ejZ5Y0dBaGUwZmxRM0o5eTdoenEyMTdYQVhKX3MyZHNVOUdITDFmVS0xN29pbHJmQUVZZGJVSGYyZmNJWWZVd0RNeWdrcVlSVWR1ODJmNkNzUGtUS2F0cUQzT2RXcXIzSWp0N0I1QkVrSm9PenZDeXg2OGNSVXVGMFJkQWlEVdIB0AFBVV95cUxQRjEtSHhnY25aVkJfS0hDbWhoSzRsLUZLS0ZJZ1ZDWGlseUs1cURZNmVFdjhSTGVpRjZEWWhOZXBzNC1UNkFaS2hEYmwxTlpzWk53TUxzQ0VsVXhOeElxRGdfaUZHYng1U3B6WFhqNzlGeWMwck1mWnhFVURTRU01MmRQZHpmM2lPWlVGWkFuS2pkLTB1akxtSnpVNWZLSlJDV1l6NkI0NHR0ZlNkTFZnQVJrOFJWUVZ2LWpRSUZkSW5hVVF4MkxsSXNTcEd2WmhI?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -34,6 +29,11 @@
             "source": "Rousing The Kop",
             "title": "Fabrizio Romano explains why Ibrahima Konate still hasn’t signed new Liverpool contract - Rousing The Kop",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjRwVGM2NTRxWjlUbDFHUEhpeFZ0cFFjbUIxRFlCSXhZamNtWGFfRURWYU1sUTRxczhtUnhCMnk1Y0dObGJqM3FfeGJLRDhLVEZ0cVI5Z2YwaGlEYUZadlFxZ3NPbmN1SC1Jbmp3cW5VRk82dEUxQ3VXbFpDX3dPT2RxR2lNUzhWOW1uVFlZb2trM29FOEFYb0dtdURwWm8yQTljdm9RVzI5dHV6NF9TNk1xc0tTYjVXX0lUTGgyR0pNYVZENGlv?oc=5"
+        },
+        {
+            "source": "footballtransfers.com",
+            "title": "Fabrizio Romano Transfer News: Arteta contract talks, Cherki success, Kroos back at Real Madrid - footballtransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbUQ5dG53OGpwY19VVUZSRzZSd09PTGFseklrZ1hsMzdLV2RyTHJINlRhQmk1X2F2dU5qVWJJWWVPa0E0VXUwT05qMTZ0RWl6MXZycklMMkdlZWpuTkw2MDRxVFpnYXhjaVlWSGs3ZlNMUklFd19HT0JzaEVVNkcwMkZSak42YmxLZkUteVZiMmhldDV5TkpCckNKZEswZmxURDVuMDdOS2s2d3BBdC1VanFnT0t3cTUtN2hUdmhvRVpISVZVT2wybDBEZkVzLXRWMzFROEd6SXhSUXctYUJLajV5bVF6UkxnTGlWWi01REUzRWw1SURJRVNiR2JHZw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -62,18 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"토트넘 강등? 양민혁에겐 기회다\"…EPL 벼랑 끝 '손흥민 친정팀', 유망주 중심 재건 시나리오 나왔다→'YANG 반전 카드' 英 현지 주목 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CTmVzZkk2b3MwOWU4RWQ3ZC03b0xKSElmRV9leWE3azhUczgwNDRWRkoxUFpxRXFqWFpZN1JDMXU3R1dVc2YtYi1hR214ZWtkaV9FbERSVmVBWDlhcnBUMVhyVU0wc0Q1T01QV3h6YVZHeGZodkluRA?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "13위 크리스털 팰리스 '광란의 파티'…강등권 토트넘, 눈물 쏟는다→\"17위 웨스트햄과 맞대결 앞두고 밤새 놀다니\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OLVg5MjM4aXNQT2ItRDhweHZWVmxwd1c0d1JNaWNCQ0k4WVZ6QlM1RkZnLXlXTGZuYUZIdlVoaDVHX2hsUUFXT1QzNEgzcUk?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "\"토트넘 강등? 양민혁에겐 기회다\"…EPL 벼랑 끝 '손흥민 친정팀', 유망주 중심 재건 시나리오 나왔다→'YANG 반전 카드' 英 현지 주목 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LTmVXXzZfMUxYQjVyNnB5THhmMEUyUnFUNE14SW4wOERGblRWT0RsZlNINWZEdlpsM2ZFWmFhRzRzOHRzVUJqU1RhaEhwMHZId2xIQTRHVGZRRnR1?oc=5"
+            "title": "'동화 우승' 10주년에 '3부 강등' 확정…레스터 시티, 운명의 장난 같은 충격 시나리오 등장 [찬기자의 KICK] - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xdWJmNERXX1RKbVI5NTZ2TWxCbkFjYkEtS2MzOUhwZWJTUDhMbURMZ0NWWFJaXzJsS2ZsZHR1UmNsNWtnQUE?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -82,13 +82,18 @@
         },
         {
             "source": "v.daum.net",
-            "title": "'쏘니 도와줘'…'맨유와 오현규 영입 경쟁' 토트넘, 손흥민에게 요청 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvc2s5V1poQ0lWNlZ5MWdXOUpUdjBSY3VmbWtpWGxLZTlOeWRzLXprM2NZdG4xaEN1YTFsc0FqR1ZzVVJuVWc?oc=5"
+            "title": "'위로냐 조롱이냐' 韓 최고의 유망주 양민혁, 토트넘과 함께 2부 리그에서? \"강등당하면 유용한 자원\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYOUtDbXc3N0xpZkFtZ0JucldrTTZka21ZN25uZTN1ZXNiM0R4TXNhUUJMejQxczFqQ2pXQ1djcDJUWUNWd1lSbEVScFZVbEU?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "손흥민 후배 될까, 박지성 후배 될까…'10경기 7골' 오현규, EPL 러브콜 폭발→토트넘·맨유 이적설 떴다 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84UTVYVUFkZ3h1UEZNOEhrcmZfdG5OXzVOM0NnQ3JGdnc5UmxURDhDWXFTVklkV0ZWUWhhQ0ZzNXNGWlJuaHd5d05hekhNczQ4YkNlOGJsR3ZKRXM2?oc=5"
+            "source": "엑스포츠뉴스",
+            "title": "0.02% 우승 기적, 딱 10년 만에…3부리그 추락 위기→\"심판의 날 다가온다\" 2연속 강등 임박 - 엑스포츠뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SWFFqTk9XVE42bnIzUGhDc281dnFoS1p5Z2wtbHJmdVhxd0doNzAxUXFaWHRZWWpzalM0Rld1VEliNWNsSEdmUkNBQVRhSW1zRjIwNA?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "토트넘 강등권 추락의 결정적인 이유, \"이 친구 축구 잘해?' 질문 잊었다...\"크고 빠른 선수만 영입\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVJIWm9UZlBFdnBHZnNwc3dOR2N3Y3M3cnk3RUprQlQ2clY5d0dIMDF2V0wtUjEwMjNQOGhNV0VkbGdqekc1Z255TVpzQXRES0d5UW5DYW1ZREFlMFh5UGV2eURZZDdlM1pIa1UtR0IxVnhsSzJKSk11a25kZDJIVkhvdU52emhxU2RZ?oc=5"
         },
         {
             "source": "뉴시스",
@@ -96,14 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQllCbElLbVhVTzBLcEtLTUdic0hoSWprMnl5Ul9Lb1E5a1d4WTA0NldQMDNLc1FfOGRHRmFBSE9NZmNWbUtocDZvMnYwSUZ3QUlKNzIySWRWckVKVWRwd9IBeEFVX3lxTE1YMG5GQWFpbk05TXdQWHJFOGw4dUR2emhJZkZEaHNneUpUWXJjSkdfRkVtb3hJZVh6ZFNuT2Q4Q2lGTlA1NEZzeEt5T2VDMW5ER0k5YXpRMXdybTY5U0xwZnp2UGdidDd1XzlpQ1Y0SWtCZXpodWVEYg?oc=5"
         },
         {
-            "source": "osen.co.kr",
-            "title": "‘충격 또 충격’ 안정환, 박지성보다 먼저 프리미어리그 갈 수 있었는데…이탈리아 페루자가 방해 - osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WN3llQ0Z1NjZXdko1c2hUc2E3NnpCd1VpcGd0ODc4Vl9lM0JjQnRiSEhGVG1PY0JPM1lkWFd2M2pPZmI3N19uMFlWSUNXenpLWWs0?oc=5"
-        },
-        {
-            "source": "풋볼리스트",
-            "title": "프리미어리그, 다음 시즌 유럽대항전에 무려 10팀 출전 가능! 절반에만 들면 유럽 가는 초대박 찬스 실현 ‘경우의 수’는 - 풋볼리스트",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kcUwwSEZsc1ZJc0twc3phZEZJa3FDOVZuamVxcnlDNXF2VF9QXzhJTFdSbHd5RmxhWW9VT0JrSEhLd0dBdXVES2lFZlQ2SnhLZXJ1Y2NDd05CQ010dl90X1VjZzVyLTZNRjdXNmU4RlFDQQ?oc=5"
+            "source": "v.daum.net",
+            "title": "'쏘니 도와줘'…'맨유와 오현규 영입 경쟁' 토트넘, 손흥민에게 요청 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvc2s5V1poQ0lWNlZ5MWdXOUpUdjBSY3VmbWtpWGxLZTlOeWRzLXprM2NZdG4xaEN1YTFsc0FqR1ZzVVJuVWc?oc=5"
         }
     ],
     "transfers": [
