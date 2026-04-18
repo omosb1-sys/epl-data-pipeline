@@ -1,19 +1,24 @@
 {
-    "timestamp": "2026-04-18 09:37:04",
+    "timestamp": "2026-04-18 10:30:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Coventry Telegraph",
+            "title": "Coventry City set for eight-figure bill after promotion to Premier League confirmed - Coventry Telegraph",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFRsSHlLeUpzNk9YYzV2cFZPZUdmQjJnbGRNYXVSSkhBLVIxaHBHdWpCbkxJamNrNVJmWGU4bFlsYVNrQU5iUXV2a0VyOTlPZ3FSMHk2TEt4Y0RkVzhCb0VIRXU5RzhaeUhMa1VPSFlUQlYxTHlsTnpzdV9jaGItVTJkX1pIVFNuMUNOYzNscThOTGxNdEJBWTVjUTdKTVZheUt6b0phY3VZNEp0dHpj0gG0AUFVX3lxTE1zZlhBUFZhR2pIQ0FsZm9FcU1zMUNidWV2cGh1RjAzaGczSVo3MHA0cGhqOENWOHZwWDVNTU9TSmVFMG10Q2tzUWlyUDcyNDRhZ3JUbldLQVRsLTNmc0dEQ1RwWWV6TjB5YWFjZHZGRlRlSExHNXJMekNyQjhlakVDZVNoN2MzaHQ2X0QtYzdHSE5RWE5uX2tZamhSeGhGYnd5YmVEeVhnclpScjVQclVmRF9YRA?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Fantasy Premier League: Gameweek 33 Q&A with expert Gianni Buttice - send us your questions - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HcDlJOHNTNVBQWkF2NG9rM2t2RXlaOUR0NGJYRmpudmNKemZKem1XNDUyRktpVnpMY29ibDJkWTYyeElMRjhXeGNLY1pxa3haaGItS01pZTlMd2JjSFV6b2QzeG4?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Scout Selection: Best Fantasy team for Double Gameweek 33 - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmpvb1dnekhSZllOcVAzVUtaNmlGbU1CS3ljYmtWVWFCaXp6d2hBTEFSaWh5emM2QkZWYTZJUWFQY2szZ2UzZVpPS2xTRmcwT2hTWEJqa1VGbmZRQnlzOTNaRTlfbUM3TEhnN1p0dkthdUFsOHp0Z0ZHdXEyMVhHRmhtYm52Q2VaaFpkX1pteUNYZGFza0MzWUtjMUk5Q3VfalUtLQ?oc=5"
+            "source": "Sky Sports",
+            "title": "Leicester City on the verge of relegation to League One just a decade after Premier League triumph - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ0tnLUxCSzZjdW8xMmRNODUzaHhnSjIwNE1iSVVSb04ya2I4eE5YUzg1RDlkdnFzdThvNmV2cm5KeEFYNG1fMGNDQWdfY1o0VFBCMmlER3JmdWNNZVpLOFhablRjUEM2aHhQSnJOcDVpUE51dURFVWJCbnc3bGNUZTdLeElFcHB1VHZEZWtJaXUxZzcyRFFMM0M2RUFPNGlYNmhjTmpRNDZDX1dKMmRxN1g4aWY2OUZJVndGR3QzUUhtLTlwLXprbVkzbzNQeEVmR3V0NmhXRnRoRm9jbGF3MVJXYlVCUGVh?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -36,39 +41,34 @@
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnZOc3RzVG9EaXllbEt6bXgxRTVSRS1LMkNjTHhUN0F0Mk5oYklTZEdHN2FnajZnbVdDV3YySlEyLV9mRkNLc1U5cVBDeUljd3Y5VDNERlpmX1puVEZMbDhDVlE3ZjI4eHNQNzlFUmtkMHRYUU9iYXZRSWdOdkZDcTR2S0ZHQzBHU2xpLVZZQjZiekVVeko0d0ZfRjFpcVlKME1oY05sVTE?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Ask Ornstein Q&A: Our football insider answers your questions - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlNmSVJVcTlSTXE2ZS1DX2F1TzdJcmZuSEt4ZEd5SG5rTmc0Sk9faUtoTzhKUHZTX2pvdHJpcjdVMmd0TnFtTDRyNnBkc2VmNUVJTnVidVVULVY2VElmalhiR1RuYnBUSkE2bkVIMGlDdVlzYVd3ZU1HRXZYaThMaEZPcDBzUjNDcThmazZobHBBMFo2UzR2cURjWWNSLVBx?oc=5"
-        },
-        {
             "source": "DaveOCKOP",
             "title": "David Ornstein issues latest update on Xabi Alonso and Liverpool - DaveOCKOP",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTF3Sm03b1JmdzBRT2htdk1Fa0FCT3FRZXI2ckVTeTg0OEJOLVl4OUljaEJQckM0WnMzeVlWZWdmb0ZVMDZlVGNNRVRwbXU5NXhVT2g1Rm4zWlEwVXdBbXZwazhnR3lhenlSWjdSbVF2SEFHYnl6YzRhQy1XY2pidjJBMk1iZzA2QkRnVVRmSnhvY1NkOXZvWU1uN0E1czQ1Y1E3ZVNR?oc=5"
         },
         {
+            "source": "The New York Times",
+            "title": "Tottenham leading contender to sign Marcos Senesi, subject to Premier League survival - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEF3VE9vc0pYMHBiams2N3Fwa2drSXl0RlAtVHRXMV9iQWRYWmlIVmZxeTZwNUQwSDhqUEg5WVc5NnJhbGtxWXB6cnVLMEFMbjV5eTg4aTMwZkFBMExkY0hnbzc4MHE1X1ZXSFVtdF9NUk16SDlVbVVtaHN5bWlBZm1BblVvcG1IUmhCRjdKRGx2bGcwNEk0YmNlQQ?oc=5"
+        },
+        {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2JHdkY2VENGZnJqMFZDN1BUMnBOYm81VE9fMzdVWmJjeWFjUXAybk1oU3hhT2JlQmJROFZzT0dVR0xhZGZsZG5mWnI3YVpCU194RXFvQnJ0OXp2bDA3SzVCTWxaVmFHb0tyT201dkE1dGJydDBkcVcza0x3YWNpa1UweGlHMXh2UXpHWkM1TGF2OGdYNko3czJ4UUtQYWwzTUFQQ2t0X2QzQTlzdHpOcU05QUhKQmpENnBOdXJMZVg?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "EFL transfer news, rumours and gossip for Championship, League One and League Two - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVZvQ3Z3djZGbDRyWnEtWkdtdGVDVDE0ekFHSG00M2ZaT1VLVU9oZzVnbnphWmNsLWE5QzZZU2YtaWlkWk1jalJVYktxRThMS0FSdVQ2R3lBMDZuQkZhZ0poY202UGVSM3NTLVpWNkQyWW1PM3lrOXI1U2hmRlRLME40Vk5zV3E0M0ItQlBwSXJQTXhPQjdJTjR1Q1dQMzJrMWl4c20yUEdaNlNVSm9NdzAyLTdIU1pRS2hGTGViQ08xQkRLNlJGcmhWWGZQYm9XTlBUamVR?oc=5"
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "source": "조선일보",
+            "title": "\"승격으로 PL 전사 됐다\" 사카모토 향한 일본의 환호...양민혁은 12경기 연속 명단 제외 '답답한 상황' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREtMci1JLW9kNzFMeVM0N0dfalVJd2RUS2hyM2JrckZlWHdCVm9DQVFHb0Yxd2pYNWhrR2dWNDhZUE14MFlCYjlUN3pZWW5paHdXakphUUczRHFDYjZETWRfRUlqWTUzN0FTUWZfQk1SNFRYcWczTGdwQUN0d2pFWWVDbi1ZcW1OQ2xj?oc=5"
         },
         {
             "source": "v.daum.net",
             "title": "맨체스터 유나이티드 초비상! 리산드로·매과이어 이어 요로까지 OUT→첼시전 앞두고 수비수 전멸...카세미루 CB 선발 유력 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92TDdGeE0yNi12dHFJTHZYdHpVUVA4dEhYWW5HNW5LV2tPUnlPTF9kYlUwSTcxMEYxMGo5LXNvT2FiNW8teUE?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "에이전시 교체에 이적설 활활.. '비카리오와 결별 예약' 토트넘, 맨유 유망주 출신 GK 품나 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlNBNm1HUzVhbVprVHl0a0E3OHBXdTRiMTA1TVZVNmJrUTRsZEFXT2NUZjZuMEpVR3ZZTmJrcWtGaW1RNU53RlBjdWtuY284WnVYaUMyRW96NWFPSVVjRjdoQmlkb3N4UG9CZGhSbVZQbFc2Wm9UMnlJWnc1dUFkanFkNDFnVFRSMGNR?oc=5"
         },
         {
             "source": "mt.co.kr",
@@ -87,8 +87,8 @@
         },
         {
             "source": "SPOTV NEWS",
-            "title": "[오피셜] EPL 승격 순간…양민혁, 벤치에도 못 앉고 명단 제외 \"최악의 영입\" 혹평 '12경기 연속 탈락' - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdFpfd3NNWVA0blRRNExwZGQyWDl6YWpCNFZwbUI1MFRCNG4ybkEwanN1NlBqeHBOR3pjSVY0NFdpbkJmVkdkRDZZa1ZRQ3ZfV19heXFBWS1RcDhqQWpROTkyTWpHekhUaXdLZGRVWQ?oc=5"
+            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jelRxNFQzVEh3d2ZiZXBTZVFoVFhfV2Q1My1DdDVRdXl2SnJ0SVUtaEdNVUYxNTN5R0pUNGY0aDR6WFdWWUVjMWhYTmI4LXJiLVNIam5RdnNyY0k0SmZ2Y1lUQjFZeWhUc3pFLUs1VdIBc0FVX3lxTE9qbVZ2NTZRZDAxM3haR0liUTA0Wk5QMWlMWHZhQmdhak1yR3VsTEY5NmtoMGthVVNxMXBvcU9ielo1aFJYdXc2QzBMRTdFcXhWYTBhTFNiRzQ4R05kYXZoNGdfXzRrd1lhVHRidDBnSWx6dGs?oc=5"
         },
         {
             "source": "osen.co.kr",
@@ -108,13 +108,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
-            "date": "2026-04-18",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
