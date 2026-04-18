@@ -1,24 +1,19 @@
 {
-    "timestamp": "2026-04-18 07:52:24",
+    "timestamp": "2026-04-18 08:35:25",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Fantasy Premier League: Gameweek 33 Q&A with expert Gianni Buttice - send us your questions - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HcDlJOHNTNVBQWkF2NG9rM2t2RXlaOUR0NGJYRmpudmNKemZKem1XNDUyRktpVnpMY29ibDJkWTYyeElMRjhXeGNLY1pxa3haaGItS01pZTlMd2JjSFV6b2QzeG4?oc=5"
+        },
+        {
             "source": "Premier League",
             "title": "Scout Selection: Best Fantasy team for Double Gameweek 33 - Premier League",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmpvb1dnekhSZllOcVAzVUtaNmlGbU1CS3ljYmtWVWFCaXp6d2hBTEFSaWh5emM2QkZWYTZJUWFQY2szZ2UzZVpPS2xTRmcwT2hTWEJqa1VGbmZRQnlzOTNaRTlfbUM3TEhnN1p0dkthdUFsOHp0Z0ZHdXEyMVhHRmhtYm52Q2VaaFpkX1pteUNYZGFza0MzWUtjMUk5Q3VfalUtLQ?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Everything you need for Double Gameweek 33 of FPL with the latest tips and advice - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDNRVHlNWDRaUXBmMktSQTltUE9reUJqMUNMcm5FbjZrRFYzcktGbmlYUkIzRUpNU0JfTVRPc0ZvaEU3RzRlNXlVTlpCTWRybmJQTlREWFd0a1dlSVVvUW1WR0c4eHZUa0hRUnh5STRoeVRGSUZRNGpmQ3NaNWZER29LM3I0TkRQaUNvV1dBWklhVFFGN29HZy1JUWQ1cWR1UlJwRlc1RzItRGNTcXRjbTBhWHg2cGNsQ1o4V3dZZHJpb1VWN0E?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Who is the best FPL captain for Double Gameweek 33? - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEEtOUw1aXRPdEgxX0xNSnZRYXZqdmpwQVpJTVIzVEprOVQtMHJKRDM0eEVhNWRxTGpaSDZGbU9Bc2lZXzl4V09JTHladDN4akFVdXZjUDdWNnNQdHRJNFRGZFNnc01aOE9qS05fN1B2RF9TMkcwcnR6Q29vbDFzdS10SjRkcUhmbTRaVG0wbnNIcWJxSnlCNEZXaGo?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -31,9 +26,9 @@
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjRwVGM2NTRxWjlUbDFHUEhpeFZ0cFFjbUIxRFlCSXhZamNtWGFfRURWYU1sUTRxczhtUnhCMnk1Y0dObGJqM3FfeGJLRDhLVEZ0cVI5Z2YwaGlEYUZadlFxZ3NPbmN1SC1Jbmp3cW5VRk82dEUxQ3VXbFpDX3dPT2RxR2lNUzhWOW1uVFlZb2trM29FOEFYb0dtdURwWm8yQTljdm9RVzI5dHV6NF9TNk1xc0tTYjVXX0lUTGgyR0pNYVZENGlv?oc=5"
         },
         {
-            "source": "footballtransfers.com",
-            "title": "Fabrizio Romano Transfer News: Arteta contract talks, Cherki success, Kroos back at Real Madrid - footballtransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbUQ5dG53OGpwY19VVUZSRzZSd09PTGFseklrZ1hsMzdLV2RyTHJINlRhQmk1X2F2dU5qVWJJWWVPa0E0VXUwT05qMTZ0RWl6MXZycklMMkdlZWpuTkw2MDRxVFpnYXhjaVlWSGs3ZlNMUklFd19HT0JzaEVVNkcwMkZSak42YmxLZkUteVZiMmhldDV5TkpCckNKZEswZmxURDVuMDdOS2s2d3BBdC1VanFnT0t3cTUtN2hUdmhvRVpISVZVT2wybDBEZkVzLXRWMzFROEd6SXhSUXctYUJLajV5bVF6UkxnTGlWWi01REUzRWw1SURJRVNiR2JHZw?oc=5"
+            "source": "OneFootball",
+            "title": "“Chelsea and Enzo” – Fabrizio Romano provides fresh update on Fernandez future - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1hNOHBaSGJRM1RmZC1BbTB5aWx0WnhQS0ZuaFhnZjBmV3RmSzMyS3BGRkRhQ25iakJTeVNpdEx1UFdjbFEwRTZkcnItenJQZ2tLaWc3MjA4N3plRWZvT2V6c1Z3ckRQRXBRUkNHTHpBalZFM3RVWlE5ZVdGOFdtVmlPVlhEQTctc1hNY1ZaOWU5b001LVBXVDQtQk80X2hwYnZpMmpCOGNEQkVITzQwSUxXYy1aWHptOVlv?oc=5"
         },
         {
             "source": "The New York Times",
@@ -53,27 +48,27 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2JHdkY2VENGZnJqMFZDN1BUMnBOYm81VE9fMzdVWmJjeWFjUXAybk1oU3hhT2JlQmJROFZzT0dVR0xhZGZsZG5mWnI3YVpCU194RXFvQnJ0OXp2bDA3SzVCTWxaVmFHb0tyT201dkE1dGJydDBkcVcza0x3YWNpa1UweGlHMXh2UXpHWkM1TGF2OGdYNko3czJ4UUtQYWwzTUFQQ2t0X2QzQTlzdHpOcU05QUhKQmpENnBOdXJMZVg?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0lnbmFOcEx1TDBjZG1fem9ic3JQNFRfa05hT3R6alQtOHk0dXNfQkRTd0NLa0hTdThQaXhFSHFxdVVsUVpVU0R4VDBrbmJsQUpQMWQ4RTI0N0tmYTBWUDV2d1dYRVphZi1idE1WNVlLWEZTUF9EVFdURVg1QlJLN2k0dXVWUVY1ZFNqTXJaQ1NqeW5NWDRzR0RHeDFJV0dqSDV5a0d3TUcwaERGWHNhd20zaWhqMnNkN3hWcExlLWF1UWJmRl8xa1VPVEpYeFFwaUNDVklGeU5PNHdrQjZ0Wjh3Qk5TZkhMMktiMU9LNlRGelZu?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
+            "title": "EFL transfer news, rumours and gossip for Championship, League One and League Two - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVZvQ3Z3djZGbDRyWnEtWkdtdGVDVDE0ekFHSG00M2ZaT1VLVU9oZzVnbnphWmNsLWE5QzZZU2YtaWlkWk1jalJVYktxRThMS0FSdVQ2R3lBMDZuQkZhZ0poY202UGVSM3NTLVpWNkQyWW1PM3lrOXI1U2hmRlRLME40Vk5zV3E0M0ItQlBwSXJQTXhPQjdJTjR1Q1dQMzJrMWl4c20yUEdaNlNVSm9NdzAyLTdIU1pRS2hGTGViQ08xQkRLNlJGcmhWWGZQYm9XTlBUamVR?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "램파드의 코번트리 승격에 日 팬들 열광...\"우리 선수가 PL 전사가 됐다!\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXTzV0MzhrLXlSREM3aHlXM09nQUhBLXUydVZBeHlVN2pqMkdzbUs1QWJRV1RlSzJMTEFCY2x1NmpMeWNuZ2c?oc=5"
+            "title": "맨체스터 유나이티드 초비상! 리산드로·매과이어 이어 요로까지 OUT→첼시전 앞두고 수비수 전멸...카세미루 CB 선발 유력 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92TDdGeE0yNi12dHFJTHZYdHpVUVA4dEhYWW5HNW5LV2tPUnlPTF9kYlUwSTcxMEYxMGo5LXNvT2FiNW8teUE?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "캐릭의 맨유 센터백 초비상! 매과이어-리산드로 징계 결장+요로 부상 추가 이탈..첼시 원정 남은 건 19세 헤븐 달랑 1명 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2lVa2ttdW96ZERjWmFPVS1RVDFKV2ZIRTNCMkFvbU4tcHhCM1JCZEtDX1A5ZnltSlQ2dVY4czc4bHBTTi11MGZVdk9vaHZZSlFmNEIxYjcwbmRnSDdadm1ZdHByR3lBTmVFSThNSW9ad2NQZ3FhMHlwSTd3THRzZ2hUQkJUZ3AxdHA0?oc=5"
+            "title": "램파드의 코번트리 승격에 日 팬들 열광...\"우리 선수가 PL 전사가 됐다!\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnIwY0NuQWluZmRMMS00SElWNFc0a3J0VFIyVWZ2Y19LMFNBeDU0aDRZeWR5SUMxWm9rMUdmU2NIWEVNbXZkRnZJMzU2ZkhiYVB2UV9uUy14LUtIRTUzcHJEYUluRkdSTlBTVXZjRF91VWlTZEVyRGxEQ0ZTZ0FkVThuTzhDaXZTcnlF?oc=5"
         },
         {
             "source": "조선일보",
@@ -113,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
+            "date": "2026-04-18",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
