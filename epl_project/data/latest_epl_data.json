@@ -1,19 +1,29 @@
 {
-    "timestamp": "2026-04-17 23:29:13",
+    "timestamp": "2026-04-18 01:13:09",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Fantasy Premier League: Gameweek 33 Q&A with expert Gianni Buttice - send us your questions - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HcDlJOHNTNVBQWkF2NG9rM2t2RXlaOUR0NGJYRmpudmNKemZKem1XNDUyRktpVnpMY29ibDJkWTYyeElMRjhXeGNLY1pxa3haaGItS01pZTlMd2JjSFV6b2QzeG4?oc=5"
-        },
-        {
             "source": "Premier League",
             "title": "Everything you need for Double Gameweek 33 of FPL with the latest tips and advice - Premier League",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDNRVHlNWDRaUXBmMktSQTltUE9reUJqMUNMcm5FbjZrRFYzcktGbmlYUkIzRUpNU0JfTVRPc0ZvaEU3RzRlNXlVTlpCTWRybmJQTlREWFd0a1dlSVVvUW1WR0c4eHZUa0hRUnh5STRoeVRGSUZRNGpmQ3NaNWZER29LM3I0TkRQaUNvV1dBWklhVFFGN29HZy1JUWQ1cWR1UlJwRlc1RzItRGNTcXRjbTBhWHg2cGNsQ1o4V3dZZHJpb1VWN0E?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Scout Selection: Best Fantasy team for Double Gameweek 33 - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmpvb1dnekhSZllOcVAzVUtaNmlGbU1CS3ljYmtWVWFCaXp6d2hBTEFSaWh5emM2QkZWYTZJUWFQY2szZ2UzZVpPS2xTRmcwT2hTWEJqa1VGbmZRQnlzOTNaRTlfbUM3TEhnN1p0dkthdUFsOHp0Z0ZHdXEyMVhHRmhtYm52Q2VaaFpkX1pteUNYZGFza0MzWUtjMUk5Q3VfalUtLQ?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Who is the best FPL captain for Double Gameweek 33? - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEEtOUw1aXRPdEgxX0xNSnZRYXZqdmpwQVpJTVIzVEprOVQtMHJKRDM0eEVhNWRxTGpaSDZGbU9Bc2lZXzl4V09JTHladDN4akFVdXZjUDdWNnNQdHRJNFRGZFNnc01aOE9qS05fN1B2RF9TMkcwcnR6Q29vbDFzdS10SjRkcUhmbTRaVG0wbnNIcWJxSnlCNEZXaGo?oc=5"
+        },
+        {
+            "source": "OneFootball",
+            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWFTcTllaU5HQVVqLV81TXItYWdza05FWlEtNHVxVkJiNDJvU3BWaElxUjU2eGVHQy11blRRYV81S1RnYzVIWE90NEsyclhqWE0wVzh4VFd0b1lUODVyZ3FrQjJ0aEY4X0J1RlM3NzByNm1zNzFTRDE4dFYzUFpaS2lsSEcyYWdDME5Sd3BQXzFWLVdrUkIyMHVrT2o5cmJTRThreGhqQTBHMWlBZ0E?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -26,9 +36,9 @@
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjRwVGM2NTRxWjlUbDFHUEhpeFZ0cFFjbUIxRFlCSXhZamNtWGFfRURWYU1sUTRxczhtUnhCMnk1Y0dObGJqM3FfeGJLRDhLVEZ0cVI5Z2YwaGlEYUZadlFxZ3NPbmN1SC1Jbmp3cW5VRk82dEUxQ3VXbFpDX3dPT2RxR2lNUzhWOW1uVFlZb2trM29FOEFYb0dtdURwWm8yQTljdm9RVzI5dHV6NF9TNk1xc0tTYjVXX0lUTGgyR0pNYVZENGlv?oc=5"
         },
         {
-            "source": "footballtransfers.com",
-            "title": "Fabrizio Romano Transfer News: Arteta contract talks, Cherki success, Kroos back at Real Madrid - footballtransfers.com",
-            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbUQ5dG53OGpwY19VVUZSRzZSd09PTGFseklrZ1hsMzdLV2RyTHJINlRhQmk1X2F2dU5qVWJJWWVPa0E0VXUwT05qMTZ0RWl6MXZycklMMkdlZWpuTkw2MDRxVFpnYXhjaVlWSGs3ZlNMUklFd19HT0JzaEVVNkcwMkZSak42YmxLZkUteVZiMmhldDV5TkpCckNKZEswZmxURDVuMDdOS2s2d3BBdC1VanFnT0t3cTUtN2hUdmhvRVpISVZVT2wybDBEZkVzLXRWMzFROEd6SXhSUXctYUJLajV5bVF6UkxnTGlWWi01REUzRWw1SURJRVNiR2JHZw?oc=5"
+            "source": "The New York Times",
+            "title": "Tottenham leading contender to sign Marcos Senesi, subject to Premier League survival - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEF3VE9vc0pYMHBiams2N3Fwa2drSXl0RlAtVHRXMV9iQWRYWmlIVmZxeTZwNUQwSDhqUEg5WVc5NnJhbGtxWXB6cnVLMEFMbjV5eTg4aTMwZkFBMExkY0hnbzc4MHE1X1ZXSFVtdF9NUk16SDlVbVVtaHN5bWlBZm1BblVvcG1IUmhCRjdKRGx2bGcwNEk0YmNlQQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -36,19 +46,9 @@
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnZOc3RzVG9EaXllbEt6bXgxRTVSRS1LMkNjTHhUN0F0Mk5oYklTZEdHN2FnajZnbVdDV3YySlEyLV9mRkNLc1U5cVBDeUljd3Y5VDNERlpmX1puVEZMbDhDVlE3ZjI4eHNQNzlFUmtkMHRYUU9iYXZRSWdOdkZDcTR2S0ZHQzBHU2xpLVZZQjZiekVVeko0d0ZfRjFpcVlKME1oY05sVTE?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Tottenham leading contender to sign Marcos Senesi, subject to Premier League survival - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEF3VE9vc0pYMHBiams2N3Fwa2drSXl0RlAtVHRXMV9iQWRYWmlIVmZxeTZwNUQwSDhqUEg5WVc5NnJhbGtxWXB6cnVLMEFMbjV5eTg4aTMwZkFBMExkY0hnbzc4MHE1X1ZXSFVtdF9NUk16SDlVbVVtaHN5bWlBZm1BblVvcG1IUmhCRjdKRGx2bGcwNEk0YmNlQQ?oc=5"
-        },
-        {
             "source": "DaveOCKOP",
             "title": "David Ornstein issues latest update on Xabi Alonso and Liverpool - DaveOCKOP",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTF3Sm03b1JmdzBRT2htdk1Fa0FCT3FRZXI2ckVTeTg0OEJOLVl4OUljaEJQckM0WnMzeVlWZWdmb0ZVMDZlVGNNRVRwbXU5NXhVT2g1Rm4zWlEwVXdBbXZwazhnR3lhenlSWjdSbVF2SEFHYnl6YzRhQy1XY2pidjJBMk1iZzA2QkRnVVRmSnhvY1NkOXZvWU1uN0E1czQ1Y1E3ZVNR?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,29 +61,34 @@
             "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZXl6T2p3OHBnNEdUNlN0MWVNT0hlUllleVhJejcyM3pDRGF4WmFzUDBWNk9yNXB0eld3bWQwNjdvcUNSZm9EcHhDVi1EMjRuOUNaNV9qMmtnV3d4ekQ3WkdhX2pidkppSUNPV1gwRVJxWHpaaWUtVmJwRFJ6ZFBWay15UHNRT2pzNHlLSnlFcHBKeFZ6UWtZLWd0Zmg4dlRJU2VJZ3FSTzJBdHdBTmZ3STYtcGdEeElKNVFjMUw1SmRSbnJVTGZoV2hHRWNQd2M1SzFvdU1TSTZLSzRLYlBuSFhKeFdZaUZvbU5fOTVLTURoeGJRMWY5dUEwdzdjclE?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "양민혁, 12연속 명단 제외…코번트리는 25년 만에 EPL 복귀 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKYmtrdHZmeWtYcU1MOFZBUjZsRVdZMW9XTWN2bU1kRmVHUUliV0RNV2pCbTBGSzQwSUhTcC0tX0hWbmFvOHNXM1ZuNzR4WE5RMEZqbG5YTnJlaDNpUmFvcQ?oc=5"
+        },
+        {
             "source": "v.daum.net",
-            "title": "'위로냐 조롱이냐' 韓 최고의 유망주 양민혁, 토트넘과 함께 2부 리그에서? \"강등당하면 유용한 자원\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYOUtDbXc3N0xpZkFtZ0JucldrTTZka21ZN25uZTN1ZXNiM0R4TXNhUUJMejQxczFqQ2pXQ1djcDJUWUNWd1lSbEVScFZVbEU?oc=5"
+            "title": "토트넘 출전 10경기에서 무승, 3개월 만에 방출 결정…'ATM이 버린 이유 생각해야 했다' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5VEVqOFdYNnFHSHVIYmwyTWhzLVBHdGUzLTNjcUdONTZpckkzVmpIeFM2azZYaEt0UGI4djF5N3ZkX1Q2MDlKV19VN0VmQkU?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "‘충격 또 충격’ 안정환, 박지성보다 먼저 프리미어리그 갈 수 있었는데…이탈리아 페루자가 방해 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2NiTFY4ZjJXLWVTbmlmMmtnMTlBY0dSRUc0OFFHVEpTOU5IOXZkeVRkUTYxNmJ5clZhWWJ4S2hqQzl5dnB3YkhkOTZjajJHNTNkRzRnYTBqNUgxaWF2Q0Z3eEV5bGNxQTJ0Q0t4aGR3ZDlORUhGem1ZUlFJM1JzcUIwSjVKR01DeDBN?oc=5"
+        },
+        {
+            "source": "풋볼리스트",
+            "title": "프리미어리그, 다음 시즌 유럽대항전에 무려 10팀 출전 가능! 절반에만 들면 유럽 가는 초대박 찬스 실현 ‘경우의 수’는 - 풋볼리스트",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kcUwwSEZsc1ZJc0twc3phZEZJa3FDOVZuamVxcnlDNXF2VF9QXzhJTFdSbHd5RmxhWW9VT0JrSEhLd0dBdXVES2lFZlQ2SnhLZXJ1Y2NDd05CQ010dl90X1VjZzVyLTZNRjdXNmU4RlFDQQ?oc=5"
         },
         {
             "source": "SPOTV NEWS",
-            "title": "[오피셜] EPL 승격 순간 \"최악의 영입” 혹평…양민혁, 벤치에도 못 앉아 '12경기 연속 명단 제외' - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdFpfd3NNWVA0blRRNExwZGQyWDl6YWpCNFZwbUI1MFRCNG4ybkEwanN1NlBqeHBOR3pjSVY0NFdpbkJmVkdkRDZZa1ZRQ3ZfV19heXFBWS1RcDhqQWpROTkyTWpHekhUaXdLZGRVWQ?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "\"토트넘 강등? 양민혁에겐 기회다\"…EPL 벼랑 끝 '손흥민 친정팀', 유망주 중심 재건 시나리오 나왔다→'YANG 반전 카드' 英 현지 주목 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LTmVXXzZfMUxYQjVyNnB5THhmMEUyUnFUNE14SW4wOERGblRWT0RsZlNINWZEdlpsM2ZFWmFhRzRzOHRzVUJqU1RhaEhwMHZId2xIQTRHVGZRRnR1?oc=5"
-        },
-        {
-            "source": "mt.co.kr",
-            "title": "'손흥민도 이렇게 우승했어!' PL 16위 노팅엄, 유로파는 4강 진출...'기적 우승'까지 두 걸음→제2의 토트넘 될까 - 머니투데이 - mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVVMwUVkzTG9HdGpCcld0aDdybVVVa2s5bnZCR1d2cHNKLUZ1eXlFZW9CQXh5eGtrX2E0QWV1bXdfc2FmbW0ycE91T0l5ZE5fVkNubFA2Y1g4YXliSmFvd3ZrWU9vcTRHUkHSAW9BVV95cUxONURYT0I3c1VSaVhOY0ItOU95dkJUalEzYWVGMnhnZGtzSVNtSVptYk91STd1aXJaMXlSYUxQN0NkSFBTaEZTUTFQY0R4Q2hQUzNqNmtmNGhnT2Y3ZmRoSG02T2JzUFliSDk5OEQyMk0?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "EPL서 강등 위기 사투 중인데 유로파에선 4강까지, 노팅엄 또 살았다…두 대회 병행 오히려 독? - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwVjdzLWRKd293S3lWZHc5UkoxLWNFOFltc1N0THJoa1VobUNzdlp0Mjg5T2daV2VoTTFzN01GTnk2V2puQVJqVVVNVF9UdDNXT0ZRMzZ1OHVHa3BJ?oc=5"
+            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jelRxNFQzVEh3d2ZiZXBTZVFoVFhfV2Q1My1DdDVRdXl2SnJ0SVUtaEdNVUYxNTN5R0pUNGY0aDR6WFdWWUVjMWhYTmI4LXJiLVNIam5RdnNyY0k0SmZ2Y1lUQjFZeWhUc3pFLUs1VdIBc0FVX3lxTE9qbVZ2NTZRZDAxM3haR0liUTA0Wk5QMWlMWHZhQmdhak1yR3VsTEY5NmtoMGthVVNxMXBvcU9ielo1aFJYdXc2QzBMRTdFcXhWYTBhTFNiRzQ4R05kYXZoNGdfXzRrd1lhVHRidDBnSWx6dGs?oc=5"
         },
         {
             "source": "MSN",
@@ -91,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNRDVtcFBGcnhubG5nT2V2UUFfb0dDcjltU283NzNrYmJqeWs2bTdwZU1kcGZjYzZlNjF0QWs2em5KUXdwd0dXeFJpVWFRTktqSDQtWU9Kd0hqOWRNWXg3dFNuVzh2cXNWVkRVbGVpWUNlODc3NUxYYjhJb3lQYnFkejNhamdCZGV0eUZfYVE1dENYQ1R4VkZVdEdaeEttUGhOUk1HMnZCTlBXZlRaRGY0c09jZGJLY09yZzREVm1LV3BSSUE5N3hxS0lWLUNrTXd2d00wdUk3RWt2ZUladHhDbUhrcjJoMzcwWXNtUUpJbHVPYmRQN1hzVWJYRm1hODdXRHplNF9hYXRoSHZlQ3RGTFFwS0RyWG16cDZDWjFzdHo4NksxLURrdjdXa2ZOZnN0WlVDdmljcHEzTlVpNnkxczRZSzl6Sjd1c0t2Q2ZfdXFfNE1KbHVCSE9xX1Q2bXl2WjBPVjBSeXE5SGwzSlZ3WTVjZnlUcWtiWXpBalZSOXNlMkl1WTNpYVRkUWZpc1U0VUE?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "코번트리, 25년 만에 EPL 복귀…'양민혁은 없었다' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoUEhqdHEzS2x2STN2RGZkTVMtdkhhLTNBR2NWdWRMVmYybWZVNGhKSWNtU1NtM29hU01lbXR6czdzcmd6Tkt3cEdiV2ZRT1U?oc=5"
+            "source": "인터풋볼",
+            "title": "[오피셜] 손흥민 있던 토트넘처럼 반전 우승?...PL 16위 노팅엄, UEL 4강 진출! UEL 왕 에메리와 대결 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NTFdQa3o2NGJBaWxCbkdpQzV1bWt0d2psekg2c1pYaFdKblhaN29MUzVybElnQnYyZXlRd1ZJOFhRa1FWS3dsTlJBSXI5NUgtR3VCQ0JPaDlpWEM1Q0JWbENXN1IzdGtnenZQQzUzWm5Na2lI?oc=5"
         },
         {
-            "source": "톱스타뉴스",
-            "title": "“승점 86-조기 승격 확정” 코번트리, 25년 만에 EPL행 - 톱스타뉴스",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBSEwwX1ZaRmJoTHRleXQwczFLc3lGZE82SWhIQ2lJZ2NPRlo5NXkzbWJHdDQ2T3QxM1pNWkRNcHBsMWlyRzl2WmM2N3BrT21nNXpBNnQzR09NSHlqQWd5dnZRcjFWZ2syNlk4SGVaaE5hdw?oc=5"
+            "source": "네이트",
+            "title": "\"얘들아, 강등은 막자\" 데 제르비 감독, 고급 식사 대접하며 토트넘 '원 팀' 호소 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0Zm85OWtaYTR5UWVqa3RXdTNnNzdLZC16aFNmYjdQbGlHN1RZWTROemdPMXNkbUFRRzk2QW1zQWFLcy1fRVdnTG5WcXpZMHAyWHRZZlBiTldNaGlW?oc=5"
         }
     ],
     "transfers": [
@@ -111,21 +116,21 @@
         },
         {
             "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
-            "date": "2026-04-17",
+            "date": "2026-04-18",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
         },
         {
             "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-04-17",
+            "date": "2026-04-18",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
         },
         {
             "player": "Confirmed: Chelsea make Alejandro Garnacho sale decision",
-            "date": "2026-04-17",
+            "date": "2026-04-18",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
