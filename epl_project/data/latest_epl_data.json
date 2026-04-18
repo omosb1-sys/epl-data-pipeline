@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-04-18 17:27:20",
+    "timestamp": "2026-04-18 18:30:26",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League LIVE: Tottenham vs Brighton - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvWlZoTjlSTzJqdzFOZHhZRHYyS2h6ZmFKNXVwa3ZnNzdrMXJ1Y0VCaEowRV9MWUR2OVlWYVFjazUxZjNxRWdMcnFvaFVSM0RTdmlVU0lDVWZiSXFwa1FDdHVB?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Tottenham Hotspur v Brighton: Premier League – live - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmJlNTRheFM0R2tOQzhUSXgzSk1mWktkMkdkQlh4ejB1Qk0td2diNl92ZnliNVgyWWIxNnBfcHNyT2xHZWh6SDhiZy1CV2U0SGZXaG1jQTkxcFhaRjNDWm1nNWZoWTBwQTBRanVyUkRrWEFFTmdyYkFiRTRZZU0zYjI3b1JKcHMxODBwMVBCMGR6NWhQeVFvQU40NUN2eGk3WE1veg?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Coventry parties as Sky Blues return to the Premier League after 25 years - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZkswVHJkTTl5cnVVWldxNUhCYXcwZDhIaTNHWmNxOHMwcm1wNUgxWHdjUGFjRVB0MTNsRnNIeXRfWG5aYlpZazZUZVNRWFM0S05fZ1Y0VQ?oc=5"
-        },
-        {
-            "source": "Coventry Telegraph",
-            "title": "Coventry City instantly seal first transfer after promotion to the Premier League for Frank Lampard - Coventry Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbE9ZT2xVdzZoSmkwSlRaRGNiMmNfMmF6V3l3a1pCRDJORUE1a2c2ZmxVMFRfWmR4RGFQZlJpa2hyTE9VOGpRTTRqcTh4Wk9feTR4VFhXT2I2cGxsaGZBamR5UFUxWU80RW9IVzRaUnYyaGVLS0lFUzJnakZLeG1WZHpFbUZDTjg1ZkVoZWtJbEZyZHBNYmNTMk5VR2NQMmtTeGQ1Vy1TM1R0UQ?oc=5"
+            "source": "Daily Mail",
+            "title": "Tottenham vs Brighton - Premier League: Spurs star scores stunner as hosts retake the lead in must-win clash - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejk3aUpFQmRUVnV0TmNUYVlxcVppbWcwWUJsT0JvcVJPNGFlT2NhM2xlZUd3cWpHMWpNSno5WnFnLVJ3N1BmdDN4S2l5TUR2dzFHMUpnMXNDd3c1d0J6R3hzcHQza2FCYzNPX0tQa0xERHFpeVloWGJmUlRCU1lLeXZhOXAxSE8tUEltQzlRcXVtbHEwMFZIclJMU24xQjFrcVhxQzlWbGdSNkpUbG4zMm9QR3lYVXZZUEVvM21jZXpLNm9aWHdHTy1PcDN1VGROb0Nn0gHYAUFVX3lxTE9wejg4LXdkRVdIbjAtRTl6eTBxbTJpZXlhVEdtWVFrRWtLendwWG9kdEUxWlNWeWt0WG05RTB3ek9vUHRNMGNiMUUtLTI5X0F6N1JrMDZvZVJnQ3pMSmd5NjF1TGsyWnlZRm5NR1VHY3ZPT2tYbEotMHRQQkFYRlZEZFRfRC1CVW9MNlBmMmdsOTRJelp3S21mUjB4d1B0WUphTkJZMG5CbUluV1VTMFZnVGJwblRKbG9jQ2NrYnRXY0g2cVc2allpVHJxSWpHN2haVG91QmdYcw?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -62,13 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Crystal Palace transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVczcGlDa2duUlN3a1poMWlZdnFFWENReG5BSk1mY2dWOXR3R2FlTUNiTml0VnNVS3FmZXI5VFFxNmxsR3Zxam5ZSk9SLXNhMDV2eGVBel9lWm5waXhaM0lVb04yd2ZhdHhuY1hKcDBLblRpX0lFd3BWNzI3dF81NkgydEtvZFZQNmZubVJmZUNEWkE2NVlfRFFNYzNpbnFITnRSNDhMV1dGS25jbk5sWWU4eVRMN1dodDZCWUE0eGdEU2VyNmF2TFN5bDVGU2ZBS1VfQmdvc1pQQ2R1UXRaVU02dw?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
+        },
+        {
+            "source": "mt.co.kr",
+            "title": "EPL 승격잔치에 초대 못 받은 양민혁 '12경기 연속 명단 제외'... 코번트리 EPL 가도 'Min-hyeok' 있을까 - 머니투데이 - mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yRk1kN3o4cEl6SXNHNkVnZjZiejVRR0VHZWRmT1IxMHhNbm81RVNNQVItVW50TnRtV0xxM2x4aDA2TEg0YmJHRFFsRkdYdW56V3VoRGl2Q21hdExCeDJkdFFwSXBnRkVEOHfSAW9BVV95cUxNTmhPbVJPTVREUC05MV9BX2V0VUJUZ1dHdkViVjE1RjEybHVNbGZuQjd1enU1TDVsU19zcmFkR1RMMEw5SU4ybVpvdzF5a29aM0kydkM4bjI0LTV0a1k5RUpwVTZWN0pnaVoyekJINjA?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "‘양민혁은 없었다’ 램파드의 코번트리, 25년 만에 PL 승격…축제 속 남겨진 韓 특급 유망주 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03VXFTWlk0djFQN1pPOWtOekxVVmREOUpsVGtUQ2xISm1zd0tMQ2I1eEpzdU81d3dMek56WDVKRnMtR2VQYVE?oc=5"
+            "title": "'HWANG 다음 시즌 2부 리그서 뛸 위기'…울버햄프턴, 리즈 원정서 무기력한 패배→토트넘 승리 시 강등 확정 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrd3BSaGV1a01TdlhvWVd6cjdwQXhyOFpSa2dHZkdGRVVXMXN3OVVJRHh3N2U4S2ZrVHlMdzI4SjVjbEwtZm9ZMGdaMmpza0U?oc=5"
         },
         {
             "source": "문화일보",
@@ -76,14 +81,14 @@
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tc05ScV9HWUtkQkJjbmJYQTdueGJMZWJvTnJLRkppbGlQdGlVcTBMdkt0WE9zS3kzUlNIM1owN0RNdUtNYld0cGNIblMyLTdI?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "13위 크리스털 팰리스 '광란의 파티'…강등권 토트넘, 눈물 쏟는다→\"17위 웨스트햄과 맞대결 앞두고 밤새 놀다니\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OLVg5MjM4aXNQT2ItRDhweHZWVmxwd1c0d1JNaWNCQ0k4WVZ6QlM1RkZnLXlXTGZuYUZIdlVoaDVHX2hsUUFXT1QzNEgzcUk?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "“토트넘 패배자 집단” ‘극대노’ 작심발언 무리뉴 돌아온다, 英 단독 “에디 하우 경질→뉴캐슬 감독 부임” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jelRxNFQzVEh3d2ZiZXBTZVFoVFhfV2Q1My1DdDVRdXl2SnJ0SVUtaEdNVUYxNTN5R0pUNGY0aDR6WFdWWUVjMWhYTmI4LXJiLVNIam5RdnNyY0k0SmZ2Y1lUQjFZeWhUc3pFLUs1VdIBc0FVX3lxTE9qbVZ2NTZRZDAxM3haR0liUTA0Wk5QMWlMWHZhQmdhak1yR3VsTEY5NmtoMGthVVNxMXBvcU9ielo1aFJYdXc2QzBMRTdFcXhWYTBhTFNiRzQ4R05kYXZoNGdfXzRrd1lhVHRidDBnSWx6dGs?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "‘충격 또 충격’ 안정환, 박지성보다 먼저 프리미어리그 갈 수 있었는데…이탈리아 페루자가 방해 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2NiTFY4ZjJXLWVTbmlmMmtnMTlBY0dSRUc0OFFHVEpTOU5IOXZkeVRkUTYxNmJ5clZhWWJ4S2hqQzl5dnB3YkhkOTZjajJHNTNkRzRnYTBqNUgxaWF2Q0Z3eEV5bGNxQTJ0Q0t4aGR3ZDlORUhGem1ZUlFJM1JzcUIwSjVKR01DeDBN?oc=5"
+            "source": "osen.co.kr",
+            "title": "‘충격 또 충격’ 안정환, 박지성보다 먼저 프리미어리그 갈 수 있었는데…이탈리아 페루자가 방해 - osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WN3llQ0Z1NjZXdko1c2hUc2E3NnpCd1VpcGd0ODc4Vl9lM0JjQnRiSEhGVG1PY0JPM1lkWFd2M2pPZmI3N19uMFlWSUNXenpLWWs0?oc=5"
         },
         {
             "source": "데일리스포츠한국",
@@ -96,14 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVUl3NTF6eEdXZFpPc1JBdXJuSkZFaHR2ZU1BZWVvbWtJbWtHeWVlVFJGb0tDcnpRZGl3X0NEeElmVVd2TDVVeVZtZGphWVp6c1dnRnVzanBsNkFERUNWRmNQXzVlUQ?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "[PL·리뷰] 황희찬 좌절 ‘교체+15분 활약’ 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 ‘2부 ... - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YSUd0UDNWM0FoSFV4VUtVQTlROVRlVE5UWkJyQmtzWUg3RU1TUENRN0NmXy1TUXl3ZDdDb2ZBVjR0a1dUUktWcUc1S3c3RzFoNEo3dDVod0g3WGFWUkHSAWNBVV95cUxQTjE1bWZqR3Rtc2p6Und5R1dSaHJpYTFrZUw4WjVwUG9vYWt1ZHZBenlua0U4UTA3R1RRS3pxdGpIU1BNbDJKRXVPYkszelNsNWVNOUEyZEdlUkZtS3FlY3FoMDQ?oc=5"
-        },
-        {
-            "source": "gukjenews.com",
-            "title": "에브라, 라인언 긱스 등 맨체스터 전설들 대거 방한...19일 수원삼성 레전드팀과 전설 매치 출전 - gukjenews.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nX1FMOW16YU1vaVc2VVYwTndxTkk5N25nX2RaQ2hTM1d5cTFuYTUxZjNHYS1MZkpuQl90Yl9EMXZxV3VBbUdiY3V0X1Vabkc2bWFnZGdla1pWY1FLbTd4V2w0WVpSX3JpWHExdE5n?oc=5"
+            "source": "인터풋볼",
+            "title": "손흥민 있을 때는 상상도 못했다!...수비 불안 해결 위해 '본머스 핵심 CB' 원하지만, \"잔류가 먼저\" - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92TmdVeXhPYnlGQ2kwdmJJNnhEUjB1amJaS1YwdVNOVWJEMjJ5akljMElpdjVha252TG9nM2s0dGJuT3Y2NHotN2s4MWhoZG00MVZPUTA5WWV1ekc2Y1ZqZXAtYzlrT0FEaXpNQnZ0ZzIteC1J?oc=5"
         }
     ],
     "transfers": [
