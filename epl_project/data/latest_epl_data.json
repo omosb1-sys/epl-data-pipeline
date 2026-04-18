@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-04-18 20:23:16",
+    "timestamp": "2026-04-18 21:22:58",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Chelsea v Manchester United: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFRNNEZlbTdLb1lBVjVoa1hvU2UtRkxRbU54cE9lMzNud0l6SnVhLXRPbzdlUWtCd2V1TTJLSVp6TUlHT3BhaFJ2RGhhZzRtd2otNkRXUDNCd3FwQXFwNzF6NVV1SGpfWVBxd1B5OWpGbXJvRmtUN2NxYmN3bXNZQkg0elVBR0xZTmZ2TnVudVg3aG80TllIVWIwRklZb2xFZnhr?oc=5"
+        },
         {
             "source": "Daily Mail",
             "title": "Tottenham vs Brighton - Premier League RECAP: Reaction as Spurs blow the chance to get out of the... - Daily Mail",
@@ -12,13 +17,8 @@
         },
         {
             "source": "The Guardian",
-            "title": "Chelsea v Manchester United: Premier League – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFRNNEZlbTdLb1lBVjVoa1hvU2UtRkxRbU54cE9lMzNud0l6SnVhLXRPbzdlUWtCd2V1TTJLSVp6TUlHT3BhaFJ2RGhhZzRtd2otNkRXUDNCd3FwQXFwNzF6NVV1SGpfWVBxd1B5OWpGbXJvRmtUN2NxYmN3bXNZQkg0elVBR0xZTmZ2TnVudVg3aG80TllIVWIwRklZb2xFZnhr?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Leeds vs Wolves LIVE! Premier League match updates, news, score and highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGJTYXdlNWZnVUVXeVpqQjUtOGJ5akJTZmpodGg5emdZWWU3S2Q3WEVyV1huQ2FlU0JSdWNTUHA5WmhfMFpMWEZwRFlRRzU5T3g1dFdNdjBkNTZOUnFwLVEtN2NicXZvUkh0QWZyem9kcEVqd04yRHQ5d0Zvd2VHRnJJZ2gzcVo5bjRET3FBRHhYQzRGc1dDTGJkT2lrQ2QxYTZkQjJBS2VBN2l4TkZHRVZtelZNak9LdUhLRE4xbHczTlFIZ2EyVHdnNDBIQzdP?oc=5"
+            "title": "Tottenham Hotspur 2-2 Brighton: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmJlNTRheFM0R2tOQzhUSXgzSk1mWktkMkdkQlh4ejB1Qk0td2diNl92ZnliNVgyWWIxNnBfcHNyT2xHZWh6SDhiZy1CV2U0SGZXaG1jQTkxcFhaRjNDWm1nNWZoWTBwQTBRanVyUkRrWEFFTmdyYkFiRTRZZU0zYjI3b1JKcHMxODBwMVBCMGR6NWhQeVFvQU40NUN2eGk3WE1veg?oc=5"
         },
         {
             "source": "Sports Mole",
@@ -67,18 +67,23 @@
         },
         {
             "source": "v.daum.net",
-            "title": "'김민재가 보인다'...스코틀랜드→벨기에→EPL 가능성까지, 오현규의 '미친 성장세', 맨유+토트넘까지 관심 소식에 '핫매물' 등극 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95N1dSTjVjM2pJU21xY2tmZVIyekVhaThULV9vdGZvamR6YVNOeDJOREwwY3MzUl9Cby02REpsY1d6YUdkVHNNRW1GLTA1amM?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "황희찬 사실상 끝났다, 소속팀 울버햄튼과 함께 2부 리그 추락 임박...'한국인 프리미어리거' 전멸 위기 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TM2gzTVRmcTdldS1CSEFjS0tULWY3V3JUVUQtS0pJVzhQN2E5aDlYdTBPNHZhczhJT3NfSTJkMlN0WHl6aDNiaEFpaS1VdHdfdmVBWGJQdmRqanJzMTJGdlNIeVNQeHVQLU9zRGF6UdIBc0FVX3lxTE5uM3NUUmg5bHMxZFBZLTZVUVNGUkZfTVYxQUpudG1jTHZsYUhoSWFDM2g3cUNuSzFSdEpCX3AxUFNBQWhYa3RSbkdBUmI0dDBSWEFVbFNUZ0hOLWtwRms1UlBteG1jX21XVU5zeTYzaHIyaTQ?oc=5"
+            "title": "황희찬 사실상 끝났다, 소속팀 울버햄튼과 함께 2부 리그 추락 임박...'한국인 프리미어리거' 전멸 위기 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOLW1MZ2tXRTlNaC11TXB5WnVLb18yNHNaUlhmM290b0stSEwyaEdudDB2Yi1WVmJNTzhWSDRSQkhBcWdzLWc?oc=5"
         },
         {
             "source": "네이트",
-            "title": "토트넘 와르르 망했다! 통한의 동점포 허용→1경기 더 치르고도 '강등권 18위'…브라이턴전 2-2 무승부 [EPL 리뷰] - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSmZtMmhFYU1LOURKSVZmQlptbTQ0NE1Jdl85d1NMMzU1b2pNeW1ybFk3T0VDamtYc0l2ZDh1OFVWWGtEQlVSZ2s1SGJVTDZjY1dzdmFuLTJKbDBhNGdpRFkwOGVjejZKa0E?oc=5"
+            "title": "'15경기 승리 無' 올해 '리그 0승' 또 승리 놓친 토트넘, 감독은 잔류 자신만만···\"믿기 어렵겠지만 남은 5경기 모두 이길 수 있어\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QWlBVVlVOdFdFSG8yRHdzYjd4QW5XSk1Fb3ZFSmZSUFgxc1pGZ3pLWWpEUEZ1SHNJaDBCTFJRdDVMZXJ5cTljM21mX0RyR25uM2VjUmRRMFdKc1EtaHJxVEk3Vkw5TmhWOHpYSU53WDh6Ymh0MEt6UQ?oc=5"
+        },
+        {
+            "source": "엑스포츠뉴스",
+            "title": "토트넘 와르르 망했다! 통한의 동점포 허용→1경기 더 치르고도 '강등권 18위'…브라이턴전 2-2 무승부 [EPL 리뷰] - 엑스포츠뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YWNhckdhY0h0aEJSdS1GeXh4eWE0MUgtN0VsUm9LXzJRamtsS2tKMjJHb2NnNGwxZDg0dmNGeGY0SC1XSmk3QzF0VzRTYkJYZnBabg?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "[오피셜] 한국 축구의 미래가 위험하다...'韓 최고 기대주' 양민혁, 충격의 12경기 연속 결장→코번트리는 PL 승격 확정 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oOHlwLXQ4SXFaMjlZSUZ2NDNVbTFWQWdWTGlEX2s4RTZRT0Uxa3FwdnllSFd6TmduTDZMSTY1NTFUWU5nMlN6cThwRWhNZnVGbmRHTzVjbkN1bHNiVmFONXVsWHRBYWRoT3V1SlVjY9IBc0FVX3lxTFBfVmpfX3Z4VUFieFhxS0NBeXdmSXM2MUZyM09Id3hpeVpBZGFmLXo4LUxJanRfLWwzWTJIYUJvSDJQZ2hxUGlDQmNmdTVReFZFeDA0bG9FYjlST09EN1pGUk1NSDQyMEc2VU5zTklCV1pEUjQ?oc=5"
         },
         {
             "source": "mydaily.co.kr",
@@ -91,19 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbnVCMVNweFpRZkFqNUxLMUh1T2FTSWlOVEJtdDh0VXlyTWFGTHVkUFk1NGFMbjFsbVVia3VfTFFtXzhJVDFtZVRhQUtkVEhwbnNRMTVXVHJtcUt4TXJ3VUJieUpZeG5LX0HSAW9BVV95cUxNWEtjdmprRFlrdFRDUTVjdk44NFpOTzVDbXJzYjNGY25zdlBEc1FMQ080Ymdncl9WRmRBbUtiMERzLWZ3OHhoOVVKQ1dxajBtVjMwc3lOZXBLQ3lDOXpCalUwT0ZTeGpwQXl0ZEVxNHM?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "[오피셜] EPL 승격 순간…양민혁, 벤치에도 못 앉고 명단 제외 \"최악의 영입\" 혹평 '12경기 연속 탈락' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIQ2hyOEZISEFYRXRsaGJPb2pIV2JPdDFiYndoSFU4anN6WEtlaGQxQXhmazNlRFRfQjVKazRZWUdWdS03Snc?oc=5"
-        },
-        {
             "source": "문화일보",
             "title": "‘축구계 비극’…프리미어리그 아스널 출신 골키퍼, 열차 충돌 사고로 48세에 사망 - 문화일보",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tc05ScV9HWUtkQkJjbmJYQTdueGJMZWJvTnJLRkppbGlQdGlVcTBMdkt0WE9zS3kzUlNIM1owN0RNdUtNYld0cGNIblMyLTdI?oc=5"
         },
         {
-            "source": "엑스포츠뉴스",
-            "title": "9099일 만의 승격, 그러나 한국인 YANG 없었다…코번트리 시티 25년 만의 EPL 복귀→양민혁은 12G 연속 명단 제외 '치욕' - 엑스포츠뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SMF9OQ2FQdHEwd3JLejVZdWpkVXpLNklWWmJ1V0FiVXRYeElSSGlidkVfdW1LUE9BdFhnMVM4b21BSll0aEI1RzBpWDg4N0huQ0U4NQ?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "[오피셜] EPL 승격 순간…양민혁, 벤치에도 못 앉고 명단 제외 \"최악의 영입\" 혹평 '12경기 연속 탈락' - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdFpfd3NNWVA0blRRNExwZGQyWDl6YWpCNFZwbUI1MFRCNG4ybkEwanN1NlBqeHBOR3pjSVY0NFdpbkJmVkdkRDZZa1ZRQ3ZfV19heXFBWS1RcDhqQWpROTkyTWpHekhUaXdLZGRVWQ?oc=5"
         }
     ],
     "transfers": [
