@@ -1,111 +1,10 @@
 {
-    "timestamp": "2026-04-18 23:24:02",
+    "timestamp": "2026-04-19 01:22:17",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [
-        {
-            "source": "Daily Mail",
-            "title": "Chelsea vs Manchester United - Premier League RECAP: Latest updates as visitors claim huge win in Champions... - Daily Mail",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXBfa1NuQlFoQTVfT0VYU3N4T0hHVGI0N0pPU1dPSXhRcmMtS2ZxYTJOd1F6MDByN2lTTzBGRldOTy0xYTJZUFpNMkhEbko4Tnp0cHRuR1JWRVJKamdOMzZfVENSaGxodzUzSVIzN0dDSDFtbWpGWWdwNXpXNk9EcFQxTVlVM3pqSEJldlktekpDcmdFeExHR2R5VzRBYWlEZmtwRlhYdHh2azVNV2xyN0tCUzk4MHQzY2QzQkJjY2FDWTJ6YkJn0gHMAUFVX3lxTE5icFlvRUJXWGplVEdQN0hHRzhEbTJ1c3VGLTFDcWd5UE9xSXR2YXlXSWpDODBZRzdXdjdhcURCT1RzNTM1TWtTYV9hOEhQOGI4YzgtblNfMy1tQUhoS3lHMmxobnlUN1hMX2xxMnV5Umphd0tqQm55c3RPbk5WZE5tY2ZDaDlNbGFMUzlfSnNzVXNUTnhWMnB1OG81ZklIZEVES1VtSms4cXBYNDlLcmxxS0VuZ29kVmpucWdua25PM0EtYjZrbmFDZ2lhLQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Tottenham Hotspur: Time running out for Spurs in Premier League relegation fight after Brighton draw - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52TzRXSUV1MVZ1NHk2YVBzbnB2Zzg4dzNnVHA4QVJLdGFBeWtISmFqMlU0S2pTTkxHcXZyV1E1Mzl3QnlGNzdlaEtNSjUzemNmSGJnbTFJeWNpdzV5ei11d0ZHSi03X1E?oc=5"
-        },
-        {
-            "source": "talkSPORT",
-            "title": "Matheus Cunha fires Man United into lead vs Chelsea as Spurs held by Brighton - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1Y5ODhBR3M2UUkyMTlxNGRYVG1BVGpKbzVfUGVBR1pnaVhidmxDSHRUVXVlZkhXYUNaNEdFR1hiNC1DLUVRdm5NUXRnWk14c1dmYU5mWll3dXhjUmxtVVdTMlB6YzFvNnkxa3pMeFZabTl1SFVLMVhWZS1yWHFCR3huTWU3N1VaX3ZOY2R6emZiQnlYZWNQOWlibkJfOWJ6SjJuQUpRNnQxUnBrWVR1XzBIeWZMOThWeXk0VkFES3QxdlhJZzZGc1pHTFo?oc=5"
-        },
-        {
-            "source": "Sports Mole",
-            "title": "Real Madrid transfer news: Fabrizio Romano drops major Eduardo Camavinga update amid Man United, Liverpool talk - Sports Mole",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUWhEeGhucTlwcTZPZFBuMDhLQThCWHE1OGIxT1k4SGJ3NzlHNllQbTVkRkVuYU9ZcTBVdXNlX0g4Q0FQZF9TWVJQdF9pak4wei0tQXoyVHdHTk0tTVhQY2JULWNPSjVtbnl3WE1sT0tRYWpfOTZTelItaDZLVXNEZXZHRVZnTnZRTVZGMTc5ek0zcDdZU2ZnVVppMmNfTk5TZUxrSV9uNWNYeEpja0dpMTdPQmctd3NySnFyTjEta0FrT011OWJ4QzdsWWRSeEhKdDVxb3c3Ym5IZGpsVTRmWkJaZDhRRzc5OEZ0eQ?oc=5"
-        },
-        {
-            "source": "Rousing The Kop",
-            "title": "Fabrizio Romano explains why Ibrahima Konate still hasn’t signed new Liverpool contract - Rousing The Kop",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjRwVGM2NTRxWjlUbDFHUEhpeFZ0cFFjbUIxRFlCSXhZamNtWGFfRURWYU1sUTRxczhtUnhCMnk1Y0dObGJqM3FfeGJLRDhLVEZ0cVI5Z2YwaGlEYUZadlFxZ3NPbmN1SC1Jbmp3cW5VRk82dEUxQ3VXbFpDX3dPT2RxR2lNUzhWOW1uVFlZb2trM29FOEFYb0dtdURwWm8yQTljdm9RVzI5dHV6NF9TNk1xc0tTYjVXX0lUTGgyR0pNYVZENGlv?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSldKMTBxdUpYdVVPSE55X3A3OWx5aE00WDNkamZ3T01mODlFaEh0N0M5OUZBcGRobkRhWGREelJMS0d0SkFETXdEcU1vUFpuRTZLaXVrX1FRYV82T3ZVcS1rb2ZsUUQwamNxa3ZoSjhzTjBYYnE5dnJmb3VuN3BRWXoxQW9sQnBkeEJHcVlhWk5ST3VwN3lodDlFVDl1bFR0clFYamV2c0RTZlNlb0E?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Man United manager candidates? Arsenal outgoings? Gordon interest? Slot safe? – Ask Ornstein - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnZOc3RzVG9EaXllbEt6bXgxRTVSRS1LMkNjTHhUN0F0Mk5oYklTZEdHN2FnajZnbVdDV3YySlEyLV9mRkNLc1U5cVBDeUljd3Y5VDNERlpmX1puVEZMbDhDVlE3ZjI4eHNQNzlFUmtkMHRYUU9iYXZRSWdOdkZDcTR2S0ZHQzBHU2xpLVZZQjZiekVVeko0d0ZfRjFpcVlKME1oY05sVTE?oc=5"
-        },
-        {
-            "source": "DaveOCKOP",
-            "title": "David Ornstein issues latest update on Xabi Alonso and Liverpool - DaveOCKOP",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTF3Sm03b1JmdzBRT2htdk1Fa0FCT3FRZXI2ckVTeTg0OEJOLVl4OUljaEJQckM0WnMzeVlWZWdmb0ZVMDZlVGNNRVRwbXU5NXhVT2g1Rm4zWlEwVXdBbXZwazhnR3lhenlSWjdSbVF2SEFHYnl6YzRhQy1XY2pidjJBMk1iZzA2QkRnVVRmSnhvY1NkOXZvWU1uN0E1czQ1Y1E3ZVNR?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Tottenham leading contender to sign Marcos Senesi, subject to Premier League survival - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEF3VE9vc0pYMHBiams2N3Fwa2drSXl0RlAtVHRXMV9iQWRYWmlIVmZxeTZwNUQwSDhqUEg5WVc5NnJhbGtxWXB6cnVLMEFMbjV5eTg4aTMwZkFBMExkY0hnbzc4MHE1X1ZXSFVtdF9NUk16SDlVbVVtaHN5bWlBZm1BblVvcG1IUmhCRjdKRGx2bGcwNEk0YmNlQQ?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Leeds 3-0 Wolves: Dominant win moves Daniel Farke's side closer to Premier League survival as Wolves' relegation almost confirmed - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMVB6aXJQZnQwNUFzVHpMZjJ3N3ZjTVN6ZVRDajB1Qm9LQmg4R1dRZWEydURzSVcteDYyVEpUZFR2V2daMVpHeWI0YXdrX2V3TjJDT25yakNYeEtvYmJzaFNhQVNucG0xeC1BaElXSXZxQ0RyY1M4Wmh2RzhlRXJGX2dwTzM1NHk2bFVYdl9PVW5pQ0IxOWh2cklmQWxzcFpEYm04RGJ1b0o5MHRLNWkweGhfcV9nR2JseFdyeGRZa2tUYWQ5UUpMdFFMYzRiekh0VGJiWVNqQUpWeUNIRGZvM1Q2emtOWFRQSzdLYmVZUS1vLXhqVm5wQlNLNTRaejFPaFJCRmpFN0U3bDJYdUE?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'초비상' 토트넘, 추가시간 실점으로 또 승리 실패…18위 유지 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aTFdqQUlkR2tDU2RGbmdkQXEzTjl4bFFma2Z4S0RjM1JzT2FZTDZCNERwOV9FNkstMHRlaFZ1eUlWTFlWWW11cjlzQ0FSTFFSaVplamUwV0YtZmVXYzVRRHQxUlgyaUhsNENmSWJ4dTlzZzJpd1Fmcg?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "황희찬 15분 뛴 울버햄프턴, 리즈에 0-3 완패…2부 추락 눈앞 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBncXE1dnc5cExFXzV4SGk1TFlCQ05qd2Z4bVBqNldYRlA2eVZyWG1GSzhTWjl5SkxFM2J0VWV5cVozRWFsS1E?oc=5"
-        },
-        {
-            "source": "연합뉴스",
-            "title": "강등권 토트넘, 데제르비 홈 데뷔전도 무승부…\"아직 안 끝났다\" - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NkE2dUlQa01XeGVnVHZ2azRzRmRjY2ZNNm40TGtwaVpSaTh1MXJYSFU5QXpQd3hJMWdyVzdXNTFrb1MwOUlLNXhSZW1uX0dZZFVKNnRwTTZLb0HSAWBBVV95cUxOU3ljZEpMVEt3VHFtc2ZNbnU5STF1N1pVbjN4eGF0VmxLLUZIRF9HTkFzak9reEtBU0tTR3NfRXp2NnJFczRkdldzY3VQaGkxbEdmaFY5cDJscndidE1oSk4?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "코번트리, 25년 만에 EPL 복귀 잔치…양민혁은 초대받지 못했다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yeUxNOTNBNHlsVDlrenFienlzOHRPS01iU1dvSWY0WEJaN3d1M2NkUEt2aTMya214dTZWQlFGdFZPTEtDNU03Y1FQOE13TjNLT3VJR0pQT1ozUkxZ?oc=5"
-        },
-        {
-            "source": "mt.co.kr",
-            "title": "램파드의 코번트리, 프리미어리그 승격 확정...25년 만에 PL 복귀 - 머니투데이 - mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbnVCMVNweFpRZkFqNUxLMUh1T2FTSWlOVEJtdDh0VXlyTWFGTHVkUFk1NGFMbjFsbVVia3VfTFFtXzhJVDFtZVRhQUtkVEhwbnNRMTVXVHJtcUt4TXJ3VUJieUpZeG5LX0HSAW9BVV95cUxNWEtjdmprRFlrdFRDUTVjdk44NFpOTzVDbXJzYjNGY25zdlBEc1FMQ080Ymdncl9WRmRBbUtiMERzLWZ3OHhoOVVKQ1dxajBtVjMwc3lOZXBLQ3lDOXpCalUwT0ZTeGpwQXl0ZEVxNHM?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "소속팀 EPL 승격 확정에도 사라진 양민혁, 챔피언십 최악의 영입 수모 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0S3ltbGx6T1dzQm1mMF9LWGhSNk03a3VjLUM4Vm9jN0Z3Q3BON2hkWmxJaHh3NGlpS3ZfS3FuNmhxek15cUE?oc=5"
-        },
-        {
-            "source": "엑스포츠뉴스",
-            "title": "토트넘 강등, 가속도 붙었다! 통한의 동점포 허용→1경기 더 치르고도 '18위'…브라이턴전 2-2 무승부 [EPL 리뷰] - 엑스포츠뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YWNhckdhY0h0aEJSdS1GeXh4eWE0MUgtN0VsUm9LXzJRamtsS2tKMjJHb2NnNGwxZDg0dmNGeGY0SC1XSmk3QzF0VzRTYkJYZnBabg?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "13위 크리스털 팰리스 '광란의 파티'…강등권 토트넘, 눈물 쏟는다→\"17위 웨스트햄과 맞대결 앞두고 밤새 놀다니\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OLVg5MjM4aXNQT2ItRDhweHZWVmxwd1c0d1JNaWNCQ0k4WVZ6QlM1RkZnLXlXTGZuYUZIdlVoaDVHX2hsUUFXT1QzNEgzcUk?oc=5"
-        }
-    ],
+    "news": [],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -113,13 +12,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Man Utd Transfer News Today: Official Palmer message as key advantage confirmed",
-            "date": "2026-04-18",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
