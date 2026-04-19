@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-04-19 16:26:21",
+    "timestamp": "2026-04-19 17:26:21",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Premier League : Van Dijk scores winner at Everton, Gibbs-White nets hat-trick and Villa win seven-goal thriller - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zU0xYLWN1TzhPUnAycUFwQ1BBbFQxY2t5M1lqMHdNVnZXSjVSRTdHMFdfVnJLeGFjV1hEYTAzVWROZW1uQkNONm1uUW9ZdHhzbUlVZEtYcGg0LTh6NnhtVkJxOWU?oc=5"
-        },
-        {
             "source": "The Guardian",
-            "title": "Everton v Liverpool: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalNWQlprQU5lbWlHSjFaSmZQRVpaMVVra0d6clYyWFNjNjZhYWlidzdLYlJjdFdoWllMNk5DYzZZRmNac0lnTnZiX19keGZ3S2VzQmVYTV9CZnI2eEJBbUQzcnQ4RWIzSkdYNzFQRGd5RTh3X181M1BrZ2J0ZU1PUXk5SU55bDY0MDVYamFOWkZ4TXFpOVZjVg?oc=5"
+            "title": "Manchester City v Arsenal: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDVDRWJldVVTQWpzX0I4czhUd0lkM0VGOGJLWTd0a2Z0cXF1TmNGeUJqdk85dTF4QnZlR29rbmxTbVFJZVBXN0paUV9nSWdCRTJlbHdxTGpjajJzZGRTVjVDVkZpc20tNjdtN1dKRFI4VlRWbXFLdXI4cmNWaHNYMEZHblpuUk5VVTN1MjlhYzJSRnVXVFk1YXhIZnFDWk9f?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Everton 1-2 Liverpool | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnBMYkNoSnBSTm9IT2ppSHlSTm1KYlRoOWpINjNqQzFaaHFNUE5IX1JYdHAwRHdyZDNsQ0tZdk95T01xcGhfaHUtcmZ5U01PeC00TTRNZ2dtZmxPWGRGMUtveDRIaXNUQkc4QmUxQ1lUMWx2STJhUE1jNkx3YkRSdkl1ZkF1VEpYM1lESnVLYm14ZFBuc1Y5UzNhRmpQY0duMnItaWlR?oc=5"
+            "source": "Daily Mail",
+            "title": "Manchester City vs Arsenal - Premier League LIVE: Latest score and updates as Haaland fires hosts in front - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSk55dW5HS3V6ZkVrRTdGS2M1UExWMTE0TEhZNHd5MUowcUR5aWkySDBISndIYTcyMDdMeE5aRXNxUC1vWGtWMERsNzV0QmNyNk1EaFB5c3VGMHlpX0xwNmRoRUo1bndZNjd1RnFKVDNfcURieTBySUdIOTNKWFB3UWp5aWh1WEhFMHBBVEFYSXYtdGNITE1mbDQ0eDkwckNtOVhUY3I0SVlaT08yZ3BDZnpVN2E3RXVkbU9VTWtoMjNKa29I?oc=5"
         },
         {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSldKMTBxdUpYdVVPSE55X3A3OWx5aE00WDNkamZ3T01mODlFaEh0N0M5OUZBcGRobkRhWGREelJMS0d0SkFETXdEcU1vUFpuRTZLaXVrX1FRYV82T3ZVcS1rb2ZsUUQwamNxa3ZoSjhzTjBYYnE5dnJmb3VuN3BRWXoxQW9sQnBkeEJHcVlhWk5ST3VwN3lodDlFVDl1bFR0clFYamV2c0RTZlNlb0E?oc=5"
+            "source": "Daily Mail",
+            "title": "Everton vs Liverpool - Premier League RECAP: All the reaction as Virgil van Dijk stuns Toffees with late... - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3pIVURSMWhsN0I2U1RKd2pDNkVEa04wTzVwMVBic0stMWI1U0o4WGdkdUIydkRUdTBOZ0hHNEEzdFRMOGRQRXhqV2Zfa1R4V21OMHF2QkRCa3NpV09oTmc0TlpSaEc1Yno1ekNuanFCMl8tY1d6dE0zNFZRdFdtZDl2eEZ2Ylc4U0ljc0ZuTWVkVjNtQ3BrWkZ2bHRfa0pOa0J6YzczZ2ZsRVE0d1RLNFpKZVFZSjFkdEVub9IBwgFBVV95cUxNb2M0SUFLVUJvVlFFb19vUWxhUnMyb2VoQ2FNb3FlUUtyU3JMOUtjckpRSEZfTlFuODhnaHBZYUdNZ25GeEJNd0xTdWZZRHhUT0ZwaHh4bkRPLXQtVkd6ZU9NWHk4MFZpaWZ5SDZwdVVDM21uR0NSLWh4N2NRXzF3a0N3ck5femQweXdXcmxQUHVxQU5lZTJyVlJyNW5jbVhRUlJoVHVGRXMwWlI3aTg3S04yZE9ENGxtbEI2SXRKNkVXQQ?oc=5"
         },
         {
             "source": "AnfieldWatch",
@@ -34,6 +29,11 @@
             "source": "cityxtra.co.uk",
             "title": "Fabrizio Romano: Bernardo Silva to leave Man City in June - cityxtra.co.uk",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFoNEhxUVBSTlNJcmdBTHRhOGdaNmVOOWFXNUJrUW1iQTgxRVJrZ1l5MkNid0l0T1pIdUFJTDJQZHJqcjUyTFhZem9GOEtLQmMtN1ZzcWVSVFNCM1NOZnlsY0NSUU1sZlZPZmYzTW10N1o0YjB3U3l6cF93bFZkUlc5cTdwM3NaMlMyNnBWMnJVQUFWN3lCYTVzRkJEVzR5am1JWDB2UXlDZw?oc=5"
+        },
+        {
+            "source": "The Empire of The Kop",
+            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -61,14 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"넘어지는 사진 박제\" 맨체스터 유나이티드, '금쪽이' 가르나초 완전히 무너뜨렸다→전 동료들 SNS 조롱 퍼레이드 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OUERIZUZVMmtlR3NsZktweUc1ZUlVR0hSVEpMSXJvNWlCM1BtaXF0MV9VUW9kTG0wUXFfMUREbXRJRXg0SlE?oc=5"
+            "source": "엑스포츠뉴스",
+            "title": "'EPL 0명' 韓 축구, 아시아 2위 기록도 日 에이스에 넘어간다…미토마 亞 통산 득점 3위, HWANG 1골 차 추격 - 엑스포츠뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXTzRsaTlKVGlrTjFEQjFYdVpFX1Q1ZEc0OFF0Z3J5WDBYVG1lc2luaEpfaVpmYkhJX1Y5QWpucXFtdF9nTHQ4T1lyRWp0RGZsazFGWA?oc=5"
         },
         {
-            "source": "Vietnam.vn",
-            "title": "에버턴 대 리버풀 경기 예측, 4월 19일 오후 8시: 열띤 더비전. - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMm1mWS1Pb1RXaVh5OG1DanJTYnUxdnR6RlFJMW1yZ0VST2RlNFItOENaVkoxTi1nMHdoX2JDVVdGVGlRY001R1NkWm9uNlBjb2pQa3BCVkw0c2ZoVzZtRTR1V3VmckhJMkw3XzJaVFotWmota2V0R0dOQkdHcXB6OFZSeWtuamt6ZEFDQlJwTQ?oc=5"
+            "source": "v.daum.net",
+            "title": "\"넘어지는 사진 박제\" 맨체스터 유나이티드, '금쪽이' 가르나초 완전히 무너뜨렸다→전 동료들 SNS 조롱 퍼레이드 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSGIwVTVZZDFwb0FXc3Y2RF8wOE50WlhZTm10VHptNlZwR0U3aXl6VlhlMFNVTDlaTHFWRm9XbVNaeTR6ZHRaRkZqQS1tYlk?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -87,18 +87,18 @@
         },
         {
             "source": "네이트 스포츠",
-            "title": "외면 받는 양민혁과 다른 대우…코벤트리 시티, EPL 승격 1호 영입 확정 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4dFpQMmFjTkllUTA1d1hFXzFHWEJUNkoxdVVPNVB6MVRtVlEydHd4ZU9pZHhHUHN0YlRRajZSSXdOUV9pRUNGd3pKZ3Z2MkNUdjN0c0l3dWdSbVot?oc=5"
+            "title": "토트넘 진짜 망했다! 브라이튼전 통한의 무승부→강등 확률 53.59%…감독은 \"끝까지 싸우겠다\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WTGEzRDY1NVgyZVY1SUp1N01Tam9NdDVxRVJveEF5NTRXNHN6c3BROGNIUVlGSUNNM3pTaGc2TnAyemNkamowTkRJNmlTbmljdU05SC1VUmpkdU5E?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "램파드의 코번트리, 프리미어리그 승격 확정...25년 만에 PL 복귀 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhWklaSGY4Q29NWkhKdDlITWhYOHh0SktyN3RnaVVsVmRMRVJiLXByNDY2R1JjT0VDWUR6R1FtaV8zRVdEY1E?oc=5"
+            "title": "\"UCL 결승골 넣었나?\" 손흥민 후계자 눈치 못 챙겼다…원더골 화려한 자축→\"토트넘 강등권 모르나?\" 팬들 맹비난 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZdXpyV1lIa01INWdWTXI4QmxjSzZ5bTBfSFFQWXAyYW5JRVlXdWFZSHBZZFEzU0JiOHA2T2JzUEsteFR3X3I5ZWlyY3A3SXM?oc=5"
         },
         {
             "source": "SPOTV NEWS",
-            "title": "손흥민 '소신발언' 옳았다…\"승점 86 대질주에 양민혁 몫 없어\" EPL 가는 팀 vs 증발된 유망주→사실상 '방출 수순' - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fY2NQZHBEVGIzdGhiZDlQSERqRDh2eXNNclNzdWRhNGhnbk9tQlRCRHBNdEEtVDZHY1FVN2xCeHB6VDkwQ0JYRmdSSHo2M2YzNWIwNlpnTUppRFd4cWNaV29KS2hvTjJPN250bVF3TQ?oc=5"
+            "title": "英 BBC ‘비피셜’, 토트넘 챔피언십 강등 71% ‘YES’…현실로 다가온 충격의 설문조사 결과 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FLVB5Z3M5ckt3d0d3dDAxSG5zd1lZcGx0ZDZyZUw1UzVXeDZ1SmthQjhhNjRHZEU5N3UzSlFVRGRmdzNTYl9PczN5N3lsN1lmTXRQUzdyUDZBVlJwV0wtTE5YVHpfQklOVDgyZ0pWNNIBc0FVX3lxTE9rTmtQaFZ2MnhKOVYya3dhaVdDQzUtejVNcXVPR3lFZmV5Q3Y1NXMwR1o4c25xZkt3OVhLdHk0bGJlSllkMTY5dUF6WWN3YjgtZklRS2lNRWVIaDZ5LXVnUTZ6bjJ5LTlyaDFvVlE3bThLNUk?oc=5"
         }
     ],
     "transfers": [
