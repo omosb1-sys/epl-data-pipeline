@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-19 13:52:08",
+    "timestamp": "2026-04-19 14:33:06",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,23 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Everton vs Liverpool: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QNmtHS2FuWjhMWWRJYS1FU0pqVXcwcmsyOU51UFdndnNPWUNhQjNuZzktRHdDaXZVRnBnUUlDMHVUOWNFMzQtMnpSNmRoM2RieHlhSVVtNVE3T1l3Ym1RZnpJSVM?oc=5"
+            "title": "Premier League LIVE: Everton vs Liverpool, Aston Villa vs Sunderland and Nottingham Forest vs Burnley - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zU0xYLWN1TzhPUnAycUFwQ1BBbFQxY2t5M1lqMHdNVnZXSjVSRTdHMFdfVnJLeGFjV1hEYTAzVWROZW1uQkNONm1uUW9ZdHhzbUlVZEtYcGg0LTh6NnhtVkJxOWU?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Sports News, Transfers, Scores | Watch Live Sport - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3dzblh4TmJKbnd2MkZOMFJaSy0tLUFaWlZkTE1iVEtYTTlRUE1heXlfa1V6MDQ2RmpUSVRkR0VUbjlFQkt2SUtYem94bXp3NGM5eGhxUkJzUVE0LUx3a1NiSlNmMW1CbVkyUDc1aHYtWm5ybWJYZWRWaDRkdVNQQkU0NHRPRV95Nnc?oc=5"
+            "source": "BBC",
+            "title": "Aston Villa vs Sunderland: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcnEtRmdBUTIxWE5YNmFHRk9DNER3LWpfV2RHdWM0cWdlQS1BNlVvYUYzS1RremxFNTUwRmo2THFQbUxHMFVVU0pnTk1xZl9lTnBpVEJDbGJ2UUw0NW8wUVNn?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Chelsea 0-1 Manchester United: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFRNNEZlbTdLb1lBVjVoa1hvU2UtRkxRbU54cE9lMzNud0l6SnVhLXRPbzdlUWtCd2V1TTJLSVp6TUlHT3BhaFJ2RGhhZzRtd2otNkRXUDNCd3FwQXFwNzF6NVV1SGpfWVBxd1B5OWpGbXJvRmtUN2NxYmN3bXNZQkg0elVBR0xZTmZ2TnVudVg3aG80TllIVWIwRklZb2xFZnhr?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSldKMTBxdUpYdVVPSE55X3A3OWx5aE00WDNkamZ3T01mODlFaEh0N0M5OUZBcGRobkRhWGREelJMS0d0SkFETXdEcU1vUFpuRTZLaXVrX1FRYV82T3ZVcS1rb2ZsUUQwamNxa3ZoSjhzTjBYYnE5dnJmb3VuN3BRWXoxQW9sQnBkeEJHcVlhWk5ST3VwN3lodDlFVDl1bFR0clFYamV2c0RTZlNlb0E?oc=5"
+            "source": "London Evening Standard",
+            "title": "Chelsea vs Man Utd LIVE: Result and updates from Premier League - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2p0NzZTempzTGZGbDAwRHBrbDRSTkhKa0x5MUFNamRQR25heFBhZUctMWV0TC0zUzZjb0RJM19GZ3EwRWtWMXZ4V3ZNZHE2clREa1hYMGxZV0x4NmVrMjZEZ1VoajhvMTE5V0lxSUs3bDRoYzNZSmJEcndIWGhzOXY4R1R2aS1WRC1zdV9DR1BmLWNGNk9GUnctanN6OHlCMlNwSnVUN2RMQWtKeVRPWFNBOHpyZFZTd3JJRkFjbFd5TEhKeXFvUHdLTWU?oc=5"
         },
         {
             "source": "AnfieldWatch",
@@ -34,6 +29,11 @@
             "source": "cityxtra.co.uk",
             "title": "Fabrizio Romano: Bernardo Silva to leave Man City in June - cityxtra.co.uk",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFoNEhxUVBSTlNJcmdBTHRhOGdaNmVOOWFXNUJrUW1iQTgxRVJrZ1l5MkNid0l0T1pIdUFJTDJQZHJqcjUyTFhZem9GOEtLQmMtN1ZzcWVSVFNCM1NOZnlsY0NSUU1sZlZPZmYzTW10N1o0YjB3U3l6cF93bFZkUlc5cTdwM3NaMlMyNnBWMnJVQUFWN3lCYTVzRkJEVzR5am1JWDB2UXlDZw?oc=5"
+        },
+        {
+            "source": "The Empire of The Kop",
+            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -66,16 +66,6 @@
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "로버트슨, 토트넘과 개인 조건 합의…EPL 잔류 여부에 따라 결정 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OZEhQSThhNUx1Rm11dHJsX3h0SFhmV05hRzBCM2FRd3NTN1V2cVFxOVFxWUhVT3JrTmFub2w0anNGLTI5ZVlScDVoQXBEWEZjMlpPNFhGUzRYeXV3?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "\"UCL 결승골 넣었나?\" 손흥민 후계자 눈치 못 챙겼다…원더골 화려한 자축→\"토트넘 강등권 모르나?\" 팬들 맹비난 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZdXpyV1lIa01INWdWTXI4QmxjSzZ5bTBfSFFQWXAyYW5JRVlXdWFZSHBZZFEzU0JiOHA2T2JzUEsteFR3X3I5ZWlyY3A3SXM?oc=5"
-        },
-        {
             "source": "v.daum.net",
             "title": "황희찬 사실상 끝났다, 소속팀 울버햄튼과 함께 2부 리그 추락 임박...'한국인 프리미어리거' 전멸 위기 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOLW1MZ2tXRTlNaC11TXB5WnVLb18yNHNaUlhmM290b0stSEwyaEdudDB2Yi1WVmJNTzhWSDRSQkhBcWdzLWc?oc=5"
@@ -91,9 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9obm9IQVh4X1p1ams2MUlrNGpNQkdya09LU0JPVjFGSXdsaGJBOVdVNDZqNExkNE5kblpsUjZnRUFPaDROTHN3RFVwVVVCelRITmNkLTlXVUdWRXdEbkdiQjR2S0VsR0HSAWxBVV95cUxOd3dEYkNndC1JbmVHNk1yV0JDc3cyZm9RUU5LVFRmZFZZTFRZbXNsQWYwVElEWmxDSGZhQ2xxNzBpZWRTTGJGQlNUN2I4Uk1tc2t2dHhRMFY0NE1vVUhsUmk0RTlSVGhCTHdvWUk?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "코번트리는 EPL 무대로 돌아왔지만…역사의 현장에 한국인은 없었다! '3개월간 29분' 양민혁을 토트넘은 기억할까? - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZ2QzRWNEUXJJSTVEeGlVTlYxNlJnTmdqTFJqSU4xSW5zQzd0dUVSOTVUWjduczNzWXRObVd6THVSR0V5Z01QWUtpYnFjUXEzZ0hrQkRudFFhNkY3X2RNdA?oc=5"
+            "source": "v.daum.net",
+            "title": "램파드의 코번트리, 프리미어리그 승격 확정...25년 만에 PL 복귀 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhWklaSGY4Q29NWkhKdDlITWhYOHh0SktyN3RnaVVsVmRMRVJiLXByNDY2R1JjT0VDWUR6R1FtaV8zRVdEY1E?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -101,9 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fY2NQZHBEVGIzdGhiZDlQSERqRDh2eXNNclNzdWRhNGhnbk9tQlRCRHBNdEEtVDZHY1FVN2xCeHB6VDkwQ0JYRmdSSHo2M2YzNWIwNlpnTUppRFd4cWNaV29KS2hvTjJPN250bVF3TQ?oc=5"
         },
         {
+            "source": "Vietnam.vn",
+            "title": "프랭크 램파드 감독이 이끄는 팀은 프리미어 리그 승격 자리를 1위로 확보했습니다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFF2LVB5b21PM28ta0tVWE9sSEhXdlRlWHhYMmxwSUhSSWZsZWNGTFFUTkRjcG9PTGRQTWJEMGF2SFRQRUVnaDZXb0NBbnczdnFVUHNfVUFreUJMd1Q2Rnh6ZWlrT3pEcDM2eDRVUE9tdWJKaXBKZUxPQjVKU28zcE9GM2cwNERtR3V6SHplMllzNWNyUHdWRDRObmc?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
-            "title": "'양민혁 외면했어도 난 승격 감독' 인터뷰 중 울컥한 램파드 \"UCL·EPL 우승만큼 기쁘다, 선수들 자랑스러워\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdmVfdlUtQzJxVWpQeUhyV2s1RWlPZ2x6SHJiZDBmYTlwYUFZTUNDaXFadWdTUXJManA5Zm1FdWxiRUx5OFBhdEhVcGVFUFNKMTNMb1JmRjZkNnBw?oc=5"
+            "title": "로버트슨, 토트넘과 개인 조건 합의…EPL 잔류 여부에 따라 결정 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OZEhQSThhNUx1Rm11dHJsX3h0SFhmV05hRzBCM2FRd3NTN1V2cVFxOVFxWUhVT3JrTmFub2w0anNGLTI5ZVlScDVoQXBEWEZjMlpPNFhGUzRYeXV3?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "외면 받는 양민혁과 다른 대우…코벤트리 시티, EPL 승격 1호 영입 확정 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MdXZYMlUyV25FNU52Q2hwYXJ0VHNtanpDa0VJbnhxMGZ6UGJON1NEZjBqSlZOa0d3Y0Q0dWxXeWZPTVpOQ3o5WUN6UWhPYUk?oc=5"
         }
     ],
     "transfers": [
@@ -115,7 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "player": "Man Utd Transfer News Today: Official Palmer message as key advantage confirmed",
             "date": "2026-04-19",
             "type": "Rumor/Verified News",
             "from": "Unknown",
