@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-04-20 19:52:40",
+    "timestamp": "2026-04-20 20:34:31",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Premier League title race: What are the key pinch points as Arsenal and Man City aim for ultimate glory? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa0FHMlNtaGtLWHJlSTBDdXR6RmluclIwaFotbkNxR1A2MDItbl81NmVTaTF1OENQdi1NbzFOUUoxOFdfYzFVc0RDdEhnUE1OcXhEanR2aHlNeGRaWU5aN0t0UG5JREVzWlptQlZZSzJzbG50UmtWWlktU2JhV1VUZGFudThyc2xKV0RtS2MyWXY5NHNzRjVzaWxLUHQ4RG1RVFJ5bzZSZHJkUnliRDRKM05mbHZld3hrZ2xaTXpLQ2pvSkRFQ29rRTYxZ2VNU1NPM2RPU0ZVMGRpNDN1bFdSYjM2QjRyZXAwU3Q2Wk9R?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmdjZDE1RV9QWjRUT0t6cWQ0TUQzbTl3cG11V2lvNVBrTWlnck1MVGtGRmtYdng1LTlaWlZab1VvcTAwSUJMdXpCWjdmcEJxZGpOOEpfR1VRMXdGeGllWktzME5qeGxKdHZ1TVNZeEg2ZEpQV0tWTnBYeVVYYmtvSm5BWk53N2pZaEVPTUpWY3JEWFJBWTg1V1pTQUNyQi10VE1TaHZ5VGR0dw?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Crystal Palace v West Ham United: Premier League – live - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGZmdHVVN2tiZEc3MVJiYl9MT0VFTThNRElfVVRhQ2EtZll3Y2NYcVAzUi1vT0MtUUFpWDZicWh2dXhUdjRnYWRRMy04OGUtcUpqSFN5azhxVVB1WXpoTU9ldGZEMzA2OTRhU09INkFybWdCSlhYT0d5Zm9oc2h4Tkt1UTUwSUlUbkt6SE1PenpkNnV1ODRuS21CNjEwVzJiQUtNanJTUUg1UQ?oc=5"
         },
         {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSldKMTBxdUpYdVVPSE55X3A3OWx5aE00WDNkamZ3T01mODlFaEh0N0M5OUZBcGRobkRhWGREelJMS0d0SkFETXdEcU1vUFpuRTZLaXVrX1FRYV82T3ZVcS1rb2ZsUUQwamNxa3ZoSjhzTjBYYnE5dnJmb3VuN3BRWXoxQW9sQnBkeEJHcVlhWk5ST3VwN3lodDlFVDl1bFR0clFYamV2c0RTZlNlb0E?oc=5"
+            "source": "BBC",
+            "title": "Premier League LIVE: Build up to Crystal Palace v West Ham - preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kOVBaM096azZnajNraE9KWnpJa0JVZVF3QUlTVHdjeDdsalNMbzUyMTNfX2ktLUNSWVhLLUZjRTg0QUJTeFpjaVBqQUU1Mk1qUHlGU1RlTTVxMXZkMC1EMGoxUTV4Q1hnZVpFaEFB?oc=5"
+        },
+        {
+            "source": "TNT Sports",
+            "title": "Crystal Palace - West Ham United - TNT Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnVtcUZxTXlpYnFkOHZNalVUdG5CZVR0YndKZ0tGNkswbFZkM3BHSDFNeF9QX1hzZ1VMU0RaWE9ieGJkdW8xczdrN3BRVDZaVEc2TkFrVkNpaERxdHJkVGV2NmVJQ0ptcXA5N0JQTFYtV3J3aXIwNmNqanBuc2NDQ0lUVVJycXZPX2tzUlpadVpaa2FuSjNxRmhMYm1tZDZadWxpUG8xdTllNnVadVpHMnptQkxIa0RqSDlYUV9WZzZuZTQxRURXLTh3?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -31,9 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
-            "source": "TEAMtalk",
-            "title": "'They love him' - Romano reveals all on Arsenal chances of blockbuster Kvaratskhelia transfer - TEAMtalk",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3gybjQzUGRMdFBWX3VmNjhHZzVheWl2bEEwWFBBZXFpaEllQWRqNTJSUkNkN3JYdGJpaU5mUGNCbVV4NzNOek1EZ0RzX0pySnBfRzFGbld4eFhsR0NFay1SZm92U1N6amJFVHE4QmphTFhpLVVvLUh3OW5xem44OTcxaUtLbnlGaUFGQVpOdWJNNFlXRmkwaWVXd04wR3VkWHBFUG1Db29nWkc0d2dRTWF3?oc=5"
+            "source": "cityxtra.co.uk",
+            "title": "Fabrizio Romano: Bernardo Silva to leave Man City in June - cityxtra.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFoNEhxUVBSTlNJcmdBTHRhOGdaNmVOOWFXNUJrUW1iQTgxRVJrZ1l5MkNid0l0T1pIdUFJTDJQZHJqcjUyTFhZem9GOEtLQmMtN1ZzcWVSVFNCM1NOZnlsY0NSUU1sZlZPZmYzTW10N1o0YjB3U3l6cF93bFZkUlc5cTdwM3NaMlMyNnBWMnJVQUFWN3lCYTVzRkJEVzR5am1JWDB2UXlDZw?oc=5"
+        },
+        {
+            "source": "The Empire of The Kop",
+            "title": "‘Verbal agreement almost done’: Fabrizio Romano drops massive overnight transfer news for Liverpool fans - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXNDNHV0OGxYMy1CU3puUDYtWjVPOE5ldUtLdER0akYzeXJOU3B6emNfbU5MbTh0UTJFS1c2eG5FODV3cTlQS1ZRdnZrVm9YX3dqS1hUQlNra3VJMWZ0bUItTkpTRXlnaGN1VGhDTlJCTW9KRzY2ci03NGJjMExRN2xVWlZtX1o4M2R0eVFyYnN5MGo4Q2VmM1BZcDdhcnllVnIwLThBZzIycl9MMGtOWEJpd2g4NUVjNU1EMnYwb1ZLdTU4ejltN2VHUENGWGU5V2o5UXhtNU85b3Ba0gHiAUFVX3lxTE1FQjVhM29QTVFIU1lMOGlSOWtTQm5idGlPSHk4RkFGdDVrMkdEb3ZMNlR5NHYxREp1cXhRSzVJZW1aNVNKWE5SVUgtejJhT0hKdG9lMFN5Wl9ic0ExaHpHbmFrQkZHb2hGOXhQMEdjWDJEMTBramtLYjVCNTdXWnQzeHcxekFta25pZjZvSFVDdFpSNjYteURRYzZZdUVfUm1fSGF6STIxMG9WRkVNUlA2bVU4bTFmN3dJYkp6OWpxeXNORTVud1JRakdfSmJ0QUhzUVN6RFdqbWoybE9NQVZfanc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -58,7 +58,7 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -96,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1U1NTVjljd2JGeWpUaHFjaU1mV0VjNGs4NFROaGxvaVd3TjlRRG1VblYtS05XZnlpclI2RXYyWldUQXN0aHVva043cHJ4TUNJTnFDa1lhSG1sTENWdUHSAWNBVV95cUxPNkREQVlxNkRpWlBtOUNScFdIZHA4bGEweXo4MkFZVlpqRklBOU1VOUFZdnM5U2xhMjY4WThkQ1c2VTRHUlh6eVFxaTdwTXhQTDFqLXRjUTJDdmcyQTVMMUM4ZWc?oc=5"
         },
         {
-            "source": "sportschosun.com",
-            "title": "한국인 프리미어리그 '전멸' 위기, '해외축구 아버지' 박지성이 남긴 메시지는…\"유럽 1부리거 많지 않은 게 사실. 후배들이여 더 도전하라\" - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16VEN0VDFmRU50TVhQVjJ0T3BtNm0zZThWeVNQdWZtWmx0UU9WWmR0b1JFTnhwMDVNWjJ5Y0lra29xb1k2bF82aUliVklYVE1SR3ZXTGZxRkV6RVJ6bUVycDd2eFdETjJZbkl4cEFPQllkRkpkR09RY2loVDgwd9IBd0FVX3lxTE56Z3doazFHRnFLZTh5ZWx1a2JvcTgtQXlZUzJPWXFVMlloaXJXNUlVZVZpRU51U3E3ZEx3bW1sbVoyNzhxVk5mOHRtcUJadkJYN0hnaWdyNnRGb3doc253VEE2QlE4NDN6dFUwdGhWd053UUtDT2s4?oc=5"
-        },
-        {
             "source": "조선일보",
             "title": "박지성·긱스·퍼디난드… 왕년의 맨유 스타들, 수원 레전드에 패 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYk1yUVNaSkdnb1RQX2JpMmRCUjJRQ0xvQ0VxUmZmMnFxZFl6ZkxPN0Zvbkl4Z01lWmZ4Z29ZUEIxZzh6SFlQUVo3QVV1Z3NJZ2RXdEVfLTdNejFVLS0zUGNSdm5Kam01aGNJSWU2UlhyLWctUExvNkVUM05OS0F4T0pRSQ?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "[수원 토크박스] EPL 코리안리거 전멸 위기에…박지성 \"단정하기 힘들지만 선수들도 더 도전해야\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oNzI5UzhrTVFZUXBmY1FtVm1NejNRR2JCRmM0a01UdzBYZzJ6NnlDeHRkdmhXNHYyVzY3SlZoR0RVYkQ2Nm9KWjRyRGtmV09aTWNrUTNxdHRoOXlp?oc=5"
         }
     ],
     "transfers": [
