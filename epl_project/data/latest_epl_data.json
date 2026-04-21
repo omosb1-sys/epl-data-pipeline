@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-04-21 12:55:57",
+    "timestamp": "2026-04-21 14:29:14",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Premier League news conferences: Andoni Iraola to speak, plus Pep Guardiola & Daniel Farke latest - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMngwQXY3a2t1VFIwV0hxbGh0RENtWVZzUWp5eFhUazhxZEZVeFZkNzNZTW1URURsY0I1d1JpaUotSFdvbC1RMlk2VC1TSi14RkV2Sk5FNF9zaUhiWFZfNmZYUE0?oc=5"
-        },
         {
             "source": "The Guardian",
             "title": "West Ham draw at Crystal Palace to relegate Wolves: Premier League – as it happened - The Guardian",
@@ -17,18 +12,23 @@
         },
         {
             "source": "BBC",
-            "title": "Liverpool's Woodman on life as third-choice keeper - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KWE8wa2NYa2FiX0VKaGh4andmRWJDNUQ5MjVvRnVrZi1RZ3JZU0d5OEZnZEhBdTdCTEtaMVNCZXdLUFIzaFUyMVdmVnhZRUVOdThoWW1PLTF0UkRDdS1lUWVfNTFYXzg?oc=5"
+            "title": "Which Premier League players are out of contract this summer? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6a3VXejV6aS1SczZyeUZvbjBnS1RiM2dIWjlBY3VwRnVwSUVuaHd3TFdmNm1pVXl1U2Z1bWk2VWVwMmhYZzF1V1VhUVVoT2xBUGo0MnJMTkJaak50amlYRXdQRFZLOWt0ZFE?oc=5"
+        },
+        {
+            "source": "thesun.co.uk",
+            "title": "Premier League legend, 40, selling stunning £3.5million Cheshire mansion with pool, games room and football pitch - thesun.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjFWU3ZvZF9Fa05Ua0RrWjBlM1BfS0dYRjNVOTF6aUlUSmxJSk9qYkplYjNmanV0YzRUYnYwWlFYOF9lTWN4RkJkYUliNWpVdTJtWlVnLU5PQW5Bb0MwVDlSR0NJbVVHYzIxRXgxcmpWYVRidzZ6MHh5OE1rRGZnaXNwNEdMWWlFTVZ3V3liNm5HeW5DX3FCeUxtQWU?oc=5"
+        },
+        {
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms Anthony Gordon to Liverpool is now on - Anfield Watch",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUNSNzFOQ0MtX3VaWmg3RThmTnBTZWoxOUpkdXRCNEZRUjNyVWk2LUJEUXBFNzBNdndPaU5uNlgyaml3M0tlZkNzNF9pejlkQ1hMLThTRDVIMjJ0clc0ZWFhX2dKc05OYll2czlHZVZfUm1TVXpTcWF5bXV5TkRqTUk5bzJDSlZqZVp5N052dWFTMW9ITm9zYWpVM0pHSTB1dkVmcmZuX0kwWmVEUVRQQkVR?oc=5"
         },
         {
             "source": "OneFootball",
             "title": "“Here we go” – Fabrizio Romano confirms major Chelsea news - OneFootball",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOVRRdVJIWUVHbno2dDVsamw1T2w4NVdlV1pmN1QxclNCM0hEbzc0Nzl4ckJqUktxci1vRFJmWE9NMDFvZXIzWmp6RjNrMHI2d2t1N21RbzRzeVIybkttMGpGSnp3N0pKblVRbW5PcDFxRDU2a3pvNEdmNVU3bWlZXzB5QUNWYnluOVR2SElkUk13N19HMFRTV0RYNA?oc=5"
-        },
-        {
-            "source": "Anfield Watch",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
             "source": "TEAMtalk",
@@ -66,19 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdE1qcDlSZU1XZEJrM1lLQWYzRTVyQXJqNDdTMkE2QWJvTmdBLUlhRFhtWjFHYzNaRFBFWWVRb0JqR1RGclJ4SHVmb1pfRnJzdHBNa0JBMUl5UHpSeW1zZTE1Y3pJUnI3aGo5RXBldldTZk53R19vQkd5MXFGbzB5SEMxc1Rjb0lEN25rUE81eXotREFnYXZhQWRVQUVkc0FhY0ZRQVVneVdITjE4Zzl4OXJndENTQmFqNG10UmNkdlNSTDE1c1pTVjJpU1NsU2FPdzVRNUdteUpEM2E4d2NsWl85SWF1QlVKZnBhLTZlQWNCNERQVjNB?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "한국 축구 어쩌나…황희찬의 울버햄튼, 프리미어리그 5경기 남기고 강등 확정→21년 만에 PL 코리안 리거 전멸 가능성 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zV2hZZV9PSnRzR2xmVVl5YmNkOWdOTVFpYVRrYlRZbzVzdXAxOHFfTFIyeElCR2dUWUM0cXdrVVZ2WUVKWUJBV2JuVk5HTmdUQm9zaG5wbUpTZFVL?oc=5"
-        },
-        {
             "source": "MBC 뉴스",
             "title": "울버햄프턴 조기 강등‥'코리안 프리미어리그 전멸 위기' - MBC 뉴스",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbklkYUFPakRCWHFsMkJEcmlXbDlCUm1Od3N3eHRENzZBTk1tckVqVTd4VHRIbTNvUkdtZ3NpY19UY3c4aTItUldoRmszdTV6MnNWLTdQaEwyS0U3NFhpUlZaT05pR1ZqWVdEV0ROd05uT0s0eGVZLdIBeEFVX3lxTE9TX1prQ2QyWkVIcFVCOVE3b1dsR0RXckNqaWI4a1FyVTgxQXczVm5CNXZoNWh1cndnc2dlSXRlY0FCdjVNQWdLdWRobTQwQ3ZsUWpnUzhpX1N1SzlfeUItRzR2ZUxucU1VQU1GbVU1VXhvam5WZ0p3cA?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"韓 프리미어리거 전멸 위기\" 황희찬마저 2부 강등 확정…울버햄튼 '매우 실망스러운 결과' 공식 사과 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXdwcHdlX21yc2tKaWw4c0dGSWRJUXdGc09aZXBTTFZNc0JXRExzZTBGTER0MnBtU1N6ckdrTXQ2dDI5Um84SkVKQzJPS2lRaUhqbTJob1ExTFowQ05XMTdJNl9FQ0xkZTlVck1zd1QxaUlvTTE3Y1IxS2RKZTNWZTdwendOdnNpdTBn?oc=5"
+            "source": "동아일보",
+            "title": "황희찬의 울버햄프턴, 2부 강등…EPL 코리안 리거 명맥 끊기나 - 동아일보",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GVTdScG5JUFV0elBMZVk2MnpYYWxnRTZEbVJFcXFvLWp5SzhYR3k3UXRodlAwQzFvLUhNWFd2RmZlX19FSFpKYU9iTE9WS3loLXRQQWNIbTBIaWZIcjJ5MXlzRGprNVNubmIwOVBXX2dKUUdP0gFmQVVfeXFMTTVZakFTcVZXZXZkMDZ0QnE0bmNvQWhFblF0OEhpZ2lyS0RBeVB3Z3dwQTBBcXVtRWFYdkZ1d1ltMFJITmUwd29VSTgxTUVISS1rbEY0UnFST0szaG9fRkIxc0ZHQ2tn?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "韓 축구 무너졌다 '21년 만의 흑역사'…박지성 개척한 EPL, '황희찬의 울버햄프턴 강등'→0명 시대, 파국 맞았나 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Pd2JUNmY0ZmNTY0YyUmoxdDZ4ZENSc0dsQWt1MGgtWWRBRW1TcUVncktYMXVfWl85ekZVNnJvN0VCUkp5OUE?oc=5"
         },
         {
             "source": "네이트",
@@ -115,14 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-04-21",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
-        },
-        {
-            "player": "January 2026 Premier League Transfers: Every Confirmed Deal Completed by All 20 Clubs",
+            "player": "Man Utd Transfer News Today: Official Palmer message as key advantage confirmed",
             "date": "2026-04-21",
             "type": "Rumor/Verified News",
             "from": "Unknown",
