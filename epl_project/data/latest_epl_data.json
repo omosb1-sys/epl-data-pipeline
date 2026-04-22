@@ -1,14 +1,19 @@
 {
-    "timestamp": "2026-04-22 16:00:15",
+    "timestamp": "2026-04-22 17:03:03",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Brighton pile pressure on Rosenior with 3-0 win over Chelsea – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR21ReGJrOWVaZWJaazRNR3dNRDk3aldtYk5ad2lybjI5aEcxUHpfZHFadTFiZkY1Ml9mMWFxLXJNME1CTXZhUGxpdnVyeUlKS3cxYllfRjUxa3N0aHFhSGtzMHBaYnh2QWZ4emdTSkJmTmRRVDc3NG1kQmVpbEM3Y3FmRHIzUW93ZDlOYk1lNG5Td3FJUmIw?oc=5"
+            "source": "Sky Sports",
+            "title": "Liam Rosenior: Chelsea part company with head coach after five straight Premier League defeats without scoring - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX2dBNTF5NHFuSEZwZ2xlYVJkZGxDV01PZzBrYWNDY0tsYm02d3F0djh3WE9qUmkyTG9PUlFuXzJOdXVMcy00VHZRT2dxc0pvb0U0TS01UEJJYTBzZ3pGeHJxeWQwZmRsWWhkdGQ5RjNjRW0wUjd6NG9MZ3pBb041WGRPbmZ4X2JPMEJoNUF6a2prS0JIaVFRT3ROZTZGME5FT3haakVXNWZCTEVTd3c3V1Q3eGN3cmlMYjVSZ1puYlBpSG1ScUpBX3A0YlRtbkdmN3JJdC05R3NUcjJzN2U4Y29kcGIzdGphWEprSnU5bG1kXzZOak1F?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "Burnley vs Man City LIVE: Team news and updates from Premier League clash - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUM1NlVIaHBIdnZBN2hhS2RfNkF6aW1xQUdNanZjYmZZeG9FMmI3ejJsWkJXV3pLY2NZcU12VjRFTjlYVmFmNnR3bGtUMWZYM3g4V01XUmMxbTZobkY2d0tJZnpKVHdLalpFdTB3cmFxaUhQTVpvZ3RKb3c4aEVaZnMwRTRrVF9ub19NdE1TSjViS3pwTE5pQ0FkVVBFWGR3a3c4LWZwaWs2SVBXX19iWVd2Yi1HUQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -16,9 +21,9 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNTQ3R0pxSktBbFhFTksxSHA2LS01Zy01YXdBNVo1c3V2X3dLZV83VEcyZzBvbDFReUxncjRpR0FqTWM4THhmSUdScFdDWmo3WnB1NUF5ZHB2dm9RNGREenBfVzY2cHVWUVFPWnNYekhNZjRRbDJpWmhSYlFjX195ZUU5OHdhbEp4VlJwbkJHMmNxZHNlNS1JQ3dDLXFqYWlVdzVqZUNuU0lFUFF5OUJxajVXeVU5MzN1ZWVxMTQ5TXlQM1FDcVFZektWaTVEWHlPVWZ5NW51dEphbEFYdGdpWk54Wk40TGNNLXc3eHNzNTJ1c0Vo?oc=5"
         },
         {
-            "source": "Football London",
-            "title": "Arsenal handed unseen Premier League title race boost after Chelsea fall apart - Football London",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWpzWjZzRThaM0ZFQVJCX3RXbl9iVTduU2pYcE54RC00Qk1LMF9TaThWWkUxZW51WTNSdU1BMG5QdXhUMWF0UldabHJuVVhjN2NCbXRVSWlvWFVWeVNrbUtFblhPWXdjQ1Jab3A1OE9iNmlua0NzT0VHdFRCd3dUa3NEcDFqVFlQM2FhbktuVdIBlAFBVV95cUxPOW92ZkgyUFUtZVJ3Sm5ocEk4a1pzN1hNSGNVdERFdjdaODR2VEgxdF85aEthWUFEOHRBVHdQUHdrQ2FJZ3k5RklHYjJpOWx2Vmszb2NsMVgwOGFBdkJ3eEpMVzQwaVd0aklwamZRSzBlQjYxcXl1cmRUMGhRZy1hUldjQlRNd2NfbGdxVzZZeTJCS213?oc=5"
+            "source": "OneFootball",
+            "title": "“The message from the club” – Fabrizio Romano shares new update on Liam Rosenior’s future - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnVsbWVyeTRlcF9CYlFGeFd2WDVYb2xZQklsQVc3TFBFRDlqcUdyOWxaazNQY2x6clJRcER4QUNlM2htMmRLU25JcjlXNUs2a0t1a1J4cWZ3dVZXY21XRXVNeTRWTnZBZ2dER1NpeGU0SERhSmxoQ1BKM3FQUkVqS2MwcmJsVnlrSGRrY003dDlWYWNaUVdORWFHemhfd0dJdmYwbUF0NV9zc0Y3cHoyRzBiaEdtNUl5cFp6MFBRZzBzaGc?oc=5"
         },
         {
             "source": "Anfield Watch",
@@ -29,11 +34,6 @@
             "source": "Football365",
             "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1USm1qZU5FMFhBbENFbTVWNml5X01GOFZjRXhna0NHT0U1dXdZdHJvcHhfTXdDakUzQ1dSbWVJZFE3aUhwdDgwbFpURDF1dw?oc=5"
-        },
-        {
-            "source": "TEAMtalk",
-            "title": "'They love him' - Romano reveals all on Arsenal chances of blockbuster Kvaratskhelia transfer - TEAMtalk",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3gybjQzUGRMdFBWX3VmNjhHZzVheWl2bEEwWFBBZXFpaEllQWRqNTJSUkNkN3JYdGJpaU5mUGNCbVV4NzNOek1EZ0RzX0pySnBfRzFGbld4eFhsR0NFay1SZm92U1N6amJFVHE4QmphTFhpLVVvLUh3OW5xem44OTcxaUtLbnlGaUFGQVpOdWJNNFlXRmkwaWVXd04wR3VkWHBFUG1Db29nWkc0d2dRTWF3?oc=5"
         },
         {
             "source": "The New York Times",
@@ -61,14 +61,24 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Wolves relegated from the Premier League: How poor recruitment ended their eight-year stay in the top division - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcnBkbGJPVVBCMVFtVUZzb1o0WUs5UXIzWUJGUzhSdmVIbEdBc0JiYTFzMnRFbkNycjBURUZIX1lWRi14UHY4ell1STZwbmVIdlc1SDQxYkFNRDAyZTY5ckR4aXdsOXB2S2tmSHo1amZuNTAxWG81S1pQWE84a2lvcXFsMExVT3JPX3RmcmhhYkIyZS1CQ3hQb3BnSDdnTWVRV1hINVRyVjZYRkgxcklXbW9sYkhtcUIyQmlRSy16ZkYtNDgtUmw5NHAwdXQ1UF8xdHR6MTA1WHc0T2t4UjNod2RiY1AtOFdCWHJuNnFxMnZLb3gzblUxVTk0dGJjTDVGQ3liQVIyNA?oc=5"
+        },
+        {
             "source": "SPOTV NEWS",
             "title": "49년 만에 강등까지 ‘5코인’ 남은 토트넘…데 제르비 폭탄발언 “날 따르지 않는다면, 강제 귀가 조치” - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43Q1FCMnVnVHRBUlJkaVhsbU5zVXNMNDlfQUJkdVRjN1FOdFl6ekQ1Q1dTLVlmcFFZS3NiYW5zV0RfQTdxcWdGcFYzbm1WVXpJRXRhNDd1NkNrdzBvd0NzQUFMT1c4Q3Z0Z1FEaXpfONIBc0FVX3lxTE05dkdBWk0yOXk3M1RYUTljMThhM0N0VGI2NVdlXzY4OUI3bEtEdDBLUTZPVm9nR0RQdll2eFVVT0NWWDdZMU5oc013X0YwR2pBWXoyRGhFR0djVWdLbUtQYTVKeTdYR196bk9qUGswbzVHeVk?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "'패패패패패' 첼시, 114년 만에 굴욕적인 기록 썼다…5경기 연속 무득점→첼시 출신 전문가 \"정말 지루하고 끔찍했다\" 혹평 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FYjNyVGlxT3VRcVdFdHhCWW55VWRzMFNFUmlmTTJjV3JIQjVDNHhxRlZVaG9MX0FfNTZaQjU3VTUtRGNUWnctSmx3OVJaU1k?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "아스널 꺾고 '역전 우승' 노리는 맨시티, 초대형 악재 발생! 로드리 부상→회복까지 2주 소요 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T3ZRQTVEVUx4WmNTOWVpRDc0bzZUSEtvbERQYXVHSG1aQVZ0S2k5TkdCVHVRMFJ2d1FrdjQyZmN0aHhpUEZSRWp3WU9zQzFzMnJlZXJJS2pRZ2FU?oc=5"
+            "title": "[오피셜] 첼시, 로세니어 감독 '단칼 경질'…EPL 5연패 책임 물었다→3개월 만에 하차 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FbGlkS1NKZ2xVeG9iM1pLQS1WX2hnQ2VpbjFmSWNMUTlFRVc1Z3VxX1hYYWkwVmZzUkpRemZhbGN2b3ZGNmJnblVPbTZpc3BKQ0l2ZVAtZlFaUE9V?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,19 +91,14 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rZXRLSDhfd21VdXRLaGJ0cGlsYktwSFZPZzlzT0JLV1Y2NXhWZjlhY2F4cE1jTmxoTHdGdzhGQUdfQzF1UXc?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "한국 축구 어쩌나…황희찬의 울버햄튼, 프리미어리그 5경기 남기고 강등 확정→21년 만에 PL 코리안 리거 전멸 가능성 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zV2hZZV9PSnRzR2xmVVl5YmNkOWdOTVFpYVRrYlRZbzVzdXAxOHFfTFIyeElCR2dUWUM0cXdrVVZ2WUVKWUJBV2JuVk5HTmdUQm9zaG5wbUpTZFVL?oc=5"
-        },
-        {
             "source": "MBC 뉴스",
             "title": "울버햄프턴 조기 강등‥'코리안 프리미어리그 전멸 위기' - MBC 뉴스",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbklkYUFPakRCWHFsMkJEcmlXbDlCUm1Od3N3eHRENzZBTk1tckVqVTd4VHRIbTNvUkdtZ3NpY19UY3c4aTItUldoRmszdTV6MnNWLTdQaEwyS0U3NFhpUlZaT05pR1ZqWVdEV0ROd05uT0s0eGVZLdIBeEFVX3lxTE9TX1prQ2QyWkVIcFVCOVE3b1dsR0RXckNqaWI4a1FyVTgxQXczVm5CNXZoNWh1cndnc2dlSXRlY0FCdjVNQWdLdWRobTQwQ3ZsUWpnUzhpX1N1SzlfeUItRzR2ZUxucU1VQU1GbVU1VXhvam5WZ0p3cA?oc=5"
         },
         {
-            "source": "SBS 뉴스",
-            "title": "프리미어리그 첼시, 114년 만에 '5경기 연속 무득점 패배' - SBS 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tM1ZNOEFuZ1NERGFJWEtSbHEzS3JkZ1ZTZHVSbWhEUFJBMEgxNFRKSEVRTDdRZEhlc1pvQVR2MWFqWjZIRS15blk5U0VVZkhOUXhZSDRrV0RtaDRhUTlVbWNkbktTLXlCcEE?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "황희찬 연봉이 얼만데 '2부' 울버햄튼이 줄 수 있나…박지성 냉철 진단 \"K-프리미어리거 멸종 단정할 수 없어\" 이적 불가피 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XX284UGNHSkQ0dnFLbE5PRzVBeW9VcHkyblZsUHZ2YTZ2Wl9VdVhXNjVQMnMxaC15dVprbVRwV2Q4cmtfQnMtNFYwcFYtVlgxUW1hUnpfejh0aUl5eHpfX2ZUalZ1VmxMM1FRM1hVbw?oc=5"
         },
         {
             "source": "일요신문",
