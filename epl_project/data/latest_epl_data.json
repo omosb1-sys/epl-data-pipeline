@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-04-24 20:34:23",
+    "timestamp": "2026-04-24 21:37:22",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Sunderland vs Nottingham Forest - build-up, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nT0xudThfbG1jQ1lVNFo3RFRGRzZkNWxpNW8zNDYxYTFOWGxMaDVMWnNXYTdORDFGMU9XazFVOUoyQ0xTLWpsNTFFdF91X1JiTmhFVVhBNXF6Q05iWE9TOXJKWkY?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Sunderland v Nottingham Forest: Premier League – live - The Guardian",
@@ -14,11 +19,6 @@
             "source": "Sky Sports",
             "title": "EA SPORTS FC 26: Bruno Fernandes the highest-rated player as Premier League Team of the Season is revealed - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTkZCcFJtVG0tV0RBR043TGpYaVNNaGJnQnp0R25KU21LY3J3YmJmbW9lOUs5WV9QczRUMHliYUhfQjR0SWtTZWNoTHpBQkcxemtqaHBEVDE1T1pLWktqN0JlWXd4LW1QUTk5QUxCeFZOVTBJcmRsNV9odWZrWDEtMm02R0ZHdzdaRUZ0QWhjYWdDUXluNHRzUUVzb3QyN1VQUFJMV2twYVYxX1JheW1XZXUzOHF6d3dPZWFDT1hSRnZ5clpETHZERlhOZTdZWlA3SHhQTzBMOXRRZ2VWOFNGaGFMRFprYnNHNzk4akROaHN3UQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League LIVE: Sunderland vs Nottingham Forest - build-up, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nT0xudThfbG1jQ1lVNFo3RFRGRzZkNWxpNW8zNDYxYTFOWGxMaDVMWnNXYTdORDFGMU9XazFVOUoyQ0xTLWpsNTFFdF91X1JiTmhFVVhBNXF6Q05iWE9TOXJKWkY?oc=5"
         },
         {
             "source": "OneFootball",
@@ -47,8 +47,8 @@
         },
         {
             "source": "DaveOCKOP",
-            "title": "David Ornstein plays down Liverpool move for Anthony Gordon - DaveOCKOP",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzFJSWYtOUEyV0wzdjA5YlE4YXZwMElpTzJBVmRSVm5hZVNiZE41WUZMRWpNX09ZdzlmYl9RYVVDa2wyajRHRkdJNkczcVJmdzRNWU5ONEROaVh1M21NWHJ0R1NnUzY1VWV6VlE0SzNxMUt5bUNkeUMxX25zdU41UW5kRmdVaEhibnVlOW5nQi1HT25BMDl4NWptN09lUDFjSXc?oc=5"
+            "title": "David Ornstein issues latest update on Xabi Alonso and Liverpool - DaveOCKOP",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTF3Sm03b1JmdzBRT2htdk1Fa0FCT3FRZXI2ckVTeTg0OEJOLVl4OUljaEJQckM0WnMzeVlWZWdmb0ZVMDZlVGNNRVRwbXU5NXhVT2g1Rm4zWlEwVXdBbXZwazhnR3lhenlSWjdSbVF2SEFHYnl6YzRhQy1XY2pidjJBMk1iZzA2QkRnVVRmSnhvY1NkOXZvWU1uN0E1czQ1Y1E3ZVNR?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -57,13 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
+            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWszOURJWHRoOFY4UFZna1Z0OUhOYTBWaFVoSjFOM2lBV1h3ajVqT2ZxQm1BeWVZTm9fYVkxXy15eTgtQnFXbkZNODBWcjBtT0xIMVUwcVU2cURyZ3RwWmxwdDAzM1MxX1FuRnJpYTBJbHBpeWNYZzRVVzY3RnV1N0t2R0JiQWRPbWstTGdDQTU5bnczLXdPZDd6alhpbTdjWnFjX2NIZWhCcVEyV2dPS3RjY0d2VGRLT0swaE1PUkV2YnRoWERtUHpOM2xoX19wY2U0ZjVEVVowRHB1QjlEallTQjN6bVVrLTFmNW56MG5VdTNL?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSXNxZ25falpWSDNKdUY4YWFUaHF3SHJ5bUFGVkNGNnByWU96dmg3a3A5cnhXRjhZWjQ2REtKN3FyVFc3b3dqTmVXVnhWQmowX2h3NnExcXJIV3ZuelhRR3Y4OGdiRVk1Z1ZDVGIteGIwSjFMTjVZNmVkZm43ZmJBYS11YXN5djRxYlNiZ3g3YXRZc3g5V1FzSmdSZFZhbElKX2kxdnpQM29IX3Fld2FVZWxRbkJtN1JwTmNneTJQdk1sTk9FdzgxUjJYWGRGUkpKdV91UTFIWEZpTmszTVdFams4dXNMOHA1MmFlZDY0eEZGZVBNTWNF?oc=5"
         },
         {
             "source": "동아일보",
@@ -71,9 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BV2psSmJQMkdWRkpNSV83Z2oxcXdEQWp2a1BEb1NJaEVMUFNOVmJPak5GdnVuRHhsQ2tMMXVYT0hCREhSMG9hN0JQRkIwcVh3elR4ci1Gci1jNGF1Ny0yRldSVUZtcHdiQV85QUh0OTBBTi1q0gFmQVVfeXFMTUFUUTFmLUJJbG5IZmRqQkU0VmQwWlRxdGxVZ2xmaE5nTGd4TWhwZkJ5YUxPZnBWSEw0N0RVOHhNX2xJWm54ajZOMlc0ZDBLUzdJVFg2Qnh0d2FBWGpVd21kMndjUGRn?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "토트넘 진짜 망했다! EPL 생존 확률 급락…'경쟁자' 노팅엄 또 이겼다, 선덜랜드전 5-0 대승 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aUltWnh2bE5Xdk40bmp1aGRtMzJabTFrM09xeFd4dU4xdEpuMzdOaWZBTERFTGZSb0ZIMGV4V3VGOVpIWnZxNUQ1R0dmT0Q2V0NZM0dSRHc1NVNia0h0UQ?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
-            "title": "\"프리미어리그? 좋아하지만\"…일본 국대 골키퍼, 이적 가능성→\"내 미래에 대한 루머 봤어, 선수 입장에선 좋은 일\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tcTNHYmxUN0hmcDJEc2w0U1NWMUlxRWlUNFItS2I2ZFRWQ3lHR3YtcF9HVEJZMXRubDNVaUJCWjh5UVUwOGFvWWNQTzRoc2djVElKS0xKdzMzektY?oc=5"
+            "title": "토트넘 꼴찌 못 잡으면 진짜 망한다, 황희찬 울버햄튼과 격돌 [PL 와치] - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtbGRlTXh4VGl4czlELU5vb1lmbFYwY2NkSXJYSDZ3TGFQLXRIc1JsRF9FYzA2cDltdXNad3JMV2NtWUVCLXp5VUZXZHljSkZXaW9zNFZ4dm1iWXNZ?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -81,29 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iRVhaWTc0aXRaZDViclYzWkNtWUhjOEdORzFSSDI4S2Rwc2g5Wks1V3haa1hzdHVFMG9VdWFjWFUwMkZtZHY1WU1TaEN6OUk?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "EPL 강등 위기 토트넘…갑자기 심리사 채용 나선 이유는 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmVqM3RwQ1ZxUzhoa19BUU5NTjJ2bTZjZlZKYXFsUlhDOF94X290b1RzLXV2dm1uTHhDOU55cjZUek52aWRQMkoxQ2FQeFZFZlNfRUFYNklJdG1COEU4REZFWTY3M2FxeVl4aDR0dG4tS2tLcU5xS0FuMEhpdDRRcWs1cw?oc=5"
+        },
+        {
             "source": "sportalkorea.com",
             "title": "韓 초대형 반전! 프리미어리거 전멸 절대 없다...무려 21년 이어온 명맥 유지되나, 獨 임대 떠난 김지수, \"브렌트포드, 복귀 유력\" - sportalkorea.com",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenFWUjJTM05sS3hmdmw0amVaR2pkM2FuUHY2SzlHbG1Temk5ZFJUaWx6bWVnemNyZ0FiWmlOYWVtcGZ1ckIxX0JEZWxwYXRmWTBxS01yeDI5RnBtQ09NN21YNjA1V3hlWmN5eFp3clZhaUlSVGt6YmpsUE5JbTIyUXZ3?oc=5"
         },
         {
+            "source": "인터풋볼",
+            "title": "“프리미어리그? 좋아하지만”…일본 국대 골키퍼, 이적 가능성→“내 미래에 대한 루머 봤어, 선수 입장에선 좋은 일” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kX1B2UlhoQ1RzOURPRjV2MVVKT1RhOURlX3V6eTRKY2tudGNIblM4bF9QTVdrY29HNkNCQ1d6SF9EeVNmZWg4eVNTcS1QdUhkSVNZLTREYmxZaHoxYTVYNXNIc2o4SFNZM1E4VW5VOWxia1JM?oc=5"
+        },
+        {
             "source": "MSN",
             "title": "맨시티, 2025~2026시즌 EPL 리그 첫 선두 등극…역전 우승 가능성 높여 - MSN",
             "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUGdLSXk5bFZkVWtidmoweWptNXhpa2Uwdm1WQ0syTDZtRWxyQlR4eGxaSkdBdmh6YW9hYlF0Qm5VOXM1di1xYVVCWTdmeXZEdWU0dnltR2FfbUdnTU5EaDNyZkY1bnB5dUU1OXNxVHg0SEhoeDRFeEllVjU1eGtPVHZqU0ZtR3ZxZWdOZ0M0TXVuN29iWGJnSTFTSFZ0UV9xNGtVQ25oejNIZlpWUDh6Q0FDeTZkd3VjQmk0MDc2QnpvNXRtMHFhQ3pJN1NlWmVjOW5DMFpBSEZhWGtsTThRUkJvY1RSWDNDQjB3SUpYalZGT3h1TGlmbExwb0VDU0c4TnlaMnpMWlpGaWxuRXNCMXVrSG9BMmNfVjZrXzF6NkZueXZNdVI0M1JRa1FTa2pOWGJsX3lWaUhjMUwwWUZFbFlvRXp2WlNUTTRtYWU3TjM2WHN5NVdnaVNsaE5idGdwUkJxUzJ4QW5jRVZvM3FyNVpzZzNLeUE?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'아찔하다' 손흥민, 100억원 잃을 뻔…아직도 토트넘 유니폼을 입고 있었으면 \"강등시 연봉 삭감, 정확히 절반 줄어든다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hOGNHTHBfdHplZS1SMUp4ZzNSSVBIMVhOSHJjbTRRZVBNUWtBbkFzNmlMTHRfT05mTThQSnJKSWtZS3lnZ2c?oc=5"
-        },
-        {
-            "source": "MBC 뉴스",
-            "title": "울버햄프턴 조기 강등‥'코리안 프리미어리그 전멸 위기' - MBC 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbklkYUFPakRCWHFsMkJEcmlXbDlCUm1Od3N3eHRENzZBTk1tckVqVTd4VHRIbTNvUkdtZ3NpY19UY3c4aTItUldoRmszdTV6MnNWLTdQaEwyS0U3NFhpUlZaT05pR1ZqWVdEV0ROd05uT0s0eGVZLdIBeEFVX3lxTE9TX1prQ2QyWkVIcFVCOVE3b1dsR0RXckNqaWI4a1FyVTgxQXczVm5CNXZoNWh1cndnc2dlSXRlY0FCdjVNQWdLdWRobTQwQ3ZsUWpnUzhpX1N1SzlfeUItRzR2ZUxucU1VQU1GbVU1VXhvam5WZ0p3cA?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "“강등 가능성 0.2%→유력 후보”…토트넘, 프리미어리그 최대 추락 위기 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtdkRzUS1NUW9STm01RnR4eWpqdndSWUZhdmp1WUh2QzZramVuRG9wNEMwRGlPVWNCRE85OFZmQXlZY3NMaGtGdHROdXhIOWM?oc=5"
         }
     ],
     "transfers": [
