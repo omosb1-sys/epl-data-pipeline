@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-04-25 14:36:05",
+    "timestamp": "2026-04-25 15:30:42",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Premier League LIVE: Build-up, team news, score & live text updates - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWnZlb1dYSVpPUGcwNjR2YXBjeFBzV2NvMnJveWFRTjhKZ1R0aEVXeEtLUkZDUUV2VmpMN3lwaGViVm5mZFlKYnNqTlEyMEctQ214dkpPZ3I2UWl6eHJTeXlNQkg?oc=5"
-        },
-        {
             "source": "The Guardian",
-            "title": "Fulham 1-0 Aston Villa: Premier League – live - The Guardian",
+            "title": "Fulham 1-0 Aston Villa: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlZuenNLVTJCdk5FU0lIa2FVbkN0cmI2QnM0UDJJb0ZZcGpKeE0zX3pySEdueXNyOGwzUWJ6WTBlWWtKUG5iR01GYWxxR1p2TTlBMS1hY1FyeVFvRG5YdDdhaVVXdmJnTGlHbGhfbVBtYi1scmFaVmV0eXc0TldzZWdyOG9YN1lLWGZPNmlqdjhFNE55Q1RmeUpn?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Arsenal vs Newcastle Utd predictions: Chris Sutton on Premier League game - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaQ2prVHNJOEVuOThZRFdyTnlTRnl6Rmk5VFNwUGdWMzRBY2dEVTg4T3pLV0Y0UFY2SVFVcUdPQjhBUnAyQkE3NVZfQlNtVXpHMTNPTEp0cVp5NXNaSXFHenhaeElQOTJjYUE?oc=5"
+            "source": "Sky Sports",
+            "title": "Fulham vs Aston Villa LIVE! Premier League score, match updates, team news and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanFwb2U4TENidVZZZnNuVDNuM1F6MjcxdTFVOG9nNHRscVU5UU4xX0VjV3A1a0RLd0paRWJ6U3hUd0lFYkNaWTFBYmMtYVNxdDBMeGFsWFBYcXlmeEdua0lqTHdGQlNJSkYyUnBFd0U2emxFSVRobk1ibUhPalNkVGxUWFNOVGtQUTQzNm4tVV9fM2Z5OU1pXzJ5aTVrdkx6TjFYM1dUREhmb0VOTnFuOWVfRzlYWk1EZTJDUEVMZU5hUmh6MHlyeldEaWYtMWcwZUI5YTkyVGt2cmN0WkdF?oc=5"
         },
         {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano names player who’s agreed to join Chelsea this summer - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSldKMTBxdUpYdVVPSE55X3A3OWx5aE00WDNkamZ3T01mODlFaEh0N0M5OUZBcGRobkRhWGREelJMS0d0SkFETXdEcU1vUFpuRTZLaXVrX1FRYV82T3ZVcS1rb2ZsUUQwamNxa3ZoSjhzTjBYYnE5dnJmb3VuN3BRWXoxQW9sQnBkeEJHcVlhWk5ST3VwN3lodDlFVDl1bFR0clFYamV2c0RTZlNlb0E?oc=5"
+            "source": "BBC",
+            "title": "Premier League LIVE: Build-up, team news, score & live text updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWnZlb1dYSVpPUGcwNjR2YXBjeFBzV2NvMnJveWFRTjhKZ1R0aEVXeEtLUkZDUUV2VmpMN3lwaGViVm5mZFlKYnNqTlEyMEctQ214dkpPZ3I2UWl6eHJTeXlNQkg?oc=5"
         },
         {
             "source": "DaveOCKOP",
@@ -31,9 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTlzeDN4UlAwRlRJZ0R4ZjFFSkZIWjVzdnJJUDZGTTdSRmYtWHpQWFVyMVRfdFdvUjVKSjFIU2FJeC1tLTlxQ0R2SmRueXBOTndPNUF6UzZaem16TlVkYTRKbXlvSDV5bWFlYkdhc3RocF9wcG1ib2l2TnRGVEp1QjlqbzhKT3lmMHVvcVNyVlNqQlQ3bXRVTkw4QnRQc0xwSGFSbG9R?oc=5"
         },
         {
+            "source": "OneFootball",
+            "title": "“Liam Rosenior and the club” – Fabrizio Romano reveals why Marc Cucurella wasn’t sanctioned by Chelsea - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWViZThEODk5NUtCTGtMQzZJc0tVYVE0aWdZNEVVM1hrMXpaaUhZdkhsNDZBX2JodTVOb2o1aV91T1NjSVIxa0xzWndzXzVzNC1GSk93M0hkQk9kZ1ozNXlYcFdEdU1qT2c4YjJuMGQ0a2ZaOEJNbF94QTRJTzJiN2J6TFZpWDZhTE9aczJqWmFtdDdwMW1BOF9vMVY1RzJqa0Yxcm1mREdmdWxQZzdZZXp5cGZGZjdqNTNNdzhkUG5Pb0FTbDd2eVZ0LTVnOHhHWnpTOQ?oc=5"
+        },
+        {
             "source": "MSN",
-            "title": "Alessandro Bastoni to Chelsea for €50m: Fabrizio Romano reveals state of play - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQcElDRjBCUXpSYmVjRGdRSnFXNHhZUS1fZk83WGN5c3pKMjJZUmpLYm1RSHRwcFFWcTVVWjJ1MVVGd283SWcybVBEU0hjUjRtTW43YUEtZzdiSTdiLUs1WS1NRVoyemhtRzNJdTI2WXhRSnU2S05BY0JXSzJUVmwydFZ6YmtJYVJaektkS3dHVTdZYjl5X0FXMWZzQ1d4LUlZaThBNGxlV2hfMk0tV0JHMFBTdDR3cUFGNXNIZkZ6cEw1ekNmck5od2UyMFk0eTFiMWZiYWp1bmJ4Y3RVY2VENXdwVE1CaG9nT3pEQkttSTVGcWFldXVJcjJINUM0dWhfY1hsaWlpYmNOX3cyRTdzRkdSeUZfZDZjLTJlN3FNaXhTZUd6Ujd1Yy13UEdrRU5wY1FsYVJuSzlweDc5d0RsUzRERFVUTGRHUnRpWDAxV2ZSMk5oUjdyZnhVQ2h0Rjc5VXY5N0wzWXc5WHdPM0lQTUlEQjd3MEU?oc=5"
+            "title": "Victor Osimhen closes in on new club as Fabrizio Romano reveals 'official' transfer bid - MSN",
+            "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPQ0tKWEwtLW1CNEt3WDVlMEtfUlJqMUhENUhQYUZKQkdaYlRRX0xnal9mZVIyVi1feGVWVjFoZGZucGJESENmNndnbGtva19tZk0wby14SlZyYURrenhXOTI3NElyYmxReUZQZGk0YkZQT0JZSjloYzdMbVQ0WXRhaEg4T093TmxjOEdXLU9FeDRLZFZkZDBudmx0cy1CUnVTbVp3Z0pacFlpNmNJQUZmRjM1bnRVTFJpVFlXcG15Y0VRTVZXUnBlSmlBZ3d1NW1Jc2xsUkREeUMtbk5HWkczWUpjbi1najRQZ2MtMVkwSjFoTVRHd1hIQldYSWh3a2FBellfeVAzQkY4M1NybFhid2VDd043RDJacjk0MnN6cjNNZzZFUVJJSVdOVGZWOXJyOVdHYU9pS0Zqa2NUU0QyRHhSYU1YMEE0TnBSSU4yVWxSTU9fXzNrOW5ZNGFPS0NxTWd6d3JZQzlRTlBrSGJxM0RYNkk2bEpzTWJVWF9mMXQyYno1?oc=5"
         },
         {
             "source": "The New York Times",
@@ -71,9 +71,9 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BV2psSmJQMkdWRkpNSV83Z2oxcXdEQWp2a1BEb1NJaEVMUFNOVmJPak5GdnVuRHhsQ2tMMXVYT0hCREhSMG9hN0JQRkIwcVh3elR4ci1Gci1jNGF1Ny0yRldSVUZtcHdiQV85QUh0OTBBTi1q0gFmQVVfeXFMTUFUUTFmLUJJbG5IZmRqQkU0VmQwWlRxdGxVZ2xmaE5nTGd4TWhwZkJ5YUxPZnBWSEw0N0RVOHhNX2xJWm54ajZOMlc0ZDBLUzdJVFg2Qnh0d2FBWGpVd21kMndjUGRn?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "프리미어리그에서 6위를 해도 챔스 갈 수 있다? 조건이 있다…\"아스톤 빌라의 UEL 우승+리그 5위\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tMzhDaWxpdEtGdTZfaWFheTJNdGEwcUhfZFRtSGUxV3VlaFNwTTlYbXlEWlZwakhQSVh6R2dpUEQ3Y1RMXzhaOEdUNWJoU3VtMUM5eUZSbUtwem5r?oc=5"
+            "source": "조선일보",
+            "title": "'충격적 1위' 옵타 슈퍼컴, 18위 토트넘 강등 확률 61%..데 제르비 감독 \"울버햄턴을 꺾더라도 끝난 게 아니다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1h1bnhsM21pal9NWVZFa0F0aW9HMWRQT0VyT21BbWc1UjUzX0lSWE1MYjhXc21Rb3VhSjdaZGpzVDVwY1dqTnM0dkF6dy1KbVFYLU1uNTRFcHJJRzJYVDFCbjZIb3l5ekZkWGh6R3RaNWFMYjBiOGY2OWZaNGRld2cwSHkzTE9NV0tV?oc=5"
         },
         {
             "source": "네이트",
@@ -86,24 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kVFdiVGZkOXctS1Z4SjQwbGZzYTBYNFJDYmsyQ3pTWnUyTUxRamVJYmxTMUxneW1LX1J3akpsaXR0dlVJVHhFZG5QUUZIUVZYYXVkaUxDSWMyN0FV?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "강등 확률 '61%' 토트넘 진짜 초비상...사실상 웨스트햄과 2파전→노팅엄, 선덜랜드전 5-0 대승으로 안정권 진입 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByV19mTldXZ0lNWGE3d2phMnlpaE5Qekl1UUcwVy1LS3RUcnUzYmdIeG13WC1IM2U4S0lpcEh4bGFQV1E0ejRLRkxkYXJXRFE?oc=5"
-        },
-        {
             "source": "머니투데이",
             "title": "토트넘 비상! 강등 확률 60% 넘었다...'네가 가라 2부' 16위 노팅엄, 선덜랜드 5-0 격파→사실상 잔류 확정 - 머니투데이 - 머니투데이",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtakt3NXp6dG9HTEl5emRMYkx1TG0tR1Q4Z0xINmpzRV9seUNpRmFBdE4yYlBxQVhRbER6RFRrUjU4dllyTGZqcGRWWXdHMFBHSVJFWUxSTkRQcmpjM3NVQm5lREVnbFE3MEHSAW9BVV95cUxPRndheGV4X2ZyOElJTF82SHl2MmlxbXFLeThqd1k3LTRKV2prcHp6UmZadGdVZ1RYUGV6R0lMR0tnVk5xNDZpV0RpWXdON292NVRtWHVnaktoUXRTTWoxWGNKbktER0NKUTBPc0RwWUU?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "토트넘 ‘초비상’ 걸렸다…英 단독 보도 “‘파격 대우’ 재계약 뿌리치고 이별 결단, 강등 여부 상관없이 올여름 이적 추진” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtZDBQcXBQclV5b094U1FmNXZPU3V3M0tXZmJfUlFNYlJWQjZScWlVa3FaOFNxX2F2d3ZhM3FvbUNjYkZMeVE?oc=5"
+            "title": "강등 확률 '61%' 토트넘 진짜 초비상...사실상 웨스트햄과 2파전→노팅엄, 선덜랜드전 5-0 대승으로 안정권 진입 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByV19mTldXZ0lNWGE3d2phMnlpaE5Qekl1UUcwVy1LS3RUcnUzYmdIeG13WC1IM2U4S0lpcEh4bGFQV1E0ejRLRkxkYXJXRFE?oc=5"
         },
         {
             "source": "SPOTV NEWS",
             "title": "'韓-日 차이 이렇게 컸나' 한국은 0명인데...일본 다음 시즌 EPL '최대 8명' 뛴다 ‘미토마-엔도-카마다’ 포함 - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCUDkzcWZ5aGpGdlZMSVRPUGUzT1IxYjlmSEVMdC04T04yMENMa0NGcWIzbHQ5RllvTDlwcmpwTFJKSnRFc0dEX3JIUlZ2MzREalhoM2xVbmtqWDhnRzZSMm9WbjFmM0tZR19xNkgtd9IBc0FVX3lxTE1UQ1lCYjJITXJleW9jWHJJU0pnZGFLRHdhU0I4QjBVVFJzbmliWnd5R2c0TDV1U2hfMzNxazNpSGM5ZjlfX1ppck1hZ2s3TGc3YUtsejVBdWxvOWZLZlM3Q2xtb2NvRk1WaWJEZEFCaDZ4Nm8?oc=5"
+        },
+        {
+            "source": "미주중앙일보",
+            "title": "21년 만에 EPL 한국인 전멸 위기, 낭만 잃고 시스템에 갇혔다 - 미주중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ic3I0VWc0VnlEUzQyX2J3c1dwdlRiSmVNRVRKTTFwOEptUGdCMlg5TlhHSnhCN2QwQThULXZSWXZyT2JqRVhZazBJV1h5VHRzalg2QTEyRmFMMXo2MVU2bVFn?oc=5"
         }
     ],
     "transfers": [
