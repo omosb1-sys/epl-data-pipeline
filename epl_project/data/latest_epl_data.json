@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-04-25 10:33:28",
+    "timestamp": "2026-04-25 11:30:10",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Build-up, team news, score & live text updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWnZlb1dYSVpPUGcwNjR2YXBjeFBzV2NvMnJveWFRTjhKZ1R0aEVXeEtLUkZDUUV2VmpMN3lwaGViVm5mZFlKYnNqTlEyMEctQ214dkpPZ3I2UWl6eHJTeXlNQkg?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Sunderland 0-5 Nottingham Forest: Premier League – as it happened - The Guardian",
@@ -14,11 +19,6 @@
             "source": "BBC",
             "title": "Premier League LIVE: Sunderland 0-5 Nottingham Forest - build-up, team news, stats & head-to-head - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nT0xudThfbG1jQ1lVNFo3RFRGRzZkNWxpNW8zNDYxYTFOWGxMaDVMWnNXYTdORDFGMU9XazFVOUoyQ0xTLWpsNTFFdF91X1JiTmhFVVhBNXF6Q05iWE9TOXJKWkY?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Sunderland 0-5 Nottingham Forest | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUc3SVdLSFo0N0k1MWsyVmxIX0l0Z1ZyaGZzbFIxWWdrZzBIaEdkUzVzVTFPVERzS1J0NnVHREFSX3UzYXJ4LXh5SHQxQXctUDExY3h0dWJHZ0M3dGJYNEM5dGNKRm5LYXZKUlR5VGVfd01ycXFVY1ZlMlNVUlYtSjFxdVBLYWJyRXJiVmRTSlFWRzF4aGZwRFpiVEhxbTlGX0ZMMUxIa0xOczU3QjZBRDNIeUo?oc=5"
         },
         {
             "source": "DaveOCKOP",
@@ -62,8 +62,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlMtSF9leV9JQmh2cmpodlZ3SXM0ZEJoSnZRSl9WYWZGZ0g3VnY3OGVKcVhnNHF4QWxJTDJiNmNkT1REZk9SeWlvWVdjTkszMkMzeUFtUS1wZm5OSVExNmN6d3lEaTc3S0JxRWZYeXpQRS1Pa1U5WElmdXZBQk5IeGw0MmlIVHc?oc=5"
+            "title": "Wolverhampton Wanderers transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlF0eEFGcHBFRDZFVXYzTEZqMGVQU200VUlrUC01elNBU1p6cFp4cG1sdFZhWjhodEh2RDN2cjR6QU41X0RwbmIxZzRmZXQ3clJrSkQ4ZDRpTWtKbTZ2NUdnYUljYTVyX3FZMDJGRDMwSzhjXzBEcE1xYTJzSWNkX1A5RVdPVzROWUtNWjRKMllmdlozV1RicThXelotcHJJOGdndmM5RVdJVFllbVlKX0ZtSE1ZX01qRmpKMGhmeTZIbnlxUE04SGlZZVJXbS05Qm96dXdGZ21UdmR4UjVIM2ZjUGRmbnBINzRfUW9MSQ?oc=5"
         },
         {
             "source": "동아일보",
@@ -82,13 +82,13 @@
         },
         {
             "source": "v.daum.net",
-            "title": "슈퍼 컴퓨터도, 모든 역사도 '토트넘 2부행' 확신한다... \"강등 확률 무려 57%\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01V2ZFVXpaTEliMnF3WDJPNlVrdk1taHJTTzBWYmIzbFg2TGIzZ09DbnBNQWxJUU5CcUFzQmlhbXdKSTM2ZEVTSnI5blM4WHc?oc=5"
+            "title": "강등 확률 '61%' 토트넘 진짜 초비상...사실상 웨스트햄과 2파전→노팅엄, 선덜랜드전 5-0 대승으로 안정권 진입 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByV19mTldXZ0lNWGE3d2phMnlpaE5Qekl1UUcwVy1LS3RUcnUzYmdIeG13WC1IM2U4S0lpcEh4bGFQV1E0ejRLRkxkYXJXRFE?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "토트넘 비상! 강등 확률 60% 넘었다...'네가 가라 2부' 16위 노팅엄, 선덜랜드 5-0 격파→사실상 잔류 확정 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtakt3NXp6dG9HTEl5emRMYkx1TG0tR1Q4Z0xINmpzRV9seUNpRmFBdE4yYlBxQVhRbER6RFRrUjU4dllyTGZqcGRWWXdHMFBHSVJFWUxSTkRQcmpjM3NVQm5lREVnbFE3MEHSAW9BVV95cUxPRndheGV4X2ZyOElJTF82SHl2MmlxbXFLeThqd1k3LTRKV2prcHp6UmZadGdVZ1RYUGV6R0lMR0tnVk5xNDZpV0RpWXdON292NVRtWHVnaktoUXRTTWoxWGNKbktER0NKUTBPc0RwWUU?oc=5"
+            "source": "MSN",
+            "title": "토트넘 진짜 강등될 수도, 이건 현실이다… 16위 노팅엄 사실상 잔류 수순, 17위 웨스트햄과 ‘2파전’ 양상으로 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQdy1kYTJ4Y1FSMVphVmJ0b0lIUEQtVldPekwzc2hvSGwwd09KUTMxZ2tXMEgxdjd2VVpPMG1LZURWVHRSbV9DWVpXV2ZaOXloaEFzcHZndk5zZ0lZeHYybHB2MzdpVUNtTzRJQmRmYXJBMEloNFFXWjUtSHc3U3p4aGRfdkk2eWs0d0pZX25SU2lIQkNHdlYyai1JMlpnSmtBSFFja1JtdGdJT1NXb1BjZmhMZlNqTENBMGpncFMzaUVWa0pfa2pid2Zzd3E5MWpEajVFYWpyZE8yWW9BX3k0V2RuVWdoRzhmMkVibkhRSE90anYwMzlXZW5HSVJrMFNDVFpuNzhLMU5RUjhaeWxHU1RTNlpKTGo1eXEtVmVtREhMZkJkR3dBSklqd3pMVlNucUtFMTFmSFNic09vdmF2d1VsOG9NZk1uZjFYS2ozbjhNeTlla2dHUlVqeFNJRWp1RV9HSllWbUZWZ3J4WDhuNVo1QnpsOUQ4SmlxTzdSREJ6bWhCZ3ZlbmczRUEtRkdSNUZjV2VaR3owc1UzUlExTHpLbEFIdDJYS0lISFQyQUxTcURZeWRLajFxWFFNLVZJdy1hODlfQjNpd2VVYWNmVTFoa0VmaDByczFHNkpHdWtSNzNERlc5WnlSZkY4c3hSR1pmcjJaRHUybEFPQmpzUVY1REMwcVROckxFc0lMWUZyVGRMdjZBb3FWaEN3VEZGdklxdEZOQ3FfbUhBQjBkVFNNMHNkbGdOMkVoOXR0cXFNQ0FnN2h3dUlqaw?oc=5"
         },
         {
             "source": "SPOTV NEWS",
