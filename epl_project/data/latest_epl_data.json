@@ -1,29 +1,29 @@
 {
-    "timestamp": "2026-05-02 01:27:32",
+    "timestamp": "2026-05-02 04:50:07",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "FPL tips: Gameweek 35 Q&A with expert Gianni Buttice - send us your questions - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EQXBDUVVpRXRmenljMXlHODlPWkRTUUEyN3FNRzl6LXJoOUVxTlZSZzIyS1lPcUc1Mzd5RmticDhnS2F0ZlBLM0Fvako3MmM1YnpGckJfbkM5NHI0ZVpVWmxUaXE?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League relegation battle: Leeds beat Burnley to heap pressure on others - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zampKTzlSbU1Db2NSTlNmU1dQdUpDeDNEc0hwbENOajk3ZDVURFRDaU9kRklqYnlxSXFzX1BHU3hkM21CRWhLVFFISlU1eDBnMXZaYUZzQXFvTHRXa1RKRFRQYkVMc0U?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Leeds United 3-1 Burnley: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlloX2NYaTBBX1NqYVBpWHNFbXJvNFB0a3ZoMGJjeVRsNGRTbzZnVTRmbDJpWE5HcTJNdWtXV2Qxb1JFTjM3ckp6RHpFamdfcmxtTTFiWW1iZXMzdmQ3QlVWVjBzVEpYazFKOFBPT0NsbmpIMUZTbkNYQ3p2TnFMZnQyUkV2UkEyZWVDWkNlTEJOOGhpOVdkemgxd08?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Leeds 3-1 Burnley | Premier League highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOS01NE04TVduVjZUclZIY3ZVSWhhM0xxZnJ6ckYzN0tsNFpuRW44SUNyVkNJamhUcDltQUZFSlBuRFVJRkpxZGV2d3UyeHZ2Z2l1OXlrTlZYNWNEdHFjWnBSdWJ5c0s4YnBIb0thaHlNUE8ybzFVdDNnZWc5dnMyMlphOEZPOE5RY1Jtc1JzaFNONDczZHVKQlZwbU56X2pN?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Leeds United vs Burnley - build-up, team news & live text updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTcjZHZmtuX3NOVzFiNWpRTkVicmVBcnVJRnRzV0JNOUtRQjVDS045SElrZXYwd3NnZ0RST2xzbk9IVktEeUxPTDhMakpjbXBwT3g3d0MxZG9lUG5LdzFwY3dteWk?oc=5"
+        },
+        {
             "source": "MSN",
             "title": "€180m winger takes official position on joining Arsenal – Fabrizio Romano - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOV1JnMjlpQ2czNEQ1S2kzODM2b1BjTllXLWl0a0pOUFlqbXpfVnIwZTFyb253UnFLM1Q1UGR3LUFXbVZkZk5KbExUcm5nempvZXZHbFo0MWEtY19fU0NwRG9pNTZrWUpwTDJ3cDNaQm1TUkhULWJXRkwtNXdEUFNoamlUNmdaOXMwSzNzRUF2UXV2ekt1UnYwX0pKTUtkQzlNY1VmRkNKaTJKVjRvMEg4dWRjUVkxcjB2TUhwXzJQaG1SSng0Z1lVVVBXeVFteGVjS09zZlRBVTRpSW1ZS0R2REMtd25yaFoxVEMxS3BPVFU1UXZWSWNhb1hYZnJHcTl1X0YxZkthUVVBUFBWMUZWeHZKN0tSaUVQUEJneXJFeF9DRFk3WVJ5VHY4TGhial9rQUdYb1BfRUlnQ05CcW1wbG9RTDRoXzM5bncxamVLY01zR3VD?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOU9KOXotRlh1ZmI2MWh5UTlDYnY1bm1yV1RkWTY2dW5JWENzRlIycV9MMm5JYU1ZbTQ4NV90RGVsOGVtWEVmMzRIam9DZXd0eXBKMHdkWDRHYjd6SGxla0FXRXlaNldrd3JCa0cySDg4YTEzR2lkNDhhUUtFU0JMUmktSm9OTjB0OV9MaE9BakdJenRIdHE3VllheTdpaVJ2ZXBKMVh6MjN2eUlwZzU0TjFhVGZzVHl5a1pjYk51ZGg5ZmpObTdwcjd1Y2VseWdQVkh6MEhzTVJpYjdMbEU5Z2NFakUyZWVZY21MUy1ZV0VRUzJjQUx4VjdFQkg2cGJFYWRudWdLNFBxY01zX2h2azJIWQ?oc=5"
         },
         {
             "source": "Football FanCast",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEpTNTdabGEyN3JOX1BCVVBKYjM0LTlvVlROVnE3ZWJ5c09qWUxybU1rOFZqYmNKOUt0RzNJRkttZEY0VTNmWmN2UmJGbUFsTDZEVE0tU0dIVXowWHlGMFRPU192cDlkZl9pb1Qyb1N3bG0zRkZydUNINHctT3U0Qy1Kb3A1dzE0X1lELVBKcU9ZXzl6Ml80dmV1MzF1UDg?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "Chelsea transfer news: Fabrizio Romano confirms OFFICIAL Chelsea signing - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOa0V0RDh0UUFkR3ZXOWt3M1I3SnptWURFX3RRV1A5U3hyODFHWURvaVRCUkhwYVNYSEMzOWpKOW9RRGZGWXFWbDBEQXA3QWFaMzBVdDQ4ak5wWVRxMmdvX3lrUmFpWm90ZHpVZXdnM3pncV9ndFI5RlBFNDc3SVdTTDBEcl9vX2ZvRkUwekhiT1VHM3JNamwxakd0WjJBdmNzdG9RSTRzWkk0WW85Ymp2WlNKVkp2dFR3cU81TFlnN0ZFNzZ0cG1qcW5DbDRmUXkzaXlsUDA0aGcxaGFKWnp2LXh1ZnkwajlraDFhZTZoYS1sZXYyVlJBaWc2WjZMRTVjd0cxVjZrSlBpOGxuNHQwWWpqUThEcFF6VjJMWTFOWWMxWWFvazlWOS10OVN5UlIxczRiRm1ZVEg4M2lsOTdqR0lrRjdoTHhtTEZ6S1FQSjRBR1drcUZ5VF9wcVo0SW9CZVpyYnRLbTJmdUM0cFFqWA?oc=5"
+            "source": "OneFootball",
+            "title": "“The problem is” -Fabrizio Romano shares update on Enzo Fernandez and Manchester City - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTdWa1hTV3BvZDFlUXYzNUsxeXpiV0dham0zeVZ6UHo0Z2NiQ1JOWmlrNGNsekFzQ0hPNFQ4SWhsX0FHMmh3Qk5zNlZhWEJQai0yWE1UZG5pbHNZWVZlMkFQZDJDWmN4aWN6VFBFTkJGUXdpcFgzdlRTeTFYMkJzLWtJMG5qQW16MnlZeDZPLUtMUVd2UmVyMDA1alB5VzJCaVE3N3pjUlhfU25qZ0xkaDdtRlNaNjZfNmZYMUh6RC0?oc=5"
         },
         {
             "source": "The New York Times",
@@ -53,27 +53,27 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZnA5bU81andPS1doQzhiZG9DUWZBRXBBS0JkWjhGNFUtdE8zLTdyN0J0TEdjRTl4RzNyVXZzT0NqRGFiU25aVHFXRFlua0hYTmd1c3lkTEQtdGFyU0JXUVhGazJ0cUpFRGVjdW55cWtOaXVYNnQyQk92bkV5YUJITXcyTm4tTEVmaTg5M05wYmVJTnJfZDVlbFBmdUpNZXp3akNUODFjSGlCVUc2UUhBcnVodzdlUHlMUXY3RWQ4Tm9hRWNtY2FuRmxsdjJRZUdpSGtIbTVESG84a0JPMGJkMXlYbm5mbVBzV1h2SFMwa01jN1JKZl9DaUhR?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "토트넘 상대 EPL 잔류 경쟁 끝냈다…리즈 유나이티드, 번리 꺾고 토트넘과 승점 9점 차 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVnc3cV9uVGZQM3h1U0ZvYnFkUWlhTUN1bVBfY1NiWnlDQ0tabi1FakZORHhhQ2UtdjZ0X0Etb1ZSblJ2elNlVlA0M2NvZm8?oc=5"
         },
         {
             "source": "네이트 스포츠",
-            "title": "\"잔류가 불가능해?\" 토트넘 사령탑의 각오…\"아직 아니야, 경기장에서 죽어야 해\" - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vbWVFRW85UVlLbWQwWDF5cE4wTVRsaFBGcEp6dEp0X3pNRHduZElabTA3b2pVNWw4SnB3Z3FnYTA3b1F4b1FCS01hX0tpWnBWOURJU0JTc01MQUJD?oc=5"
-        },
-        {
-            "source": "mydaily.co.kr",
-            "title": "토트넘 상대 EPL 잔류 경쟁 끝냈다…리즈 유나이티드, 번리 꺾고 토트넘과 승점 9점 차 - mydaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KNW5GLVhlYmV6LWFjdmE3bW1yODJwRkVaZXU5UzhFUHBfTDVGOF9xZ2xodVJWdUMwekl1M1FmUEM4RlJHZ0lVakVfS2RCdXNCeHNCRjFOLTVWSzdpLXVkbWRoZzMxZw?oc=5"
+            "title": "맨유 레전드들이 뽑은 '프리미어리그 역사상 가장 과소평가된 선수'는?…킨은 \"브롬크비스트\", 네빌은 \"어윈\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMHkxUFlEd2RVU2hzN3JaS0M4NE5VNVlOTXM1RmZvRTZzOGtEZFUzSkhjZF9YMEV4N2lGQjUwNkh6N196dzdaa3ZueTRTNmdJX051QmJvNUxiV3BM?oc=5"
         },
         {
             "source": "머니투데이",
@@ -81,14 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcHA0SFBVdWg4UVQwM2V5ZUpZcTJFLV9GOEhYLWhHZzFwUnpyakJaRnljdHdNakRhVmgtNDJ6YThUNnYtdjV4N1BUUkcybFhmLWlNdWhlR0FrYnlNczZwZmU2NndLaW1uUmfSAW9BVV95cUxOR0xreEZmNHczTlFqZ1V5OFlvWTFGRkdfdEJOVC1yNU9RNW52Wkc5bGlKUzRQSEExaExsdWRuRGhVY0w5T2tWamtkS28yaHBJX1czMWkxZ1kwODIyUFp6NmZkSnQ2c09YYmwzQmRWMzg?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'EPL 잔류 불투명 토트넘 탈출, UCL 클럽으로 떠난다'…분데스리가 클럽 이적, 에이전트 독일 출국 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HLURUaGZzX0ZWSTl0UF9Sdk5VS2pVYzNhUFp2ZEcwYzBxM2hTTGsxZUQ4NVdIeHNSaGlfQXFTTTFuVEk5V2JlX2FQSmJ6dU0?oc=5"
-        },
-        {
-            "source": "맨시티 홈페이지",
-            "title": "펩, 프리미어리그 4월 이달의 감독 후보 선정 - 맨시티 홈페이지",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVU9TaFhZUFFpZ0VvZWRTbTBEc19KVzBTNzBoOWU0Vk55WXh1SWNkQ1ZtR21GaXB0VVhoalNpakhpRTE1UTBJbUtuLXVjU2ZEdTU5TGktUVIyQjNwVU9nalZ2dklnR19ZUDdJUFhPYW5YOWVmNUFTakE0b3ZHWjZiakhlQmQtUW9LMHNneGxjb2p1OVg4Q0VWd1lsR3BtTGpyeGdwR0JDMlVYSkJ3aXJoYQ?oc=5"
+            "source": "mydaily.co.kr",
+            "title": "손흥민 고별전이 토트넘에서 마지막 경기…\"EPL 생존 경쟁에서 중요한 역할\" 토트넘 감독, 부상 복귀 예고 - mydaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxelJmaVBuZkRBWDViZHNHMy1Jc0N3d0tnSFBSWmlCNW9KWGdwd0pKMUotNWxBSngtNDNxMWhDRlY4LXhia0Z5VHNqeFoxLUdodlFsTDk3R1B0M0JLbVd2RA?oc=5"
         },
         {
             "source": "풋볼리스트",
@@ -96,14 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYUJyeUMzaXpuaFhrSVh2YWRING8wYVh3dzRsRUptOEpob0liZDJEbTVBU01sc3h2LWZROVdJTl94a3k0ZWZxZXU5LTcwaHFZa0VpbGUzYWt3d195MHU1RmZVWDBlWWZObUVOdV9rSk1uZw?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "“맨유 다음 시즌 프리미어리그 우승 가능!” 3시즌 동안 리그 50경기도 못 뛰었는데…“나 자신을 믿어” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOGdoTXRVaUVUOGVfREpjeXR1RnBaTFl1eTNzbGs3bjRzWmlzbXJhNUdIcXJEY1kyQmIyWlJoeFVraTNOSGhQZ1JPV29JdHhaR1lWMDlvNC15MjIyM3FWRk8zdjBZSzBLN1Zmb0lZS0JfR3JO?oc=5"
-        },
-        {
             "source": "Your Field",
             "title": "\"690억, 매각 가능\" 이강인 끝내 결단 내린다…'1골 1도움 맹활약에도 외면'→PSG 재계약 거절, 이적 결심 굳히나 \"PL 3팀 관심, 토트넘 → 팀 내 핵심 역할 제시할 - Your Field",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02WV91RmFjQnRXRVF1M2lGZWZ5cW1zamstdW9IVF9fNzYtcEJNa2xqOU1pYm9EOW1EVVpWMmo2cWQ5SXl1X0lVZWsxTklQNW5KZXU1bEZfenJ6allidEROWUJvOFI1UGZxT2VNMjBrLTM5UUdfLUE?oc=5"
+        },
+        {
+            "source": "sportschosun.com",
+            "title": "\"아스널 '더블 실패', 토트넘은 결국 강등됩니다\" 맨유 레전드의 '매운맛' 충격적 예언 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SOE8xams3bFRtSWdhRVdRS0lzTDNhZ1B6YkdHWlhlV1FnVGNCV2pNenc3SjBwRGM1c2h5Wk4yV3VZbG9TOVpzNkRoNVFaUWpuSE9qd0RVcWhYSjhRajQ4MDY5S2ZFRDhEbjZPdWFfMk9OTEp5NldHTXdOZTVnUdIBd0FVX3lxTE9LNmF6Q3lCWlJ5OWN3YlFBS0x0ejF4aTloM2dqeHV5Nm1Xc0xlNFhXXzNvOFcyb3NpQVd0WnBQdXJubHE1LWVpYk1XRHVFbUVrVDZHaHhCOHlOWVV6OTFTN2tuV2pONFNlM3BxdTNaaGJRZkllUksw?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"맨유 다음 시즌 프리미어리그 우승 가능!\" 3시즌 동안 리그 50경기도 못 뛰었는데…\"나 자신을 믿어\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnAwc05hTC1QeHBpdlhsRlNqT2xFUmtEOFVEQ1UxcVFsRGRVWkswQmJURS1waTZnSVJ4UExQb0RYUWVGcVh2eEpzYlc5U0s2amJyTDVTM3N5Y3VzUzdkRUMzbUVtRk8zRlBYZVpNYml5enNlM3Izai1KZWVsYzFTclFn?oc=5"
         }
     ],
     "transfers": [
