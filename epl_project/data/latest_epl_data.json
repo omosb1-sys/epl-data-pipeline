@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-05-03 09:11:00",
+    "timestamp": "2026-05-03 10:42:38",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Premier League latest, Scottish title race heating up, and more – football live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdHlwcVFub0tuOFVEX1JHWElzTmhhRENMVDE1MGtORHdISTdUeHVuRVRwYm1hU2oxNmljdW1Sc3NxSjJfRkhGQUpMcWFuVk5PX3JBUU1GUER0X0pfWUdFa0JORzBpVDdoX1l6Skw1YUJ6MGZlYkNyN0tWT2o4QjN4N2txU3c5VmxCNl9hc0F6R1lrVDdCYjhIZjR0RXcxZk8xSTdoT3VjOC11R2JIWmd1QmJGM2liMzJ3YXI2dkFPMlJaMHBjNlh6ag?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Arsenal 3-0 Fulham: Premier League – as it happened - The Guardian",
@@ -16,11 +21,6 @@
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQkxxOFptYXplV19NbGE1RzkzcEcyUV9GcG5sY05Pbnp6MWZIMlBnZ0hLakdZUlRkcDEtNHNqWFhBMmZMM0xIUTZlRkVkOTNyLUF6UlBhT2thYklBVTFORmFuQm9kbGdfVzE5cnhTX1M2ZkRYeDZ4c0JSSnlyTEpjdUQ3TVFfOFhBRkNsR2pucWpmUmtPRkVIYzlWbVNJOTQ0YVctZ2syZzdodmJseTJiZ1dvM2ktMzNjeDlYS3czUWJPR1k?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Ipswich Town: How Kieran McKenna guided Tractor Boys to immediate Premier League return - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanZqaVlDUUhIY2gzamp5Ti0wbTR6X3djLWVJTmx0dGNhQnI3N1E2SVJGQ3JLOGp5ZW9sY25RV3Zrc1Q1LVEtWVpxc0s3Q2pkZlRabUdrTHdEcUVDVFk1RHNaYVQ3V3ZOdnpOam0yX2Y2VmVFaHB0bU5sUWltT3pxbUNqRG10enJGNjQ3cC03OHBHY0lDR3hraDJEeVZjUjdqOUpvYkhNUF9Rd3RDOUc1RENLNndaakU5Smh6bnNTVldvVmZRX2Q0c0pUa2kwQVF2XzJnWktyeTg?oc=5"
-        },
-        {
             "source": "MSN",
             "title": "€180m winger takes official position on joining Arsenal – Fabrizio Romano - MSN",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXJ4OFJqZUkwZVFfZ0xmSEZDeEZrS2FjY1B6YUNYS29ZODV1R2YyTmlCODExZ1ZEVEZ3SUZjQmR0UlhiTUdEOTNhNjdXcExEbmlhNHFvUUlpSTFraUMtS3J3aXptRy00MmxVekJ2aHAwNm04QmZTdmxxTkR4MDNFdXBxYXF3cEVtbXQ1X0VxTnh2Q3JYNkpTa3dJWjJRajRCWjhxNkw2dnk5VUplMGtXQmQ2SWZQYmVDZ1hzSXFB?oc=5"
@@ -29,6 +29,11 @@
             "source": "Football FanCast",
             "title": "Fabrizio Romano officially names the one midfielder Spurs wanted instead of Gallagher - Football FanCast",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEpTNTdabGEyN3JOX1BCVVBKYjM0LTlvVlROVnE3ZWJ5c09qWUxybU1rOFZqYmNKOUt0RzNJRkttZEY0VTNmWmN2UmJGbUFsTDZEVE0tU0dIVXowWHlGMFRPU192cDlkZl9pb1Qyb1N3bG0zRkZydUNINHctT3U0Qy1Kb3A1dzE0X1lELVBKcU9ZXzl6Ml80dmV1MzF1UDg?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "Man Utd Transfer News: Fabrizio Romano confirms official offer for goalkeeper target - MSN",
+            "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNZTVVOWtkVmZadlhpSnZPZW95VnRoVUlKMXNzc0VJbjRfWFJCUW1tRDFDbVQ5SHFhZktGSWFHNXBCdzNmUlFBb0wyV0VnV3dIMXRaRnhuOW52NzBLMVplb25HclVtU2ZpNUlOR0J2dEoxdUZVaHZsVzZFTFFRSWlGVVp6dU5OSGRlRWhXTzZLeW50dXhscGlrQzZOMWhVOVQ5SmRrWWtDc1NZV0JGVC1rdjJJUnh1MTIwazR5VGJva0Ztc0xpQmQxNGJlRlVsYkR1b2RXbWNMQkUySUZBMnVCeW1LN29MRThLa0VPaVkyWUJuamhyczJMUW13WVVjYXRJdnkzR1g3cV9OR2NRMjdLeE00STM5eW5zYWxhQS0wUFhiai1oYVBTVUpvZTNPNHhnMlltODlydjZyTkpiVjFxMGljRnJLNG05akwxWDNINGpseERIV1hHWlRqZjcyVE84SUxVQVJRSUI2UC0zbG9IbnFoLVZQNWlyTDJvLWVNZ0p4QUtIbDBmb3NWczlONk52c05PcVM0UHlJUXAtY1h5MVlvRm5qUQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -47,11 +52,6 @@
         },
         {
             "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
@@ -61,14 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFI4S1VBOU1CM296NndNQkpPMkNZT3lqb1BaX0tRQ2U0SUNwUUdkc2ZwUVVvcE90NnItdHl6SkdOTU9CTE1mSFFya1pSQkF5REpFaVdOYWlzbndOa1J6emhKalpLUXRqVzF0ZTg5dzVTNHJWaWNIQmhtZk16VVloLTJnLUFiLVN6cFkzREoyd25ieW5uTDBTUk5UZ3lMaWFKNFF4VWV5N1U4N1h0RHc0aUhEeGJBVTM1X1RJdU9uZHVXQWNPUEhmeHdLNUNlaVNhT2dHbVRqV05qREpFSmVwZERnWC0tSkEtZFh5dTk3eFRMdEcwUGd3?oc=5"
         },
         {
-            "source": "네이트 스포츠",
-            "title": "아스날, 맨시티 제치고 22년 만에 리그 우승할까 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HREJVTGpidVVmbk01VlVYQXp6NXpVOV9wX2Viczk1ZUYyOHlvemoweXdELVNSeDc3NnlzSGQzUG9STEZHNzk2QngybTdiLVJ5WDF2SVVqZy1qdnY2?oc=5"
+            "source": "Sky Sports",
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
-            "source": "mydaily.co.kr",
-            "title": "이건 기회야! 토트넘, EPL 잔류권 재진입 찬스 잡았다→4일 애스턴 빌라 꺾으면 17위로 점프 - mydaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EcWl0WFZSVXFkeElwNU1tb0s5VHFPVWhmZG14bzBaeXpFMmJWRDQwRVJ3QU01WWVlYVhMRFFZX2lfd0JLSTM5bkpPamw5dkdQMEkzUVIzZGU2cHpWUTBMNmVqdWhRUQ?oc=5"
+            "source": "네이트 스포츠",
+            "title": "이건 기회야! 토트넘, EPL 잔류권 재진입 찬스 잡았다→4일 애스턴 빌라 꺾으면 17위로 점프 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EaDVUTGRva3BKLUdJNmloYnhnYlVpaGRfT3pnajF4a19NbWV4ZURPUXlCUGs2S1l1SDFqR29kVFFCd3NmUngyWGJoTWs2VlJsMnNvZ1pRc3hKNGFl?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,24 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlltdVowSkFyM1AyYmdmRWNiZzZidkVyNGdmYlVaY1B5aGFBNy00cV9pTlFodGI3MUJwYnhyUkhFTEpKeHpVVDI1aWc5c3NNUzhMdkVqUFA2MDV1amNhb0RVZS1CQ3JpY1JfZTB1TUpOOGgwSUpLd0dXdFFlelhpRE0xVkY3aEx0a3JWYnhlMEZLZUVZNjk0c0o3bDVPbFVvdHdvVTh1WnZSU2NoNDVFYw?oc=5"
         },
         {
+            "source": "한겨레",
+            "title": "아스날, 맨시티 제치고 22년 만에 리그 우승할까 - 한겨레",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNX3V1RjJBYjB1d2tYSFBzM0dBTy13eHk4WXBiMTFueExqVnVEckJWUXlmYXkwNGUtcDRfYTZqWUd5amRTRzFOSXZ1T3o0VGZLVW9SMXZuOWJPbFJlWHY0enhKaTU?oc=5"
+        },
+        {
             "source": "v.daum.net",
-            "title": "토트넘 상대 EPL 잔류 경쟁 끝냈다…리즈 유나이티드, 번리 꺾고 토트넘과 승점 9점 차 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVnc3cV9uVGZQM3h1U0ZvYnFkUWlhTUN1bVBfY1NiWnlDQ0tabi1FakZORHhhQ2UtdjZ0X0Etb1ZSblJ2elNlVlA0M2NvZm8?oc=5"
+            "title": "함께 웃은 '북런던'…아스널은 선두 질주, 토트넘은 강등권 탈출 기회 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12OUpMeERsUUVTTGpsQ0xXYS1GVXFzYWpqbzh1TmVqMHgxOGFidmRKVl80enNsd3JRVWw1N3dOeDVCbjBtdGhtVXNjcG9CcTA?oc=5"
         },
         {
-            "source": "SBS 뉴스",
-            "title": "'요케레스 2골 1도움' 아스널, 풀럼 3대 0 완파…우승컵에 한 발짝 - SBS 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa25HVHFPa2c2d2lXWnAtMFhBdTBtZGh0bVZiSEI4VEtWTU1WOHVwMXJjM1FoNWJoSTRETk5HN3hWdVVBU2hpdnJKNzAxeUVuQmNwS1pqRmgyQXJlRDhkNm9QUHFQVHRpOHJnTFlLdFh6djlqQ0pubFZ0dFZIcE9jTTJyN0hISE9BeU5HRVJLQQ?oc=5"
+            "source": "osen.co.kr",
+            "title": "‘9분 만에 승격 확정’ 입스위치 타운, EPL 복귀한다…맥케나 감독 새 역사 썼다 - osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdmZZSzFiVFNuU0xaZVNKdnRfRzVYcThhQWFSell0VDBSNGNZRXVpLWNTa2lqRlItN1h0MTExd1dkSkEwdHdzWnZFeVNzLWlwclcw?oc=5"
         },
         {
-            "source": "세계일보",
-            "title": "22년 만의 EPL 우승에 20년 만의 UCL 결승 진출까지? 아스널, ‘더블’이 보인다…풀럼 3-0으로 대파하며 맨시티와 승점차 6 - 세계일보",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9maHFXWWFaaDFpQ2hKTm5XSldfWkw1aXNnRERoNW9KZXhGNWhHMWUzTV9IODhlYkctTDVJMUFCNjVmMXAtZ1JhNFExZTRYTWs0WXJFVWxpXzLSAVRBVV95cUxNM01naTl4dERjbGFZdjEzLVplaHRzYzB6MlpaMERMOVZPT25hMHVxRmVZRlloRVZwNkgyYVZERE9XZUhmRDV1Tk1tUzlqOExnMC1LdUg?oc=5"
+            "source": "네이트 스포츠",
+            "title": "\"이 꿈에도 끝이 있어야 해, 더 이상 젊어지지 않아\"…'프리미어리그 전설' 영, 만 40세로 은퇴 선언 - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnWHlBcG40Tk13UHk5TVlvQm56ZWdXa0owdTNkbDhvMWtzQ2ZtMFk1ZXFrY2NuUjlqUmhJbEhEUGd3M3dxME9yNTdXSkd6dDMxeHdJbnlFTEtRaTFH?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "아무것도 안 했는데 토트넘 강등 확률이 낮아졌다…“웨스트햄의 패배→강등 확률 급상승” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYM01MQzM3a2pqZ0NGb2ZfX20tTTZJY2Q1Q3FNYUg4S0IyNmNsdGpycl9PUW14ZXBXLUs1bHd6YVphNmZ0aFhQYTlwWGRrU1hFZGZjZmJCaHZjVmZTdnpZZVNSTm91Z0tybG9xTjRHWDMyQ0Vf?oc=5"
+            "source": "Your Field",
+            "title": "[오피셜] 23년간 765경기 88골 '살아있는 역사' 애슐리 영, 2025/26 끝으로 은퇴 \"내 커리어 매우 자랑스러워\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YUFpjRzlDRXdPWVhKT2lJdjlwX2txWXRHRUhIU19Xa250U3RnUEJUbHVMaS16V200bGVha1M1ZVB6czJzZEZuZWZNZnpySlEtTDdFM3BYLWpsQVhCZ3NvVnFub2l5YW8xWkFGYmpaSjBwQmZabmc?oc=5"
         }
     ],
     "transfers": [
