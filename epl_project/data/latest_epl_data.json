@@ -1,34 +1,39 @@
 {
-    "timestamp": "2026-05-10 05:26:33",
+    "timestamp": "2026-05-10 07:52:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Man City vs Brentford LIVE: Radio commentary, team news, text updates & stats - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WZnliZDFtN3JxWmxuN2t6Si1UWV91TmVRNkhrMlBFdGRuWk94Y2NadW1BcmlvZFYyU1hBZHhEcHJVSmhrZDVUcmtaZjhlRGkyZnZnYkZNQnFpWnBIOHNHamVvZWY?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Manchester City 3-0 Brentford: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclYtSjczTEpldmNac2hLa3l3NTdUZnhEVGZhYi1ZcWRyNFR1WlNaWHVmMlF1SFRhYXFwakJLRFR5Y2hGSy1pNkRBaW90N05lOGJFeEtfdGNENEY3eExiRDhzY2QxYUt5REFHQlpTR1gzQ0VFdF9JNXBXd3dvZFBOSml0QjFsV2Z6SXBLYmtqOVY0X2IwM0JCSjVYR3FLSlhLNG80?oc=5"
+            "title": "Liverpool 1-1 Chelsea: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkJVNEZfMUJBRHQzSEw2b3J3THB2Qno3ZHhBSlNWWE9HWkZiMjZuaVZoOWFmZlV6ZHNZcERjUWRwQTRGcE90REt4ZEo5bDV0emtkNE9URzNsS3BsYmtJcmk5TzUwbXItTFkxS1VrN3RNN0Rvakc2MGhYb2FhUFl6bVdfc3NkaHRpc3JBcnhtV1VkaktlcnRfeA?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Man City vs Brentford LIVE! Premier League match commentary, updates, team news and score - live on Sky Sports - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNng4cHFoQ2NsSEk1VmVUbk5yU3JxUlphdUFKOFQ3eXBtMDJ2dTVMaVhZRTNRT2RmY2N1azRZQVB6bWhBZG1xMkY5SkN3VHVSV3R6NjV4c0FLMFJsTFlkQzJuUjNmUzVFZ21TTnZpY2NBWGdCSkhYNW5CVm14SF9iRUN5WEQyaENJYlFzeDc2T1p0MU4ybVItejNFN1VSdHFCbkR2aTFyUnVxREdEdWxHS1J0ckl5c0xXTmIxYXZFRW9melJoTS11WUZKM3h3VXZMUWNiUmNCaXpJUk4wbHFkdVAwQm8xek5ua2NoWHJzQ3ZqSnRicDRHTA?oc=5"
-        },
-        {
-            "source": "The Independent",
-            "title": "Man City vs Brentford LIVE: Result and reaction from crucial Premier League clash - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMW1mSDFpVFM5cjJHMDFIOWpZRlpiX3lLWnpaWW5XcTBoRGNsT0k4V19HcXQ1VHRPcUZ3dzRDUUlsMDRzREdROGY2cDI3M2J4YUN0NzV2VjJFdnV4R0loc2lUSkM0c25qNlJvOWVjMGNHNjI2YWV0dGxPd3JrT0h5NVZXRWpvcWFKcGdLN19uRjU4NWpjVlBlWUgxRVprYzVPRk9IRkNjYzVWbkZoV21zaWwwS0h3UkVNR3RPN1FLQ1l4dw?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano: Talks held over last 4-5 months for Liverpool target transfer as Barcelona pounce - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejdhUnhGSXlwU1BFWE1DWUppaTRoSGRwU0Z3aEllM2FJU3N2cTJnTDFNZDNlQUtpblVCYXB5bjFaZFZ6cjJ5UFdBUDBDOG9FTGtKdFFoZ0xiQnlZdGx5d0FDVTl2S2w4anFSdmtIZzJjX2tCbzNYNXFlLXJKY3ZXdGo5b0ZtSVFQMEZPX3V5UUw4MlE0S1dsOUQ2cDJoLWxkS0E5cHJRWHVUUmVwOXd5d05MLUhHSEdHUUVXOVVTdTZ0aWtFUDhhOXAyR2hEQ2laOS10OQ?oc=5"
+            "source": "This Is Anfield",
+            "title": "Chelsea outrun in all 35 Premier League matches – UNTIL they played Liverpool - This Is Anfield",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE5rRklfT0pIM3hqbzgzZndoRGg0c2FXOWVkS0haZWU0RmhYUGpPU1IzN01obVpRZnBNaVZ4YUltenZvOVQ4d05NNkZJdXQ3b2FaRVpoa0EzMXVLZGZnR1hIUS1xMTZLSkFKeXRGbHlCTWk0RnVmb1Q2aUlaVXdEa3Z6NEcya3QyVzdmZTFQa1pWbktJdVkwTTQ5NUJqNWhDSUR2MlQ5WUlYa3dyU2g3VzhLSmg?oc=5"
         },
         {
             "source": "MSN",
             "title": "€180m winger takes official position on joining Arsenal – Fabrizio Romano - MSN",
-            "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQbUdnZF8wZHp4SUJRMkx6aEw2U2I0clFIZ0F6STdFQWVPdkxfdEoxdndDVHJFSy1CVFlmaW1hamhkX3RZblE5QVFjT3l2d2dHNDN5MUxLbjhrcEdqT0gtVExUTHFVcnVFM1BoXzU4WjZTeF8tVVFXaFdxUVFmd1ZuSDNTMGRxQjhTQkRBX0dadEdXRjZYM01kenJ3OWlybGJTOGtaWGpPU0s2MVVFNndQcXJnak5mazFnS0s4Sm0zWHZLbTUyYWZGSE9QelNMdlozdjQyeFJ5V1ZIcDdJXzVkUThPZjZpa1EyUTNkX2VMUzhLNlBEeDgwckdNejU5RWhHSjNlSzNidlBTOEx3Y1RkQVpZZDhJb1ZLQWRhWjlyd2M1ZE9ZQWI3NnFtS0l0OXlmZHYzY2tpdXdaZjhONjVNOVdMeWVONGdCUmtRWXk2YVl5VjdPR0VsRXdxNGlBWEVoMXdMRmV0ODR0Tzhob056ZUNHSmVJUTQ5b0tfSERHYU1ZVHhPWkN4cGMtTDVMWDFUSWUtNG9RdEs0TllSUkRNaTBLVV85N0xiVFE?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNOHZDTFlmZ0ZMRHRadFNySDM3UTJnWkVKdnhVaGlWYkNTUnFVeTBpSjA3UTNQbjF4ZUdTbWpmR29ENUxnY0UtXzhPc1lDb0JCSHJzRXoydnl5MHcxN3RYYU1HaVEtU2xPSUx2YnhRV3NaZUlaX1RqS0NGWGxTSjRfLUZYRXVRYUFtNi1UTVB4RTBhQ2lWSmVHWGlOdGdsOHFPd0UwMUl5ZUlOM0x6U2xBR1lPLVMtYjNiYjJ3Q3NFNnV5VXVXSDlNZXlORUdYUWdjMEUyMXNUd29zVVRYeUJkdnVzSXRmejl5R2IyajJ2VjVBeUE4NHkzc3h5WWN0TkNFME5aMjdSVjkwT1hVLUxadTFDNGR2c3ZtRUYybDZVQ29Idkc3bC0xUHBEUXZ3RGVMOE82S081R3JfVDFJUU1RRHlVdFlvemdoYVVFc09yc2l2dUdUMXpZakgzNHJaejFKZERoODJDNXRmRTgxLXotY0k0Yzl6bzFFQlREZnQ0M2NyVmhtS2JRajF6azVqbUpWT3l3?oc=5"
+        },
+        {
+            "source": "OneFootball",
+            "title": "“Would send a bad message” – Fabrizio Romano provides update on future of €69m Chelsea ace - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlpvSFVZektiU2QxY1NvS1o2bDRHR01vQ3VtMVBOVU1HeWdBVkwtdGllYnoxR1FvMzJ1ZV9nM0V5QXJZY2dNUkFMS0Fjd3JTZUVzTFAycmVxOXlqdEx3RHU2LTdGRWNXZkd0YzFKS0tVNndWbTlQZGJTYXNtZjdVZ19kX01oWmJCcnhrcVdyaDJsbEhaQmdNT2xwbXBNQUFrWW4wc0VubGFlYWxidXM5TUkwem16blZtMlpRbnBydGdCRjVP?oc=5"
+        },
+        {
+            "source": "Football FanCast",
+            "title": "Fabrizio Romano officially names the one midfielder Spurs wanted instead of Gallagher - Football FanCast",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEpTNTdabGEyN3JOX1BCVVBKYjM0LTlvVlROVnE3ZWJ5c09qWUxybU1rOFZqYmNKOUt0RzNJRkttZEY0VTNmWmN2UmJGbUFsTDZEVE0tU0dIVXowWHlGMFRPU192cDlkZl9pb1Qyb1N3bG0zRkZydUNINHctT3U0Qy1Kb3A1dzE0X1lELVBKcU9ZXzl6Ml80dmV1MzF1UDg?oc=5"
         },
         {
             "source": "The New York Times",
@@ -56,9 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3ZITlFESVNKemdteGQ3WGxVUXBOdnJqcUZHR2VUVmVjUTV5dURxczdfaGhwLWxiX3Y2eVRuUW9zRXBNRTBwaVd3blVjdWM0MkhhbEhYbzUyTklQelc2aTNkSDJ0NWgtR3RUMUI2V05KdTU4X3drdVBwTy13S1pETGpWMnpCaHF1NkdjWHNyd0ZCZ1NuWXNiZm1CRERVUllmLVJ6bEJLaVRsZFlCRDNjYjRndURMcVp2T1E?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "1위 하면 1058억 최하위도 53억인 '이 경기' 이달 말이면 결과 나온다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52MkRqME1PUDZ3d1BWa0JLYUlYb1BCb212ZHU5WktJNEV2QXZKT1REcDlWTTZfa0gtbVhab21KOTFGS1FnZUI1WXd4X3I2RGlwaC1N?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "‘3부리그’ 같았던 리버풀, 두 시즌 만에 경질 칼날 꺼낼까…英 매체 “슬롯 감독의 미래는 끝났다” BBC 마저 “열정도 없고 정체성도 없어” 비판 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94Q1dkWHJ5NlFGUEhiYWpMUDRjLTJIVWg0b2QzZmI1enppeTZ1bjdQZDJkSVM0dnNOUFVXcXZKQTFNRXJQTGFwbDFMM3IxWlV0OUlLVGZPaUZBUms2WFJ2R1ZNd09URFc0a2ZaQ244Z9IBc0FVX3lxTFBBMWJLRkFVM3hzMGtSR1NGNlR2YjZmb0hSOXVFdXRya0NUcE1wVzJHNk4zLWloWlJnQkhsUHk1dnZ2ZjhKQURQdjV1QzAzWVZIaFZNUEhNNHBfQXhleTBZWWY0MFZzRWRfQ25jamdWVWUtT3c?oc=5"
+        },
+        {
+            "source": "네이트 스포츠",
+            "title": "바이에른 뮌헨에서 불륜만 저지르고 떠난다…토트넘은 대만족 \"경기력과 인격 모두 훌륭한 선수\" - 네이트 스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KQ0tsR1VSSWx3OVpyaWxPYndZMFpqYjlUcnVBV1NkT2psdUU4aVFBU1llYUdubkc5N1lwVjktRnQ1NjFtb2xWb2NTNWZSaE9ZSzN6aTdQUFcxYkxt?oc=5"
         },
         {
             "source": "매일경제",
@@ -69,11 +79,6 @@
             "source": "v.daum.net",
             "title": "日 미토마, 벌써 손흥민 넘었다…토트넘전 원더골, 3번째 'EPL 이달의 골' 수상→최다 수상 공동 1위로 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIdmNXNzZ6bTAtb3A4V2RjN2N6XzNrNFdWaDJhUzBVWEh5Q0hsZ1hZeTktOGtPS0ROS2QtYVhYSmtiaXVzSXc?oc=5"
-        },
-        {
-            "source": "Chosunbiz",
-            "title": "‘도쿠 미친돌파+홀란 26호골’ 맨시티, 브렌트퍼드 3-0 완파…EPL 우승경쟁 포기 안했다 - 조선비즈 - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdDdUbE93WE05WlBmQ1RkdURNQVY1Q05SN0MtbENMV2pIdjd4ejEyeVdubjZqNHRRaDF5emVpMkFUZmlOamhBYmRtZTNPZmsyUzV5Xy0xVjl3VEptdm9LQ2x1U2dMMWVjb3JKbTFXbUJWRlBEYjAtbFlOWWMyYUpYOXBOTdIBlwFBVV95cUxNQ3pwSW5fTmZfRHQwN0lCVDBQdkJ2M2NOcGxpWTJ1aFNHdGNHZnZRZzgzQ3U4UVNhbDBLa1hkZXhmbWxvS2lfR0lCdkUyVFBqbk1Jdl9UakZYdkREU2pTSHZBMVVjR0R1NnlLdlFIQzd0Z0ZWdFJac3h2b19US2tGZEVLS0QyN3AtLTdyS3VTTTNVUE40dmV3?oc=5"
         },
         {
             "source": "맨시티 홈페이지",
@@ -92,8 +97,8 @@
         },
         {
             "source": "인터풋볼",
-            "title": "이적료 913억+주급 8억인데 프리미어리그에 복귀한다 2월부터 ‘스쿼드 제외’→“떠나고 싶다는 의사 밝혔다” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DQUo3MnhjX1k4YmFLc0hjbzhNaTFmdml6cF9MUHBpZFozNktHQ0ZPZlVTTWxkbzdqV3hFZjAwRXVrWHo1Z3REdndjWkhFd0tCNkFjMG83M2dHR2t5V2pxU3FsZ19jUFF3S0pYTGM4bGl5N2FB?oc=5"
+            "title": "[PL STAR] '아스널 게 섰거라'...'흥민존 장착' 도쿠, 환상 감아차기 득점로 승리 이끌어! 펩 \"완성형 선수 됐다\" 극찬 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kLXZQS2VieHJkWjFzMDk1MVN6V3dCT0tyLURLTjIxVDB2MmhHN2VGMHNqZUdzdnpSQUE1ZWhETV9vVEk2cEhjc1pOSGhCOVJkcmo2d1JoU3AwbmMzaFppZTktV2QwUHpvZjBhQXFhMUhhOFpq?oc=5"
         }
     ],
     "transfers": [
