@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-05-12 22:01:02",
+    "timestamp": "2026-05-12 23:48:21",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Arsenal.com",
+            "title": "Max Dowman wins Premier League home grown award - Arsenal.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHlTMEVmUm9ZRzNWU0R1V1FhRVlsc1hGd1hSUnJsYTJkd1JXSXdVaEc2YWVvZlppVkFERWlDdF8wbWN6eDRZUjJSMHp3UW50dFcyY1pQVERVOTdJa1ZBOGlxd056NkRybFl5UlYwY2htN0V4MU5uU1FRVkFVRHdGY3B3?oc=5"
+        },
+        {
             "source": "Premier League",
             "title": "Match Officials Mic'd Up: Why was West Ham's goal against Arsenal ruled out? - Premier League",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0w1cS1qaXByUTZpaDJqRnlPdFFMT1d2WGwzRjYzc3NOMU9kVUxheHRVNGhjUUdFdDE2c0plTW1jNXhmSGp4OGdKeGVCejRhSmViN3Nmb1BIUnRWV0swZmdERkh3VHVCaG0ycGoyOTA1ZHJtS0dvdXVwa2diNnBRTTdLejl6SXlFZlp6WEFCT19vc1M2bjdsblUyYzQ2bXhsbjF6dFBSZ3Jua0llRWpOUjFuNWdLNmNhUmc?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Premier League set to reject extended powers for VAR next season - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVVYWHpROFJ4ekpManJoRnNiUXlmeVI4aTY5WnV2ajJtdG13eEdBX2ZUZEhrRzg5WDJVTXZqUGI1Wko2TFVpMHNRdmt4RmJ0NjNqaUpYeHFtLUZ0SERnRlNVWFBFVlNlX053NnUxT09WeWJwaVFoTEZqMHA5dzhsZnM3Uk1XZUxxdS1GNlpNVkdZUlQxdjd1VFN3Tk1SUVgxYi1JT0RyNEFBei1Rd0YwT0ZzSQ?oc=5"
-        },
-        {
-            "source": "GlasgowWorld",
-            "title": "Sky Sports clarify major Celtic vs Rangers incident as ex Premier League referee's claim shot down - GlasgowWorld",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcEoxU25ESVNndVJZTl92aVg0a1lleDk2RGRVTk1kNDBVQjhFRXRScW5kYjFxYXl0M09mWXQ0RGduUnJiZkM1ZHI1ZlZFeTA3RlpFRzhSSGpTUHFlV2d0SDRHSklodXFGa0tTSzRuTHRjLTF5dGxzaXRPclF4RUFYUFhIZ2piOC1jS0dsYU5ZZWFFSXJHZS1oNlh1dWtvWGR0WFplc3FWdmQ5SUIzaDlKRk12aUhxdUdFWlc2X3lTTlQ0eld1dTlDMFRWSXB5RTY0WV85WGZZbW95elRsTmVja3g0ZHVNNFF4eElCZ0dn?oc=5"
+            "source": "Sky Sports",
+            "title": "Carra: There are a lot of people who don't want Arsenal to win the league - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPenBGSFc2T1owTmI1WC14SEFCXzB1WnBraXZja1RZUzY0TTZicXdMaTVDd1Jta3J0NWxnWUJONllwemE0SmlmUVFQMl8yMG0tdm9tS2VwWUFNUGZvRmZqSnNCUXp6a2RmY0tmY0ltSlRjbENnR01XNk02MXphbmtvX2Y5VDE2N2VYcC15X1lfVk1BX1RkM3BidnBSb1JpeHVPQVUwZ3hnTnJQNmdvMDQtNWhUWU41SGVHX29PZ2VQbWlmWE5KRGV4ZkZ5NWhmMzNMSVU5WUtUcjNscWRHX05qRjFZVXZERVhzanBVc283anlqc0RxZXA1QjdR?oc=5"
         },
         {
             "source": "MSN",
@@ -32,7 +32,7 @@
         },
         {
             "source": "TEAMtalk",
-            "title": "Romano confirms Man Utd 'set' to receive 'official approval' amid 'agreed' deal TRUTH - TEAMtalk",
+            "title": "Man Utd ‘set’ to receive ‘final green light’ over £38m transfer; Romano reveals verdict on ‘agreed’ deal - TEAMtalk",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3Q3SDFXUm1LZVU5Umk5d3NFSi1PNURSR3dubGgyRi1CQlVEV3FkTWVpd1FKbXRLa1VVeFZuNnlDdFZYeHFOczZHMmMtS0F3QV9PZ2w0cUNPOVJmVmw5Nm9LNWVFblNvNmdEbTFkQ2hyZkxyMV9Ldy1zRUc5cXdkd3p3dGVPOUhnSVVxTHlfbkFUTTd0RDZ2N1V3d25qeUlBcVRKX1JNZEYtSjZ6blUtZlRR?oc=5"
         },
         {
@@ -68,32 +68,17 @@
         {
             "source": "newsis.com",
             "title": "EPL 토트넘, 리즈와 1-1 무승부…2부 강등 확률 18.7% - newsis.com",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxTE5tMXVPWVFCNWZCNU9lSEVzUmE3Y0xfMmE5MjFFbldDT1M0RDZOR2w4by1wblowb3ZxTmtnYmhqcDE3dkJxeUNJNTl6cDZIQVpLYUNaTEhSY3ZYYzBKMtIBeEFVX3lxTFBMcFBUYk52MnRWT2JHOTJua2Y5VUZvaTJvWmt6YldXU0JyWUVVM051ODhFN3g1MlROVkdnZnpfQmNBUXdMQjRDaGZ0MExkQlM2TlR4aE5zRmxGZEoxazg3YV9QN3ZtQ1hHb0huaXdWN19nVTUyQTNLMw?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'영웅에서 나락으로 떨어졌다'…원더골 후 오버헤드킥으로 상대 주장 안면 가격, 토트넘 EPL 잔류 경쟁 지속 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15MVJYclhPTXNqSGVTbHZvTUZXOXUyVUxtQ3l4X3NEVVBoOVUxYmVPZm5rU195Z0s4V1NMV3BQaEZ0V3B0U1lXeERiY284RUU?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxTE5tMXVPWVFCNWZCNU9lSEVzUmE3Y0xfMmE5MjFFbldDT1M0RDZOR2w4by1wblowb3ZxTmtnYmhqcDE3dkJxeUNJNTl6cDZIQVpLYUNaTEhSY3ZYYzBKMg?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "\"정말 힘들었어요\" 375일 만의 복귀, 충격의 손흥민 고별전…영원히 기억될 이 순간, 매디슨이 털어놓은 '찐' 아픔 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckFwbktWcS16VmFIdC1CcVFkdWNYS2F5OVpLTUtKdHNVQm1jNjJoUkRNYnlybFpaR3pScWIxX3V3TU40cVBSV3RsV1ptNmpoMXAyUkZJNk1aX0xEdm5hTUFUVWRfR0V4eEpUWFlacTV6Z016Rmh5VF9rOFd6Wmx2ZVN6U3pfSzI4WURF?oc=5"
+            "title": "\"심판들, VAR에 겁먹어서 소신 판정 못 해\".. 돌아온 매디슨, PK 무산에 분노 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFdubjI2dnl6OXpOU290VnRtRnJ3Sk5HWTBOcm00amFCUnh6Y1NHeUdOd25EM2xpR3ZPdUZ6N3pLTGFid3FOSHk2NUhUV2lCdENEcjBZTHFZMjRMNGo5RVljQktsbm9vVjM2SkxkQnFEajhlaGdjbjRtQ1dYckNvbGdrVEhycENTd3RJ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"정말 끔찍한 경기력이었다\"…전 PL 공격수, 토트넘 '브라질 국대' 스트라이커 맹비난 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oRUliaTltRFo1M2RGSWJrbDJGdWpvTnRvV3JuX0wwRW1uYmhMb1NDZDdpdU1sQkVRSTRtcHMwdEVWUmROMFE?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "돈으로 찍어 누른 유럽 무대…프리미어리그가 '슈퍼리그' 된 이유 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uNVYtaGtCNldJc2UwVTBtMzQ1M3VKZmFFd1hYQTFUNzM3c3VaNFVDSXRmVkFlZ1dXLUkyZURfVC02MVZUbDZHc0daVXJreFMzTFhUckpLYVp2Wlpi?oc=5"
-        },
-        {
-            "source": "이투데이",
-            "title": "토트넘 vs 웨스트햄, 강등 2파전…프리미어리그 순위는? - 이투데이",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zMnNObnpieDV1MDJZeXFCVktqN1RJUDFXZDZOWi1QSmU2YVFWU01yazNfQVNmMEtielFMNzhpNXdJbmpjTUhoXzBNOC1pa1dodnh6RQ?oc=5"
+            "source": "일요신문",
+            "title": "돈으로 찍어 누른 유럽 무대…프리미어리그가 ‘슈퍼리그’ 된 이유 - 일요신문",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XeFYxeHU3VnlpRzJwR0pzZUhVVlowaDF4cEVFTENZMHNaRzM3OUdJUTRQUEV3UGd3YjlNSjdUN1RUUm5qMEZvOGJxTG8zbl9FYWhKaE95TTdsZ09lZ25YU0g3NEJOUQ?oc=5"
         },
         {
             "source": "맨시티 홈페이지",
@@ -101,9 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdE9GMHhHb0tlekMxNm5JM0FOWWQtWlZ6VDZGZDMzamdIOFl3a3JQc1lXX01tSUptUHYzb0N4WWpSUy1xcjVTYk8tSWx6NjZCT2tyc3dEMVBKb2dHRVRvc21UdkJla1p3UkJ0NHVkeDNZY1owRHVCRnRhRGQyQlZQWUg3Sng?oc=5"
         },
         {
-            "source": "데일리안",
-            "title": "‘고마워! 아스날’ 자력 생존 기회 부여잡은 토트넘 - 데일리안",
-            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcGZCeWx4VlhQVUZrem8tUTd4R2hPZE9pczE4TWlsUWlpTEkxY1NKN05QQVZBTTctcV85OU9POVRxaFEyV0d4MHFYZEJnWEJwbUV3dG9rY3Nfbk1GTWVMdmJySXh3S3ZnLXdKVzcwSlg3TzlnNVRRUEVLYVNnLWpBMXVKaEJGdldIVE1EbDNvRXgzeEg5b3FZOWNpcW9vSk5KOHhUci1NRnkyRjhKaTJOSGZvTTBvWDg5NmZsX1MxQXR3LTE4c3pKS2xUeExiX2RMdnlRNTZQek9GTWdEZjZNWGdyOGo4MXJjdE4xWWppbWwzbHJpRUpmSmp1eUxCX05qWk9lM2Z2YUtJb0szbEY1c3E5a0MzRi1P0gGbAkFVX3lxTE9vUXM3WGppT2RrUkFSYmgzTlduRUF0ajR5UHAxeEdMQjlCeWhvTGJBdWNsNWExQmNsZVY2X1prUHlxc0wwUWo5MWY0STRDRUktZ2hfWThZWmp3QlV6VnY5aEpaS2d3LXZwQlFySmYybkFUWHZFOGREQkNXaXpabzVYa0lGdTgwNzJvd2t6a1RRWWdOem9idHdiRHVJc3c1WHhCSjM3UkZNMWxVZkRDRGNxalRDeHhMWWl6TkZWVlBnUWlqX2ttUFBLbkpCU0VjXzlSNzh5X04xenVpWDkxSTd1YU5rQUEwdHE5Q1JyVFRUdW81bHpIYTNfQkpRa0tSRzJQbXZjM3A3bWRyLVQtd0ZlUTVSWGs0UjZzRzA?oc=5"
+            "source": "스포츠동아",
+            "title": "‘극적인 1-0 승리’ 아스날, 더블도 보인다→‘구단 역사상 최전성기’ - 스포츠동아",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xLVNINVVXRXJiUnBjTHptZFVtbGl2T3BfY2QwVUdHR3d4ZWxucUE5bWRLTzh2QlJEREZLTE1BcUtkYkttUF9lZ3UzOHExYzlWeFBabkZzdVp1NENMMTB5MlljVWQ3blR4M3p5dm9VSERGZw?oc=5"
+        },
+        {
+            "source": "osen.co.kr",
+            "title": "'첼시 갈까, 아니면 리버풀 기다릴까'.. '레알 실패' 알론소, 프리미어리그 복귀 저울질 - osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40a09ncDFYRTFfTmN6c09JZ1JsYlUtM0pkR2NpSUZzVU12am9GeVo4dnBhUHFEMl8xMm9NUWxISUJJUzFOLWFMOGw0SXJScFBMandB?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "‘벵거 시절 무패 시즌 넘어섰다’ 아스널 레전드의 극찬 “더블 달성 시 클럽 역사상 최고의 팀” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNTnYwbHU1ZnhlcHNZRUl1VHZHYjByYVNkcmluQUdNXy1BMDFoUm9XNHdfa2Ewc3I5ZEYteVZEd0J6ejgxaUtFX0o1aFp1UHRUTk1VRGZ4NTJObXZqYndZR2J2b3MwSDIwUldhdVJMbWJKZnNP?oc=5"
+        },
+        {
+            "source": "엑스포츠뉴스",
+            "title": "손흥민 고별전서 시즌 OUT→기적같이 복귀…'부주장' 매디슨 \"빛이 보이지 않았던 끔찍한 날, 정신적으로 더 강해져\" - 엑스포츠뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcUZialktSF9udWhZMXRuSE5WMmtCb2dEUWRGcVFtRVlyNUJGM2hnTldrX2VVQWVON1dpYUZwUHNibXpRNUxQaWs0cGsxZlBLWWFXbg?oc=5"
         }
     ],
     "transfers": [
