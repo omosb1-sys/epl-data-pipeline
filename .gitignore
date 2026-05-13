@@ -12,6 +12,18 @@ node_modules/
 # OS
 .DS_Store
 
+# Logs
+*.log
+
+# Matplotlib cache
+.mplconfig/
+
+# Marimo session cache
+__marimo__/
+
+# Git backup directories
+.git_bkup/
+
 # Data & Heavy Folders
 data/
 cache/
