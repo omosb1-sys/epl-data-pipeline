@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-05-15 11:10:35",
+    "timestamp": "2026-05-15 13:23:31",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Three more VAR errors confirmed by Premier League panel - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jRkt5QkxNZkdsdXdfTnZ1Zl83S0M3VXlvd0NvTEttMzNyQ00zNzVIeHBZXzZQazZyTGRDdDV5WGxrUDNYRzRRS1hHb1I0RXFoeUcxejNxaFMzU19lcDNDMnFLSkI1cFk0LWc?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "FA Cup final & Premier League predictions: Chris Sutton v Blossoms and Songer - & AI - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Rmw3Z2JBS0hWRi1BemdWNENlaXZmUmVPR1VGZGh2WEhyeFFpOFk0N0daZEtwX0ZEZ0lySlBYbUlVYlJqbnJWc3F5amo2aWYwTnJDZzlWTkpKbmxwakZydFYxcG80Q2NWb0E?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Premier League and FA Cup final: 10 things to look out for this weekend - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT21qa0I3OFk2ZXRjNF9xX1paT3BwUjFSMTRpeGdJc3Z3bndERjlmQTB6NVhqajBIazdKUDV5TmxGQXNWQ1E2VGRRaDlyVTdSeFBJdVVnS19XdWY3ZEd6Xy03enRwdHRWWVBYMWdhcHdYYnN4bE1sa2N6ZXdla1VFb3dHdjJPYlhGbERzTlJ5eGstamhITGszcWRYUnBPTVVtSi1sWDNud2piU1N3eEYxN0lIbEYxQTZ3cHo4?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Premier League predictions and best bets: Liverpool set for a dirty dozen league defeats at Aston Villa - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV0N2Z0xEcDZ0YlhscXpzQVp2b0k0OWxENkJUUEM0Tm82YVdZa0NNbjZOdjdXa1ItSDZTMG55cVl3WDNWb3RjQkxRWW1uWThnLVE0TkRJenEyTVJsXzVXVFQ1X3NGaHY4YWlYeWxnZmh3OGotdWlZOXlpNHlrZkVhSzFEaV9HN0t0eU5YdGlSUHplZWtzbFpHekNfbGNCWGdLNHZ5b0QzMzItMHE5M3JVa3kzbnRIX2R5ekdpSTQzbkpocGo5UFd2VUhmZzZ2a3dxUkZaN2dKU3lzRTdaaWhsVEY3dXlWZHlPZnRBNnFB?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Aston Villa vs Liverpool - preview, team news, score, match stats, score & text commentary - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4cFBsRkl6X29nQ2ltbDFzRGlyWW42WmZJcTlVeGlYYlNOc0NlOWdscWNodzc4RllzeTBFNlEyTUlOOWFKSEVBSmVTeVhYM0c3ME9XUHd5VEI2NFhic2RheUY2N2I?oc=5"
         },
         {
             "source": "MSN",
@@ -52,18 +52,13 @@
         },
         {
             "source": "Sky Sports",
+            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdE1qcDlSZU1XZEJrM1lLQWYzRTVyQXJqNDdTMkE2QWJvTmdBLUlhRFhtWjFHYzNaRFBFWWVRb0JqR1RGclJ4SHVmb1pfRnJzdHBNa0JBMUl5UHpSeW1zZTE1Y3pJUnI3aGo5RXBldldTZk53R19vQkd5MXFGbzB5SEMxc1Rjb0lEN25rUE81eXotREFnYXZhQWRVQUVkc0FhY0ZRQVVneVdITjE4Zzl4OXJndENTQmFqNG10UmNkdlNSTDE1c1pTVjJpU1NsU2FPdzVRNUdteUpEM2E4d2NsWl85SWF1QlVKZnBhLTZlQWNCNERQVjNB?oc=5"
+        },
+        {
+            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
         },
         {
             "source": "스포탈코리아",
