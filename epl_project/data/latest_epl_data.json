@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-05-15 08:35:21",
+    "timestamp": "2026-05-15 11:10:35",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Three more VAR errors confirmed by Premier League panel - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jRkt5QkxNZkdsdXdfTnZ1Zl83S0M3VXlvd0NvTEttMzNyQ00zNzVIeHBZXzZQazZyTGRDdDV5WGxrUDNYRzRRS1hHb1I0RXFoeUcxejNxaFMzU19lcDNDMnFLSkI1cFk0LWc?oc=5"
+        },
         {
             "source": "BBC",
             "title": "FA Cup final & Premier League predictions: Chris Sutton v Blossoms and Songer - & AI - BBC",
@@ -16,14 +21,9 @@
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT21qa0I3OFk2ZXRjNF9xX1paT3BwUjFSMTRpeGdJc3Z3bndERjlmQTB6NVhqajBIazdKUDV5TmxGQXNWQ1E2VGRRaDlyVTdSeFBJdVVnS19XdWY3ZEd6Xy03enRwdHRWWVBYMWdhcHdYYnN4bE1sa2N6ZXdla1VFb3dHdjJPYlhGbERzTlJ5eGstamhITGszcWRYUnBPTVVtSi1sWDNud2piU1N3eEYxN0lIbEYxQTZ3cHo4?oc=5"
         },
         {
-            "source": "Metro.co.uk",
-            "title": "Alan Shearer's Premier League and FA Cup final predictions - Chelsea or Man City? - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHM1UE9aUjZVRWJTOGtlU3ZTSzY4V2dMelhrMkJTemNLQlpYOXMxbmFZUllkdmZvNlR4bURwQVhMYUVvRjVtUC15dW1rZ2k2Um9fMjV1Rmc5WVpMMzlNQ2dDdDVvWmhPbWlpa2k3UWl6U1dvcmU1UlVhTXpPS2dRLXhFNEp3WllCc2JMRVExTWszbHBKNm9QTHI0Q1ZIbW1IdmFQRXljaGFTZ3ZCRTFBN9IBtgFBVV95cUxNRHRxcUpGMjJBRm4wS0lmUjZpUV82VkVyQWM1VGpTUFJ1aGpsNmJqdkRRQUdlbmNZbC1fN3JKaC1BOWFsUjNUN2ZHaUhXOTZYSS1hc0Jrd0dRZjdSbktaZGpGUDZGQmkzeThYWUVzMjZDamtHY2lka0ktRjk5THMzWkNUZ0s5dm5UV0pQeGl3eW93Z3RYZmZmZjQxUUI0cEZ0X010ZzlKdW8xYkQtVFctUE5vZWgzQQ?oc=5"
-        },
-        {
             "source": "MSN",
             "title": "€180m winger takes official position on joining Arsenal – Fabrizio Romano - MSN",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNm5td291QXZYaWJlb1pfZFNQRFhqekJpQmNXd0xRUlZaZkRpVmJtTGRta1NsRTQ3RHNkNlZ2WlBvRl9MMjJfb1FnZklvZzJvOXg0TlVTV0EyeVlxejNvek9IUHd4MV9TQUI0Ny1yYy1CLUZmRjZjNXRCVUpzSVJpblliSGFvb0JOZ2ktc194VHFDaFZTTjJ4ZnhXN0xGVDJ2RzkzS1lnZ241WE96bERqVThOV2Utd3FOY0dwZFlvUTZ5dUlIcktReUtBWFdPX01OMk50UlI3ei1HcFplMUkwSlB0Z2o1emktdDB1YnM1cVVBXy01OGxSRnE2UERlVlIx?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ3lCaFRKWUI2SGhMM21vTlR3d2htSmJiTU8zc0Y2RVRuaV9SNlptMU8zenl1dlR3SVZRZkNvZk9RYmEyQjdYeWlGemMtNGhGc09tTTBTMGx5Mmt3cl9RRG9nMU5OLTNIakVJUEl3SlNIX1UyaG5qeUlKSWFkel9WUXZKMGV3dzI3UlRvMUJBZkdGSjNHWVJpTUxWTUlwYjVMZk5LRGFfWW9fTTMzQnVEZDVYY2JYRnd2dlVsV3g1X0ZxN0NGSndOMTN6eHpySlI3VU9vM3U4U0ZXcDN2ZDNaeHVCNzBBTkhiamZlWTAtMGgweE1zVzhXVnQ2WHRSTWQ4bkE2T1BEcnhpUEo3My1MLTZHZU4xVTg?oc=5"
         },
         {
             "source": "TEAMtalk",
@@ -32,8 +32,8 @@
         },
         {
             "source": "OneFootball",
-            "title": "“Another name we have to watch” – Fabrizio Romano drops interesting hint as Chelsea look for new manager - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbm90eDZHR2NGZkNRUl9jTG5NdEJmUzFPb3NSY2JfSzNFMlJmXzFBX2FNNmtTUk9LX2lZT3RYSldZUUlkQW1qYnJzcVdsc0p6dEFCbFBDT1JFaHJscjVGMW5hYXUwOFgzTENUODNPeExIUEhzVnV3eHh5WlNrWDM5Ulg4THJ6cWNZcFRjVHJ2LWRteWhGYjlLQnlZaEpyejdIZDh6a2tsd0VpTFJqZnBnUGNDekRPLXJPbjlSRnRqcmwwSlRNams1cDdCRVp4c2lRcVVBa1VLbUhQTDk0Q3c?oc=5"
+            "title": "“Liam Rosenior and the club” – Fabrizio Romano reveals why Marc Cucurella wasn’t sanctioned by Chelsea - OneFootball",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLWViZThEODk5NUtCTGtMQzZJc0tVYVE0aWdZNEVVM1hrMXpaaUhZdkhsNDZBX2JodTVOb2o1aV91T1NjSVIxa0xzWndzXzVzNC1GSk93M0hkQk9kZ1ozNXlYcFdEdU1qT2c4YjJuMGQ0a2ZaOEJNbF94QTRJTzJiN2J6TFZpWDZhTE9aczJqWmFtdDdwMW1BOF9vMVY1RzJqa0Yxcm1mREdmdWxQZzdZZXp5cGZGZjdqNTNNdzhkUG5Pb0FTbDd2eVZ0LTVnOHhHWnpTOQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -76,9 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wdkxkUEFCSHFGRGh5OUdnY0NVVFAtSHZWOHJSR2xoZmZPRU1wZ3VVT29qQWEwYkpEUHVxUXhOZnQ0dy0yZU9GaVZPczhkYmI1RnBKNWpydDdad1A2?oc=5"
         },
         {
-            "source": "mydaily.co.kr",
-            "title": "`울버햄튼 강등됐지만 EPL 활약 지속 가능`…풀럼, 황희찬 영입 위해 접촉 - mydaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5NW1oZ0lsc2dJTC15eHJ3WVAtUWxPMG9kR25LWjdMRDlfWGVyTVZTU2d6b2tCQlFIR1l2dkZfcHVyQjlxVzB5SEItTGdpVFpjcnlDQ0w5M3dock9Ia0FkUw?oc=5"
+            "source": "미디어펜",
+            "title": "황희찬 울버햄튼 강등에도 프리미어리거로 남는다…\"EPL 2팀 황희찬 영입 관심\" 보도 - 미디어펜",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1UzlWRTVDWkpRYTE3cjBra2NNbl9iQ25aYU1HeTYxN0JCa3NucDFSV2hGQ25qZ1dfQ0I2OVdVSkZCUEZqQ3lveWdtRURlYnI1YXU1NdIBWEFVX3lxTE5SelQ4Nl84TGlNbmljdVMzeS10TmhRSVNjaUM0SXdKZFExTkJDY3pjYS05TWhJblRabXJsNUM5MUoxVy1BcFV3blJLUC01WVhsSldXVDRvZWU?oc=5"
         },
         {
             "source": "네이트 스포츠",
@@ -86,24 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8weWpfRGRTaXhxRXZ3aUNDd1RiVXJPY1pTenBzQV81ZkllRm5uYllCYTZkX3dJbDVwTEpfZTRCTzJ3STV3ZUVDUFhscWI5TXFhTElrTkJqNWdBbXd4?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "[오피셜] ‘맨유 정식 감독 추진’ 마이클 캐릭, 프리미어리그 올해의 감독상 최종 후보 ‘확정’ - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KQkZENU1KU3IxUzFIWUxESWhJa20xazNGNG9ESkV5SmpaSFJFOTJydGt0UnRLWko0R2xuRFZ5QjFnMUxJTWc?oc=5"
+        },
+        {
             "source": "네이트 스포츠",
             "title": "대행으로 단 '15경기' 이끈 캐릭, 수상 가능할까?…EPL 올해의 감독 후보 6인 공개 - 네이트 스포츠",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mRUdxVk80bWVRRTFxUHZrcGNyMzVvSzhHRzNvWEpRbnM1ejdCNHNoMTBLRlRCcWxRaHJaREpTY3hmQmVvOGFyYkJtMGdzQTJxUEl2dkR0NDZET0tC?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"추락하던 맨유, 멱살 잡고 하드캐리\" 캐릭, 정식 감독 승격 눈앞... EPL 감독상 후보도 올랐다 \"펩·아르테타 나와\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DeDlSTnFkamhlTEVYV1BLMUdFTUR3U1lmX1dWSWhmbjgzUndBUGxJdkpHQnlGblhVeGpDcm1hcXhydE1vWEE?oc=5"
+            "source": "네이트",
+            "title": "'19도움 페르난데스vs아스널 트리오' PL 올해의 선수 후보 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN19Oc1RwMUh2OHpQb1Etc2VyTXJvSlFkc18tSmE3QU5yNGx1WVlwaVBLcmFlOE5xckJRNFZaY1R2bXhyRERyM2VTNGNnMzdsN3lFRFJTZzBUN2hpMUVYRXlTVE5JcDF0UklPZnQ0X0NxMDNkNElmeGdzdk8xaWRFMktR?oc=5"
         },
         {
             "source": "맨시티 홈페이지",
             "title": "포든, 프리미어리그 통산 100번째 공격 포인트 달성 - 맨시티 홈페이지",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3JZT19hUXZmd3NmTDB1cEZWYndPLVJIUVprT0dZSnBJYlZJdzQ5TnRJdzVSQ2w0LTZjYW1KcTlOYXlhVlpZbkxxLWR2TnRkblVzSUZxODZUeTFlc1F4RjlVeDBXdGJJVFZ5T3Bla3hfX3FiRDVpc2w1a3E2cWNJazY0TWtJTDZOMXEwWHpTQ0Q3eE0?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'EPL에서 검증된 공격수, 강등팀 할인에 영입 가능'…'한국인 프리미어리거 전멸 막는다' 황희찬 EPL 클럽 영입설 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DNDdfUTQ0UzNTT1luWklkVlZIWVJWSlVoVmMweGI0aDV2M3paZXBmM3NJaW9sbEJnMjQ2YnZHVkJjc09zTlE?oc=5"
         }
     ],
     "transfers": [
