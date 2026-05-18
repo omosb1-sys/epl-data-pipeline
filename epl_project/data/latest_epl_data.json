@@ -1,24 +1,29 @@
 {
-    "timestamp": "2026-05-18 19:20:45",
+    "timestamp": "2026-05-18 20:59:41",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Arsenal vs Burnley LIVE: Premier League score, team news, radio commentary & updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40N2lXSWdBbkJwZmZjdDFyR1c1QUZBSFkxZFBTYmlBbW5WNno0Q3ZteWhhaFVqQmhndTRNWE8yNERqelFBTUdEMENKWVBkcjQzOWJlMWdOS0ZLRmZuX3ozbmRHajI?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "Arsenal v Burnley LIVE: Score and latest updates from crunch Premier League clash - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWldCTWRHT3NsZFVhSXlsd3o1WEhoRDRZUG5MdkNMYzdzM29JR1Q0c2xHU0JnUGpMUUkzb0xjSWlFNEFSeFlFdncxMFBzWWw5RkhEWHBya1o5QW5CdXkwaExCZklyWHBCczNJS2d6N2Flc2JUaUhHSGxUMThya003WFlpQW9jY0ljVU9YNXpuRGNpajZMQnFuQmlBMVVLek5OdlR3NjJ2M3FGcnM?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Arsenal v Burnley: Premier League – live - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlk5SHZMcFppblVnSGxoNU5RZHVIZUlZYml0QzZEM0hHRDI1UHpqWHk0RWI2S3Bac3ctZF93UHBpTUJRLVVBdWQ3d09xZVUxRE1rQlctbDM2YU5RSC1BUWQyRTFXVFlPYmtlTDhVYW8wcEtta1loeUc2SnJfZmtLTUZTOU5NaURXMHJ6RXlrUWRhb05RV0E?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Newcastle 3-1 West Ham | Premier League highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGNJNnpNN1VUMGdVSGliVXpUZFoyLXVaVXVsNk53bVNrU2J2SzlBcXdpeURWdDVHemkxTjZBN2F2aEQzMklPZVhLSlY4WjVHbmx1OTdSSFZMMGlPZ2xiMHdNUi1Vb3EyOW9CVzI5Rm9tYXNRejV2MFE1dDQ2ZS1ycXNOMTJWNXpnOUpNREZsY2RkSFRyOFgzQld6RHM5MHd2MHN6dnNwcw?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League LIVE: Build-up, team news, score and live text updates - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIZm9ZQktwTUw5ci16ak1ZQWtNdGg2UjJDWnpPVEhOSkJBT2QybU9nNG9nRTI2cno2UTBuR0pRY3Y5cnNXNmRnTkQ3TDdBaDJLdkFieUN6U1h1RkdnZ1JuSDNrcXk?oc=5"
+            "source": "United In Focus",
+            "title": "Fabrizio Romano claims another contract signing 'done' at Man Utd to accompany Carrick, he's 'crucial' - United In Focus",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjBpYUp2TEYzeXVMc3NIMWU2MlF3YXEtalZyMTZObHVBVnV1NXpDQnRaalMxcml4OHVLemhnOWhRbURseWdDekNHNThqbWQ3amJfTk55czNQQU51cUpzZVBGbnowWWdQZ2t3bDdoNy0xck9YektFUFczVkowSG5DbS1qR3NPY0F1bDhYZXJKdmU4M2I4b24wNi1FZ2RGdVBWX3pabDdaSGZ1OWNySHg5UzFJdTI5TlIwUDdDaVBHTy1BU05xY1AxakhONzM?oc=5"
         },
         {
             "source": "MSN",
@@ -31,19 +36,14 @@
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHVoVGJRVkg3NGk5MEF5cHdpV0k3MmYzbF96R2xRaW5tclBjY0c2Y1U1XzBvSEpCTWgyaVBVU1FUWlZPUzhxazJzUXRXOS1MbDdoR0Jqb1lOQlVyV3ZxUFdWWG1pR211UXhtb2Y5Tk5fTDBUd0Nia1NEYURLYm5EUG8wbXJXZk1UR2JobGRPUzQ5aFE?oc=5"
         },
         {
-            "source": "OneFootball",
-            "title": "“They offered him” – Fabrizio Romano provides big update on Chelsea target Andoni Iraola - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS0RQZmluejF3UllsUlFHYTlkb1ZQalhQYnFZZFhEMktaM051RGpIODdOa2M2ZFpyaFROSDJqc3NUMG1kbUh0MGNkYl9pRS1ha1REUGV4WWhaSU1UMUtSUVVyQ2ROYkc3MVBmM0JGalhhb3JmMVNDWE5qVnBOVjZTdzg2U09qOEhSNG9MVWZNdFFKSXNLYkhJMndqVDgwb2VfZy1RWTRvZnNyTHdsenpac21oVWlYQ2NHd1dWWnk0NHNDQ1k?oc=5"
+            "source": "The New York Times",
+            "title": "Pep Guardiola to leave Manchester City this summer, Enzo Maresca expected as successor - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHpSZXU1akhIOVlIamViVE0ySm1McFRqWms4eTlNaHU0WDlCekNfU3NVcl85bnVVZi1DWXRwQUpTVDlSVk8wX19nRGRzYmdtNTdhbjY3S0c0MFFfTlNfTklLbjlyQndUazVacmNKQVdBQUJRVnMzZXdqdF85bXBpck9Vb3FsNEI3NXpRTS12VXVUbUt3eHJCaGoyT0FKUGs?oc=5"
         },
         {
             "source": "The New York Times",
             "title": "Nottingham Forest plan to hand Vitor Pereira new long-term contract - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDhVbk1ZN1JaYkltWXJyaTh0UFNoRkZITUtZRkdlTm1PMk8wOS1jNXRkMENYMGZ0MzhWekdzZ1gtREFZRDQ5MEJhUk90WWJUWEdVM00zZmlPZWJxeVNkZ2RfN3lZZm55T3lvYThuU1FjRUlpYmdWTnByWVNQSE1WWm02eVQ2ZTZSdndPMTlvYktWcjd4YnZ3YQ?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Manchester United reach broad agreement with Michael Carrick for permanent head coach role - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3UwTzdweDMwcVpId0xmY0pDcVR0NlBhRzVZTlVlT1U3OU40ckZNcmN5bVNKUVM2bzN1TDlTVkZQcGVRYi14M01RcmloYlB5dnJQOWU5SmI5dW44QktmR09FcldPa25LX1lRUTJHTlE4NktpeE9YYmYzaERNUjZwU0otT2ZYVXk3TXBFeUoyM1d2RXV4V01GT3cxUzBmQ1JDUDJhMzNCUkY4Ymg5emQxaTNadG4?oc=5"
         },
         {
             "source": "Yardbarker",
@@ -52,13 +52,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSXNxZ25falpWSDNKdUY4YWFUaHF3SHJ5bUFGVkNGNnByWU96dmg3a3A5cnhXRjhZWjQ2REtKN3FyVFc3b3dqTmVXVnhWQmowX2h3NnExcXJIV3ZuelhRR3Y4OGdiRVk1Z1ZDVGIteGIwSjFMTjVZNmVkZm43ZmJBYS11YXN5djRxYlNiZ3g3YXRZc3g5V1FzSmdSZFZhbElKX2kxdnpQM29IX3Fld2FVZWxRbkJtN1JwTmNneTJQdk1sTk9FdzgxUjJYWGRGUkpKdV91UTFIWEZpTmszTVdFams4dXNMOHA1MmFlZDY0eEZGZVBNTWNF?oc=5"
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Pep Guardiola: Man City manager's Etihad future remains uncertain ahead of decisive week in Premier League title race - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTGVuWFlXZmhJaTBnTnlSLTVRVlVDd1ByeDMzckl4enYwWEFJZkNqNjZPTEZ6eVJudk9ZQ1M4LVNlNTlKU2FDNk1yOTZ1WVAxYm95b2RBbF8yemtNNmJlN2xodHBQbDk2VWw2WDVrU1N1aHJMRnpiak5Oc2YzT3lmQ3NvWXNiTVdzd1hRNWRaMHNpRmFhWV9nNnRUS2hGU2xWZnZwampURnVSY3hBYjJENlVFQzJsMm9CcEotY1RiNExtNUsySllUY2UyV3FaUlRhRzluR2QtaG9ySTRDeE1HT0JqWGRJN3BERFkwY284eHgyMkFyYUtyUE8tb3lFQ0U?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "이투데이",
