@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-05-20 10:15:49",
+    "timestamp": "2026-05-20 13:27:52",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Arsenal win the Premier League - how the Gunners celebrated title win - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jdng2S2IxNDNqbzhLcVFrc2oyRTlBSjJMaVQ3OF9VMHZVTjN4VnkxQ09RWW5oTHZuakxlU0RqZ1kzak1sbC1GQkU2bnV6eURRYmJJaTZDaDRWV3J5aEgyelN5cl9wTjQ?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Chelsea 2-1 Tottenham: Premier League survival fight goes to final day – as it happened - The Guardian",
@@ -14,11 +19,6 @@
             "source": "BBC",
             "title": "Tottenham relegation fight: Fine margins leave Spurs fighting for survival on final day - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Yd2RhTGRyRmZwZkJQVVRtX3NTMHZrYjRjV2MzbHpOZzZWZlJsbTFMUG1jLV9lN19KMW9fNk9ZUVB0MTF6cWpWSFowSFZydkV5bDRUUXN2ZXpQVHkyMkJuMmxndWViaFk?oc=5"
-        },
-        {
-            "source": "The Independent",
-            "title": "Chelsea vs Tottenham LIVE: Result and reaction after Spurs fail to seal survival - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHluQWd3STBQdmdaSlp1Wjl1SlJFUFQtTHJ2aUVlVFI1UVZ6S1cwbF9abEMxVjNQMmRMOWZDaHpITnlmcWs0bTR3UW4yX1p3MVk4MHgwQ3BlMGJFNzk0aUZCcE80bWt3dkdGQ0ZRRjdrLWF4cEtWb2Q5OG1YU05zUlMwdGtUTmtudVJDdDE0T05QakZuWGhGeEhBbF9hRjl0SUdBempiS2ozWm9NT1ZBdUN5dUx4eTgtVXc?oc=5"
         },
         {
             "source": "Football365",
@@ -53,37 +53,12 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaGhIVGI4NE5oZzJMdV9BaXhvNzl2UzVDbWFUQm1KZHZ2TTg4Zm9Fb3owNklBYWNXQjY1endmYVNoY1ZmbERMbk81SHZ5WmRrTzZxTFE2YUxZOEZVcGZZTDZVUjhPM1lOZlllZUMtbWVOd3RXZEFnZGthakljcldIbTBGMk1mdTdOay16RFkzOEV4Vkh2cDd1T2xXUU43bnVnSDFXNzJtNlFLT2ZEcTVySlIzNmJvTy1Wb0ZiQWJfVHhRanl3bnNuY2t6dldvRk43eVROSUhBdGF4TEhCUDBWNkxwMUp0Z2V2VmpEMjhsTjltSlBncllz?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGtXYmdWVTJpeDU5NnZIWngyMlNtYmdSWDJfV1pTNlhFeU1NTGdoaFdLOUF1ODhGODZXWklCR2hhNy1IVm9mT2pHM2RxdUE4XzZjLWpUT0tyZ3J3R1Y1c3RaYTd2X3dxRnE3cEZWZ0JvLUVMdzBZc3g4UnMxY095c0VNUGczbEo4dVhPZ0szeDdIdXpNbk1tNkM0c3dYYk5ld2pZUG01N3dWZVdCdTZmSlRySEN3VzFERWZlRWhVTDNhSGloaGZUTGVTWXlLR1hEWFBXTksyV3VnVGlQZlZ3REFSSGNRVXBIUWZ2N2hSYkJ6NVpqS3dnbUhR?oc=5"
-        },
-        {
-            "source": "Vietnam.vn",
-            "title": "번리의 강등에도 불구하고 그들이 벌어들인 돈은 바르셀로나의 우승보다 더 많았다. - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVE1SY25JandTQkhhUkJMMHI5Uno5azBiejhRdEpTdTZ5RU1HTzZQUGFCNDJvcVEyekRaWlhURjlDRFpYZHhKck5oZ0hyMlJNSE45MU9ibk9UbDJGM2liQjJ4VnAxRVlfSWxWZ2dfS3Q1MFJiVzFmdVNxOUNtVFFaOVB6ZVE3R0YzMDE0VHlqbw?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "韓축구 희소식! \"EPL 복수 구단 설영우 주목\"…다음 시즌 '유일한 코리안 프리미어리거' 탄생하나 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoT2tueEFzZW9CZ3c5RzMzb3NLaVJBWV93MXpKM3MyUThCSGUzRzh4WEYyUjZKME5ta09aaGxiXzdMcS1XLVdrclliN2Z5YWlNelU3aDZGUk9mN1lYVU9GaW5kOHZxUk5qcTNDMjlRX0s4OEVLaDFEQQ?oc=5"
-        },
-        {
-            "source": "네이트 스포츠",
-            "title": "[오피셜] '22년 걸렸다' 아스널 'PL 우승 확정' 통산 14회 英 1부 리그 정상! 맨시티, 본머스전 1-1 무→2위로 마무리 - 네이트 스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WbjdNbzcxWHBMZG1hMHhheUFlRlZtS2lDUnR1Z1JIWklNZnMzVFVZcm9GQjZmdFFfQTFqY3RJcUg3dVo5d081azA2eGxXTnJIV0taeXVVLWNCbUlY?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "‘127년 걸렸다!’ 아스널 우승에 묻힌 ‘초대형’ 낭보, 맨시티 우승 가로막고 ‘유럽대항전 진출권’ 확보→구단 역사 첫 대업적 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mTHNZQ0Znc3VIUWJaRDhzU2IxaWFXdzkwd3drSnR4RG9rS1lfTElBNjVmN25zSWtmNko0LVQ5OHdNd3ZSeFE?oc=5"
+            "title": "When does the 2026/27 Premier League season start? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcm5Bb1pSb0tmSTVxQ09EM1Rud1lMZGhTMU92UThUakhGeHlVX05CcUR0Rzd6MzU0TlpNeUE5ZGN2OTFIcHlOQmRxOUc4RXd1V2Nzb3ZFTjdOQldRT2JHS2tvNlR2SjExanpMSFBVdktiWnZQQnVYYllEa0lPVWd2Y2E2T1ZJN0ZlOG9seDdZOW1KS19uOWtKSjlJV1hpdzh0em9lNXRrdjRxQ1E4clowRWs5Vk1lTE9yN1YxcTFBaE1MNDE4WF9xQk9vRnpENEtVNWZidkd1SWJIN3hzc1pHOXExQXlJX0phNjJRMl9WcXdwdw?oc=5"
         },
         {
             "source": "이투데이",
@@ -91,9 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMblJOV0lrSUk0a2wxelg2RXlDanRYZ3BqMGdFUWlXajM5aFZFNXZxWWlfTTIwYkJmLUtOeDdEeGFVZFJqbHd2SjcwOTY2NmtNa0hPbQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "‘벼랑 끝 몰린 토트넘’ 데 제르비 “강등결정전, 유로파리그 결승전보다 중요하다” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wVkVEQnhJUE5ENU44MmptTWlvdk80OGZrYkxYVXI4dzUtemdlOFVvT3hvQXRLUkZSU0gtaXM2T1hFX1NuQ0E?oc=5"
+            "source": "조선일보",
+            "title": "'경축, 아스널 겹경사' 2009년생 맥스 다우먼, EPL '16세139일' 최연소 우승 기록 경신..필 포든의 종전 기록 1년 이상 앞당겼다 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLThSM0dIWUJ3RUJnSUJ3Q2ZvX2hqamE5eG5GSzZHSk5SN24temo4QU9Jd0J6ZjJnLTVQZlIwMEY1TTFiYk1RRlNhQXhFVVNVdEZXQTd4SkJ4RUZVTW1Jc2dOMGZzTXNoVWVJaEZLOXJzNHVBMFFlZ2VPUnJkOEZscmI4akZ0bXp2ZWJn?oc=5"
+        },
+        {
+            "source": "MBC 뉴스",
+            "title": "아스널, 22년 만에 프리미어리그 정상‥맨시티 준우승 - MBC 뉴스",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcV83REdXNXkwVXl2TllOOW5BVmdYVWZ1YXM3UnZUdHprNzNVSmJXSmpJVVRTYTZOLTZRN0dzeldXaGhoQ2d1S2Y4STZjTHhtRXdtWW9wLS1mZGwyZGI3N1Z4a3NmNXNzQWw5SVpTTlV6d3FaZ1HSAXZBVV95cUxOcmhRUFRuTXNUNG9CZlQycU5qaFd2NG1nTHdTdHoydFo5MGZMMlNzMEtGYTE2eS1feWo3Y1FtdURBOTZTTURUS3JLSExPS2lta2pkTDRraGVZZU90MjcwQUQ0Q3FZVldMQVZTTzlZdkVsWWhCcVhn?oc=5"
         },
         {
             "source": "네이트",
@@ -101,9 +81,24 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEZLb0V4Zml1Q1RnemNBQXlCVFlBeVpIa0c1LWJUVDlSSDZZVXZEdXVNaHJENmFyUUUxMlhWNHgyQ3ltMHNUS2FhUk82czJkRkhYMjlIbl9STkNSMGxoTlAyTHF5ZXpFR0h6WVNtQjdodXZBcUhwaUJRai1MRWhTNWZB?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "'손흥민 응원' \"쓰레기 FC\" 오하라 폭언, \"챔피언십 가야 한다\" 토트넘 향한 레전드 분노 폭발 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0xJR0xBQ3lWSEd6VG9FUS1yQTF5RGpQaUYzcElLZ3ZUd2xxRVZPdndVTzlyZXZpQzVqQXVPQ05hLVMwTlRJMWVfTkJRMEIwVmZ4Z0d1U3Z2R1c4MElxMF9OQktlNVZIWktoZjNURDU1UnNVTXE2anFCUGxaY1dxLTZzTFF5T2xaRUpN?oc=5"
+            "source": "v.daum.net",
+            "title": "\"강등 당하는 것이 더 낫다, 토트넘은 EPL 수준 미달\"…토트넘 출신 해설가 폭언 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BRFotNlJnaEdRYlJCY3kycXNnMDU3Q1JsWVV6S05DajVvRUU5WVF5SXI0REk3WlgzT05SZHM0SU50ejNFMlE?oc=5"
+        },
+        {
+            "source": "이투데이",
+            "title": "토트넘 잔류 확정 불발…프리미어리그 순위는? - 이투데이",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nSjBKNzExV2lfalZTWHVNREd0OGVQMVgtbEV0dGRLc2hfTnRpMmxZSUhlcXEwSE1KZnhGVDBKQldqTnJiMmsxc08tQmdvWjhXRXNrVQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "韓 최초 10대 프리미어리거 나오나…박승수, 뉴캐슬 1군 합류 포착 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RZzAzUkRYbjUta25nNGdKdlJuZVhMRElaamIxWU1YMzR0cjAtRlZ5UUpzZmE5RDBRa0dCSmgzczVEOEotX1FnSExZRlp1cW8?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "韓축구 희소식! \"EPL 복수 구단 설영우 주목\"…다음 시즌 '유일한 코리안 프리미어리거' 탄생하나 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZi1NZWdFWGJsX3FQaENqMElLU1ZYcGhfQXEzUDNxRjMtMmZhdTUtVVB6enJXbzhQOEthYjZQVzBRbjFNUlJoX3dYTjBJY1pRZWlOR1B0c1FwTkU3OFRfYXRWR3pMN2E5V1pnZU1hazdxVU53bTZ1d1ZJaHpJWnZjbDl3?oc=5"
         }
     ],
     "transfers": [
