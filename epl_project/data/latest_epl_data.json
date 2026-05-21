@@ -1,24 +1,29 @@
 {
-    "timestamp": "2026-05-21 22:08:52",
+    "timestamp": "2026-05-21 23:48:13",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Mikel Arteta: Arsenal manager questioned whether he was good enough to deliver a major trophy - now he's a Premier League champion - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUnRraTl2M0t6YUtONThudVlkUDdnVjU4VlpFRFU4ODRTa0RnRlpTTzFtbDVYYVFBZU1obWg3ZElhc1NXMVJmdGVqaUJWWmZCMXpxUGwtWTNST1pFek95UTBKcWNUOHpzWDdfM2tPVTR5emhNeUFwaGxZamNiUThNQ0J4M0w4enlqdzBjb2Fjakp3WFkzOVhLM3g0VGVJNWxfWUpncU53WUs5VE90Vmd6ZnJLNDdDaXZjN2R1enVyUlNGWDR3MEhHTGhDZV9WUm5RWkgyc3NqSDRidWtzYUpHQng1UkpXekFKU3JmeEF4SUR3dHFXRkNfX2JwWGZ1WmEtaFFEeUFaX0oxSUlMT2c?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Premier League predictions and best bets: David Moyes to save West Ham again, by relegating Spurs - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmtkbm02QUpUbUVyejRNaHpGN3F6bVFUNFVIeG1UTnp4NENmT2R5SEw0ZHRUTFM1cUpRTThSNlpEaEhocmZQb0R5WE5NM19IM0kzMFlsYzN4ZjFjUExvU3BmS25vNGE4UzlxWFRZWkQxQjVCbUNCY3pfd0xsSUFSZmlIclJWYk5jMGxnVkRRN0I0OGl3dVRBZTVOWVA0MEdORVlYOXRKU2ViYUlrTUVtQ0NxaExrcWd0S3NUTllsT3NrdDJUWmVNelZSa3ZQY2I3cUk0c0VMdUZseE5GOG1nWDJfR3A?oc=5"
+            "source": "The Guardian",
+            "title": "The 10 numbers that sum up how Arsenal won the Premier League - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaC0tUENFQlFCc0kxR2k2NXgwVU9sLTVQR0ZZMDJDeTdxMlV0MzRoTnFrRmhzSU5JTXdLYmlfbDR6Y29ZbGtIYVMwTGRpMmw1MjA2dnhnUy1TeFp6X0NGSWlZbGlyUkhFVDZGOFhpSXpjdENjZEk5eWRHUzcyb2hDYUlNR1JlR194QmNQTGpFQU9zaXE3?oc=5"
         },
         {
             "source": "BBC",
             "title": "Premier League Darts 2026 results: Stephen Bunting beats Luke Humphries in Sheffield - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xRVFqNFN0X2xuaG1rYzVlc1JDZDZfTEhHTl9OWlJzUkVNMGZvSFVXRGtFbzVUZFBvSEZwREttaWJuR3l6RFNZQlFLMHB1NnRTRU1DVS1TWWZsWFRuNUJZTmlkVFBRdw?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Tottenham Hotspur vs Everton: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVzFuZU5DeWgwYzhVT3JjMlg4VVAyWUZodm1Cb2xBNXZ2MklsV28zc3ZqOEZCdkQ0QUZBdFhPTHhhY2xOM3NNRWRnM05DeC1NMGYybmNBWmY4Znh6a3FxTzdqQzQ?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Fabrizio Romano says midfielder ‘wants to be at Real Madrid’ not Man Utd - Football365",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjhqSFo2QnB2QkJaVndJbkZGeldVV1VZQ3cyVXlGWkR5MDJoWEVKb0dpZ1JfdmRQWENoV2NnVzJvS1JqUklYTUNMOTFkalNmTEJqZnluQUhpOVdMNVZZQUFaRmw3bTdjTEpjWjBYcmdkZVRScktMSHhTTjBjcUlJeXk5SVJrdmZjeTdUcW8wdnZMU1AxQTRqY0RjSFVYdGMzdTdYTm53?oc=5"
         },
         {
             "source": "OneFootball",
@@ -31,24 +36,19 @@
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
-            "source": "DaveOCKOP",
-            "title": "Fabrizio Romano provides Rafael Leao update amid Liverpool links - DaveOCKOP",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTlzeDN4UlAwRlRJZ0R4ZjFFSkZIWjVzdnJJUDZGTTdSRmYtWHpQWFVyMVRfdFdvUjVKSjFIU2FJeC1tLTlxQ0R2SmRueXBOTndPNUF6UzZaem16TlVkYTRKbXlvSDV5bWFlYkdhc3RocF9wcG1ib2l2TnRGVEp1QjlqbzhKT3lmMHVvcVNyVlNqQlQ3bXRVTkw4QnRQc0xwSGFSbG9R?oc=5"
-        },
-        {
             "source": "The New York Times",
             "title": "Phil Foden, Cole Palmer out of England World Cup squad, Ivan Toney and Kobbie Mainoo in - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXhSMjFaSEgxTWw3VEZ4ZmtNQmdaMm9iZl9WSU90ZzhqZXk4WmZ3c0h1NDk2TUs5OGk5a2hta3B1T0owX1pDQTliZ0t3b2ZzRHM5bm11NzRoU29EOE5TcVkwMnBmY3MxdUhGT3hraFRlRm4zR1diMEhDRFY0WXpiVFlHWkZJcUNTNElRbERvZ2pzTHdJbEJ4S01PeUxmempIdjNN?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Tottenham’s Djed Spence sustains broken jaw after Liam Delap collision - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHBLdGY5VjdGaFRJaFl1TzdNQjc3dDhraHEtTUVucUFmNmJ6aF9WTGduRkJZeGl6NExhRXh4TnVyRnZoZVBBRElTeE00TFJxUWItbmduNVROc2JsS0NQNkpVTGVUQTRDVktQaUZsaG1IR2lRNHBBUXV6YlQ2ZHdCdGE4YUxVbC1VUjVLYmlKRUFCeENqVzE3SEVRM01TeDhi?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Enzo Maresca working on transfer, pre-season plans ahead of Manchester City job - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2hhZ0lrYWpXajMwaDNlc0p5dmc0UlRFaWxnT3o4djNOWE5oT0tzZUw2YjRySGtDdFJjVlh6ZnVabW9EcW5QUTMzWWtXLWQwbXoyNGxnT29McEU3SXVkNU4yQ3NPelI5UE1RR3JzZVVVMUx3LUc3MEtEUVFIeWE0cUZVWnpXYzZ6MG16blhzODZEUQ?oc=5"
+        },
+        {
+            "source": "Yahoo Sports",
+            "title": "The Athletic's David Ornstein on transfer sagas, missed scoops, and life as a soccer insider - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0lKTWUyS1BNQVRrTjFwSC1XejF4QzlGaGpmWUdRWU80U1pOaGdxM012NzRadG5ORzE1d0FHZ2tYYnVnNnNnQWdialB4RHNzeDdIWmFGV0RMck5hdUlYbEpDY3ItWDM1OWRlbEFBUHdLUE41bFIwekR5UzVrY1ZRTU9QMGk0ZmZPUDItb1J6LUg1UQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,24 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlROWlBSWXZmX244QUx3QzBHZDNlX3VJekpWcjEtYTNYTVh4TjlxUm01bGw0eHRMUjk0LV9MSGx2MXlVZTBLdG5iUFZIekg2eTR2Rm9MU05sZFd3LWVSbkpZTk5tSFdlc2ctRmE0X0tfYVVURFc5ZzMtaWJ2YjZVMEVzOWxUQXQ4LV9J?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "\"MLS 레벨? 유럽과는 비교 불가\" 프리미어리그 127골 손흥민, 솔직 인정...\"그래도 만족한다, 매주 메시도 볼 수 있어\" - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aU05RdjRGS0Q5VUozdzVCdGVWWlh0blBFbC1PT3Iwc2NXaTJDYVQ2RTJYT3JvVW5TZkJwdFJqUXo0YUg2YWFjYzN0aEowZEtRUENIME9QaFVIaFdjVkpXU2otbWV1RXBYQ3fSAW9BVV95cUxOenZQVjdGalBJSEtxUFNRQTUwRzJSNVY3bkNjNHFvcno5eFF0bEZ2TWxUb3lJdHFMakFmNWlPOFdlbk1SaFdua1h6c3NjaUlZQVctNEtPT25xb3BTQ0R2YWJqWVlkWHFLZXhGYjBpSnM?oc=5"
-        },
-        {
             "source": "네이트",
             "title": "[PL] 우승 세리머니부터 강등 전쟁까지…EPL 최종전, 축구팬들 환호성 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qQU0xNm9iVVN6LU5CeXRSY0pDemkzaUlSdlh2UTFKb0RzVFIwaVJhakJieHdWUVgxaS1CNnVtRmVZZGEzZVZFRkVDR290ZjFhNi1j?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCU3BlQmhlRGFEU1NDaUt2d3RwcEdnenFMQVRfUHJyOGd1R3dwT2E4TTZFV3J1eUMyaS1MaURmalIyeDYyN1pJeHJiS1Yway1ROFhJYkc4c1BLSGFGOXBXU1lfT1AxVGZv?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'충격, 이게 주장인가' 무릎 부상→전력 이탈 센터백 로메로, 토트넘 생존 여부 결정될 최종전 대신 아르헨티나로 돌아간다 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmdGREVWS05UTDUyd0pOVWViMm1lRWJvZnlLSmstOWdUN2NvWUNpcjFnLUJLV1JxRVUwamxtX3BtOWVmbFMxU0VuaWtGZWg4RFEyaHBkR0NXY2p4UzNobFE2UFk1VnZ5eUkxQUFJQjNra09YLUJMaTZ0aFFGRW9HbHlab0hNdDQwajhr?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'손흥민 찬스'도 안 통했다, 토트넘 팬심 폭발...\"잔류해도 수뇌부에 맞선다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWt3dlVLNU03WUdlYWtlNlJZSkFhX3FYM3otNHg3VnFrZ1pTVVNISEFQWWxRZHh6bGdiLWY4aTRlbGtiaVJzVXBPbHNPSDRXV2FsNURBVFRjT3NLblotNjFnZmRCTVUtWU56MUZocE9vbERhd1JwVFhwNFEybnNwRUdRQUpudjlnMDE4?oc=5"
         },
         {
             "source": "네이트",
             "title": "'강등권 싸움' 토트넘 감독, 손흥민 토트넘 최대 업적 평가절하…\"유로파리그 우승보다 EPL 잔류가 중요\" - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1NKOVhqRU5ZamUta0NHYVVYNjdndURJNGpEU3Jzd2ZjSWxGMTUydHZGblhHS3JOVmVLMThaQTlQeE9aU2pNalVnUVdIeUVFaEtsd2dCVWZrX3l5WWlKcjlfRzRXQXlJUmh4RFdhQXl6aHNab0E2Zkh4VWk2XzFCODZn?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "손흥민 전격 인터뷰, BBC ‘비피셜’ 통해 토트넘 강등 탈출 소망 “프리미어리그에서 마땅히 누려야 할 순위 지켜내야…” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96XzJRLVdWbmszQmlRRVVNX2J1bUsxdDlJU3ZnTFRfdFVKOWZqWGY3bDVfWkVqYVpGTWx2U0lXUDFzMmJKUE0wSXgzVzdIdjA?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nSjBKNzExV2lfalZTWHVNREd0OGVQMVgtbEV0dGRLc2hfTnRpMmxZSUhlcXEwSE1KZnhGVDBKQldqTnJiMmsxc08tQmdvWjhXRXNrVQ?oc=5"
         },
         {
-            "source": "미주중앙일보",
-            "title": "'챔스 우승은 누구?' PSG 감독도 프리미어리그 우승팀 인정 “공 없을때 움직임은 아스날이 최고다!” - 미주중앙일보",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54ZHc4ZUdRTk9CVVpvcFRFWjdFV3JublU1OUxvSmk4eTA3WjFESEZiclc3UUhDV1ZDUUFmLThuWXIteDVBb0RnZ1BUaEV5aXY4Qld2NGVCWWRYX2d4bjB4Y053?oc=5"
+            "source": "한겨레",
+            "title": "‘강등권’ 토트넘, 첼시전 패배…25일 에버턴전서 운명 정해진다 - 한겨레",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IZk51ZTlRRkxJdENMMkV0WXZMdld1MW4wSTNjaDNuQ3VOSmEyN0pZU3YwLXVhbUhTVHVBQW00UzUtM0RENklSeEYyeDFVRnBtMG5qY2VzYTY0c3hzNFR4TXN1aTI?oc=5"
         }
     ],
     "transfers": [
