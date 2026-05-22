@@ -1,14 +1,19 @@
 {
-    "timestamp": "2026-05-22 16:12:32",
+    "timestamp": "2026-05-22 18:27:06",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Stand to be named after Guardiola as Man City exit confirmed - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SjBfbldnbVViUEctRFgwOWZNT3F4Q01JWlNVdGxXakZseXI2SUtLWnlWb3dlRTVBQXNjSDhhd2c1QnlQSmZHMEZ4bE1kTEUyc0FGNXdFVEN4OWRzOG1yeldod2lLZjA?oc=5"
+            "source": "Sky Sports",
+            "title": "Pep Guardiola to leave Man City: Spaniard announces departure after a decade of success at Premier League club - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaEVKNktyRnRzb0Nrb0NrTUJYcjEyMkRFb0REZzg5Tl9BclNuTGNrQUtNYU1pSU01OHFOTndMaHJTUVhrTzFfbEpJTGNrRks3QmdrOHM4M1pOOVJhd011amlpYnRXY3ZBVUhfbGNUVXhKcVVGOTJESWxZT3pONlRrUXNRbDJteHVOcXBucG8tMHBaNWktbEpTOFdOS0xLMFVPS1AtVWVGVmRBOGZpdlpGMG1ybmFMcGRwb01URUtfTnFZYWRQM282eW5EckhNcjhyQlVQVmt3TndoZW9NaFJWMkNpSTV2S2hUQWdBRVhIQ2Rkby0tYlRz?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "The 10 numbers that sum up how Arsenal won the Premier League - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaC0tUENFQlFCc0kxR2k2NXgwVU9sLTVQR0ZZMDJDeTdxMlV0MzRoTnFrRmhzSU5JTXdLYmlfbDR6Y29ZbGtIYVMwTGRpMmw1MjA2dnhnUy1TeFp6X0NGSWlZbGlyUkhFVDZGOFhpSXpjdENjZEk5eWRHUzcyb2hDYUlNR1JlR194QmNQTGpFQU9zaXE3?oc=5"
         },
         {
             "source": "Sky News",
@@ -16,14 +21,9 @@
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVp4a09aY1BFTE9EbllRMUVhOGNKTEtpcGRiUGhSaUZqMS01c2twN3M1V0dqT1ZsbnYxSXd2enBwRmREQ3lDT2I1cmk2OTBTbFJ4bm1vc1NnZWVrOUg5cFJHTmlBZkl3VXZJa1ltaWxPYjFyRk1hMUgzSU1icGhZZmRIQ1dqZ2xGdjVZYlJoeEgwTUxQRjRmMkhyNWl1aTNHRXRr?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Premier League team news: predicted lineups for the weekend action - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUJsMWM4WlRRNnpxZkNUbmJmTHJrUWVseDNlODhYc1dDZzJVT0R1WW1LRzBMNWtvbE9XSERWUkFYZnI5M3M1UzNBdm1lSlcyTlZlMEZGXzRLdjVVU2dpMjFuWlhDUHJBVWc4WnpydnF5V011c3hHYzA3NC1FazdiYlR0LUdCT043Nk9WYW5aeGZRQjd5cnlZXzBEa2dBWWc0a24zeU1DSFk4RjBudUVteg?oc=5"
-        },
-        {
             "source": "Football365",
-            "title": "‘I can confirm’ – Romano reveals fresh Slot sack update at Liverpool and addresses Iraola rumours - Football365",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlJJYWNEN1RfOUNYVmFwWFk3RERNQWFRVDM4QUtwSWpOY0tWNVR1TlBfaVA2bkc0eUxYZlVLWFNQNFdaUGYzM2lZcEduQ204akI2YWU1c2pZMkxvc0NibUE2WjRGMmExZ193dENwZU93aWZubThhdHZUamdnZ2M1eWhWZDNmOXdyTGNXaXdPb19FY1BzanlGYVQxSHoteW1xRTNFbnBUam85TVZMbFJVLTRWX3pjckNTc25zeHgxcC1rYVQw?oc=5"
+            "title": "Fabrizio Romano says midfielder ‘wants to be at Real Madrid’ not Man Utd - Football365",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjhqSFo2QnB2QkJaVndJbkZGeldVV1VZQ3cyVXlGWkR5MDJoWEVKb0dpZ1JfdmRQWENoV2NnVzJvS1JqUklYTUNMOTFkalNmTEJqZnluQUhpOVdMNVZZQUFaRmw3bTdjTEpjWjBYcmdkZVRScktMSHhTTjBjcUlJeXk5SVJrdmZjeTdUcW8wdnZMU1AxQTRqY0RjSFVYdGMzdTdYTm53?oc=5"
         },
         {
             "source": "OneFootball",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlZrNnNsRS1Bc3FsMXQ2cmUyTXNiLW5EN1FQQlJod18wbVRTQkxIakFRUThEUE80VGhyalBDNHYtWFE4NlY4b2RVdDhEWHpMWlRpdEg3UG9jVjRKM3dnVDhxRWxVbWxoUzBxd3BTTEZuTldEaGwxVmJ5MWdxdXVyaGl6TWpQZ3kydXUwQnpxVXhjR1RtUkZMTVNvSjFVc2hqS2MxUTBYNEM5LUQwWC1RMg?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "Fabrizio Romano says midfielder ‘wants to be at Real Madrid’ not Man Utd - Football365",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjhqSFo2QnB2QkJaVndJbkZGeldVV1VZQ3cyVXlGWkR5MDJoWEVKb0dpZ1JfdmRQWENoV2NnVzJvS1JqUklYTUNMOTFkalNmTEJqZnluQUhpOVdMNVZZQUFaRmw3bTdjTEpjWjBYcmdkZVRScktMSHhTTjBjcUlJeXk5SVJrdmZjeTdUcW8wdnZMU1AxQTRqY0RjSFVYdGMzdTdYTm53?oc=5"
+            "source": "Anfield Watch",
+            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Anfield Watch",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
             "source": "The New York Times",
@@ -46,14 +46,14 @@
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHpSZXU1akhIOVlIamViVE0ySm1McFRqWms4eTlNaHU0WDlCekNfU3NVcl85bnVVZi1DWXRwQUpTVDlSVk8wX19nRGRzYmdtNTdhbjY3S0c0MFFfTlNfTklLbjlyQndUazVacmNKQVdBQUJRVnMzZXdqdF85bXBpck9Vb3FsNEI3NXpRTS12VXVUbUt3eHJCaGoyT0FKUGs?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Phil Foden, Cole Palmer out of England World Cup squad, Ivan Toney and Kobbie Mainoo in - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXhSMjFaSEgxTWw3VEZ4ZmtNQmdaMm9iZl9WSU90ZzhqZXk4WmZ3c0h1NDk2TUs5OGk5a2hta3B1T0owX1pDQTliZ0t3b2ZzRHM5bm11NzRoU29EOE5TcVkwMnBmY3MxdUhGT3hraFRlRm4zR1diMEhDRFY0WXpiVFlHWkZJcUNTNElRbERvZ2pzTHdJbEJ4S01PeUxmempIdjNN?oc=5"
+            "source": "Football365",
+            "title": "Jose Mourinho to Real Madrid accelerates as Ornstein delivers huge update - Football365",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzhjZmI4dWdxUU9pOERmRm1sRHJZYTFJcU0tSk5YbnRZTmlwaWJ1dnZYT1B6aXp5U0lPUERxdWw3dzYtaFIxT0t0dGtmeXJiWG1yY0hXZnhDZThLQ2xFREhaNTI2a3ppd25Ya0NmeERRNkFRaGpxaDcxYWxELXZtWEdjSnZuZnhqcDNMeF9Jbk52TG4zUVNmNVB4Q294ZnRu?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Pep Guardiola to leave Man City: Spaniard announces departure after a decade of success at Premier League club - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaEVKNktyRnRzb0Nrb0NrTUJYcjEyMkRFb0REZzg5Tl9BclNuTGNrQUtNYU1pSU01OHFOTndMaHJTUVhrTzFfbEpJTGNrRks3QmdrOHM4M1pOOVJhd011amlpYnRXY3ZBVUhfbGNUVXhKcVVGOTJESWxZT3pONlRrUXNRbDJteHVOcXBucG8tMHBaNWktbEpTOFdOS0xLMFVPS1AtVWVGVmRBOGZpdlpGMG1ybmFMcGRwb01URUtfTnFZYWRQM282eW5EckhNcjhyQlVQVmt3TndoZW9NaFJWMkNpSTV2S2hUQWdBRVhIQ2Rkby0tYlRz?oc=5"
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,29 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "When does the 2026/27 Premier League season start? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcm5Bb1pSb0tmSTVxQ09EM1Rud1lMZGhTMU92UThUakhGeHlVX05CcUR0Rzd6MzU0TlpNeUE5ZGN2OTFIcHlOQmRxOUc4RXd1V2Nzb3ZFTjdOQldRT2JHS2tvNlR2SjExanpMSFBVdktiWnZQQnVYYllEa0lPVWd2Y2E2T1ZJN0ZlOG9seDdZOW1KS19uOWtKSjlJV1hpdzh0em9lNXRrdjRxQ1E4clowRWs5Vk1lTE9yN1YxcTFBaE1MNDE4WF9xQk9vRnpENEtVNWZidkd1SWJIN3hzc1pHOXExQXlJX0phNjJRMl9WcXdwdw?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "‘만년 4위’ 놀림받던 아스널, 22년 만에 EPL 정상 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlROWlBSWXZmX244QUx3QzBHZDNlX3VJekpWcjEtYTNYTVh4TjlxUm01bGw0eHRMUjk0LV9MSGx2MXlVZTBLdG5iUFZIekg2eTR2Rm9MU05sZFd3LWVSbkpZTk5tSFdlc2ctRmE0X0tfYVVURFc5ZzMtaWJ2YjZVMEVzOWxUQXQ4LV9J?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "\"미안합니다, 정말 미안합니다\"…'챔피언십 강등' 울버햄튼 황희찬, 팬들에게 사과 \"이적은 생각하지 않고 있다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oM1ZOT1hVR1hRZDhtRVVwTTR0em5iQkFwNml4UExvWER5eWszQ0VWZ1NjajRPMDl2aVg1VUlpR3ZaZWl2WEE?oc=5"
-        },
-        {
             "source": "네이트",
             "title": "아스널 22년 만에 프리미어리그 우승→그런데 메달 못 받는 1군 선수가 있다? \"최소 5경기 출전해야\" - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3MlFGd0w3WDJvVEhiZzZTcnZBaXg2cF9waEI5TzA2NE12SlVwOXZnMjRpNy15TUtQNDJtM0FlY3JuZDJOa3NBRFR5WUNCRUtSZHdWX09XTXdLUm5BbkZqUEl4dXg4MEtB?oc=5"
         },
         {
-            "source": "동아일보",
-            "title": "아스널 22년만에 EPL 정상에… 아르테타 ‘실리축구’ 통했다 - 동아일보",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DZWxpV3B5SnBwOFRYNFNUWVA0RDdPbXZiV0lLbkY1UllVNTc1QzZSMHlFdlc4Unp5V1N5RUUxZ2dpUmRCVjJGLS1GeXZ0RGMtaDE3cVFVZ3gzdkZWRk15VDloOGhvbmJ3QmxoYXJ6TEdXVC1t0gFmQVVfeXFMTmdrXzNqYUpSdkJNd1FVU2xHOWIwZzlBZ1JxcGtmYmpfbTY0dkVwdU96ZUtqWXgyTWtJQVptSnNQLWExdVVVNjBib3pNUTdxY1lWLWU2Z2lZUm0zTlB5YlI0aHYtVHJ3?oc=5"
+            "source": "BBC",
+            "title": "아스날 우승: '22년 만에 EPL 우승' 뒤에 숨겨진 이야기 - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtbE5qQ01NOWJ2UFJsVExJajdVS0FiTE94UW1zOGZXNjBCYzhndkFueERrX0RRUkRZY3R2QzFFZGlyYkNtREc1X1FqS21XR19JUWpKTC1kSmRRb01j0gFiQVVfeXFMT1EwY2NpT2pIUjZqQU10VE9KNVVmalB6azI5V3MzaWxiaTFvcGhjS1hrWWp5bmh6Z1RnbGhtNWE0SEZzT25rWVY4UFZyX0RWdUtPcUlhRjJ4THJlTnNybTZxaXc?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -104,6 +89,16 @@
             "source": "이투데이",
             "title": "토트넘 잔류 확정 불발…프리미어리그 순위는? - 이투데이",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nSjBKNzExV2lfalZTWHVNREd0OGVQMVgtbEV0dGRLc2hfTnRpMmxZSUhlcXEwSE1KZnhGVDBKQldqTnJiMmsxc08tQmdvWjhXRXNrVQ?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "‘만년 4위’ 놀림받던 아스널, 22년 만에 EPL 정상 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlROWlBSWXZmX244QUx3QzBHZDNlX3VJekpWcjEtYTNYTVh4TjlxUm01bGw0eHRMUjk0LV9MSGx2MXlVZTBLdG5iUFZIekg2eTR2Rm9MU05sZFd3LWVSbkpZTk5tSFdlc2ctRmE0X0tfYVVURFc5ZzMtaWJ2YjZVMEVzOWxUQXQ4LV9J?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"MLS 레벨? 유럽과는 비교 불가\" 프리미어리그 127골 손흥민, 솔직 인정…\"그래도 만족한다, 매주 메시도 볼 수 있어\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTRUFtdEU1VGZPNVJSSjBKc3BEWV9TUGc0NElaRy1Dbnh5MWxsczZHaUhJa2JUamg2UkhLQzUwc3Y3UGR0ZUN4RGxRX0xwOFljQVdQcHRIWFM2LXh0?oc=5"
         }
     ],
     "transfers": [
