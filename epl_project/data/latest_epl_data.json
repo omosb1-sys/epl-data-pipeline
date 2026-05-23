@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23 22:40:57",
+    "timestamp": "2026-05-23 23:45:08",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,14 +11,14 @@
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUk5Hd0NiX2JXYzRTY0pDeWpfbFgtdDh4OUNEcGFBSEhWZU5GRi0zOVQ3Zlp2V0pJTXBXMTdjTXVsQm9GUUoxZ3NCQTUxR212amh1TEIzVnpmbDZfVGtCUHYya3FsWmtQZkdhREpVcXBuRERRdlRvQ0R0QTVRVE8xXzFqU1hkY1R3QjRVdXRlQWlmMHF5UWhmVHpBanp3QVVNZHh4N1V1R0ZZX3k0UzRSWUFkQl9oNnBKS2c?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Was Fernandes your player of the season? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWRibFZRb2ZjejNnWE9sZk9iTjREUDJUWVY4M3lsVjBJTkZjWjFqWFdCY25KbFh0eVRFZlVfeWMtNDFVNHNTMDBrV1U2dTVSb21iVEpxYzlYZE11cVpseXNJSzkteEUzeFdROUY0eWp3Q0V2b19GN0RCNGtvWmprRk9CemVwWnVtcHBCa2NsRjNxYnNOU2I1QkVLcC1yVUNmQk9zeWVjZEpCR2tKYlhXXzVMdTdLUDFCWGRyRDVzRzk4MVpqeVFLaldwb0g1czZKVmhuQk9VVXFSYU90bFJpRWdwSG9XMHpGLUhYS1EtWjhIdVBxOVVHdGVJRVJKVGNh?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "Bruno Fernandes: Man Utd midfielder named Premier League player of the season - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sNkdaVUhfNjFTQUJJS2ZXcGVvNXM5UjNJVTNVZ2I2MngtZzE5SEU4dy1rRzQzeFhBODlWQUtRMEJxdUdFNDJ1WEh2a2d1S1RzeVJKdV9PWHF1OWNHSlk5bHBNZmJDOXM?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Was Fernandes your player of the season? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWRibFZRb2ZjejNnWE9sZk9iTjREUDJUWVY4M3lsVjBJTkZjWjFqWFdCY25KbFh0eVRFZlVfeWMtNDFVNHNTMDBrV1U2dTVSb21iVEpxYzlYZE11cVpseXNJSzkteEUzeFdROUY0eWp3Q0V2b19GN0RCNGtvWmprRk9CemVwWnVtcHBCa2NsRjNxYnNOU2I1QkVLcC1yVUNmQk9zeWVjZEpCR2tKYlhXXzVMdTdLUDFCWGRyRDVzRzk4MVpqeVFLaldwb0g1czZKVmhuQk9VVXFSYU90bFJpRWdwSG9XMHpGLUhYS1EtWjhIdVBxOVVHdGVJRVJKVGNh?oc=5"
         },
         {
             "source": "OneFootball",
@@ -58,7 +58,7 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,14 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
-            "source": "스포츠한국",
-            "title": "헐시티, 2부 강등 10년만에 EPL 승격... 토트넘-웨스트햄 강등 전쟁만 남았다 - 스포츠한국",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNURsYkVEaFFoSGU3aUJzdVVRWWlZMjBXVF93NnF6WThHd2V6bURrSi1ManduUjhJNlh5Q3BaX1V2WHF5eEx6THRhaVppRkxkdDhEenBnYjM4dnpkRkN5Z0p5aEcxSUFKb0hXUDNyX0LSAXRBVV95cUxNc29VZzZiYkpwWDltUjlTYlFEeFkwRk9qWHFaNmN3c21lWE0tUmN6SmMtdTFiekNzc3dUVGNmSzB3SFcyTnNyOHdaMkJDVERKdjJBbmtVRVpoX05GWDFNZ3FieHJZUkFkZE04MkVIMXZfZzFZOA?oc=5"
+            "source": "조선일보",
+            "title": "전설적 감독 펩 과르디올라, 10년 만에 맨시티와 공식 결별 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSml3a0p1NGNWWXRaMFpzWi1pbWc5THhNQmdnY09VS0l2Wnk2V0NzVDJXNVFEZjhwcTVNd2ZVaWJWZUZNZUdQSjFpOWJ3RzFETHNTTGUzajFMZEFTWWZmNXVTSXhOcHZLM1FfOWNnN25RSmtJSFlpSHZKSnlCVnNicFNoNVhadU1rSEpZ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "4081억원이 걸린 승격 매치, 승자는 헐시티 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHY3ZPN1JKZjk0MnhlRG9BaWdIVjEtLWhCUXhuWnlUUkNBVUJ5Zmcta09qaE1wNDRrVlNmXzhNbmsxVDNOOFBZeldKOUtoQ2c?oc=5"
         },
         {
             "source": "네이트",
-            "title": "[오피셜] '1월까지 3선에서 뛰고도 20도움' 캡틴 브루노, PL 올해의 선수 등극! 맨유 선수로는 15년 만 쾌거→최종전서 신기록 도전 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWSGI0cDQ3SWNINmFPZW5vQ0tkN1hRelpsVnhPd0tKTmM2aUNHR1JSNnZJX1AyUE5XRHZWVWxVdDZsT1FYT2oyY2Ewb1JReW5oaFhqYkI1WVpuc2F3?oc=5"
+            "title": "[오피셜] 역대급 경사! 맨체스터 유나이티드 '중원의 심장' 2관왕 석권, 'EPL 올해의 선수상' 수상…\"동료들의 도움 덕분\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTbDVKcWFhcXlWdXhSRnNhV2J6dWdadFN5NG1NWF9qd1RrTXd6Z3ZzMzJCdE42ekJYU2NhTDlya0JPNFRGTklmblRVLVNrTV9UWU0yQ1Y5UG9NVW1i?oc=5"
+        },
+        {
+            "source": "톱스타뉴스",
+            "title": "‘후반 추가시간 결승골’ 헐시티, 9년 만에 EPL 승격 - 톱스타뉴스",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04S2hTd0p5UU1qaGs0STE3YlotMElfaV92RWMwOHRTdkVMMWt6c0pPYUVaTDgtdzkzRmt2clFUZGpvMlJwbXBaU1pjOW1yNUtBVVFNQkVwTkFpUWNWNHhxRzFqVjRWbURleFpQM0ZfY0huUQ?oc=5"
         },
         {
             "source": "맨시티 홈페이지",
@@ -81,29 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXdJSHhGMHFaSTJYeGFxMm9QWlYyT1lPYi1MTU9DeGY1UkhCRC11Qk1tdXotd1VjTGZwSTFuY1NYd1VtamxoZHJmUUlzWGRHNjAwd1A4el9FeXJhZUhpUmwwYlFvTE9WZXJwY09xSTQ0aHRWQVpxOXAyQ28tM0JVTXZUcmxoWEJDUjA4U3RyUmUwUWg4RWhTVS1jTUc?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"미안합니다, 정말 미안합니다\"…'챔피언십 강등' 울버햄튼 황희찬, 팬들에게 사과 \"이적은 생각하지 않고 있다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oTFl1WFdiQngwUW10WUtWbUZRcFJjV0thV1NFMFpNMFFwRkJJQnVNM0l5d0EwM2Y5RlFOamIzUmhaYnJIZGlVaERiYlNib0k?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "전설적 감독 펩 과르디올라, 10년 만에 맨시티와 공식 결별 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSml3a0p1NGNWWXRaMFpzWi1pbWc5THhNQmdnY09VS0l2Wnk2V0NzVDJXNVFEZjhwcTVNd2ZVaWJWZUZNZUdQSjFpOWJ3RzFETHNTTGUzajFMZEFTWWZmNXVTSXhOcHZLM1FfOWNnN25RSmtJSFlpSHZKSnlCVnNicFNoNVhadU1rSEpZ?oc=5"
-        },
-        {
             "source": "MSN",
             "title": "'3위 확정' EPL 맨유, 캐릭 정식 감독으로 선임… 2년 계약 체결 - MSN",
             "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNWF9VbEN6bGdSbnFUV1VvQ2xWNVJkYWNlM2xuWG0xNm1iZ1pud2J2OWRHcFJtZzBkSU5CYno2NGk3NTlyRjZKU21tVXJvdzZOUFloNnF0WTd5SmM3SDhwSTdvR29wSXE5YWJDOUVmSmUxZVB2Q2lkSWtkbExUNDBvRlYxSEk1SEp2bDRiOXAxOUk0Vmd2SEhBYmR1UGNTdjY2dDJKbVZNWVhkWHphclJjWFNUbm42bmc4ell1b0wySGtlY0ZqNWd3Sk1oTXpUcUl1VXVNaXVSN1A4NjVVbkpsZ1I3NzE2dEZnbkRQR29rZ2RoUldTaElrZGg3WTRfb2RqQ2NUOUllMXV5MWxzdVdCa3hBV2lPNk1GdVBFUmo2a1dES3Y5NUpyQ2thb19wYmk4Ymt4Qk8weFpqUGUxNjJLN2dZUW8yZ3EtWVdHVkFXNXBLX0c1aWk2RGJpYWRfb2VfWEE?oc=5"
         },
         {
+            "source": "연합뉴스",
+            "title": "'극장 결승골' 헐시티, 9년 만에 EPL 복귀…최소 4천억원 돈방석 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xT25wY1ZGbmhhRE9yQy1UdlU5VVo3NDZYS0NBblZWTFd5d2huUm9ONjRmZ21xVWV2NXpqcmkyVUo2WHJzQWZlQjFBU2o2TzNQdDZ0aUFQU2UzOHfSAWBBVV95cUxNeWFMYXljN2Q5cF9UZGk1LWFKZjUyMWZaMklGaEVMVDAyUG5wMGpzVTVmQmcwLVdlVlVtanBmWC1MWUNyVmxDZ3ZiOTYzWnZtNjV5aHI4Q1J4VkVaTFVKUjc?oc=5"
+        },
+        {
             "source": "스포츠경향",
             "title": "‘이집트의 왕’, 안필드와 작별…9년간 376개 공격포인트, 게임당 1개 꼴 - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LU2pNLWZxQ2ItcU5UTndZQUJSRnFpU1VKa3EzWE51SHhhNk1ldmQ4THZ6aTBhNDlaTVpRbVZEOHpVblhzMWNzckNxWHJWdHgxa0h0Nmw0b1UwMGgweEHSAWNBVV95cUxPY252bzlTZnBjbkEzNkktb0Y2THBFRTRIQU10dWt3bXEzZXhKSWZYaVNORUxRRjlEWTZhcTVMa0ZiV3A2WUV0TmJlMWlwSTlLQTBQLTIzeGhGWlFheFRtTkt3MEE?oc=5"
-        },
-        {
-            "source": "엑스포츠뉴스",
-            "title": "토트넘 큰일났다! \"친정팀 웨스트햄 잔류시키고 싶어\" 에버턴 감독 의지 활활…리그 최종전 앞두고 동기부여 - 엑스포츠뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16bG9wam4xd3ZMcDVmcFB5emZjaGhzTGxZd0ItTlplaWRsX3c2dFFlbEE3NjRtX2ZTY2JlRzA4eXRnX3VLdVdpZ0JrLUpUZWVnYk9kYQ?oc=5"
         }
     ],
     "transfers": [
