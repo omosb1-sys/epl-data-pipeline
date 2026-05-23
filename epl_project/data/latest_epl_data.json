@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23 21:42:08",
+    "timestamp": "2026-05-23 22:40:57",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,14 +11,14 @@
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUk5Hd0NiX2JXYzRTY0pDeWpfbFgtdDh4OUNEcGFBSEhWZU5GRi0zOVQ3Zlp2V0pJTXBXMTdjTXVsQm9GUUoxZ3NCQTUxR212amh1TEIzVnpmbDZfVGtCUHYya3FsWmtQZkdhREpVcXBuRERRdlRvQ0R0QTVRVE8xXzFqU1hkY1R3QjRVdXRlQWlmMHF5UWhmVHpBanp3QVVNZHh4N1V1R0ZZX3k0UzRSWUFkQl9oNnBKS2c?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Bruno Fernandes: Man Utd midfielder named Premier League player of the season - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sNkdaVUhfNjFTQUJJS2ZXcGVvNXM5UjNJVTNVZ2I2MngtZzE5SEU4dy1rRzQzeFhBODlWQUtRMEJxdUdFNDJ1WEh2a2d1S1RzeVJKdV9PWHF1OWNHSlk5bHBNZmJDOXM?oc=5"
-        },
-        {
             "source": "Sky Sports",
             "title": "Was Fernandes your player of the season? - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWRibFZRb2ZjejNnWE9sZk9iTjREUDJUWVY4M3lsVjBJTkZjWjFqWFdCY25KbFh0eVRFZlVfeWMtNDFVNHNTMDBrV1U2dTVSb21iVEpxYzlYZE11cVpseXNJSzkteEUzeFdROUY0eWp3Q0V2b19GN0RCNGtvWmprRk9CemVwWnVtcHBCa2NsRjNxYnNOU2I1QkVLcC1yVUNmQk9zeWVjZEpCR2tKYlhXXzVMdTdLUDFCWGRyRDVzRzk4MVpqeVFLaldwb0g1czZKVmhuQk9VVXFSYU90bFJpRWdwSG9XMHpGLUhYS1EtWjhIdVBxOVVHdGVJRVJKVGNh?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Bruno Fernandes: Man Utd midfielder named Premier League player of the season - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sNkdaVUhfNjFTQUJJS2ZXcGVvNXM5UjNJVTNVZ2I2MngtZzE5SEU4dy1rRzQzeFhBODlWQUtRMEJxdUdFNDJ1WEh2a2d1S1RzeVJKdV9PWHF1OWNHSlk5bHBNZmJDOXM?oc=5"
         },
         {
             "source": "OneFootball",
@@ -113,13 +113,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
-            "date": "2026-05-23",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
