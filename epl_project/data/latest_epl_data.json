@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-05-24 15:52:57",
+    "timestamp": "2026-05-24 16:48:54",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Premier League LIVE: Build-up, commentary, team news, score and live text updates - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RREZxTlh4YWFhZ1VHUjlsbHR0TkxjcTQ5bEtZSEhMNERpRnRJUVRjVWYyaDRjZXlCWV9JR3NxN3hnbldTM25jbEZEeVJ5cFFSekZTRXViODZJVUduOVdiNlJn?oc=5"
-        },
         {
             "source": "The Guardian",
             "title": "Tottenham v Everton: Premier League final day – live - The Guardian",
@@ -17,8 +12,13 @@
         },
         {
             "source": "BBC",
-            "title": "Brighton & Hove Albion vs Manchester United: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VdE9NSERVTkM5RXVYVkhDb29ydmRHWlNRWjFockpNYlJ0WUsxVmptNk5pWm1Pd01LSEx5bENwNlVzcGVmTDNiV1p3U0tINGZzaVEyQTg1VG1qZVN2S3piWXlLNGQ?oc=5"
+            "title": "Manchester City vs Aston Villa: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MS3N3cXNmdVFpdVNoVk14MWM4MGZnMVdxbHlKMjBOUEE2TWFBM2h3a3dYbG4teGhfaU1XdEZfeHFuanU5cFlIOGlUbjFONFZCQ05HQXBUUTZ4cG4waWFmbUF5MFA?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "Crystal Palace vs Arsenal LIVE: Latest score from Premier League final day - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0tfbE5PWTNyVmVHS21VYmJKMlh2UktDdWZJOUlUcWFYUHlOXzN2T1pBSVExaUpUc1BLVktoMHZUSVFrQldUcC1RaEd0MnBybVcycGpCOFp5cHNFZlFlWFd2b3VGcTIzOFhpNVIwbVFrTENqWnRNaEZISlNBVHB3bjRIdndZdnR3cjVocFd4b3FKVnpHTnBncGJSSndVbkNmU1RTMFlzWU9MYllaRGIzYzN4aU5OSnlSWGV4NXpYSlhpbXRH?oc=5"
         },
         {
             "source": "onefootball.com",
@@ -61,14 +61,24 @@
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "[속보] 역시 맨유 에이스! 브루노, 프리미어리그 21호 AS→단일 시즌 최다 도움 기록 경신 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSG5vMzRyVVNqNFRpbWJ2NlVBeDJya1JsdWY4S042REVaYWI0NVdSRlN3aF9jMEJfaG90TlpvM0dMT18tUkZaQWZ1QndjNGVPVUlVLWZnaWFBSGdSZnV2cQ?oc=5"
+            "source": "뉴스1",
+            "title": "토트넘이냐 웨스트햄이냐…둘 중 한 팀은 오늘밤 2부리그로 강등 - 뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53U3QxLUU2THNNMnhlMkJVc2gtMklZbDIwanQzMk9wa0I2TWFTSUhHSEhmUDhqYzRZMnI4MHBQSFZxc05kdHlfRFZuNmtMMjU4N0p4WllqQVBFSUVaZ0E1eA?oc=5"
         },
         {
             "source": "네이트",
-            "title": "맨유 브루노 페르난데스, 'EPL 한 시즌 최다 21도움' 달성[EPL 최종전] - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbGE2ZURNX0hkdVFhemg4Y3U5Zlk0Vl9LQWpGVWlqZ0ZjRGtMOFBCRWkwRVFqZy1oeWtJVlVwOHcyTmI2Z2Z0cEhuZTdOVy1mS2ZFcGo4UWNjUjJPS1dWbw?oc=5"
+            "title": "[속보] 역시 맨유 에이스! 브루노, 프리미어리그 21호 AS→단일 시즌 최다 도움 기록 경신 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45RFZfTWtISEgwSWFjUG5UMUpibnJnX2FQZ21VbWZvcW8tTU9mT3J2MmpNMEtZVjdxTnNZOU9jQ3NVTzV3YURTeFpBSFVtbUpjQWFhcjhfNThMYjVC?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'손흥민과 다른 터무니없는 토트넘 주장'…엄청난 비난에 아르헨티나서 돌아와 시즌 최종전 직관 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZLUpOWWZvVWR0Rk5NSUEwbUNvaGZIQ0xPZlhnU1BsYk5QMnVFdmp6d2NmRDFpVzFyVFBDQWQ4OXpkZGhvUnpFcDZyZWFkYk0?oc=5"
+        },
+        {
+            "source": "스포츠한국",
+            "title": "맨유 브루노 페르난데스, ‘EPL 한 시즌 최다 21도움’ 달성[EPL 최종전] - 스포츠한국",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CZmpuSlpjRUI3VVIxN0J4dVFCbmtHWjVvcEdYMms5RXA3aXREd2dVVE14RWF6ekVOM0pzRjd0emRXM1hIVlk4WFVwLUJ5SkJDRmtVcnhGemZKd2M0MC1nSlBvZ0dBWVlMclNBQncxT1rSAXRBVV95cUxOazg1aVpINFpIZm4wUE9teEt3UkNNR2dvcnpDRkdxamxfYTYxZ3VEX0JBWXdKU2h1S3FuMklKblJ0TFJuSm9YRFRkXzhGXy1ybXdwTGhVRV9mVHk1NFhWaDVLT1lIb0dqMTRJbkFiSkR2YUFUcw?oc=5"
         },
         {
             "source": "네이트",
@@ -86,31 +96,21 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wVTV1clBOOUIxaG96Yy1vUmpnbGJVd2h2Zk1GdEh6R2xXOHlIc2hqRExDampVQ3p3VWJrOHRjampaSU13cEE?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "1년 전엔 손흥민과 함께 우승했는데…'유로파리그 챔피언' 토트넘 '슬픈' 현실→25일 EPL 잔류 도전 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1b0txNzRGazY0ejVLNXM0VkU4Y2tyTEZjSllaMWlOS0ZOcVZkOHNiclp2QVA3Qkg2RHNyczE0cDU3dDFzWFIzRDdyQWI2VHM?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "\"결승전과 같은 경기 남아있다\"…최종전을 앞두고 여전히 안갯속인 EPL 결과, 강등·유럽행 '경우의 수' - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5cW5iTkhEblB3Ukp2a1RWZmJFR3VialJyS09idjZPVDVhZ1Y2STBqS2hiakZseHVtTGUyWnlMZFR4MVJYN1lPOUFXek5vTlZ4b3N0d2hXS0pmLUdl?oc=5"
-        },
-        {
-            "source": "osen.co.kr",
-            "title": "“케인은 다 알고 있었다” 토트넘 몰락 예견 주장, 남은 토트넘은 강등 위기 - osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wSmRnUUYyek1nVWZBWkZWanZPeElVeWloaG5kS0RScVF2cGpWMnJWMnlyeWdwdkhHTHZLNEkzNDZDSTBzNXUyWDlUWHEwMXpWbGVJ?oc=5"
+            "source": "맨시티 홈페이지",
+            "title": "니코 오라일리, 2025-26 시즌 프리미어리그 영플레이어 선정 - 맨시티 홈페이지",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXdJSHhGMHFaSTJYeGFxMm9QWlYyT1lPYi1MTU9DeGY1UkhCRC11Qk1tdXotd1VjTGZwSTFuY1NYd1VtamxoZHJmUUlzWGRHNjAwd1A4el9FeXJhZUhpUmwwYlFvTE9WZXJwY09xSTQ0aHRWQVpxOXAyQ28tM0JVTXZUcmxoWEJDUjA4U3RyUmUwUWg4RWhTVS1jTUc?oc=5"
         }
     ],
     "transfers": [
         {
-            "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
-            "date": "2025-01-14",
-            "type": "Official Transfer",
+            "player": "Antoine Semenyo",
+            "date": "2026-05-24",
+            "type": "Official Permanent",
             "from": "Bournemouth",
             "to": "Manchester City"
         },
         {
-            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "player": "Official: David Alaba to leave Real Madrid",
             "date": "2026-05-24",
             "type": "Rumor/Verified News",
             "from": "Unknown",
