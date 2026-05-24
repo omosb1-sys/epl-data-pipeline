@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-05-24 13:06:43",
+    "timestamp": "2026-05-24 14:54:42",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "Tottenham v Everton: Premier League final day – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemxxam5wQVJGdWtvSXhiMm01RnlTN2syeDF2cnlZQjc2S0hWaUZkb2s5TDUwMzJZcHVzOTZOQVlMbGJacy1OQldWQ0hkcVF6RXBIa18wNFJJREptNjlDN1NSWkVtckZyQmdpY19zdkYycVV1SmhkS1A0aGVvMzUxU2pKU0lyZDN2cEVxbWdwMFZqbndKQnlrN1EwSXYxMGg2NXBaMEVR?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "Why the stakes are so high for Spurs and West Ham - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMkdqOUtWdTVqLVZOVlBRbDI4dF9wXzhGSExlWGFFT19PWE1JSUw4aklWakNDQ1dEZV9ibFpYTWxWek1uSVZrZy1zZlcycGR3eHlRX0lQSHhnMUc3dW1vc1FtdUkxOG8?oc=5"
+            "title": "Dowman to become youngest Premier League starter - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6a2FFbkRXcktrV0IwUmxZeXVVSXp5NjcxeDBaeGlsUzVCXzdHMF84Z1JGWmtsM0htNUEzNE1qT0RYTGsxUEhvbFpYMzJ4eURSWmlZQkdKbmprUm85czNTRjNfdFk2ZU0?oc=5"
         },
         {
-            "source": "Metro.co.uk",
-            "title": "Arsenal transfer target Eli Junior Kroupi speaks out on his future - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWpVZGtqVUMzdklzeUtXZngxQ3NrMEI2d2dTUE9MbFl5RXNBY3lvdC1WSnlTWWdaUEpKSWJGOVJrTC1qRHVOakphNl9fR19vRjdVZVVQMWdETC16a2RhVDI3ZHdHQmc2TmFWc1lhSE1oNnlzUVppVGc4MkxNODBLZGF2dlRTeGhieWpkTHBCTjlSMFRwRno5QTdkYU1acTNBRDJrdHB0RkYxbF9MaGRBam5KYk9MaDVMdF9N0gHAAUFVX3lxTE5HTXZVdjU3cGNodFdPUG1iRnN4dHZyYjI1UThIT0VULW1yTWE3emcyblJtTXJqQ1hFeGxWZEJJeXdSV2FDSHF6ek05RjF1MHctQlljOHlPSDN1bjZKUnFhNFBQc2JrQ2tPNGFDWXBEWTZnYk1na2pwenNiU3lJbllkN2xJM1F1bERuM2dyRWUwVzRHT2xRSll4bmwwMUMza0czaUtVRkN0cmpKTllrQllwbHFCT0dSLWJGVFhCMFVlaA?oc=5"
-        },
-        {
-            "source": "The Sun",
-            "title": "Liverpool vs Brentford preview: Betting tips, odds and free bets (Premier League final predictions) - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaG9GZklSbzJ0aVdWRnVJSE5hdERoWmNPRVc4WFFYNTFld2hvcmFLUWxIR1BQNmNkcHpTS2RONFpyNERiQ3hUOVpvLVNMVWNJWkU1VkRSR2pqR3lMWU9jT2FJY3VwMHE1elBEcGNmVjlPOWU0d0plSXlrUU9jclZEemJhc21aMVhqU2NqTUo5TzdQWFhaUmRlaEZnOG4?oc=5"
+            "source": "Sky Sports",
+            "title": "Was Fernandes your player of the season? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWRibFZRb2ZjejNnWE9sZk9iTjREUDJUWVY4M3lsVjBJTkZjWjFqWFdCY25KbFh0eVRFZlVfeWMtNDFVNHNTMDBrV1U2dTVSb21iVEpxYzlYZE11cVpseXNJSzkteEUzeFdROUY0eWp3Q0V2b19GN0RCNGtvWmprRk9CemVwWnVtcHBCa2NsRjNxYnNOU2I1QkVLcC1yVUNmQk9zeWVjZEpCR2tKYlhXXzVMdTdLUDFCWGRyRDVzRzk4MVpqeVFLaldwb0g1czZKVmhuQk9VVXFSYU90bFJpRWdwSG9XMHpGLUhYS1EtWjhIdVBxOVVHdGVJRVJKVGNh?oc=5"
         },
         {
             "source": "OneFootball",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1o3ZDNhWDhNYnJGMDBKalVtX1R0ekItRENuVWFwcWE2c3VpRFpqY1lzOThYZ2JSU2wwMVRtZ1FvMUI5N2FQX3NlQWRxZXpjSkxnOXRMY19Nd0RCVV95RFFQRnEtdUx0MThrWmY0VDJIbjlWZ0w5aEw3eEg3ZE9qbU9vTWp3SUhFQ0R3RWVFNWx0eklTRFdrT0QxQVBvQWJzblNhUEYtZXh1NG9PVGp0WVRET2dRZDhiWHpUekdrcFo1RnVlamc?oc=5"
         },
         {
-            "source": "ManchesterWorld",
-            "title": "Fabrizio Romano confirms 'official offer received' for first Man Utd transfer of January window - ManchesterWorld",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObENuTWtzbE45VmVSVThwblpuVGVta3YtcFpIZVJrSlJBM2xPZ1VuT3NpR1JPLUxMOHFzcmFoamtCMDF6cGtZRzlZbWkyWjRidXZkTU5laVluN1JMSEZ0WXlsMjNrVnMtaEZES2lBMVpPdm9veXhXZWQxdm1Eek9EUnZsSUt1VXZHRDlyQ2NSVFk3emlmWjh4NWFSc1p6OU1HeW9HVVZoLUJvdWhONnlGRnduQmJKNjRJMldhVzEzTmhCQ3VTYWRrVFhJd3R5THMtaHRWb2RXeTFNVmFDNkZlNi0wTV82alcxcUNKWnpzWnhCd250RVdCbA?oc=5"
+            "source": "Football365",
+            "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1USm1qZU5FMFhBbENFbTVWNml5X01GOFZjRXhna0NHT0U1dXdZdHJvcHhfTXdDakUzQ1dSbWVJZFE3aUhwdDgwbFpURDF1dw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -61,21 +61,6 @@
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
-            "source": "osen.co.kr",
-            "title": "추가시간 한 골에 2억 파운드... 헐시티, 9년 만에 EPL 돌아왔다 - osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CMHRtTGgzeHk5dmt3Zlg5c3RjclBLMnZFX3lKa1k3UUFMS2tFQmt5SndiMVM0Q3d2MXBtTmhMLXpLcVQ3bS1GY1JxVzNsY29KZ0JV?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "95분에 4200억짜리 극장골 터졌다! 헐시티, 9년 만에 EPL 승격... 미들즈브러와 1-0 짜릿승 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NeXBEcDZTQVU1ZEJtdnBac2NvN0VTYjczYnROdG5HODFqMzRYVkl0bTloWGdCZTVIQkRkY3ZHTk5IVkxKR3Nyck5fNVA5X1hKbkN4RDlCbzV1RkJzSUFSZFlidldSUHpGcEHSAW9BVV95cUxNTExqTlIxdzIybjNaVkVVeld2c3g4VXhBYlFrLXB3OGZRZHpSN0MwdkFvWFJnOVFZY1ZuNS05NVZNQjl1dG9SYWdlVVdlTXpmXy1qaFVEYkcwX0ptd2pUR2QxeDNPSHo5LVJ6OVMxdHc?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "헐시티, 2부 강등 10년만에 EPL 승격…토트넘-웨스트햄 강등 전쟁만 남았다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52QW03dU1vRk12aGQtRlJMbnlBclNRbDMwc0JoQnY2WnBQaXRjZU1Fam9GZ0JaODdxYXZBb0E4X0F5dVh3ZHZHYnRMVkxfcTZLWlcyalVjM1JKN2d3?oc=5"
-        },
-        {
             "source": "네이트",
             "title": "\"결승전과 같은 경기 남아있다\"…최종전을 앞두고 여전히 안갯속인 EPL 결과, 강등·유럽행 '경우의 수' - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5cW5iTkhEblB3Ukp2a1RWZmJFR3VialJyS09idjZPVDVhZ1Y2STBqS2hiakZseHVtTGUyWnlMZFR4MVJYN1lPOUFXek5vTlZ4b3N0d2hXS0pmLUdl?oc=5"
@@ -86,9 +71,24 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RT3QzcGdCclQ0MHE4OEFxa3cyZ0dyd28xUk5YdVNVXzJaUmNtTXJKaU1pdkxZNUI3M3ZIWXcyNHBjVmU3VlE?oc=5"
         },
         {
-            "source": "osen.co.kr",
-            "title": "“케인은 다 알고 있었다” 토트넘 몰락 예견 주장, 남은 토트넘은 강등 위기 - osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wSmRnUUYyek1nVWZBWkZWanZPeElVeWloaG5kS0RScVF2cGpWMnJWMnlyeWdwdkhHTHZLNEkzNDZDSTBzNXUyWDlUWHEwMXpWbGVJ?oc=5"
+            "source": "Vietnam.vn",
+            "title": "축구 경기 생중계: 브라이튼 vs 맨체스터 유나이티드: 프리미어 리그 38라운드 - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcV9uMUxTcFAtc1VmbEpaSUR0ZFZCTk1vazRwNVdQaVJ4WWYwS0gybkZtT1RSQlItMlNMV3hHd0h3dXJRaFNyWjR5SXNfaVRzZm9LSF84TG0tdjZqeVhLZnl2Zm1HTXJqNzBXMmpraDdaMEhrdmdOZ3pJTWRhX1ZhRFpRRGM0ckZS?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "추가시간 한 골에 2억 파운드... 헐시티, 9년 만에 EPL 돌아왔다 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlN0UzdKZDk4X3ZaRzQxdW9NV056QTVpN185ajV6SDdWODNFOXJlNDEyaFNvZ3FYS0I1ejNuQmRHSTZ4RmVlTktOZ0VHSzdHd0RQYkR6amowdHZqRkRDNGRCUjJ0VWZVcWJibVRFRkhSaWxrYTY0VlVnVXhmV0MyNnFFSDJpemdMM2Vr?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'4000억짜리 승부' 헐시티 웃었다…9년 만에 EPL 승격 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CT0lMS1Frd28tNWtJZlVXZC0tT19MUmstem9DQTBvVHRMMVV0SGlVOVV1MmhFWjhkUjV1c2t2RVNmZHp3ek85LU5KZlJMRmoyQjRtWTJEZGlRRU93?oc=5"
+        },
+        {
+            "source": "스포츠한국",
+            "title": "헐시티, 2부 강등 10년만에 EPL 승격... 토트넘-웨스트햄 강등 전쟁만 남았다 - 스포츠한국",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNURsYkVEaFFoSGU3aUJzdVVRWWlZMjBXVF93NnF6WThHd2V6bURrSi1ManduUjhJNlh5Q3BaX1V2WHF5eEx6THRhaVppRkxkdDhEenBnYjM4dnpkRkN5Z0p5aEcxSUFKb0hXUDNyX0LSAXRBVV95cUxNc29VZzZiYkpwWDltUjlTYlFEeFkwRk9qWHFaNmN3c21lWE0tUmN6SmMtdTFiekNzc3dUVGNmSzB3SFcyTnNyOHdaMkJDVERKdjJBbmtVRVpoX05GWDFNZ3FieHJZUkFkZE04MkVIMXZfZzFZOA?oc=5"
         },
         {
             "source": "네이트",
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zd0VPRjV4aW9jRFNVU2ItOFBjS0VDT0d1MXNnd2RWTVllMXYzMG5mallwa2p1YnZidnJROEExTDJmLWtLUHVFR3BjZ2ZoUUw2M0txbnZ6TWI5TFNS?oc=5"
         },
         {
-            "source": "Chosunbiz",
-            "title": "[공식발표] 맨유, 15년 만에 경사! '역대 최초 21도움 눈앞' 브루노, 생애 첫 PL 올해의 선수 선정...개인상 '5관왕' 보인다 - 조선비즈 - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWHppVDA2RW9tSmVDOVI2N3BwWFU4MlBWb2ZwcFBMclFCU2oyR3QzaDYxLVNUNk5Bb2Y0dW5Kd2VxU0FDRTB5SmlvUFdHNjQ3dzVNTWR0ang1SFVETXJfT3V2QWJzX0JuT0JXcXo3Z3pENmMtMlZ4OUNjTUROZzVjUVpFd9IBlwFBVV95cUxNNGZOdHVTM2lIeTZDUVZfTFRvTWZtOTVPcG5HUWMyWmlHMGhZLTZ2TmgwTmtSazRibk5GNUxIdVAwZXVwNUd5UlYycFhoS1JIbWd0OWEtdE5qRWEyNUFUVUVmeFEyczIyN1Blc2txUmt6QUJZTXRhNlVZN0FTemRaX1VqQTFlZ2RNTVJjVUFHZ2c0ay1nMVBz?oc=5"
+            "source": "맨시티 홈페이지",
+            "title": "니코 오라일리, 2025-26 시즌 프리미어리그 영플레이어 선정 - 맨시티 홈페이지",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXdJSHhGMHFaSTJYeGFxMm9QWlYyT1lPYi1MTU9DeGY1UkhCRC11Qk1tdXotd1VjTGZwSTFuY1NYd1VtamxoZHJmUUlzWGRHNjAwd1A4el9FeXJhZUhpUmwwYlFvTE9WZXJwY09xSTQ0aHRWQVpxOXAyQ28tM0JVTXZUcmxoWEJDUjA4U3RyUmUwUWg4RWhTVS1jTUc?oc=5"
         }
     ],
     "transfers": [
@@ -108,13 +108,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Official: David Alaba to leave Real Madrid",
-            "date": "2026-05-24",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
