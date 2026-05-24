@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-05-24 14:54:42",
+    "timestamp": "2026-05-24 15:52:57",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Build-up, commentary, team news, score and live text updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RREZxTlh4YWFhZ1VHUjlsbHR0TkxjcTQ5bEtZSEhMNERpRnRJUVRjVWYyaDRjZXlCWV9JR3NxN3hnbldTM25jbEZEeVJ5cFFSekZTRXViODZJVUduOVdiNlJn?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Tottenham v Everton: Premier League final day – live - The Guardian",
@@ -12,17 +17,12 @@
         },
         {
             "source": "BBC",
-            "title": "Dowman to become youngest Premier League starter - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6a2FFbkRXcktrV0IwUmxZeXVVSXp5NjcxeDBaeGlsUzVCXzdHMF84Z1JGWmtsM0htNUEzNE1qT0RYTGsxUEhvbFpYMzJ4eURSWmlZQkdKbmprUm85czNTRjNfdFk2ZU0?oc=5"
+            "title": "Brighton & Hove Albion vs Manchester United: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VdE9NSERVTkM5RXVYVkhDb29ydmRHWlNRWjFockpNYlJ0WUsxVmptNk5pWm1Pd01LSEx5bENwNlVzcGVmTDNiV1p3U0tINGZzaVEyQTg1VG1qZVN2S3piWXlLNGQ?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Was Fernandes your player of the season? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWRibFZRb2ZjejNnWE9sZk9iTjREUDJUWVY4M3lsVjBJTkZjWjFqWFdCY25KbFh0eVRFZlVfeWMtNDFVNHNTMDBrV1U2dTVSb21iVEpxYzlYZE11cVpseXNJSzkteEUzeFdROUY0eWp3Q0V2b19GN0RCNGtvWmprRk9CemVwWnVtcHBCa2NsRjNxYnNOU2I1QkVLcC1yVUNmQk9zeWVjZEpCR2tKYlhXXzVMdTdLUDFCWGRyRDVzRzk4MVpqeVFLaldwb0g1czZKVmhuQk9VVXFSYU90bFJpRWdwSG9XMHpGLUhYS1EtWjhIdVBxOVVHdGVJRVJKVGNh?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "Fabrizio Romano names Chelsea star who’s been “mentioned internally” at rival club - OneFootball",
+            "source": "onefootball.com",
+            "title": "Fabrizio Romano names Chelsea star who’s been “mentioned internally” at rival club - onefootball.com",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEIxYzJyQlhXbWZEanM5Z0Z2eVBvODFxYkJfUzVWcHgydVU1c0NpZU83UTBHOXBkZlgzTWVrMUl6R0loTk5jQlowbGx5YktQQ3ZpQVFMWFNzTWxzaE9mT05HQ3d1eTlLOG9vd25JYTdxMTVHMmppdk1qY2dPd3VQWTdrRTZ3bk5XQ2hDemhwRHVHNG1UWDFwbk1rZHZZZjlsZW5JOEtrSl9mLXgxT0w1UTFNbVQ0U0tyN1V2Tg?oc=5"
         },
         {
@@ -62,23 +62,13 @@
         },
         {
             "source": "네이트",
-            "title": "\"결승전과 같은 경기 남아있다\"…최종전을 앞두고 여전히 안갯속인 EPL 결과, 강등·유럽행 '경우의 수' - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5cW5iTkhEblB3Ukp2a1RWZmJFR3VialJyS09idjZPVDVhZ1Y2STBqS2hiakZseHVtTGUyWnlMZFR4MVJYN1lPOUFXek5vTlZ4b3N0d2hXS0pmLUdl?oc=5"
+            "title": "[속보] 역시 맨유 에이스! 브루노, 프리미어리그 21호 AS→단일 시즌 최다 도움 기록 경신 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSG5vMzRyVVNqNFRpbWJ2NlVBeDJya1JsdWY4S042REVaYWI0NVdSRlN3aF9jMEJfaG90TlpvM0dMT18tUkZaQWZ1QndjNGVPVUlVLWZnaWFBSGdSZnV2cQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "토트넘 강등시키겠다는 결연한 의지...상대팀 에버턴 감독조차 \"웨스트햄 잔류시키고 싶다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RT3QzcGdCclQ0MHE4OEFxa3cyZ0dyd28xUk5YdVNVXzJaUmNtTXJKaU1pdkxZNUI3M3ZIWXcyNHBjVmU3VlE?oc=5"
-        },
-        {
-            "source": "Vietnam.vn",
-            "title": "축구 경기 생중계: 브라이튼 vs 맨체스터 유나이티드: 프리미어 리그 38라운드 - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcV9uMUxTcFAtc1VmbEpaSUR0ZFZCTk1vazRwNVdQaVJ4WWYwS0gybkZtT1RSQlItMlNMV3hHd0h3dXJRaFNyWjR5SXNfaVRzZm9LSF84TG0tdjZqeVhLZnl2Zm1HTXJqNzBXMmpraDdaMEhrdmdOZ3pJTWRhX1ZhRFpRRGM0ckZS?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "추가시간 한 골에 2억 파운드... 헐시티, 9년 만에 EPL 돌아왔다 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlN0UzdKZDk4X3ZaRzQxdW9NV056QTVpN185ajV6SDdWODNFOXJlNDEyaFNvZ3FYS0I1ejNuQmRHSTZ4RmVlTktOZ0VHSzdHd0RQYkR6amowdHZqRkRDNGRCUjJ0VWZVcWJibVRFRkhSaWxrYTY0VlVnVXhmV0MyNnFFSDJpemdMM2Vr?oc=5"
+            "source": "네이트",
+            "title": "맨유 브루노 페르난데스, 'EPL 한 시즌 최다 21도움' 달성[EPL 최종전] - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbGE2ZURNX0hkdVFhemg4Y3U5Zlk0Vl9LQWpGVWlqZ0ZjRGtMOFBCRWkwRVFqZy1oeWtJVlVwOHcyTmI2Z2Z0cEhuZTdOVy1mS2ZFcGo4UWNjUjJPS1dWbw?oc=5"
         },
         {
             "source": "네이트",
@@ -86,19 +76,29 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CT0lMS1Frd28tNWtJZlVXZC0tT19MUmstem9DQTBvVHRMMVV0SGlVOVV1MmhFWjhkUjV1c2t2RVNmZHp3ek85LU5KZlJMRmoyQjRtWTJEZGlRRU93?oc=5"
         },
         {
-            "source": "스포츠한국",
-            "title": "헐시티, 2부 강등 10년만에 EPL 승격... 토트넘-웨스트햄 강등 전쟁만 남았다 - 스포츠한국",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNURsYkVEaFFoSGU3aUJzdVVRWWlZMjBXVF93NnF6WThHd2V6bURrSi1ManduUjhJNlh5Q3BaX1V2WHF5eEx6THRhaVppRkxkdDhEenBnYjM4dnpkRkN5Z0p5aEcxSUFKb0hXUDNyX0LSAXRBVV95cUxNc29VZzZiYkpwWDltUjlTYlFEeFkwRk9qWHFaNmN3c21lWE0tUmN6SmMtdTFiekNzc3dUVGNmSzB3SFcyTnNyOHdaMkJDVERKdjJBbmtVRVpoX05GWDFNZ3FieHJZUkFkZE04MkVIMXZfZzFZOA?oc=5"
+            "source": "머니투데이",
+            "title": "추가시간 한 골에 2억 파운드... 헐시티, 9년 만에 EPL 돌아왔다 - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJNGxUY2d5cUJURFpfbm5MUlZ1SnR4YzN4X0V4bUYxUnEtT2gwTVR6TXdOSDVNTjl2QVZMSnJoSFI2Z0JaVjlKNmw5NkxqZWo2RjBld3FVcDZ0dl9KSzhpNDIyWVNKR3FEU0HSAW9BVV95cUxPZjVxQ3RIQmNzWXVleFNPVUdxU2EyRUtYdFJkTkk3Qk9ndFNqaGg4MVdYT3RzaXVzZ1lqTG9Ldkd3MTcxZHR5blpja3U1eXVsbkxDMllmNGNJdURYQkdhcS1lVWM1Y0RxNlk2dXlFelU?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "4081억원이 걸린 승격 매치, 승자는 헐시티 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wVTV1clBOOUIxaG96Yy1vUmpnbGJVd2h2Zk1GdEh6R2xXOHlIc2hqRExDampVQ3p3VWJrOHRjampaSU13cEE?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "1년 전엔 손흥민과 함께 우승했는데…'유로파리그 챔피언' 토트넘 '슬픈' 현실→25일 EPL 잔류 도전 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1b0txNzRGazY0ejVLNXM0VkU4Y2tyTEZjSllaMWlOS0ZOcVZkOHNiclp2QVA3Qkg2RHNyczE0cDU3dDFzWFIzRDdyQWI2VHM?oc=5"
         },
         {
             "source": "네이트",
-            "title": "1년 전엔 손흥민과 함께 우승했는데…'유로파리그 챔피언' 토트넘 '슬픈' 현실→25일 EPL 잔류 도전 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zd0VPRjV4aW9jRFNVU2ItOFBjS0VDT0d1MXNnd2RWTVllMXYzMG5mallwa2p1YnZidnJROEExTDJmLWtLUHVFR3BjZ2ZoUUw2M0txbnZ6TWI5TFNS?oc=5"
+            "title": "\"결승전과 같은 경기 남아있다\"…최종전을 앞두고 여전히 안갯속인 EPL 결과, 강등·유럽행 '경우의 수' - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5cW5iTkhEblB3Ukp2a1RWZmJFR3VialJyS09idjZPVDVhZ1Y2STBqS2hiakZseHVtTGUyWnlMZFR4MVJYN1lPOUFXek5vTlZ4b3N0d2hXS0pmLUdl?oc=5"
         },
         {
-            "source": "맨시티 홈페이지",
-            "title": "니코 오라일리, 2025-26 시즌 프리미어리그 영플레이어 선정 - 맨시티 홈페이지",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXdJSHhGMHFaSTJYeGFxMm9QWlYyT1lPYi1MTU9DeGY1UkhCRC11Qk1tdXotd1VjTGZwSTFuY1NYd1VtamxoZHJmUUlzWGRHNjAwd1A4el9FeXJhZUhpUmwwYlFvTE9WZXJwY09xSTQ0aHRWQVpxOXAyQ28tM0JVTXZUcmxoWEJDUjA4U3RyUmUwUWg4RWhTVS1jTUc?oc=5"
+            "source": "osen.co.kr",
+            "title": "“케인은 다 알고 있었다” 토트넘 몰락 예견 주장, 남은 토트넘은 강등 위기 - osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wSmRnUUYyek1nVWZBWkZWanZPeElVeWloaG5kS0RScVF2cGpWMnJWMnlyeWdwdkhHTHZLNEkzNDZDSTBzNXUyWDlUWHEwMXpWbGVJ?oc=5"
         }
     ],
     "transfers": [
@@ -108,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Premier League transfers: Confirmed ins and outs for summer window 2025",
+            "date": "2026-05-24",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
