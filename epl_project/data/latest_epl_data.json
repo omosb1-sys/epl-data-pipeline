@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25 06:59:40",
+    "timestamp": "2026-05-25 11:10:01",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,9 +11,9 @@
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BYzhIOXdpTjk1M0FWaFk5a1BsLUZaWjJJNEVZcEhEMVF6bHpMWk5rUHVvMXRSX29CQk5IVlZzYmU3Y3FOZUR3bGNmM040OXQ1QzQtelM1REgxVnJYaVljeGdB?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Spurs vs Everton LIVE! Premier League match commentary, updates, team news and score - live on Sky Sports - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOEZMZVg1dGtVNW9GMXBpVTRYb1IzUHNsQXBfa1lEelJVRWlPQUlHWExZRU5oMXo3bE9OSXpWa2k2Z2xScEEzQzFVMDY2QVdWamVQRWdSTjVTc0VpdDFDa0dsWHpDRHljR3h6MmNZUVg1SEpOWUpHczgzZzBUbXhVYkxDRHdrQVNucFM5SGM0YmR3dElMRUg4eURrRnVRaVhUOXpjbUxRTnlDVktBS01wTng3ZTBJcE1WenhIekRfV3cxQUJwSUN3b2lROXlGTUtGOHZoTFFmSTJOSnNaTGcySFpzMjdCQVNScm1VLUJqdjhNQQ?oc=5"
+            "source": "BBC",
+            "title": "Premier League LIVE: Build-up, commentary, team news, score and live text updates - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RREZxTlh4YWFhZ1VHUjlsbHR0TkxjcTQ5bEtZSEhMNERpRnRJUVRjVWYyaDRjZXlCWV9JR3NxN3hnbldTM25jbEZEeVJ5cFFSekZTRXViODZJVUduOVdiNlJn?oc=5"
         },
         {
             "source": "The Guardian",
@@ -63,7 +63,12 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "starnewskorea.com",
+            "title": "95분에 4200억짜리 극장골 터졌다! 헐시티, 9년 만에 EPL 승격... 미들즈브러에 1-0 짜릿승 - starnewskorea.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42aU12ZHk1YmUtdzB4X3R0X1pCNjNFRDZ0Y3BEdlV5R3ZmYmhhN2VQZG5zd2t3U01oRXBaTlBBcFNiWHBYSjMyRFJNSExLOVBYWWRpT1pXTElBVHdISzc4V0h5aHJIZm5qb09IN0NpUTVuQkhrM1E?oc=5"
         },
         {
             "source": "뉴스1",
@@ -71,39 +76,34 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53U3QxLUU2THNNMnhlMkJVc2gtMklZbDIwanQzMk9wa0I2TWFTSUhHSEhmUDhqYzRZMnI4MHBQSFZxc05kdHlfRFZuNmtMMjU4N0p4WllqQVBFSUVaZ0E1eA?oc=5"
         },
         {
-            "source": "스포츠한국",
-            "title": "헐시티, 2부 강등 10년만에 EPL 승격... 토트넘-웨스트햄 강등 전쟁만 남았다 - 스포츠한국",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNURsYkVEaFFoSGU3aUJzdVVRWWlZMjBXVF93NnF6WThHd2V6bURrSi1ManduUjhJNlh5Q3BaX1V2WHF5eEx6THRhaVppRkxkdDhEenBnYjM4dnpkRkN5Z0p5aEcxSUFKb0hXUDNyX0LSAXRBVV95cUxNc29VZzZiYkpwWDltUjlTYlFEeFkwRk9qWHFaNmN3c21lWE0tUmN6SmMtdTFiekNzc3dUVGNmSzB3SFcyTnNyOHdaMkJDVERKdjJBbmtVRVpoX05GWDFNZ3FieHJZUkFkZE04MkVIMXZfZzFZOA?oc=5"
+            "source": "네이트",
+            "title": "웨스트햄 강등→\"다시 프리미어리그 올려 놓을게요\" 발언에도…맨유 이적설 대두! 에이스 보웬 거취 주목 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjRFpQN3ZxSDViV3RvLWc3aElScExKNjVvVXpzZ3l6RTljNkgzMWdybUJUTVZSeVU4VW5RRlVqaW5PWlNmRzZLNzZKcGNmWW1FcEk5dW4tZk1lWUNx?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'충격 강등', 그러나 낭만 미쳤다...\"다시 EPL로 돌아오겠습니다\" 빅클럽 파격 러브콜에도 잔류 의지 표현 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YV0xsdzdzLUdqQmZUcENNcTVESlcxZVJNRDJMdXZ0N2tmR1VPeENiLUlCT0hCblpZd0pQdlB3b2t0dUwta1E?oc=5"
+            "title": "'경기 중에 가드 오브 아너를 한다고?'…맨체스터 유나이티드 레전드 극대노 \"내가 빌라에 있었다면 화났을 것\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YekhOSTQwSVRJZFlDSlQtUHJqQXA1dXVZeUJKWUtsSlN0SThXWjZhdWpQam9xMGFvSVFvWDVqb3E2OEdwd2c?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'이곳에 영광은 없다' PL 잔류에 환호한 토트넘, BBC의 강력한 '팩폭'…\"프리미어리그 잔류가 굴욕의 시즌 가릴 수 없어\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vaUhmR1dfZkxwdFFXN2xJM0lYWlFVVGM3Sk9MNzNJbzJtcnFRY09pVEd2amdDVTdkUG55WUJFMnNkRF9lQ0puYTRldXktdUFpWC1CNEVaVngxUkRv?oc=5"
+            "source": "Vietnam.vn",
+            "title": "아스널, 리버풀, 맨체스터 유나이티드는 이미 2026 시즌을 위한 선수단 구성을 마무리하고 있습니다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWldhN1RJcTltNWtlWjhlR1c0UVhUbVdXUndTOUF3ZzBCU19qQ1BWWDBNQXBRazJrZW8xWmljLWhaeElSSVhRNGVYdEVBbFdGX2xnYTM0SHY2ZTd3MUZfdkdIOWljVDVQOURTbFQ5TzRpWDBBUFV4bDdneW1GRTRvS0ZzUHdNbjRJeWg5WGpMejJHbEQ4cFVLdGVLR3E0TmNkaFhMX05Xb3Q?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'앙리·더 브라위너 넘었다!' 브루노 페르난데스, EPL 단일시즌 최초 21도움 신기록 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BWE95NU02NVdjaVRiUDN5VGhsaF9ka3h4YVp3LVBwVGNvbEJwQ2ZUSnEybVc3NnhzUnIyNVhmRDAxR0dORFFNUFhKRTc4RV94ZExUZXdFVHNPR1pL?oc=5"
+            "source": "맨시티 홈페이지",
+            "title": "홀란드, 통산 3번째 프리미어리그 골든부트(득점왕) 수상 - 맨시티 홈페이지",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUlYemFlVmd1YlZhb3pxWHJST244SktaZS1XaldPaUQ0bVhmS3V1cXV4c0ZiWlM2LUhmcWlHYS1ZczlVZ1NfZHBiWXhLZnpRYTl6UGFvUFY4R3J6SVpZbzc0TmR1ZEo4bU1nVFBPeGRQQlFUOWNqMG1zekpDRDg0Wg?oc=5"
         },
         {
-            "source": "SBS 뉴스",
-            "title": "맨유 페르난드스, 21호 도움… EPL 단일 시즌 최다 기록 - SBS 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNFEzSWo3aUNSQlYyaW14SHBrX0JkSDVtODNxRDAyZ01yUm1HRkIwWVRCSV8ySXdJVWFEU3lpalljSWxGOElYbWNSUk8zbTA0a045VXRkLU95STN2bWdHajg1dGFybDJPR2c?oc=5"
+            "source": "Chosunbiz",
+            "title": "앙리·더브라위너 넘었다... 브루노, EPL 단일 시즌 21도움 신기록 - 조선비즈 - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXpGcjdTNjBia1NBQ1p2UVFVX2VSMzhDTGYxMWZiSUxtb3ZfNk5qQXlNU3pQZjJ5aFNJdzJoY1NUdERTeV96WTR5TUk1bmlIWVJ6TXBPOHdyOUlmNTdxVnJyTzQ5WS1vS3VnUlRkU1JvYUUwRDhRbGdwdlowaVdtdmJHRdIBlwFBVV95cUxNZG5qNXM4X3lORzdjZGFqWXdEQWEzeGtUU2JyNmJLcFNhQTVaSzJsdVlUUG9PcG5LT3B2T2lQdzUxUEQzTGJfUjFJeWVWbXczbWNkZkFWQXZPWFJIQ2FrODBwY2tXUkQ4ZWdsZE9FbFdtaEw2X1R6b1VXRGRpOUFpR2d0YnhnemJXWmRxN0d5MzA5VmFDbUlj?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "앙리·더브라위너 넘었다... 브루노, EPL 단일 시즌 21도움 신기록 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUE4SENwVXdlUWJwRlAzQkJxdGV6MDdITUpTbndIdWQ3LUhHcHFDOVRzN3FLMWxmRFRrUlVMczhsZTl4UGJOdThjZWZYRE9reUpsMDhNQlpJTUZXb2FoTEZ4anEtdlZoNDZUeDlHSFNoR0wtUDAwRkhxSkV1WUd2dVJOUXlZdlVWWG53?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "‘죽어도 선덜랜드’는 끝나지 않았다···최종전 첼시 잡고 리그 7위 ‘유로파 티켓’ 획득 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tbHB4N24tXy1LQktKTTNhekl6Zko1WGJDWnlVUWxFaWpheGt1a1UwVlpyN21qczJhMXRnVVo5OTVxYmxyWXZTX0ZHeGRlaFk?oc=5"
+            "source": "한겨레",
+            "title": "아스널 22년 만 우승…한 시대 마무리한 펩·살라 [EPL결산] - 한겨레",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wX1pwQmQ0SkczX2ktTDI0bkRvd1FUUGlpTDNBNURESHVBRU8yRTlJdS1VNGhPUzNOMExCcE9panduc0VOaDhITU9PcmxtRUhDNm5HSXBfYTFRc2RNSmFkTjBBRFU?oc=5"
         }
     ],
     "transfers": [
