@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-05-27 16:30:43",
+    "timestamp": "2026-05-27 19:11:43",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Premier League",
+            "title": "Vote for your Barclays Transfer of the Season - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMURwM1EyY29zckpBQVlEOVFOUjc1a2lWZE42TlBDQlF4Z2JneEk2Y2JCYmtvQmt1TGhGTjZwOHA4Q0dsbUhTZ3JGQTFIOWZoRTFxTFNBdHZXaVBLOC12RXRmV3lwVndyaEhyNHhYV3dBYk51akdfYW9FSWtTcG9ocUstLWM4cUhQNVdLTjVNejNSRVVidFE?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Fantasy Premier League champion on winning FPL without using AI - BBC",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vV3RmaDE2UUFCeHp2RFk1ZzNfOXZaNE9MYW5WalRVd0YzVHVLNjlfcHZXOGk0X2xQY2Z4MTVaZlc5dHJpZ1ZhcUxIcTFjRFQzODhzVEhaUDBqMWpN?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "West Ham announce Nuno is staying as head coach with goal of Premier League return - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNSTHRXblc3VlJrc0RYRWJNTmxSc0MtN05pVzRnRWdpanFDUklqazBPYklpV0Z1T0pzS19QR1Z6RmQ5OFFVc0JhZS03ZF8yRXF3V2M4OVlOdVF2NW43NG9NVk43QnNHY3V4SkxSSTByMm8yY0RTd3lVeGRqUEhHQ19tLVY4bEVXNFBjWVpGUnpJUzJpWW9aYjgzbmQzYm1pcHE4My1fZEhSQTJNSmxMUnNxQkI?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "West Ham United: Nuno Espirito Santo to stay as manager for Championship campaign - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54VlBRZUxuTTIxY2tsYmRNb0Jsem9rTGt3S2ZyY3FveGQ4b0c5R29Nb0VhVEtXQ3BBYkNBOW5Jd3YteDRiOXpyenlPamNnaU5fRk16M1gyVnJIcTZiMC1qWGhDMHhyMXM?oc=5"
+            "source": "talkSPORT",
+            "title": "Scott McTominay tipped for stunning £65m Premier League return that would transform club - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd18yNlhQOHRwa0h0U2dxWV90dFZZeHJWSHB0eEFORlR1UFVqcDBFdmw4T0EwV3FKRl82cXp1NFZ2UmlqMWtqN2dqYXA0Y2RMczhNU0pnTEQ2OU1XdVJLR1Q1TjJMNHpwOFZra3MwcXVmeHlyaE9mZkozS2w2ajVSdzlfSzVIU2YwNnczM2U4MEdRWFZWYnJzaFJ3?oc=5"
         },
         {
             "source": "OneFootball",
@@ -61,34 +61,9 @@
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcm5Bb1pSb0tmSTVxQ09EM1Rud1lMZGhTMU92UThUakhGeHlVX05CcUR0Rzd6MzU0TlpNeUE5ZGN2OTFIcHlOQmRxOUc4RXd1V2Nzb3ZFTjdOQldRT2JHS2tvNlR2SjExanpMSFBVdktiWnZQQnVYYllEa0lPVWd2Y2E2T1ZJN0ZlOG9seDdZOW1KS19uOWtKSjlJV1hpdzh0em9lNXRrdjRxQ1E4clowRWs5Vk1lTE9yN1YxcTFBaE1MNDE4WF9xQk9vRnpENEtVNWZidkd1SWJIN3hzc1pHOXExQXlJX0phNjJRMl9WcXdwdw?oc=5"
         },
         {
-            "source": "일요신문",
-            "title": "‘아스널 시대’ 서막 올렸나…2025-2026 프리미어리그 결산 - 일요신문",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zcXZjMUEza3ktSDc5Qk5iZWc4YVdWdnR6Yk9rVGFDcDRBbWwxNGs1T3hsTkxNOUNUYmQyZERMdmdSQXdTQy1WM0FRREdvRG9EWVY5ci1HNHRyYkd6ZFA2QVdGelhlZw?oc=5"
-        },
-        {
-            "source": "Chosunbiz",
-            "title": "[공식발표] 아스날 황금기 다시 열었다...아르테타, 벵거 이후 22년 만에 PL 최고 감독 - 조선비즈 - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkVlaXdEbGZ4UE5FR3l2cHhXbjlxaHV6dE56N2VhdkUyQXZLeXZWNTR3TTdKSnlwdnN2dGZYMTBQUGZ2aHlFaGVPdFhKMy1wdnEyWHo0ZGpIR2ZDSDVWRjU2eVFxMHZXZzhtSkN5WFRFWW9OOW50WTVkNmprWGx3LXdtc9IBlwFBVV95cUxQTUJfRlp3Z09kMDdlSDVfMUZuUl9WS0ZGS2RDRDhjeG9WdHY1X0RjM2NuakYwRk5XeUx5M09KY3lFaTlwMWNvNkdrTVlBbXVwOHZuQmpYSU42bXhCazU1Wm1kT1ZDMG5zVjU1RGxlanlhNlJFQ3BQeWM5d2VMZy1NZWZaWDhMTjRUc0dJMEl0TWlrdEdqOHZV?oc=5"
-        },
-        {
-            "source": "이투데이",
-            "title": "프리미어리그 최종전이 가른 것 - 이투데이",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ER2F6TzdfcV9LSG50cjNhVkZjLUtzNzhuaDFjZHJYVW1WLUFib0lSWXZJeUlXc3ZKY1FaUGRBeDh0VmFfZEZwUGNlU2F0SWNERlB6VA?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'韓 축구 감탄!' 손흥민, 명불허전 'EPL 레전드' 다시 증명 \"최근 9시즌 동안 최다 공포 2위\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9walk4VldiMjNHb2VINGFsQUk3UGM5Z2duVENHaHJYT29MbUtOMjFoTEJ3cWpKY1RnTWx0ZVlKbU9PdlBCS3pQTkpPR0JXeXRnWlMyMDNmSEl1RzdH?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "\"위기에 빠진 토트넘에서 가장 중요한 역할을 했다\"…'데 제르비 체제 0경기 선발 출전' 센터백 극찬 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11U2FsZWpzQm85Z241bExqTzc3aEVEUmdGaGdDdkg0RWJUb2RPQko4VXdIQjAxYm5iM0VGamhXN2N6cnk5ZWhOQkRaX3RoYzg?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "데 제르비 작심발언 “토트넘, 세계 최고 선수 영입해야…반드시 ‘톱’ ‘톱’ ‘톱’ 클래스 팀 만들어야 한다” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oUFI2RXY4V0I3clNYektFaGFxY3V2c1NIRF8xS1UyUFp1dE5EMEF6U2dGZWxWdUIzaldVOHVSYWtyek9HV2hxODBBd1NDMndEZGxzMXBDUjA0UUVpaWZhVmtMbTVWQ3VQYkFiU1lGVdIBc0FVX3lxTE0zamt1RnlqM2NTTmxUM2dHYXhhTHZVZ3V3RlBWZWNJb0k4bUFvdXI4SHFHaHE3dzkzOWpURVZTYWI4djJkbjAtUXd3MXdTUzYyVFNNUktQS0NFZ2dKR1k0UWVsbTJfalF1eW5nZEYtUmhLRVE?oc=5"
+            "source": "Sky Sports",
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
         },
         {
             "source": "뉴스1",
@@ -96,9 +71,39 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53U3QxLUU2THNNMnhlMkJVc2gtMklZbDIwanQzMk9wa0I2TWFTSUhHSEhmUDhqYzRZMnI4MHBQSFZxc05kdHlfRFZuNmtMMjU4N0p4WllqQVBFSUVaZ0E1eA?oc=5"
         },
         {
+            "source": "연합뉴스",
+            "title": "블레어의 쓴소리…\"영국, 국가들의 프리미어리그서 강등 위기\" - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3LVlxRngyQU1wOG1XX0IxREtqa3JOUWIyaVg2VXFJbHhiOW95UG51RkZVYzBGX0Zlb0ZCelZaN0NuSFg5ZUs3SWFLRzVvaEQ3a2hhZkFXYVRucm_SAWBBVV95cUxOLTl4dEI2djZzUDhGRVFuQnFJdUkxU3hzeDlrX1ZXZ0Q3dmg2N0JzV0tQdkRqRjhRRTVmQ3NvY2hJcnB2bmJ5d2ItMkliSzlvZHA1VHdfOS1xMHExNDIxUy0?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "'이게 가능해?' 38세 제이미 바디, 프리미어리그 복귀 가능성 제기…\"몇몇 구단과 협상 진행 중이야\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DLV8tc0NnOFZfV0cxSWJSWHVOUXJjRHRIUU5VMWpuTkxLdUtpQWZrS3dBX2cyV2NNZElNTUVmeHY5cW9MV2JWZHB6T1J0b1BnVDJYX1cxY0VfLWQ4?oc=5"
+            "title": "\"우린 유럽 챔피언이 될 수 있다\" PL 정상 오른 아르테타, 이제 아스날 첫 UCL 우승까지 '정조준' - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZkF5OEJPdTlhV2EtNzFSWUFNeDdHcE55UWl6RlhYeld0OGFKZldvczhOZG4wMGpLQTZoWTlfZXVrUGVzSHdrVmNEZnhwTk9lbkROdXcyR2ZCbnJn?oc=5"
+        },
+        {
+            "source": "일요신문",
+            "title": "‘아스널 시대’ 서막 올렸나…2025-2026 프리미어리그 결산 - 일요신문",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zcXZjMUEza3ktSDc5Qk5iZWc4YVdWdnR6Yk9rVGFDcDRBbWwxNGs1T3hsTkxNOUNUYmQyZERMdmdSQXdTQy1WM0FRREdvRG9EWVY5ci1HNHRyYkd6ZFA2QVdGelhlZw?oc=5"
+        },
+        {
+            "source": "매일경제",
+            "title": "‘22년만에 우승’ 아스널 아르테타 감독, 프리미어리그 올해의 감독상 수상 - 매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tRnd3NGFLVVdySEJtaWhQcUM2bUpQMDBnWGVubmk2U2hKdmVpb050V0JiQXpycHJQYmcxeHd6ZU9mODdrVW1lTlBWSXh6bVFROWFj?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "손흥민 주장 시절에는 상상도 못할 일…\"토트넘에서 누구도 나와 대화하지 않았다\" 전임 감독 공개 저격 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUUGoxWW1ZZFZ2X2hHWGFCX3BRVnhpNHpORGlTMW5nZ19VSVpWRmhWTkM0NldaRkNGeTROSU43TUlBOUcxeGI4NFQtQVpuU1E?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'韓 축구 감탄!' 손흥민, 명불허전 'EPL 레전드' 다시 증명 \"최근 9시즌 동안 최다 공포 2위\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9walk4VldiMjNHb2VINGFsQUk3UGM5Z2duVENHaHJYT29MbUtOMjFoTEJ3cWpKY1RnTWx0ZVlKbU9PdlBCS3pQTkpPR0JXeXRnWlMyMDNmSEl1RzdH?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "EPL 잔류 이후 소신발언 '토트넘을 떠나고 싶은 사람이 어디 있겠어요'…팔리냐 ‘완전 이적’ 질문에 ‘난 뮌헨보다 토트넘’ 남다른 충성심 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpQWlCLU5qSHRXYjNJZThYNXpscW03Q3JGeGNYaWc1VmhrT1R6MEpESWVSd1JSZkxHT0ctbkxKdGJ5cDBjcFlUMDdub2pQLWtGQTRET1N2SllBZ2Jld3BoUlBoZUYxZ295NzR4Snc5Z9IBc0FVX3lxTE81M0NHZU9SRmZpblBOa09xYzVJUEJ4RVZVcWpsMm9qbVV6S1V4VWpGY3UzdzVQa2xHTFdlSDdWenB3Mng1WDVnU3BMQW9oVkVfalRCbHk4d0oyLTdfWVYtZ0lOQkswTkpoUk5xcVlTMG4tblE?oc=5"
         }
     ],
     "transfers": [
