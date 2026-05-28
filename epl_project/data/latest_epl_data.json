@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-05-28 09:59:01",
+    "timestamp": "2026-05-28 13:46:00",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Are Premier League clubs flat-track bullies in Europe? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aQlJ2YTlQNWRDZF8wZkRmblE3WXUxX2dmQm9GWUkyTmp3TkRIdE9oY2hjQWVGNFNIeU16eThwellGSEVBTTI5dWQwbnpsODNaY3owYjlYa0Y3Y2dNMTI1ck9HVDlySGNjWXc?oc=5"
+        },
+        {
             "source": "Sky Sports",
             "title": "Champions League - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR1dmOV8xUlk5YmlZLVZLLUpuLUtjUmViVGItaHphTFl3Sm9BbG5HMnFEWjdHYUNNZHQ0V3Q4NENWTllVa0JIMzlLR0I3UlhwNk1OME56a1ZfTVBabmN3dWpoZ0NucnFodURpNE5iRHl6cXhvUWM4UjV5dkQ4Z2pGaGRSWXlkSndPUHJ3b2FMR1poMzliRkV6bS1BVk1YeXJ0VTJKeWlmaU5QV3AzZVBQNV9ERGdvenl5YnUycGVDZi1TZ3BuUUtJeXl1ZkJUM2pnOEh6WENBNW9YZjBZTnhuM3JzWHVRSldRN2RRc2dFNi1oTThpWDBSaXZrbGtiVl92UXdnSlZVSXlpTE1ScUk0a1BhdFJxdUhlQkE?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Premier League 2025-26 review: the team of the season - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORkZuMV9ueGMtclBGSUZYd3B5RFNJb3RYTGZkQklQR0owNGg0MUlJWG1DeG1Ca1pMZ1JuQTdmbEozVDFkdW5XMVNEMHp4TUgxVlN3bkxudEI4WEJTaWVWOW5vdkkzaW9La2RnVDFsNmoxSlRZdGkydkxDSTNqeG80dnBFZUdDZmx0bmFsWmpXWGdnQXdMeEFTenV5bGhRV2RfNEFFQkl3dVphV1dLZ29rejZyS2VDSFp3anhxZnFBNkJ0RE9BMFpldmVqY3JMSndlUVUxMXhFUWs?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Champions League final: Why Paris St-Germain could have edge over Arsenal - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMM2JfaVl3ZkJHMjJxd3BmZlJoLWs2dUM1TkdLdWF0RXR3YUxnVmFqTkJhcU9wcl85eHBjb0llSF9iU1BOWF91b2YzVW53dXl6NDFfcXJQX2lvcUEwNGxFdl9SekE3S2M?oc=5"
+            "source": "Yorkshire Evening Post",
+            "title": "Leeds new season relegation odds v Sunderland, Palace, Ipswich, Hull & Coventry - Yorkshire Evening Post",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbWo0R3Qyc1IwUmxxaE45WVBDRWlyZmZYQm9qRG9ZY1FGd01DOWVZT1oxMW1taGdZc2o1czFaaDhIV2VQS2NlSnUxTVlSTEJDek1nMGd1ZVRhR3FLSGRfclZsZk1zam8xSEpVaEgtUnptUHRMTkQyUVJpWVkxOFZCOVQxMk9qUkF1LTd0QTZWLUFHZ1RjeVdRS0pDSkdKLUNVZmk0OUF1SkxsWkRvRzJHOHFaUE4ta0VQS2loOHlWSlo5VERPT3pteTJad3dpWVoxeXJEblBtWE1BUV9ZRUFGMDAwQUxDVzdySDYwX1lwSllUX3Q5aDFENWV0b1Q?oc=5"
         },
         {
             "source": "OneFootball",
@@ -37,6 +37,11 @@
         },
         {
             "source": "The New York Times",
+            "title": "Barcelona agree €80m deal with Newcastle for Anthony Gordon - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHhQbmJpcjE2ZWhVSk8tUUdRckltbEFJcmZheUE5VHBMNWhlQ3M1LVh0LTRfMWNPcno2QjVua1VoX3pnZWdrbDZUTEZBOTN3UVlWc2JGbm9nVTBWLWg5YW1WRmZQVGNwclVCYzl0RmFvSl9DZXVnS0FCX0ZzN3R6V01fcUtSTnp0WmFjSzNUakhPU2JqNmNfaGJFdzc?oc=5"
+        },
+        {
+            "source": "The New York Times",
             "title": "Arsenal value Gabriel Jesus at up to £20m; multiple clubs have enquired about striker - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1lRWUgzXzBna0dFZzVhcmpWSXNHdWZ0NE9KemhDa1dsM3pGMkVSWEVJLUMwYnZfU09FendBSmNqcEx3TF9UMGp6eWtlMjZVZDlEVTZTQ0VxalpqVTc4RHAxVmtMZ1NQWk5UZU55emRNbmtzMXl3cGxaamxxUjIwNFNWdDVzWkRESkZaUS0wRUFRaE0?oc=5"
         },
@@ -44,11 +49,6 @@
             "source": "Football365",
             "title": "Liverpool in 'strong position' to complete their third biggest signing ever - Football365",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUS1KVXhjR0QyUWY5WTAyd3BYSWZST1NGaFFEdVFVS1kyeGwzQnBpTFIxdGxhaVFNclB3aEoxVGsyQzZEclNMMXJ4eGhDelJFRjluMmE4MGhQVDZHZ1NkVXBrdWlad3dZZXVodE5aNjN3SkoxdlJRVDFPdk5kNWJiaTk3eEY1ZjVuTUlpbzZMTGk0UHFMWDJwNXRjNHpXM21tMUFZRzgtbS1BV1k0aTF3bXBDclVoOUhM?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Barcelona agree €80m deal with Newcastle for Anthony Gordon - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHhQbmJpcjE2ZWhVSk8tUUdRckltbEFJcmZheUE5VHBMNWhlQ3M1LVh0LTRfMWNPcno2QjVua1VoX3pnZWdrbDZUTEZBOTN3UVlWc2JGbm9nVTBWLWg5YW1WRmZQVGNwclVCYzl0RmFvSl9DZXVnS0FCX0ZzN3R6V01fcUtSTnp0WmFjSzNUakhPU2JqNmNfaGJFdzc?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,18 +62,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Elliot Anderson transfer news: Man Utd concede defeat to Man City in battle for Nottingham Forest star - Paper Talk - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWZzUXhoUHpaYWRXN2pfcXRNUHVrQUs3NFpLQ1pIOWtFOVZ5WUlDNzRBVFpUcXl2eC0xRHg5eTZsWUdMMUhlSkNuSzV5OTBRQ2dWaGM2Q2ZoN0NseEhFOUJ1WEc5aVFCcGMtSWtRakF2dFZWWlFlUWIwVnE1VWFkeGhEZkphSnZVbHc?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "EPL 팰리스, 라요 꺾고 UECL 우승…창단 첫 유럽대항전 정상 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UOFY3Qm5HWTBYSTMxU1g3eUNjZTVlX2xKZkE1MVB2dkxVYk5nV2xPaHB3VjZEMV9LUWlJVjY2Sm91MmFCTW1Oanh5aVlwUVZFaG1mcGdWWjVuQnVOX2NINtIBeEFVX3lxTE1uOElCOVpRbVVwaEtMVXNCbmQwZVVia1dqZnM4b0RXdHplU3FYaEUwb09jUGVUSDRURm9iTXI0OWlvUlhuWFZQdHN1dzZRR2pyWnloNU81dUJxb0tWUmxGWnFoa2FCNmpVT1FFSTdHSEY1LTg0dVhqMQ?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "네이트",
-            "title": "유럽 축구 휩쓰는 EPL…절반이 다음 시즌 유럽대항전 출전 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1bHJPTy1OQ1ZjVUlHdGViUEV4RDFwbTJ4d2VrX3RUUGVtODlrT0xNb2V6RThULXA1MkxPTXhyUGFmcGFKRjJoc1JXZTh0dXhtVVJ5M0xTdU1BWC1E?oc=5"
+            "title": "'강등 걱정하던 팀 맞아?' 121년 만에 유럽 정상 오른 크리스털 팰리스…EPL, 사상 첫 유럽대항전 싹쓸이까지 단 한 걸음 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2cmtQZ19RdnVmVTNITXFrdXU1U0VFTFZWOWZwUXdVMmFPdTItZXZ4OGFWc1hBWGhFVHRCcngzMW53T3BWZ24yQk9tWVpuRFpIMkp0QXFpYlkxeVl2?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,14 +76,19 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU24wdXBsY0sxR09JMUV6YUJJMDJFMWNkandQRVo0SExpVkY3d0RXT2F2UUxEcmpSY3M5Q0d6WmhSLTVQNGZ3R2dfcmZKSFpwSkd0VDl3N0JMQl9vc1hvU19EdVAyd3ZXZmhYRTFkOC14RnhxaTB4alhTbW5vUWFLQmRfTUszejBSRUdj?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "[오피셜] 손흥민 억울해서 어쩌나?…'강등될 뻔했던' 토트넘, 연봉 상한 전격 철폐→SON 주급 3억8000만원, 평범 수준 된다 \"대대적으로 투자\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qeG9xY2NfYk1JUFBMMHdNR0FkNUFmbUZjMDFYS1NMU1FOWHJxWW5SUjU5dU8zYlY5dDhNSThrZHJiYWlFT3pCZFg0NS1MUkJTLTEwbGhfNmt0VXZu?oc=5"
+            "source": "뉴시스",
+            "title": "EPL 팰리스, 라요 꺾고 UECL 우승…창단 첫 유럽대항전 정상 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UOFY3Qm5HWTBYSTMxU1g3eUNjZTVlX2xKZkE1MVB2dkxVYk5nV2xPaHB3VjZEMV9LUWlJVjY2Sm91MmFCTW1Oanh5aVlwUVZFaG1mcGdWWjVuQnVOX2NINg?oc=5"
         },
         {
-            "source": "일요신문",
-            "title": "‘아스널 시대’ 서막 올렸나…2025-2026 프리미어리그 결산 - 일요신문",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zcXZjMUEza3ktSDc5Qk5iZWc4YVdWdnR6Yk9rVGFDcDRBbWwxNGs1T3hsTkxNOUNUYmQyZERMdmdSQXdTQy1WM0FRREdvRG9EWVY5ci1HNHRyYkd6ZFA2QVdGelhlZw?oc=5"
+            "source": "v.daum.net",
+            "title": "\"토트넘 이적 눈앞이었다\" 맨유 에이스, 손흥민-케인 도우미 될 뻔했네 '팬들 아쉬워' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11dHBfckZ5YW9OV1hMY0Z5X3NRNHNDc3MyZzlxNTMzYWRDbEpQTmlaTFFhNmh6Z2pCbkNIYW9sNlVTNERvZ09MUS02d3hNMFE?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"너랑 매디슨 빼고 다 나가\"…'잔류 성공' 17위 토트넘 20살 신성, 뼈 때린 농담에 '순간 경직' - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0eXFkR2g0LTNacGczQjBTamkxZ1cwM05STVZ5NWZ1VjlmazhOX3cyTlpLVzhpY0JqekxhT0FtV1lhLWY2M0RCbkl0OE5MSmpTYllJaUJIMnlxN0dO?oc=5"
         },
         {
             "source": "starnewskorea.com",
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kY2xVRm53ZklXa216eTRNeVhYX3V3TmVyVDc5YzdLbzJmazVnUUJHclljZng1SzFxcTBfdUh3ZkV3OE42OGtiVnhxYXQ5ZGl0MlJxWmRxdE05SG84N2VnWFQwaEpUUTF4RUx2V0xNeTBvT0owUkE?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'이게 가능해?' 38세 제이미 바디, 프리미어리그 복귀 가능성 제기…\"몇몇 구단과 협상 진행 중이야\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DLV8tc0NnOFZfV0cxSWJSWHVOUXJjRHRIUU5VMWpuTkxLdUtpQWZrS3dBX2cyV2NNZElNTUVmeHY5cW9MV2JWZHB6T1J0b1BnVDJYX1cxY0VfLWQ4?oc=5"
+            "source": "sportschosun.com",
+            "title": "황희찬, 2부 추락 위기 탈출 EPL 잔류 시나리오 등장했다...\"실바 감독 초대형 재계약 제안→벤피카행 차단 필사적\" - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5UEh4MjlsYUNILVRwV3NIMkw0M2M0bnM4UjJzU3l6aldTRTBWSnpnWkMtUnBnVmFydDVhbTMzMzc2cVdvM3hPYUpVZGlXRUVDR3dqM1FyZUVTZ21ESnUxZ1kydmh4c0lOUjBqUF8zMzBfZGROSlpuSTBQelNoZ9IBd0FVX3lxTE8tRjdPdDdZaV9LMDdhVjNDalhKUjUtTU9OOEJwZmxybWF3UV92Y3d1M0FDeHc3aldSa1hiVmFUUjFMX2pob01xTW1hNjhRazAtM2pwWm1qNkExc1hSMUdJSzlpbU0zRkYtU1pDUnFydDlmT0hFMks4?oc=5"
         },
         {
             "source": "연합뉴스",
