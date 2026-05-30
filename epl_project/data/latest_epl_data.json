@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30 17:55:05",
+    "timestamp": "2026-05-30 18:56:02",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
+            "title": "Arne Slot sacking completes a remarkable fall from grace - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FbUZuYWY4ZjNmeWhsWUZYZnFiQmc2bDFEeVdVaVluUUo5Y3NjVk5PdVdJUHowUVE2OHRvSTNkVVBzaGNqUUZUZDdoRkc2YzhCZ0FxNUtmdjV5RUEwOUtiMFQwZlFMWWM?oc=5"
+        },
+        {
+            "source": "BBC",
             "title": "Every VAR error in 2025-26 Premier League: How Arsenal escaped red cards and penalties - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Jb0Y4WjdBWExfZzBDX0t5ZVB6RHN1V2I0bHhvQ0Vjc3Y5YTJybUhuVGFHbElWSWl5dmJvQW40RDFUaERjUG8wRUFHb29FMnViOWlCbjY3UWhCaDdsTnBqZUtMTXJIRms?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "PSG vs Arsenal live updates: Champions League final latest as Dembele penalty levels score - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWRhdUVjT1pRaVlqWjcxc3lMcTJQM2lJV0VqSWhMaUN2YnNGa2FKQTROYkI1SXZ4Q2poTUZUbkNXeXRZWEh2Z1lURVpmRmlUa3BTelJoZGNZNTN3c0Y2WEN0Z1BnNVlqcU5NMTZaVnJ2Z0dramVTT3NsNlN1NUpjaklTeTlQLWRLbU9UUjZxRVZNRDlaYTJTSUJ2VExhMFVTM3dNcHBxUUdaRUNMQXhDNzEyRG95ZTUzZDgwNGRB?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Arne Slot sacking completes a remarkable fall from grace - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FbUZuYWY4ZjNmeWhsWUZYZnFiQmc2bDFEeVdVaVluUUo5Y3NjVk5PdVdJUHowUVE2OHRvSTNkVVBzaGNqUUZUZDdoRkc2YzhCZ0FxNUtmdjV5RUEwOUtiMFQwZlFMWWM?oc=5"
+            "source": "ESPN",
+            "title": "UEFA Champions League final live updates: Paris Saint-Germain vs. Arsenal - ESPN",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUIwNjRFWHBXbzU1dHUwNVpfVDAyU0ZwMzhvV3VhRFd6RWRWOXBGSndEcDBUV29aNmFhdXRzNEY1ZWFtazE3OVdLRGNwaFNBQTNCR002RjBJVGpYT1B1b1BTV2ZHcjIxU1NMUlQ2NWplbkNqLVdIOEROZkVoNnVodWpkWkFOMHlMa2NlM0lRcG5uV1oyaUdOalM5ZXlnVFBDTUxkY1ZJd0gtWkJLTVZvSmVPRFl3NEZ4TS0zWnNUNHM?oc=5"
         },
         {
             "source": "beIN SPORTS",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblA3bkpabGFfU1hnVlVhc3ZIV05KTHpPQkhvZjNyLUZWRVYzVHdEQndfQ2pybGh5dFoyZnMzc3RSNG5QdzlxWS1tR0llWWhEc3lLTVltWE14S1hORTg3OXpCX0ZNcm9OeU4xc2R1OFJ3NEhyc0VyUnBEdWhmVG9RMExwMEZRbzAwMGw0X2dXc0ZQQ2tFdFNvX3FDZkZ0VHNCWkRPUkJqRHNwTEFnVWlCcjRFTE42cmNYWFNJ?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "Victor Osimhen closes in on new club as Fabrizio Romano reveals 'official' transfer bid - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOd0x4UnBqUXNhTWNzVXJtVHFicnhyc2Y1bjFNaTg1eDVVcmRqTlVIbWU2SWV1OXlJT1lsOGFZYXFvZUFHUWNvaXBmU2p2Z0QzZU1lY3V4dzFKaDBXWkpnT2FvU2EwWHRxOXBPcW9OSEpiNUZTcm5aRF9jaUVpSUdkOW1JUjhrYjBCN3V4NmE2T0UtdmZvd0Z0TE16b0JhRzBER0pjYXlXN2MwWElqc3NJZjg4R2NUQlNTcVFaZ21xRkVwZWZRVlVwdFF5T0Vyb295U2NVWXYteWNfUlNDMzV1ZUdMTElFY0ZRSlBiLWFjLVotU3BUa3NYeVhMcDB1OWVQZk5QSTJENnZSa0Fsb2h0VXFfWnFLMjFneXFRcERuVWxVa1o4S2drcTFPTk5sSHlJV3RYMmdPdGZvQ19fTFpKLXlGdTlPUEEtd3d0cE5meHZ1alBaQ2ZGNElCM0dlSkc5OTJ3T0xBd1hmLWZ3N0xMeVZ6SDFfSzVpOHpR?oc=5"
-        },
-        {
             "source": "Football365",
             "title": "Romano drops Man Utd manager bomb with timeline for official announcement revealed - Football365",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1USm1qZU5FMFhBbENFbTVWNml5X01GOFZjRXhna0NHT0U1dXdZdHJvcHhfTXdDakUzQ1dSbWVJZFE3aUhwdDgwbFpURDF1dw?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "Victor Osimhen closes in on new club as Fabrizio Romano reveals 'official' transfer bid - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOd0x4UnBqUXNhTWNzVXJtVHFicnhyc2Y1bjFNaTg1eDVVcmRqTlVIbWU2SWV1OXlJT1lsOGFZYXFvZUFHUWNvaXBmU2p2Z0QzZU1lY3V4dzFKaDBXWkpnT2FvU2EwWHRxOXBPcW9OSEpiNUZTcm5aRF9jaUVpSUdkOW1JUjhrYjBCN3V4NmE2T0UtdmZvd0Z0TE16b0JhRzBER0pjYXlXN2MwWElqc3NJZjg4R2NUQlNTcVFaZ21xRkVwZWZRVlVwdFF5T0Vyb295U2NVWXYteWNfUlNDMzV1ZUdMTElFY0ZRSlBiLWFjLVotU3BUa3NYeVhMcDB1OWVQZk5QSTJENnZSa0Fsb2h0VXFfWnFLMjFneXFRcERuVWxVa1o4S2drcTFPTk5sSHlJV3RYMmdPdGZvQ19fTFpKLXlGdTlPUEEtd3d0cE5meHZ1alBaQ2ZGNElCM0dlSkc5OTJ3T0xBd1hmLWZ3N0xMeVZ6SDFfSzVpOHpR?oc=5"
         },
         {
             "source": "The New York Times",
@@ -96,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mWkc4M3FIeDdRRUtKVzltaFVhMjVzLTJOZDR0cEZWcDFHYzRlUnQ2dlhnT0JLUFBuM0tHNGVnLTdxQTFubTdHbjZwelhFdW8?oc=5"
         },
         {
+            "source": "인터풋볼",
+            "title": "[속보] HERE WE GO 확인! 슬롯 감독, 리버풀과 즉시 결별→본머스 떠난 이라올라 차기 사령탑 유력 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SclVOZlRyZERQWm5Bek5TMk9NUkNZQ1hhMjBYd0EyVHFwWlFaU3JWNkdNNElMZDlnTmowWHhudXVmNlItYjFZNVl5WnNSQVFjNWZJNG1ndWRqdGZjUmlxX0pKeDRYczYzekNhWW5OaV9iNW1Z?oc=5"
+        },
+        {
             "source": "MSN",
             "title": "[오피셜] '프리미어리그 단 1명'...'홍명보호 최종전 상대' 남아공, WC 최종 명단 26명 발표→19명이 '자국 리그' 선수 - MSN",
             "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOTnNJMHhBQ0tVUXdBWXRrWkwyWnlJT2pleVhpeG16d0NNMm4tX1FiSHpRRDVYUnY3emwyV21SNHVKVTNKZ3NwYUFDMlNRZk00WjdPaFVZUlQzV2QzcmV1M3FOc1JKbEdIZ3FsalFqSVZNbTI2UWpnMUlic2ZxamNOaGhsWXIyU2RjT0NyQl9QYXlFVUdoOXlfeHNPb3FRVEVRWk9jZTdHSG94MHRBZ1UzeUFjcy1aZEN2aUQtV2FfR21zUFZFTXp0Zjh5T2FDRTVrcmFyWnRQaEdZdWFLTUdPbGF6dTN0UFBkZVFNaEFoNlpuUWstUEE5UWZicWNjVXVzeTM4enRJWFowc1hVWXhYTURfcEVyUV9fSlVPV09LOFpKQUN4bVAwd0hNVDY1azlGOEVTQWkzdnlfZXhTd3hvcTR4aS1YbHpyWXh3ZlpWbzVObnYybWRqQVhma2VQMXRLLXFEeWNrWEsycDItX183UGRrVTc4RkxsMmlKZzhWUzlfYjhKd29pU2NnWWxqMDNqZk9ucmZmXzJ0aGhPNlJIX2xHYTVqX050c3dMOTN1S0k0Yk9XdnlDTnNfU1dHd01Ec0MzTFl4OHRUbFB1QkZOTGhXUlBDbFBiMnJMTDREZjdpMUM2UExMZ1BaOElZOVVtbnF5UHJ2c0VIVWxCVXlwWlRGa3ZFZ3NLZHpDdVZKVGtkQ3JNQjRVU0pmOC1iTHFDOVIwNUJhZnoyR0dLR1ZlOUZiWHg4ZnNJRmFpTU1PN2I5d1Vl?oc=5"
-        },
-        {
-            "source": "아주경제",
-            "title": "[포토] 이상훈 아스날 코리아 서포터즈 클럽 부회장, 우리는 잠들지 않습니 - 아주경제",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySk5hY1dFX2kzRFFIYmVmV25NelFjQlNHd2ZqMWF2WmhsVFJUdTZSVVlVZzZfNVpTQ2xKaXZ3TnBmcmJpdXIwUlQ2RngtOXZxYUxvUDJYdXhpQdIBWEFVX3lxTE42b24wZE1DVkRDVXc2S0RCYzV1QVRNWk9OUnVsOEJPLUJ0UU5NWUhrNzZBOFBWb2xVNWNBYUdzdC1PdVVOTUh4c1A2QWtmeFJSQWtaSU5HT3Q?oc=5"
         }
     ],
     "transfers": [
