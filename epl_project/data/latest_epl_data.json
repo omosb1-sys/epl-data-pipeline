@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-05-31 02:07:01",
+    "timestamp": "2026-05-31 06:45:07",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Arne Slot: Liverpool head coach sacked a year after Premier League title win following fifth-place finish this season - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQXJJSEJqSVpWaDU4aFFPTUpMUzloVjZIdEJtSnE3M19raTVDN19xY21QaVlGRUlGbkJTbHZBOW9LNmxKSGZ1SjBLd2ZYeGpPRDFfUkVPSWoyZUpLdXpWN2E0Nkg0eVU5WmNxSEItNzh3cDNtNVFEeDZUbDJaa2VuQjgxWlJQdzJtYkdxYmluWlljanQ4S3FhRkJUSTl4Z2EwVGpwTFZMNW1HWmx3NGNMSmpuUEVzLUtIVHgxT3lzUFl2QlF3cHVvTzVWTlFuR05hTl82TkE3NkltMXFpaFNIXzYwd1Z6WGI1VTFwaGxqQlBXMHN6Qnh3YUZwZldXMjNE?oc=5"
-        },
-        {
-            "source": "Sky News",
-            "title": "Champions League final latest: Arsenal fail to win first Champions League trophy after losing against PSG - Sky News",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEdwRDhzWTQ3SHo3Sk95My0xeDBEMGh3V2JUYlU0UGxsbE43TkZqTk9UWVJuOVRWVnJYSU5FbWl4NHRXeWxFVWxZbDJ6NGsxTFhOc1F0SFhpaVdZTUhfMFcxYUZzdXpuT053UkctYmpweUVhTnpVVEliVTAyQURMZXMtOWZRUFlFcUtRaDZOWWVudW1lSHE2dVJqbWYzZjhBMDkyNllORXdGQnhSUEhjcGR4MkVpc0xfNlFnTUEwMGV3OExu?oc=5"
+            "source": "BBC",
+            "title": "Arne Slot sacking completes a remarkable fall from grace - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FbUZuYWY4ZjNmeWhsWUZYZnFiQmc2bDFEeVdVaVluUUo5Y3NjVk5PdVdJUHowUVE2OHRvSTNkVVBzaGNqUUZUZDdoRkc2YzhCZ0FxNUtmdjV5RUEwOUtiMFQwZlFMWWM?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League LIVE: Build-up, team news, score and live text updates - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIZm9ZQktwTUw5ci16ak1ZQWtNdGg2UjJDWnpPVEhOSkJBT2QybU9nNG9nRTI2cno2UTBuR0pRY3Y5cnNXNmRnTkQ3TDdBaDJLdkFieUN6U1h1RkdnZ1JuSDNrcXk?oc=5"
+            "title": "Every VAR error in 2025-26 Premier League: How Arsenal escaped red cards and penalties - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Jb0Y4WjdBWExfZzBDX0t5ZVB6RHN1V2I0bHhvQ0Vjc3Y5YTJybUhuVGFHbElWSWl5dmJvQW40RDFUaERjUG8wRUFHb29FMnViOWlCbjY3UWhCaDdsTnBqZUtMTXJIRms?oc=5"
+        },
+        {
+            "source": "The Mirror",
+            "title": "Transfer news LIVE: Man Utd 'make Fernandes move', Arsenal eye Rashford, Liverpool exit - The Mirror",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXBzb0JjV3Y1c2s4Z3FRMW55X3prVTdMbWtuRmRzMVM3NG5KTzF4Tm14QnAxR1hybGhwOHBLaHZza2x2NDdwNGNpUWxkQU9ET3JlQjh4SG9JWFY5TER3bFhpcFR1bVZYMnFvZklZVGo5UHI1SjFRVGRxM1NEVEdSY0hMQzJCd212VXhHUmlhaGdoQWfSAZgBQVVfeXFMTkxURnprUG5iUmxyalVkekY3TlVCbkFaRmtuMllvUFJIR0Z0MVlKR1p1cDRnbUk2bGp2LVBmUXdjLXdLTmltSEk4dm9ENFlaN3hrY0JMU0ZSWXdGRGhYMTN3WmZmUFlORkZCMDRocllWRXhfOWJFU01Uc1FneG9iMHhNTVRCYXBCLTdQYUdZZXFrN3lzR3ZYWG4?oc=5"
         },
         {
             "source": "beIN SPORTS",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjhqSFo2QnB2QkJaVndJbkZGeldVV1VZQ3cyVXlGWkR5MDJoWEVKb0dpZ1JfdmRQWENoV2NnVzJvS1JqUklYTUNMOTFkalNmTEJqZnluQUhpOVdMNVZZQUFaRmw3bTdjTEpjWjBYcmdkZVRScktMSHhTTjBjcUlJeXk5SVJrdmZjeTdUcW8wdnZMU1AxQTRqY0RjSFVYdGMzdTdYTm53?oc=5"
         },
         {
-            "source": "MSN",
-            "title": "Victor Osimhen closes in on new club as Fabrizio Romano reveals 'official' transfer bid - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOd0x4UnBqUXNhTWNzVXJtVHFicnhyc2Y1bjFNaTg1eDVVcmRqTlVIbWU2SWV1OXlJT1lsOGFZYXFvZUFHUWNvaXBmU2p2Z0QzZU1lY3V4dzFKaDBXWkpnT2FvU2EwWHRxOXBPcW9OSEpiNUZTcm5aRF9jaUVpSUdkOW1JUjhrYjBCN3V4NmE2T0UtdmZvd0Z0TE16b0JhRzBER0pjYXlXN2MwWElqc3NJZjg4R2NUQlNTcVFaZ21xRkVwZWZRVlVwdFF5T0Vyb295U2NVWXYteWNfUlNDMzV1ZUdMTElFY0ZRSlBiLWFjLVotU3BUa3NYeVhMcDB1OWVQZk5QSTJENnZSa0Fsb2h0VXFfWnFLMjFneXFRcERuVWxVa1o4S2drcTFPTk5sSHlJV3RYMmdPdGZvQ19fTFpKLXlGdTlPUEEtd3d0cE5meHZ1alBaQ2ZGNElCM0dlSkc5OTJ3T0xBd1hmLWZ3N0xMeVZ6SDFfSzVpOHpR?oc=5"
+            "source": "Hotspur HQ",
+            "title": "Fabrizio Romano drops relieving Cristian Romero transfer news - Hotspur HQ",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVZFMU5rbV8tdld0bEpuSGhkaVgxZFVaRmhnbVRiUE1ZdWpvV2d1ZG5xMzJHWl81RkI0elZJZ3ZFNmZESWZsakN5WmtkYUFjeExYUDNDUzdmckNVUlFlaGVtYzFQMjRFZzk1cU45UWp4LU9ZRDhXUzhzUDAwYjZrcEpxcUt5Vl9hUU1aMXRmekVZWGdpZnlJVkFMOWw?oc=5"
         },
         {
             "source": "The New York Times",
@@ -62,48 +62,48 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "'EPL 우승→5위' 리버풀, 슬롯 감독 경질…\"변화 필요\" - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nOTE5VHprakllZXN5NjViN1E2eExMR1phYndFZHBwUFpRb3lBdS1xb0Q2MlZ0cjJDSVlwMGtoSDlfM2pkV3U2U1lHX3psNXVGMjZhbWlkeWNvV3YxWUZCctIBeEFVX3lxTFBlTXJwMGVyUkxhWHQyUDIxWnVJaHU3TFR0V3k5Nk5na3lBTWhpVkwzcWwzbHVla2RlMEc4WUdvV2VQS1Ntcm9GWEpGSmtxc3E4S1o2cXoxQ1p5aE5IbUpxRlJIUi1NR1c3R0swalF2X0l2RWRPLVJiSQ?oc=5"
+            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdE1qcDlSZU1XZEJrM1lLQWYzRTVyQXJqNDdTMkE2QWJvTmdBLUlhRFhtWjFHYzNaRFBFWWVRb0JqR1RGclJ4SHVmb1pfRnJzdHBNa0JBMUl5UHpSeW1zZTE1Y3pJUnI3aGo5RXBldldTZk53R19vQkd5MXFGbzB5SEMxc1Rjb0lEN25rUE81eXotREFnYXZhQWRVQUVkc0FhY0ZRQVVneVdITjE4Zzl4OXJndENTQmFqNG10UmNkdlNSTDE1c1pTVjJpU1NsU2FPdzVRNUdteUpEM2E4d2NsWl85SWF1QlVKZnBhLTZlQWNCNERQVjNB?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "무관이어도 14조 가치! '브랜드 No.1' 레알 마드리드는 여전히 세계 1위 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmRTR2xpS1lQcHQzcGtRd2NVZk9Jeks0ZnRocElZYU9XeHNpWU11d0M2aEkwSXlWQlpGZ3E3emczcDdaam8yX0xYQVBvNl9IcU9pSDkxSHBDVXNzMWh5ZUNsREJDdVpELW5zdnJNVFNFM1lzNHpmRVhzc05KSWRPTFg1RWRCbzNkbGlV?oc=5"
+            "title": "\"우린 그들을 사랑한다\" 뼈아픈 준우승에도...라이스, 실축한 동료들 위로 \"두 선수 없었다면 리그 우승도 못 했을 거야\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEUyVFY0SGFad0Z1T2NGbVdZVTJ3bTNQWUFmWmJraTZUWFFlQ2NvRFhZLVJtRXdSUzJBRHRnRXdzc0ZzMW5mN0wyQWtiaUMzOTF3dEhPeW1oTlg2R2JxeEZYRmh6TURhYzdMZ2xqYTl0Uk5FaHhFWmswcmpVUzFkWkdKNlJacHA4MkhJ?oc=5"
         },
         {
-            "source": "연합뉴스",
-            "title": "PSG, 아스널 승부차기로 꺾고 UCL 2연패…'우승 복' 터진 이강인 - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ka0VkX3YwRHRBMy1ZSVZGRURNbVRTRHluZnhiOXhFRmhMTlJxUlR5eURPQUNFUTNXMTkyTW1sR2k3N21pR0tXOVFkQm80NjIxZGRzaEUxNlBtYmPSAWBBVV95cUxPMGdua2lFbHRFV2N5NjJpVTdPeGhfektnZTZtUm9qSHVSTEN1bE8xdTd6b2laTDM0bWJ3dHc4OHkxN0ppZmc1SzBrU0dXMjhRUUxZOGdzaTgtWjBQNk4tTlk?oc=5"
-        },
-        {
-            "source": "KBS 뉴스",
-            "title": "파리 생제르맹, 유럽 챔피언스리그 2연속 우승…이강인은 결장 - KBS 뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dFlOMjd3WGtISlhDWV9DQ3J3bU12UHZfc01aTS1kQm9WSTlwWUw3RDlBSWJzeE43Y2VCeDcwaEx6NDN2ay1LendYYzRuMXNKd2tWZjEwSjh1LWs?oc=5"
-        },
-        {
-            "source": "연합뉴스",
-            "title": "EPL 5위로 마무리한 리버풀, 슬롯 감독 경질…\"변화 필요했다\" - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZ1ZfYWZWTmc2Qzg4RGw1OFRpeUFxMDAwVlluY1hmRlpmUjJuQmtOUlF0djNWMFlLQzl6bVM3RktJZ29LN2ZlM3pDTjFOUm5GV2xSOExQQkVnSWfSAWBBVV95cUxOdC1jcW1RcTBKeDFzcDV4RWFMa3phdXJXZkRiZjJkOWhLTTNscjNXMkZKSEJGZ09HMnEyYnByVEFLNWxlYVNkNDAxTTdXZE9uM1dPU0N6NFpZMEh2dk1pem4?oc=5"
+            "source": "네이트",
+            "title": "프리미어리그 리버풀, 슬롯 감독 경질…\"새 사령탑 선임 진행 중\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16NFJiblpZWlZWeG03ckRnR3p4bC1sd01UZm1lS3FpSkFvSFRCWjVqdUJOeFBqUUVLOG5ZdnBfNFJaUFcwcmVDUGJHZ0pEQ1RjR3dtcVNVS3dka1NH?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "EPL 역사상 최초 ‘유럽 대항전’ 모두 결승행…트로피 싹쓸이 가능할까 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwYTllRF9vdWd1OWRtR0xiTnlEQWVUT1JzMUN1QjFlc3RlS0RtaHc5ZS1hYTNKa2QwaVEtZXhPc01icUZxR3QxdlZ0QzlOd0U?oc=5"
+            "title": "‘속전속결’ 토트넘, 올여름 1·2호 영입 임박…BBC ‘비피셜’ 떴다 “로버트슨 이어 세네시 FA 합류 가까워” - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96XzVCRmI0TjRvaHdMbzhXOFdCMy1GRDJZOVRjbENWOHpaVUJNc1FVTFl4Zk0zRkc2TjlOeDRSVmdmRzdNcVlQRXlLVDVkQmc?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "리그 우승 1년 만에 경질…리버풀, 슬롯 감독과 전격 결별 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aldEYW1kUGJicHdHMWsybko3UkN2WV9pRkUzRFhLSmFBZWxic3AzU3JBa2FlelFyOXFMN2lYTGtHWlYwRVFYVmF3czhPTmZDWDFBb3ZuV0xaejFJY0HSAWNBVV95cUxQVXo5eFFRYUxzT0NkY29zc3Bhbl9odC02ZFlUaXI0VlR3UGZVaEkza3RhQzE0bmhtTkxzQmtMWWlTQVAzWW5MR0ZMZEl6S0lBdnpoNVNlX0MzdG1ReWVWVVd5LUE?oc=5"
+            "source": "MSN",
+            "title": "[오피셜] '프리미어리그 단 1명'...'홍명보호 최종전 상대' 남아공, WC 최종 명단 26명 발표→19명이 '자국 리그' 선수 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxOTnNJMHhBQ0tVUXdBWXRrWkwyWnlJT2pleVhpeG16d0NNMm4tX1FiSHpRRDVYUnY3emwyV21SNHVKVTNKZ3NwYUFDMlNRZk00WjdPaFVZUlQzV2QzcmV1M3FOc1JKbEdIZ3FsalFqSVZNbTI2UWpnMUlic2ZxamNOaGhsWXIyU2RjT0NyQl9QYXlFVUdoOXlfeHNPb3FRVEVRWk9jZTdHSG94MHRBZ1UzeUFjcy1aZEN2aUQtV2FfR21zUFZFTXp0Zjh5T2FDRTVrcmFyWnRQaEdZdWFLTUdPbGF6dTN0UFBkZVFNaEFoNlpuUWstUEE5UWZicWNjVXVzeTM4enRJWFowc1hVWXhYTURfcEVyUV9fSlVPV09LOFpKQUN4bVAwd0hNVDY1azlGOEVTQWkzdnlfZXhTd3hvcTR4aS1YbHpyWXh3ZlpWbzVObnYybWRqQVhma2VQMXRLLXFEeWNrWEsycDItX183UGRrVTc4RkxsMmlKZzhWUzlfYjhKd29pU2NnWWxqMDNqZk9ucmZmXzJ0aGhPNlJIX2xHYTVqX050c3dMOTN1S0k0Yk9XdnlDTnNfU1dHd01Ec0MzTFl4OHRUbFB1QkZOTGhXUlBDbFBiMnJMTDREZjdpMUM2UExMZ1BaOElZOVVtbnF5UHJ2c0VIVWxCVXlwWlRGa3ZFZ3NLZHpDdVZKVGtkQ3JNQjRVU0pmOC1iTHFDOVIwNUJhZnoyR0dLR1ZlOUZiWHg4ZnNJRmFpTU1PN2I5d1Vl?oc=5"
         },
         {
-            "source": "문화일보",
-            "title": "파리 생제르맹, 챔피언스리그 2연패… 아스널에 승부차기 승 - 문화일보",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBycVRCNVBtanI0SFV3VUU5Wk9oVEl2ejdwanNvRk9JS2dlRzBfblAza1VXTmV2YzRhYkVUbGI1R1hlZ0JwT2hPeFpJOFRtUmVy?oc=5"
+            "source": "sportschosun.com",
+            "title": "'슬롯 경질→후임 속전속결' HERE WE GO 독점! 리버풀 새 감독=안도니 이라올라..'경영진 오직 그 만을 원한다' - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1SlN4bDJtQlRPVC03UGdnaXQyelBvZ3pSTDQyUGRpN3ZHX21yQ0J4RU1XTk5yYVFxM0RYeGFWYWFBWmlmNFlHVmZxTk9qS1NLV3N6UzZ1LTZTYjNGWkt1dkgyRkNRdnBVMEJUWHRnQ0NleExqa0dOQlhJdU5RZ9IBd0FVX3lxTFBSdENLMTAtUzRZZGgxTlh4OE9lLU95MFlwWk9EZExUXzNYeS1RWTg3LVd6N3ozR2V1MzY3SlhFNzZ5Wk9HX3FJelN0OC0tcjBZUzZSZUtpWWwwbUJ6UnNFRGstT0liRUV3Zk1SSDNNNmlVdXc1RVM0?oc=5"
+        },
+        {
+            "source": "gukjenews.com",
+            "title": "라이스, 아스날 챔피언스리그 탈락 \"단지 시작일 뿐\" - gukjenews.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BX2FGNU1maktDZ3doREhMbkgySER5Q1VKa0IxYmN0cG5GSUtRZ2tZZ2hQeWYwaG5WWjNjczJCbF9ELVV6Xy1KeThiUDVGRzdaVUdRTkpBTEx4NGxqa3d1X3dibXVlWndPdGtGYzB3?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "[오피셜] 리버풀, 슬롯 감독 경질…\"어려운 결정, 변화 필요했다\" - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeUhXQzNRYVFvQ1lzblFJdFVCeU5DNG1oRmM2dkNEdDNuMUdWNzBqbkVPZ2k3alhFTk9sRzhaWllXRU9pNWxfTFdsSGdOX2ZmM3YwMUpMc2lGNmVZbGN6MW10MzFWQQ?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "[속보] HERE WE GO 확인! 슬롯 감독, 리버풀과 즉시 결별→본머스 떠난 이라올라 차기 사령탑 유력 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SclVOZlRyZERQWm5Bek5TMk9NUkNZQ1hhMjBYd0EyVHFwWlFaU3JWNkdNNElMZDlnTmowWHhudXVmNlItYjFZNVl5WnNSQVFjNWZJNG1ndWRqdGZjUmlxX0pKeDRYczYzekNhWW5OaV9iNW1Z?oc=5"
         }
     ],
     "transfers": [
