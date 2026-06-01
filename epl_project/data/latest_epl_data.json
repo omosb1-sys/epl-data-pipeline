@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-06-01 08:20:30",
+    "timestamp": "2026-06-01 14:45:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Arsenal’s Premier League trophy parade: title celebrations in north London – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNakxtcEFjeVZpZU5yMHhkeDlpdURmOFk4eEJuN2dpS3h2Z3FET2tDT3dzR2pCN0pJVngyNm5FZnV0MGRJeFA2S0ZvMV9nU0RTeTREZ1g0S3FlM2htWDZnQ0MzSklwZk9xdllXUGIzdlhsYkhhSlFHZGtId1pBWGhkX0Y3Wjg1Ql9ET3RDUkFUZm1makFWbm1odkZnVzFSLVczWV9hY280MzVwbENxZ2pGRUdPZVFkNXN3YUhpcDZKX2t0a29fMUFNdHN3?oc=5"
+            "source": "BBC",
+            "title": "James Milner retires after ending 24-year Premier League career with Brighton - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BeTBYME9tWFprbEdORTlpS2wxZ3kydkFQOFpsazBPQk4tVjRwWWFnc1JhcTF4VThrYnNJZGg0aVRteVI3YXZDMEZ5Zk80ZV9zWG45ZTBUUGRheUx4Q0JxY284R3ZVTjA?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "James Milner has announced his retirement from football at the age of 40. - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQXzZ3WGY3UjZWUU9yWlhUZ3hwdjY3c3JHXzNaemZwclZkMno2bUJwUm82V3BzelRlYWwzbzBuQ2xrZEYtQjFqeXMyeTZNbkd5amhnbWtqbEp2UmZ4c0ptZHY1M1Z5M0lEdHl5aGJhU05iNHhyZ3hYOGpKWWwwTkFQdV95d1JaYk4tMFZUWFRKZXQ1NnQtQkJiS1Q4MGdOdk4ydkVDRkoxR1hYakk4Nmd6YWhrQmtaUE1fRklzaVdPLS0xcDNNblVDeXF6dV9vcDBwZXBRbHl0b3JPcmtscl9DdWVVc1lpRk5WaVhOTTFZODRHcDlmWHVucFhPV3FRaHFCUW5N?oc=5"
         },
         {
             "source": "BBC",
-            "title": "James Milner retires after ending 24-year Premier League career with Brighton - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NRTVJOVZiTmoxUE9qemZZUjh3QmVaWUFGZXFFekhIVEZMMTJRWEMyQ3pBT2pJZkk2NEtySDF4VlhHeUdPZzVvUmJLLXRrdXJmQjVXeHZSQkZDekhzY1JmTFZkeVlSNWt5UlE?oc=5"
-        },
-        {
-            "source": "Hull Live",
-            "title": "Hull City begin work on multi-million-pound upgrades to meet Premier League demand - Hull Live",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkNUMEFnckUtVjM0TTc5QWNNbG5sMnVnbGs3d0gycUliTzVpc2sxMWtvZl9wYkwwVFNnX2l6dnBnRHpzRTB5M1BQZnZMM21kOWZlZ2xBZ0hwWGVPNDZ0VHNpUXhpaWFmTEs1VU9HbDRWSmctdDFuZlBlbldHU1FrTUoxLVlGMjFLR2xYR3kzVF9mMFdTUjZuSU82RE3SAaIBQVVfeXFMUEo3YzNTakZ1SDhaX191blU1b2EtTWxGM2VzWjEwTldldWk5eUhGSWFTc2otTUMwNG1IMGVEenVtVkc1VW9KOWlPZC1YNUk2SkFPcFZ5SGU2Q3BmaW5OS0xuS2ZkNG0zc2VMMlhyVFhLandhWHhVenoyMldJLWFLRVdxS1NxX3RweVBjYWh2VkhrMWllZW1vNmUtNHhqM05rcEZB?oc=5"
+            "title": "Newcastle news: James Milner retires - have your say - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zS3dORzRpS0l6SFZmSzdQRlRWRzAxWjNPUEhxeG5FcFNTakwxaWpIR3pVczd3ZUx3ejF1SlZoWDBjN25DNVFvbEtxVmFMNndXNFVqdmg3V1QyZVdWSFNpQVJ4bkQ5ZVdHRFE?oc=5"
         },
         {
             "source": "beIN SPORTS",
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTVBJRWhieW1lcnEzb201ZWFZck96WXh0c3RwN2F0aFdJSGZEOVE1bGxUVnhCZVBnN2Z1Und1Ym1CbGNDNFZ4R1M2ci1rMk9ETXF6ekFqbzladXU0Rk91SmxjS1VuMEtwaGhtcl9Ha05GN2xVdzg0dUEwcDlTMzFJcjBrSGVBTm51V3pEb1lYalJ6dF9CaXlNMWZxQmUzVTgySVpBVlBhZXMyZVhJRU1IRkZLSnZjQTNwamM2QnVzQ041T0hfUDEyYnlPRU04S0RWa0s4T2NOeE91MkJkQ2xLc09BZi1aRHNXejE1blV1dThNQ3lhZy12azhWYnpqRjYteTdoSEkyQ3ZIdw?oc=5"
         },
         {
+            "source": "The New York Times",
+            "title": "Arsenal value Gabriel Jesus at up to £20m; multiple clubs have enquired about striker - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1lRWUgzXzBna0dFZzVhcmpWSXNHdWZ0NE9KemhDa1dsM3pGMkVSWEVJLUMwYnZfU09FendBSmNqcEx3TF9UMGp6eWtlMjZVZDlEVTZTQ0VxalpqVTc4RHAxVmtMZ1NQWk5UZU55emRNbmtzMXl3cGxaamxxUjIwNFNWdDVzWkRESkZaUS0wRUFRaE0?oc=5"
+        },
+        {
             "source": "Metro.co.uk",
             "title": "The four signings Arsenal want to make after Champions League heartbreak - Metro.co.uk",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVJiRDJVdzNvcjBIOFlsdEdpSGtPOElERmlBc1BOVWRYOVFJeDBERTA1TEFVbHZUY3A1NG84eG9aTUtWR3h2aFRBbFNJSVBlUjEzeGxfRE1wNUxEMl9JS0dWX2N0bGN5bDR0cTVtVTFubkpTTVpqOVhvZ25MOXpRUUYxVGJ6bUpIQkphbmlmU1RPaUc3UU5lY3BPVHhzbGZfMWfSAacBQVVfeXFMT043bmJwN2VQMkVoRTcycDJsT2ZVOEFxOEVxTTQzcGw1eW9JcUZBd1pLRWx1SHZnWmI1UmktV2lIaWZTd0dOWFhNSk5yVkhBSHJicWFKU1hXOVdwa3FkTy1UX3dRYlBIRk5SRktNSFViU2Jvd1BnWGpxYkg2VkVTeEpGSTI4OTcwbkpGbDdYVkhVOTROcFQzTkZSaWJzZnBGNWZJUTNaWFE?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Andoni Iraola clear favourite for Liverpool head coach job after Arne Slot exit - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclhBaTk3X3ZlWmpIUTVGQWtOMVBTckhIZXI1RWIwQXFwdVI3aGROTjdxdzlJN0R2UzZEMGFySWhCYVJtV0VBcVNPTjdUVVVyZF9YczljdUJUT0RwSXZ4dWJNODVjekNtUUxQM3VseGtMTVdoejZpZ3djZGhLZFV5U3R5VW5QWEMwVmFFdzdyaU9uUTk2aVZZ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,23 +62,28 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzlsSWU2ZkVSODItRlF6SVdfS3ZldzNiMzlmdERZTUswekt3Vi1pSVAzYnBnZ2pRZDh2Y0FJRmlIdUFiMDFoV3BVSm96QXhSTzFzdFV3LUtJa09xRmpkMlh0WkpMLVJPZFdZU0dYcHRXM05Gam1YX3RBelNuVnJFbU5QazRFV1hJeW40amVFeHF1QVI3MEhUdGotR3V4QlZibVV6Ykdyd1BJSVlueHRoVERySkhHbVg4UHMwMWJBQzZVTVYwQUlueXhVLTBtQWR4MFdOcEtFemc0TG5CcV9VVEZCUWJXRHpYYjJKQXRFajFzckY2?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "\"우승 감독을 SNS로 저격해서 자르다니..\" 리버풀 전설, 슬롯 경질에 '선수 권력' 깊은 우려 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVdjc0g3Q2tOUkZhMGZ0eGVxVGJpVmtMM05PQXl3OFctVWw3OWtBUHdJaUczY1ZlaV9zTHBXNnBOWEpJTFRMdEV6V0FUQThOLS02ZGFhdjAwdDdLV2FTRjB1bEpkOVdfTXg0d3dUdGdZNWdSM0E0V19xaERLZm5lV2doSFhYbm9zYW1r?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "\"잉글랜드 역사상 최다 상금 신기록\" 준우승 아스날, 2500억 넘게 벌었다...프리미어리그도 1조 넘게 '싹쓸이' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaVZqQXdqWEdPZDdJT3ozS3F0dndBN05HX3NqV0dkQ0EzaW0zVHFrUnl2YmVWNXNYSWlvR2JfWVFhaWtPT2k0cGsyYmN2Yms?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "네이트",
-            "title": "'세계 최초 무패 우승' 英 구단, 양민혁 노린다…\"프레스턴 임대 영입 대상\"→YANG 'EPL 데뷔전' 또 연기? 2부서 또 뛴다? - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mcGRxSU9CdWhKQmEtNjBSdnRLSTRHYmtjY2tZY0hjWXo2S2hwNXduVDBLV0tiSkppcnB4djh2X3dCeExWSHg5NHEyVHZnQXZsRDlBZUNRSHA1aE1L?oc=5"
+            "title": "[오피셜] 현역 2위와 195경기 차…658경기 '불멸의 기록' 남긴 40세 밀너, 24시즌 PL 여정 마침표 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45WjRtSFFPNl9hRTU3MF9KVHB5QU94YVdiVUNjeUVrbE84cng5SWJfQllsLUkyZzR6WTVJcjZTeHJwdlk0MlJndERNQURsWHc3Q25UVmQ0SmcwSDFN?oc=5"
+        },
+        {
+            "source": "스포탈코리아",
+            "title": "[오피셜] \"최소한의 노력, 최대의 효과\" 367억 GK 라먼스, 올 시즌 PL 최고 영입생 선정 - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDVkcU9wODRjY3FsU2U4YUVQQzJudm5PX3BPaEN2YUJ0dHJVMGl4R0hXNXJKa3hFTXEwc0pXcHdLSl96RG9CZkx5NUpiQk5fZUpsS2ZzYzg2enVRT2lTN01ZRkNYVzRLaFFPRThaY0VOcVZlUlBnQ2dfY3dCZF9rOTF3?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "\"리버풀을 마땅히 있어야 할 자리에 남겨두고 떠난다\" '우승→5위' 슬롯, 눈물의 작별…'비극적 죽음' 조타, 추모 잊지 않아 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjlJUnIyVm5KWkt4SUp0TVpWOHo0LU9RN2REd3JfZUFGS2J4bWZ1RW5iN20xUHBjM21DcjU0bGZrQ2RhTy1ZRHJwcE0tMzVlYXkyQTAyOEtyY285R3hVcXh2SXJrdUVSNFNKZUtBT0ROS2pWOWl6NGh3MmJsUUVXLWpIS0Q1ZmZiRjcw?oc=5"
+        },
+        {
+            "source": "osen.co.kr",
+            "title": "PL 우승은 했지만 UCL은 달랐다...'점유율 25% 이하' BBC \"아스날, PSG처럼 변해야 한다\" - osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LckphaXVaQXVJS2RyWVFMUzhaTWFkT2M2cVotSzgzckctNURzZThjNEMzclJGMVZQdVE1M2NVaXRJRkFNZzFDcWkzT2NjTTZtcHZF?oc=5"
         },
         {
             "source": "starnewskorea.com",
@@ -86,24 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44MDBUeTlEMnJyQlE2WDd2ZEllaVQ2LUJCYnBCUklQelR5TWFUWTN1T2Z3MzJRV2kzaDFIdUdxYlFfVjZ1UDdWeS1FRGV4eW9hV3JCVFZqd2ZmNEFPSE5XbEpuck9CTUV2bExZSWtfbVhybVd0MlE?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "\"제가 마지막에 차겠습니다\" 5번 키커 자처 마갈량이스, 결승 이끌고 준우승까지 '아스날 운명 쥐락펴락' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTWZEVzRDOFRwa3psc096Y296QVlQa3dHdFBGcmZXUDVsSkJvclB4YkZlSVhWeHRhd1hzTmQ5RUYyOFZPdUxYTEtnNUJHSzQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "\"잉글랜드 역사상 최다 상금 신기록\" 준우승 아스날, 2500억 넘게 벌었다...프리미어리그도 1조 넘게 '싹쓸이' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaVZqQXdqWEdPZDdJT3ozS3F0dndBN05HX3NqV0dkQ0EzaW0zVHFrUnl2YmVWNXNYSWlvR2JfWVFhaWtPT2k0cGsyYmN2Yms?oc=5"
+        },
+        {
             "source": "SBS 뉴스",
             "title": "프리미어리그 리버풀, 슬롯 감독 경질…\"새 사령탑 선임 진행 중\" - SBS 뉴스",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GRWUyV3V0dkN6U0RxQWZybW9BRlRQR01ZNEZCZlp1VGFnTHdXR09YSVE5MjY2cGM3WUR0RjVTNkFJX0FuekpVR2t6bVV4Z21XYWRrbUdodEZlMWxNT1huYl9CVU5DbjBsNVE?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "'선수 잘 본다' UCL 2연패 PSG, EPL 10대 선수 최다득점 기록 보유자 크루피 영입 점찍었다..'셀링 클럽' 본머스 이적료 최소 8000만파운드부터 - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3eXZpdzdjbU1ETThITlpDbjJYbHdvb3lnenZnSnd5dHdvUnU3dW90YzdSLW5OUWd4aGthdFE0V1VtOFdZZ2NWaXpJaklqT3NNRTJad2JUY3NYaDl1Y2xIMzk4R1lBeWo2UWhGVHZDTUgwRWFBQ1VLMTdyMWxZdw?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "22년 기다림 끝…북런던 거리를 붉게 물들인 아스널 우승 퍼레이드 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5VE1aZGlUUWM3WXdXeXVYemJvTDJ1OERzVFU2WTFZSC1tZDFXVHRTTXQ3SXU0V2FWNUVyMnkxVjkwTnljbXdvbFZKbnNlTUJ1THk0cnhUYkpEX0pzQmfSAWNBVV95cUxOMmFudXA1RWV6SWdiU1h3MGdEdVFqNUExa2hvV21xa1ZWTEZ1TTNIRUY5N2JjQ2x1X011XzdDRl85MXlrR0QwZEhtektWOW5jcnVfVnB4RklPUUp3TWRBMTI4RVU?oc=5"
-        },
-        {
-            "source": "시사포커스",
-            "title": "‘슬롯 경질’ 리버풀, 이라올라 감독과 협상 개시 예정 - 시사포커스",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RTXZkbDloaGZ2aURnbkt1UGk4UHVGU0xvTVpjc3A4c0dEQWdIZGJjWUppX09XSnRxUlc4WnlKMERHSGF4d2J3Y3NXdnpiZlR2VVNIQkcxLU1NOVdXN1lucXMyOURVM1ZxQ2llVzVrWQ?oc=5"
         }
     ],
     "transfers": [
