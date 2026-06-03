@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-06-03 05:53:55",
+    "timestamp": "2026-06-03 10:29:16",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Huge crowds greet Arsenal players as they parade Premier League trophy - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByeDBBSU5QNFRrM2FnTUJaQ3BhdGR0dVk4eGxKcEplUUVCeTZDemN2SEUyWHZZZFRxLVVHVjA3MW5sX3l6TUVLMlQ3Z1UzMmYzWjFmT0dTSQ?oc=5"
-        },
         {
             "source": "talkSPORT",
             "title": "Arsenal's four-man £314m spree to win Premier League and Champions League double - talkSPORT",
@@ -22,6 +17,11 @@
         },
         {
             "source": "Football365",
+            "title": "Liverpool humbled by Sunderland and Palace in World Cup rankings - Football365",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzdpRVRIWDcxV1dKQWVmUzN4NVl1cm5zd2YtSWZwTVZlT2lqbUNDR1FobmtheVkxS3pmeEM1SEQ2UDlBWHpaTHN6ajUzeDgtbkN6UEpjUFBZUUFIcVlTVEdGZUdEUWlJT1hIaFA3OE94LXVmS3o4dFJRbjY0OU1SdVFIODViaXUyZ3RRMUhNQjRaRlZrUnFoWFRxQTB3Nng5d2x1NnJZcnJwT3NB?oc=5"
+        },
+        {
+            "source": "Football365",
             "title": "Midfielder ‘wants to be at Real Madrid’ not Man Utd – Fabrizio Romano - Football365",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjhqSFo2QnB2QkJaVndJbkZGeldVV1VZQ3cyVXlGWkR5MDJoWEVKb0dpZ1JfdmRQWENoV2NnVzJvS1JqUklYTUNMOTFkalNmTEJqZnluQUhpOVdMNVZZQUFaRmw3bTdjTEpjWjBYcmdkZVRScktMSHhTTjBjcUlJeXk5SVJrdmZjeTdUcW8wdnZMU1AxQTRqY0RjSFVYdGMzdTdYTm53?oc=5"
         },
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWNFb0JDRG5jbnRHLTZfMlV2QUlOa3ZQZTVJNE10SVR4Z29BNFVDZlhLQWRJeTN2NWZ1TWFEVlF2dHlWQjgtQVFqdUdfWHZPUWs2UnNoYkY0eHlfX0lVZUxlLVREYzF0NlpteENteTdCd01QNHBSeHN0QTc4bnhjaXE5Q2ZxTW14RTRoLU4ycXk0S2I1Q1cwQUhGaHBiNkZFZ3VPRkdn?oc=5"
         },
         {
-            "source": "Yahoo Sports",
-            "title": "Fabrizio Romano confirms ‘official bid’ with Liverpool locked in advanced talks - Yahoo Sports",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN29YSDVVUDN6QXBTR0M3WGo2dzFOS2czdWN4NVpybTl6TmJ2TDVMMG9YZzZ3ZG9vRzNWZ1VrOHVMci1IMlJUeEtQTVFnQl9SaG9XNW9tU1Y1a1FvY0xXUDRVcU1VZ2lSZFVLVjB5Qlo5Q1BEeGpEczBLemFmTGN5czJYc2Z4Qm1RTkJPa1ZLRQ?oc=5"
+            "source": "MSN",
+            "title": "Man Utd Transfer News: Fabrizio Romano confirms official offer for goalkeeper target - MSN",
+            "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNZlQxSjkwQmlReUpHMlBCcnVZUVljM2NXMkdUeXV2b2VlN0RoZzB3RHh0cFpyaWU3dUd1QXVSNjFGOG5ISUxGTTNnOEVGTWxKbVlFbVUxZkVaVG81NEVUdW9MemkzdEQ4QnMyMmRBRXItNENTd1VMNEpBa2VZa1RnaTRJekJDVHNfTmo2UHNhMlBrWmkxb0FMQ1JYcXJ1RXZvYWdHUVBUYWNtanRTR2tSYXRxdXByM2dGZXpVSEZCaGhyR3VSQlVQR0ZSU3MyM2tJUjljbWE3d1lTRjdKZHNPR3JoM0wwOXdRTnNxSXF3ajNlb0tjY0JGbjlGaDg0dlFZZnpqYTlNYVpCV191WkgtMkl0b25CWDRocGFoSndtWlRXbGs5WmtDODdCWW5CSUNaaFJlSldnb09VYnp6aDNEcWZMTm1GMEhnSnFnUERIMHBsaDZmdjVCdVJxQzdpWVJ5VUduSU9wS3RhWnNwY2FKeWpoSW1JRlJham12MU15aHR0OWU2S1FSRTZCOHRLLVMwdGl2WG5LTkdhZnRPTlQxZlRvVW9aT1ByRlNEUFdR?oc=5"
         },
         {
             "source": "The New York Times",
@@ -62,8 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeEZUeklSZl9YV3FKNUw1VUhYOVpCZ0NpYzF3MGE2YlpEeDRFaEVyYmtWUnBEc1JuWnRyZUdfQjFLclZoZ2JzOHRkcFZIRVRyallmS2lIWTYxaXBIRTZRWDRyUlFhWXRMeFNnVndXZkJqcHh1QmpsSTVNMlEydXQwVVBCS3hFUmFHUEM1NmVyRHZZcHNfQXBFdHZhVmR2RWNEd3lsLV84b3pWYjlyZGJzV2Y4eG9vbkZ1bXltLUx5bTU1VzloNFNMSm9yaW5XcHlaeFFuRk05aGxvZy03ZmhwQjZMcjZ5aTBiX3JQU2l2RDBBQ1FzRTdr?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'우승한지 얼마나 됐다고' 빅사이닝 노리는 아스널, 그전에 살생부부터 꺼냈다...1티어 기자 '마르티넬리, 트로사르, 제수스, 화이트 방출 4인방' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFk4NzNJRmZPLUJmV0tXUlJ1WXYwblozZG5ZRTNEc29jTWFUckpWdkpEZU1WNGVOUnFwWmdRRy1mbVI2UkxBa2xHeDRHTk9TMUlDTXlkWUFHSzRJbG9ZdjZtZW9hVGtoeHRpYjEwVTlqUUlEVmtxcjBCd2VxQ001Z0xlVkFfdTJEeU5v?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "손흥민은 1000억대 리치, 베라히노는 32세 코치...토트넘의 2015년 타깃들의 갈린 운명 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb28tNkR4blBaYlNmTHFaTV9tbGhqYzd6MWlfcnhMMUNGbVAtUUtLU01RUG1PVWRjS2duUHg3bXY3MWpuVHRqYkk5bTVWdmlBSExlcm9obWJPakpvcUgxNTRXN19BMG1hTXlMckZheERKZ21kYmN5emxGbktHWjRoY0E4QmJoWTNPUDRn?oc=5"
         },
         {
             "source": "네이트",
@@ -71,24 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ybjVPVGNSd1IwME84SHlVcmdRTTZYNVlrei1TekQzWm83WWpVNEVYZnl2TUNPalJkWWVfZnJwLWJJTE1WejQ1TTFQWk5Dc1V0VGVlLWtCdERiLVBh?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'EPL 5위' 슬롯 경질한 리버풀, '6위' 이라올라 감독에게 지휘봉 맡긴다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4QURwcE9YQ0dxNmhKX2pUanRMZUp1eHBVTmNwTlRMb3V4NTZELVE1RVI2aEJSdUJuT2p0WEVnWVR5b1N3NGlXWjFEZjBMS0ZrbWlfMU5LZnpvTy1y?oc=5"
-        },
-        {
             "source": "SBS 뉴스",
             "title": "프리미어리그만 24시즌 658경기 출전…'레전드' 밀너 은퇴 선언 - SBS 뉴스",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kcEx6YmZ3dHp2N1NsU3lLWVVOWnE1ZXVwT2oweEtaVDNOcUVXREE5WGFIdzg5bDR1NTlIc05hY2czWDM2R3NmMW9FX3JjcUV4RG8wNjIyQVVHem5KQ3BmNGdPOHpJemRJTmc?oc=5"
-        },
-        {
-            "source": "sportschosun.com",
-            "title": "'이 4명은 떠난다' EPL 22년만 우승→UCL 결승 패배! 아스널, 여름 이적시장 '살생부' 드러났다..'더 강해져야 타이틀 방어한다' - sportschosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1amItbmR1SS14N1p2VFdkcmFfZGx5emNGSjhVVkxoSGVVTWpYUW9iVHpsdXNHVUJUMDA4Q3pVVUZ2LXdySVBIZWtYLUhuMkNvX0p3bGhkcTA0d3ZMNVNScHFvZUdncXVHSzdUbFNtVnJBaU12enRiSFBpRFY3d9IBd0FVX3lxTFBxcENLd2p0NkZGTHFMUElRQWpmOS1tNEZKY05jU19zd195Y2JYX0JYMzljVlFlTDd6UVota2NiaVUwZmt4WnFHM1JKOFozQmJRb3JlcFhuS0dKNlBhMUtyNzZGdnZzaWRMeENmYl9pWG1LbVd6czZn?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "‘22년 만의 정상’ 아스날, 우승 트로피 퍼레이드 ‘150만 명’ 모였다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52d3RkTTFrQVJCVVBIRVM2S1dJZVJQbXYzTER1VExSNHdydm5OOE1LMVgzUlJBOTl6bHd3aE93NlhvY0xXd1ZWXzEwT2VNaVE?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -96,14 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZllsSE9GdHA4Yk5JYmJBUHBZR0l1dnF6U21YODdQaVd1MF94NWdYaU96WFdUQnJZTjBJN0o2ZG5CYV9hQjBtUTIzaUZBUUlTTjFWeEFFNjlLLU9YV0lNZFRYajZNck5wWmtvQVZuN2RlWmFaWjNMdDRLTUZyNjFva2R3?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "[오피셜] 황희찬 프리미어리그 잔류길 막히나…‘러브콜’ 보냈던 실바 감독, 5년 만에 풀럼과 결별 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBURDVtOEdTSFREd0piZFByTTZoUzI3U244bngyRXFyaVkzV2hjaTM3N2lGNXZzdXFWeWlUMHZrZkREdzVfM1VhT0piWlBMOFVhS1NOQWxPOEs3Nk10LVR1U0pTY3BqZzlmQUVReWxIMlhJY3VJ?oc=5"
+            "source": "v.daum.net",
+            "title": "‘22년 만의 정상’ 아스날, 우승 트로피 퍼레이드 ‘150만 명’ 모였다 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52d3RkTTFrQVJCVVBIRVM2S1dJZVJQbXYzTER1VExSNHdydm5OOE1LMVgzUlJBOTl6bHd3aE93NlhvY0xXd1ZWXzEwT2VNaVE?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "[오피셜] 현역 2위와 195경기 차...658경기 '불멸의 기록' 남긴 40세 밀너, 24시즌 PL 여정 마침표 - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxUzdINF9td21xMGN1ekNSM2hWZDZ2Y1I5MFNWa2dsRm1mOWs5WS1qc3F0ZGViVTBjcFozNWNnN2ZDdF9GcExVbFFPWWdtSTdRSmV3OUNvRllfdEc5ZXREdWppbGFuLWlFNHg4cHd5aWEtekh2R2c?oc=5"
+            "source": "연합뉴스",
+            "title": "북중미 월드컵에 맨시티 선수 최다 19명 참가…12개국 대표 배출 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRTXByYk9VZUgxUnJpc0FTeEZpX3lNZjkwNXBzbXlGV1MzZDdVYVB5TWozeUhualRwZXpfRE5ZQ0JxbGNPVDNveVB1QUwwVU1nSFM5MEZ5RlhpdWvSAWBBVV95cUxPRDBXazZNUDF6OTFzUVRMVWotcERKRW9QMkFjc1dzRXpZa0NRYzdMaTJwTWhqdWROMGNFTUtETjVlRF82YXdkMFhBMzF2ekR2QVN5YUI3VDd3cUpsWHBHTFk?oc=5"
+        },
+        {
+            "source": "MSN",
+            "title": "[공식발표] 프리미어리그 역사상 최초 수상자 탄생! 픽포드, ‘골키퍼 퍼포먼스 오브 더 시즌’ 초대 주인공 선정 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOTjBVWmVtdWVaTnM1TldBZE1lVm5wN3hSb3RnNDVLX3UyWlRXM1JkN2NmZl9IZ0FqMjZZM0tnZkJjb0RfbGpIb0sxZ2o3Y2V6MHZDWWp5UTY4WGQ2S1l5TzRaNm9qMk5uOGRrUjk0OWhXandFeWVqN0xqRzV2VHZhaU5wRWNvcFRRdjFkZXJBUmhuR2F2bC1EWGVwTG10X2NQd28xdGcwWmwtX1FULU11Q2VUQ2U5NzJNQ18tejdIS3lScDlLcDdNckxzdklBRGN2MmZzQ18xbG9JMkR2cmVlcnFyWVMtTVZuRXZTZUJlQS13eHlUZmZjTHo5QTBCeTZaclkyTm9SdTRBX0dkSFVBb2tNVklycklGWHViNnNkc2RkSHdEcGdNN3U3Nk02S1hqclU0QU83RFF1R3Y1dXRTazgxc1ZpZW95c216VWRNTjNucnVPME1zbDQ0UkgxTVFFZG45VkFCSXo1cGpQY3NfX0xjdGdHbWRQaFlRYXBRTHBkNFBjRFJRVlExMEZJam15aXhQUmlrWHZISGxqTzVDSGJTcWJ5MWVhRGJSNzNYdkNFT1RzMldROVVITnd5TVhqaHQ1dDZJZmFhdUU2UjgyTU12Tmh0LWNWaW1vWmFJNEJrUVpTNmhrdFEzN0h0TVdmNGE3U3hsS0dDWHdGMWstVXZyWHEzamhVQ2FOZlkxbm9PUFVHRUx5aUJHb244STZBcEF5a25wckpVWTVGRkFpd1pNa3dKdDcxTXN0U0ZMVWNqWjRCWkt6dTl3Nm54QlpUR2VneHp1a1hCX3ZxWko4bTk4UFdsZFhv?oc=5"
         }
     ],
     "transfers": [
