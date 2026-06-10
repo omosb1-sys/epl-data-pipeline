@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-06-10 14:14:42",
+    "timestamp": "2026-06-10 17:48:33",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Everton told to pay Burnley £35m over PSR breaches - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53Nm9WZFl3N2xlSmJ5TmhQcWlzaGlqNUpiN3FYRHhfd0xSNms2dnV4NWZyNXBQRmpHYzdVY1NTLVRRYldNYVVzRWFiRi1GRzNWREx1Ym5DMENObVBBTlF3SXhpRkVOaE0?oc=5"
+        },
+        {
+            "source": "Manchester United Website",
+            "title": "United's retained list and released players - Manchester United Website",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NMTBoMzgxWVAtZlZfX3pzS1ZnbjBkbHVnV1RES0hRZVd1YTh0cmZNR2ZydGQzcmpnSmYyQmNZdHphZ1JsNnBtZ05zazBKOFJHLVljUXZ2dmFmYXdDR2F1MUZyOVhFNm43SlM2NDBZUEVWbjFKMkRkT2ZhbHNMZw?oc=5"
+        },
+        {
             "source": "Liverpool FC",
             "title": "Liverpool confirm Premier League retained list - Liverpool FC",
             "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3BNUG43dHhqOG9hMHJoaExZRFBUMElBQ2F5QWFSLXh6ckJVYmJ3bnZHaGR0cHZmU0RtckluUHpnLVlUWklYQk1tT3ByNUpCSXYwWWF5Vi1FekVkNVR4OTJxWnZEakNFQlY4NWlXM2Jsdm0tUkt1OG9adlVQQXJXcTl0UkxQZ9IBjgFBVV95cUxNSUZjVTFTdDRTR3hDOEN3QUZQMm9YbUhmSGZjeDdDYkQxbHNEMEd6MWIyekxIRWZPbWphNG5lYmY5Q3NyNERjLWVGUHdVWDFJR29BeHB5aEVjTG1hSkZtWGlCNG5tZVhzUVd1aUJkbmZSbmJEWExZUDM4eThCMTZzUXM2empIT2RyMmZ6bG5n?oc=5"
-        },
-        {
-            "source": "mancity.com",
-            "title": "Premier League 2026/27 season fixture release and start date - mancity.com",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE5waThPSXdOQ1QzSDZXRnQ4S1o4aGtsZmhYMzhaOXhaeFJVV1ZPX041MmY5U2UzSUliZ1RtSmF5c0FXS3V5NzA0el9nM2FVSDBKOGdWczF2WGU3N2pHTy1Rc1daNmFvR0tHaWhBMHZXTjN1WHRnLTJjZTRORi10WmFoQUhKRVZwbkZZSVNn?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Ewen Jaouen: Why are Newcastle signing a 'giant' from Ligue 2? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UdmdoYlhDMTc0SXVIamZSQ2J0aG8tMzM0Znd2dWFpWXhYMnhhRjlGSFVLZFpmUWhHeUhpRVp3TkhkTWxfaU5abFo1UkxLY3pMeGw0ZFNFczhwenRfdHRHa2hxUDhZSlE?oc=5"
         },
         {
             "source": "Football365",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTJrOG51amxPTlotd3RaREpzYjA1TlF3MnNCMmxwNHNwZEdob05SZmtoNmlkdlpzT3haMGdkU254QXBKdC1aZ01TQ1pQa2k5ZXk4Z2NTd3JrSDJldUhIUFBQMUNDb2RyeUlmUGlNdzl3T3FfWS1iN0hmNmVvVUwxV1d2Q3ZHQXJiVk5vMTdQMjJWZElraU9fWS0wMjRVT09NenlhNVluRmlUUUFUYUo1X3dR?oc=5"
         },
         {
+            "source": "MSN",
+            "title": "Fabrizio Romano says midfielder will join Man Utd: '100% confirmed' - MSN",
+            "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbTFzcHNheEcwSFJvMUtBdnEzWmotT1hEYXFNVmVrbXN5eFV0dmhEc09nMVkwcGg3Rk0wOXhDWjZrYTlzdTA5OEhpSThBVG9YRU5iYW5UVW1ZcTZvcUtfWUxsYVJNb3RsRUdQNV9xZ3lRemJqTnVuV3pCbVhYenFVM3V2ZWVXblg0ZXRpNENVZFFtMXRQaDU3d2dmUk1INHFzcVNvU0xnOUd6c2hzV0RIUk1VVk5VR0VmUGUxdXpYRmpaQWJsMGJrd24wOUtKWV9jcTRQYUFWSXlVeVZOMTk3elo3Ym1QNHJkUXl0NDBLQnJhRVAxU1Rpb29fR01RWk0ycnBqU2RtUG8yVXYyek12NDF3aFdtdEhiSUZHMnNFdnlKQ1V3NXJWWTNpYjdoM3ZZTENMQTJOSnJXUk1sQTk3Q2tqdnFCZktyRUE?oc=5"
+        },
+        {
             "source": "OneFootball",
             "title": "“First signing: 100% confirmed” – Fabrizio Romano confirms transfer bomb catching Liverpool in its radius - OneFootball",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczNLM0FHUkhzX1dMXy1XNzY1aXJwX1lIWmpNY3NOX096cDhGekhONlpuVVZMVnZMVjk4VjUwYXIzV212N2dyU1RraUlUZjFYSGdQZ0ZYSFU1OUtWY0dhZHpRaHNJcDY2S2hCMHVTODBQZk5RazlfeTlqNkZOWWlEeV9SWjdvSEFwM1JFMDhQX1F1S21lVjVIZmNPNGdzTGJFOVVFSWRQcl93eVU2Y2tzZVVLZ3pFRkdsMG9RTEw5VldPMUI4VjN3YzN4TjMwUk4tNHUxOWxTYw?oc=5"
-        },
-        {
-            "source": "Mshale",
-            "title": "🚨 OFFICIAL CONFIRMATION: SKY SPORTS & FABRIZIO ROMANO CONFIRM ANTOINE SEMENYO TO MANCHESTER CITY 🔵✨ Shakira (PwlvXejmQD) - Mshale",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrbjNrSGdYelpqLUtrU254MF9haUpER1RIYmQtSWVvZG0xSlBlTUducFltSGtFbGZBY2pmZVlkZnhKQS05U1RId2hKeDZ3Y3ZULWk0SFhwNXdqb0k?oc=5"
         },
         {
             "source": "The New York Times",
@@ -42,13 +42,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Arsenal set to appoint former Olympic sprinter Arnaldo Abrantes as new head doctor - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDZFMU1YNGFqRGhZVXduUF9YS0FyU3p6WXNaUEhBRVc2ZzQ0SkpNUklzangycjZVOEFUNFlDU0dPbEpXRTVGTDRZakZySjVRMFRHVzJjYWY0S0w0SEJ3TV9kZkdIQnQ0eVhXQXdiclVUSzRTWTJXSmFXTkg3U3d6TDliYVZrTnBfeENKMFBIMU5iS09hSjhqakdCTG8?oc=5"
+            "title": "Liverpool step up pursuit of Yan Diomande from RB Leipzig - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPME9VYlBuN1hTdk9GSmRoNTB3SS1CMVlsUkFfNmJ1UDFfTElWa3RJWHFabVJCVllHZ1FpLVZKY2wwTXpLazVtVXBNZTZaY3I5dXlXdE9TbGhHYVBnYlhSaVoxalhnNWFBUjZVZmpNdWZVQkRKYlJLcUl2Q0FjVklMb1BhYzJRNUlBVldUS2hrT0F4SnBCcmtZcQ?oc=5"
         },
         {
-            "source": "TNT Sports",
-            "title": "Ornstein reveals ‘top priority' for Arsenal in summer window after UCL heartbreak - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTVBJRWhieW1lcnEzb201ZWFZck96WXh0c3RwN2F0aFdJSGZEOVE1bGxUVnhCZVBnN2Z1Und1Ym1CbGNDNFZ4R1M2ci1rMk9ETXF6ekFqbzladXU0Rk91SmxjS1VuMEtwaGhtcl9Ha05GN2xVdzg0dUEwcDlTMzFJcjBrSGVBTm51V3pEb1lYalJ6dF9CaXlNMWZxQmUzVTgySVpBVlBhZXMyZVhJRU1IRkZLSnZjQTNwamM2QnVzQ041T0hfUDEyYnlPRU04S0RWa0s4T2NOeE91MkJkQ2xLc09BZi1aRHNXejE1blV1dThNQ3lhZy12azhWYnpqRjYteTdoSEkyQ3ZIdw?oc=5"
+            "source": "MSN",
+            "title": "David Ornstein reveals eye-watering fee for Yan Diomande - MSN",
+            "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaFJmaFItSDl3Slg0RlhLdkh6SjE2WVNTUHNnSFU3bzhydXhQUHFoZjhzaGgwazFjWS1RMUZNWXpVWXY4UTJENkN0MXctbTRidE5mYzczUDRYemlyMm5EZHgxNEhmbFJoMjFjVGJCQ0luS0FmcjJHck5paU84MjVtMjBnTktZVnNlZlJ4UF9udVk5Zmt2QnhLa3hDeEJxWmpZS241UGd6NU5xdWFkaW1KcjI0VEV1M21ySUlHOG5rdFhnTXVNa3BBN0R5anhDY3A4cWR6STk5aGdnTXdTdHNINk9DbEVBSXdkM3V2Sldjd2FxbDV6Y0MtSjVRSS13Q2pISkZnNmlMQmNkSjlXa0RsT1Bmdmw3b0VJTHV3TlBEOGtmQjBFWGlIOFhPSThyVXJTcy1qWVlrb1pzX1M5QnI2MzFLUnVHa3VBaTBzLU5rNE5IUEU?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -71,14 +71,19 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ydWRhalNSN2hPN0xPdU15STBtVXRKb1dMUFpDRlpIaS1NeWdIYjhtUTlOTG94anY3MzRKa09nVHUzaFpreE1YaEpLYWJ1Vm5PUW9Zd2g4Qm80S1dN?oc=5"
         },
         {
+            "source": "Your Field",
+            "title": "[오피셜] \"손흥민은 내 인생 최고의 사람\" SON 떠날 때 눈시울 붉혔던 MF, 결국 토트넘과 이별...계약 만료로 동행 마침표 - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QNW0xZGZZRlVBOE02c1ZmTnlXRHJTRk9VX25zYmkyaTAzU09HYzVmRldVYUlJRktTLVlfRHhpS2tVNlZLREdLRnBWUmwyYTFqNlFqZ2ZIdzd3RThTQ3NTRnYyNFRIQXIxT0s2UHRpMW8xVWJJdkE?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "토트넘 굴욕, 네덜란드 센터백 영입 제안 또 거부 당했다…브라이튼 회장 폭로 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54aEV0RXVQbGItUk1mdkFuOEoyRExyUGl5NVRGakxTdEZ1d1BPenQwQV92enJ0b1J5bkFwYk5lUzRXNzljYTNJVWotc0tjOTA?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "맨체스터 유나이티드, 명가 재건 시작...'토트넘 캡틴' 로메로 영입 추진, \"제안 준비 중\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxOEdHcjJTYnh4dGJOY1Qxelg0cHJXWFNBRWJ0QXVFdU1jLVNyMTBTVUpvQXdKRHlleWtucGtCR2RoR0gwSmlaV0NyblBkOF9LLVRpYkh6MlZVbnpsQUZoVGpDaVpVQVU4TDZ4THp5eGlTZ2dVMUE?oc=5"
+            "source": "인터풋볼",
+            "title": "[오피셜] 맨유 방출 명단 떴다! “프리미어리그에 보유 선수 제출…카세미루-말라시아-산초 포함” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtajB1RDYyMGoxcGh6S1V1N3FtNlRCaW1GNDhIYkp1a0hjMlZYVG1FWGpkTnZkMmllTHU3WkIzeGZTWEhhUWlsU3pDUGFSaHo3NDFWd2QwenNCUWllWjFuaDdIV21tdTlWZWp4WW9KTTRSR056?oc=5"
         },
         {
             "source": "조선일보",
@@ -89,11 +94,6 @@
             "source": "스포츠경향",
             "title": "2002년 16강슛 ‘스타 탄생’…히딩크와 포옹 아직도 생생 - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HVmp4cHRTUEZXelo5T1NGdXc4dHFELUxibkxWWVVlVUlaWDQ0dHBfVEIyb2p2REpoZmhCODVGakJfVkFPTjQyUHFDanVKam9SQ3E1bVFwSXJQSWtsZ1HSAWNBVV95cUxQb0E4VTBDQXVsakxkclN6TXpjd1JJZU96T1pxRTVWRXhtODlCdzYxMzFpd0pGdGVfNGM1dktoZGF5cDJzcUFKVDBzV0VMMkViZHAyVThtd1JBckNOQlZ2X3VjRlk?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "[오피셜] 황희찬 극적으로 프리미어리그 잔류 성공?...황소 노리는 풀럼, '멕시코 국대' 35살 히메네스와 결별! - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TSDJfbDh1cmJPajJVVWRQcUVQb0VLSmRDSlk4eEExVlJyVFdGeHpEa1Zid05YYktYTXVPeDhPMFNxbHc2UHV2Q2VaWmtEbU8xa3pVT2lLYXoxXzlFWk5ma2ZWNFZaSVFlTHdHZEsxNDJDYkh5?oc=5"
         },
         {
             "source": "마이데일리",
