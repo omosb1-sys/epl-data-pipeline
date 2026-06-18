@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-06-18 07:23:21",
+    "timestamp": "2026-06-18 11:42:29",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Hull Live",
+            "title": "The dressing room verdict on Hull City's upcoming Premier League fixture list - Hull Live",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjQ3LWloSlVpS1RDUGktcVJ4ZUJVaHJiNUI2YkNSa1JiSXRwYlc4eWdsUU5mOWdIbVBnaFVxRDBubGN3NDBHSHdjZnQxdEFtTEZvU3FrcE83QVAtNm1ualdiTjVJODdpeDQ4bDY1Ukk1eUZjTGl5ZzNtUHZsQ2hVM2l2YU9wZElEYXpReHZCVklwNldNZEw5eU9iZThHcmhudHZvNw?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Hull could face points deduction in Premier League - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pMkxEQl9tM1dGUldTM1B5cG1VUUxZeGpEVTlaX1N4X19wRWM3NVV4c3JWb3ltTlFqUEVEcmczTUl1bF9HTkVYcTdZZzZpS2RnLWZqeDdMVE81OUp5WGRRTnA0NjdXbFU?oc=5"
         },
         {
-            "source": "The Mirror",
-            "title": "Sadio Mane left door open to Premier League transfer after Man Utd agreement was reached - The Mirror",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVo3Z3pWMExVbDUxLVQ3NTk0NHVwTnpNREh0LUhKQ0UzWEdsUjVrRTF4MUxDNlZfMndFQUQtWkZUMUZ0VFhnVFBIbGZzMEJlREVWZ25rRzhiN3Bjejg0TTNKTm1IM2VVdkhZdnlrM3U0YklReTNCTzBYV2xSa0xKSVMwMG0wMUtp0gGOAUFVX3lxTE9vRzA0aUdJdU0yQzA2TWZ3Si1uRkVFZ1p2Sk5mTlZ4cDAxT2IwMUVCRnhuYVZVNUZ4WnltVjRFQ2tzRWllRkxiUEJkcVVva2FQVXFtMG9KTUdTWkQ1QWQzdk9hN1lqb2dTZU9hNjlST1cteGNUTTlxdFZNYjY5ZFVTeEU2S1lteHFqZFhyR1E?oc=5"
-        },
-        {
-            "source": "Football365",
-            "title": "Sandro Tonali to Spurs proves the Premier League Big Six reigns supreme - Football365",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTk5nS3czN3Q0OWRYOXA1cmg1RzZoVC1LUGU4VEFzbEMyV0JUQ3FZU1FWRnhMSTQ1M3RXdGZ4aVZodjFVS1FWYmxWLVVmR19kV2xka0lpSU9ZdlBnODFMUlBSSTRrYllXLW1PZEZGZ3NhelFaVWcwMFV4emNHVm9tY3B0cWpvdw?oc=5"
-        },
-        {
-            "source": "OneFootball",
-            "title": "‘Medical done last week’: Fabrizio Romano green-lights £17.2m transfer as Liverpool watch on - OneFootball",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVZ4ZXk3VGUtX2ZuOE1lQXdtN0NvclJDV2lyZUhicUgxeHNick4xY3RodmNOZEZnOU9oc3duSjdMMFprdG9TZWVFLUdLaFpLcU82R3g2TU9VNEZobVM0S2FOY3BHTDJyTFZJUk51M2lXc2FNZmJ2WDlmUFBZUFRDQ2hDUkR1aEJYMWxIS2dOcmJhMjdDbTdweGRFMFU5LW13X1NiQWZQV3dNNkFlN2pNLXlFaHA1b2tWR09Xc1lZYnZ4cUhqck5tT3pR?oc=5"
+            "source": "East Anglian Daily Times",
+            "title": "Premier League side face possible points deduction after earning promotion with Town - East Anglian Daily Times",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUk1YOFFtX3BFRlRGZUZsM3g5N1VTZkJRWjNWOVNBWUVlNFhNbURzdGtqaXBJV0R6WnFiWlFocHJCTjV6czdrdDJEbWg4U09IbmZTdXBUWEh0aXg5ZEFTaDZUalQ5QUZBMm5oZFJScm9LSDNPNjl1SzdRN1BlMGVUQ0VaRTVqTTZ1c1ZGYXV4ellqYUxfN3dDQmtn?oc=5"
         },
         {
             "source": "Football365",
@@ -34,6 +29,11 @@
             "source": "SB Nation",
             "title": "Newcastle Nearing Transfer for Spain’s Victor Munoz: Fabrizio Romano - SB Nation",
             "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNnI0VWtoeWxnR2ZtNC1fLXY3UDZuMThxbDAwWWxxazRSTm5Eb3MwbS1BQ1JERm51SWdrSnQyVncxYlpOSXpyaVBJamg2VmdmNUc2Q09PeEF6LWRSSG1zLUJJS0hHYnBQc3I3a0pET3NlNEtIX3RseEJRWTlXN1o1MDNGZFNnZXdmUHgtVGRZTHRUQWpSMHZLQVFlMzdZQ1VUX2MwSk9IZkoyam1mSmN5UnNlZEhPdVE4Y2V4aEE4YlRaMHI4MW1KTk5lVzNXQ19mN3FNd2hNREhuSUdrRDhqbGQxaUl4OWFGOHlJTVJrZ3NWNVg5QXJvNHplQQ?oc=5"
+        },
+        {
+            "source": "Fathom Journal",
+            "title": "LerMuDex- K'nyaw Mu Poe (official MV) Prod. POE BEAT Fabrizio Romano (ZDMMOYVWZu) - Fathom Journal",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83WTl3UG1lYmVESU5PYXRUMUF6OTRfX01ZeUtHLWlsZkVXbVYzR1d5SE5QZXk1cGtOdjNkSUxrM1F4aDdBUzllLTgxbE5iVUdPdC1VcEJXYjl6d1YyYTFBWURscVY?oc=5"
         },
         {
             "source": "The New York Times",
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Andoni Iraola clear favourite for Liverpool head coach job after Arne Slot exit - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclhBaTk3X3ZlWmpIUTVGQWtOMVBTckhIZXI1RWIwQXFwdVI3aGROTjdxdzlJN0R2UzZEMGFySWhCYVJtV0VBcVNPTjdUVVVyZF9YczljdUJUT0RwSXZ4dWJNODVjekNtUUxQM3VseGtMTVdoejZpZ3djZGhLZFV5U3R5VW5QWEMwVmFFdzdyaU9uUTk2aVZZ?oc=5"
+            "title": "Tottenham in positive Sandro Tonali talks with Newcastle midfielder’s camp - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFhxZ0RSbGxGYjJPRllxeGEzUllWclpTOFpIb0wzTmdycWdCdW9INnRDRFA5NHl1MHVhZS0wNHFVTzI3RHFIVUV2REd3dms5LUhZUktVQ1RVajNfWC1lck0yZ3VRaldMczRWOFNuOXpKdTZfbDhiaTVXWGJONmdLV2F2UW5wek1qbnpvaUcyY2dGX3d1N1EtSGYzZ1NMT1FSV0E?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,14 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbDZTSExxRVdjMzRVWERKWlBjUjBjVEgxOTI5eVRwX3Qyc04zS1pJQjVoVUhWcG91c1Bqc3hibkg2WkNLemJTemxWM1FZNlg4N1dickpVLTQwYzFScGJfV0tIeGxzaFlwQlR4eGFLQTBJa0VIR1A0THYwRnBiS1NBak9MRXhSbjRYUjEwQ0xuYnBWRlpUcVBiZWM4djlob05RUURqajZNU0lzU3hTb0JqUWtzYU5RSDhqYlRnSVhPZUFtUEVFelZqMl9vWU02NzNSWDA4eFZkZnpnR211NHNqaHZsQmNIVmdmV2piR0pQUXpIUQ?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+            "source": "London Evening Standard",
+            "title": "When are the new Premier League fixtures released? Match dates for 2026-27 season to be confirmed - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVVZR2V2SXlJNFhGQnZMXzFLbmdBS2dFNlhoMmtSUlZMeTEzSFYwS0xNbExaWXhfNHpPaDA0MTdqQ0JqeWtBRU1WUDY1YkVXeWd4a3phQmgyVmVBUFJNXzBvSml1M19LR3JHaUw5aGlldENHNHk0TnhHeWRhRG1URmE0cWhXcXZVQzFDWGdoZXZBR0tiMm80c2dIa0lJeklBVUgyTVdRb1U?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "‘월드컵 데뷔→빅 리그 입성’ 韓 슈퍼스타 탄생하나…이적 전문가 보도 “EPL·분데스리가 구단들 이한범 영입 관심” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYQTdxT0pEWTVkcnRGd3VKck5Tb2tmcEY0RUswdXdzM3ZFYjJaMllkTWQwX3BPblVkWWVSck5HMFl6cDN1S1E?oc=5"
+            "title": "\"내가 너무 빨리 떠났나\" 토트넘, 손흥민 낭만 연출할까…英 깜짝 \"1년 임대, 충분히 논의되고 있는 사안\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wM0lGR1NBLWI1WG52ck1BNm4tdzRXMnU4VkVXbjBUdS1VcW5ybUREeUV2eWpmd2JnTFFKbUtQSmFSOXNHTTY1c0lzRERwYm8?oc=5"
         },
         {
             "source": "MSN",
@@ -76,9 +76,14 @@
             "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQaGZ5TUZabDNlc1lYcG5EU0FGXzZqNXRNMWMtbV9jVzBKb3lhSE9KTVZ5RXEzLUYtVVpaSjRWbnFPbDZEQmRjWEd5YkhRODNwTWk3TTN6djNHMkR5OG83eHlHLUVWTWdnblg3ODJwLXhqOTYzbVM3dWZ5dEE4UWNVODk0TWduR0gyWmtTLVNOWk1zaTc2X0tjVlh2djdYemtQTEp1LWlSRUJjY01mNENLYkt2cTBaZlZpSHFtNlVhZGdUblBHOERfOE5MZGNTdlliZnlDTFNRWmVza0lsUlROcGplZFV1alpRWlJ3MjZKXzZLem9OTlg1VUFxWEtieHJiWkY5Ui1BZnprS3FReXE3QnhfdFBTRFdZdXNIVzdtdDJCcHN3WUVfYjhjNkpsZWFiOGFPYlVEMW81c2cycFVVSlJ1dGJjX2lidFNFS211ejZ6VmxXNVowQnFONV8wb1JXeTBHMjlyX0lXZFhaU1pyNkxtU040UFlZY0MzZTRlZFpUcThLTndzLTdmbW90R3F5MzhJem83TXpGSUFxZFV3SHpob3MwWlRHdjREWl92Mk1JSFVJWEVJOFZYeDIzWmc5dWRYNExXbGZ5aHpQMlNLLTVNNU14VEc2UjBuRVBiSEZBNFNTd3dMQkp1bnlISnpvWnAxUjRkY1NJcWt4elUwVWRWMzNGdVpHLTY5YTFXek5NN1ZtRk9pVXp5WFBBMU9wcF9IV1AtcWFNZldvd2RzTmpmSWtDRmRiTFRBSGctQm5FSV9NUlBZTEc0UzlUNmR2VzJvWEthM3N4aWllZFozN0tQdXZuNlNYTm91XzB0YlRUVm9PYkdLQnJn?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "[공식발표] '9년 460경기' 맨시티 레전드 실바, 무리뉴 품으로! '하이재킹' 레알 마드리드와 2년 계약...생애 첫 스페인 무대 누빈다 - 조선일보",
+            "source": "chosun.com",
+            "title": "[공식발표] '9년 460경기' 맨시티 레전드 실바, 무리뉴 품으로! '하이재킹' 레알 마드리드와 2년 계약...생애 첫 스페인 무대 누빈다 - chosun.com",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMk8wQy1SOXJ4WXBmZzY4NlU0OWRpazdRc2VWTDlaSFdDeWFfNGdzV1J3Y1JSSEFiWHIyZEdDUVY5b3dNZXowS1F2WWFLREJYbTlvTkhjTXlRcTd5UWRuYi1sN0tHRHg5THozZk5pRUI0RDZyRHB5RHFxRm5JVnBiNXZwNXJZSVNNMF9J?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "‘월드컵 데뷔→빅 리그 입성’ 韓 슈퍼스타 탄생하나…이적 전문가 보도 “EPL·분데스리가 구단들 이한범 영입 관심” - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYQTdxT0pEWTVkcnRGd3VKck5Tb2tmcEY0RUswdXdzM3ZFYjJaMllkTWQwX3BPblVkWWVSck5HMFl6cDN1S1E?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -89,11 +94,6 @@
             "source": "v.daum.net",
             "title": "홍명보 감독 눈은 틀리지 않았다…\"EPL이 한국인 수비수 원한다\" 英 저명기자 확인!→월드컵 90분 만에 몸값 폭등, '포스트 김민재' 초대형 잭팟 예고 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CX2VrSXBlMGhvNlA5bzcwMkZNTlluWEQyZmFYSnZad2ZqMGpaZzZyRmRrNFdISWxEOHpQVFR2NjN5Q2xscllfa01pN0Y2SEU?oc=5"
-        },
-        {
-            "source": "MSN",
-            "title": "아스널에 22년만의 우승 안긴 아르테타, EPL '올해의 감독' 영예(종합) - MSN",
-            "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOTU85VFVhSF94d081bmplV0wyOFR2VEhQMHZsTWxENGZVZlBSTERqSWtDX2tIeVVqZDFQMC1sQ013UThjWXNxVjZUbWttaDl1dTRNekZJT2piZDNZU1haWmpoMjcwcHpkd2dyV3Q5YWdrY3A0eEg3TDRscnpRSlVQd2hMS3pZV19manN3alhuc0ZhYy1HNU4wQVdrbFM5Mm9wUHdQekNyLXhPX2ZiaGxuanBZUEN3QnEwb0llXzFYcTh5VnV3NnFkMkJhNVozZWJqakpxQkFKXzB0ZE5jTWxRTVR5Nmk0WGtFYlYwd2puNTF2aW5BODA4OEZ6OXhCSGtTRUtxMVE1SGJIUXdZamw2RjNZQ1pQSEk3ZU85VmF0MV9QQ19WYlJyN1kyVmgyT092ajhhVksxUVg1dXFRYXI1WFdxbk44UmZ5cXVVSHFaUHA5aUZIMTU2Y2dpUkNwanFIUkFSMDBSMUVCR2VENmd0NGxiTnpoanhKcTktaE1kWTdNRXlHbHpibXlxQUhwSnNM?oc=5"
         },
         {
             "source": "v.daum.net",
