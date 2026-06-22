@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-22 06:17:35",
+    "timestamp": "2026-06-22 12:40:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,9 +11,9 @@
             "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQndxSTNFZEotWUlGQjVRczNEb0R2N0R4S1ZfVm1oV3R2RXRldDhVWTlfLU5yTm1ScmZNNXlld19LNW5LTjI1dGt3MFh5VGVTcEt6dGRLUVJHMGN6YnpOeGxlazZuUVpEdk1xUWp5cUZwQ3k3ZkVOUG5DREZwRUFDbzBrdFBzOGRwS3BBeFFncC1fVXVCZ0c3cVRFUUF5ODZqc29xUGNtUjl2cC03ZDVyUGJlY2JFSmlxallzN2FCTkQyT3BOSWlob21oeV9WT2N6NXI0Y2NvS2txMGJ1SDJnMzczbHN4eEl5bFM5aHpHUWdpSGNmejFwbVIyNTdSVXhGMFE?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Spurs' Bergvall exploring options away from club - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iem5vRVBEcXI4UTNIdGhxbWprYUVVSUYxTjVoWElHc1cyX1Y3REV1QzhZVV9jODNxbk1namdPdFI4WXQwTDdpQWM1dlJRRFFpdlJDYjdCdXdXZkhDLWZNcURKOWxUMzg?oc=5"
+            "source": "Football London",
+            "title": "Silence, training woes and a lost gem - Inside Lucas Bergvall's crazy Tottenham transfer situation - Football London",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWldBbk14cE9SLW41UGh6TWdUdG1RcHNWVWFmOXB4T1dXQW9fdmxndDBmdU1nQ1hHQ3hiYkdXc1pqZW1TSmRuRUpOZml4Zm5uN3dmeWlCSWpEWFhVd0dwamtTSU5sYWk1dkpyc0Rrb2V5QTN0Nmktdmg4T181Y1lRN1pySGN1VGtnU2ZSd1lHMjd5UzBRYjJTeDgwNk9PU2M1cGhKMjZISl9IczFmOEFyVw?oc=5"
         },
         {
             "source": "talkSPORT",
@@ -37,11 +37,6 @@
         },
         {
             "source": "The New York Times",
-            "title": "Tottenham open Sandro Tonali talks with Newcastle - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTVtZ3JBMlNqVnQ4WUlaYmZ0aXBmQlJyNm5jNHJURjFqZ0lyVnozQWRFY0QzNlJ6MnFpUUJNbDM5NXZweHFLeXpmenRlVDU5Sk00Nkp5eHNVSEticy1OeWJBNUIxejMzbDhRQUt0Zk5QT1F3LURCZHhydEZKM2ZtYlY4ZHFjbVZDdE8zNklBai1Ed2h0Y2c?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Video: David Ornstein on competition Liverpool face to sign Yan Diomande - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nSE8waEhuS29mWUZ2aS1ub3VRQzhNS3g5N2hqMHJWNGs4ZFdaODVDUXhiZFhzMy1nR1g2ZW81WGJCbFNoT0FkNFhub2MyaUpiSmZWWXhOM2NrZUxzWlc3bXFtWi1oUQ?oc=5"
         },
@@ -49,6 +44,11 @@
             "source": "The New York Times",
             "title": "Andoni Iraola clear favourite for Liverpool head coach job after Arne Slot exit - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclhBaTk3X3ZlWmpIUTVGQWtOMVBTckhIZXI1RWIwQXFwdVI3aGROTjdxdzlJN0R2UzZEMGFySWhCYVJtV0VBcVNPTjdUVVVyZF9YczljdUJUT0RwSXZ4dWJNODVjekNtUUxQM3VseGtMTVdoejZpZ3djZGhLZFV5U3R5VW5QWEMwVmFFdzdyaU9uUTk2aVZZ?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Tottenham agree £52million Jan Paul van Hecke transfer with Brighton - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2Nua0Z2cXM0eS1ORjJLa1ZURFM3cFkwMUgzZGVneXFoaWVVeUNXeWh1dGZNVHFfYUs5dkJ0QnpUS1NDdEMzX3VZbWtIYnlUc0tlV0JKYUNNMm00RHVRbHptVDI3TVNWYUxKV1lpSTNOX2pUVVJwckVEVWc4amZfM0VNMVlkM0haRThDbFhqdEp4WDh6cjNyMG9sUQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,29 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "양민혁 안 써놓고 백승호 원한다고?…램파드 영입 후보 언급! 코벤트리 입성해 프리미어리그 꿈 이루나 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoN3l0ZVZsNUZVSGtvOHc1R1JBTk9Hei1DbUFpemoyd1hzVjZQcnRjLXNtX0NCNU13NlFiMEVsa0t4YzVKaU5Uc0ZSRnVrOElqOHBodXppbS1Rc3VY?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "`EPL 입성 기회` 백승호, 코벤트리 시티 영입설…램파드 \"월드컵 지켜보고 있다\" - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96bHItcmV2S2dRbEx2bWVJQmVvczlxcHlYY0VjaFJxYUFsTWtZU1lEcHlKODRBWG5Ubll6ODFIVHh2TW16OUo2OGRrM0pfUXRaRFhZNksweFdiSTZ1cU5YXw?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "'홍명보호 수비의 핵' 김민재, 월드컵 끝나고 프리미어리그 이적할까...\"맨체스터 유나이티드 영입 후보에 포함됐다\" - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mNWpwTFFjRlA3Y1FuNzJyOTRWTy00OGpQeXFPTVVlMWQ4ZlV5YVg1X0JuWGJZSzdhLUF5WUNoeHhSMUt0QlZxbElJeElQVXc?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "\"원래 프리미어리그에서 하려고 했는데\"…일본 국대 미드필더가 월드컵에서 '전화 세리머니' 펼친 이유 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92MGlpcDdxMW5RdDNBc3BRRzlpLU5sZ296TnZ1a2p4Q2N2SDQ1ckJvYmU1Ym9qWjFob3gyMGgzb2poUk1EcVhFME9KelIxOWcyZkI3YWxWTk55bVg2?oc=5"
-        },
-        {
             "source": "스포탈코리아",
             "title": "韓 초대박! \"프리미어리그 진출, 절호의 기회\"...백승호 월드컵 '일약 스타' 거듭나나. 英 매체, PAIK 코번트리가 주시할 인재로 지목 - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmp2RmdzSlFkRksxOG1zTGdSVUJyNnpOMVlrcG04RndQTEt4YXA5ZnNzRmlxN0htU1JTeVpwd2tsV05odUxwa2lJbl9pcm5qRmQxcF9VMVY2aElyTXBKLTBFVkJEOTZhN0o0b1ZsTmcxaUVDWVBVM2poUG04NWxLR29B?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "\"이강인 재능 의심 말라\" 英 전문가 강력 추천…손흥민 뒤 이을 EPL 코리안리거 탄생하나→'4위 돌풍' 애스턴 빌라-뉴캐슬행 강권 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vMVlRcXVlcHZvYm1PQTNTVmhwOTA0VTdKaGVQZ3N5Y1RTTmZ5WXI4VnBUOXhaWGFqN3ZyLWpDVkZCWVpmWFRSVVBmM2tNUTNxMVdETGZGSkpOZi05U3FBaEpuVTl4dW9rRF9OOXg5NA?oc=5"
-        },
-        {
-            "source": "마이데일리",
-            "title": "'클럽 역대 최고 이적료 제시 거부 당했다'…토트넘, EPL 최고 갑부 클럽 미드필더에 1622억 제안 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQUVkYWdfQXoxN2ltWGgtVzVKN3BpREJsTjhrcnJxOHBPdXh6NEpvZHVBR3U5dnMxdUxKbGtVM3Bzd2xkWEFYM0tDWmhlNEFhWEoybFRQU01yWnF2eEl3UQ?oc=5"
         },
         {
             "source": "뉴시스",
@@ -97,8 +92,13 @@
         },
         {
             "source": "MSN",
-            "title": "손흥민 떠난 토트넘, 에버턴 1-0 꺾고 EPL 최종전서 극적 잔류 - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOcFJhTDB2VDdHU3dmTTktYzE3RUdKWnl5d2ZkclhJNlpSU2JMLUxZa1NqYjNwQ0VNSDlXa1BJaWdmaExZUkRTOWdCcHFxUjRFZzJmZ2VQY01nZ3lzWHl3b19Wb3Mtd0szdEZrT2ZTM3VTYVVjWVZYTUxhQUFfYkNKbFZqM21obWxOXzlkYjR0Mmh1dW5FcUVKdmhOUGpsYjdnbmRybDZud2RQZ1Y5R05ydjZ2UG1ycTlTYllqdkx3SzR4TWttTklmclY5TW92MWVRNVVKU3B3S2pqaUJ6REdWVTI1b1AxWFQxT2xjZHFTZnFBWGM0alZwRmg2bi1wbXVOYmQyQTl0VG9DOE1SclZhaGdGR2t3MXR0dVo2Z0FxZTBXRXJfM3BIOVdIZi11Z3F0QmdkcjNMS0JsNHdGeENZTWV0YTZRelhPODdZZEFWQ20xZEZVU1A5UjFaZzByaTR1VnMxTlZ5ZWg1QmwwaFdnTw?oc=5"
+            "title": "이강인 프리미어리그까지 거절했다니… 진짜 아틀레티코 유니폼 입고 한국 오나 \"개인 합의 끝났다\" - MSN",
+            "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPNTJHQlRoZDZxdC1xSHJySGMwaUxvVFI5UGRzUkpZVFRrcndtVGVjSHBwRDMwTy00LTRSRVZjUTRnX0dDRE5QMDdVSnNVWGc1TENGbjY5Mnd0WHRFTUFPaHpUeXpJWXlpb0NSbGRWbFBxT0ktX1BYUlhLMGloZnppZTFUenk3T01kTkN5RGNuSmd0VnlncTM3aU9ZY2V0V2Fad2E0WEtEdEt5UER0dEFyOEhHbFh2MTNxaE5GRFAxUGFnRktaM3RndW1xOGFFZFNIRHpKeVdnUlRmUkozeGpEeHhmMEhxU2lfZUdSVVZPTlQ4UFc4cWRtQjNfOEY2SnJsOFhWMUdPaTVUbGRPR0VMcmx3ZTdmNGxmb0tmRkNqcG5lV05CbFZ3anVmM3plOXFEbzJYcXptX1JSUFphWVh1Nkc1a3p4a2dyTWd1UGFWR0JXNUN1ci1UU0p0Qmw4aWdYSHRMT3B3SFVBMmo4SUN1WUZ0TDlRQTJXaDhXU183TEgyOWxxNmhiRVROUU5qZnpjbHRQcHBBU3FIaVVCRjVPbXFRZVg0THBmSGR6T21QMGZFOXF2UVZKemxOMlVvMjgyT3pKTHJyTndvN2Z6N1oxLVROSmIxdFV3NlV2b2c4NWpBejVvaFA3UUV1Y0ZuVU1fenlqNmVmakVHU1lxVThKU0lWMk1DYlBWNW1ib3RKcjFwTXozSDNtUWFueXFmaEVBcW05VlJyNU1rLS1HTF84MVEzWXVlcHZ4Tl9IU09BWmU?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "한국 서울서 '홀란 VS 이강인?' 맨시티 vs AT 마드리드 3년 만의 리턴매치.. 쿠팡플레이 시리즈, 8월 9일 '꿈의 매치' 확정 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSC0tRWlqMUZEQkZ6dlFJT1o2MDN2OVZINTZOeGlpMjViVUhzc1lWd0N5OXREYmNoNmdLUkFLOHBNcDFWNEp4b2NsV0tkSFZJMXdHX3Bod0NPTGh5SHFGbFlZYmFZMERqc3BtVFJ6ZTN5MVl2cVFvNzlySWJFZ1QtTWs5YW5ZUjFKV29z?oc=5"
         },
         {
             "source": "서울경제",
