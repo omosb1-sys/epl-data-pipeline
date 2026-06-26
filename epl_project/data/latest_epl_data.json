@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26 18:20:33",
+    "timestamp": "2026-06-26 20:25:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjByaE5qc0JqVkZCcFRDNTd1eUg4eTd6VThHbjh0X3A1RzNoUWhNeTNNQWdfSlBLaGNNMWlMUy1VVTBGX3dTcDdYSkE5NDZKWVVCX0FHajNDMkRLcDBYY1VDQ0NXbnhZRlNKZlVpSXV3OUktVXhJUFFGZDdjLXI4eGNyaFBUZ3NBMTdiVGN5dk1BN2J3R3NDaA?oc=5"
         },
         {
-            "source": "The Scottish Sun",
-            "title": "Rangers ‘plan swap deal to land £10m-rated English Premier League keeper’ - The Scottish Sun",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRThUZkstSXdvNktCbHVLNHFCMFUwQ21QaGVOQjVRUS1oMEpOQXplX3ZKS1VLYmZmRVJsaGxEVVJNOHAyWnZPOE9jWVpwQ0x5SmJIenZaRHZJdDBRWjY3RkVZbGNtdlpsQXQyUkI4ZFowdUFvbzhVS3pWUEhZaDhsWHdSdDE2YW1Hb3hSRkNsTjFaamI5aEJ1WTlYbldtN2diTUlfdDRWTUFSdw?oc=5"
+            "source": "thesun.co.uk",
+            "title": "'He's top right now' - Leboeuf names star more vital to France than Mbappe - thesun.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0FROHRXMmU4bHFXTkhkdWJ0NlpaaC1PcU9GeGI1T0UweWFUWXM0RmoxTkt4ZzFmRjV0NzVKOHJReG04X0lTaEVONThkUTdCVGRqSFRkWHd2VG9haXpsWTdvWFRkRzhFaWJDSzFfMmFhX1B5RXRoQ3NzRUdJQ3lYeVdRNnRYd0hzM1JOUE4wVDJqMHhFcDFn?oc=5"
         },
         {
             "source": "Football365",
@@ -42,7 +42,7 @@
         },
         {
             "source": "The New York Times",
-            "title": "Arsenal offer for Bruno Guimaraes rejected by Newcastle - The New York Times",
+            "title": "Arsenal offer for Bruno Guimaraes rejected by Newcastle - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDJsWHUtbDZRUzdrMlNqeFhseE8zNzR2UEYzQXlLSGV5RVFmRnU4Ykt2Y1FITU10ZW9yZlBxN3JVLU9qX0NrLWNtRWl6SXFIS05rSmZxZVVRWkQ1cGhkSDgxaEo4UXVaNmNrMW54RDNHUndhMXdEM2k5WmZ0WlBheWdMVGNTbTk0TDRYUTI5LTMzc2RF?oc=5"
         },
         {
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfer window officially opens",
+            "date": "2026-06-26",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
