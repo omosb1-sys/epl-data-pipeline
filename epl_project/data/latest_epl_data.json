@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-27 22:51:21",
+    "timestamp": "2026-06-27 23:51:12",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVBHVjgtNGVSOV9LR01aYjQ0c0pnMEdaZTRwWWQySmh3YTdsVlUzMW8xS0x2M0dZWVIzODUyNDhfQ1R1eUhhcWJNSHNvYkxRcGdyQzZzcHFFeGVHTldjdy1Ucl9ETjIwRFhvaDU5bHJYUm9iMDYzOTJKZFFFUWRuRUpVLVd5R2tGVWJpZGhR0gGTAUFVX3lxTE5teE5CZFVSXzFEZDkxRlhRcndKTXV1UXBQT1RWV1FwN25Mb0lQV3Z0aExsdTd3SWZYaFhpUUNSRU9BZzQxR1IxTVFRR08taHhQTjdYVkxNRC14b0RvLUxUaEN2YjRqc2ZtUTEwRE1LeWc5alZyTlBRa1NObXVMeGNMTmgtZmQySExSb0p0Y2tOZk43MA?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Chelsea in talks to sign Sunderland's Xhaka - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuNlVHOTFETTZUM21QeV9sdmpPcExoY1Y3RHB6dV9fWWJvTW9TTV9zLVhvWUIzYUFkekFqUnNjTEZHNGsxcmIzSExlUkhKYXBtUFBvMzk3Q29lOXMzelR3eTJENkFMZm8?oc=5"
+            "source": "Read Norwich",
+            "title": "Kellen Fisher Interest Gives Norwich A Premier League Transfer Test - Read Norwich",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVB3eHFjTk1vdmFDUHVtenQ4eWlsc2FHS1ljcHAtWjR5T1FIdERmTy1mLTNFbUNaamlveU9jSVFVdHpFNjhRQzhpVGJfZUJlTEhCUFFseVh0VmdJbDQ3dkRiTWFZcXBBOEt3VGRZRFBwd0ktc2l0OHhqTm9CM2huUk1teGdadHMzc09R?oc=5"
         },
         {
             "source": "Football365",
@@ -113,13 +113,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Summer transfer window officially opens",
-            "date": "2026-06-27",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
