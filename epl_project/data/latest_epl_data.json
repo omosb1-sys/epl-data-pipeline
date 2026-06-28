@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-28 22:51:24",
+    "timestamp": "2026-06-28 23:58:03",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,13 +7,8 @@
     "news": [
         {
             "source": "BBC",
-            "title": "World Cup 2026: Crystal Palace and Sunderland top Premier League goals after group stage - BBC",
+            "title": "Crystal Palace and Sunderland top Premier League World Cup goals chart - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySHIzZFZsbGJtREU0V015MkpzdWRHamgzYlY4eE85cUNPWEFvSkZWc2M4N0dKZDhLcDJldjR1T3E1bjNpS1I4d0RhVmNTZl9MSmFDdWNxSmYtY080NkdtWHZrbmc5U0k?oc=5"
-        },
-        {
-            "source": "talkSPORT",
-            "title": "Tuchel told he made huge World Cup mistake leaving Premier League winner at home - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3pXTUlGMnFVZnhOZnRzOFRiWjZSUTRzQjBMWmY1V0FlUGtueU5uMHlWamY2VDV6WXNiYWhCbnBma2ZndVhKTHV5ZUJ1Q3NCMDZKUjdCT3ZmODlnSWRiM0QzZUpsYkstWGVYdXdTQzFycW82SlRsYzRraVM5R2Y2bUYtbkRrb0FhZEpEanozQnk1NGFSNkFPLS1iVkY3aWsyTE9KeGl2Um1Vdw?oc=5"
         },
         {
             "source": "Premier League",
@@ -21,19 +16,24 @@
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXpuU1kwQzhUWlo4SkFQUUpMbTJ0c0lPREp2RzV6ZHBaaURjU2RiMGY1QmpYTjJRRFEySnhBREVRT2prc2swSWwyQVFpRk5ENUpsYUdqWkdWQVNWNHNLLVd6a0JwNXdpcGtHeV91WVMxZHQ1X0FqbWs4eTZrMUMwckNFUUhaY00ybFFkM1NKQWt2bVFVRjctbmpKWQ?oc=5"
         },
         {
+            "source": "Metro.co.uk",
+            "title": "Chelsea make approach to sign World Cup star and reject £22m bid - Metro.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGFraDNvNFdjT0I3dlE4cV9qVXAybk9aMExma09vTUJpMFZLWk1qWlVNcVZ0TllycVdfYm9DT1A1eUhLaTExRHZvVTA5UnJDN01EaHByUmdDdG9EbDhiRzNfQkt3aEVYcFRGYVJpTmFtcXRZMGFXWlR2M25iYjBscFp5YXVsWGxuZjVqRjBrUnNRTG1jWm1RdFlORVF1UdIBowFBVV95cUxOMnFPd3pIYmVqX3RsMUdwb2x1Yk00ZWRaTmN6ZzdzMDZYMmlRZzNHNFQtUmgydnhWZVpBeUhNa0RDeVNKQzBMX2M2UnM3c2ZsZjZJUW5aQzZrM1c5TXVieHJEYUJsSXRCeGxJMjMwZkhKTjJuUzlVQndxWVhuYUtDc0JQZEJZRF9NVVE5Z2tXMWVnOGVnZjd4RC1HZ3F3LTZ4djRN?oc=5"
+        },
+        {
             "source": "Football365",
             "title": "Romano reveals Arsenal ‘deal moving quickly’ after ‘official bid’ for winger who’s ‘keen on joining’ - Football365",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJ3MDVLRE5lZnB1aHlicUdRSVdoOG9fdGJ3QUVsV1lVZGZwdnJGVWt1dEpaRi11MVRTSzROQWNvbTRuSnp5M1AxWFZzZmRDQ2RYZGlKNEVVRU1GLXNnZEM2TDA0R2JNSDgyYm9fRG5nUmI0WU5PMUtONmx2MEtYWFlXOHlTbXhO?oc=5"
         },
         {
-            "source": "Fathom Journal",
-            "title": "🚨 LIVERPOOL SUBMIT OFFICIAL BIDS FOR YAN DIOMANDE & BRADLEY BARCOLA! FABRIZIO ROMANO CONFIRMS! 🔴🔥 Napoli (kLXQkyXcll) - Fathom Journal",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1UDNlTVh5T1lWVzRLM0ZIbzlqaDB0U3FhVWdLYnZWWUpva2VSZ0phOEJ0OHJ1eVBMNHBKT0Rqak5PT1AxT0g3eDdodmp0NDhEVGRJcFhUcmtHNWF0WEJZeldUWGs?oc=5"
-        },
-        {
             "source": "hitc.com",
             "title": "Fabrizio Romano breaks news on Neymar’s injury return and fans’ reaction is priceless - hitc.com",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenZZOWlTVnVWVFpRX1B0bTVTZFV6NExKejBsQURzUndLdWRQUlp0TlVMbms2akdFRUJEUF9tUmxSZGRmdnZMSmlVbVhfWFNOUUg1NVZQcmJyZGFlTURRYnRsckVVUTFlZTVQRWp3ejhZX0xuS2l2V1dpN0RKNHlnZVZtUjBLYXlPMXhPVUR5M2F6dXJCdFllMmtFX1g1OWJfR2lnby1WMks?oc=5"
+        },
+        {
+            "source": "Read Newcastle",
+            "title": "Fabrizio Romano confirms official Newcastle United bid for Anthony Gordon replacement - Read Newcastle",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlYxaC1jbG0yd3NWWE1PQVFTRzh4a2JYNFNMal83U3BvZmhlbVI5NDQwdXNyT1VOemgxWU5nZG95b2ZhOWE4VjlvX09WUXc5ZXh1cDRYSkZ0bHFxVS1OdkhqSzQ3ZHRwaTBPelFEb1doWW05WVlQYkRSSjIxSVRtZ2d3M1dVT0tXU0xGTml0elNiUUlPUkwxaDYzTXBuQnM?oc=5"
         },
         {
             "source": "The New York Times",
