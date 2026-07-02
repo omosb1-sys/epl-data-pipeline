@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-07-02 12:07:19",
+    "timestamp": "2026-07-02 15:02:55",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Mirror",
-            "title": "Mohamed Salah can finally complete ‘selfish’ Premier League transfer today - The Mirror",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSUl4ZGZmUmx4VHdjYVptbzZqejM3d2l3SFdKbXN3cG5nUnhIOVN1ZU9vd3E1WFl2VU5xS1JqT1lUenpfVjItT3c0d1dUSS1lWm9xaHFkdXhWRUdWNTg0RTJmcHMyRHM1aG9FQU1oaEZmMTNnQnBuNF9RWVIxQnZrVjNrN1o3YWlyX3Zxa2JEQzBTWUFfSWhlcklGbmJrVlBVcDhYUmhR0gGrAUFVX3lxTE84Z21oeXlXOEloLW9BRjNJTjA2X21Ub0VJZTNUOG9WdWVDNnYwQ2t4dU53OWw5Y1NDOVFlaWJ1bWNtTEZEenJqTXJYQ2VuZmdYUVQ5cE9YZG4tLTdnQ0lkNFE0OTkwZ0RPNEJWTDJUdHFVczFYT19xN0VuSDBrbUFCZ0RuOFI4bFV6UWNFTmdmLWludzhTUHpDZ0xlb2RzRkxnY2c1cHd4SXhPbw?oc=5"
+            "source": "Sky Sports",
+            "title": "Elliot Anderson becomes third most expensive Premier League signing with £116m Man City move but he's only 31st when adjusting historic fees - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVGlvZ0pwaTB5ZDBJNDJqckN1dmFjX0U4MWZxZUNqUUkxMlc4MFVvdGI3VnRoV2pxOHowdVFDMEdNMXdnM2VPS2xpOEFqdkZkWnRtTTlDd0RJMlZWeFNzbVBQXzc0dlBxVmMtYjB4M1VCOElyZUt2MkxiYmxCX2J4cFg3WEtVYXVyanBmTTZPZjhrZWZmQ3FDTkFBVlVsMUJuUzNLSlY3M3YxZlBLQUhvV3V3R1hPM0dfOHViUG8zOGVTZFQ3QVl4dGRwR0ZtQkM1WGg0Q0FERmdRZjhUdVJkTFJLdkNfTm94S193dDlUR0FtaUV6ODBUNTlmUkk2aTNEVzhkendZdFlUd2cyMkV4WEpXQktyY0F2bEFERk05dEo?oc=5"
         },
         {
             "source": "BBC",
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uaVhoMlZyUTM2SVBkYlFhdV94RkRKUVFfSjFIa3Nla0p5MDE3M0hWOWZ3Smw4aWtvZnplaFJ4T3lMZDlsX2IxUzJjMWk5NXIxNGJPVUZHTVUwLTYxQ0VuU2JadTVMWFU?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "World Cup: Paul Merson concerned about England's prospects vs Mexico - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFpGY01IVzdIZjlERjhaUnc0dldGUHpLQ2NoZmZVRU1mNU9FbDRPSFVSOWFzcHJvaVFQMTMweVJpcjFPdW1peXZTVEpIdzZrdG91b0JUeDh2MU93c2szUllaUjYwaHRQRUVYSUxHaEdLRnVfdnRuYWhWQnJFTUN6UU9nR1ZzLWtNZ3BFd2MzMDRZUDdkTk5xbFpYaWNfdWxFS2FBN0tuSGtiRlRzdlVnNHRJM3JGbmRvdm8xaTFabw?oc=5"
+            "source": "Premier League",
+            "title": "The Briefing: BIG day of transfers, Premier League stars surpass 100 World Cup goals and more - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOczhVenI2MTlxcTZoNmVUZHE1UjF6LXpITFBpR01ISngtaXFScWNCQTVLOHY0N0swLUZxNVByV0FvdmJZWEJ4TXlVQS1INnd3YXdKcUhua2JiT0N5M2VzNTY3SFMyZUx1cHVPdEQ4M0JyQnJhckxwUDVNbWo4NUtHQ0hrcjAzZTVWcWVwSEVib08wYlNqcEkyLVB4eHIzS3dnMmVyd0syX2FITjRqSzl6QmItMFRfNWpTWGMxNGRBRW5NMHZDWFdSSXFzRmliV3lD?oc=5"
         },
         {
             "source": "Football365",
@@ -66,9 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "[공식발표] '1757억' 역대급 투자! 토트넘, 올해는 다르다...'강등팀' 웨스트햄 MF 페르난데스 영입 \"모든 걸 바치겠다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEZ2MWJaTWlGbGI1SFNrWDlmUWRLR0VxdGZtcjI5VGRMQlB4X0NFXzJKb2xNSTZpb3lCT2FQbWxWY09ocWVqNEh4NGNiR012UEVKYmh0VElNalBLSldSQVZPWFBTOVNOSGRLeThSU3Zsc3l5OXMtQllPQjY3azA4ZTl4YWh6b3pYLXNR?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "[오피셜] 토트넘, '2시즌 연속 EPL 강등 경험' 포르투갈 신예 페르난데스 영입…\"엄청난 클럽 합류 기뻐\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TSUVyWmUta2hVWUJlQUZlOFF0MWZXdElSVWRKckxHTDNEV0pJck9ySW12bU9fVW5HU0ROZGw1UXFHM0EwdFcwQmV1WVcxU08yUVR3azQxbDU1cmRV?oc=5"
+            "title": "\"프리미어리그로 돌려놓겠다\"…한국에 패하고 멕시코전 치명 부상까지! 상처 받은 소우체크, 웨스트햄 잔류 직접 밝혀 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84QjRTWnN0MGx0QWV1VEw4TWlnd3kwRzk2bFFIbmhEeGtfR0xTS1hlYlNGeWxlZm5GOE9JakhKMHNJSFg2U1JZbG1RaGdfQW03cE9pNVhNY2JmMk4t?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -76,9 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzd2g5NjFER0VzRlJrYmpuOVR5eXFmc3FkTFRfQTVPY1BpOGdpMjN4c0ZpWjF2SmM5a1lWcFhDV3h1elJHdUFhdDJIS0VvT2M?oc=5"
         },
         {
-            "source": "마이데일리",
-            "title": "토트넘 새 센터백, 북중미월드컵에서 인정 받았다…EPL 선정 조별리그 베스트11 포함 [2026 WC] - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5VUJZalJKN3g1bzRfVDBPV0luQUpyc1p6TWc5d3F0aEQyR2tXelhLYUlDcURxUS1sNGxoYm0zM0RNNEU2TllaNzhUczctRlpRQU9ZUTNZYmF4aHhjUlBLNnZ1RlJ5dw?oc=5"
+            "source": "xportsnews.com",
+            "title": "\"이적료 885억\" 日 아시아신기록! EPL 또 가나…브라질전 선제골+월드컵 맹활약→리버풀이 부른다 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XdHdmR0hwM241cl9VTVQzX2QxeWk4SWVubGRGYmhndUZNSXQ2MHd4SmNZS25TN2h3c1VTTVdPMmc0enBhNGIxVHN1cURmc1cxenlUXw?oc=5"
         },
         {
             "source": "sportschosun.com",
@@ -86,24 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42WERzYnlrUmhQbzVwOUNRN1JLOVRLNnRGc1JwNjdhRzZmdHM0WnJTQVZKZDJnTDRoOFAzUmpkbFMwMlk5bzNra0N0RDJlcUt6Vkd2MHV3WXRTOXlnb3NLNDZLOVRnQm1QVXgwbGlrVW5IQ29DdjVKZlN4V3E5Zw?oc=5"
         },
         {
+            "source": "마이데일리",
+            "title": "베스트11 절반 교체, 선수단 대개편 예고…토트넘 2026-27시즌 예상 베스트11 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iQjNsY0dHel9hMy1maVRvdnphQ0R4YTZybTlQNHRoZi1xZEtCNmFVTzcwTW0zVmlob19kQm95ckhqWFVscDQ3dmhHeXJHLU5VLVBfaDloWS1xQXZLd1FRMw?oc=5"
+        },
+        {
             "source": "fourfourtwo.co.kr",
             "title": "‘독일 VAR 골 취소’ 클롭 소신 발언…“저게 반칙이면 아스널은 프리미어리그 우승 못 했다” - fourfourtwo.co.kr",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXSUlOV09SUjFldE5NalBZR2ZnaEh1UktUWGk1WGc5OExabjM0NGtTMC1HOWtaVkVKY3Vtd1UxOV9IT0lhVnpuS2oxRjhiaVpJN2xuNEU2RTJWSlB5VDRvSFlUWERfNHZueUZNWXduajc?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "\"프리미어리그로 돌려놓겠다\"...한국에 패하고 멕시코전 치명 부상까지! 상처 받은 소우체크, 웨스트햄 잔류 직접 밝혀 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rYU96ZXR0ZFBnRTBXa0pZdTY4N01iNzFmQmU4TVc5TDdRU1FMQ2hIb1BpaVZhZjVZWGJzdlZhWUxPUGhNT2FDVk1oNlRkSGFSWUZMU1dqa0syOEZwam9nbkp3eXdWbHBWX2QzbDhuVmxiYjNS?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "\"이적료 885억\" 日 아시아신기록! EPL 또 가나…브라질전 선제골+월드컵 맹활약→리버풀이 부른다 - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XdHdmR0hwM241cl9VTVQzX2QxeWk4SWVubGRGYmhndUZNSXQ2MHd4SmNZS25TN2h3c1VTTVdPMmc0enBhNGIxVHN1cURmc1cxenlUXw?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "[공식발표] '1757억' 역대급 투자! 토트넘, 올해는 다르다...'강등팀' 웨스트햄 MF 페르난데스 영입 \"모든 걸 바치겠다\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEZ2MWJaTWlGbGI1SFNrWDlmUWRLR0VxdGZtcjI5VGRMQlB4X0NFXzJKb2xNSTZpb3lCT2FQbWxWY09ocWVqNEh4NGNiR012UEVKYmh0VElNalBLSldSQVZPWFBTOVNOSGRLeThSU3Zsc3l5OXMtQllPQjY3azA4ZTl4YWh6b3pYLXNR?oc=5"
+            "source": "MSN",
+            "title": "맨유 페르난드스, 21호 도움…EPL 단일 시즌 최다 기록 - MSN",
+            "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOV01DTzZ5b3ZuZGw3Wm0tbE9uQ3BsQjk5UHQ1NEhWQ284YVBDZ1c3RmNpYnBERy1udUtrc0prUG9GQ3hpczR3MUhOSXN2MXlFNEU2aWdZUUJPWExOa3g3bGozTnVoM25scEVtckRlcFMwQ3p5bnY4SjZSSEl4bDVrTGVJNDVxRzVZY1dJamRjTHg1clVsMXg0SmZlX0JnRm9ENHBpXzllOFVNbndhM2FabHJ1RlpaM3dDM2ZYbFFBcDFGOGNuV0wxdVFKTk1SZENtQ1I3Z1d5ZnE5Znk0UWtNMWFfZXZWbjF4RzU1a3l3YS00aERlMWRxejE4UC1Tekl5OWVoZHZyWDNtT210Sm1HWXR0YU9Nc0FGcGZFU19Vb0lpNHFSaUs1UU5IWUx3M3lnQWN3RUc5N29YQ3lyamlRSUt1ZkE0OWc?oc=5"
         }
     ],
     "transfers": [
@@ -113,13 +113,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Summer transfer window officially opens",
-            "date": "2026-07-02",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
