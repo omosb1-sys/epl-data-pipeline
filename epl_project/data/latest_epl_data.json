@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-07-03 18:57:54",
+    "timestamp": "2026-07-03 20:11:40",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "Daily Star",
+            "title": "Liverpool news: Reds seal double deal as World Cup wonderkid set for Premier League transfer - Daily Star",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzZnbXczTEo3OHBmbWxVYmFVc2U5QnVTa0gySnYzTldJZ0VXZGFadFgxZkF5MTJzODNTNWx0M2ZULXBVdWhLTjF0UklqZ19jbTlnd25XOUFzSk5PMmRlUmYtN0F5NHAtRTZ0UGw0c1gycWtnQnFvSVZSZ0VvQkotMlhYeHNCalpncEkwcG9Kamg1RmM?oc=5"
+        },
         {
             "source": "NUFC Blog",
             "title": "Newcastle set to sign Eli Hall ahead of Premier League approval - NUFC Blog",
@@ -12,13 +17,8 @@
         },
         {
             "source": "BBC",
-            "title": "Transfer news: Full list of all done deals in July 2026 - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UTlKY1NPS3hCZkswbUJ1VDZsUGJtM2d1cTVpSWo2VkdFSjRsYVJpWEVReTZHZTZLLU04RWFMUF9sVWlSSXRDbGYxUmtKMEJ5WGVUTE42VkVzNjlKV2tMSWxiR0NlM0E?oc=5"
-        },
-        {
-            "source": "talkSPORT",
-            "title": "Nathan Ake ‘reaches agreement’ for shock transfer away from the Premier League - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXVUbXNUZ2trUUREZUVWWDBxeThNWTZGVVhsdFZfTERZRnhYVTNPaHZpeldhSHFRc25IUkNnLWR3cE1zVVJkU0pHUlh3UEtONGNJOU5JWjRtSlN3OGFQdndsTVV5SldTbmFUX1RLQUR5NkFyMjhxNzBhSHA2NUlIVXJOOExuUGI1TFBTdDZR?oc=5"
+            "title": "Aston Villa news: What is a realistic Premier League target? Nick Mashiter Q&A - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14TmhEZ0piNWZMZjdtUmJiT3Y2MjQ5RWRpUlJUNEZTVzhXb1ZGUk13OWQ3YXN4MGxIMjJsSms5TFBmUW1QbThIamxST1dBQk1GMDQxQXlJYUMwZmJGQ3FuLWM4RWNRWWhManc?oc=5"
         },
         {
             "source": "Football365",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk5UWHhpOFQ4WldtRng5LURWaEp3OWpRam1fbi1icUNjT2c3TF9uVU9ZWkNiQW5mYWVMVDc3dFlqeHZiZWdsR0pIRTNsOF9IMXF3cmp2d0F0RW9rd21xZmd3cm9SY2loMWJBTjVqR2hJdDlUNVJuYVUtNkhUU1NSVmxuOTM0TWto?oc=5"
         },
         {
-            "source": "BeSoccer Livescore",
-            "title": "Transfer news 2026: live updates, rumours & done deals - BeSoccer Livescore",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ216NjdNS3kydEJBWllOM0xCUGM5Rm1iU3BaNUlJal84eGJCWFBEVFQ4cEZzX29CSG1oM2VYNzFVVmFlME9MUk9DZ0otVUh1dFFqWXM3LWx5Z0otbVdYZG92aUxqelQwZFdHQmpJaEJzVHo0Q3VrZENzaHNmQldJYUY1T0VWR0VVUHJIbA?oc=5"
+            "source": "Read Newcastle",
+            "title": "Fabrizio Romano confirms official Newcastle United bid for Anthony Gordon replacement - Read Newcastle",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlYxaC1jbG0yd3NWWE1PQVFTRzh4a2JYNFNMal83U3BvZmhlbVI5NDQwdXNyT1VOemgxWU5nZG95b2ZhOWE4VjlvX09WUXc5ZXh1cDRYSkZ0bHFxVS1OdkhqSzQ3ZHRwaTBPelFEb1doWW05WVlQYkRSSjIxSVRtZ2d3M1dVT0tXU0xGTml0elNiUUlPUkwxaDYzTXBuQnM?oc=5"
         },
         {
             "source": "The New York Times",
@@ -63,7 +63,7 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -102,8 +102,8 @@
         },
         {
             "source": "v.daum.net",
-            "title": "日 축구 부럽다! '꽃미남' 윙어, 월드컵 대박 눈앞...英 BBC \"프리미어리그 팀들이 영입 문의, 예상 이적료 442억\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FYi05QVJYRUFxTWZES3EybWw3czlLakhDbDRfWk5hTk9PZGZxbGxqbVF6N1ppTUJEeHZ3WkRIekpGZlZFMkE?oc=5"
+            "title": "리버풀이 영입설 공식 언급…조별리그 풀타임 한국 센터백, 월드컵 깜짝 활약 베스트11 선정 [2026 WC] - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04OENYUGJhcXBvZ3V6Z3JFQ094SjEtWDJ6YjlabzJ1dm01SHZ3dFJYV1BpZjMxNUVqXzU1U25YalhUejgwZ3dDdG5tNmJBbW8?oc=5"
         }
     ],
     "transfers": [
