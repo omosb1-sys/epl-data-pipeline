@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-07-04 21:44:55",
+    "timestamp": "2026-07-04 22:44:17",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "Football gossip: Scott, Trossard, Mainoo, Dias, Chalobah, Greenwood - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxX0lCT2lXY0F5VWtqR0kxMG9NellwU29FWW92b2JsenlRMVdQb0o5S0RER19WWWRLc0pvdGFIdmdEWTFVRlN6RDVHUXdMZVFWc25hdVBXMG9ORzl6MHRLTXJPMmR3MGxOWWc?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Premier League clubs expected to test Bournemouth’s resolve for Alex Scott in coming days - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFR5dHdLQ1Q3NXNZS3JzMlpOWFhLa2d6Rk0zMFAyOE5YNmJ0WV9ud2FkRUxXU3dwcThVMnBaQnllSzB1STdjak9kVzNlZy0ta3BjSGlMX0ZLZlJXU3dKTmxhRTc4RlZhX1lQTlM5MnJ6NjJURjFheEQ3RUFMN2JvWEpYU25qd1Bva0pVQjlYcU1Ca3JZdGpZRVhneV9pelMteUE?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "Oliver Glasner's first signing? Nottingham Forest target Liverpool midfielder in search for Elliot Anderson replacement - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc0lZYW5qUFVUOXJuSEdJaUYzamxhN3pLczJ1NWVBS19GVHhfdV9iNFNWSnA5aXdBVlRvZWpOSTdtTWxNMUZjQ0VaQ2d6S1RBSUVOOXhZSmJaZzhGcGowY1d5Vmx6ZDQyXzJxWG1rSnliLUtLUXpkNk9tR3dTa2VsZUdGQ1hCWXBaS2xsT3NxU1BqeVdVQlVUVFdHV0RhNTB5bWVyY0xJQ2ZaQlpZd0ZfUEduaEZ3QjhQeDNpQUp5VTFTQW1TblBZTFIzRGs0Y19ja3ZaVnFnRVBQOGZhNEE?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
+        },
+        {
+            "source": "Read Newcastle",
+            "title": "‘Official bid’ – Fabrizio Romano drops blockbuster Newcastle United transfer news - Read Newcastle",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnE0VmtmTUlEMjBTUVQ1Zi12ZnRYMFBOZE4takxrYjNMa3R3RzBhOG1yMmVkWkJTaWc2RlVLaUxFUzNyX0tUMEQ3LUpZSnFRWjI4VnBza1R4ZHVCazVSNWI2NzY2VWx1ZF9UZFhnaGJSeWMtYzV6TU1sRDV4TGxfR0FCTXdVRExWc1o2LXVrVDRtQXdNLWRvNnhGNDJsQQ?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Fabrizio Romano says €175m winger Tottenham are discussing signing is now ‘available on the market’ - Football365",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdURjUndubTVCc3dXZ01iV0ladlNCN3JVNkNsUEVYZy1MODZfd1I5aHgwQzNwSlRNTWlxNTBmYkp6REw1d1Qybkc3a0JoMlpzWjRYbVlVUGZKSkhxUnEzZjRsWGVXTDZOVFk3LUlGSzVmdDJBVDZvMXM0M2hfTEVqczctMEhZdXpqZjlYZ2MzQURQemZzVkZxbFNB?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Tottenham reach Sandro Tonali agreement with Newcastle in potential £100m deal - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWdGS1BoN0xsVGV4MHc0WnNVUWIwMGdKZGZpSjhBT3dEWUp1V0NxZjJpY1B2dEhOcDJLcFVhNmVkcE1uNW5NVGluejN1RFBTZmdKYmZOdmRnNjFQa1k5XzlySUxFdUQyYmRyNnZPTkFsZnFmaXB1OW95QjRMaXhxX3hRNDRjdW5qTkR3X2g3U1dfRFduaWNJ?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Manchester City reach agreement to sign Jeremy Monga in £12.5m deal from Leicester - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNW9xek92a2pJcG8wMFR4V184LWlhbDlLdS1tVDhYdnhnYjRiRW1kRXNiWTlPZ0Vka0hxS3dwekxtZXZLbHlFZmFLOU4zLVZ5WWRFMVptaXljazBEWjJhNnpFbGVMY1dGOHNHeFd0a0JSZnhqLVhUeE92Nm5MSkVrdWRCY1A2bWYyN0dSeQ?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Manchester City working to complete £10m Jeremy Monga deal - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMl9ZclRDcWkxc0hfWlptbjNjMkJEVTRYRndXVFAxeTE5Qm9Ka3AyQmlReFM1WG96MFU0YnpfX2FjY0prV0pSOVJMT0V0RW4xeS14VUppM1VPck1WcGNHdGRKS1p6RUN3aFB1eElBb2FzVUpxMFBqYkdqRENFazdYanhrbHU4d2VEVU9RWWFuR0l4OEk?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "When does the 2026/27 Premier League season end? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcm5Bb1pSb0tmSTVxQ09EM1Rud1lMZGhTMU92UThUakhGeHlVX05CcUR0Rzd6MzU0TlpNeUE5ZGN2OTFIcHlOQmRxOUc4RXd1V2Nzb3ZFTjdOQldRT2JHS2tvNlR2SjExanpMSFBVdktiWnZQQnVYYllEa0lPVWd2Y2E2T1ZJN0ZlOG9seDdZOW1KS19uOWtKSjlJV1hpdzh0em9lNXRrdjRxQ1E4clowRWs5Vk1lTE9yN1YxcTFBaE1MNDE4WF9xQk9vRnpENEtVNWZidkd1SWJIN3hzc1pHOXExQXlJX0phNjJRMl9WcXdwdw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "포스테코글루, 호날두 감독으로 전격 복귀...토트넘 우승→노팅엄 39일 악몽 뒤 알나스르 2년 계약 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNHdGLUdCQjI2WXVMZnA4SDZFUnRGY1Q2OEFpLXpUSDFfYTRhU2h0Qm9YZHI2QTlWSnlaNFY0eDJ4ZzZ6T2lmQWhHYUZYdkY2Vzd1MWE2MUR0dWdwaEpYMVJjeUZmbnVfcUhBOEdZN1UyWElkdjJ6dHZCUUtaRDNlQWMwaVlzS3lRNWRj?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'나카무라, 월드컵 스타 등극'…일본 32강 탈락에도 프리미어리그 입성 초읽기! \"에버턴이 510억 지불 예정\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByYTJLd0dLR09pRHViaURuOVJPcHpiUW0wYm9qNnV1SU5OeE0yVHhtNHphaWZpS2hZYmNTX25reS1DeW53V0JDY3I0Y2plckQxNzg4Y0F0a0xNbUpK?oc=5"
+        },
+        {
+            "source": "sportschosun.com",
+            "title": "[오피셜]'오현규, 붙어보자' 네덜란드 국대 수비수 나단 아케, 맨체스터 시티→페네르바체 이적 확정..이적료 최대 850만파운드 지불 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SYUFwbENheElsdjhTT0gtaGdLbXBwRzlPb1JHZ2xkSV9aRm1fMk96bElYbUp6aEhzQ015N0s5MDBtM240OXlwaTBaR1VJUS1JUUM5aVJkTExjOHk5cmJzOFZfck16RVRKay16ME5sWmJCUWZDMXpQOWc5RTlmUQ?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "손흥민 옛 스승 포스테코글루, 알 나스르 사령탑 부임...호날두 지휘한다 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVBWR0J6cTcyNzRnSVFYeGs2UHNhZ1hGTFNfZ0FqcEtEdVZWdURVaHh4OHhPa0MtYTFra1FuZnVCMkxzUHZwWTQ0emx5STB5Q0RrQUpRRmMyNDl1X1NKWUJLSkU1QU9LZWZKd045MURYaFNOQTk0UExMVjRpa0kwWXBIdmNvTE81RzZj?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "日 축구 부럽다! '꽃미남' 윙어, 월드컵 대박 눈앞...英 BBC \"프리미어리그 팀들이 영입 문의, 예상 이적료 442억\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jd0k2YUd1TkJGdHpUejBmM2YxS0QzUUJxbjVFa1o1dDF5Z2QtY3ZRb29kYnQ2VWhPUDJ3RVJRRFFLRjZEYldzeGc1WGhnWVU?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'한국인 프리미어리거 전멸인데...' 日공격수 마에다, EPL 4개 구단 영입전 \"몸값 430억까지 치솟아\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BM0xWbEI1SkMxenlfNDVDQUhReXMtaW1KZGdiU2M0NndyY0dlS2p0RldwdWFVV09sYmhOekh3NmI2U3R0VzZzLTVMRm5INGs?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "몸값 530억… 일본 또 한 명의 프리미어리거 배출? 日 주전 GK 스즈키, 리즈·아스톤 빌라가 눈독 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzd2g5NjFER0VzRlJrYmpuOVR5eXFmc3FkTFRfQTVPY1BpOGdpMjN4c0ZpWjF2SmM5a1lWcFhDV3h1elJHdUFhdDJIS0VvT2M?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "\"토트넘, 손흥민 재영입 추진했다\"…EPL 복귀설, '데 제르비 감독 옵션 강화' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY1VibVFnMTh3Nml2Nzl4SGFoVXpvdm1tTmlpNmJ5c3N6T1VyR0FVeERUQU9nSDM4M3lzZGxNZmJjeFZMZUtobHp6VjQwejQ?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
