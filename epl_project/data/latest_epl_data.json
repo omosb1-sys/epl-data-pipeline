@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-07-11 15:42:19",
+    "timestamp": "2026-07-11 16:39:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Manchester City FC",
-            "title": "£10 Premier League tickets ringfenced for local residents next season - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1ZnS3l4eGlYc2NTNFBJa0Ffc3JZdnAyVUZvVHFabUMzRzN1clU2VzU3N2VzMU1HamN1R2hVaHFxd2pWQUQzelAzaXQ0QXhxTE9sZExOVHY3S2Z3MklKbVNlaEVmajRhcXZDbk54LVZjNDRteWlPRVFHdlNPaHFZVm4yZk9jRnJjeVk3WA?oc=5"
-        },
-        {
-            "source": "The Peoples Person",
-            "title": "Newcastle poised to hand Ederson Premier League lifeline after Man United collapse - The Peoples Person",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakFIVTIzMl9sQ1ZkTTRXSXZnaWFqd2hUak1hUnNfSVgzMVFkYUR3am9PUU9BSVNobXFIaExrVUZlUExRQVZDSENWa3UwNDNQazlOakljN2VkMWdLTXppV3FJQng0MmlUYlZQSUpUNEhFNTQ1d01mWVRDek5HcHZERGh5WTNvSVppczl5LURyRmdOTndRQ1BiRjJPZkI1QW5UQnRPMWUySWZaSzRvdWV5Z3pNZ3YzWWg2TWlkRDBwQVJNVEttXzdrX0NB?oc=5"
+            "source": "BBC",
+            "title": "Premier League pre-season fixtures: Who are your club playing this summer? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vTnBudGhwODVVaWdWcVNVU0Iyc2dxTEtyNEx5ZTYzd1VkZWxLSlFTVk5tRkZrNEJ2dmc1OGhnSVdyeldUTXJDVFpaRmZuQ0o5VHlZcGFnYkt4eTZQa28yVzNsMGNZTHM?oc=5"
         },
         {
             "source": "talkSPORT",
-            "title": "Jacob Murphy eyed up by Premier League rivals as another Newcastle star linked with exit - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjlLRWRnR2xLNDBOVEY4WUF1RDdGQ0ltbnVKUkhBMGxYcmxuTm1hS2w5WDJEVldHU3RnWlYtdDU3bG54ZXU0YVJzNlJManNEMDIyT21GQTIyOFBXOE9WUDEzQ2Z4c2FQcEY5RTkyb2Jtem1BdnVGS3J1Y0t0YlNVZUlkV250YU9aYnZLSg?oc=5"
+            "title": "Liverpool transfer update: Premier League winger on shortlist if Bradley Barcola pursuit fails to advance - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVhWldQbDNJLThkOGFINGR6dDFQYlp2ZW01b3dPLW16Ql9NU2NSOGF5UXZScVhMXzJUZXBhbHE4MFo3ZlA3dzJQNU9ISmEtS0JTcU9IdFQtTEU2d3RXNlBiNXFkb0J4R0dNU3c3TlJCYzZ0MVFFb1FNc08xTUVPQzlmb0NrVmxjSE1hMUxlcw?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Former Chelsea and Leeds owner Bates dies aged 94 - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oZVNqSTR4VTlCS3NVczVyX0tVc0tQeFpNY1hfNkVVRUxTc1A0Wk84YmN6ZUFpS2diV3Jtc0NZMDFfX2xrZF8tSm5MMjhnWnV6dVNzckU4R3BaemVRcWhiYkRIY3F4WHUycmc?oc=5"
         },
         {
             "source": "Football365",
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-07-11",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
