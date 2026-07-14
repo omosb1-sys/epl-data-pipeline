@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-07-14 16:59:31",
+    "timestamp": "2026-07-14 18:01:47",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Independent",
+            "title": "Ayyoub Bouaddi: Morocco World Cup star attracts interest from Premier League giants Manchester City - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYV9hbWw5bUhWZlhHb0IySnIxcV8yVDJtRVJjWlB5WG9lQWNvT2NUZlBwYTc1aGN6dmVSMmpOYTVfZGdicXM2VXRjNEl5ZUNUN1FHNHZhaHJBTUhDTFpzWG84eUp3NGFaYktRQTgwZ3lvaTAzTnNYb3NORjlKeHJ5WHY2YVFxd21WaVJ6WU1BWklsZnRqS18zRS1Id0pJVTZZZVZ2NlNvUkxsLVd0NGxBR3AxeEJBNzdXMmNJb1VB?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "World Cup 2026: Premier League dominates last four defences but not attacks - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oS1R3dEFYb2toY3ExX1pOZHRPT3hhRVluME5XUDNYNXNJeFllREh1QWxPeno4VE1PcWYwaTJKM193NzMwWFFXV3lkakhuSTAweVVuZ05odFo4ZE05ZHRmcFpaNGdhUzQ?oc=5"
+            "title": "Premier League rules World Cup defences - but not attacks - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OLXhRU3NFVC1PeXppT0lNdi1aRVIxcWVuOElNRWptT1o0RXd1SHAzTXNqdFhVV3BvaXhHTnk0bC0zUEE0b2lvTTdDaHJFaVVzOXlINDdHTmFsVFhWbGE4c244bGYwa2I4RkE?oc=5"
         },
         {
             "source": "BBC",
             "title": "World Cup 2026: Which Premier League clubs have carried the biggest workload? - BBC",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HVUwzVzBnTktmZTQ4V0dudU9VVlhPa19ocEw1eE5zZWJRa1JCN1ZiTGpKejg5bGF4UjhDYlZHRXZ2QXR0dnBFdC1UejNUMGVtb2ViVjBHNjVWSW9oNFd3eVpNQ05iQS1XU1E?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "The Briefing: Premier League stars battle at the World Cup, transfer latest and more - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWF0ZjRUdFBLREZmWmlRcUxSSWNLc3JLWWJEbDhiQUlBZnozU3J2QTRKWU1aOWZWT0J5dUtPN3RvSV9kTXFsTFJhUjR6LUFJRlU3RVU4Q1pQT3dTd0MxdXJ6TzluZEluWXRTZjcxX1dWQlZ0RnhiNmQ3MjJuNHVzMVBRZFVXVUYyNVhaWHl0czl1cVNqU3gzbkM0N0o4akNwLWZWenFhWG5yRVlqMEs3ZloyWG5TNzl4X2dDbTQzSmFpYWFmQWhF?oc=5"
         },
         {
             "source": "Yahoo Sports",
@@ -42,7 +42,7 @@
         },
         {
             "source": "The New York Times",
-            "title": "Manchester United set to finalise Youri Tielemans move from Aston Villa due to £35m release clause - The New York Times",
+            "title": "Manchester United set to finalise Youri Tielemans move from Aston Villa due to £35m release clause - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3lHaTE0RDBkRGJwdlRRVklLeXRnSU9Od011X1pIdWlJcGdEdzJ1Zy1QS3ZuT3QxWGV0NlhiVVYxdHlaR3lXTnBpMG5lUGFSd3BVMmFGenVxM2NpVjU0Tk95MUZ2RzNZLVBiczBfS2xQNWU5Z2dfTktTc3lweGR6ZVR4N3NTSV8zQk9xWFhUQXZ1M3cwcmptUDgtVVNNSXMybjROVlUwb3VWWTA?oc=5"
         },
         {
@@ -76,6 +76,11 @@
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIZkF0bFFLZE9TdE1aajl6LXJOT3NkUEpGdTlhQ3pWUnI2bDg4d3p0Z2dPVVBqMklna1JrMTI0dW1iUDNjNzJWRXctbW5mTF9EblUycTZ3ZXYxN3BOWGhOX0FjLTB1WVdFRjNmQzJ3?oc=5"
         },
         {
+            "source": "스포츠조선",
+            "title": "독일 독점 보도, 김민재는 프리미어리그로 가지 않습니다...뮌헨 계획 180도 변경 \"파격 제안 아니면 잔류\" - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RQXNLQUh6NDNMTWllMGJnQ2F3ZU1fWUFQRTJNN3Q4aDZyaDRhYnM4X012ZGFPYkVtcUhyTDNKWGRhMzlBM0RFM2tkUGZNSlI4bVdWeWM3bGVaaXNvSDJKNHJtbXV2UHZwc3AwVjZQMlkySW5sWllqcjVVSllUdw?oc=5"
+        },
+        {
             "source": "Vietnam.vn",
             "title": "2026년 월드컵 준결승: 잉글랜드, 프리미어 리그의 강호 아르헨티나를 꺾어야 하는 도전. - Vietnam.vn",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTdxaWlwZy0wUUlRVmM1SEFPMm44NmpvaHgzb3dwemQyMHUyZjk0SzJsdE53cmVxSTRkWEFyNldjRVhwTGduS3hiUGk4V0x1YURGR1VJM0EzZjhmb2J2d2Y4QmdOX1BFTHB4ZnB0bWI2U0wtejBFYVVvZUt5VVJZeXhIeXVtSHM0MnhTaE9aU3ZUa3A2RTVfNjFFYUxUV1lkcUtFYkg1TjMzSjdWY3hoZzNHOGJsekR6?oc=5"
@@ -99,11 +104,6 @@
             "source": "v.daum.net",
             "title": "'일본 대박났네' 월드컵 핵심 공격수 두고 프리미어리그 클럽끼리 경쟁...\"브렌트퍼드가 에버턴, 노팅엄에 앞서 있다\" - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00eWEyM1hwNHJKbi1vZ0FTOGhHSkZOZTIwZnMwMGFRSFJ1cVhrTEFaV214WWlCNzZxR3M0bmhvbVo5YnhjTmc?oc=5"
-        },
-        {
-            "source": "sports.donga.com",
-            "title": "K리그 신인왕 판도는 ‘맨시티전 영플’ 손정범 유력? ‘업그레이드’ 서재민, ‘성장캐’ 조상혁도 있다…후반기에도 이어질 ‘영플레이어상’ 경쟁 - sports.donga.com",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DS3pBTFFVVXh1OUF0N3RnTlZTb2JiSXJTYjdiTHhtVjdrVVdSaWVNU2dIMDB6LWxubV9KZzhpU3JKODNJYVFYeFZrRzRfd21Gc0tNbGk4cW9CTFVVbnI3QnZoMjlXX040NUYyYlJ1Z0tDQQ?oc=5"
         }
     ],
     "transfers": [
