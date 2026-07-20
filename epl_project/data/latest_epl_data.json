@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-20 08:33:56",
+    "timestamp": "2026-07-20 11:35:03",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -17,7 +17,7 @@
         },
         {
             "source": "London Evening Standard",
-            "title": "Transfer news LIVE: New Arsenal targets; Rogers medical; Man Utd exit - London Evening Standard",
+            "title": "Transfer news LIVE: New Arsenal targets; Rogers medical; Man Utd coup - London Evening Standard",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNkVBRW81eGV4eTB5UlphQWJaR0xWLXJMSEhiWDNRbENSQ2Y5bTJjUFhLRXlzeDZQTl9mbmpPNXBEMW1WU241THFMdkpxaDVhLThTVWY0cjUxYmxVdjVTbUhSbUduOG96cWJwdjFzcXYxMmRtZTVNODdpRVZoNEVfaUl3Ni1WNXJuOWN1QzB4eHNwWW4tZ0w2Z2FCZVpZT1NuYlZCTEtqdXR0aEN6a2hLbk1IeUNVQnFIQUF3SWcySUlwRkpkSE5ZajZXYzcyZw?oc=5"
         },
         {
@@ -67,13 +67,8 @@
         },
         {
             "source": "네이트",
-            "title": "K리그 올스타와 산리오캐릭터즈 만남…'2026 팀 K리그 유니폼' 공개 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PQkxIVmxlYmFwV0NOQWNkNDBhd0dEYnBGX3dNM0JSa29sZHRwRE5qNzVoM0ZjYUhYWWZHcHBBc2c2enF5dGdWYWRwZHhTR1NyeG1oMy1BUWdIcEpQ?oc=5"
-        },
-        {
-            "source": "Vietnam.vn",
-            "title": "아스널은 살리바의 대체자로 존 스톤스를 노리고 있으며, 리버풀과 맨체스터 유나이티드는 마누 코네 영입을 위해 경쟁하고 있다. - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTZPNWdKZEJoWmloTUE2b2EweHUtZFVqazBrRDg4NjBBOFZaQkN6NFNrbXlTUnFiMUwwZDdXVldTSkZ5UGxES2xWT2huT0dZOVpjZVp5ZDBPSUY2RmV1eUx6ZWdxR0pUOW1NY1VDYXluOTVtMU9hQnFoZ0dXOTFsTE5DSVY4dXF1VF9lSXNTU2J6S0dQaXQ5ckZZcmx3S0MzR2YwMA?oc=5"
+            "title": "'홍명보호급 참사'…독일의 '미친 결단', '명장' 클롭 선임 '공식발표' 임박! 1티어 기자도 밝혔다 \"2030년까지 계약\"→금요일에 '오피셜' 예정 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZLUVzTWdCeDZoNG01U01RUXpOYkpnRVF6Ynd3bW9xUjMxeXhieHlnSl9Sb2NJbEpldEstb01mSGlsM1dFYzF2S1Y0T3pwOVNuUmRiYjNDa1o5bkVu?oc=5"
         },
         {
             "source": "Goal.com",
@@ -81,9 +76,19 @@
             "url": "https://news.google.com/rss/articles/CBMi_glBVV95cUxPemxMNW1nYnBxa0ZHMFhrU1JBbHppcFFOdERxdmRqMWRZTFFUSG5mZUI3YjVOWVI0cm1uUkthX3U4X3pITGNNWWRhcEowb2VFb1FFRURjRUpHZEk2bEpRa2ZtdE5oSE1MRllsekJoQ1R5SzlSZ19vaXM0cy1rUHJpMWxYcl95SkRwa0tTamNGc3lLdGFNa0JUZnFLa3hXVmJTVTBWTXE2U0c0OHVVOTB3dmhNLXRONlZYcS01Y2JQRVhlVXpJR3hRbktnRzlFNmw1bjZ2V2xuVGlEdjVBT204U1ZZLTdLdWdKd1NZNVg5NDB4QnJ3RXBfQTdQUlZXNENSd0IxZS14N1lzU29mNjNwOEktMUFmcXN2MjkzT0F3c2pEbXBMMmNJLUJlMHhfN1c0aDFDRDg2cENQRHdFSlZMcG54UGhITmpBMEtyWnRNNkY1QWhwY2YyYkRuR0hnR3BSYkVCU2hWZEpwc2huUGhnTjI5RUVoMVM3cDJvQUpISklvU3U1ZDNxamxKcU9fR1VqV3BsT0dmbjNvY01XTGtES2dicE9qNmh0dkxiUm8wdWprVlVMdzJIX25lRU0xaHN5d2NvdWMwS0dCTTlITkxhMngxbzNPdlFvVlNPLTJqaDF4TTVOTnJmOVBLWm1Bdm1jTEo0OGNJdmZwUEl0N1k5TlkwU0x6eGRtYVJBVXJiY3VkdEhISkhrcFhoVzRRUGREcEp6aDVUX1EzVWRVWmhLZ2pzRXBBc3hucGdINnpZeW5RVGZCNGtydVRqeGNZUzVBNHFmTWFHUE5SR19NdnlYbmJfa2xqM1pzSkV3emdIcU93dk1pQ2VObjlHal96N1RfQUljUHJfN3picV96aFdXclRuQlpTX1N2cXZQUjE3b2lIVUdxMklRZVFQcHVaVUJfeUV6QkZOOWVKb2p0cTlibkFCUXNRWTg2b2E0M0NrZGRSSFJ2UWRYTTdlR2hxYWMzdlBzWlEtNDd2Q1BPZWgzQTBvYk9ZSmVfSk0td29rcThpTUhUc0VXbC1pQ1BsdDMzQTFnN0dRZFl4clU4ekdZX20yT1FLaXZpQ1RzbVhBUzVtSjVFZmhwWkRDejNLQkwyVDQ0NFJSdllGaXBNNnlILU9hVjJzTE95Q2JnTHFBanBYR2YzNXpDTGNFZFZTa3NnbnNYQ3hyUTdqUXUwZzU3X2gwLUh4WW1lZC1nOG5Bak0tZVg5WjJTdFhDV3M0ekVYczljaXIxaEZURUZ0R096SENsdHNyZUk3TjhRYWFyNG42ZFVVXy1UUFI5NVhJWDBRWGdJN08tZklQZjVZam1IQTFPWlZWdGRFWkNIZndKMWZ6ZkRHYUNFaGcxal85cTJULU1FMFlydW9ZNnBPYTRIN2syajh6TWR0ZzVYN0RtcjZrWDd4a2JmVFdfdVFOOFBFcmNfUVJtbWhCUlRPOXRSV2dIT2d2UHdZcEV2XzlhOEgwQmNjaU1QTnZWRDh4Y1ZxdEZydjhfa29UcnBDcmVuLVZuT01QTjZ4WWo4dExfRXdlOGZyRGFXSUthbzcxd3Q0SUhGRWlFZWx0OE5PTGpYd1JEcWVFREp1dHJOMzBzT1UyY05KSW5fUUhrRDc1TGVVVTRzaWMyVlZYOWRWTXN2NE9QV0lPd0M0b3c3UDVteEt0RmJxVkdBVVd2VmxPdi12c1ljNmJDYWN4U0lUeGc?oc=5"
         },
         {
+            "source": "Vietnam.vn",
+            "title": "아스널은 살리바의 대체자로 존 스톤스를 노리고 있으며, 리버풀과 맨체스터 유나이티드는 마누 코네 영입을 위해 경쟁하고 있다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTZPNWdKZEJoWmloTUE2b2EweHUtZFVqazBrRDg4NjBBOFZaQkN6NFNrbXlTUnFiMUwwZDdXVldTSkZ5UGxES2xWT2huT0dZOVpjZVp5ZDBPSUY2RmV1eUx6ZWdxR0pUOW1NY1VDYXluOTVtMU9hQnFoZ0dXOTFsTE5DSVY4dXF1VF9lSXNTU2J6S0dQaXQ5ckZZcmx3S0MzR2YwMA?oc=5"
+        },
+        {
             "source": "Your Field",
             "title": "\"내 몸값 좀 낮춰줘!\" 손흥민·차범근도 못한 33골 日 공격수, 400억 가치에 울상…\"PL 이적 어려워져\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xYjRVRFdFQ2p4bV9CRmR5dnd6Z0xRSVc1VXBEcENwckVyU01BX3NqN3VWZ2ZnRHVKeDFlTGVZOVpET2FidUdKNWQ2OW1FUlhFdFN1aEdyRE8zd0F5UXFfazltWl9aZDA0bzc3LTlJcUZsUXk5RXc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJWXpTVTZDTHRNOVhqY040LWM1YU04OEstWWx3WjVWSnM5R2JOV0JVOGg0WWNQdGRsdHQydEl4cjQxRWxEVUdHYUxCRzBMdWZPU0lQVWN1SGhWemRNT01SUjJhZXhIQVl3SWlPLVljLWFMZ3dLNE9EN05nVQ?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "끝내 아르헨티나 떠난다, 또 다른 ‘리오넬’ 공식발표…“재충전 필요해 12월까지만 남을 것” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4a0I3X0VOY2hBV2pUUmEtd2lvRzljNm5HM3ZIeEZLdXk1SjBxNFNXb09Ydmg2UGJYbGQwSFR3Njd1U3B5NGpwQjdRWXU0NUFmYmNlcEVnNW1KUkZyMUZXbkxHT2ZSdTh6ZUZSN0ZnVdIBc0FVX3lxTE9fallMN2h6Ui1RalFfcTU1RkUxdTBYWk1Tc1d0bjR0eGNFU1U3M20xd0pqWC1VNGJ0cmxqNVAyUXplR0JQN3l0ODh6X1ZIY1ZtRXRUNGhOWGZXUWlsZlNfU1lTUm9CdnRwQ25JNUg3dXdsajA?oc=5"
         },
         {
             "source": "인터풋볼",
@@ -91,19 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yOHRWOHJoMlM1Mm5CTFNoaXUtUDJpbUM2QVBxaHg1eVpZRHZGQ1dEQXhxX1pEU0xJMmZkNzNLdHVBc2hXdXlHX2NyRU5ZQkRvUHk1V0djRE0ycnF5ZXdYQmQ3UkcyZWpJXzZ2MTJEcUxnQzEy?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "또 다른 ‘리오넬’, 끝내 아르헨티나 떠난다…“재충전 필요해 12월까지만 남을 것” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4a0I3X0VOY2hBV2pUUmEtd2lvRzljNm5HM3ZIeEZLdXk1SjBxNFNXb09Ydmg2UGJYbGQwSFR3Njd1U3B5NGpwQjdRWXU0NUFmYmNlcEVnNW1KUkZyMUZXbkxHT2ZSdTh6ZUZSN0ZnVdIBc0FVX3lxTE9fallMN2h6Ui1RalFfcTU1RkUxdTBYWk1Tc1d0bjR0eGNFU1U3M20xd0pqWC1VNGJ0cmxqNVAyUXplR0JQN3l0ODh6X1ZIY1ZtRXRUNGhOWGZXUWlsZlNfU1lTUm9CdnRwQ25JNUg3dXdsajA?oc=5"
+            "source": "v.daum.net",
+            "title": "'일본 대박났네' 월드컵 핵심 공격수 두고 프리미어리그 클럽끼리 경쟁...\"브렌트퍼드가 에버턴, 노팅엄에 앞서 있다\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00eWEyM1hwNHJKbi1vZ0FTOGhHSkZOZTIwZnMwMGFRSFJ1cVhrTEFaV214WWlCNzZxR3M0bmhvbVo5YnhjTmc?oc=5"
         },
         {
             "source": "머니투데이",
             "title": "“우리가 놓친 최고의 선수”…17세 아자르 잡으려던 벤피카, 결국 첼시 전설로 - 머니투데이 - 머니투데이",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZ1VCaWJvQ1NfQ1dDUVB0b2pNWFFaMXVoc0psaW8zSGRlS0kxVTFDLWJlMWowbE42bmI3Um8zclZrdVQtaUN4OVVZRXR3anBIa0txbnp6S3I4bjktelNIMUJqOXJhaGg1WkHSAW9BVV95cUxPSlVtUGJTUWltYkM0NDRFajZoOXlRRVRtbk5ta3JVcGpzVmsySDgxb1VzU1phR3ZDdnJXeXNlbG5PalpZVDdKZTZpcVNsU2pVN2VsUmRRRkRHQjBSN2d2elpiRVFfQlRranEyNE40SEk?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'일본 대박났네' 월드컵 핵심 공격수 두고 프리미어리그 클럽끼리 경쟁...\"브렌트퍼드가 에버턴, 노팅엄에 앞서 있다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00eWEyM1hwNHJKbi1vZ0FTOGhHSkZOZTIwZnMwMGFRSFJ1cVhrTEFaV214WWlCNzZxR3M0bmhvbVo5YnhjTmc?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-07-20",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
