@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-07-21 20:10:58",
+    "timestamp": "2026-07-21 21:52:05",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXRXZkcU9URHp6bmNObElwNlB3dmtfSE5Bd0l2amppTDc1bmpKV29za0phdGVfcVNWWmtyMXRzaXJiaENTcGJZRzlaRzE1dU9XVjRRZmFZSDVWTFdfeGlkVUZnZWhBWWc?oc=5"
-        },
-        {
             "source": "Sky Sports",
             "title": "Anthony Taylor retires: Premier League referee steps down after 16 years in top flight following World Cup - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZEFvdWZxN1JIUFV2T3ZPaE5abkZFaUcxeGZRb0JQUGVuMWY2eGptX1FIdVJ2NnhabU5CVzlIeGFMdnBFZFdWRUhOSnFfQTZWMGpEOVFXNFZTNnRrcUFyQktsRmItaGVaT3hTbE4tMkE2MjNpRHlwekZQM3E3SERUdk5nUDVOQk9iRUFxbnVIMF9DY3pld1cwVm1JOXB2UTZaci1ORmYtSXZxSXFrTEh6OTRtZVZ2RXhxTHNqY09ReFA1ZDVmSURxMGZEcm9sSFFEWl92SlkyQUtEb0VteWZsUGlxM3ZHUnFqc3ZENDdkRzFLQQ?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXRXZkcU9URHp6bmNObElwNlB3dmtfSE5Bd0l2amppTDc1bmpKV29za0phdGVfcVNWWmtyMXRzaXJiaENTcGJZRzlaRzE1dU9XVjRRZmFZSDVWTFdfeGlkVUZnZWhBWWc?oc=5"
         },
         {
             "source": "The Independent",
@@ -37,18 +37,18 @@
         },
         {
             "source": "The New York Times",
+            "title": "Aston Villa in advanced talks to sign Chelsea’s Alejandro Garnacho - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXQ1OFRrbndUUThWUXJ3d0pmRjN2djZNS3NTYThkYVRjbHhIYk80LWwyZEplUVRDMlNJMW0zTlJ6OElfMWNhSEVBMFNFNm04bWdiUFd4N1MwSXhYVkk0R1J5ZXN1VmxMMTctcFFmNmZ4bDdqTjlXX3VOWGVJZkVFTHFJWmtwa3NZWW51Yzl5TVFPNERlRFZ3?oc=5"
+        },
+        {
+            "source": "The New York Times",
             "title": "Manchester City reach agreement to sign Mishel Nduka, 16, from Arsenal - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOW5JUlItMkVEQUR5MFhIVC1GQzUyY2gyc2xlbXRZZFB6WVh4M3U3dEJVUU5HWnJPRlFEZkRWT0FPRFdSc3lRWS0yajJ1N1dkSG1nSFBUNTdHcXhvZWs1MG5GQzY4VU5xMlJTNlM4aFRjeFA5el8yNGV3V3UzdWFtSTdmMVpnSzdfQ25Zb25oOXZKejRaNHdGSkh6a3ZfazQ?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Aston Villa in advanced talks to sign Chelsea’s Alejandro Garnacho - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXQ1OFRrbndUUThWUXJ3d0pmRjN2djZNS3NTYThkYVRjbHhIYk80LWwyZEplUVRDMlNJMW0zTlJ6OElfMWNhSEVBMFNFNm04bWdiUFd4N1MwSXhYVkk0R1J5ZXN1VmxMMTctcFFmNmZ4bDdqTjlXX3VOWGVJZkVFTHFJWmtwa3NZWW51Yzl5TVFPNERlRFZ3?oc=5"
-        },
-        {
-            "source": "TNT Sports",
-            "title": "Ornstein reveals ‘top priority' for Arsenal in summer window after UCL heartbreak - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTVBJRWhieW1lcnEzb201ZWFZck96WXh0c3RwN2F0aFdJSGZEOVE1bGxUVnhCZVBnN2Z1Und1Ym1CbGNDNFZ4R1M2ci1rMk9ETXF6ekFqbzladXU0Rk91SmxjS1VuMEtwaGhtcl9Ha05GN2xVdzg0dUEwcDlTMzFJcjBrSGVBTm51V3pEb1lYalJ6dF9CaXlNMWZxQmUzVTgySVpBVlBhZXMyZVhJRU1IRkZLSnZjQTNwamM2QnVzQ041T0hfUDEyYnlPRU04S0RWa0s4T2NOeE91MkJkQ2xLc09BZi1aRHNXejE1blV1dThNQ3lhZy12azhWYnpqRjYteTdoSEkyQ3ZIdw?oc=5"
+            "title": "Chelsea reach verbal agreement for £117m Morgan Rogers transfer - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVFuNHFqRjlKUnExQy1UWjRBdVdmQXYyLVd0ZkxpeXVUNmNrT3dWdU5sRHlBdk1yQ0tITEhQUWduaGM3MTdrR1NRS3cxUzEwSlZlYXUyeHpyRjFvR3VZTnk1TTEzUUN4NTY2ME5KaFVtTGtOTUZRRURNLXRpcUtaMndBcWVzWTlhRVI1UGtRallmOTUwSUhtMzNRUEJpLXNrMDNxWg?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,19 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "韓 축구 초대형 사건! '월드컵 대활약' 오현규, 프리미어리그 안 가도 되겠다...EPL 최고 수비수 온다, 살라-트로사르→판다이크까지 등장 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWld5clZEMVdwcTRrSHJtNGxsajhwS0FVbG9KdU95SDJ6dS1FSHJQQ0R0bGJwazd1dVJ3U2RtSGhMcjZ0dnA5S1V5YU5JeWN6VVp0RC1CMTRZZWszNGpyTEExZzlvVnVieFB4SnBkOWtxbm5iRWZTN3FYQ0Y3Zw?oc=5"
-        },
-        {
             "source": "Manchester City FC",
             "title": "프리미어리그 경기별 티켓 판매 곧 시작 - Manchester City FC",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDFia1drOFQxME9tNlFRNnJ2UF9HdzFuSXE0Y1dDRTkzZWZzMl9qZ0VaQ1pwQ0N4TlJUeTZFcUIxTTNtbkVOM1NqVG14c004SWswWUpwbmNMbDljWVVQZlJhajdBdG5WM0pJVGRGNVV3U1pCUHI0UnVLd3l0bjdzTjdxdnZRVlFuamlRbHdn?oc=5"
         },
         {
+            "source": "스포츠조선",
+            "title": "韓 축구 초대형 사건! '월드컵 대활약' 오현규, 프리미어리그 안 가도 되겠다...EPL 최고 수비수 온다, 살라-트로사르→판다이크까지 등장 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWld5clZEMVdwcTRrSHJtNGxsajhwS0FVbG9KdU95SDJ6dS1FSHJQQ0R0bGJwazd1dVJ3U2RtSGhMcjZ0dnA5S1V5YU5JeWN6VVp0RC1CMTRZZWszNGpyTEExZzlvVnVieFB4SnBkOWtxbm5iRWZTN3FYQ0Y3Zw?oc=5"
+        },
+        {
             "source": "MSN",
             "title": "韓 축구 초대형 사건! '월드컵 대활약' 오현규, 프리미어리그 안 가도 되겠다... EPL 최고 수비수 온다, 살라-트로사르→판다이크까지 등장 - MSN",
             "url": "https://news.google.com/rss/articles/CBMi1gVBVV95cUxOMFNFV2s0MF9OM3Z1WDJHenFIWkRzbGtxTkZicGNqaXNWRW9Xa3kxY19zaGswRW5PWkRVOThoWWdRUDhNZlFSSC1sTUxoNXVGY2U0RHRxaW51bXM1ek9kSDg3RVhMQnNJZkRKR0VrUGZRWS1WdDJNU3JEaC05dTFLZ3BHVWlJeDNrbFJBdXA3bkJac29JSUNwRU5WYkt0UGZDa0dqUXdqTnNoUlBiNThweDdBay1mQUpodFRLLVRyZXFERGtXbXJvQ0UzNjlKeml3aXN5V1l3QllsMk5fdU5JRE1iQXNsdWg5MGg4UXdleFV6V3U2RU15NjRmZFZqZHBXUDI1czc5OUREbUNtNFh4Y2swN0tHNTdkN2VLQzRWUF9VNjZIWUpsY1ZEUG5MNko1alU2NlQ2blFrVzAtbUNLMHU3OUxSVTNYaEtIOFJYYTE4X3hXTTF2Mmk1cklmbHBhMXR3eEpWMWg4aXhGc25WRnBzUVRVYjVZSDMwSDQ1bUtaWnhmU0NTd3JGb0NKR1l1RUZPQ1dnRFdVbnFCRTByOGxrdVJBanNqWGNrNE1lQVQtVXFGbHJGa1hEVThBc1V5endHa3c4R1R5aVZiTkVOU0xBR2E1eGUzc0pkQlNaWmVZX1hBTHpqcDNkR0s3Zk5ybUVZQ3RJUnNPM2xaemFQelFqdlJGUXc0OGZSbjdmenltUEk0d2ZfNjE4RnluckIzX3k5VGNocFhmZzZkWlhwZ2dFTkpDOFZjVFdOQmNHb3lrYVl5NzRqQmwtOGRnWHhQMVpkbUYwdlJiQWdxbVhyNndXcVFHeDgxX1poRWpHWFFsa2NqclZ0SkFNU29aUFJ5NFE3WEg4Ulo5VGVYUHlFa3htaWtsRGRmNUlPZ0dsRlNSU082czhZbXZWc2JzVkI0M0VKX2d2YWx2SXhSUXM3MnA4RjhlUGJ3MHpRTk5xM1lHYjVUMUE?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "\"내 몸값 좀 낮춰줘!\" 손흥민·차범근도 못한 33골 日 공격수, 400억 가치에 울상…\"PL 이적 어려워져\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xYjRVRFdFQ2p4bV9CRmR5dnd6Z0xRSVc1VXBEcENwckVyU01BX3NqN3VWZ2ZnRHVKeDFlTGVZOVpET2FidUdKNWQ2OW1FUlhFdFN1aEdyRE8zd0F5UXFfazltWl9aZDA0bzc3LTlJcUZsUXk5RXc?oc=5"
         },
         {
             "source": "인터풋볼",
@@ -89,11 +94,6 @@
             "source": "경향신문",
             "title": "영국 첫 발롱도르 2년 연속 수상…‘리버풀 전설’ 케빈 키건 별세 - 경향신문",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUzAteE9jeGJQWjBkX0hRLXNoQ2VxM1pZUW9iM3l4Z2drUmdYcXFDdXUtQXQyY2taYTQ2Y1psNWsycFlQT3VQT0xGaVIyS2xVUnBvaDhIb3ljZ9IBX0FVX3lxTFBkblZfT1VzMFdVa1F2cmlKbE44d01tZFJ5V1AwWjFJMTVYMU94Z01IVkJ1SkNKcWVqZGNEWnV1ZThiUG8yQVo4MHJtaUV3MW9GMU1OUHRqMjBCZ0taSmZr?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "“우리가 놓친 최고의 선수”…17세 아자르 잡으려던 벤피카, 결국 첼시 전설로 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBMzE5YTR0S0ZnZUVxUFhIUHNxakRId2Z1eFRvYUtqdlhUYXNYNjVQcHlsN2ZjOE54dkM5eW9tWEFLTmpBY0E?oc=5"
         },
         {
             "source": "조선일보",
