@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-07-23 12:19:01",
+    "timestamp": "2026-07-23 14:58:58",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "talkSPORT",
+            "title": "Leeds close in on Trafford, Arsenal land Tzolis, Rodri pushes for Madrid move - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Who am I? Guess Premier League star No 3 - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Ul9qMDdwRnVqVkZueTVtaFp0OTBXT2JxVUhuZjVYVHc1cGQ3TU9pR2NRV3doQTBnQU9MeS1iNnQ3T194R0IzSVRKdm1GazNpNEk3LWJ2UmJuUExRRnlTOHNkcmQwakU?oc=5"
         },
         {
-            "source": "talkSPORT",
-            "title": "James Trafford in talks with new Premier League club after Newcastle interest - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajduYzUzQmdXajBkdVVCb29RQlFDeTdWQzFGVV84MjV5blIzMm9JcHpVUGczQTRtbUV3VUd4cHpQSVI3VE53elBIbHpuTkFhZzJuMDJ3WlNFLVRIYWFWcXVYZEFISUczakFZd2Y2R1FRa0djRE5mQkN5XzJJYXpNdVNOMS1BSk01THZla3NUZnkyQQ?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Aston Villa: Alejandro Garnacho's top five Premier League goals with Man United and Chelsea - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTloc2pnYkFnMHhBTlQxVU4zWG04eHVuV0t3d3VOVHk0Ukw2c3Jlang0MjUzeERFT3ZjVFZFbXI3UmNtYVBnVmRCa1VBRWttM204RE1jYVN0djFibXhFTlJ5NzVyaXBMd0FEVk9sd2Q2eXBSeXQxS1RnQWRPcGx3NEtvNlZLQ2JrMTlac2dTTXhOc2cwbVY1Z3VkZXNQREkwa1hxWkFZcTEwaVRCb0pmajAxNGktTUJiblNuTVFBZmw2a3U4YTJfYV93?oc=5"
+            "source": "BBC",
+            "title": "Hull City owner 'disturbed' by transfer claims - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54eHNoa1NvSU1IdzVDU0dqMHJ5NEl5OXZOaHVTVDduVXN1VXdaNFhSbkl5TlpLakp6NldJbU4tdkRiNEdVODN2ZjlkYmNwUkNwcFBtLUt2elRCQlk5NXNPNEw0ejhIWmNtZFE?oc=5"
         },
         {
             "source": "Read Newcastle",
@@ -42,8 +42,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Aston Villa in advanced talks to sign Chelsea’s Alejandro Garnacho - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXQ1OFRrbndUUThWUXJ3d0pmRjN2djZNS3NTYThkYVRjbHhIYk80LWwyZEplUVRDMlNJMW0zTlJ6OElfMWNhSEVBMFNFNm04bWdiUFd4N1MwSXhYVkk0R1J5ZXN1VmxMMTctcFFmNmZ4bDdqTjlXX3VOWGVJZkVFTHFJWmtwa3NZWW51Yzl5TVFPNERlRFZ3?oc=5"
+            "title": "Aston Villa agree Alejandro Garnacho deal with Chelsea - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUFEX1hGaWp2RGkySC1EYVBkTFVUdGUzbnk5S3FSSFFHMGtURnp6dnNiWHNJZzZCZUhsVVRLemxlUDN3dzJVRjJ1eUJ3VVVsN21kQ05CVmttT3U2YlBIM21iaXozWERyRFJLbTc0QTdDaG5zT2NoVDQ4cm85UmIyVVZkWmFvaXphWHgtTkctZ3g3ekNZaGhj?oc=5"
         },
         {
             "source": "The New York Times",
@@ -62,13 +62,18 @@
         },
         {
             "source": "네이트",
-            "title": "'강등권 경쟁' 토트넘 수비진 재평가…EPL 선정 북중미월드컵 베스트11 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JU0VRNHJiS3lLbnFHRlpKbmdrZXd2N29RMjdPS2F0aHhYWkZmbW0zSTJQWU9DdlNGd0RCNGVfal9mX1o5em9hTWl2X3l5VktubDdDa3BaUHJ2VlYw?oc=5"
+            "title": "한국 0명 vs 일본 10명, 충격 사건 터지나? EPL 아시아 판도 확 바뀐다 \"日 GK, 애스턴 빌라 이적 유력…이적료 586억 요구\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QSGZMSi1iTmdyQ1lGMFlwQ2p6VURGTzBhSnNyNXVhYmhfVnZoNjE5WGFiaWxRYXZpNFQ3Q2w3alQyaVR3LW9WRXl5REpRYzRmSmwzVi1VU3RldmRm?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "[오피셜] '극적 반전!' 韓 21년만, 프리미어리거 전멸 위기 속 유일 희망...양민혁, 토트넘 1군 프리시즌 투어 참가 선수로 확정 - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQ3lwM01EYUotR204WXhKYU1tbXlUb1dpekNUbHdJQjZWQmU3RmYzZjRsZVRLY2xOeHNEWlc4YmhFVXZBUEZzX29IZUI3OFRJZFRnU1FXMzdGMkNsSU5rcEZOSWY4M3h3WFRNYmpiRFBMaWIzdWc?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'韓 국가대표 미드필더' 백승호 \"중대 국면, 프리미어리그 진출 원한다면 스텝업 보여줘야\" 英 매체, PAIK 향해 진심 조언 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2NnlINURTZFBaaldMcnhGZU9QdmtnbjVOWGw1TmpTUzVuSDhkWFl0WFlJWjk5MjhxNHMtS2t1OWd4NmpIWmtER291SWdVWHc?oc=5"
+            "title": "'강등권 경쟁' 토트넘 수비진 재평가…EPL 선정 북중미월드컵 베스트11 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WbENGaHZQV0syNG96RmJRZnRLX0lkQXR4Z2xhcHRHSWdPNGhLaDBMQWFvbUJfRFhwV09VOFNpeExPNWo0NEE?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -91,11 +96,6 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQjc1ZC15SWhTd0RjNktLdE9WR3ltVmkwWVFOSUZxbWpPM2dCaXZMeVdoV2VZaGpWZUsxelZ0UGZ2c0RoREhMVFBycEFkdDM4QzZPWnVWSW5OS3pnNmpVZHJYWUxBNnhfaFBNazBoekhzSXF4YVh5WTVlSkxPUTMyb1l5S1pzOHdJa3dJ?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "황희찬 어떡하나, PL 승격해야 하는데 시작부터 난장판! 동료가 감독 지시 거부→훈련 전면 취소+경비원까지 배치 - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ibDVrLUVCc0U3enpTSFl2aUNwVWRyaDFuM09KYjByWjVScUE1R3FCeHlNdmFUSlAwRXNlWVZCeS1XZkFiakNkOEZJSUtDdnZSZ3ZnUzVSaFlXV1hkcHN2WGhxVFhuMHdobVRLS01OUzV6Nk1uaHc?oc=5"
-        },
-        {
             "source": "인터풋볼",
             "title": "양현준 웃는다...'셀틱 日 폭격기' 마에다, 프리미어리그 진출 초읽기! 승격 팀 입스위치로 200억에 이적 임박 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XRV9RX0c0T1Flb2hUbjVxOElMbUIxLXo2T3RaWmlkVzhFR0gtMDBBSldNd0NZVFRnUGNNY1UwSkY2TGlETkdFSTE5d192MENnX2lxUHZ4Tm5sdGJCWHlZQUFCWUpSTGZjN3JtM1VHVHFZMURI?oc=5"
@@ -111,6 +111,13 @@
         },
         {
             "player": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
+            "date": "2026-07-23",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
+        },
+        {
+            "player": "Official | Karim Adeyemi departs Borussia Dortmund for Barcelona",
             "date": "2026-07-23",
             "type": "Rumor/Verified News",
             "from": "Unknown",
