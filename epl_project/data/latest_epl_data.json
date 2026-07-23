@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-07-23 20:05:41",
+    "timestamp": "2026-07-23 21:54:02",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Rodri: Man City's World Cup winner to undergo back surgery and may miss start of Premier League season - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM0NXYno2LUtfVmtzdFM4QUNOTjg1NzEzdkhpTmRjRHZmZ0JtREJ5M2t0ejNoRmxOdnpfR3gwZ3JNZ3dKSllQVHRmVXVKTXhoMGEtY2FTMmx1THVKbkM1VWJSTFdwNG1SRDhNbUVrMzhpWWhZNGVaeEJOb3hrRUtUVU5lQUFqaU9XRG42MVc4c0ZFeXl1VVprNkRRQkFUWTFQSFY4Rm5Id2JwT3o2c1JrMmo1XzYxeW1HQzBlY0RDNDFCU1YxSVRPam5uOFZQY3VYbmRiUzROb2U0a0JRd1lwd0o1UUxDd1Z2Sndz?oc=5"
-        },
-        {
             "source": "talkSPORT",
-            "title": "Premier League releases its own team of the tournament after controversial FIFA picks - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTNsa1NreVFkY0pDUXJ5T2hjQ1NHN2xadERFTXA4cndrMm85RFJxNGZVUmQwakFuZXd5QVROVUc3OS1OS2xGYWpKRkh0VTg4Vm81QWh2RHRSaHVBVjZIUERJU2dpQXdwZXhwSXoydVVxeVMwZnNJNXdNR095VGZsZzhZR2lMVmN3LVJEbDFjTEJMaDZ3eXJr?oc=5"
+            "title": "Transfer news LIVE: Garnacho signs for Villa, Tzolis joins Arsenal, Leeds close in on Trafford - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "The Briefing: Saliba's injury blow, Fernandes scores Spurs screamer and more - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2lEMG9uWHJuNHVvbmZpN19EeDR4VC1GelkwQjJOWW9EeF9lV1luMk9Rd1pYX3dSZDVOWjVsOHgwOFJoUERqQVRKQlNkdlhsV2oyTFl0WFF5aFlaM3dKUzJiTEZGUGpXZ2dVYktxMmphUXp0RlRlcUNqdFdUeWVFN0xoVlRIQmJ0M1d4VmFRR3dlWHpZVUxtZGFxUlMzLUt5V1RtQVpQdDYyeWRWb1RPQWFnSV9xVktHLXVN?oc=5"
+            "source": "BBC",
+            "title": "Premier League quiz: This summer's most expensive signings so far - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5MUxvbGQxaGwtM1c5MXNMRmp0TzY5NzdNT3NNbG5xSGhVZk1GSTZxZzZEM3l5QnNpWngtb1ZieEZzam9iWmZOVDRBTmNxQUxFN1l1eU9OZ2tzcE5Id1BSUkxpOTExbE0?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit? - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdW1HXzVVN2VDcy02THp1M1FIQ21QamR3OUZaUXZGNXhhTFZRZFBIQ1FlTERkemVBUDI2dGEwalZhNnlCWk5USG5hZF8wdFVxWlBldTRUNlp4UFVVLXp4a3pObzJzVlhlenVCWWVMckZiazdjM25qZGw2MERGV0NmWlNMcHRVcWZlMGFJZjRHbzhyRFl5aUVRMDVkMW44bldVc1NBQlVydWpaazg?oc=5"
         },
         {
             "source": "Read Newcastle",
@@ -76,6 +76,11 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jTnZvb2laT1pnRS1ZaWdWenRHOTVJSGVsckpZNkp2ZXpMSzZpYUdxQ1ZlYTNPSFRJVE9jLUxtQ2tlc2NRMndFVmtsaTk2WUVrdU8tV09CRUtEUHdhanfSAWNBVV95cUxQaFhHZkJ6V3NYT2ZFVk5USFBuNkZQVEJtZ2hnUnRNUjNUQVRySVVMRjdwbjFKRXAxeTZCX1JDdng4STc1ZlN6LXNreEVpeFNWZE1aZEcxQWMtVEVIeGdBMnhfMlU?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "'韓 국가대표 미드필더' 백승호 \"중대 국면, 프리미어리그 진출 원한다면 스텝업 보여줘야\" 英 매체, PAIK 향해 진심 조언 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2NnlINURTZFBaaldMcnhGZU9QdmtnbjVOWGw1TmpTUzVuSDhkWFl0WFlJWjk5MjhxNHMtS2t1OWd4NmpIWmtER291SWdVWHc?oc=5"
+        },
+        {
             "source": "Your Field",
             "title": "[오피셜] '극적 반전!' 韓 21년만, 프리미어리거 전멸 위기 속 유일 희망...양민혁, 토트넘 1군 프리시즌 투어 참가 선수로 확정 - Your Field",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQ3lwM01EYUotR204WXhKYU1tbXlUb1dpekNUbHdJQjZWQmU3RmYzZjRsZVRLY2xOeHNEWlc4YmhFVXZBUEZzX29IZUI3OFRJZFRnU1FXMzdGMkNsSU5rcEZOSWY4M3h3WFRNYmpiRFBMaWIzdWc?oc=5"
@@ -94,11 +99,6 @@
             "source": "인터풋볼",
             "title": "양현준 웃는다...'셀틱 日 폭격기' 마에다, 프리미어리그 진출 초읽기! 승격 팀 입스위치로 200억에 이적 임박 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XRV9RX0c0T1Flb2hUbjVxOElMbUIxLXo2T3RaWmlkVzhFR0gtMDBBSldNd0NZVFRnUGNNY1UwSkY2TGlETkdFSTE5d192MENnX2lxUHZ4Tm5sdGJCWHlZQUFCWUpSTGZjN3JtM1VHVHFZMURI?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "“손흥민이야, 양민혁이야?” 토트넘 훈련서 ‘손흥민 존’ 연속 폭발…EPL 0경기 꼬리표 뗄까 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQjc1ZC15SWhTd0RjNktLdE9WR3ltVmkwWVFOSUZxbWpPM2dCaXZMeVdoV2VZaGpWZUsxelZ0UGZ2c0RoREhMVFBycEFkdDM4QzZPWnVWSW5OS3pnNmpVZHJYWUxBNnhfaFBNazBoekhzSXF4YVh5WTVlSkxPUTMyb1l5S1pzOHdJa3dJ?oc=5"
         }
     ],
     "transfers": [
@@ -108,13 +108,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
-            "date": "2026-07-23",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         },
         {
             "player": "Official | Karim Adeyemi departs Borussia Dortmund for Barcelona",
