@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-23 21:54:02",
+    "timestamp": "2026-07-23 22:44:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -42,13 +42,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Aston Villa agree Alejandro Garnacho deal with Chelsea - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUFEX1hGaWp2RGkySC1EYVBkTFVUdGUzbnk5S3FSSFFHMGtURnp6dnNiWHNJZzZCZUhsVVRLemxlUDN3dzJVRjJ1eUJ3VVVsN21kQ05CVmttT3U2YlBIM21iaXozWERyRFJLbTc0QTdDaG5zT2NoVDQ4cm85UmIyVVZkWmFvaXphWHgtTkctZ3g3ekNZaGhj?oc=5"
+            "title": "Manchester City reach agreement to sign Mishel Nduka, 16, from Arsenal - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOW5JUlItMkVEQUR5MFhIVC1GQzUyY2gyc2xlbXRZZFB6WVh4M3U3dEJVUU5HWnJPRlFEZkRWT0FPRFdSc3lRWS0yajJ1N1dkSG1nSFBUNTdHcXhvZWs1MG5GQzY4VU5xMlJTNlM4aFRjeFA5el8yNGV3V3UzdWFtSTdmMVpnSzdfQ25Zb25oOXZKejRaNHdGSkh6a3ZfazQ?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Manchester City reach agreement to sign Mishel Nduka, 16, from Arsenal - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOW5JUlItMkVEQUR5MFhIVC1GQzUyY2gyc2xlbXRZZFB6WVh4M3U3dEJVUU5HWnJPRlFEZkRWT0FPRFdSc3lRWS0yajJ1N1dkSG1nSFBUNTdHcXhvZWs1MG5GQzY4VU5xMlJTNlM4aFRjeFA5el8yNGV3V3UzdWFtSTdmMVpnSzdfQ25Zb25oOXZKejRaNHdGSkh6a3ZfazQ?oc=5"
+            "title": "Aston Villa in advanced talks to sign Chelsea’s Alejandro Garnacho - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXQ1OFRrbndUUThWUXJ3d0pmRjN2djZNS3NTYThkYVRjbHhIYk80LWwyZEplUVRDMlNJMW0zTlJ6OElfMWNhSEVBMFNFNm04bWdiUFd4N1MwSXhYVkk0R1J5ZXN1VmxMMTctcFFmNmZ4bDdqTjlXX3VOWGVJZkVFTHFJWmtwa3NZWW51Yzl5TVFPNERlRFZ3?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -56,9 +56,9 @@
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHZEdUJNdzY4NjZxN0RJVG9Kb3FBc3BYRW1qYXVOc0tMX2ZHbW13VUM5S3JPU3dmSkh5bHEtU2RnTTFvR0dRc2gtUFgtQXljYkFxRHRJaFVwdVNUbXhNQXplMTFGYWoxOWppY2JvbG94ajRSZ3QzZ3VzRkdQY3JKamhmY3EwbG9keVVaZy01Q2N5VU03N3JNdkZDQnpLNGctN0M4M0pjWkxGaEtrYkV4b0dBdGwwZ0tTSGRvLXhWUE0wM29IM3BBSHJR?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in August and September - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzRwSHhFN211MzZGbjdZYUJKSEVaX2JyNXI1Mlk5bDFCY0NVWGpERkJoSGxmd1NITHhmOU56VjFQMVJqeUs3elp0QjhqbWdGWEZhVUNqZGlpb3FNOEt2dzk2M1ZnWTBZc3pIeEQ3S1pLZ0RicUpSc3dXMzdhZXRhSTJnSHFGYmlJcVd4aG5nUzZIbWNzLVJqcDc4UWtNcFpQSUZEUUljeHRJUWtxM2tpZHRYY1JZbWM?oc=5"
         },
         {
             "source": "네이트",
@@ -108,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
+            "date": "2026-07-23",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         },
         {
             "player": "Official | Karim Adeyemi departs Borussia Dortmund for Barcelona",
