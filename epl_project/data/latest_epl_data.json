@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-07-25 21:41:47",
+    "timestamp": "2026-07-25 22:41:33",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "talkSPORT",
+            "title": "Arsenal line up sensational Vinicius Jr move, Real Madrid working on Rodri deal - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
+        },
+        {
             "source": "Sky News",
             "title": "Premier League clubs prepare to vote on landmark £1.5bn deal with EFL - Sky News",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmhwSHVCbUtDQWdITmc0NFI3RmdDMmtPTk1fbXdONXBUMFBrVkJJY2MyM3dmRTd1cEgtXzRDUjZublVYWWhNYVN2TFpIRzByS0h5MnE4aXpxaklRd05scE5DRHJtcnFPQTdvczBoblNGYVRQTzBMNVhrcEcwaVFKemwzSk1ySkJHY0pKUzR0OEdVY05zMHh0YXNVX29JbjY1djNydTlHcnR0eGE5dmV5Sm9IZVU?oc=5"
-        },
-        {
-            "source": "Metro.co.uk",
-            "title": "Troy Deeney predicts where Arsenal, Man Utd, Chelsea and Liverpool will finish this season - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXFQc05aSnM5Z0p2Y3NmUEhycUlac0hxWkc4YWRmNTFuWk5qemtqdXZSNWFxZVRzTXEtSWF1dkFVanFrd1lGY2Y3MkZ6dndacjhOVkxiNGdHdXpDQXE0MDBEdGcxWlQxUG92emNtTHlaRHVTZTdNS2FTNmZRVC1OZGdPRHFHeTh1MDNMTmpLSzBFV3U2M3c5SlhRSXBWY2xlWUdoRE9rX2Z1a2RaNnR6LXZ5ei12UjlQbTRz0gHAAUFVX3lxTE5jNUtHSzRERWhVSllSeWlFYzM2YWNVYmk0T0hXMlRrTHAtR2hzY2F2dlMwbFduSkE2TF9WR1hFaTVBLTZ6bFRSbDU2WVh3SF9FMFF1Y1I0M0dOZWtwaklTNm81UUFkbTdxeEFDd0RsQTJCTHV5eHlWdmpGTjBHS2Q5Q00tSzczaHdCWGo4UTk2c3g4c3hzUldZeVMtaTAwQ1pVOUVBVV9Qc3ZtMnZ2aHd3Sjl1a18yRVdVZDFIbGdwWA?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -57,18 +57,23 @@
         },
         {
             "source": "Sky Sports",
+            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWszOURJWHRoOFY4UFZna1Z0OUhOYTBWaFVoSjFOM2lBV1h3ajVqT2ZxQm1BeWVZTm9fYVkxXy15eTgtQnFXbkZNODBWcjBtT0xIMVUwcVU2cURyZ3RwWmxwdDAzM1MxX1FuRnJpYTBJbHBpeWNYZzRVVzY3RnV1N0t2R0JiQWRPbWstTGdDQTU5bnczLXdPZDd6alhpbTdjWnFjX2NIZWhCcVEyV2dPS3RjY0d2VGRLT0swaE1PUkV2YnRoWERtUHpOM2xoX19wY2U0ZjVEVVowRHB1QjlEallTQjN6bVVrLTFmNW56MG5VdTNL?oc=5"
+        },
+        {
+            "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"내 몸값 내려갔으면\" 일본 국대 공격수 바람 통했다…프리미어리그 입스위치 이적 완료 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4YWZHWDUwN0pwLTBJNzFYcjVxNlBUSFlSTjFqYUROSjIxTS1FYnd4eDh6SXNIakcwSWk0Mm9TRTBUVlFSUUkzYmd0UFp0dmNwajU0Vlh0VlNmOHNZ?oc=5"
         },
         {
             "source": "v.daum.net",
             "title": "태극기는 끝내 없었다...'일장기 99%' 쐐기 박은 프리미어리그 승격팀 헐 시티 구단주, '韓 국가대표 공격수' 오현규 이적설도 종식 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMQ2VqdllFRE1Hbmp6SUE2MzN6b3Rmd2RVc2UyUGMyVG1ONlFTelUteHBYM08xQlpxSjVwMWphMzJ0bVVYamVaaUFDWjNlSXM?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "[오피셜] 프리미어리그 일본인 전성시대?…헐 시티 이어 입스위치도 일본 국가대표 영입! 양현준과 뛰던 마에다, 셀틱 떠나 이적 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VU0FzZkktUXNURk1DRVNnRzc4d0kyMjg2dWhHcDJmWC05cUlPYWNFcURRTV9FMWZHVWxUY0tIVGNrYk5USmQzSTJDUkxpVEZZUDEtVDJEMnRMMzVJ?oc=5"
         },
         {
             "source": "xportsnews.com",
@@ -81,14 +86,14 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQ3lwM01EYUotR204WXhKYU1tbXlUb1dpekNUbHdJQjZWQmU3RmYzZjRsZVRLY2xOeHNEWlc4YmhFVXZBUEZzX29IZUI3OFRJZFRnU1FXMzdGMkNsSU5rcEZOSWY4M3h3WFRNYmpiRFBMaWIzdWc?oc=5"
         },
         {
-            "source": "중앙일보",
-            "title": "시장에 나온 리버풀 평가 가치 8조8000억원... 제프 베조스도 눈독 - 중앙일보",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wTmQtVFFsSXVNV3I1VEswNElGamlQWlkxNTJOblhQTU1nUzQ4dnBqUXEydGtCYkg1alBKQVJDMkpCMUQ0ZjlwSGxNeFBXdlhBcXpkdERn?oc=5"
-        },
-        {
             "source": "조선일보",
             "title": "'충격, 일본인 프리미어리거 한 명 더 탄생 총 8명' '양현준 동료' 마에다 다이젠, 셀틱→EPL 입스위치 이적..'3년 계약, 이적료 약 1000만파운드' - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEczZGlOdlhWQ0hzRThYTUQ3ak5DeDJQSGU3Y25TRlNYaXNGYW5vM3FIZEk5TG91cGp3aXRmNjh3UzBtOVItTFhMeG9iempYczJpZW0tV2lCM3Mtdi03allkZ1l1VUxSck1vN01vMHpjLV9nS2xWWHlnRDJhVEdlcDM0YllYQXJfeGNN?oc=5"
+        },
+        {
+            "source": "중앙일보",
+            "title": "시장에 나온 리버풀 평가 가치 8조8000억원... 제프 베조스도 눈독 - 중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wTmQtVFFsSXVNV3I1VEswNElGamlQWlkxNTJOblhQTU1nUzQ4dnBqUXEydGtCYkg1alBKQVJDMkpCMUQ0ZjlwSGxNeFBXdlhBcXpkdERn?oc=5"
         },
         {
             "source": "네이트",
@@ -97,8 +102,8 @@
         },
         {
             "source": "네이트",
-            "title": "'한국 0명 vs 일본 10명' EPL 충격 사건 현실 된다…\"99%\" 구단주가 이적 상황 직접 밝혔다, 모리타 헐시티 이적 임박 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NY1R6MVlBNHdrLXZ5NzExcVNsVGRJQk9VR0ZNdzNLYUR5TVE1UERGT0R3eVRRZXVicXZCTURzdl9fWXl4MDcxcDVCc1RiX1RzbjMtYU9DLXdFWW04?oc=5"
+            "title": "일본 미쳤다, 벌써 EPL 8명…'월드컵 스웨덴전 골' 日 FW, 승격팀 입스위치 이적 [오피셜] - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kbjUwR205MzduMlJ5UU1fSlJzRU95aGMtcEtwNjFINXlkVGhnX3dETGhVVjJ4TlBlVlRYZE9UWVVILXdYNDN0MDk1U09kWXBDdDYwZUR6YWxuNzZy?oc=5"
         }
     ],
     "transfers": [
