@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28 15:09:26",
+    "timestamp": "2026-07-28 17:15:43",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRlRkQ0k3V2phekxLdHhzeDhjSDVoX1lXUFJGOXNqVG5iMHJrX1h0bzY5OElLTE9zbjJRdnloeUpobUROUC1Ycl9pTS1tLU8xN3BTMWhfWng0LUlmSVlOMFZ5eHZ0OVE?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Xabi Alonso's first Chelsea match was a tale of four strikers - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZ3M5NGRNYVNucWFhekwtZ1hNbUtnelZIM3lJX2hCUTRVcU1LSE1FSV9fbWx2MDlVcG45Y1FPS1hSc3IxRnBJbjd5N2lJZng4ZzZvSEFNU25TQkdTc3Q0SDRqanBNSFNOZEE?oc=5"
+            "source": "The Scottish Sun",
+            "title": "Rangers ‘hold talks over deal for English Premier League winger’ - The Scottish Sun",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUZvNWlQSW9sLVFHYnd2b2J2QTg1TjhpVzg2LUFWUjJWdzg0NTBaTGtpM20zOGVMQ2puZnpEblBySFlYM0FGLWRlUEZCYWdqeHBJc3lDZW9HeWNmb2hJUkV5Ni1OblhyTmhjNDJ4ZjZWOEVWSWlwWW1tRWkxVmFLY194SVpzWG5tN0lUYUJmdmJ1UXVLSXZjZzJTRDBMVFVJZHExcw?oc=5"
         },
         {
             "source": "Read Man Utd",
@@ -66,9 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcm5Bb1pSb0tmSTVxQ09EM1Rud1lMZGhTMU92UThUakhGeHlVX05CcUR0Rzd6MzU0TlpNeUE5ZGN2OTFIcHlOQmRxOUc4RXd1V2Nzb3ZFTjdOQldRT2JHS2tvNlR2SjExanpMSFBVdktiWnZQQnVYYllEa0lPVWd2Y2E2T1ZJN0ZlOG9seDdZOW1KS19uOWtKSjlJV1hpdzh0em9lNXRrdjRxQ1E4clowRWs5Vk1lTE9yN1YxcTFBaE1MNDE4WF9xQk9vRnpENEtVNWZidkd1SWJIN3hzc1pHOXExQXlJX0phNjJRMl9WcXdwdw?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "韓 축구 초대형 호재! 코리안 프리미어리거 탄생하나? 현지 매체는 \"프리미어리그에서 원하는 팀 많아\" 전망 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUjNxbUpIMjJrOEZyWWZFN1RzekZmM0tOZkF6R0RSZTBmUS1wU2dlb1FOakowWWx2RmlOTTVOUjBaZmNWaWV5bjJHUXFFTkdYbmVNeno3dG5nMVFO?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "김민재 이을 한국 대형 수비수 등장할까...'홍명보호 수비 핵심' 이한범, 다수의 프리미어리그 클럽 관심 받는다 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05YnhDbm5DRDItbFJyRHJYaGNmMnh2UHdNSFJ2Y2hiSnhfVE90RTVReDVsdlNSdDBvS1BSU1hwOWhwTndvdHpMY3pmbmtEYkk?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "'또 러브콜 폭발!' 새로운 빅리거 탄생 조짐, 국가대표 수비수 이한범, \"PL서 원하는 구단 많아\"...\"거액 이적료 남기고 떠날 수도\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWjNIYl9Vd1dNdGp4WUFncnFoUC1HWjNHbEFCUGZFdkN0WkJWdTVkbGxNMkpkaW1Sdzd1a0JhWHozNDROMjgtWXVGYkUxUlhIaS1wbUtuSmtIUG1CU1ZYSUpIQzk5djUwcEYyOGhNMDNJVUZEUGc?oc=5"
         },
         {
             "source": "네이트",
@@ -91,19 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lbFN2czZDRFFlWDZNVXVVYlNtdHFDMUZ2aFRRcnVfNW1qcnFPRUxkY01LZENJblR5dndJaUtiSS1XaWtwU2h1dmNqdmdGcmZNSmphcjA2NE9OUnNzZU9ZbFh4QVJZemhkSnY2WUQtQdIBc0FVX3lxTE9ERkpCN3pNbXdHR0I4b0I2X2dVdVZsNnpYMUVuUk1RbmZ2Z045YUtWeVhoYVpmcXV2M0JiTXYyTTdwSmZBQ1FzaG5yMTVoQlpiZXZMU1FBTnpCemZzQ3RfbzJwUFlWcEpRMmlkenhxMFZ0TTA?oc=5"
         },
         {
-            "source": "mhnse.com",
-            "title": "“또 한 명의 韓 프리미어리거 무산?”…이한범 PL 이적길에 ‘대형 악재’ - mhnse.com",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhbjcxa0pFa0owZW52eXc5d2t5UklXWHBlRmxzWW9aUko0alNOMnl3bWQydURKTGI2b1R2ZHo4d18xY1J6OVVwczZYSkxsY0U1T1VaWFFjYWd5YU9wb0pmMjB4c9IBa0FVX3lxTFAzUUpDMWJKNUVaOGtHT2Z5ZG5Mbjk3NUdrQW5oOVBpUEVOTUlZSTlDeXR6bjYzRFI1V1ZyLVVpT3E0NU1qbE1HSG1rc3hkMzRIb2xrZHplUlpacnVXX05tQXhPTnd0c0lYdnhz?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "'토트넘, 정말 기대된다' 판 더 펜→매디슨 연속으로 데 제르비 감독에게 찬사와 존경심 드러냈다..\"매우 공격적, 그는 정말 함께 일하고 싶은 사령탑\" - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EZDlFWW9oeUlMZnktdVhaQ3ZsVV95Tjk3LUVXRTBSbHIyY013SFR2dDgtY1lVLWxPa0VwV1FCand1b2gxRWtybzNnd1VreGRuS3JFTWRIT21EXzh4NXVEaExHcmtrTXhOOWNXbFZmSHg1ZnZveGRjcXBFeHVRZw?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "“내 몸값 내려갔으면” 일본 국대 공격수 바람 통했다…프리미어리그 입스위치 이적 완료 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fYjVoa2RaUWhKenBXOVg3TTY2c2swRng2a3B0MFdzWHd6QXhkNXJPbjROaHgtbnlIOEN2eVBfUnJTTklIam5WdzNJcWpHa0JZWS1PYW5sZzU1YjZ6d01LMmxOOG1iN3h5dDJwY3BRU0Z2UWxs?oc=5"
+            "source": "조선일보",
+            "title": "젊은 재능→나이 많은 베테랑...첼시, 알론소 체제서 영입 방향 '대폭 수정' 이유는? - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlFRa1dxNkU0cDh6SXNoeUVUUjdEemd1Z3BSMHd3dW5keEJYSl9YLUI0SFVmSGxPMFpFV1lJMDRSTk5hVGo1cnhQQ2VZLXZUUUloY0kyZVNRcExiVWlFN1VIWk80Mjg0SU1INnFwd2hGTzBqeHVwR19YNEFHcGhoWU5SVHJmS1puZGpv?oc=5"
         }
     ],
     "transfers": [
@@ -113,13 +113,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
-            "date": "2026-07-28",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         },
         {
             "player": "Morgan Rogers signs for Chelsea! | News | Official Site",
