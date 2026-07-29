@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-07-28 23:48:03",
+    "timestamp": "2026-07-29 01:21:00",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "talkSPORT",
+            "title": "Transfer news LIVE: Liverpool line up Barcola bid, Arsenal advance in Guimaraes talks, Welbeck to Chelsea - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Wrexham face Liverpool with Premier League still in their sights despite setback - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjRDc0tYaXFxTFo4M1FHb3p1cHkzWDZQYURfZUJIeGV5alFnTzJjNVNMRHV2N0xqeGhFdFoydlRvV2s1bVNGRzYzQ01mRTEyamsycUlKemhmeWZIU1B2OUxqNWxmWGtIekJXZlJfWDkxb3dkSUY5cXVKYmhBN1hBXzVfaFBlZVVSWDhOMDNKYTg3LV80Yklab1ZoSkk5X25sR2pIQXdGWm5LTk5DdGRsTTRJb2J4OTRJV2JLZVRVZXJLWVViSE5CZg?oc=5"
-        },
-        {
-            "source": "talkSPORT",
-            "title": "Arsenal advance in Guimaraes talks, Chelsea eye Henderson and Welbeck - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
         },
         {
             "source": "BBC",
@@ -37,13 +37,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Inter in talks to sign John Stones as free agent following Manchester City exit - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHdGazZ3emJoSTlxV1dZZ2RpWXZreHFDR2JSVV92SGVCX0hxUjhzZXhuNUxlN1hlLXd4VGtBNHdYQmVaVDdQcEdJdkZaV2JVeG43X1NoSlNDMVB3bHpqbUhMLU5zMUc3Yy14Z1VUSnV6YVFFcU5YR3hwX3FJOS1IWHhxS1FpdW5UekgxX1MxMGVPUnpEYnAwZQ?oc=5"
+            "title": "Leeds set to agree £40m deal to sign James Trafford from Manchester City - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTVFVmRHcXBFNWRzSEhtV3NyQ2tkOTJTMHFyUDFqdFZBdVVzemhURUJPb2x2RFQ2N0psUDk2cHl0eEUwdHdHNlMzUUE4dkpXdmlLeGhKR3NoaXJLWk5KQjhxYUduZUtlaGNwNzM3Tmp2dTJSTVdNYnNHTHBkWEpsLTBkYWVwUmx3SGpwTlVnd3hFMUtRRmlwaWV4TGNjSFU?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Leeds set to agree £40m deal to sign James Trafford from Manchester City - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTVFVmRHcXBFNWRzSEhtV3NyQ2tkOTJTMHFyUDFqdFZBdVVzemhURUJPb2x2RFQ2N0psUDk2cHl0eEUwdHdHNlMzUUE4dkpXdmlLeGhKR3NoaXJLWk5KQjhxYUduZUtlaGNwNzM3Tmp2dTJSTVdNYnNHTHBkWEpsLTBkYWVwUmx3SGpwTlVnd3hFMUtRRmlwaWV4TGNjSFU?oc=5"
+            "title": "Inter in talks to sign John Stones as free agent following Manchester City exit - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHdGazZ3emJoSTlxV1dZZ2RpWXZreHFDR2JSVV92SGVCX0hxUjhzZXhuNUxlN1hlLXd4VGtBNHdYQmVaVDdQcEdJdkZaV2JVeG43X1NoSlNDMVB3bHpqbUhMLU5zMUc3Yy14Z1VUSnV6YVFFcU5YR3hwX3FJOS1IWHhxS1FpdW5UekgxX1MxMGVPUnpEYnAwZQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -67,13 +67,8 @@
         },
         {
             "source": "네이트",
-            "title": "임영웅 \"손흥민 보러 프리미어 리그 직관, 불편할까 연락 자제\" (산골총각)[결정적장면] - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aWpZbDI4TzY2R0tJQlk1czJhejZpZTZzcThnZWxvWEZkX3JJS3BVLTFuZVZrZnZjQktvUlB3RXMwV05XdWJwR095SWNQZUU2cXhF?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "'한국은 0명 위기인데' 日, 새 시즌 EPL 9호 임박했나…1년 만에 축구종가 복귀설→\"이적 가능성 갖고 훈련 중\" 국대 동료 덕 보나 - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2b2ZLaF9MMDJ0eGxvd2tndlFCbFRxbFEwcWdZLWtsUUVRVHVGZ1ZLUnBnQU05WVpKMHJEcDR1YWhLX2dNSm5WZ19FZjlDaVo0NUlMQQ?oc=5"
+            "title": "'역시 손흥민이다!'…지난 10시즌 동안 EPL '최다 기회 창출' 베스트 일레븐 선정, 4명이나 배출한 리버풀 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PNjJPeUpVNVVfYnVzNjR4T1FzXzdvVUFNTHVIMnZCM1hraVUyS2Nyc05fNUF5eEwzbzhUU2U5TWNXRVNOTTdHOEhhOEhiWURHbXEwdjRENkY5cHRi?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -82,28 +77,33 @@
         },
         {
             "source": "네이트",
-            "title": "韓 축구 초대형 호재! 코리안 프리미어리거 탄생하나? 현지 매체는 \"프리미어리그에서 원하는 팀 많아\" 전망 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUjNxbUpIMjJrOEZyWWZFN1RzekZmM0tOZkF6R0RSZTBmUS1wU2dlb1FOakowWWx2RmlOTTVOUjBaZmNWaWV5bjJHUXFFTkdYbmVNeno3dG5nMVFO?oc=5"
+            "title": "임영웅 \"손흥민 보러 프리미어 리그 직관, 불편할까 연락 자제\" (산골총각)[결정적장면] - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aWpZbDI4TzY2R0tJQlk1czJhejZpZTZzcThnZWxvWEZkX3JJS3BVLTFuZVZrZnZjQktvUlB3RXMwV05XdWJwR095SWNQZUU2cXhF?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "김민재 이을 한국 대형 수비수 등장할까...'홍명보호 수비 핵심' 이한범, 다수의 프리미어리그 클럽 관심 받는다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zeHVyRllmN21STTcySm1WeXFLQ1lLc2lJaHdlX0J4MmRzTzJBN1dtMXhLYXBJZENiaGw5SVZpZEU4d0liUWc?oc=5"
+            "title": "EPL 아니라 챔스?… '韓 수비 미래' 이한범 영입 추진하는 '벨기에 리그 명문' 클럽 브뤼헤, \"선수 본인도 이적에 열려있어\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Bc3hhTE1pdEpqYVBOOU9sZ05aUGJvdGdaeDczeE1aUlpsdEo5RWdfTlNqbnRGWVVaQXNLZnFpUDBPQTdRQVVVUXpON1pCRlU?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "'또 러브콜 폭발!' 새로운 빅리거 탄생 조짐, 국가대표 수비수 이한범, \"PL서 원하는 구단 많아\"...\"거액 이적료 남기고 떠날 수도\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWjNIYl9Vd1dNdGp4WUFncnFoUC1HWjNHbEFCUGZFdkN0WkJWdTVkbGxNMkpkaW1Sdzd1a0JhWHozNDROMjgtWXVGYkUxUlhIaS1wbUtuSmtIUG1CU1ZYSUpIQzk5djUwcEYyOGhNMDNJVUZEUGc?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "잉글랜드 프리미어리그 첼시, 베테랑 미드필더 헨더슨 노린다 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STW9CQVVISjJRei1KWGg4MGpnOTNFR2dVVEJUUlJrZ0hLX0lBUUhLUHhsUmZ2Q0lfaG5TSHR4Nk1HdW1QejBxTVRXQVY0eTg?oc=5"
+            "source": "마이데일리",
+            "title": "'아스널 우승→맨유·토트넘 챔스 진출 실패'…슈퍼컴퓨터 예측 떴다! \"아스널 1930년대 이후 첫 리그 2연패할 것\" - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMVE4a1dNYnJ1ZkUxWGNCSGg4RFMtLW0wR0JXaVM0S3VZLVNGVzlNZ2p6d2ZRdk90ZGNSc3R5ZEgyR29NNk9LVHpuY3RTNUhKb3dmekhIQm1FNVZPR1pFRzNsTHNDdw?oc=5"
         },
         {
             "source": "뉴시스",
             "title": "홀란·로드리 없지만…맨시티, 정예 멤버로 팀 K리그·AT마드리드와 격돌 - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JY0VkQ1Y0Ny1LdVA2blFrZXM4NGYwbEloZjY1VndHNUJaWEQzNkNybUJmV0NBVC16X05qTEg5d3NoYjZ1dk5EdlhiVUlVdVQxY3F2aDB2LUhnZ2lTSVNKM9IBeEFVX3lxTFB1OVdTdWpLaE9taC1tbTVtZjdUNEV5cEdBMXV1R3ZkbTFsS25qUS1iWjlVNUZ3d3BOc1JJekRCRHQxQXZ6R09YcUZ5VVhwVDZvZFZza2VjaS0yOGRvTDV0VzN6T1AzWjBJWkpCNkZBMlN6aFRibnYwMw?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "'한국은 0명 위기인데' 日, 새 시즌 EPL 9호 임박했나…1년 만에 축구종가 복귀설→\"이적 가능성 갖고 훈련 중\" 국대 동료 덕 보나 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2b2ZLaF9MMDJ0eGxvd2tndlFCbFRxbFEwcWdZLWtsUUVRVHVGZ1ZLUnBnQU05WVpKMHJEcDR1YWhLX2dNSm5WZ19FZjlDaVo0NUlMQQ?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "초대박! '韓 국가대표 공격수' 오현규, 월드컵 스타덤→EPL 입성하나...튀르키예 매체, \"프리미어리그 구단 주시, 관계자 현장 파견해 관찰\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVWdvYzlhNll4QmdJYXI0Y1p2R0FwdkM4WjlTQVFxS1ZfSlBMOEFUd0JQQTkzUWxJcW9uRW9PVE9rY0xKN2plY292ZDdiMFk0dElfRzBxU1dlVy1WdDUxemh5UThNTjlGLTRqYndWUTVfRWZaY1E?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-07-28",
+            "date": "2026-07-29",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
