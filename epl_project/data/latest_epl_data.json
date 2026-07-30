@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-07-30 07:25:14",
+    "timestamp": "2026-07-30 10:08:47",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "bbc.co.uk",
+            "title": "Four pointers to most open Premier League title race in years - bbc.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1UHFTdW5JbTZ1V2hOaWdwZm8xaTZjdERfeWJ1dndwXzVMTi1YT3k1Wlk5RDBHRmxFckp4Z3BRQlF3Zi1EUFdMMjlIWFQ5RnJtRjd4d0czNThiZ01jWkJpWkU2LTJDSnVhN1E?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Manchester City leading opposition to Premier League’s £1.5bn EFL proposal - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2RrdmlJb19CYUZjb3JlcnlPXzVWNXpTZ0ZvYnhjd3hzOVdna0dURjUyaFFRUTFaa29Cbm9jTDJnUEkxQzBpQlk2c29CRm93emY5dzRKMTJTQWRZTzJPUnl4X3ZXOHA3cFRmSUxzTjEwZmVjMDBvVTQ2UElKT25wOU9qdzRXY1FxWWRnNGxxb3ZWQkhjSDdBczVfY1otRFFuUXp0VzJScVpxV3FaWnJDc3FWOEpFMVV3ZnNHQw?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "The one signing every Premier League club still needs before 2026/27 - Football365",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOENYdklKMmQ4WEdETHdyYWhCVml3N0ZNTnRGUndjaVlPNEQ3ajZmM3FEWW4wYS1PWUp0WXdFRmxvQlpwSGtwNU9kWS1WQUFNSTJLWjJ1VmszcjlzZXRia3FHQXVrclRXd05aZl9wYkZ2SlVqVnk4MGVtTExRV3QzbW1WVVZXcWtHWmdudUw5cWxaZ0RacDV5OE9EQndhSWkwYmRZcGh6bGRNVTF3Z244aw?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Four pointers to most open Premier League title race in years - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1UHFTdW5JbTZ1V2hOaWdwZm8xaTZjdERfeWJ1dndwXzVMTi1YT3k1Wlk5RDBHRmxFckp4Z3BRQlF3Zi1EUFdMMjlIWFQ5RnJtRjd4d0czNThiZ01jWkJpWkU2LTJDSnVhN1E?oc=5"
+            "source": "bbc.co.uk",
+            "title": "Manager Howe to leave Newcastle with immediate effect - bbc.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FczRTZmU5OW5QZTR2VTlDV2Q3US13b0R2bnZMdDhUZ284LU5ZU0liemJKQWFhcF9VU2xpcFRaVGJPbE9hSnYzNjVHZ0dyQWczZWU5TnZGdGE4djVwQVJGNWZJbFk4dVVYOGc?oc=5"
         },
         {
             "source": "Read Man Utd",
@@ -26,8 +26,8 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHo5aG1UMnZ4RzQxejJ2TVozS255S2p2UTg2cEc1T1ROOXZ2MzZ3ZEdqUG5BaU1OZUxvYVhrZDlQWkN4YUp2MUgtZTNpRGZ3VnBBUXlBbkdEN1EwOFhwSW9pOXVMeGd2WUgtaFFrZjlEcXFocDgxdTdCTDdDdGttTFRKTFVjWWJXZGZtcTVoTHRUaWFKUHBxdEJYUkU?oc=5"
         },
         {
-            "source": "Yahoo Sports",
-            "title": "Fabrizio Romano tells Liverpool fans to watch another transfer story amid Barcola development - Yahoo Sports",
+            "source": "sports.yahoo.com",
+            "title": "Fabrizio Romano tells Liverpool fans to watch another transfer story amid Barcola development - sports.yahoo.com",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3ZQVHNpVERLN0twcUNoRFFLS291eXV0S2VwNFd5RW1ZZ2VvZzRzNlcxUTRPOXVVTXZOVVJRWE9oUlVTb0MwVVA0SVNaTlhrd2NVTk9SaHhnNDBzY1YwT203cnlkbW9HNjJCOW9tVUVnMkR5Rl9BM0tjNF9jUkRBYXBJMEFnbzVxZEgtRmJB?oc=5"
         },
         {
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTVFVmRHcXBFNWRzSEhtV3NyQ2tkOTJTMHFyUDFqdFZBdVVzemhURUJPb2x2RFQ2N0psUDk2cHl0eEUwdHdHNlMzUUE4dkpXdmlLeGhKR3NoaXJLWk5KQjhxYUduZUtlaGNwNzM3Tmp2dTJSTVdNYnNHTHBkWEpsLTBkYWVwUmx3SGpwTlVnd3hFMUtRRmlwaWV4TGNjSFU?oc=5"
         },
         {
-            "source": "arseblog.news",
-            "title": "Report: Arsenal working on move for Vinicius Junior - arseblog.news",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
-        },
-        {
             "source": "The New York Times",
             "title": "Inter in talks to sign John Stones as free agent following Manchester City exit - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHdGazZ3emJoSTlxV1dZZ2RpWXZreHFDR2JSVV92SGVCX0hxUjhzZXhuNUxlN1hlLXd4VGtBNHdYQmVaVDdQcEdJdkZaV2JVeG43X1NoSlNDMVB3bHpqbUhMLU5zMUc3Yy14Z1VUSnV6YVFFcU5YR3hwX3FJOS1IWHhxS1FpdW5UekgxX1MxMGVPUnpEYnAwZQ?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Chelsea exploring Danny Welbeck move - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkJGUWFMT0xQdWZwRHp4Qm4zbjM1c0pWa2F6OWhIbEdFRzRTa05OV2ZJUXFJTFQ1QlJFZlpqcXNmME9pVm1PMmM4cXZJc01pOC1LYk5TUVJBVVUzYm1nLThIYk5YMGZndy1IeURVeHNWak1lNy1sRGN0QTdfa2RBZjY4dDk0anYycEN1cURhMTFFcktiblpj?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -67,23 +67,33 @@
         },
         {
             "source": "네이트",
-            "title": "손흥민은 프리미어리그 전설이다, 토트넘 떠났어도 기록이 기억…지난 10년간 기회창출 부문 좌측 윙어 1위! - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSSHNXWTQ3VXZWUmFKel9NY0NGeHFLdUVUYjhxYXVnWU9KNGZ2Z0VnWk1DME1fOEE5MFFZaV9WaE12ck5VMi1fUnVSUENBZDBDX0ZtTmN4SlExdUxM?oc=5"
+            "title": "쏘니! 쏘니! 명실상부 프리미어리그 레전드…손흥민 또 한번 클래스 입증 \"최근 10년 왼쪽 윙어 기회 창출 1위\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fbmk3RkdVT1ZvcjNuMzRON3lLeW9qOVlFU1RMMTVlakVyWTRNTmR4Q2E4YURYTE5ZTWxfUEhyN0w3UW5XZ0d0RXJwSDJrdHE1SUFIVTZZa0dhbXh1?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'충격, EPL 개막 한달도 안 남았는데' HERE WE GO 독점! 뉴캐슬 사령탑 교체, 에디 하우 전격 사임→차기 감독 1순위 독일 출신 젊은 지도자 야이슬레 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1A2QThtX2VkMk9pLWkxWkVsWXRiUzVKOEhYXzFVNWpfbUZnTV9keFA0SnRJUHdvdDlNekNwcEtMRzVlOGdTUjlIRkx1dEJfRk04TmxmQ1lLeFoxbWE2aHNyaEs4MEtuWktWMFFCc3Y4WG41cmZ6Tm14NGhEUDlqU042emhHdHBWN1hv?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'프리미어리그 한국 0명, 일본 9명' 역대급 격차 현실 될까...日 축구, 도미야스도 팰리스 프리시즌 합류 \"영입 관심 있다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pMHhfY3FRdThXUVhUeEtDUmtzem1Cc0NBSFFpYnJGTnlTT3oxZ2JubS1yU21uQjJqVDNQTlh4VlRNN0VNZmJ6ZjRGUXZSdkE?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "'격차 계속 벌어진다' 부럽다 일본! 한국은 여전히 0명...프리미어리거 9명 시대 임박→토미야스, 펠리스와 협상 중 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TaThkZ3pNU1RwMTdfTTZlcWtCYmhIcVdZanQzRTlKM09zb2N6aHJZdGZDb01RSmd0QUxkTnJqei1RU1ZGREM4azA1WVY3V3dzS0NIcVFBSUVvY1l4S0hCZDhCY3pNaTMwbFZ3UlJjc9IBc0FVX3lxTFA2OUFUTVZNdTBoV1J3NU01MEdYQmtseVZYV1pLTDM4MFlEY0J5MGNpS0lWUnFmeTdoRlhzb21TY0FiLUZTWmdjcjlEYURRNmNzSEN2aVE0cklXWTJqVDhVSjhjUDNpdjZYcDFoU29fYldxODg?oc=5"
+            "title": "\"프리미어리그에서 뛰고 싶다\" 맨체스터 유나이티드 '초대형 야망' 현실 된다! '꿈의 타깃' 오시멘 영입 정조준→갈라타사라이는 1653억 요구 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBackQzbjNqQ3JTNE9kTU8weEliSFJ5a1dIbE8zTXpmczBYcl8zWEZTakdPanZ1RGpMeF83MmZpbXlwZkFiWEdFTE12cU5OQjQ?oc=5"
         },
         {
             "source": "매일경제",
             "title": "韓 프리미어리그 전멸인데, 日은 9명?…‘한때 아스널 핵심’ 도미야스, 크리스털 팰리스 프리시즌 합류 “영입 의향 커” - 매일경제",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdlRsZlBvZ3F2dWRWY3FTSk5kZjZ5Um5mSS1kaVdrRmhmSDgxeE94RnJ4NTFFd2VTR2p6T213ZlBabWhkM2ZRWTNTWEpvYkV3U3BN?oc=5"
+        },
+        {
+            "source": "spotvnews.co.kr",
+            "title": "'격차 계속 벌어진다' 부럽다 일본! 한국은 여전히 0명...프리미어리거 9명 시대 임박→토미야스, 펠리스와 협상 중 - spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TaThkZ3pNU1RwMTdfTTZlcWtCYmhIcVdZanQzRTlKM09zb2N6aHJZdGZDb01RSmd0QUxkTnJqei1RU1ZGREM4azA1WVY3V3dzS0NIcVFBSUVvY1l4S0hCZDhCY3pNaTMwbFZ3UlJjc9IBc0FVX3lxTFA2OUFUTVZNdTBoV1J3NU01MEdYQmtseVZYV1pLTDM4MFlEY0J5MGNpS0lWUnFmeTdoRlhzb21TY0FiLUZTWmdjcjlEYURRNmNzSEN2aVE0cklXWTJqVDhVSjhjUDNpdjZYcDFoU29fYldxODg?oc=5"
+        },
+        {
+            "source": "미주중앙일보",
+            "title": "'프리미어리그 한국 0명, 일본 9명' 역대급 격차 현실 될까...日 축구, 도미야스도 팰리스 프리시즌 합류 \"영입 관심 있다\" - 미주중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UlowTThiaVBoMU9KazdLak03WUtCUldBUkxyNEVlWkdqc0d5N2Y0ZTVrdWxlTHJsVUZ4WXlIQS1aeTB5OVFreXpvOVdrUEJlWjNDXzFrckoyR0lZbFE5MWFn?oc=5"
         },
         {
             "source": "뉴시스",
@@ -92,18 +102,8 @@
         },
         {
             "source": "인터풋볼",
-            "title": "“이적료 700만 유로, 합의 완료” 이한범, 이적 임박→프리미어리그 아닌 벨기에 명문 클뤼프 브뤼허행 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MYldrZGtXcDhzX1ZNdjc5cnVXeUJIaG1jcXk0UmtBX1VaanIxYjl1ZWp6THFCd3V1VlNUTk5BeV84X1F5MkxjeFM4QnNRU0NtMzBTTHNDTUlMWkd1VEJHWTJKLWRzODJlTEtONkFUMldCNGlo?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "[오피셜]'손흥민보다 2살 위' 조던 헨더슨, 브렌트포드와 전격 계약해지…첼시 입단 거피셜 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xNkxXTU5QNjh1bG45My1qYVFoa2szNEswdG1XYUtnOWZYbG1RaXg0a2R1TVFKUXpIYjRwc210UTNETGVTbm5MOExIdy12M1ctQjMxaW5Md1ZuQWRQODd2by0zc3JOZmc5LTBBQTRtdWVjMlVQQmRTaUdKcE5TZw?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "초대박! 韓 국가대표 오현규, \"PL 구단이 지켜봤다\"...빅리그 진출설 재점화 \"일부 관계자 현장 찾아 상태 살펴\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EdEg2RmNlbFo3eHBkcDdGc0EwR3pXS2pmNEo5QjFidlNrZnA0aW5EUlJMbHltS1NNeldDb09uSGdCeUZDVUtqU0pkaWFmS0owZUtIZ3NGUnpObXFwcWZ6amtWdm1ldEN3cVlXUFdETFFmMV85dnc?oc=5"
+            "title": "손흥민은 프리미어리그 전설이다, 토트넘 떠났어도 기록이 기억...지난 10년간 기회창출 부문 좌측 윙어 1위! - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NblV5MXdKakl2NG9xbVRmN05JNzgtbVI4NVVhRkRTR1I0ZXJQSncxUXh6cEdXRmI5RUtpYkpNdXNMdnlkMjFpY1pmaXB1c0lWTE9QNUhKbWxCalBYUkJ3a0JBby1tUEpnTlUyaEw4bC1WdU83?oc=5"
         }
     ],
     "transfers": [
