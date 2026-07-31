@@ -1,111 +1,10 @@
 {
-    "timestamp": "2026-07-31 15:51:50",
+    "timestamp": "2026-07-31 17:15:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [
-        {
-            "source": "BBC",
-            "title": "Chelsea fined £10m for breaching agent rules - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Q3p6anlSV095bV9OdEtMcGtvRG5GdWxfZE9ZeW9BdEkzRnFGWTN6MGpySm1vQ0xBNW9vTGtLMkZxa24zNXBGanM0OFBwd2haWXdUd0NGaEVLVjJReDRFQVRXQWtfV2I4eXc?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Chelsea handed £10m fine and suspended transfer ban after admitting FA rule breaches dating back to Roman Abramovich era - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLW9HR1Y4bnhoOXc5bHMwQ0M2N0tUZlhPeUthSnB3NHh4cGRDRUFhRzl5eDhaNGRyek1OLTlKSmJhQnZ6WTcyZU9FQ05kdDJ4ekFCRVIwZ3ZuaXlXZ0hkc1NPaXpiRUhrdlZ1M1hRLUxwbWxWeGJaYV9uQW1YWHdUUXNyRE52UEdlaXJpNF85MFRvVUZBMkpFSkoyUnF2R0ZDOS03UjNtSXdiWkpQMWgxREJuTkZaWGZ2bDJGZ1A1Wmh2czdTUkxaaHY3TF9Fd1U2MEtsSldrX0tlT2FVZHdUd0VDbThKRHc1ZkJfM0ZDek9uMF81TXNGVU1JdkFyTlNVYWs4OW4waw?oc=5"
-        },
-        {
-            "source": "TNT Sports",
-            "title": "Chelsea fined £10m and given suspended transfer ban over FA rule breaches - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazdkMGdLVlBPZWlYVXFESWxfTFYtRXAtRmR0MFdaa0ptYldxVUVOTWxYMHNpSnNGUms4OURtN0V3dlZRUFRLNVVXWGRLZW9zcVJKNFNnTFVGcFQteTdnRUxWaDRxYm1ySVVSaUYyZkVKLXZvaFJTNmMxWUxLMnRsYUlOMHBGT2o1MWdvQlN0MmtqYmptR3loMGtpQ3dZMEV6ekdhNk4wOGRnWEQ5ZDkyZmx4bTNsTFd4NFB4SmtVQjFDWGVrSnotZXVIOWd3UFVXOU1RTG02Q3BKdlBEcFE?oc=5"
-        },
-        {
-            "source": "Read Man Utd",
-            "title": "‘Official proposal’ – Fabrizio Romano drops Man Utd target update - Read Man Utd",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHo5aG1UMnZ4RzQxejJ2TVozS255S2p2UTg2cEc1T1ROOXZ2MzZ3ZEdqUG5BaU1OZUxvYVhrZDlQWkN4YUp2MUgtZTNpRGZ3VnBBUXlBbkdEN1EwOFhwSW9pOXVMeGd2WUgtaFFrZjlEcXFocDgxdTdCTDdDdGttTFRKTFVjWWJXZGZtcTVoTHRUaWFKUHBxdEJYUkU?oc=5"
-        },
-        {
-            "source": "Football Italia",
-            "title": "Roma rival Nottingham Forest with official offer for Read - Football Italia",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uVzBhVlF3T0NYR1ZyOHp1OERrTnhaVThXeXBRX2YwTUwzUVJoRVRZMk9NQXA2MkdBM0N4Y3llOHJzOVdMLUtVN25lWk9iREE2OHhDcGQtbDAtYUc0RWpzUUxCYU56elZFdmI2OV9aNWktZDlVa0NQb1hpLVTSAYIBQVVfeXFMTVVDUU9JZXR0TlVqbEVySUV4bGJZYjhQNG11ZVR0SUNsQU12MExzaUo1bjZJRjY3M2hYT2lZTkVIY0Z0S1Z4Z1FuMmpYbWo1dzNVZE1PaEJCajFXWjhCMW9CQW9ONWd4OXJPVDVkQTF0SU4zUG16VUFYN0FaNHZmVEJjUQ?oc=5"
-        },
-        {
-            "source": "Yahoo Sports",
-            "title": "Fabrizio Romano confirms ‘another surprise’ transfer story Liverpool fans won’t like - Yahoo Sports",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWZNVm11aENYMDJETnlqMWpQZVkzRVFZYl9Udmx4cURvc1gzOHJWX0RjbksyUUYxRWFGWGVyaGxKTnFkVjJvcENsbW9fQk42UFE3aDhDMnZZcjk1eWNkU2wzWnVTUTN3RG5WNHFIZmF6d2ZOaDViSEFGaDY2Z2hzSlY3QmQ3U1NIRmtwMVNGNXkwRUEw?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Eddie Howe set to leave Newcastle United, Matthias Jaissle poised to replace him - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkE5WWhJeG5lUEhvNHB0enB3SmhZQmxYcEswOXpldGFSUDBpdENDQXVoaG91d3BadWtlWjM5Z2w1RlpvbGtqUlI0WmJ5V3dveTZ4Qk5OUlUxOXVBZVhxcGpNb2hzcWRab3JMSWh5QmFGSjROdGFMRGhYR1g0LTAwSncxV2hFRTRKUG9JYVpxUk1OeDU2SW1pdmdUcFpGa00tT0wzRkdqNklzUHVsOGg3Q2lyV3VaVjl2UFN1NldZQVVTWXJVZDRoVy1yaGY?oc=5"
-        },
-        {
-            "source": "Arseblog News",
-            "title": "Report: Arsenal working on move for Vinicius Junior - Arseblog News",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Leeds set to agree £40m deal to sign James Trafford from Manchester City - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTVFVmRHcXBFNWRzSEhtV3NyQ2tkOTJTMHFyUDFqdFZBdVVzemhURUJPb2x2RFQ2N0psUDk2cHl0eEUwdHdHNlMzUUE4dkpXdmlLeGhKR3NoaXJLWk5KQjhxYUduZUtlaGNwNzM3Tmp2dTJSTVdNYnNHTHBkWEpsLTBkYWVwUmx3SGpwTlVnd3hFMUtRRmlwaWV4TGNjSFU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
-        },
-        {
-            "source": "Premier League",
-            "title": "Fixture amendments for Premier League matches in August and September - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzRwSHhFN211MzZGbjdZYUJKSEVaX2JyNXI1Mlk5bDFCY0NVWGpERkJoSGxmd1NITHhmOU56VjFQMVJqeUs3elp0QjhqbWdGWEZhVUNqZGlpb3FNOEt2dzk2M1ZnWTBZc3pIeEQ3S1pLZ0RicUpSc3dXMzdhZXRhSTJnSHFGYmlJcVd4aG5nUzZIbWNzLVJqcDc4UWtNcFpQSUZEUUljeHRJUWtxM2tpZHRYY1JZbWM?oc=5"
-        },
-        {
-            "source": "mhnse.com",
-            "title": "“프리미어리그에서 뛰고 싶다” 맨체스터 유나이티드 ‘초대형 야망’ 현실 된다! ‘꿈의 타깃’ 오시멘 영입 정조준→갈라타사라이는 1653억 요구 - mhnse.com",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QMV9XdGU3eF9Wd0RCbjdLVHVlOF9POFVrSmJMMHZIOC1rUnhxUmhaMFVFLUpSMzdLRHVTVWNLYUtNbk10RmRsZC1SbnRrU3JjTGxQMU5Cako4cHg3b1hrQWVPb9IBa0FVX3lxTE0xeUJya3l6MXpFeWZ6YjdTcHpBQUtuWGNvMVliWW1xMm9qQlR1RnpzU1ktdVV3bXVsTF9JTWZGSU9pNzdpanl0cDk1Ri1zWFZLa2hwSUR2S09QZmRJY1ozQzREc28yM3F3dXBF?oc=5"
-        },
-        {
-            "source": "spotvnews.co.kr",
-            "title": "토트넘 절망! '146G 147골' 케인, EPL 복귀설 끝났다…\"득점왕보다 우승\" 獨 1티어 기자, 뮌헨과 재계약 확신→연봉 414억 유지 - spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02VVpLWEtiYkVLWGt3d0Z3N21JVVpMT1R4WTdXY2hTOXozdHNfd0RoY1ByeUpRUXFBYUZZYUVWZG12SmRQaDRwN0pUc3BSbHJ5bGYxMkhvTmswSE95cWgyUUlxbGRFN1BycDlEOWdXWQ?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "시간이 흐를수록 더 빛나는 손흥민…PL 지난 10년 포지션별 최다 도움 베스트11 선정, 살라·케인·더 브라위너와 어깨 나란히 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVeUlIYi1pdTNZZW9hOU03WUhJNFpabWZsWVh0UVV4YVJkS2U5dVU5SEEtVkZPbmdDS25BRU9iN3hTeFQ4UnpaSFBKX195TENwWjhUYXM1c2hDZ1cy?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "'오일 머니 고갈?' 뉴캐슬 감독, 시즌 개막 앞두고 사임…후임자는 사우디 사령탑? 대체 무슨 일이 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkcyc1lQbVctTEtDSlE4cTRZcTh1cm5nenJ3V0wxWHZrY2JXOUxna1d4TjBfYU9Xb1NBZGZES1lWV1h1Y2dmLWlrV0NnUVNkREhoS3ZDWTZJczF3bjU3N29OZ0tNWUswenZDc29OZk9rbllXeDhIeGZkcmJGZ213c1RfelNidXR6YVQw?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "EPL 첼시, 프랑스 국가대표 수비수 라크루아 영입 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yS1VHYTUtN3JmWjQzMkk4SjVrY2tIQTVfdDh2aTg4YmliVTNIVjZtZWp1ZGwtTHh4eGlNNzJFVVktdnpRblI0RkFMcEppU0xXdUF2dm55VEJsVEgxNjRnY9IBeEFVX3lxTE1mMmlOZWVvS3c5MktlQ1ZfcFJ0WFdlMHZuZlQtQTJ3Ni03d1VMOFk2YkRZVTBzX2dlcjZjX3dTakY2ZkVYXzY1eG9lOUF2LTZjVzM0dWVncDlPek90TlFFNklITDRzYnYwOGZJS2kyOUFKaHRWMU1DZQ?oc=5"
-        },
-        {
-            "source": "sports.khan.co.kr",
-            "title": "‘韓 감탄 또 감탄!’ 손흥민 ‘또 1위’ 명불허전 역사적 클래스 재증명···최근 10년 동안 PL에서 ‘LW ... - sports.khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96QXMwRXA1RHFyR3ZlU0FieG55SW9LUXRsdVFPdkpGNmZNUzVaOHRzcUhSQWlNcGc5YlBRdDNVcFZzcjRBRVpzMFQ5Y2ZWSmc5Zlp2S2dUUE9nTnRlVHfSAWNBVV95cUxNRHpocnVTeGdLVk1QdGY3YWJsRnJhYUtVZUNSbmI2aTdQaVRIZzRXZDFEOE1RcVMxQkxiUVBVcDZTY3k4MlhZZW8zQjNNSGlkUnhKamJSRVdzUXhPcW5LV0xFYzA?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'구단 역대 최고액' 토날리 \"토트넘행 결심에 단 10분 걸렸다\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fM3g5NjUyNUM1Y0V1M1I4dXNDNTdKV3lkb05pTHFndUdNT1BfUFZoMTNGbEZDdmlnRDdhZWJYMFIzcjNCY1d5VGc0NXFSWGM0blhxaFNwTDZ6T0Fj?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "쏘니! 쏘니! 명실상부 프리미어리그 레전드…손흥민 또 한번 클래스 입증 \"최근 10년 왼쪽 윙어 기회 창출 1위\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fbmk3RkdVT1ZvcjNuMzRON3lLeW9qOVlFU1RMMTVlakVyWTRNTmR4Q2E4YURYTE5ZTWxfUEhyN0w3UW5XZ0d0RXJwSDJrdHE1SUFIVTZZa0dhbXh1?oc=5"
-        }
-    ],
+    "news": [],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -113,13 +12,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Morgan Rogers signs for Chelsea! | News | Official Site",
-            "date": "2026-07-31",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
