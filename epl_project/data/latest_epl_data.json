@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-02 08:00:10",
+    "timestamp": "2026-08-02 09:57:16",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,8 +7,8 @@
     "news": [
         {
             "source": "The Guardian",
-            "title": "Faster, faster: Iraola in a rush to plug Liverpool gaps before Premier League starts - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1N0a005cGxnSmVKdm1Oa01HYWtOWTBQeFJZT0x5TzYteUFtd3FBSGxvTlN5b0owNGpUY2MzaHFXeVdRWXE2RnpPTnFCVkdKcHl2VTNzYTNwd0pWMENQZzdWZ0c4UVd6eWJRS3RsSHpROGFmRzRDejNac1ZqY1JRQWROTklZZjF5RVZyYlUzVTExWFY5VFNVUQ?oc=5"
+            "title": "The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXVoakkzVW9vU1JfR05Qa2RZbkVlN1lTQnlHQ1k5MGxXN3dzY3BaNDJkZlNUQ1RIbzBNbHhMV015TnRGMU0xTGhXTXVjSUtmbjd6RmV3UXJNZ1pCUkNqM016RUpqRlRvX0gtbk5JMU5EQ3cycEt4Y3ZKYXhtM2NRaFQ4SjlFZzBudTA5eVNaSEx3VDdYbjBQSFU0cTJIOUJwWDhhY3lvUk1mbUFhM1hrY3NWcFh5RFMxbzlN?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -17,18 +17,18 @@
         },
         {
             "source": "BBC",
-            "title": "Transfer news: Full list of all done deals in August 2026 - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZlh1YTVkOE9MOEloc3hITFJPV09WczRUQnhtaDJXTGc5NE40c2wxQV9mRXh5dk5KREZGQU5uZlM3VF8wVTFIcm03ZXlGNXN3N0ptT1BQanFXd2ZBMWd3b0tRUG9Tc28?oc=5"
-        },
-        {
-            "source": "Football365",
-            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - Football365",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
+            "title": "What happened to the 'star' signings your club never made? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVmRUOXBEUnpyWUlDb3BIdHZEblptU3NGUWhHTWZQY2lubGF5V1BWX0pUTmxFR0xBcE9LTTlXSHJIMkNSajFxeDJVVlI3R3U5WjFHdk8yd0hhUXo0SDh0V0x5end4SXc?oc=5"
         },
         {
             "source": "Goal.com",
             "title": "Man Utd prepare £60m bid for top target Lewis Hall as Fabrizio Romano confirms move 'approved' - Goal.com",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT19YUTI2UkhnQkk4b1I2cHBncHBxTTVRQjJLZEJqRnlSTm1HRzBNbHRlM0Z6Q2dsUEFQRXVtWWpYLW1ZWHc0MkxZUjVaRFpkTG5JOTNyRW1sVUwxTmVreFl6dnFNZnFKNlVFakxnek9WSUxTdThzVlhmZGxLMURnNXJyTG1aT3U5MDBzZ2ZXOEczUXl0LU5mbmtDSk9DWHh4Z0txaUxPaUFYSE5wdUloLW9n?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - Football365",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
         },
         {
             "source": "Read Man Utd",
@@ -66,9 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzRwSHhFN211MzZGbjdZYUJKSEVaX2JyNXI1Mlk5bDFCY0NVWGpERkJoSGxmd1NITHhmOU56VjFQMVJqeUs3elp0QjhqbWdGWEZhVUNqZGlpb3FNOEt2dzk2M1ZnWTBZc3pIeEQ3S1pLZ0RicUpSc3dXMzdhZXRhSTJnSHFGYmlJcVd4aG5nUzZIbWNzLVJqcDc4UWtNcFpQSUZEUUljeHRJUWtxM2tpZHRYY1JZbWM?oc=5"
         },
         {
+            "source": "xportsnews.com",
+            "title": "'이민성 감독님 보고 계세요?' AG 명단 최종 탈락 김민수, 'EPL 챔피언' 상대로 AS…\"양발 드리블 뛰어났다\" 호평까지 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KRDlSazJKQXpDU3R2cHlnTUNZMFNCZE5JYUh2MHp3OV8zRjZrSm1DT3RHdnFyWnJvQngyenotbGdoNVdpNGtVOUJIUUpYZ3lOTHp2cA?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "시간이 흐를수록 더 빛나는 손흥민…PL 지난 10년 포지션별 최다 도움 베스트11 선정, 살라·케인·더 브라위너와 어깨 나란히 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVeUlIYi1pdTNZZW9hOU03WUhJNFpabWZsWVh0UVV4YVJkS2U5dVU5SEEtVkZPbmdDS25BRU9iN3hTeFQ4UnpaSFBKX195TENwWjhUYXM1c2hDZ1cy?oc=5"
+            "title": "'韓 국가대표 공격수' 오현규, 프리미어리그 진출 멀어진다…베식타스서 주전 차지 확률 UP \"감독, 한국인 공격수 OH, 매우 신뢰\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zb3RLcGwxNWw1SDhuNjVzTXV5U09ZZkJZVTB6MzNNQTJDWks5X0xmbWN5TlN3S2pjcXM1aXVRX3Uyd1huNWcxZTFkSm9xSGt1b0ZHU3RRcF9VdHhKTFJRWQ?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -81,11 +86,6 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MVkh0WmpvekwyZ2tDT19PTWZMLUF3N3JQSkJmRk9mbVJveF9WUWNXdGkzaTFTd09VdE9uN05fdXkwUjM1dTgwdkV1UUMzay1Ec1ZNc1BTcWxySkJVRXUxRkJwa0JoU0dwdDZvOWhDN2xTaG5nQ0E?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"월요일 메디컬 후 공식발표\".. '챔피언' 아스날, '1660억' 뉴캐슬 핵심 미드필더 영입 임박 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHlhSUI0SDBxMEFjOGlJNGZUUnpjRzNGS21rOURQUGpVaDVpallSR000a1hpV2RfbkN6R2UzcU5ENXlUYkVWcG1nTXNKeGVscUVvSEoxSVJMaURlSWRnOFVkc3k3TWJ1RmFKTGY2ektzVkh2S3BRWTNxSlpROXZsZTFGUHA4LWd3NzYw?oc=5"
-        },
-        {
             "source": "파이낸셜뉴스",
             "title": "'1165억원 공격수' 무드리크, 도핑 징계 종료…첼시 복귀하나 - 파이낸셜뉴스",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yNGF3djFDcF8xZV93NHFNRWN5ZFR1akFCampoOHZVaV9rMWRpc0RoNW9Ebzg0SDNDS1oxbDh3d0ZBSXZzVy1wOVN3UU1NM290R0tCcnViSl9yUQ?oc=5"
@@ -96,9 +96,9 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dWdfb2k5d3NSaEJySjdGeGhMTWlNdnE3MGdWSl9rNVI4V09zWUhQREF1d0RJZlFwUV9CYlZQejlFNmhteWdEV0xFX3UxLUgyWEhlTGxXRkVRZGpPcHZZcHpMek1NWjRCaktrUXpBdHc3c3lQM2NHV21yTko5QQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"프리미어리그에서 뛰고 싶다\" 맨체스터 유나이티드 '초대형 야망' 현실 된다! '꿈의 타깃' 오시멘 영입 정조준→갈라타사라이는 1653억 요구 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBackQzbjNqQ3JTNE9kTU8weEliSFJ5a1dIbE8zTXpmczBYcl8zWEZTakdPanZ1RGpMeF83MmZpbXlwZkFiWEdFTE12cU5OQjQ?oc=5"
+            "source": "interfootball.co.kr",
+            "title": "시간이 흐를수록 더 빛나는 손흥민…PL 지난 10년 포지션별 최다 도움 베스트11 선정, 살라·케인·더 브라위너와 어깨 나란히 - interfootball.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kenRlRmZsazlTQlIwZTBQcnpjUnBmd2NHcGFxa0xXWDBzT3BpZkhyYlVVNjd6WHhGQXlIY194RGpiU2ZjOC1zZGV6SVYxMERsS3M5YVNPNjhGRnVFTkJvT2ZMYUNNRl8waXJZMmZqb096NWRC?oc=5"
         },
         {
             "source": "네이트",
