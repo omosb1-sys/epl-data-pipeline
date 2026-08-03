@@ -1,106 +1,10 @@
 {
-    "timestamp": "2026-08-03 08:56:34",
+    "timestamp": "2026-08-03 12:12:14",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [
-        {
-            "source": "BBC",
-            "title": "From European hopes to relegation form - will Moyes reignite Everton? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qM280SkZGS3NNM1ZSZzRCNlFrR0taemJCSFdycHExNlUtR2xMZGMyVHpqckhKM19keURnQl80TzJVVjEzeDY3cnFyRXJER3NvUkRsTC1SanI4RDdSWk9ScW5ydWlyMlRZbXc?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "'Nothing is strange' - how clubs prepare for the transfer window - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBveEFJOS15ZUxma1B4R1UwdFdoZ21Hemc1VUp2SlpnaWhjV2R1azVIVHJheXlUVURJQUY4V1N2eFo4X01LWXFyVTNsdzF5Q01Ic2cxOUVNZ0Fyc2RUMWxEUTlfdW9Mb00?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Premier League: New season, new kits... but which is your favourite? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnhvVE5TbGxQLVhad1BIWFZmcEYtNXEySTlHSGJ0VGtzdFJvVFlPa1hTRGw2Q2xYY2ZZaHJXU243Y1Vac3hjazVvd2ZWM0VjNWxKelBnOFpQMXBHN0NQUHZBdjlYZmx4Z2FpUWhqbnFLQzFZUE9fQnd3WXNaMVMwOG8ydUREaUs5N3NXZFhOSzFnRk55bUNCYnJiS09aR3c4MmdpX3lzblFsTWh1OGFlT1NTWlRoVThy?oc=5"
-        },
-        {
-            "source": "Goal.com",
-            "title": "Man Utd prepare £60m bid for top target Lewis Hall as Fabrizio Romano confirms move 'approved' - Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT19YUTI2UkhnQkk4b1I2cHBncHBxTTVRQjJLZEJqRnlSTm1HRzBNbHRlM0Z6Q2dsUEFQRXVtWWpYLW1ZWHc0MkxZUjVaRFpkTG5JOTNyRW1sVUwxTmVreFl6dnFNZnFKNlVFakxnek9WSUxTdThzVlhmZGxLMURnNXJyTG1aT3U5MDBzZ2ZXOEczUXl0LU5mbmtDSk9DWHh4Z0txaUxPaUFYSE5wdUloLW9n?oc=5"
-        },
-        {
-            "source": "Read Tottenham",
-            "title": "‘Official bid’ – Fabrizio Romano confirms Tottenham attacker is in advanced talks to leave - Read Tottenham",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUFzWEphUmNDS0NkMFFvZENmb1Q0NVlMTXpJd0pwMU91d3JIQmUxNTlLZ2EyV3pVdjBrUWJfZVFiVmVWSVA0T3ZuUzRNSXhxazliNko3bUhzOXlNUldWSVJiUkNOYjl1RU9yMDBtbEVIZzZPWW9odVE4RnpUajVjUU9UakFyTFVWU09Wb0VGZ2NGYkZGaWlz?oc=5"
-        },
-        {
-            "source": "football365.com",
-            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - football365.com",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
-        },
-        {
-            "source": "nytimes.com",
-            "title": "Everton reach agreement in principle to sign Arsenal’s Christian Norgaard in £7m transfer - The Athletic - nytimes.com",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTQycnNlVTFXQUZQSTNKRW95WUtIVFJwZGJOZXV5WVhfUUZ5SFpzTVBOcVR4eDBUQzRnVzBIUFkxV0R5RnJCZHA5U1Zqdm1rTlRkaUxkWnNpSG9KNFVfU2lnRWkzaEJQWlBoN01wNUVoOXJMU1E1b0NCdG9WbkRYQmFWdm1MN0o2Z3BxSlNOLTljZFRXdUNVVHltV0FwRU1aR3Jz?oc=5"
-        },
-        {
-            "source": "nytimes.com",
-            "title": "What we’re hearing about Arsenal’s interest in Vinicius Junior and his Real Madrid contract - The Athletic - nytimes.com",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmF5RWlEVV9jcGNtaF9NV0xTeFJ0OElhVjdKanA1LTc5dFRXWnp6Tk1jVF9GRkJTVlFaalhMcERqQTN4VTc0b3otT2Y3UlNoaXB0ME1HRW5wdlB1WU1ZWnk3QUxReHl2QmZWNmpvTE0tX3hHa0hGN1lfdk5NbDJHMm5CYVBURThkNkpZMFpBdWxkQnQzeUFNSGFwYXU5c2FzRU5EdFU3bjM4c0dLa3pOcEtKcw?oc=5"
-        },
-        {
-            "source": "Arseblog News",
-            "title": "Report: Arsenal working on move for Vinicius Junior - Arseblog News",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
-        },
-        {
-            "source": "sports.news.nate.com",
-            "title": "[오피셜] 프리미어리그 아니었다! 이한범, 클뤼프 브뤼허와 2029년까지 계약…\"등번호 3년\" - sports.news.nate.com",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4td0pvVjRIVjhqbnRoZU9ra1FlOHRQb1g0OVdfR2dDbUdJX21kT2k5cEd4bzVUOGExc1JOdVBsRTZXa3F5MkF6LUZiQWprZ2d3Vm9zUHlnRnlwTzFX?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'韓 국가대표 공격수' 오현규, 프리미어리그 진출 멀어진다...베식타스서 주전 차지 확률 UP \"감독, 한국인 공격수 OH, 매우 신뢰\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUYmFtRS02UllNYTQzamxCWWVod1BWTTVUbWpuOU1qclVUQmNoLTJqUGNnVEdoT19RNTZ2ZGo3YV9VWHlnUTZ0bVNqcVA3RFk?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "‘아스날 상대로 어시스트 작렬’ 미친 존재감의 김민수, 이런 선수가 아시안게임 못 간다고? - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckE3RlN0emVkX2YtaDFxdmg0bm1lb1djdExaT21RZ1Brd0ZUbDhXODRfaFBvZEU2Z01NR3czQlFTejJxcGlqTE9JYVJrOEVKaFU3Zl9MVC11ZTJwMVUyR1U1TTZtamJpZ3B2bGJSd2RhQmFiZ2RuTHpwWl9JVEZOSnBkS2lyTTd5blVN?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "양민혁 임대 불가피! '손흥민 찰칵 후계자' 2007년생 무어, 또 토트넘 떠난다…'로마노 독점' 분데스리가 FC쾰른 계약 임박 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uRVdZZ1dJdjJ4NjBPazk3ZUxEV1pKSmRVUXowNGFucjhjdzVkTUhvazltM3RNM05UT0ZGOElXTnlHWXAzRG1TMGg4YVlRc1J5QVlmN2lVT1I2QUtONFpVcUp6X2p6LUxXTV9sR2pGQ0FkMzdLR3lRTTFDNS1uUQ?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "韓 축구 또 대형 낭보! 박지성, 호날두도 루니도 제쳤다…맨유 역대 최고 '컬트 히어로' 선정→\"메시 막을 선수는 JI뿐이었다\" 퍼거슨 자책도 15년 만에 재조명 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnS00xaVNFSzg2VnRmNW9tdlVvRUJDNl85Z3BsRzh6NTh5RUNIc0ZtWGU0QzFpZWJiUFl6ajBQZ3hCbVpvOExxNFcyUF91dm5MR0c4Y2JPVzRZWGlDR19sZ2lOVWlVdVBzX2lrM3VlZw?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "지로나 김민수, 'EPL 챔피언' 아스널과 프리시즌 경기서 '코너킥 도움' - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xN1hWZnBGLTlyLVQtUExhOGdMV0p4MlU1a0w3Sk1GemRpQVdYVU83Q010cDBuRHRRS3lmU2JGN3RNOGdJQ1pCdTV6UEJHdG1MenZPdnZjVzFRVEUyYmk1RNIBeEFVX3lxTE1BMkVXY0l5d3BYMmRQS2NwVGtuM0F6RmtZS19hY2NSQ215VnptSnllSkRLVW5oUS1obU05ZHV6bDNaWjBkdWNFejZGYW1NUk5ESnJhXzNkSlBlS3phYzhOcHV6WFAtclVJc3d0NlF0QWhfRjJwUERjcA?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "'이민성 감독님 보고 계세요?' AG 명단 최종 탈락 김민수, 'EPL 챔피언' 상대로 AS…\"양발 드리블 뛰어났다\" 호평까지 - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KRDlSazJKQXpDU3R2cHlnTUNZMFNCZE5JYUh2MHp3OV8zRjZrSm1DT3RHdnFyWnJvQngyenotbGdoNVdpNGtVOUJIUUpYZ3lOTHp2cA?oc=5"
-        },
-        {
-            "source": "FT스포츠",
-            "title": "EPL 이적설보다 감독 신뢰가 먼저였다…오현규 베식타스 잔류 무게 - FT스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xajZTbUdJNlJiU0FCU1pJdFg1Q3MwaU10cXNiWXJpelFhWjdHeTZNMENDMldvWEx5Q3FVRUNSeE1DeHJScjZhcmtPNXV4dXJYSzJqaEp1c3c5V3MxcUt3dGdBNEw4dw?oc=5"
-        }
-    ],
+    "news": [],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -108,13 +12,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-08-03",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         }
     ]
 }
