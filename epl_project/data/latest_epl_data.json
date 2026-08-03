@@ -1,10 +1,106 @@
 {
-    "timestamp": "2026-08-03 21:56:09",
+    "timestamp": "2026-08-03 22:51:14",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "From European hopes to relegation form - will Moyes reignite Everton? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qM280SkZGS3NNM1ZSZzRCNlFrR0taemJCSFdycHExNlUtR2xMZGMyVHpqckhKM19keURnQl80TzJVVjEzeDY3cnFyRXJER3NvUkRsTC1SanI4RDdSWk9ScW5ydWlyMlRZbXc?oc=5"
+        },
+        {
+            "source": "Everton FC",
+            "title": "Everton To Bring Premier League Opening Day Excitement To Houston, TX - Everton FC",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmlWWTB1b0pBLXZJb0ZqQVJrMFFvYVhPUVF3WGNHVnVJMFlIZlpjTTBFS1pnSzkyRE0zOXBIeHlHYnVhWjRTeDY1aXN3QjJiN3A3N3czUVdRNmIyZ2ZzRU12aDBGMWRWeFFoNmZjeHloVHJMbkRwcnNfNHQ3emF0aFRBb284NVdHVm5ER1ZwWl92R3Ryd1kxMWQ2QnRZblFWWHpSVXhHejVJYTdoY1NYeWhGcTBHN3M?oc=5"
+        },
+        {
+            "source": "GiveMeSport",
+            "title": "Everton Want to Sign 'Phenomenal' Premier League Forward for David Moyes - GiveMeSport",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6ZUd4bFZPc0ltX1FKUWRpaDFaM24xSEVlS2MyOEFORFJTQlhwU0NFTXdJZEo2MVhmX0ZwX0pHWGcwSGJ1bVJmZ21UYlZwZjlZRlk2TmRkaXZHZm5FNkd1em1iUllGTXhwVFlySEVBQVNhM2Z0VmJ0bg?oc=5"
+        },
+        {
+            "source": "GlasgowWorld",
+            "title": "Tottenham receive official bid for star amid Rangers chatter as Fabrizio Romano sends 'advanced stages' update - GlasgowWorld",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT2RtZk9zY3VhelpDRE1NMlFlTGk4Mlc4MEhCYnJNdThEcjJ3RDF2UG9HWGVKTzB0b21lOUU5TkFWdVVyUDYxT2dQX0VMcDJtSGhDSnBUX0E1dkhhdHhvUDdQUWl3T1BkV2NDcC1tNXJLMHNrQ0oyMXZSUVR5Wkd1TUw2LWkyZmZOWk9jd3U4UDVfNzlsUlBtc2x6VngwbEtFcmVQQ2lUVkVIM0MxTUp3b3pzMHJGXzFXRGloWEdVdk5Yc25iNWlSTkVyTm5DZkxLUjhORGI5Um9JRFV1X3c1VXZTdWo5dnczbDFHSjlWNFVYUy1VUDlvUnJoams?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Romano drops major Barcola to Liverpool update after compromise confirmed - Football365",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEVjRFZOVE12V29OQUR1aWlhd1g5NjdrUzJxVEVKeHFKNGhwcGhDaV94UUlHNXlSVGhhR3lKMVctVXdVT0hFU2plcUVNeEx3SnQxQUFqZktfaTBZVFRfNGpKd2djRE5JdUNwOUlBblR3czBNYS1JNTE0TTJXVlk1QjY0TVdvTE90YUEyVHctZExCR3cwUGdTWjU2LUNycXJnV0pLTHRRUFFWR3d0?oc=5"
+        },
+        {
+            "source": "readliverpoolfc.com",
+            "title": "‘Over €100m’ – Fabrizio Romano confirms attacker wants Liverpool after official talks - readliverpoolfc.com",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHd4bFItdkpMWVNUNmVwdHJrSDV1OHlzd0ZHN0l5dGx5dzZMSENMalFLaGVqWUt0c1RUMGJIT2lOUERaMkpob3gwYnNQRUNiMVhyb3VwWDFIdDh2Ym1LdzNaZzc5V3Jpd0ZvYnVpWXY2aENQOEh4VkNxTlhCbTRrdEg2R3JiWGJETjEyN1JhMEhCQ1FkY1QwQ25fZw?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Everton reach agreement in principle to sign Arsenal’s Christian Norgaard in £7m transfer - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTQycnNlVTFXQUZQSTNKRW95WUtIVFJwZGJOZXV5WVhfUUZ5SFpzTVBOcVR4eDBUQzRnVzBIUFkxV0R5RnJCZHA5U1Zqdm1rTlRkaUxkWnNpSG9KNFVfU2lnRWkzaEJQWlBoN01wNUVoOXJMU1E1b0NCdG9WbkRYQmFWdm1MN0o2Z3BxSlNOLTljZFRXdUNVVHltV0FwRU1aR3Jz?oc=5"
+        },
+        {
+            "source": "Arseblog News",
+            "title": "Report: Arsenal working on move for Vinicius Junior - Arseblog News",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Newcastle complete deal for Braga goalkeeper Lukas Hornicek - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQnhBdHppYVpJWU91RWtURmdnZmZQcFlFNjlldUZDTWVpaXNhMzlFS1dGWFJmS0QtZTN6VW54MURfUEJzZnJFbHo1dDdhTzFZdkZsdHRCbDlwZktDanVDblhDNjdpS05sMzFmMy1VNlQyS2ZVTEpXVFcydWREOHNjNFYzOU5weVYyaG5PdlhQbUtZN0hmXzc0?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "한국 프리미어리거 위기인데, 일본 이어 호주도 대형 스타 탄생 예고...\"18살에 최고 이적료 기록 경신 임박\" - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12VzVqelRBMGoweHFwQzVzYnB4VGVDdXdpQmg4empjcFRJcTJjTXREZUkzX3cyTnppWTMtOEJPdU12OTROVkNpa2xGSFF1bzIyZzFpcHR1U3pfenZSc29jU2k0NTEtdlR0SDBFMVJjVQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'韓 국가대표 공격수' 황희찬 \"프리미어리그 수준 미치지 못한다는 시각 존재\" 英 매체 지적...\"울버햄튼 잔류해도 주전 보장되는 것 아냐\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZ0Y3eTJvTXY0bHJiTk85NnBsSjhWNFZwNUxWZ0J1LVlsT1JtVVBidzBTSDh6OUFTYXFLZ3ZHb1hZWFhFLUZmSTdzVVcxazg?oc=5"
+        },
+        {
+            "source": "sports.news.nate.com",
+            "title": "[오피셜] 프리미어리그 아니었다! 이한범, 클뤼프 브뤼허와 2029년까지 계약…\"등번호 3년\" - sports.news.nate.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4td0pvVjRIVjhqbnRoZU9ra1FlOHRQb1g0OVdfR2dDbUdJX21kT2k5cEd4bzVUOGExc1JOdVBsRTZXa3F5MkF6LUZiQWprZ2d3Vm9zUHlnRnlwTzFX?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "김민재·이강인·맨시티 총출동…한여름 밤 축구 축제 시작 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbDBWRkNXc29WVE01Qm1CUDhucDluMjQ5cnJtMkZ4TjhEa2Q0Znc2QURRNWdBbmlxbFBCeTZKTXQ3VHVFa0FFdWZYNzMzTFNhcGpqemFTNHpLUEE4RUZ1V9IBeEFVX3lxTE1CYnM4NU5tZXZ4QVJJS1ZfUm5hV2ZxZHZZMUFTcWxwNFVKaFVvdFdqekVnTjNKcXU5MGVVdmFBWmJIQTkwMklvb09UdV8yanRsbW9fRmdyRFRXS2FadjhISnVtNjRyeEtKZ1cwN3h4cWpiT3FyVm1wdw?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "'충격' 손흥민 이후 최고의 한국인 프리미어리거 도대체 어디로 사라졌다...'결장, 결장, 결장' 프리시즌 0분 등판 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OMm4tWlc2dEpKcXM1Rk92bFdhTGdLWVFIWkxqdHI1MG1wVV9iaV9KQV9xTHFTeU9hUGxzQXMza3NkNnVyc3BXd0VLZGZWS0VienZVb1VmRXBPMzRFY3NSaTBQVjlxZmpoLWg4MW95ejZQNFlYelBjMHNKYnVIUQ?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "각포 영입에 1411억 투입한다고?...토트넘, 화끈한 투자 기조 이어간다! 윙어 보강에 올인 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FYUM3Y240RG5VYmZUcTlBVVV3SzFpazJxRWc4ZXl1MW9HQnFsQ0NfdXZyaExhUU1CUkhzRnJwUUY3V1RKQlVFamxRMk82SHQ3eFFvRlEyaExIUmlPcER3UFhQRHRzakQyalBPVGRsOWZwMEtz?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "[공식발표] '잉글랜드 도발→뒤통수 가격' 벨링엄과 싸웠던 바르코, PL 재입성...논란 딛고 첼시 입단 \"2033년까지 계약\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0lNbC1KUE43MlN5SUpLcWUzZ0pDcGpUeW1BZVhOaHpndkJYbnp1Ni13ZGxFNzF0SnVYMXNDTm16UW9JTFR3Y2VnUGU4Q2tGRzFKM3czRFdsaDN0cVQyZ2pZUzdWazd5ak5GeW0xd2d3QzJJWml5MDNtTnBQZW9feXpJYVo5Q2poQkhF?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "손흥민과 '함박웃음 투샷', 이 여성 누구?…토트넘에서 LAFC 이직! 이런 인연이 있나? - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCZWpabVJCZERFZElwVGpmQkJzcW43YTlwTE82M1hheGpOdFJmcENmU2hMRVRhYVdobXVxX1pLNkhuWDNTTHA5QWZyZS1TdzVtUlJwUw?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Jordan Henderson joins Chelsea | News | Official Site",
+            "date": "2026-08-03",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
