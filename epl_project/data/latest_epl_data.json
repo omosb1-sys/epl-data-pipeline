@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-08-08 10:19:11",
+    "timestamp": "2026-08-08 11:17:49",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Premier League: Why do the world's best footballers move elsewhere? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTzhZeUxadWtRRVJxUGdwVFpMVUFfNnBEbVYtcUxoVmdWSW93OVZqc3d0NmdqNTlQM0YxMlcycFQtTDlVRXlIMEVUWlFWcFI2NjBXbllLbXpPbl9tYl9qRjhHYUdkTWs?oc=5"
-        },
         {
             "source": "talkSPORT",
             "title": "Rodri offer rejected, Liverpool to sign Araujo, Man City close in on Rulli - talkSPORT",
@@ -19,6 +14,11 @@
             "source": "London Evening Standard",
             "title": "Transfer news LIVE: Arsenal 'sign' Alvarez, Liverpool book medical - London Evening Standard",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVlqbnJqZ2VVUmNjOVo1SHNpaVV6S2Q0S1ZldmxaNXJiTWxtdm9YdkZKZ0c4RU9PYl96Q0lGVTd5RDhkZnZWMmZkaTBaSGQ5aXhTWmJsYS03eW9jLUpqanY1Qm02bmFnanV3RFJYVXNyV09wZXpHZEM0SVJCa3lUTFMxR0FSMGQ1dHczSHBoRWZZbnVJNS1waUxwU0pHTlNiU1dpbjNTQ1FaSVp2cmdlT3lFclA0MDRPSUZXM3BPWndtcDRCWUFmVmNmQUhtSFpvNnc?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League: Why do the world's best footballers move elsewhere? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UTnZCLUpKSzFOYXBCbkcxd3BPc2xkYTRZdVViVmNIRjdvQVRoR1dWQllMV2pvMUNTcXhQWWYwY3plREVzbVBVb1YxN05CT3A5U21pT1h4dzFlZHMtS0oyZFFkaDRRM1BZYnc?oc=5"
         },
         {
             "source": "Goal.com",
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Sasa Lukic completes Ipswich medical ahead of £9m move from Fulham - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEdQNUd5NGhicWtLajJmYzl0SnUwd1ZmLU1TZ0tXVkNPVVN3ZFBERkhMT1lFWDF5X3ZFTXhTQ2twQ0x5WEowakRSMnhjMWlTQVZ0OWJvcnhEdDVoT0oyWVZVNFAwTTgyT2E3SXBJTFQtT1F0dU5XdVRiYnpKRFZoRUNSSUZZQWtEcGZtWGlDOUY?oc=5"
+            "title": "Arsenal nearing agreement for Bruno Guimaraes transfer from Newcastle - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVo2RWJyYnlqSmtYV3ZQcjI5SlhZRERxcFdUVERTdkNWSDl1T2hQZlg1UUdmMTNOdDhkTGpCRC1aS1k3VUY3Zy1SdDVpTFBpOVo3WUNDWnNSS0dmbE40NTZva0lzZjFkWUpCYW9vMFR5TFJEY09EOTJmaTZXdWlsZFVydEtxbkdQUmhDREk2ZjY5U3NPZ3pxLWtkNA?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -59,6 +59,11 @@
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVEQzNzV1WEtwWUpEM3JxaW1WbmVhUGdIcWRvV3FGYjBUVWVWNHRBV0NKcFVYWWowYjhqN0R6U3ZsU2t6eTZNejJ5YlNCeEhUSjJFYldKejJuUmNfdEZNZ1dYZkV1UDVieVJCNnl1Y1lQUzBFN1U4cGdBQ0NKSExxZXBVZjV5UE4yYlZISHZ1YzdENThBd1FsMDhYWlVvY3Nqa3JKeHlCOGFHMERVNWU0VGtIRG00T0I0SGVZTWVYQS1aMEh2bVhpR05EQ08zQWhQMEFUX1VUYjhTbFhnUndETE1hX2JWdmc?oc=5"
         },
         {
             "source": "뉴시스",
@@ -86,14 +91,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HeF9nZzlGczVJcmF2ZjZmRkJoYnhIQXRLWGdGSlNVYlFMNEhPMGIzUmluSy1MdWJVTEZjVVNqSzMybjdUYzNwMHlFSENkc3hXTzY2UlBmenc4WDhW?oc=5"
         },
         {
+            "source": "spotvnews.co.kr",
+            "title": "로드리, 레알 안 간다 - spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZnNtQTlIZzBVUlhxWThOdEI0Nnh4cU1pcjA5RlNvNkpYdldFcFVQcE5uSEdyb0hlWVo2YlZicjFKR2NpU1lNamoxMkg2RDh3WnBYQ0JFQ3o4S2d0a3lWVmR5ZXUzaHJ6bkJGeC1YQdIBc0FVX3lxTE9KdzRiaVFGSE9ZTGxqYnFJWFhOeTBLV0ZYM1J4dnlWc2NWbWMxLUZiRHhjUUZzSXhPX0dQV2VaMDhnUDN0VnBXMmtXRDVMMEd1Y2dMZUtycVZNS2VDcnhnbzl3U0o5V3ZEYmRBSXprRVp3ODg?oc=5"
+        },
+        {
             "source": "스포츠경향",
             "title": "‘HERE WE GO!’ 日 국대 수비수, 프리미어리그로 돌아온다…토미야스, 크리스털 팰리스 이적 임박 - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdXZZaERDQTZFZHBpWVd2LWY4Uzl2MEVTWjRrdm8wNGFOUXk0Tkkta0h1RXIzRFI2TElfd2V4bGVxbGh3QzdvNFVQcEhiNkNFbTh4OEVsNE1jYXh3UWfSAWNBVV95cUxQM1J2azBILWFZVU90UndRUmJvOGxTeERpalVGSWNQQkdlNk5kZ0dsT1RnM0IxbXJ5dS1kZUItSjVzTEd2d1lQRWI3N0tzbFhnVHltZC1jRFRHVUQwRjVJYkhRSnc?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "로드리, 레알 안 간다 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZnNtQTlIZzBVUlhxWThOdEI0Nnh4cU1pcjA5RlNvNkpYdldFcFVQcE5uSEdyb0hlWVo2YlZicjFKR2NpU1lNamoxMkg2RDh3WnBYQ0JFQ3o4S2d0a3lWVmR5ZXUzaHJ6bkJGeC1YQdIBc0FVX3lxTE9KdzRiaVFGSE9ZTGxqYnFJWFhOeTBLV0ZYM1J4dnlWc2NWbWMxLUZiRHhjUUZzSXhPX0dQV2VaMDhnUDN0VnBXMmtXRDVMMEd1Y2dMZUtycVZNS2VDcnhnbzl3U0o5V3ZEYmRBSXprRVp3ODg?oc=5"
         },
         {
             "source": "FT스포츠",
