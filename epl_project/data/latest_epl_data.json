@@ -1,10 +1,106 @@
 {
-    "timestamp": "2026-08-08 02:47:43",
+    "timestamp": "2026-08-08 04:01:35",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "Premier League: Why do the world's best footballers move elsewhere? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UTnZCLUpKSzFOYXBCbkcxd3BPc2xkYTRZdVViVmNIRjdvQVRoR1dWQllMV2pvMUNTcXhQWWYwY3plREVzbVBVb1YxN05CT3A5U21pT1h4dzFlZHMtS0oyZFFkaDRRM1BZYnc?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Rodri offer rejected, Liverpool to sign Araujo, Man City close in on Rulli - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Aston Villa could wait until end of window to make move for Premier League striker - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXVyQXZhRnFNUm9nWEZpd29xdXZZVndEa3YxbmpqTkJVdHNsQ0lMNk1vTlBla2c1TjhtUThyc29hajduREcxN3JRdFRYXzZZZzJycU05WW54TG1Oa3hiMmttMzhNNFVWN0xaMUVQMUpZQUhJTDcxUjB6cFlnQ3FFRlk2bkRDZlR6b080NFFCZWR0aktEWnhwQ0dkOVlHTUhFeGVoM0dCMEtleV8zZGJta2VvdVBYWnd1N3UzQVRwdw?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "The deep fall of the once universally admired transfer guru: how Fabrizio Romano disenchanted himself - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSTN2a0s5TFoxSm5CYWNnWEQxQi1PWVVRZjVGX0Z6alRGUkpWYUh5UVhROTVJOVRSTGxiVFVHMW1lOW1tS3VvcjBtdjNZYkhjemZzWjRNR2xoR2tQNjRoMzNReThGTUFWc0FpZ0N6STZaaFNSazFpc2ltX2dxWlp5dmxPUkxrYzdQMkpvSXBYTWFoZTh4Zk5nVE82Ym1EQ1I1c2h0ZU9RU0VXa1VFOGVlMFV5TDNSYklTMDZmVnEweVVtNU5XWUZ2aU1sOXB6T2d5TUh2NnMwellZWWt5YmhacHJPd0w?oc=5"
+        },
+        {
+            "source": "GlasgowWorld",
+            "title": "Tottenham receive official bid for star amid Rangers chatter as Fabrizio Romano sends 'advanced stages' update - GlasgowWorld",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT2RtZk9zY3VhelpDRE1NMlFlTGk4Mlc4MEhCYnJNdThEcjJ3RDF2UG9HWGVKTzB0b21lOUU5TkFWdVVyUDYxT2dQX0VMcDJtSGhDSnBUX0E1dkhhdHhvUDdQUWl3T1BkV2NDcC1tNXJLMHNrQ0oyMXZSUVR5Wkd1TUw2LWkyZmZOWk9jd3U4UDVfNzlsUlBtc2x6VngwbEtFcmVQQ2lUVkVIM0MxTUp3b3pzMHJGXzFXRGloWEdVdk5Yc25iNWlSTkVyTm5DZkxLUjhORGI5Um9JRFV1X3c1VXZTdWo5dnczbDFHSjlWNFVYUy1VUDlvUnJoams?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man City reach 'agreement' for Bouaddi; Romano reveals 'bid today' for sixth arrival - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVpWUWdFNGxYbnZJNk53dzE0QjBTZ0tQRkNMNk0wcUNKa20tdDFMQlZyLUlCcFE3Q25oaVM3SEV6UmNvNFhYQmRhWko5ajdKZko5eVJ3c1g4NFJSZDhzbkhkN1dyeW4xNlJKSVhDMjdKckJYTHBFSE1KOGlWc1M3dVlTNXI2aTNRNXp3RFZqM056Z0tqZTE1ZHdoQUZfbnRaVEE?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Barcelona make €45m Rodri offer to Manchester City - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcE81ckdaaUR3S0xKM3k3VEFpYkpkZV9hSnh0eG8wU2s2cHdEZU5zVWwyakFvUWlvSmY1dUJGVFB5azk2S2IyQy1OZkg5ZW0zekJvWF9ETEZmVnNLRFk2dFRDT09scmQyd0VEUTlMRWIyRFVxc0otNjdBS2IzeVJjaFVCb2pWZFd2dGx4Mi03UmMxQ1U?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Sasa Lukic completes Ipswich medical ahead of £9m move from Fulham - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEdQNUd5NGhicWtLajJmYzl0SnUwd1ZmLU1TZ0tXVkNPVVN3ZFBERkhMT1lFWDF5X3ZFTXhTQ2twQ0x5WEowakRSMnhjMWlTQVZ0OWJvcnhEdDVoT0oyWVZVNFAwTTgyT2E3SXBJTFQtT1F0dU5XdVRiYnpKRFZoRUNSSUZZQWtEcGZtWGlDOUY?oc=5"
+        },
+        {
+            "source": "Arseblog News",
+            "title": "Report: Arsenal working on move for Vinicius Junior - Arseblog News",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "로드리, 레알 안 간다 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZnNtQTlIZzBVUlhxWThOdEI0Nnh4cU1pcjA5RlNvNkpYdldFcFVQcE5uSEdyb0hlWVo2YlZicjFKR2NpU1lNamoxMkg2RDh3WnBYQ0JFQ3o4S2d0a3lWVmR5ZXUzaHJ6bkJGeC1YQdIBc0FVX3lxTE9KdzRiaVFGSE9ZTGxqYnFJWFhOeTBLV0ZYM1J4dnlWc2NWbWMxLUZiRHhjUUZzSXhPX0dQV2VaMDhnUDN0VnBXMmtXRDVMMEd1Y2dMZUtycVZNS2VDcnhnbzl3U0o5V3ZEYmRBSXprRVp3ODg?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'홀란-아구에로-케인 바로 다음'…손흥민, 최근 10시즌 EPL 해트트릭 최다 공동 4위→살라와 어깨 나란히 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DaGZlT0tmR1BVQV95V0pyZmtGMVBuSWk3dzlwQmlVYklaRndfck01cXhfXzZZT3dGVWlURXY3NWRoMzNvX0VIQ2FqazVMd2lCSVRqMktTQU41QzgzT19sZA?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "추억의 손캐듀오, 아직도 EPL 휩쓴다!…'10년간 리그 최다골' 베스트11 딱→케인 2위+손흥민 3위 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Gc0tiaUZycU1tS2Mzd0FOYXg0TkQ5TGVOeGZ3LXhSLTNfSF9Jb3gtOUpQM1FnSzZHc3c5cmRwUGlsTzR3SGc?oc=5"
+        },
+        {
+            "source": "FT스포츠",
+            "title": "손흥민 또 역사 썼다…토트넘 역대 레전드 선정, 여전히 빛나는 존재감 - FT스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBra2laS0J1SENMcm5hS0N1cjVmT0lBY0dLR2FsUnlTQ09sdU5WaERodEwtWmpRMlh6SmRhaW5DckhqS092a012TmUwaGNCM18yNWd1aGFtWkpZYWx6dk9lZ1g1Zmc?oc=5"
+        },
+        {
+            "source": "sports.khan.co.kr",
+            "title": "‘HERE WE GO!’ 日 국대 수비수, 프리미어리그로 돌아온다…토미야스, 크리스털 팰리스 이적 임박 - sports.khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdXZZaERDQTZFZHBpWVd2LWY4Uzl2MEVTWjRrdm8wNGFOUXk0Tkkta0h1RXIzRFI2TElfd2V4bGVxbGh3QzdvNFVQcEhiNkNFbTh4OEVsNE1jYXh3UWfSAWNBVV95cUxQM1J2azBILWFZVU90UndRUmJvOGxTeERpalVGSWNQQkdlNk5kZ0dsT1RnM0IxbXJ5dS1kZUItSjVzTEd2d1lQRWI3N0tzbFhnVHltZC1jRFRHVUQwRjVJYkhRSnc?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "日 공격수 품더니…입스위치> 레알 마드리드> AT 마드리드> 바르셀로나→EPL 승격팀 충격 수치 나왔다 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZUHB4Wkc3WlFYN2kyeE5hcVQxMy1zQlR5ZmFFWEpSb0hJSUZqYlZMRFZWUTZHWGRvLUdCUDdGNlRFdG96NE5YdmE2ZlNhMENjV0o4Rg?oc=5"
+        },
+        {
+            "source": "위키트리",
+            "title": "\"이강인은 톱클래스…동료들도 인정\" 맞대결 앞두고 극찬 날린 '맨시티 축구 선수' - 위키트리",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNXF5RTkwdUR6MlhnX2c1THk0aTRrVzI4S2ZPY2RXbHp6XzdXUkE4X2tfS2diRXl4d1dwSGN3WkRscnNiRzhDeHZVSV9OTHZ1OGxLNFF3?oc=5"
+        },
+        {
+            "source": "데일리안",
+            "title": "우리 맨시티인데? 텅 빈 상암벌, 기댈 것은 ‘이강인 효과’ - 데일리안",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTW5LQVNrUkFVT1d1OUIyVmtyT3ZnSWVDb21odFFjMExnQ3hPVGtzYTlHRTVEUm5XODNVdTJ1SFhEdy1pS0JPbEItei1sTzZlTDExLWdVY1lNSmU5QlV3N2F2MkZBNzRGUUlkQ3pLY0t5Umlkd0lUU3dtZVVuS2ZSZE9YT1YwQ3BMQWhDakpfLUROS2tkSlQtNVFQN3ltVC1IWGRybUpaS0tSZjZIN25ZZTZhdENFY3BSbEl1aURvbVhLRklaX3h6Y1Y1VERrWDBuYm0yNDR3N2VhNXNBcWVWMW1LSGtNSVo0RUlHWFcyOHdlSmxjMjY3QV9zUDAwd0JZRHc0ZmxWaDVDbHNk?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-08-08",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
