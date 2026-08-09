@@ -1,10 +1,106 @@
 {
-    "timestamp": "2026-08-09 21:19:42",
+    "timestamp": "2026-08-09 22:17:17",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "Club Friendlies: Liverpool and Arsenal beaten as Man City win and Chelsea draw - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoNkRzUUNHWkVuYUV2U2YyUXdzWWhtSmlpTnAya3Bfbi1jalVmNlhxWDhJOWgxUnBLejBxM29pT3ZTdlk2MkVXempXejhsS3c5aGgxTEdzeTJyYzI0SW4yUHBvMzVYZw?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Arsenal unveil Guimaraes following £75m move, Araujo in Liverpool for medical - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGMxM29YQUI3RllTUE05QldkbWp0X2phYm1oNHc0c3lLTUVfQmhEb2lTdW4wbnUtZ25sTlhWMW1FRkdseDRGTU8tYU0wSWVFXzI1Y20yS2FoR0RBRG5DTHNWaWhIMWRyeDBNUFpqVURRWWV4YmNybEx0VzFxY3pWOTFrejBiM1pWaGl6OUwyNHVwRUdVUVVVSVV3dWVveDFRMmVxUWtpWjNzMHloVVN5QUJ3?oc=5"
+        },
+        {
+            "source": "Barca Universal",
+            "title": "Premier League club enter the race to sign Barcelona defensive prodigy – report - Barca Universal",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVlXZTMyNklwR0lVNmRHajlrekJsbkpXNUZiUE1PU2xGdUtVSWwyU3RuVEhYcnJGaHcyNGpXNnBwUEtnTDdRLTYtUDJ2akFVTFl2QVljeVBXT1JoOVhiYUo3YTl3dWthUFFkcEJtNzRsdC05RFV3bWJWRE1TZDM1N0o2bEJyYzlZamhOaGp0MUJTM3lYZGdabnlaOG5xdEgtdGhwWGZPOWE?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "The deep fall of the once universally admired transfer guru: how Fabrizio Romano disenchanted himself - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSTN2a0s5TFoxSm5CYWNnWEQxQi1PWVVRZjVGX0Z6alRGUkpWYUh5UVhROTVJOVRSTGxiVFVHMW1lOW1tS3VvcjBtdjNZYkhjemZzWjRNR2xoR2tQNjRoMzNReThGTUFWc0FpZ0N6STZaaFNSazFpc2ltX2dxWlp5dmxPUkxrYzdQMkpvSXBYTWFoZTh4Zk5nVE82Ym1EQ1I1c2h0ZU9RU0VXa1VFOGVlMFV5TDNSYklTMDZmVnEweVVtNU5XWUZ2aU1sOXB6T2d5TUh2NnMwellZWWt5YmhacHJPd0w?oc=5"
+        },
+        {
+            "source": "GlasgowWorld",
+            "title": "Tottenham receive official bid for star amid Rangers chatter as Fabrizio Romano sends 'advanced stages' update - GlasgowWorld",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT2RtZk9zY3VhelpDRE1NMlFlTGk4Mlc4MEhCYnJNdThEcjJ3RDF2UG9HWGVKTzB0b21lOUU5TkFWdVVyUDYxT2dQX0VMcDJtSGhDSnBUX0E1dkhhdHhvUDdQUWl3T1BkV2NDcC1tNXJLMHNrQ0oyMXZSUVR5Wkd1TUw2LWkyZmZOWk9jd3U4UDVfNzlsUlBtc2x6VngwbEtFcmVQQ2lUVkVIM0MxTUp3b3pzMHJGXzFXRGloWEdVdk5Yc25iNWlSTkVyTm5DZkxLUjhORGI5Um9JRFV1X3c1VXZTdWo5dnczbDFHSjlWNFVYUy1VUDlvUnJoams?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man City reach 'agreement' for Bouaddi; Romano reveals 'bid today' for sixth arrival - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVpWUWdFNGxYbnZJNk53dzE0QjBTZ0tQRkNMNk0wcUNKa20tdDFMQlZyLUlCcFE3Q25oaVM3SEV6UmNvNFhYQmRhWko5ajdKZko5eVJ3c1g4NFJSZDhzbkhkN1dyeW4xNlJKSVhDMjdKckJYTHBFSE1KOGlWc1M3dVlTNXI2aTNRNXp3RFZqM056Z0tqZTE1ZHdoQUZfbnRaVEE?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Fulham agree Shea Charles transfer from Southampton in deal worth up to £30m - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDJpQVM5Z243dXF3TUthWU1wbUpkUzU1X3hXSXdDVG9EemhPaWVKcFNvSE5ScERLR2pEYWJpRHY1azgxMHN0U1l2c0pLZlA4M2FBVFNMNUphQzBkYUF3X0F6aHMyZDdBdktpWmhNMnM3dG94WDIyX2xDLU5lckc2d3B3SXg1bmQyMFpoNWtiSXF0QzNpZG5GZg?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Nottingham Forest set to sign Ousmane Diomande from Sporting CP for €40m - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVE5Fdk1Wb0xaMy1RbWpZblJydHE2d0ZZM0QxQ04teGhaMVlrVk15RXcyeGVBc0NUOFZERHRQenNySzNoMmlnOVdUMnJLOFFlTlBTQVRIcGVvOVpKMlN3cmN4a3BJeXQ3VUE4NXEybFlRYzJCU0tKVS03ZjdlVy1tWXdzX2FtQ243ZmxBa3NTOGVyZ3prYW5SVHNUTFk?oc=5"
+        },
+        {
+            "source": "Arseblog News",
+            "title": "Report: Arsenal working on move for Vinicius Junior - Arseblog News",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "손흥민 없는 EPL…한국인 0명, 일본인 8명 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnbHZJRHNtRkNsWE5hYnNsV0U1VGlIeXBnMXZfSHoydDhxb3pHVDhPZDlwQ3lOOXVKR01vWlVzMFpfSTRhWkJsX19GT2dIWERGNEVndS1PenNOV0lS?oc=5"
+        },
+        {
+            "source": "sportschosun.com",
+            "title": "\"20년의 한을 푼 아스널, 2연패 각이다\" 26~27시즌 EPL 우승 확률 37% 1위, 맨시티→리버풀→맨유순 - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DcW9kU3NRa1I4cmo5eDF2YnFodG9YSURmblM3b3hraFl0bmk2X2xYUWJoYlpHWHRMeVdWQ0hCWkR4dVhHWmJvZUU1d2N5VnlDOFpOWXdaNWcyb1RxbHdaS0M0YzdXV1lmd0VuaS1UTzNTcmdUU3VhU0M3cDJiUQ?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "'손흥민 절친' 천재의 끝없는 추락…카지노서 3억 날린 알리, 英 2부에서 '마지막 부활' 노린다 - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Tc2UxTzkzNmdZZldTOWoyTDNuMFBCUl90Nm54eVo3V1FLWXJjNzFKVGRscHBxZm9uVWdUSEpVRHg1MlVSV1A2LWJPZ1gzajlLbTFqMnZaLVJuaHV0bWtQMDJEVUJIQm5SaklVQXAxY0NDSWJhaGc?oc=5"
+        },
+        {
+            "source": "newsis.com",
+            "title": "'김민재 선제골' 뮌헨, 애스턴 빌라 꺾고 아시아 투어 2연승 - newsis.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcS1NLTRkQU9penhKQS1rcUZWZkl1ZHJNUXJOU0RERFdqWWZyZ2hSQjdpaExRSTFDcTJvbHRkU2JJbzVxbEtTU0VMOGNhdnkwNllWWlBUb2wyYm9jSjBaV9IBeEFVX3lxTE83MGNQa3RFVzl5VEVwMmNJRVhBSFNhNnY3Zm9mNlE2c29qVWtXcGd6TFFvaDVUaEdXOEw1Z3F0QmxVOGQ0STFpczNkbG11U09RUzBBdjRpaldrUVlLQlQyN1M3b0ZRcmFrbTZydDVFMlhYOVNRbzF5VA?oc=5"
+        },
+        {
+            "source": "mhnse.com",
+            "title": "[오피셜] 오현규 ‘동료’ 아닌 ‘라이벌’ 됐다…리버풀 ‘전설’ 살라, 튀르키예 트라브존스포르 이적 확정→2년 계약, 등번호 10번 - mhnse.com",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pUDlRbTlET3BQQVpfNjRfWlk4a285d0dlZTM3MlIyQjBWMGRGNlhLQ3k0ZVJnQmN1OXYzLUdDZlFlVjIyaEVjdDB4VEpXODRlUDFRMGNZRU5oRzNNbVB0ZjM3Z9IBa0FVX3lxTE1ReTlOcG1haXpfeWppOF9ka05ZYS14cGpUeUhTQXlsakpWZlg4ODR1WVJyckJPVHNXck13dkJGck15NGdfZ3FnMnBzeDlkWko3Rjd4QTQ3SDMwWFFCSjM5QWxTWFFESmt6eTBZ?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "로드리, 레알 안 간다 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZnNtQTlIZzBVUlhxWThOdEI0Nnh4cU1pcjA5RlNvNkpYdldFcFVQcE5uSEdyb0hlWVo2YlZicjFKR2NpU1lNamoxMkg2RDh3WnBYQ0JFQ3o4S2d0a3lWVmR5ZXUzaHJ6bkJGeC1YQdIBc0FVX3lxTE9KdzRiaVFGSE9ZTGxqYnFJWFhOeTBLV0ZYM1J4dnlWc2NWbWMxLUZiRHhjUUZzSXhPX0dQV2VaMDhnUDN0VnBXMmtXRDVMMEd1Y2dMZUtycVZNS2VDcnhnbzl3U0o5V3ZEYmRBSXprRVp3ODg?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "퍼디난드도 대만족! \"맨유가 프리미어리그에서 가장 강력한 중원 보유\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kMkM0aVhvOTVxbGc3bllNRjhOelc2VTg3MkNMZEhKQk9aY2x6bjQ0bVNjck5JS0E0Y3hOb2hueW55aUJxUXpWU0ZhdTZnZ0FXSGRJMHlFY3FQUUdwMEwwd3c0U2IyMnEw?oc=5"
+        },
+        {
+            "source": "Vietnam.vn",
+            "title": "프리미어 리그의 '중요한 자리'에서 영국인 감독의 부재가 점점 심해지고 있다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmVGYldfTndFN1JnZnZSeUlIUTVaUW9jRnNKbU5CSEZwVXJ5QnU1cUVvQl9fQzI3M2lmSTA1N1pXRVVEaGZJRUNtRXlVQnh1LTE2cnZZSUNJZ0t6c0ZVU0UtX1pBRW9yTzByV0g0WkJUQ2t0UmMwamZJS0xGSEd2eFBpelNFUQ?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-08-09",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
