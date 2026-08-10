@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-10 17:41:18",
+    "timestamp": "2026-08-10 18:39:18",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Premier League 2026-27 preview No 1: Arsenal - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazU0TTl6VEZpWnF6V0RuY0kxUTlKNWw4dDFJbkw4c3FtMWFnQzNxUEZWZ1VpaEFDeGk4YXpBUG1JTlk2TE8tRkFYS0M4ODUzdEp4X3lpakZVRndiUVczRkRiWklfUXowRGdGREtFb01ZYXRuSklES0FSUjVId2hycHhKMkdTbXI5YklTRE9CN2hOVnRiWUJN?oc=5"
+            "source": "BBC",
+            "title": "Carabao Cup second-round draw for Premier League teams - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtSUZLWTNGR1pIQXNQeG9HUjV3Q3BSUjdRX3VIdU1PT09FWThFLUlydmpJQWtKbFV1M1MwNEswa29scDVaRUYxRXg0bW9yZWxKOVg0bjRJemNjbXVvTGRQWnpTYWxJbmIwR3c?oc=5"
+        },
+        {
+            "source": "The Independent",
+            "title": "Carabao Cup draw LIVE: Chelsea and Spurs among clubs to discover second-round ties - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTA3OGhBUl9ETFJnalFDM2JTaUtDVUo1dnA3NjNwUFUyT2R3QlJzZEdaMVlhb2JmRGhaQzJ0Mm93SmVvcU1qVzREUjlNWVlyNHI1TXNnTHl1RmZWQmxKSnhOcWNlMGx1Um9RbUxYbGtCdEFKNFBhRUZaVXR3dkpPYnIyMDAwTm9hTWlJYWlPR2VxQy1qQThfXw?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal have looked defensively weak in pre-season - can they cope without William Saliba as Premier League campaign nears? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeG1xY0h5OWR6ZGRTQUJ6NVpJdEhNcXNSMVRfbzhLa2p4S09NbHdiU1hfbktMeXE5MWFNNDVoRlVEa3pSaEtsS2ZudHU3cVZEZzVKVG14emFpanJMNVNTa2s0b3ZrU2NjeXlIYlVjRUk2UXdBREtIaklvRjJIcXNid0pkZ044ZmdNYXUtVnZVQVpValBJRWltQmlLVVhMNjdlWTdHZjR4b3R1cW5sY0pwUG5oU0tHdnBJZHJqYW1QQk9jVDZVd29rZ2xYNjFmaDhCOG45ODR0UkE2TWVaYS1SaEpyMm02MTMyWlBOc1FxS0NYeTZ5TzV4U082dEhQbHNfMVRkNWRB?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Should Liverpool fans be worried about Iraola's fitness comments? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hQTkwZkw4RElYT3ZZSXNIYUxmNUJjckJTM3psWVJ2dW1SVFZ0TjdpQXFVT0R0TWpUTElSMk1FNDhtdnY1cmpaYkJyTVh3RzJyOGtVM2gwQ0ZvWVViaUt0RkN4NDR2Z1d3ZFE?oc=5"
+            "title": "Carabao Cup second-round draw - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOS0dXcVJCeXMtLUxQemtKTFpDWlFydmZOcWdfdWdxRmlpa1k2cU4xNzBwWHVreTFhLWVwRU5wRE02MlVnM1VScU1SRm5ybFZPQ1lGWWtzVkQ1emtwYnR6amhJX0VSMkM2RVkyZ0hkVW1JRlh5eTM2OGFpRnNRTGZodjl0Q2VnUDlOZFV5b1NTMnFvU3VBcUY1eEZqY2phMVZZVHFtb0VaaWlYcmlCQjZFQlcxNVBIcFZZWkFpNUMzM0xLcVNKOGJCcDV6WEpKUzZFdFFIdE1XMnhTanNSVThYM3NGd05XLWpCWF9rVUViNW16NTl1RmgxT01nSTlrb2d4MUd0VWdfSWY1NmRXVVU0?oc=5"
         },
         {
             "source": "readliverpoolfc.com",
@@ -31,8 +31,8 @@
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0Z5T01wVXVranBNbjRDTkZVX3NQU0tsYTRCMmY1V0c5YmQzZWtBYVJ6c3Y5dll4NUNkTDZuQWl1cEFteUlsZnBkcnFLZVdQSUZzMHRiVEFFTXdxRTUyZzU3b3UtR2VVTHRkY0ZNM3B2elBzbThaaHpaLVF1NDBIU1BORENMcUMxM0x3R2NIMEhCVDBoZFJOcldjZ1NqVEhyTHVhMmVvTWxkZm5JRENSZUdoQzgyUQ?oc=5"
         },
         {
-            "source": "empireofthekop.com",
-            "title": "“Done and completed” – Liverpool complete second summer transfer - empireofthekop.com",
+            "source": "The Empire of The Kop",
+            "title": "“Done and completed” – Liverpool complete second summer transfer - The Empire of The Kop",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0p5a1Q0TVZJbEd5cmtGUGo2VEFsb1B4alVTYzlTMXhTcmdwbnVGRmFWazcyTU5MVGJSTWpUeHpXUjlkOWlSZ2JsZUl5bHpmTEtMX2ZKLUE1QUxENEJlY3AtQjZQN2ZMQzdRSDhMcnBzbEk1SllNSlFUYmxPcFZwZVJYUFVUM09iRUpmWVAxWXk0ZnhBWG1NNlpXVkdHQ1ZZX3N6ZXNB0gGrAUFVX3lxTE5NMW9PRWJiQ3NDejBhbXR6X1hSSkdHU001QjVfWDc5YUkxYzNyTG15TTI2cVVnVmRzX3M2eldOMUJpSTJ1R0FnSkRJVy04N3V4bVpjS3RuUmQ1TlZYWXhzeHpMcHJlLTJyUm53NWtpTXNPQmsweDd1TDFWWHYzU2E3NlNoQ0NVWW5NREJ0UXU1V3N1S0ZqQzlSQlgyWkNIRHoxdFY0d1ZoRnNnSQ?oc=5"
         },
         {
@@ -57,8 +57,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlMtSF9leV9JQmh2cmpodlZ3SXM0ZEJoSnZRSl9WYWZGZ0g3VnY3OGVKcVhnNHF4QWxJTDJiNmNkT1REZk9SeWlvWVdjTkszMkMzeUFtUS1wZm5OSVExNmN6d3lEaTc3S0JxRWZYeXpQRS1Pa1U5WElmdXZBQk5IeGw0MmlIVHc?oc=5"
+        },
+        {
+            "source": "The English Football League",
+            "title": "Carabao Cup Round Two ball numbers confirmed - The English Football League",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGVNT3NVUkUxam1BYnBjVzhMWlp2MHVVVEliaEtod2JnSGQzdTZVR3pianpoS1JCdDRjbWZxZDY1aG9DaUxLMWVPZ1pzaTIxSzRaNTFqdldOVjZNR3NudFZ5US1LX254aVF4V1h1TmVodUtaeW1pbUxOWHhsTjRONG9qd2tiYmQtYmdnX2xB?oc=5"
         },
         {
             "source": "xportsnews.com",
@@ -71,13 +76,13 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RUEZnMDduRzJjay1XMWJia3NuRVlDS0JLbk1LVVFfcGRRRndaLU1pWG9WRzhpTWQ1Vi1ZRXJRRl85MzRHVFhJTUxNall3MGI3UmRwRk1YcHhTOHZ1?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "\"39세에도 은퇴 없다\" 불혹 앞둔 '기적의 사나이' 바디...英 무대서 신화 이어가나 \"웨스트햄 이적 고려 중\" - Your Field",
+            "source": "yourfield.nexon.com",
+            "title": "\"39세에도 은퇴 없다\" 불혹 앞둔 '기적의 사나이' 바디...英 무대서 신화 이어가나 \"웨스트햄 이적 고려 중\" - yourfield.nexon.com",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wMGtUcHM3dW1Zbk5iRlJQNmJFS2pvbGJlakJLMC1ieUxfeHN2TGtqNzVubmw4OW0yNEdCaFJaQzV1SlJxbmVlWUZRNzdUWkpscUcxam5iaWxvQmFwUkJvZEJQazMyYWtKYUpSVFB0WW8tRXFrNUE?oc=5"
         },
         {
-            "source": "경향신문",
-            "title": "‘흥행 보증수표’ 공식 깨진 해외 명문 축구팀 방한 경기 - 경향신문",
+            "source": "khan.co.kr",
+            "title": "‘흥행 보증수표’ 공식 깨진 해외 명문 축구팀 방한 경기 - khan.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wNTdaUzBkR1lWNHQzVnhGaEFWaGNzdkFRR3RvZkdmUmFya2dCV3NxQ2lISVdFTU9weE9QUTNRQXBvZnMxUi11N2ZYWFh5LVdOLUo3RkNOQXpFZ9IBX0FVX3lxTE85Sm0tUUZOUy1jOGM2VE93ZHpBb0JyMTFtVmhZUW94YVcwaDZvdkxFNlZnOFZXbXFIbkRvajVnLWhPOG0xMnBBbjFVcFFMWWRsb0xPWFA3R042OVo3a3pB?oc=5"
         },
         {
@@ -86,19 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xVXg4bFBaaFROazZYNUVWdlpkVlJIMVhkQ0p5R0l2V21hbEZLcjRWdy13QXZQWlIxaENNa3NKRnZDY3E0bmxWODJpMV9DWWEyU2pITEdn?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "\"맨유 후임으로 결정됐던 무리뉴, 울면서 퍼거슨 제안 거절\"...무리뉴-퍼거슨 증언 '일치' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGtkRWFydnBTd2lwcGpxUEdUUHFheTFUNjZvT2lWVi1qWUtnbXd4ZW94R3N5RXF5TWdkV3F1aXRKcWZ0OHYwV1kzRzBGM1NmdEVIOThSUTJjenBDYnY3UkxjUzBWTTc4b3dlbzk4R2RZYTFoS1k3Sk5id01GZHZZa0t2YzdwOWE5QjN3?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "\"내 평생 언제 맨시티랑 경기하겠나?\" 팀 K리그 이끌고 온 정정용 감독...\"우승해서 내년에 한 번 더 하고파\"[현장 인터뷰] - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YZFVyYnBBZGZpWDlfWk9nQzg2MHdvVzZiRjNJVjZtWTA1cHRUcXE3a2FsRUdTcERETnRiM0R5Z2hUejBJMUZ1Q0dQRVcycE0?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "'프리미어리거 전멸 한국' 아이고 배야! 日 공격수 EPL 입성 현실화…리즈 유나이티드 영입 시도→페네르바체까지 이적 제안 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LcUxTdmRyUG9mMVR0WlBnQjhXVndXZzMxaDFwTVpPUUtkRVc2blA4VVVBUVVRMUNDX2cwdUtGQjRqLTVDdGZiYmY2cUY2WElUOE45emFNajBqZmU2M25tVmtlRFU0cHplbGc3bC15MG90YVU5ZFV5T01SMDZKUQ?oc=5"
-        },
-        {
-            "source": "chosun.com",
-            "title": "\"맨유 후임으로 결정됐던 무리뉴, 울면서 퍼거슨 제안 거절\"...무리뉴-퍼거슨 증언 '일치' - chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGtkRWFydnBTd2lwcGpxUEdUUHFheTFUNjZvT2lWVi1qWUtnbXd4ZW94R3N5RXF5TWdkV3F1aXRKcWZ0OHYwV1kzRzBGM1NmdEVIOThSUTJjenBDYnY3UkxjUzBWTTc4b3dlbzk4R2RZYTFoS1k3Sk5id01GZHZZa0t2YzdwOWE5QjN3?oc=5"
+            "source": "newsis.com",
+            "title": "'김민재 선제골' 뮌헨, 애스턴 빌라 꺾고 아시아 투어 2연승 - newsis.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcS1NLTRkQU9penhKQS1rcUZWZkl1ZHJNUXJOU0RERFdqWWZyZ2hSQjdpaExRSTFDcTJvbHRkU2JJbzVxbEtTU0VMOGNhdnkwNllWWlBUb2wyYm9jSjBaV9IBeEFVX3lxTE83MGNQa3RFVzl5VEVwMmNJRVhBSFNhNnY3Zm9mNlE2c29qVWtXcGd6TFFvaDVUaEdXOEw1Z3F0QmxVOGQ0STFpczNkbG11U09RUzBBdjRpaldrUVlLQlQyN1M3b0ZRcmFrbTZydDVFMlhYOVNRbzF5VA?oc=5"
         }
     ],
     "transfers": [
