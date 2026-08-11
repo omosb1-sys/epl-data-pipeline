@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-08-11 16:43:23",
+    "timestamp": "2026-08-11 17:46:21",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "Sky Sports",
+            "title": "The Sky Sports supercomputer predicts the Premier League table for 2026/27 - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQSGo5NGNzY2ZoLXNZaDZrODloRzl6UFhkejBLRzM1dW4xMUJ0R1EtN0lZNlJodzZaZ05oaDh1VWJEMmpwX09zM0haOUhJR3FlU3dTaUtUaWpkZ3kxYXVUUXZvYzF5ODdud0pqQlY4TExPb0xwcVEzWFZ6MTZZSzdYTE1fY3RQcExucV90WHJCT3BlVkpOTjVqU00zY2NZa1h3X0tHblN3Rk1Ta3czdXcydzE1OFkwaThIVnRTYjJNT25PTmhDVk9TNGFiWDJHbzB5VDF6eTNkNHc0UkgxaHdVcFlreE5QMjQ0OUFZZm1EcVVZWmxacUlBQm9sT0lVanNOc1VSMWZNaGRuNDBqeW9YRU9UaW5BcnRiaEtVODdVdnZOMzg?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Premier League 2026-27 preview No 1: Arsenal - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazU0TTl6VEZpWnF6V0RuY0kxUTlKNWw4dDFJbkw4c3FtMWFnQzNxUEZWZ1VpaEFDeGk4YXpBUG1JTlk2TE8tRkFYS0M4ODUzdEp4X3lpakZVRndiUVczRkRiWklfUXowRGdGREtFb01ZYXRuSklES0FSUjVId2hycHhKMkdTbXI5YklTRE9CN2hOVnRiWUJN?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Paul Scholes tells Manchester United to hijack transfer for ‘nutter’ - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDJhbE5rNVpRUVpzMnJSLVRZRWtBbEhCOVdzMHZ5Ujd5akk4Z0VJaVNEeks4YUZwVFRCQzlSZE9oRDhPOHBiWlVrVmI3cmF5Q21ZU2NhTXlEUURCV3lRbmsteS1RLTBIajJRMHJJZkNrZi0xcEp2aXotTkxXLXJtZktrYVBYR21vaW12WU9EZVJUVEE3LVRXYkZDNnFoOVVhVldTVg?oc=5"
+        },
+        {
+            "source": "Read Tottenham",
+            "title": "‘On track’ – Fabrizio Romano confirms €45m Tottenham player wants to leave - Read Tottenham",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzE5OFppeXZYMUpGQ2NCZDFpNDhteTd5cS1XZUJYUXQxdUFUS3N4d3hUZkEwVThvTE04eFp1VkhBLUI0RGlkRlBjWHM5RkY4UDFEZUdacFhKTTZHRjFzZE84enVoQ3E3NHZwX0Z4VkFsRDZsWEx0eW1oZElIMU9jN0VVQWRxbjg2WjBWSDZoakxPSElNdFJxeTl2UEJsZDhoTXg5NUdPWEhRV0lf?oc=5"
+        },
+        {
+            "source": "readliverpoolfc.com",
+            "title": "‘Everything signed’ – Fabrizio Romano confirms early-morning Liverpool transfer boost - readliverpoolfc.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy1oY0hKSVpKa2s3TzNYX1NfSXBVQ3pDc1RqT09nMmx2UnpIeUpRdldveUJZWHZLb3kyTjE5ZGUxTVNEWUxjc2tBLVZaSXowZmY3cFVMamlIcEwyRXlRWC1McE5hbHB4NHlIVzRNVy1jdUJQRUxTby1YSjF0UVp4M1BDeVJCRVNqMTBaeTF0bjNuaEtFZVNtRE9WRlVuUmY4TU1IdjJKSmVRMWxHRlZiRXkwbTFYUQ?oc=5"
+        },
+        {
+            "source": "The Empire of The Kop",
+            "title": "‘Final green light…’ – Romano drops significant Barcola to Liverpool update as talks continue - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRXFCQ0R0OUttNlVEMGNMbUg2VTEwYWNhS3pkNnU2VVRtNUtVejVZM0lOU25jWXNYWXZvR1MzWHNjcUVxOWItQnFnSmtBNmdpMWlxd1lEel9zazJqLUZFajNfVWhfenB4SHZvWXRudU9hUTYxN291SkdsV2ZBcVV1eEVRSTgzbnltdlHSAY8BQVVfeXFMTmROWExmX1o2VktfZm1pcC1Td3FIM2hLcDR4S2JBQUtzSnNnbUliN3pxUTlTd05wUnlLa3RwcmtRTnVsdDRaa01lU0pQUFVOajV4OG1QdUVWRjFUd0cydnM0cUctM3R4b3NXZnRzeGJody1xbXdvVHJSWTljT2VIcDRQYU1vQ2hDSFJVbTdiY2c?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "The full story of Vinicius Jr’s Real Madrid contract saga. How close did Arsenal get? - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTFHa2ZVZGtjZ0RNVFVkR1U0QllkMG4yd1V5R3l4RklyVldMZjV6Unc1eXNIRUk0M1BaN29Ob21vNkNiUWx6bVdEaHhjdFJQbE45ekQzZ2taM0xISmpNVTM1YWpLYmVZd2s1NDh4b09PWmJUREhxWTBXeW1CUVJmS196ODFUNS1CYXkzQ0N3TnYwLWpVa3NXdGhoVVc2TmtKbGNR?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5"
+        },
+        {
+            "source": "Arseblog News",
+            "title": "Report: Arsenal working on move for Vinicius Junior - Arseblog News",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "Chelsea confirm Filip Jorgensen exit as goalkeeper joins RC Strasbourg on season-long loan - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONU1sNWFoTG53aktDODJiNVY3RjgyMFNFTHZVNkRIczJ1QXE3aUJFYURPdW9GVUtUM1ZFcktxZnNzMEdPVUxYaE1zME8tVk5jTTJ6WFo0Rm1KZzQxd2Rja3BFN3R3dGo2Z1J3U0VWZnJySng1QTBTY0tMN2k2WVB0Rng4ZTRKRHZnbG4tYk5IRklwbFppR19rc0JERGlXQWFNVUtTb3gwVmo1S3VO?oc=5"
+        },
+        {
+            "source": "sports.news.nate.com",
+            "title": "'나 좀 영입해' 맨유+리버풀 역제안도 처참하게 실패, 결국 EPL 퇴단 유력…문제는 '820억' 높은 이적료! 토트넘 완강한 태도 유지 - sports.news.nate.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FczhNZWh2Y183NkpleGh3akh1cDh5XzRZTmlTX1V1WTc1VGNNbFZxN2xWd1lhTm00NVhjek9NRGpjeWl2RzdzbFJXbWtfU2J4ckxnRHUxN2VZc2wz?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "양민혁, 4번째 임대 코앞…벨기에 리그 가나 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRVm9hMnRhTWpkTHZTWkVQamNSeFgyNU5iLThlLXFjYUdKd1hPNXhwdS12TGdUcUxuUWlZQ1M3ZEY1bkFxd0E?oc=5"
+        },
+        {
+            "source": "Chosunbiz",
+            "title": "손흥민 토트넘 떠나고 양민혁 ‘임대’ 황희찬 ‘강등’…‘한국인 프리미어리거 전멸’ 현실이다 - 조선비즈 - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlJ2MEtHcjlzM1RtWXhuNlgxVVNyQll2WGNDTEs5dVBmRGw2WjB3ckZYQmJhTXVHdm96aWtrZFl2ZzctbDFZUG1UVWFuTEJ4N0t2bEtsOUZuNVNqc0pjeG5Cb051RWRnUE4tRUMxUjY2eE9qbUVtUU9rTVFDSTdya29QSdIBlwFBVV95cUxPaHJENmNSUGlmeE5oR1BtQjJ5SWM5dlRDWnVoSjFTZ2hXLWh3bkRFRThSSHdZREdmWjl3R05qV3JXaDJkdVVNb0NzaUdkbzBjV1d2RWZXR01VUVJkeXFNUDNSRHA2bW5RdVd0VURVU2hZY0xEeDVCQnRKOWE0WW1MRVl1UHoxOVNaVzNRUC1KMU1mT1hTSDVR?oc=5"
+        },
+        {
+            "source": "아시아투데이",
+            "title": "EPL 코리안리거 0명 시대, 21년 만에 계보 끊긴다 - 아시아투데이",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VOHBLWWFwT09PT05WbFBVb3RLRWIxU1JORFRraWh1R0FLVWQ4OFM2OVJmemItOU9hYXhOWGJqbEc1TnZnLThrc3RsbEZqRTlMYWRaTjNPNXN6TlFQQklGdEtCLVNjQXJYMkVHdGJR?oc=5"
+        },
+        {
+            "source": "위키트리",
+            "title": "\"EPL 주목해야 할 유망주\"…미쳤다, 한국 축구 희망이라는 07년생 '한국 선수' - 위키트리",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92RGtKVE90WlNIX3lhR1RNUFlvVjZUMXlpTFhITzh4REt1VEdRM1l3WTVrMmc2V01kSW9BcXRxYnI1UjV2Tm5fMUp0aURIbnlfYWtOb1hR?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "베이조스, 프리미어리그 명문 '리버풀FC' 구단주 되나 - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14N0RrYTQ2SzRNVjlkRXZhX2JPb2Y1LUt3ZkFHTkJnazQtdHdqV3c1U0E3N0x6ZWV5RzYxOHdwT2VXUjc3VjNvcWwxQVdqMDhaUUdmbVY3OTlXbl83dmpnWjNHcXRIMTJ60gFuQVVfeXFMUHVOZjI0eXBtbk9IZ0ctQW1lSUxqRkV0YW10QWpmVlNraUw5bk5FZWNmbUpPQXVCM1pzVWFzeF9CeDYtSFdkMUF4QTljd3lqWTVLQ01RQXRveFRvbUpMZU03T1NVNGkxdVpfWXAwT3c?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "이럴 수가! '韓 EPL 전멸 위기'...2007년생 '16호' 프리미어리거 되나? 박승수 '1군' 가능성 등장, 英 언론 \"뉴캐슬에서 주목받는 상황\" - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JazdSTU1PdE1BZHVPUW16TkdGRHI2b3M0SjRpLWpEWGg4TEdXZjUtdkM2TzIyVUV6ZkhTc0c1WWVZbElLSXJVLW1hM2JOV3FfR0JGTU1wVUF4VzFRd0FZMw?oc=5"
+        },
+        {
+            "source": "뉴데일리",
+            "title": "'EPL 역사상 가장 위대한 선수 TOP 50' … 손흥민·박지성 이름은 없다, 亞 '0명' - 뉴데일리",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yQ3hvZ1FrR2lReVlnSzZIUG9MSFJuZ1hWYmlHUG5YalFUZUhTTVJfZUlCa2N1U2ZhU25VVVQ0bGJVMldpMGZ0OUFUUF9UQnF5SmF2TDAxaE5GMzN1MHVDalhNdEQ2eVVKUlV6aUhQVUhJNFRrUjNoQ2xEVdIBgAFBVV95cUxOeExSYm1lWW1pTTZHMjZIcXV4MkFMRjJvcnBiQUFJTFByNDlPT0RHcUF3SWpXcFNScmt4N0F2a01EcG5tYWZDM0k3M0VzVE1qX3RfYXFzS1VxRS1aYWllQ2pSTTlqLWdfcU1uUXdCZzlvd1hlc1B5SnBXUHVFaFoxVw?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-08-11",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
