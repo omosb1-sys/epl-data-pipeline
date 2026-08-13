@@ -1,13 +1,13 @@
 {
-    "timestamp": "2026-08-13 11:36:54",
+    "timestamp": "2026-08-13 12:40:12",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Can Sunderland defy the Premier League doubters again? - BBC",
+            "source": "bbc.co.uk",
+            "title": "Can Sunderland defy the Premier League doubters again? - bbc.co.uk",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSmxzazRjZy1mTnVpQ0g0Z2RKcTFQYV9VMTUyTno0R1FfalU1bzBSSWVINTNSdlF2UWZqYmdRNGpXMWNhbVN3QUNsQWhmaXBwTDUzeFczSDN1SUNZYmFHczFGM1h5WGJObGc?oc=5"
         },
         {
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1YyR0Y0TDFkbGYwOFBuSDdnOHRyMGdLVllkMktEQnZTT2VTNlVhaFEtZ1FnQ2VGQzlRNXJhT3NQOEh5OU5RM2twbllTQ1c0d2VwR0tkMFl2RHZuMThpdEhyN3RrRWpQUUliZEs1c3FvQnhiR2lFMFpyZjcwcEF2LU04WGdSVllpU1RXZUtYQWlCeVZ1d0N3?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny. - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sTlR6a3A4djdEczgtajRfWV9EOVZPNGUzZHFJT0xfX3c1U1JTTGZHQlh2Y2w0Zk1LNzUxbFBwYVh0RmpCUEV2TVQySHAxZFdhcGdKaVlhRVM3ejFDQzNSOTJyQ1VtdEU?oc=5"
+            "source": "Sky Sports",
+            "title": "The Sky Sports supercomputer predicts the Premier League table for 2026/27 - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNjBrZnNlcnIxWkNkZkllNm9ZczNfUDBZMWlDazd5TUhoeC1tUy1DUmt5UGo4VF8tZzBwNGJDajlkVkRBOGkxelk5d1JERFNoRUZBa21vZmY0NFlwanQwT0JvbUNiWU9uNEhEZDRhckpwLXpfek9lYlp5ZlVlRjZUN3VTdUx1Wm52WUxpeTdQZXhjVzNOVEUtSzgwaHVXOGZnSmpZQVkxVWlPN0ZxdFdvdUFCcFdZWU5YaWZmVkdGSjRtQjloak9tMy1hbDVYWlU1dnk5ZGp5RHVPQ0gwMF9pejg1NUVLNVUyQjRaWVB4anNKMHpWOG51MU5tSklUQUVUVUNaVlBkVXpEUDR3aTRGUTFmdHdOQ3hQWWZRWGVFOE5FNUk?oc=5"
         },
         {
             "source": "Read Tottenham",
@@ -36,13 +36,13 @@
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy1oY0hKSVpKa2s3TzNYX1NfSXBVQ3pDc1RqT09nMmx2UnpIeUpRdldveUJZWHZLb3kyTjE5ZGUxTVNEWUxjc2tBLVZaSXowZmY3cFVMamlIcEwyRXlRWC1McE5hbHB4NHlIVzRNVy1jdUJQRUxTby1YSjF0UVp4M1BDeVJCRVNqMTBaeTF0bjNuaEtFZVNtRE9WRlVuUmY4TU1IdjJKSmVRMWxHRlZiRXkwbTFYUQ?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Chelsea set Friday deadline for Manchester City to make £120m Enzo Fernandez offer - The Athletic - The New York Times",
+            "source": "nytimes.com",
+            "title": "Chelsea set Friday deadline for Manchester City to make £120m Enzo Fernandez offer - The Athletic - nytimes.com",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2NEUS1yS3JGdFNHUlUyN2U4M05DYzByNWdGU2dmd2ZzS0ZBMnlnWmhuZmNqYjdpY1dqUU84aWI4cE5WcEZTNkZSMHlKUmQzaUJQWHB4UjdlckRBWDFCajVEQ3V5MW94aU00QkNrMzdyX0xyejZlejZuQXFwdjk5QnRPeGd4eE1fRFRDU2hKOE41X2pnVmdqRg?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Paris Saint-Germain close to agreement to sign Barcelona forward Ferran Torres - The Athletic - The New York Times",
+            "source": "nytimes.com",
+            "title": "Paris Saint-Germain close to agreement to sign Barcelona forward Ferran Torres - The Athletic - nytimes.com",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmQxZVZja1BSenVvY3J2dXBKdHlyOWlmeWdfX2YzN2lRZzlVUEp5amhNYzZBZkJYNFFWdE1IV21yNFJkTUNqWloybDZMb2tGT1FpaVdKSjZSazd6UXZXVUdJMmFvdHNJbFM1STFxZDdxN3EyMDFFQldlZWRxQnR4dEMzRWJpWFdpUTVCRjNLWl9mTGM?oc=5"
         },
         {
@@ -51,13 +51,13 @@
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamNkdXJUZHNRMERTaWVGUVhGTkFNb0hacjZJYmkyQUkybEhTcy1kaFVNSGU4QnBuRGpkOXZhQUhKMGJVVk9EdVhLcjhCOUQ1OHVHNk4za3JPWk1WMmZjWFJDaWptbm83RHRkLXNUdlRaYU14UzhJY3RHQTRRMFBzNlVoZ0Y1YzZf?oc=5"
         },
         {
-            "source": "skysports.com",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - skysports.com",
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
         },
         {
-            "source": "skysports.com",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - skysports.com",
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
@@ -66,14 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOE1EX2JQbHVlNHI2Q2NHM05PTEF3VFdmcGtzRW5haEw3NFNFQlNQV0UzZTJGYzl5dVM4ZWc5ZHRTQ1VFUUxEenBlek1BRmtuSXI4ZDZSeW53Z0xGenJ1MF9GNHJwYW9jSVRiX3Z2ZTU2OFE2T3NTNVFjOHJKZThyQXZLT1hzQkFkaFhhVHJhamtXbGR6dThIeFBpenBKbkg0aTRlel9KdUVRemxfUmtR?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "3옵션이어도 뮌헨이다…\"콤파니 감독님이 써주시겠죠\" 김민재, 프리미어리그 진출 거절! 빌라-노팅엄 관심에도 잔류 선언 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNVjdkNzJKNUpOMzhmQWtKTnJ1bUVTNzcxYTF3c0VYYnNzWVhFNWpQU2ZfRDJGU0dlYWllamdxSzRzM2ZkdWFsek9IeHR1UkVheUFYdWQ4QkE3UjFB?oc=5"
+        },
+        {
+            "source": "티스토리",
+            "title": "프리미어리그: 올 여름 아스널은 훨씬 좋아졌다 - 티스토리",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wWjl1dll5aDBBc3A5OFA5RkZiNlBnUkZOM3prWXNsQ01QRjd6cW93dDhVaFY1cmdFa0J2Q3JNbGJPOWVPS2xOZA?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "EPL 한국인 0명 치욕, 김민재가 구세주되나?…애스턴 빌라 지난주에도 오퍼→KIM 일단 거절 - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44WkdZTGR2TS1yT1Z5VVhGSUZwUHV6TktvRjFLZzcxR3o2a0xYZ3ZRZ1IyaGlBRTVDQ01OTTFSNWNNeXlMWVVxbTVycWoxVVU?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "3옵션이어도 뮌헨이다…\"콤파니 감독님이 써주시겠죠\" 김민재, 프리미어리그 진출 거절! 빌라-노팅엄 관심에도 잔류 선언 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNVjdkNzJKNUpOMzhmQWtKTnJ1bUVTNzcxYTF3c0VYYnNzWVhFNWpQU2ZfRDJGU0dlYWllamdxSzRzM2ZkdWFsek9IeHR1UkVheUFYdWQ4QkE3UjFB?oc=5"
+            "source": "머니투데이",
+            "title": "베이조스, 프리미어리그 명문 '리버풀FC' 구단주 되나 - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14N0RrYTQ2SzRNVjlkRXZhX2JPb2Y1LUt3ZkFHTkJnazQtdHdqV3c1U0E3N0x6ZWV5RzYxOHdwT2VXUjc3VjNvcWwxQVdqMDhaUUdmbVY3OTlXbl83dmpnWjNHcXRIMTJ60gFuQVVfeXFMUHVOZjI0eXBtbk9IZ0ctQW1lSUxqRkV0YW10QWpmVlNraUw5bk5FZWNmbUpPQXVCM1pzVWFzeF9CeDYtSFdkMUF4QTljd3lqWTVLQ01RQXRveFRvbUpMZU03T1NVNGkxdVpfWXAwT3c?oc=5"
         },
         {
             "source": "네이트",
@@ -82,23 +92,13 @@
         },
         {
             "source": "v.daum.net",
-            "title": "'토트넘 0분+벼랑 끝?' 양민혁, 日 미토마 길 따라가나…英 떠나 벨기에 구단 임대, 희망 거는 이유 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fbE5LV1piNl9jeXBwamRVWFlkeG9wYWl4RU9PZjJLemxacTk4Z0o5QkN1N2VBdVEwUlAtTFZ4a2hGNXU1YmRqeDRSMGNfb3c?oc=5"
+            "title": "QPR→포츠머스→코번트리 찍고 베스테를로 향한 양민혁, 1년 반 사이 4번째 임대…유럽 무대 롱런, 벨기에서 마지막 희망을 잡아라 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0LXBDbkt1aUV4VHI2N1VjZEoydE4zWkRZNTMzVFJELU1aU01McWZUQ3hVVEw1bTRUODNrRjRRZml1UmQxdVE?oc=5"
         },
         {
             "source": "미주중앙일보",
             "title": "손흥민 토트넘 떠나고 양민혁 ‘임대’ 황희찬 ‘강등’…‘한국인 프리미어리거 전멸’ 현실이다 - 미주중앙일보",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YMmJ2aHE0N3FGcmhhQXhkMnpDUVZFYWdQUW9rYlBDSlI4bGpCRHF1Zy1Sei1id00tS3J1b0MxSGJYcTNUSXZyVGdpRUZlRlg0RlA3SlNvSHBsemVfVVNTTXhB?oc=5"
-        },
-        {
-            "source": "티스토리",
-            "title": "프리미어리그: 올 여름 아스널은 훨씬 좋아졌다 - 티스토리",
-            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wWjl1dll5aDBBc3A5OFA5RkZiNlBnUkZOM3prWXNsQ01QRjd6cW93dDhVaFY1cmdFa0J2Q3JNbGJPOWVPS2xOZA?oc=5"
-        },
-        {
-            "source": "mt.co.kr",
-            "title": "베이조스, 프리미어리그 명문 '리버풀FC' 구단주 되나 - 머니투데이 - mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14N0RrYTQ2SzRNVjlkRXZhX2JPb2Y1LUt3ZkFHTkJnazQtdHdqV3c1U0E3N0x6ZWV5RzYxOHdwT2VXUjc3VjNvcWwxQVdqMDhaUUdmbVY3OTlXbl83dmpnWjNHcXRIMTJ60gFuQVVfeXFMUHVOZjI0eXBtbk9IZ0ctQW1lSUxqRkV0YW10QWpmVlNraUw5bk5FZWNmbUpPQXVCM1pzVWFzeF9CeDYtSFdkMUF4QTljd3lqWTVLQ01RQXRveFRvbUpMZU03T1NVNGkxdVpfWXAwT3c?oc=5"
         },
         {
             "source": "뉴시스",
