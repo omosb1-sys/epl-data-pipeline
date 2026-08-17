@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-08-17 10:19:08",
+    "timestamp": "2026-08-17 11:14:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "Football365",
+            "title": "Arsenal send out Premier League title warning with Man City demolition job - Football365",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFZ2aWRlMmJPYWpLZ20xZ0tySUxNNUY0LWQ1WkhhVEdlalUxWEV1VnpFencwT0xzdTNndFpWVGFsZzhDMUUzazM4NlVQN0tSNTlZTmU5elNaWi0wbUQwdXBEQ19iTXFxVi1yaFJBQjFKMDVIMm9xTWdNbi1yekxwMkhPX3pMMFFsajE0dnU3S2ZzTGFHYlEwWDlURWQxOHlMa1g3bXN0RUhmbUN4UHF6QzJtVXRiYWNOZTBMYXJ4dkl0UkdVak1acFVRaTRqWm8?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Arsenal news: Can Gunners defend Premier League title? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zTkFNblFJWnE0cWdRb0pSNFBrbTJHUlRKUGxaa09oN1Z5anY0cWFoZ213LWVqckNCYlRJSnUxUFMxaVB3ZHN1WmRxSThCWEFWQnBWdm5SWmpjRUNveFdxaVdleGRmdFk?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Arsenal’s midfield depth signals ominous warning to title rivals – and Maresca’s City | Ed Aarons - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlNlWFB2cldiY1hPc0Rnd21MNmFHdzBENEUyZzd1UTRmaEhnODNJNDNyS3pMaFhBUUIzRVcyOFl2WVR5eXVhQ2I1TkZneWdmQy1QekJsVTJtX3RUYmxrSmI0cmxTWFBYRnhVQlhoTHhKd1NnNDlya3lpMEk2NmN1aVlhcjFZOVNRZC03N0x5amo1YWZGUUQwSFdfWXNyajQ0bk1OQVV2OA?oc=5"
+        },
+        {
+            "source": "Read Tottenham",
+            "title": "‘Today’ – Fabrizio Romano confirms Tottenham player has agreed personal terms to leave - Read Tottenham",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1Uzd3JmY21WTkZ4OFZ5VmdGVXdFNEx2V2VwZ0stMktwNkUxTUJ3Z0E3NzZUVDYyX0Q0dHpQRnJkd0Y0ZmFEYUFmcV85cnN1OUtXWXhRWnM1akRqbDFwRFBQYnhpODlWX1dYWEUxWVItcFl1RGlPN1JJYVVjNWlnZHowNXI0eDFKVHg0ZF9MclVWaGIxZlZNb3FWd3p3V0Z0Sm1QZC00Vi1udm9QT0JRYm1FZEk4d0h2dzhTcg?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Major Liverpool signing ON despite Romano denials with official bid imminent - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHotbmxiek1xcEdfX2xvUzRmcThxZ29TV3FtNHE5dUJaR1Vnc2RHd2hNVFhKb1lSd3lydUluYjZUTzNHTmZIVEoxcDd5NVpvcXBMUnJTenUxS19oT3VKazFOaUllemNzaHdZTGVYS3hSR2pjRV9wT2NrRko0Z0VLcHQ3dENnWDJEeS0wMEppem83SDZPOVcyMDNUa0pCWkpScmoxckhOeF9VZw?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Fabrizio Romano drops truth bomb on Arsenal signing Ezri Konsa and three others - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcEJKWnBiNHhSSHNJS3pXX201VHh6VjI3WWttSmZyeThtOVZ6Y1FsTjhGVjFiZDVJQ2t3WkNCNkczUlpWZmJRSDNnMFh5cHJWd05mTEpEckU0QWhsa1lPYy10NUxzVXVWcjNvNHJyd2ZDTVdHUDk5elp2SENxVlE1Yng4MHg3UTBybnVHRUhidDhoZGVWY1NMY0xaaTBmWTRiSDdoNUVtc1R2TVhBcmt2RzRyUFczWXhJcEdlcjFKN0RXZTZRbWlBamlUdjlnRVZZVVMzNjJ0azhvMWZBWTN6Sg?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Barcelona reach €76.5m Rodri transfer agreement in principle with Manchester City - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzZSSEZlbHdYcVNQR21YZmEyZlFEMjRnVEl3dW4zbFBoNW0zYXhoaDdTNlhZSGlEekthT3hkMGVfQmR0dTVkUmh0REdnVlVaQV9VQXJWN2lDV0k5b25Oemo2SzVoOHZ0TlU2bVdTendmeEIydFdOS2o3VC1meTNJdV9DR3poanpWdFRmUXFEQQ?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Arsenal interested in Bayer Leverkusen defender Jarell Quansah - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXNfMFp2Q1Q0NFF3SDVYSHVJbFI3YUU1TmZ6cGJSbG10ckVUdjBwMEtXeVRuV0hiQVlveHd1cDhBSE1DUS1hMmQ1eTFuOW1UZVJsd0E4S0E5Z3d5czRLa2hMN3FlTV9iY3V0VFNtelRrTm9iaTRabmwwaTlzbnNNS2tSMHlHenFLZWJfNnQ0c2c2aF96emZfbEZrNUQ1TFZBUXFN?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Ipswich set to announce signing of Julio Enciso from Strasbourg in deal worth more than €30m - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjQwcDFHbGczbmY1RGJBZm1sYnYzdkpJTEkzWG9yX1MwbHV2X0I4YXpiS1JaNW5Pd01meE9QaXNQQklrN1k0azcwYzZ6ME5vbHNTLTZWNnU4VG5DQU83SFd5VnQyWE42ckRYS3lXa0p5MktUMjlKTHF3eERJWDB2ckN6VlVSMkFkWk1ELUpvRU85Z0NfaXRoZmRYSGRXRHB4SkE?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Man City transfer news: Ayyoub Bouaddi talks confirmed by Lille head coach Davide Ancelotti - who hopes deal falls through | Football News - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVjI4QWRfLUlYWWR4cFV5VVdCWDRkbFoyQzhCRV9PUUNFSFdkazFBS25vRU81b0pFT2VlOTZWUUJvYldaUW5VMm9TOTZ5UmpDVXl6bnJKX0JlaGtZcHctbDlCaDY1WDAtVzJvYjZQYXFMZllGdTgzSVBXeExjM29WSGJqOGtMZ3Z0U0w1TFJDZGtsaWxESzlCVzVaOE1GcHV0aWRTM0NqZEhud0JucDlfbG9aS3AwSzR3U0xLUVpCNFpIeGE3ZW1KQjBodlZjOUpiUXhiVGVjb0Z2V1RDMkdRdXJNYmUxc2N0LVBDSXJ1S0NDNVJJRTZlT1JjSzktX3NLWXVUcUxCSWdzdUtLc3cweTFEenhhMWs1?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "韓日 극명 격차 \"일본, 한국에 주도권 넘겨받아\"…프리미어리그 내 뒤바뀐 양국 위상 꼬집은 英 기자 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBreHJyelptazhUckFsZEg2bkdnMVdjN05oVlg3SFN4QWtaV3h4YnZFSzNsVnhYajc5NVBCby1zcDJpa3pqZEE?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "\"韓 EPL 0명 위기, 이 트렌드 계속될까\" 日도 관심 크다…英 유력지 보도에 흔들 \"한국서도 주목\" - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FWU5jRW1ZRnNZUzJKMTBOY19Nb2hGdl95TldQZlA1QnlJZjB5alFaM3dfb2YyeXlTZnEyeUZiRHl6NVM0dVRNbGwyakN6UFVTMHRnbA?oc=5"
+        },
+        {
+            "source": "스포츠월드",
+            "title": "일본은 역대 최다 9명? 개막 앞둔 EPL, 한국인 프리미어리그 0명 위기 - 스포츠월드",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBySUNzNExMNFlqMHhfRlpmdHhlZVJTRUJmUzl5WnFHTXNGRWhzdlMxdEVMOVRvWFNYeVczby1XYlBlVEI0X1pYcC13TUFmWmNVTVdFLTVPMW1MX1lwYThWWHVB?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "日 축구 새 역사 탄생! '혼혈 GK' 스즈키, 프리미어리그 입성 HERE WE GO...\"이적료 최대 574억, 빌라 이적 합의 마쳤다\" - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcjBZeUFYOXBTZkFidFNvMEpYNDAxbUMtaDU0ZTlhYzY0YlcydGZtUVhXbDZrcmdmejNJTGFycU9rZlJCOGozWnRlVjZiUklzM01qN3ZkaG51Q3RmdFFiVFlXQm9ucjJpZHfSAW9BVV95cUxPLTh0WWhERlhLSW9LT1lnY1pYVXhBSkl3akM1TWNoWmtVRmY1WGRXSFZtd3BIcXRoQU5WR3RBanNFRWRiU1ZoY2ZZbS1yVE1qZ3FVeEpvZjFyOGE5VE5ldUpPcmE0ZzY2dzNXVzZtaEU?oc=5"
+        },
+        {
+            "source": "spotvnews.co.kr",
+            "title": "한국은 씁쓸하다, 일본은 하다하다 골키퍼까지 EPL 진출 → PSG도 감당 못한 조건 내걸더니 아스톤 빌라 입성! - spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0RWlhN3p4c1VMcU9mZGdVN082cV9mRjZZUGIwNGJHejNxaU9kYzRLRXUxQlJXc2J4eXdnVHI0TDJzQUUwbVl3azlQcDBrUy1RV19TM3lQQzNDOXpiN201Y1VZQVR1QWtrNG0xNFExY0k?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "日 프리미어리거 10명 시대 열린다, 이제는 골키퍼까지…日 국대 GK, 애스턴 빌라와 5년 계약 임박 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HT2pjQ3BSajZsUmZ1aE5aMWRvWVlaVzVPSWtCVFZESFlUUFExT2oxaVQ5WVdxbm01ZVFudl9XLXM5S3BDWVE?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "韓 프리미어리거, 끝내 사라진다...\"영입 가능성, 극히 낮다\" 황희찬 영입 관심 갖던 크리스탈 팰리스도 '사실상 철수' - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EVE9OZnVVTkJnRTEzNzdac2xGeWFJbmlfVmdkaHhYY09jZ0FvVzU3RGhyeWM2ZGV6ZEhVNUFLRzcyZWpJOHRKNUx1MHUtTWJUMzVCbFNKZ3o5QVBqUnVhZ1dpajJ5aXdFOXJQR0t6bU9xczYzWHc?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'英 2부 아닌 큰 무대 원한다' 명단 제외 황희찬, 드디어 이적 카운트다운... \"EPL 아닌 다른 빅리그 이적 가능성\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxS0xJVmlUQ2h3WE5GNXJ3RjEyUlh1Y1Z3anBsN1BrZUFTSW9rcEF4UmxZX29mWDZvOGNSQ20wNWhfVm5YUXh6RmFTbmpKN1E?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-08-17",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
