@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-18 05:18:26",
+    "timestamp": "2026-08-18 06:20:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "mirror.co.uk",
+            "title": "Transfer news LIVE - £60m Man Utd talks, Liverpool agreement, Gyokeres offer - mirror.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League to allow audio of conversations between players and referees - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzNqN1BPZnpLSjRFdzVfcnowY3lzdDUyRU1YLTg4NjUtZXNVT2F0cXE1SEg3NHk5YWQ0S2RrTi1URnBkVUkyOHJtdlBfZ2h0SGFnTWt6dWw2Z09NSFdZQUVCYXFyVktjcXhNV1ZBSXZVN0pMNVY0Q3AzSHNuR1Z1SWtQSEZYS21fOGRsRV85UHNQWTlNcmptdGdWd3FJc1BadHpEYWdheXhadw?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Premier League fixtures live on Sky Sports - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU3g3MVc3TXlaclp5VGM2UGNFREZDYlFMV09SdVI4SmJxOHQ0SkRRcVNpZ092bFI4RUVwQi1reTBhSGRCVGZxcVQ0Nll3aUNfUC0wWmd2Q2NBR2pwWGVXZ2hiamhKRUR3N1pDUHFQeHF1VVlJTFF0WTZCM0dtYWhVYU45cUJmd09GblJZdEZDblpOVjQtcllxVHh0elc4ckdvUFhLVmNZQlR4bXFBT1I5VjhUWGxJVHhkSnVWeF9GRnhuTGVtWldFTTlBNGxoUHZiV0xnc1lPd2ZRd3BibFIyNVEzYU85NXhfa1hFNkh5UkVKUE5mdnNJdHhVRExzZExmNTZhei1lNFI?oc=5"
-        },
-        {
-            "source": "Arsenal.com",
-            "title": "Three Premier League games in October rearranged - Arsenal.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTl9aWGJCekVKUThjekJaN2dHTmNrVlhmRHNxaTh3ckxBaTlCVllSQktRdW9Dc3BOYkFzNnhmYmw1SkpBQmhLdVYySWNZSVhINTdMd080Vk1rZ1FRWEhOQmZEbXJTLW9fUzNzel8wd0RQYkVyYXFfSDNxRzZWLUtWcmhSTXIzcmJOVTAwWm1WU3REaWVv?oc=5"
+            "source": "BBC",
+            "title": "Premier League 2026-27: Players to watch in the new season - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLMHdqcUhxVlFPVUk0VzUyc1BMdWhTOW5raEVfakhxVVZ4a3ZkcUgzUFJKeW90WWFQN2xmLUF3NXZMY2VSNlZXVFoyRTI1SEltdWpYS2NHdFdZRVJic2dpMWFNTzQyeERoWEE?oc=5"
         },
         {
             "source": "readliverpoolfc.com",
@@ -31,8 +31,8 @@
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1Uzd3JmY21WTkZ4OFZ5VmdGVXdFNEx2V2VwZ0stMktwNkUxTUJ3Z0E3NzZUVDYyX0Q0dHpQRnJkd0Y0ZmFEYUFmcV85cnN1OUtXWXhRWnM1akRqbDFwRFBQYnhpODlWX1dYWEUxWVItcFl1RGlPN1JJYVVjNWlnZHowNXI0eDFKVHg0ZF9MclVWaGIxZlZNb3FWd3p3V0Z0Sm1QZC00Vi1udm9QT0JRYm1FZEk4d0h2dzhTcg?oc=5"
         },
         {
-            "source": "football365.com",
-            "title": "Major Liverpool signing ON despite Romano denials with official bid imminent - football365.com",
+            "source": "Football365",
+            "title": "Major Liverpool signing ON despite Romano denials with official bid imminent - Football365",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHotbmxiek1xcEdfX2xvUzRmcThxZ29TV3FtNHE5dUJaR1Vnc2RHd2hNVFhKb1lSd3lydUluYjZUTzNHTmZIVEoxcDd5NVpvcXBMUnJTenUxS19oT3VKazFOaUllemNzaHdZTGVYS3hSR2pjRV9wT2NrRko0Z0VLcHQ3dENnWDJEeS0wMEppem83SDZPOVcyMDNUa0pCWkpScmoxckhOeF9VZw?oc=5"
         },
         {
@@ -66,14 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTE9iLTY4VTBwQm94cWNpQUNIdTVHa29TTy1ScXg2M1RJSDBrZzFuWWwxQ0d6WUpBZWp0bHJtZUMtRVFyYW4wSG1odFU5b2RzTEtualpPN01WV0FkOVkxQVJ3cUNMMGdoNVFhbVFMdUtGVk5UUGlzOUQ4QVljNHZDVm0wTVg4cmdfbVFqVXBqZGtWNXQ0S0lhdzhxaXVMUDhfVk9fVGZFRVBvVUwwRHdZUFNVNUtVZklRU2E3bUlLOGcyV1ZyOGxCVzRuWVk0bjBBbzVYTnNOQmZPMHRJ?oc=5"
         },
         {
+            "source": "네이트",
+            "title": "EPL 일본인 역대 최다 9명…도미야스 복귀·마에다 첫 도전 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDci02LXFwb0JhZjZCTkRRZW82dWxFYW94UWRIYTlVR3dXM0cxS0h6WG1jUTRXWmc5anV5ek95Vldfb1ZJOWI5RXJKSGJnSWYyeGdockw1UzNtcEZ4?oc=5"
+        },
+        {
             "source": "데일리안",
             "title": "EPL서 사라지는 韓 선수, 늘어나는 日 선수...희비 엇갈린 한일 축구 - 데일리안",
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb2FPa0FETFZlbzJvVHlrUmlnWHNJX0Fmc1F1Uk1QYm9aRHZndTFwYXVVakhZNXpzS0p2SEZ6cEdXeVhVWjJKY0k2Y2gzcU5xblNaR2xacE5ZbGJ2TkNBU0VqaFNKLWQyUFF0QlNmQ1M2cTR3SDVCWlo1VVEtdF9QY3ZHM2dUX1VvTlpMT0JyZzBBT3RKaENQMlluSWtrV2Z2N2hnd2JjaG9WT2lodFFFTjBBNGwwRkZ1QUZFeXRxWTBQNjRDY1V1ZmpCazlIU0paQVdLdnpNQTk1VW1oZmdRTklucXBqQUV2Znh0eTlMQ2llbHJiNElJ?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "EPL도 '칩 심은 축구공' 쓰나…판정 정확도 높일 커넥티드 볼 검토 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XTWJCMGRfcGxtYThJdm1ucXplLVBzcjB5cWdVUE45aGYtem5wWFhpdTgtdDc1UVR5SHgyZm9yWXlHOXFJV2hvb19wSjdrdG9feFF5dUpoTnZxcVp1?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -86,24 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9raEdHZUszdDAxbTFjcHFsN2NFNmdTVmpCcTl3cE9wQlh4ck5PdkV3NmE4ekpwZjhuNDExdmV4a0k5bGZ4c3JxWEx2MWVqbDhXUnYxWjUxbDhvY2t5N3NMSjB4MW5CemJNN204SWJmV1JMYmM4VVU0TGFfeEdtUQ?oc=5"
         },
         {
-            "source": "연합뉴스",
-            "title": "로드리, 맨시티 떠나 바르셀로나 간다…BBC \"이적료 1천248억원\" - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XLVU3cGRnZ25sZ2xFUWZGdkhfRndqMnhCN3dFYk9uTnVPeFJpamdsVEJzRHRFN2E5eVRPSWJzN3A4QnI4dVhydTRVMFVHNUktRWllZWVwczN0Y0nSAWBBVV95cUxPTmp6cGZCVjVPc2ZGck96ajR1TlprWG02ajdUeFlCMXNMQk9yYW8tZks5bTE2MzFkaGN0TVFnd2tRUmdjUjNXOVFfNGdpbVIxVlVTNWlmYUhrY1A5eTNCbnA?oc=5"
+            "source": "스포츠경향",
+            "title": "EPL도 ‘칩 심은 축구공’ 쓰나…판정 정확도 높일 커넥티드 볼 검토 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JUFRHM1ZJMVM2WUd1T3VMRTlDRzAzSldpanNDS25QZFNwVXE0TnJRNS1ZdHVEN1N1WjFDMlN1RVh4Ui1PYTQ2aGxYZm90dnpaeFlyWmVoMXFudFRSSkHSAWNBVV95cUxPZXZwdXNtekR3eDNTWnlIeEU1clhTYUpqUk5hMjBZTGxfYzlfZERONzJXNGdkRVVBZHZvN0QyamVFZmJjQWZybWpnaVI0bnBJcjNZZ0t5dVVGektNTWZwbGFlcEE?oc=5"
         },
         {
-            "source": "mk.co.kr",
-            "title": "제프 베이조스, 리버풀 지분 전격 인수…프리미어리그 구단주 되나 - mk.co.kr",
+            "source": "매일경제",
+            "title": "제프 베이조스, 리버풀 지분 전격 인수…프리미어리그 구단주 되나 - 매일경제",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ZkIydU9OR0FIUUl3MTA4OWV0cDZITm40REItU3kzalJrYndyaktseEk4TFg5c3RrNjVBLS1JUmJseVQ5UlRPQWJ1MWpEZGhzQmc?oc=5"
+        },
+        {
+            "source": "yna.co.kr",
+            "title": "로드리, 맨시티 떠나 바르셀로나 간다…BBC \"이적료 1천248억원\" - yna.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XLVU3cGRnZ25sZ2xFUWZGdkhfRndqMnhCN3dFYk9uTnVPeFJpamdsVEJzRHRFN2E5eVRPSWJzN3A4QnI4dVhydTRVMFVHNUktRWllZWVwczN0Y0nSAWBBVV95cUxPTmp6cGZCVjVPc2ZGck96ajR1TlprWG02ajdUeFlCMXNMQk9yYW8tZks5bTE2MzFkaGN0TVFnd2tRUmdjUjNXOVFfNGdpbVIxVlVTNWlmYUhrY1A5eTNCbnA?oc=5"
         },
         {
             "source": "뉴시스",
             "title": "'월드컵 골든볼' 로드리, 바르셀로나 도착…\"여기서 뛰는 게 내 꿈\" - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbGIxZjNQai1IYjJlSENkcm1DendILW9oUHRMNlBLRExEV0dWMmU3cXg0cVBuNjM1aXhicU9pTGl2NjVSTVJlSXZLam5RQ1NuMlh0aVhiLW93WlhSc3IyWtIBeEFVX3lxTFBmUkg5aEZqYnI0NmY1UGFTc3Q2cHcxWElXa3NkQXZBNXBWV2RtLUdDMkNxQVhKeEc2S3R3VjFXN2hSejFwRTBDX2w2aXhCd0t2b1laQm9fRmh3Q1VPTjhPS0F4eXlVS29uSl9peE9GNHd2djVOVk1jdg?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "韓 프리미어리거, 끝내 사라진다...\"영입 가능성, 극히 낮다\" 황희찬 영입 관심 갖던 크리스탈 팰리스도 '사실상 철수' - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EVE9OZnVVTkJnRTEzNzdac2xGeWFJbmlfVmdkaHhYY09jZ0FvVzU3RGhyeWM2ZGV6ZEhVNUFLRzcyZWpJOHRKNUx1MHUtTWJUMzVCbFNKZ3o5QVBqUnVhZ1dpajJ5aXdFOXJQR0t6bU9xczYzWHc?oc=5"
         }
     ],
     "transfers": [
