@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-08-19 02:09:44",
+    "timestamp": "2026-08-19 03:35:54",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "The Guardian",
-            "title": "Premier League 2026-27 preview No 14: Liverpool - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ21fUnZSWHlYdjlmem40X3laRU1jZ25Yd0RXbG9Wb1k0Wm5YTmpReGNhV1ZyQjZmaWstc2FBeFJfWjJzcVloc2p2YW0ycjBnT0lXYWotUjNFNkZOWTE4Rm53RUVvR1VBOHhRTG5iaUZsbjk4ZlB5OGh3ekF2RkpVT21iREZTTFBIUHByeVpVVHFsdGpiYmNGaGh5MA?oc=5"
-        },
         {
             "source": "The Telegraph",
             "title": "Premier League club-by-club guide: How ready are your side for the new season? - The Telegraph",
@@ -19,6 +14,11 @@
             "source": "Sky Sports",
             "title": "Man City's Community Shield defeat to Arsenal revealed the scale of the job facing Enzo Maresca on eve of new Premier League season - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNQjJMUmZ0VDI3ZEVHRlpheksxQWViMTl6UnlITS1lcThFZzRQMlhEVkJpWkxtaWdkSXZqSzlTVEgySWNPTmhLOUowRi1yb0VYdFJZcUdGUm1VOHFwMW5vaTRYdDNSSXI5UVdJTGVFUmRyemZNdE14bDlGRUJHYkFud0xXWVlxVEx3dEtfM3pTT3RJSjFoSnQ1RG55X0hwRzhjUWRiUTF0UlJkYllNWUVKNmdyYk52YVRjNlBSU2k4VklyZ2ZwMGxOcnV5bFhQU2d2Y1pKeUNEU2hCRHZWNmNkQXY2Smd2cDhjM2NWckM0UmU4bWkwNGtxaXg4VUpEdEt6NFlraUhDdkx6RmFRWnJhQUE3TQ?oc=5"
+        },
+        {
+            "source": "Sports Mole",
+            "title": "Arsenal vs. Coventry: Mikel Arteta reveals how he aims to build \"best\" club in world as Premier League opener assessed - Sports Mole",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS2RuVEdabExMdXVhUGNmd1BCYkYza251YlFxSXhnVnhFTlU1QVlqOXk1SlNwM3d6bjhRLTdFVU9aYVZuX1ozRzBqc0xXSVJlYno5OXlxazZKSDdOdnBSUEpFdjVrdzVSRnlRQ2lvQXd5c0JENFU5UzhCV0JDc3ZtWkZNQ2VNYXlJaVZFUHRvdmFXOUFjQm9yNW9VNFVqTjRIUU1jRjBKOE02dE4zWEI3RVdrTmFfZkI4YkRXMlA4TDlxNS1WVzNFaFVlNGtFcDRGTFRJNDVCX1MyT1JlV0d5cWZEcF9Tdw?oc=5"
         },
         {
             "source": "readliverpoolfc.com",
@@ -36,18 +36,18 @@
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHotbmxiek1xcEdfX2xvUzRmcThxZ29TV3FtNHE5dUJaR1Vnc2RHd2hNVFhKb1lSd3lydUluYjZUTzNHTmZIVEoxcDd5NVpvcXBMUnJTenUxS19oT3VKazFOaUllemNzaHdZTGVYS3hSR2pjRV9wT2NrRko0Z0VLcHQ3dENnWDJEeS0wMEppem83SDZPOVcyMDNUa0pCWkpScmoxckhOeF9VZw?oc=5"
         },
         {
-            "source": "nytimes.com",
-            "title": "Newcastle in talks to sign Nico Gonzalez from Manchester City - The Athletic - nytimes.com",
+            "source": "The New York Times",
+            "title": "Newcastle in talks to sign Nico Gonzalez from Manchester City - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3E3QzVIal93R3RMUW4zbldTbWc5aGZicVZUbVhnb0ZzcEJ4Mm95MVJZTVhFdzR4V0w0clcwWUFfV1Bxek00QjV6UXZJYjJmbHZlNHF0SE1ObDdmblY0YXZGN19WdkR1YW5yLXB5azczQ241b1B5OUlfVEs4R0lNbmxPM01abFBmYW8wQlpld05VbEF5YUNUVGJB?oc=5"
         },
         {
-            "source": "nytimes.com",
-            "title": "Tottenham goalkeeper Guglielmo Vicario joins Juventus on loan - The Athletic - nytimes.com",
+            "source": "The New York Times",
+            "title": "Tottenham goalkeeper Guglielmo Vicario joins Juventus on loan - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEpybVJnbDQ2ZTl2bEFid2NuQ1BxZDlocmNnRzM4c0tzQVZ0MFpmMHJveC0waHlzajdISWl6eXA0cDJWSm01TFRxWjVic0Fham9VQ01Fc3BUMUtqM1NEb3hWeDd1ZVhSbksyekxfcktGTnV6WDE4ODh1a0h0Nl9yd0NYWnVCZmh4TzVtRG5EMmgzQQ?oc=5"
         },
         {
-            "source": "nytimes.com",
-            "title": "Aston Villa set to reject formal offer from Al Hilal for Ollie Watkins - nytimes.com",
+            "source": "The New York Times",
+            "title": "Aston Villa set to reject formal offer from Al Hilal for Ollie Watkins - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzJYQUZ5aTZBblZzS05uUll0djNCUjY3bmtRWGRzODU0amtIZFVsUU1jQzJ0aGhKQm1VU1NUZFFjZDZhSndaRWdPWGZmYUdCTkZ5VE41N280STN4d0x3V2pBUVJ6NjM4aVVhQjdtRlptR0xSdmdXWmZHMmo0QnVIaTdvdkpHRkt0UFUzNWMxR25fT1JfTXU2ejliZmg?oc=5"
         },
         {
@@ -62,48 +62,48 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWFya19GN2lCNEM5WURyN0R2VktrOGsxZkhZOU5tb19WckNaRDluUlFXQzJwY3FwWmhwX0hTRnVYYVl0ZWZWZkZoRUc4WS1YQUdNSWFVX3ZBS09iUFo1ME5IeXVpTS1zLURzNTZHc2FCWFJxQ3hoNm9kYW1vbXloQ19YWjVmbW8?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "오심 논란 숨기지 않는다…EPL, 심판 판정 ‘성적표’ 전면 공개 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BUlJ0Q192c0NMZk82NzJ0N2FqVEREZjdOcHN5Z3NjR0hTREkzaTQ4NHE5TWNDbTMyV1h6STNYbXExbWMzQlgzX2h3b09oWjhKcUluRDBwY2lFaHFOY3fSAWNBVV95cUxNVzVnakx3TGdwdDJKWGtNYkhOb1l4YWJoTVI5Y240TzZmSTJOa2FwYk9mWXpBRGVjZFF5bE5DNEQyNzJDVnpTb1U3aWZPYTBlaWhFZW5BVkFJSmF4RjlwaTNwSEE?oc=5"
+            "source": "조선일보",
+            "title": "\"'눈물' 한국 축구는 '0'인데\" 'BBC' 확인! 일본 대세 꽃미남, EPL 진출 임박→무려 11명 시대…'승격' 헐 시티, 나카무라 영입 '화룡점정' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXVleWRlcjdQb0pxeWRRWEdacVpnN21nbk5sLWpGQTh1YnAtOFp1TzdLUURSWW15QVB6b2hIdkVsc2Vlam8zdnhpTnBUQ3B6el82Y01VOXdEcm1LdElmWGlGOUZoMkZCY3liMGF5NWJ5bkt5MGF3N2Y4YWdsUmMzemZ0NUtienNjNEZv?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "“일본은 EPL 선수 9명인데?” 英 언론도 깜짝 놀랐다 “한국은 손흥민 떠나고 EPL 선수 전멸” - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxY3A1blpleENRUW9FTFFMeUJhLUFLYU5jcE5uOHBOUFpiWUNJSEpBLWM3U1ZNYnZzQkJMYzhkMmRHSW41MHp4WmhYVGtxTVhKY1JHNndkLTc4ZFNBVXZkWUxhaGxOSkdLYmfSAW9BVV95cUxQcXFteXczVFZEUHVCUlR4bFlsR2dqNjlWaU5vOHFxaGNDOTRpZ1BCWWhJQ0NWRkxnWTdQNmxqbEZDdHEzNHM2NDdsTzZHNVlUR1E0eDdzcWlka2Z6NmJBZUlmRE85Mk83WUVLekRNVW8?oc=5"
+            "source": "조선일보",
+            "title": "\"FIFA가 자폭 버튼 눌렀다\" PL 수장 폭발...FIFA 회장 인판티노 향해 공개 직격 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmZpZDJfMTBvdkFibURmMlFHN2RiWldMMFpYbXF6d09ZZGgycE8wUWQ2ZnFKNFcxTkliMHNmeHFnYWhmb0cwM2pZdWJ1YjhFcTZPUlFqbzJTbk4yTy15c3g1VTdyVWZKMWNkdWpkM3hsUDluZGw1OU1IcGRpa1lncm5aaUdvTVZITmpV?oc=5"
         },
         {
-            "source": "매일신문",
-            "title": "프리미어리그 새 시즌 주목할 신성 13인…\"이 선수들을 기억하라\" - 매일신문",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2Z0VIS0k4UjM0QnFxVUFSYk1kdlZVSmREemxfVkRQZWxVcWhFUUhXUXdqVXkxTFFoSjd6R1dHWF9JRUNKYXh6Yl9QMHBQVmZ6TlJ3bk4xQlloT2F6MzY4NktB?oc=5"
-        },
-        {
-            "source": "spotvnews.co.kr",
-            "title": "'프리미어리그 12골' 한국 공격수의 추락...\"황희찬 울버햄튼 떠난다\" 이적 임박→아직 원하는 팀 나타나지 않아 - spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85eTk3UF9LTmF3cTJzTjh3QUttcENFQkVWUXYxN2Jpa0pJSTl2eER5X1FXWk1KcERpOGNBbTR4MUVPeUd1N1ZEdEJZODNpXzBvYXkzRUZzQnJ6RnFob2lfZkctRWZjc05hUmF1dkJscWE?oc=5"
-        },
-        {
-            "source": "연합뉴스",
-            "title": "로드리, 맨시티 떠나 바르셀로나 간다…BBC \"이적료 1천248억원\" - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XLVU3cGRnZ25sZ2xFUWZGdkhfRndqMnhCN3dFYk9uTnVPeFJpamdsVEJzRHRFN2E5eVRPSWJzN3A4QnI4dVhydTRVMFVHNUktRWllZWVwczN0Y0nSAWBBVV95cUxPTmp6cGZCVjVPc2ZGck96ajR1TlprWG02ajdUeFlCMXNMQk9yYW8tZks5bTE2MzFkaGN0TVFnd2tRUmdjUjNXOVFfNGdpbVIxVlVTNWlmYUhrY1A5eTNCbnA?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "\"'눈물' 한국 축구는 '0'인데\" 'BBC' 확인! 일본 대세 꽃미남, EPL 진출 임박→무려 11명 시대…'승격' 헐 시티, 나카무라 영입 '화룡점정' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50SGozekxBZHZCNl9QMGZ6a3k3UjNYQk5aUXdBaU9xdEQtYW90ZmdhcXgyeGJjQkVWV2xlcHVPeU1jSUIxOUE5X0p2OFJEY1RTYVFyRzhQdVZrcHFYcDB3Q19BbXNCT2ZpSV9OQ2w5R01BWjdHdndtUEtZM3pCZw?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "‘韓 프리미어리거 0명’ 결국 현실화...팰리스행 제기된 황희찬 이적 무산 “이젠 HWANG에 관심 없다” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZdmFxUzM1bFR1QVN0NFdhLVB5QjdWWDJkUExPaHRSTVI4RHNKbjdUdHJwbXRvd2FwakZwYTdTY1hkTlZkdTE5Q19qSEtJUERFSmI2NEJRckFFTlAyZGdDMm41NGdKazFxbmhtV3BrQ21DVHRO?oc=5"
+            "source": "조선일보",
+            "title": "\"7년 모두 소중, 언제나 마음속에 품겠다\" 바르셀로나 이적 확정 로드리, 맨시티에 남긴 작별인사 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGNPNjJVM1BfT25EdWNRTTZjUFd5OUFma0F0YUhhdjJvOFlLSkhHWG9JQ0pJWHNYa1YxVV82bWVsMnBBaVJRaU9maHNPd3dXUUxmS2JsTWNwa1pXa01YY1VnM2hHb1RlMm5KZW5mYzVocVNaNXRYaEpBbzRCWDJOeDRpNVhEbm42MjFF?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "日 축구 새 역사 탄생! '혼혈 GK' 스즈키, 프리미어리그 입성 HERE WE GO...\"이적료 최대 574억, 빌라 이적 합의 마쳤다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wRWNrem1JbS1wMkxHQ3NMbzFPWmM0SnNHbDZOWmN3V2s1eDJtUjNQYjJNZTVQOGxZOXdDRGJLZUJUSWczc2c?oc=5"
+            "title": "\"韓 프리미어리거 시대 끝났다\" 박지성→손흥민, 21년 계보 종말...\"日 태양 떠오른다\" 일본은 사상 최초 'PL 10명' 시대 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oQWN4NUVfQzNGQ3JZRHlTS01LRFV6WU9iYlUzREdKQWRxUlVFMkZNaVlNUVQya1pIaER5Umc0SFkyQ25ySW1sTWFEdEdNRUk?oc=5"
+        },
+        {
+            "source": "한국경제",
+            "title": "\"한국의 태양이 진다\"…외신의 뼈아픈 일침 뭐길래 - 한국경제",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ZHZfZGVLdzFvS3RPVnI3LXRUbzdIWUwyWUk4bnV6TXlJV3U5ZjFJYVlVZ3drWXpaTi0zSXA5MHNkWTJXdUdUaVA2cXc5QjM1Qk5Cd19XNzgxQQ?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "'한국 1-9 일본' 韓 축구 처참한 현실...박지성부터 시작해 손흥민이 만개시킨 PL 명맥 끊길 위기, 라이벌 日은 역대 최다 9명 - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tYlYzMDIxZERBUWVEb0xyeExJWDNMVE9iMVFmWkx4azU5RVFYaHpYTjVYdnRiS05NTVMxSTBMNFZHOS0xdjkxejdTZjcwMmtXZVZ6Zm0waWNnbmMyanJNS0oyMmVoT04tcUx5N09oeUl2OERqanc?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "남은 수술하고 불운한데 일본 축구 또 웃는다…“스즈키가 주전이다” → EPL 첫 일본인 주전 GK 현실화 시나리오 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PaEpTNjBpejY4RGJvYmhQMUFFdnVQRDd5Rk1uRDFqd3JOczVvWGF5a3NnSWx4ajB6NklGYjVkSXNEUENDLUlNNU9YZndsWjh3S01PTUgtTnlqMExGQzRRamlxVXVYejhSMk1oS00wMjU?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'이래야 EPL 가는 건가' 日 혼혈 GK 미친 벌크업→\"유럽서 살아남기 위한 선택, 프로의식 대단\" 팬들도 감탄 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLdWF0M0RKQ0IxSmlPRXNpMDVZeFdXMVdrOGZ6TzRPYUpMSS1DZUVOakE2dm85Ul82cHAxOVVrR2VlT2R6M2c?oc=5"
         }
     ],
     "transfers": [
