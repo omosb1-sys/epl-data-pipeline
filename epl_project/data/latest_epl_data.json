@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-19 23:12:01",
+    "timestamp": "2026-08-20 00:31:07",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "premierleague.com",
+            "title": "New match officials confirmed for 2026/27 Premier League - premierleague.com",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlFqVUdfaVV5V3EySVVKM2VSeTBsbVpBTV9VZE81VWRYWG1KUHFZNWp2QW1QTVVEZzFyMVVLUDJ1TDRXeGYydWpzbERWT0t5eERUNnQ4T2ZmT21uMFlXOWJuM2h2R1dxM2xkelYwVG10VG5YU25RUGRld1pTOVZ2Y25aeVRscGFjcGlubTY2OTN0X3BEdEQ3bTc2dW1xd09rQWNB?oc=5"
+        },
+        {
+            "source": "Sunderland Echo",
+            "title": "Premier League confirm new VAR stance ahead of Ipswich Town v Sunderland - Sunderland Echo",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhpX3BvQmpHU01wdk1NY2JfY1UwVDNSSTc2UlJNRDYwd3I3bElJZzJqX0lCOUVHRXBCM3d4YTFkaEhwaDROQ0RwRVJHSnNUdnBmcHFsUC1yOVdqZWpHcmxmN1dvV0tDRm5HX2xOVUtJQmFPTlg1TDNDOWx5N1dSeEFRQWN2VElsRFBuMzdpbV9fS19udUdFckY4VjY0OFBrVzZlcDBTY1A?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Premier League 2026-27 preview No 16: Manchester United - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmJVMDBxdDUwQ2JPR2RCaE5JOXVHVWtWMEZ0djJMV2doUENJY0ljVkdBY0YwMHh1VWVuNlFmc0hqbkUwTmZueU1RR0N3RF80RkZPbGJ0eXJybmpUU3Y1VEVpV0dESGVSbzdjZV9tOTY5LXpGcnFOVVl6LXVJY2R6MWFvSXhtQjdDaU0wblBoZy05cF9JbUVHM2xUWEZ4ZG5LdDd0OTFB?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Paul Merson's Premier League season preview: Who wins title and finishes in top five - and who are relegation contenders? - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMjlxNkl1SmRIZFd2ZXlJbkpyVEUtcEhxa1haOXN4VU4zY1dEdlBGXzI0bGRHWUg1OHZ3OFVUMGlxRkwtemU4ajU5WndZN04xUUNGUGdqZ2w4bTVibkpDR01qUDBKWkxmV3JURy1ZaHBDTkZFb0R1UlVYNV81SGdqRkFXTDBWR0o5R3FtQWwxSl9ycXZNWWtQQTdVY0REdHR0ekRwYnJFUEtoMDZGbzg5R2dCNFpCQkF0SFkyRmhxZUN1S0lzcUFQbUtqYjhIU1RaSkg5WkwtUFA0UHR4SEhEekdEMlYxV0EyLW1NRU9xeGVwdTRxNFowbFRlanctRy1r?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for £50m-plus - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ObjZmMy1vaXFPQXl5b1MtazJqT081S1dRMkgzWHlPUDVXZ3lwQlZjRVBoSDV6Vy1PYWoxY0pveGNsMENIeE9rWnpMV2hwLWlLN0wxVDBnLXVYWjduZU5DM1ROZ29HR0JXdUE?oc=5"
+            "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkxFdkJya29tYmhvdThDLWkyWmsxNUIwc01VcUs1UEZwV05sWm5DWDF4MTVOeEk5VGVOWWR4bkw3OTI5VkNGRlVId3YyME1XUGdmcU5ZWi1uTVpWYkhvOEFCdS1WaW9MTVVLeFc0Qk9DQ1RwVzNDSVozYktqRjdyNjgxRFZvTUV5ejBDejNCemN3YnBhY0syM05wZXNLVXcwdm12SXI4UHREOGFoT3NtNzVHMkZXRzFuWkZsTXlDNDRFRkNHZmQzZG9PQTd2UQ?oc=5"
         },
         {
             "source": "readliverpoolfc.com",
@@ -26,8 +26,8 @@
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW5Ddmc5MUVIVHRSVV9FSjg3T0NKaVc1VXRUTk9PeWp6a0N0QlhMVUFoLTdhRElJMFpPNXBzMGpRQ0VwLWd3TDNub3YyMXJEanpabno2M21aLXd6MEQ1c21ZQTIxQVNVcmJEM3JISjdsejJlaU05QWNCeHBfRXpSVWp2UFR5bW5uMm93SG9HYjJpaDN1a1ZmUXVVekZyYkNLYkF4Uw?oc=5"
         },
         {
-            "source": "Read Tottenham",
-            "title": "‘Today’ – Fabrizio Romano confirms Tottenham player has agreed personal terms to leave - Read Tottenham",
+            "source": "readtottenham.com",
+            "title": "‘Today’ – Fabrizio Romano confirms Tottenham player has agreed personal terms to leave - readtottenham.com",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1Uzd3JmY21WTkZ4OFZ5VmdGVXdFNEx2V2VwZ0stMktwNkUxTUJ3Z0E3NzZUVDYyX0Q0dHpQRnJkd0Y0ZmFEYUFmcV85cnN1OUtXWXhRWnM1akRqbDFwRFBQYnhpODlWX1dYWEUxWVItcFl1RGlPN1JJYVVjNWlnZHowNXI0eDFKVHg0ZF9MclVWaGIxZlZNb3FWd3p3V0Z0Sm1QZC00Vi1udm9QT0JRYm1FZEk4d0h2dzhTcg?oc=5"
         },
         {
@@ -56,8 +56,8 @@
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Fixture amendments for Premier League matches in October and November - Premier League",
+            "source": "premierleague.com",
+            "title": "Fixture amendments for Premier League matches in October and November - premierleague.com",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
         },
         {
@@ -86,14 +86,14 @@
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2Z0VIS0k4UjM0QnFxVUFSYk1kdlZVSmREemxfVkRQZWxVcWhFUUhXUXdqVXkxTFFoSjd6R1dHWF9JRUNKYXh6Yl9QMHBQVmZ6TlJ3bk4xQlloT2F6MzY4NktB?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"FIFA가 자폭 버튼 눌렀다\" PL 수장 폭발...FIFA 회장 인판티노 향해 공개 직격 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PT0VfQ3dkVHYzdlhhYU80dkV4QWJ4cURKbjBMYTJSYkcyMHBQbmY5NGhOZ29wOFBwdlJPSGhXV2V4SU9BUndiZE1oZ0dnXzQ?oc=5"
-        },
-        {
             "source": "한겨레",
             "title": "한국 선수 사라진 EPL, 22일 개막…일본 출신은 9명 - 한겨레",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jQU1WaVV5RGxfRjBEUG1CekdkZGxEd1VaNVFJMlBkWFJOS0EwZXQwckhkbnZQNERaaDNhXzRfV09jNHVHM2RCeWxUdE02ZVVXYlYzQWd4NnZBY0l3WU5ROW83dmU?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "\"FIFA가 자폭 버튼 눌렀다\" PL 수장 폭발...FIFA 회장 인판티노 향해 공개 직격 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PT0VfQ3dkVHYzdlhhYU80dkV4QWJ4cURKbjBMYTJSYkcyMHBQbmY5NGhOZ29wOFBwdlJPSGhXV2V4SU9BUndiZE1oZ0dnXzQ?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -101,8 +101,8 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BUlJ0Q192c0NMZk82NzJ0N2FqVEREZjdOcHN5Z3NjR0hTREkzaTQ4NHE5TWNDbTMyV1h6STNYbXExbWMzQlgzX2h3b09oWjhKcUluRDBwY2lFaHFOY3fSAWNBVV95cUxNVzVnakx3TGdwdDJKWGtNYkhOb1l4YWJoTVI5Y240TzZmSTJOa2FwYk9mWXpBRGVjZFF5bE5DNEQyNzJDVnpTb1U3aWZPYTBlaWhFZW5BVkFJSmF4RjlwaTNwSEE?oc=5"
         },
         {
-            "source": "yna.co.kr",
-            "title": "로드리, 맨시티 떠나 바르셀로나 간다…BBC \"이적료 1천248억원\" - yna.co.kr",
+            "source": "연합뉴스",
+            "title": "로드리, 맨시티 떠나 바르셀로나 간다…BBC \"이적료 1천248억원\" - 연합뉴스",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XLVU3cGRnZ25sZ2xFUWZGdkhfRndqMnhCN3dFYk9uTnVPeFJpamdsVEJzRHRFN2E5eVRPSWJzN3A4QnI4dVhydTRVMFVHNUktRWllZWVwczN0Y0nSAWBBVV95cUxPTmp6cGZCVjVPc2ZGck96ajR1TlprWG02ajdUeFlCMXNMQk9yYW8tZks5bTE2MzFkaGN0TVFnd2tRUmdjUjNXOVFfNGdpbVIxVlVTNWlmYUhrY1A5eTNCbnA?oc=5"
         }
     ],
@@ -116,7 +116,7 @@
         },
         {
             "player": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim",
-            "date": "2026-08-19",
+            "date": "2026-08-20",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
