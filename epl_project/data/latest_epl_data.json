@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-22 20:09:01",
+    "timestamp": "2026-08-22 21:10:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Telegraph",
-            "title": "Same old Spurs given reality check of epic proportions - The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFlMQTFESExnSzNSeTV1T2JyNThCb3FPa3g0UlFTMmdNT01DR1NtZ3NPMVFlNU8xSkVnU2FXN2RacThtTFlUbDUyUUV3SkRzUHd3Q1UzN2NXN3RqZi1PaDc3MkpHSjF2VFAxVzg4dG1qNzNrQlNLbG9tTnB2R1BNRzBKQ0NseGRvSWZqWnRyYXFPSnNGUUxXbW8xanFJaE5jM1JHY3F5OTJxUUtP?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Hull City 2-0 Manchester United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODQxNi1oMDlJMmt5XzBrNHFqd2xCMFhqRERQYXlmZVNFTUFIY2VrZ3BsTXJhZE9PQzd2VWN3enZBSHZfRkREZkpyemJrLUhZYk10MkxTYmRKT3RhZ01pbkpLNGZXYmQ0bjY4SEdhanZtSmhNRm0tXzRzWmVBTlI4S25HdzZmLTJ6Tk1HZE5OcWJpUW1ZRWw2WEJ1ZHdodW56YUhGTmlR?oc=5"
         },
         {
-            "source": "Liverpool FC",
-            "title": "Photos: Behind the scenes of Liverpool squad's Premier League media day - Liverpool FC",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1hQN3ZkMnd0MnFBZTNENjRxSWtfaHUyX2xRWEVNUC1hbWh4enc5YWlIQndjd3kteHJqVUpETWg1UnFhODVPQ1FYTU4xT3dKZndEUktidEN4VFM3MVR1UFU5dFlBb3h6Q3FrNG1qa3ZqN3gydGkzcXdqSHVvOGZ5bkxmd1cyeXNZRDRiX0sxb1duc1N5S2UyWVp1UdIBowFBVV95cUxOMnFDUzJHQ0U0OUNuckhONU9rZlpGWWQ4RVlJSGFVZ2NtTjRoVGJOT01WWllseFB5ZjZJaF8xemRmWE13OGpNU244aHY2SmFyNEg5ZDAxOFVQaERNdkVvTU5BUWtfd3lIOW9jbnhzLU81TlVWN240cjZkM25BdFZxS0hGNGtVZkZCQzlhQy0wUHRody1VdFNiNWt5SXF6cFhXZEpz?oc=5"
+            "source": "BBC",
+            "title": "Brentford 3-0 Spurs: How the players rated - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1veVl3VkpqNHAycHo4bkNoMDNaRTNpNmV5bVFVYlRwaFFlU3cweHBQSTQ2M0NheHNMR25zenhWUTVJdzdMTXpORVowdVhEcWpJNDQtc3BUNFRQT3NvNGxHc3Z1bUR1dVRVdGc?oc=5"
+        },
+        {
+            "source": "East Anglian Daily Times",
+            "title": "Matchday Recap: Jack Clarke wins it for Town against Sunderland - East Anglian Daily Times",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFQ0Vkpwa21icEM4N0pJdDVuSGttZmlVTGJFc19BV1gtVEhxQ1ZpdkxRNFhRay1UMGp0MVhxb3JHSzJoUU41SWZmTk5YdUpQNU5Za2Q0cjN6eDRBbUIzWG9jTnpkTVNLbkl6eG5ya2pvR09HeVRQalNKeFl6ZWthbkloV3d2SDZfUVlpd0ktaUpHeEttT1I4YTFB?oc=5"
         },
         {
             "source": "LiveScore",
@@ -66,19 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "EPL 한국 선수 0명 위기…박지성부터 손흥민까지 이어온 계보 끊기나 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OU1dKR1RGdHpwcDdha1YyenBSaGw3T3lOQ0dadEN6VEEzWmVGWllha3cxRklraVp3b0tKSmdXMk0wMXdnVVZRWmo4c3VnLWMzT2FHTHJldHJSUGRBUWxLctIBeEFVX3lxTFBnbUFHYTZncGM3eU00YXVHSG84UlZyakJfeDNaUUVTMmNhRUtlZTJwOEZjQTAybm94WGstLUVZUENiQ1dSbi1BXzBqZndHYktkQkloNDlZbU9QcFZhcWdtWGppV3NjNXNCQlJJeE1IVnljYjViby1QMw?oc=5"
-        },
-        {
             "source": "뉴스1",
             "title": "21년 만에 한국 선수 없는 EPL…낯선 2026-27 시즌 개막 - 뉴스1",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xQUZ3NDVsQ0pGQm5Jd0RWSUI1TkJqdTh6R0lKOGY5TTFYTmVMSVhpYlJkb1IxU0VzY1lFbl94b1ZPcnBEZTJvaWo5Rkw1T0s2ZEM3M2VrUzVjS1pqN3JUYdIBZkFVX3lxTFBqa1kyTlFvWHRDWXJmSFlVcVNpRldocVc3VVhvNFYxV192Unk3bWFycmlfRW9ONmp4WVRxNlptRWlIR3VlTVIxS2FRSE5ZUmVXN3V2UlJYcE05dGEwcUE1cWVGM3lZQQ?oc=5"
         },
         {
+            "source": "뉴시스",
+            "title": "EPL 한국 선수 0명 위기…박지성부터 손흥민까지 이어온 계보 끊기나 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OU1dKR1RGdHpwcDdha1YyenBSaGw3T3lOQ0dadEN6VEEzWmVGWllha3cxRklraVp3b0tKSmdXMk0wMXdnVVZRWmo4c3VnLWMzT2FHTHJldHJSUGRBUWxLctIBeEFVX3lxTFBnbUFHYTZncGM3eU00YXVHSG84UlZyakJfeDNaUUVTMmNhRUtlZTJwOEZjQTAybm94WGstLUVZUENiQ1dSbi1BXzBqZndHYktkQkloNDlZbU9QcFZhcWdtWGppV3NjNXNCQlJJeE1IVnljYjViby1QMw?oc=5"
+        },
+        {
             "source": "네이트",
             "title": "'골키퍼가 볼터치 가장 많이했다'…맨유 시즌 첫 경기서 승격팀에 충격패, 브페는 전술 저격 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43RGFiQTltajhyZlpkRDJsNGZjcl9ybWlJa0VUYklhcnQ5WGJkaGVta1RINy1MbEs5UXAzdTBtVkJFdWdJd3ZLcDNZWnJKM1NMUVNhZmJjWFlTelZS?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "[PL ISSUE] 9년 만에 돌아온 '호랑이들' 헐시티의 반란…1부 역사상 처음 맨유전 승리→\"사람들 평가 안 중요해! 좋은 시즌 보낼 수 있을 것 같아\" 자신감 얻어 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UVERGTnROUjdsdkEyZDFwcy0wNlRqOGc4a252andoVmhjR0RWNzJyTUZLOHdaZEtDOFFCbjFDV1ljUVpsVHFPNUZnTzVfX2F4bnJLRmpSMDRCSGpz?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -99,11 +104,6 @@
             "source": "fourfourtwo.co.kr",
             "title": "[오피셜] 7번 손흥민, 7번 이강인 따라잡을 수 있을까…日 에이스, 프리미어리그서 ‘등번호 7번 변경’ - fourfourtwo.co.kr",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UmpRWXVkMWdjdjNwZHNIbFVoUkg5bGFZd1N2dHRWYmJOSHRYT2JFZjZvT1FFMnhid2t5ODJmYzNNYmRaaFlGVXBnUS16M2xGdU1qRW5YNVdIUUJTUTJIUHpTNG9sN1REMDdmMHJPTGM?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "‘펩시황’ 떠난 EPL, 26-27 시즌 막 오른다...디펜딩 챔피언 아스널에 도전할 패자는 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemMxT0k1TmJVTWViNUJrMlhzMDN0UWVGemxaLW04blNRd1JpQXFtVHhfeF83NUFPSTN6TzM5Z3hTOWtJR0dzNVRVWEZxVzdMN3RWaVJGQzNxaTFkQU4ySi1oS3kyMkNWeG8xLXdLVm45MFE4dXAzbEVSRnM1b1ZPTkNoRnQtMTRGRHBB?oc=5"
         }
     ],
     "transfers": [
