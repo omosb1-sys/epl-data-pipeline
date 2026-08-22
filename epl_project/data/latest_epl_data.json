@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-22 18:11:46",
+    "timestamp": "2026-08-22 19:13:49",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Brentford 3-0 Tottenham: Big-spending Spurs start new Premier League season with dismal defeat - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVdudGFScnVrVXY3RDcyNmtkUTQxU3ZuYnV4Wm03cVhxWjU5bmVFakhJdDAyd25JVVZQbUxNaHF1blpwdEdGRWdXYWZZdUx6NExtVHJGNi03VXJ0TmZkQnZXd3VKNWt1Rm1EdU83SFQzc2I3ajFXWHZUQUh5ZThmQUVjTnZGWmYzWkJmOElJTENrekdCYmhmcVlhUmZVbldycWNodFdYSVlSTE0zRHdTbGdxQWphU1drX1lidHdSWDg5YUgzUWtOcFZvckluLXdfbkZlNXdDRDZPZ1NjZWR0dEZ3?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Hull City 2-0 Manchester United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODQxNi1oMDlJMmt5XzBrNHFqd2xCMFhqRERQYXlmZVNFTUFIY2VrZ3BsTXJhZE9PQzd2VWN3enZBSHZfRkREZkpyemJrLUhZYk10MkxTYmRKT3RhZ01pbkpLNGZXYmQ0bjY4SEdhanZtSmhNRm0tXzRzWmVBTlI4S25HdzZmLTJ6Tk1HZE5OcWJpUW1ZRWw2WEJ1ZHdodW56YUhGTmlR?oc=5"
         },
         {
-            "source": "The Telegraph",
-            "title": "Brentford vs Tottenham live: Score and latest Premier League updates - The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFlMQTFESExnSzNSeTV1T2JyNThCb3FPa3g0UlFTMmdNT01DR1NtZ3NPMVFlNU8xSkVnU2FXN2RacThtTFlUbDUyUUV3SkRzUHd3Q1UzN2NXN3RqZi1PaDc3MkpHSjF2VFAxVzg4dG1qNzNrQlNLbG9tTnB2R1BNRzBKQ0NseGRvSWZqWnRyYXFPSnNGUUxXbW8xanFJaE5jM1JHY3F5OTJxUUtP?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Ipswich vs Sunderland LIVE! Premier League score updates, news, prediction and lineups - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORVZRbWNrNFZTLUZuVXBfYnIzZDh2MWh0dGY2QlF0QV80eGh3SDNaMW43R2VuZ1lLQ0tmb0RqcFNSSWpwRi1YS1IzSjUteE1YdjNpZzhLVU9iTG1VQVFfZnVFUnpnNHM3TkRRalhhVDdma2YzWC1tcklZOURENjBvM2JDZlJydGNyQXdlVUlNLVVPaUFsVHV2M29IZno1OWFNckxNYk5hTE92SzRKVU9ycFN0YUlNZHBaM1ItVmFSLWt3bFlrTUxwX2FTNFFlU3p3c011Q0RpZmdUS28?oc=5"
+            "source": "The Guardian",
+            "title": "Burnham’s boys enjoy visit from Palace as Everton ease to opening day win - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDVyOWJCbXJvVDVFSVVES25MNGlRdkQ4Q3ZrTGlFOGFWdzJWU1JUYzFnRGVTZ1VvbDhyMUtfVU0yejRkYVFxc3pNNUJybTdzeGFVX2plRlFmdXBwb2hDQUkwcGJOTnNkYmxYaHFrTm1vWk9VX3hERlZzQ2NXUlNzTl9tRDZ0QkpoZmVGdlI2MnMtZDljRE1QLTlLQVZRZ25s?oc=5"
         },
         {
             "source": "LiveScore",
@@ -52,13 +52,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
         },
         {
             "source": "Premier League",
             "title": "Fixture amendments for Premier League matches in October and November - Premier League",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "뉴시스",
@@ -71,14 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xQUZ3NDVsQ0pGQm5Jd0RWSUI1TkJqdTh6R0lKOGY5TTFYTmVMSVhpYlJkb1IxU0VzY1lFbl94b1ZPcnBEZTJvaWo5Rkw1T0s2ZEM3M2VrUzVjS1pqN3JUYdIBZkFVX3lxTFBqa1kyTlFvWHRDWXJmSFlVcVNpRldocVc3VVhvNFYxV192Unk3bWFycmlfRW9ONmp4WVRxNlptRWlIR3VlTVIxS2FRSE5ZUmVXN3V2UlJYcE05dGEwcUE1cWVGM3lZQQ?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "'충격, 승격팀에 이렇게 무너지다니' '정식 사령탑' 캐릭의 맨체스터 유나이티드, 9년 만에 1부 컴백 헐 시티에 0-2 완패..'맨유 세트피스 수비 와르르 붕괴' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOaFpwWVk3bFB2YmxjcllYWlRVR0lHb2NySzF2OW0tOEsxOUxKTG82Ry1qYjVicjFFWmtrUHpCdGllOGQ4UEFQbm41YXZTR2VmSkxkQktVM25Jc3k4TlVaa3ZBaVlzRXAzckRFbnpPamFXU3MyNWRfTHRFRm1uUQ?oc=5"
-        },
-        {
             "source": "네이트",
-            "title": "[EPL 리뷰] '이럴 수가' 맨유 최악이다! '승격팀' 헐시티에 0-2 충격패…'케릭 체제' 26-27시즌 1R부터 졸전, 세트피스 두 방에 당했다 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSklqb01VYmZCTEpGNG8tbTZrQlllcllHNGR4eUstT2FmSDlnTWI0Z1VhcVZBZ1Rpa19aR3l5ZGNKaW9STURtZWRtOHAtVFBPQ2Z4enp1MU1ZdzFvVWpwMlZveW5YNGc5endNQTd1N2tNdkNVMHc?oc=5"
+            "title": "'골키퍼가 볼터치 가장 많이했다'…맨유 시즌 첫 경기서 승격팀에 충격패, 브페는 전술 저격 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43RGFiQTltajhyZlpkRDJsNGZjcl9ybWlJa0VUYklhcnQ5WGJkaGVta1RINy1MbEs5UXAzdTBtVkJFdWdJd3ZLcDNZWnJKM1NMUVNhZmJjWFlTelZS?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -99,6 +99,11 @@
             "source": "fourfourtwo.co.kr",
             "title": "[오피셜] 7번 손흥민, 7번 이강인 따라잡을 수 있을까…日 에이스, 프리미어리그서 ‘등번호 7번 변경’ - fourfourtwo.co.kr",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UmpRWXVkMWdjdjNwZHNIbFVoUkg5bGFZd1N2dHRWYmJOSHRYT2JFZjZvT1FFMnhid2t5ODJmYzNNYmRaaFlGVXBnUS16M2xGdU1qRW5YNVdIUUJTUTJIUHpTNG9sN1REMDdmMHJPTGM?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "‘펩시황’ 떠난 EPL, 26-27 시즌 막 오른다...디펜딩 챔피언 아스널에 도전할 패자는 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemMxT0k1TmJVTWViNUJrMlhzMDN0UWVGemxaLW04blNRd1JpQXFtVHhfeF83NUFPSTN6TzM5Z3hTOWtJR0dzNVRVWEZxVzdMN3RWaVJGQzNxaTFkQU4ySi1oS3kyMkNWeG8xLXdLVm45MFE4dXAzbEVSRnM1b1ZPTkNoRnQtMTRGRHBB?oc=5"
         }
     ],
     "transfers": [
@@ -118,6 +123,13 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-08-22",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
+        },
+        {
+            "player": "Official: Napoli sign Chelsea defender Badiashile on loan with €20m buy option",
             "date": "2026-08-22",
             "type": "Rumor/Verified News",
             "from": "Unknown",
