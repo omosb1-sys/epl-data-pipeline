@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-08-23 05:18:30",
+    "timestamp": "2026-08-23 06:19:48",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Brentford 3-0 Tottenham: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVB2U0pELTgzY3p5YzhLVU14OUxXanVlYVQ4SnhDa09rX3hoX1NTSDhodjZtRVBPMG8wVDl0QzdqRG1rWUpfeDVDOS1Nb2p0MFFsSG1lWlllNkM3SmxsT0EtMTczcVRVQVdlemkyU2hmMVNJcmZTa3NOTEpReTl3dkFCb3B3MDVoM2hpUkRTRzRxT3JhbzRaRUdvaw?oc=5"
+        },
         {
             "source": "Sky Sports",
             "title": "Hull City 2-0 Man Utd: Michael Carrick's side left stunned by newly-promoted Tigers in Premier League opener - Sky Sports",
@@ -12,18 +17,8 @@
         },
         {
             "source": "BBC",
-            "title": "Man City will 'try to find the new Rodri' - Maresca - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95RUEzdW45dnZOYWg5ZHgxUFd0ejhHbXB5cmxCVlgtcE5GWjlfZk13RVNXN0NFbzdQSTkxb1diZHV4eVBDWVJ5UlFuR2RQYWh5WjhXOC1RckZtZWlDdWpOdjEwdVNlcEE?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League press conferences: Enzo Maresca, Andoni Iraola, Roberto De Zerbi, David Moyes & Unai Emery - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14amd5WmlzNkVhTWx2NUpvTGFSN1NGVWZxcVRabVRac2xBWE1FMS1JemJNOVFta193TFB4bkkzS08tcmc3dzV0NkVzRTlmZGZCT0F6UDVwZVhiOTlQU3Y4R29XWlVOQQ?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
+            "title": "Premier League LIVE: Fulham vs Chelsea - text updates, preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1dFU2V0dZeGZjZWxYQjVPREJzX0o1ZG94M1pZUHRvclVtMVdmQ1IyclNoQkFUV2htMjJONmF0Y01VZVlZbUJ1bG96TDAzVFlvVV82ZnpQWmQtZVFQXzZ3U3ZfNA?oc=5"
         },
         {
             "source": "readliverpoolfc.com",
@@ -34,6 +29,11 @@
             "source": "Football365",
             "title": "Liverpool announce winger transfer and Romano confirms another deal 'agreed' - Football365",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2lWUXhtVHNMcUYtM3hvY1NJMVV6bEpybkkxSEVUekxTRkhTaXVGdHU3N0l1M0l5WjhfRkFIU1VqOTFyUmVfemY5N0VlTlBZVkM5Q1Q3OEN4NXdDc2dIalhMXzFJclEydzcta292V0lCU19acEg3TlI5WXVySXNneUNnWFJlU1plS2ZIVm1BYlQ1R3pSOXg0VWlQbTBOem9lNzlxYm13cHJMalg1ZGllQ2JR?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "The deep fall of the once universally admired transfer guru: how Fabrizio Romano disenchanted himself - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSTN2a0s5TFoxSm5CYWNnWEQxQi1PWVVRZjVGX0Z6alRGUkpWYUh5UVhROTVJOVRSTGxiVFVHMW1lOW1tS3VvcjBtdjNZYkhjemZzWjRNR2xoR2tQNjRoMzNReThGTUFWc0FpZ0N6STZaaFNSazFpc2ltX2dxWlp5dmxPUkxrYzdQMkpvSXBYTWFoZTh4Zk5nVE82Ym1EQ1I1c2h0ZU9RU0VXa1VFOGVlMFV5TDNSYklTMDZmVnEweVVtNU5XWUZ2aU1sOXB6T2d5TUh2NnMwellZWWt5YmhacHJPd0w?oc=5"
         },
         {
             "source": "The New York Times",
@@ -81,9 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iaHBHeTNvbWtOdlMyZXFtR1otMC12RlVBQS1WVzdScXJDLWxicnRmeDByZmtoa3RpQWhEbk1Lc2tNdV9vRkxWMEdBU04xbE9yWXdNMHhVa3diUkhxZ2VBdDFWZkg3V0tDZEVLa2w5LXNNSC1qT1E?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "[오피셜]\"우리가 맨체스터 유나이티드에 벌을 주었다\" EPL 첫 이변의 주인공 헐 시티 감독의 자신감 \"준비한 전술 대로 잘 풀렸다\" - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZUdSVUFLNWYxbUR0Sl9DQTFtTVZ1ZXBIQjc2Y3hDRkZIdXZZLUZaQ0dtTGdidE5XUlVaTEZqREpzVHhSRkZJOE1EQllFLWtnUTdidGhQMmpoQkR1aDEwOG96ekY3WlVDeG9ZOG95ZTQxNzllVXdfbU5OMEhjdw?oc=5"
+            "source": "조선일보",
+            "title": "\"실바 떠나고 KDB, 페르난지뉴 떠나자 로드리\" 마레스카 자신감...\"이번엔 새로운 로드리 찾는다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXM1UFdGbGExWlcwTU1ocUpzVFhvSHNUV2J0OG5BcHpHUFIxTFpuVWNaNUNzT3FHQmRJV29DN2FjYkprX0R5TzF3YjV6ZFc2aHB1UHRYdW1YYmtBNzEzd0lpTHBaeVQ3UFRXM2g2M1lwejZJS0FSYlktYlRhajVxWEt5NjdPZWJxV0tJ?oc=5"
         },
         {
             "source": "경향신문",
@@ -91,19 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZGM3SkFwOVQzc2pmMmdlVUZoLUdSdi1ST0JrYmtLNmpEZnI2d2JPNElYVE9ZRVJwYlkyb0h3d0JsU2ladURqdTJTSzNQUGF6c3hrcVN6LXNhUdIBX0FVX3lxTE5ZNk84X2ducF9Vem4weURQVVpZdUtQNUFBVDBSNUZiRUVuMkhUMDMyb0RLTVkzcklaNDN1MlZ2RFYwX3N2S2I3OTF5LVB0ODFFZVdUVUpXa2JWbjRrYUtJ?oc=5"
         },
         {
+            "source": "스포츠서울",
+            "title": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’ - 스포츠서울",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcEhNdlZTMVB6RUdWbGo1S2loTHdiRWhZQlFjdzhYZWtxUkhnSkhDMzNnLXVVdUxUSHFYV01rYXNpSmdiVW5TejlMUHRJa3ZFUmZzYzNlV2o?oc=5"
+        },
+        {
             "source": "news.sbs.co.kr",
             "title": "김지수 빠진 브렌트퍼드, EPL 개막전서 토트넘에 3대 0 완승 - news.sbs.co.kr",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1FHOHcxS1JkdDc5S1RkOWlFT1lBUkM3TlpNdzYxWWhZUGlDT3hRMkl2bi1TVmQ3NXJzRHloclNzNWZFRXJKRFJjaFJ2SG9ZZTFVSVFhdERtSWNDWlFsb0ZMbEpTenE2MFpRQ3BJWU5uY1FBWXNRWkttVUJUZ05EM0NlMHgxaktqVnlWWm5CYw?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"억만금 쏟아부어도 '패배주의' 병은 못고쳐\" 토트넘,브랜드포드에 0대3 대패→BBC의 따끔한 일침[EPL 개막전] - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmlHT3RoODh5UE40dW5WUURtVDNJeDdmRFlYaXA3TjRrNGRGUEk1eUhmNVZ3QkN5MEl6ZkpRa0gwZmhieVgyUi1Za1JkNkc4RVYxNTh5eC1fY0JaMHRnYkpEY0hIeENZTS11R3VqWWVGdTlYTWFYTGRNc2hRLTBDRHk0a05vSXJGQjdJ?oc=5"
-        },
-        {
-            "source": "마이데일리",
-            "title": "`선수 영입에 4486억 지출` 토트넘, EPL 시즌 첫 경기서 브렌트포드에 0-3 완패 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByTjF2QTVQZi1EMm9TYk14T3A5c1pRbEtDczVMb1Job2xlTENmU1R3ZzNZNDRTUEs5cG1GS1VzWHo5Znd0eTlGRFNuVzZRdHVzVDZIclNIbmtfcWFFVktKZw?oc=5"
+            "source": "v.daum.net",
+            "title": "日 EPL 10명?…개막전부터 '0분 출전'→아스널, 코번트리 3-0 완파+홈 개막전 '승전고' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NFlYVUxJZURDWFRkd0ZZN3lnNUx1aFRCeU5qQnBHVmozenc4OGNUaVZQOEM2TWV3dTJXODNCa2I0OVNHdVZ3WjFtSW51anM?oc=5"
         }
     ],
     "transfers": [
