@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-08-23 15:09:50",
+    "timestamp": "2026-08-23 16:10:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "Manchester City vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LX3VYQVEwaVdtbFNzUElKRmZMbkQ2aW1UT1hzbl9TQ3lkLUhmT2NaWWQ5MnFnX2MtdUtxbW9OMFd5ZV9LU0puOENWcVpTUFNsTVJDUGpvSVIxTG1yTlBpMi02anUxZw?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Newcastle United v Liverpool: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDdULW9UcEhScDVCdUdCcnU5M0R2Skx1MHZQVUN2TEtqWlpuSlJ5bzNmdGtYempVWUNmdTktazczMnhneDdJYTgyaFpibWpKRHVQNEVhWFIxV2MzZFVQeUc4aDctTjljcDVGYWxkTjRvVlo1cE1VVnFxQWttMmtab0JLYmhxRjRYdTlXMTltaEFXZTg2Mi1uMGd3SXVURHZsM0lTcw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Brighton 4-0 Aston Villa | Premier League highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWZORlNIWFpGdVBad0NxQnFlZW9taFJCXzUtYVVCUXJQMUVldjNqRm9DZzhNdmNUQzRJbXBJRHdPbWJLUTZSRElGYjFNWHdMeGhhNzJYZnU5SVJJbDVybTFGdWRaallhYTJFOTBKSVJNVjhIOGlZUHk3THpKSHUwZWtSWEdmbm0tM3NBUmNGU3hLZ0M0SW11UDNweUN6OVJDeEhjbGpPLWd2dw?oc=5"
+        },
+        {
+            "source": "readliverpoolfc.com",
+            "title": "‘Negotiations’ – Fabrizio Romano confirms €35m Leipzig bid for Liverpool transfer target - readliverpoolfc.com",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDZGUUFXSFE4el9WZmctVVhDd3NRanhWa0xmSlBoMGZhVS1IYUJCQ1dGQ1p0VFBlRkZBSkxGSWZDenkySVR3TU1Od2tjeVBwVVFQSF9LS3RUemc2RHlTUlNuUC1ISDN4ZzcyZ0czWUNfZTBKUnVuQmpKaXF5aFdEMEw5VTJCT2dFblpUZWRIMkN3N0h4X05xNUlJS3J5ekFpQmNFTzlCSWM2b3NrWl9lRjA4aDZmSWxscnc?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Liverpool announce winger transfer and Romano confirms another deal 'agreed' - Football365",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2lWUXhtVHNMcUYtM3hvY1NJMVV6bEpybkkxSEVUekxTRkhTaXVGdHU3N0l1M0l5WjhfRkFIU1VqOTFyUmVfemY5N0VlTlBZVkM5Q1Q3OEN4NXdDc2dIalhMXzFJclEydzcta292V0lCU19acEg3TlI5WXVySXNneUNnWFJlU1plS2ZIVm1BYlQ1R3pSOXg0VWlQbTBOem9lNzlxYm13cHJMalg1ZGllQ2JR?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Liverpool see £60m transfer offer for Yankuba Minteh rejected by Brighton - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXYwOFlMUXNJcXlNcEFnTVFVTWFVcmQxb0ZXenJhMU9NRkkyS0JXVnJrRnFZbXNCd2hNMGNrWkk2cEtibkIxa1ZTbmNadUxMTVYwSW5wRE55VDdnUFlKNTZMZ1ZUWTFfSFJqQjRnOWI0aThCMll5aFg4c05URmY2SHAzM1BoTERpZ2M3OEs5VFc1ckxRMFNSVmNqVEZXV2FW?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Ornstein says Arsenal are ‘closing in’ on deal for fifth summer signing as transfer ‘advances’ - Football365",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFd5aWRERi16MjFXaXVJX2lHX1MzdE9QT09lajl4N09UV0dtUjRyMHd0TDZDWXdjUnRRNEhSaC1qbmRDY2ZYa29PWEV0aWdJdi1NSlFNZ1oxLU42V1FGLVREa0k0eVJBV1VMV3F1VXNzYTZXWExCblJEMl9BUnQzN0hnY0RMTjU3bGNINDNkV2o?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in October and November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
+        },
+        {
+            "source": "London Evening Standard",
+            "title": "Man City XI vs Bournemouth: Starting lineup and confirmed team news - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQU1Vd3REWXZ3Q0ZsbjZJTmNHMkkweUZQNENNa0xjcjZlSnpUYzJBa2ZWdktOblFrOUw5dE1xamtrYklPSHJjaDMtR2o1c2Rydk81UVhXaF9hQXQ2aXNVNkNNQ1lJbjE0Yld1aFlDcUtfa1JrTGhLRjhfZk9aTkhmN3lTa01kdWhNRVQyWlN2VHpHTEYwbTU4U0QwQkNuekdPWmZfTlNkV0luZl81ZG9OeU02VmVGTDlVYzA3QkhQcWhHMjllOFI1R0swWWV4UEZTRmpzVVBkMGZiYU52TG1jT3ByTTNxdGViZ0RnU192NA?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "EPL 한국 선수 0명 위기…박지성부터 손흥민까지 이어온 계보 끊기나 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OU1dKR1RGdHpwcDdha1YyenBSaGw3T3lOQ0dadEN6VEEzWmVGWllha3cxRklraVp3b0tKSmdXMk0wMXdnVVZRWmo4c3VnLWMzT2FHTHJldHJSUGRBUWxLctIBeEFVX3lxTFBnbUFHYTZncGM3eU00YXVHSG84UlZyakJfeDNaUUVTMmNhRUtlZTJwOEZjQTAybm94WGstLUVZUENiQ1dSbi1BXzBqZndHYktkQkloNDlZbU9QcFZhcWdtWGppV3NjNXNCQlJJeE1IVnljYjViby1QMw?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "\"우리가 꼴찌? 그렇게 확신하면 베팅해라\" 헐 시티, 맨유 2-0 격파로 강등 후보 평가에 정면 반박 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZZk5QZGlNTHY3Y2pZeVlDT09lQklia2lfZDBDRldRRVp5UnBvWHZycEI3OUlJSGxCdlhHbjdNYXhPOFhMbFhXVlZIbUluaU5aQklKbHBR?oc=5"
+        },
+        {
+            "source": "경향신문",
+            "title": "수천억 퍼붓고도 고작 이런 경기력?···시즌 첫 경기부터 ‘참패’ 나란히 고개숙인 토트넘·맨유 - 경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZGM3SkFwOVQzc2pmMmdlVUZoLUdSdi1ST0JrYmtLNmpEZnI2d2JPNElYVE9ZRVJwYlkyb0h3d0JsU2ladURqdTJTSzNQUGF6c3hrcVN6LXNhUdIBX0FVX3lxTE5ZNk84X2ducF9Vem4weURQVVpZdUtQNUFBVDBSNUZiRUVuMkhUMDMyb0RLTVkzcklaNDN1MlZ2RFYwX3N2S2I3OTF5LVB0ODFFZVdUVUpXa2JWbjRrYUtJ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "아킬레스건 아픈데도 쉬지 않았다… 개막전부터 골 터뜨린 사카, \"다시 PL 우승하겠다\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKa1V0SmZlZlJlQmFxRXhPVTh1QXlydjlrRk95RW5aZ3BEdkI0TkhMNmJ5OGNMUEo0eWFGaDBaZ29fUzhVdzB4TjBSTWVtMTQ?oc=5"
+        },
+        {
+            "source": "Manchester City FC",
+            "title": "그바르디올 극적 역전골, 시티, PL 개막전 극적 승리 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm5mZDgxNDZXblFEclNmT1J2OWhaWTZmNWFwWkF6b190LWNDYy1mWHI0RUZNaEpPaWF2OG1yOGFXRWdfLVJTY09BWUdaUFN3VE1KNDFnZmQ2anp3MzBVVTNvUElKcFNTNUZIcEdsUHdMT1NSaGs1dTViRDlQUmV5ajBhYmwySGRMUkJJemp2V3JFZlowR18xNWpURU1FQnZyRUVnRTdoMjEtUQ?oc=5"
+        },
+        {
+            "source": "일간스포츠",
+            "title": "5000억 쓰고도 못 고치는 토트넘의 '패배주의'…현지 매체도 냉혹한 시선 보냈다 - 일간스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wanA5TFRnbUhlLS1NbU9JNkFBYkIyQ3JLWnlHc05JeGJmMkNJQnJiamdfbE5tV0lQVjN6YUprSHBzUG54dFpzcXF1dXZKM1pncHJnSkVOS2dJODl3RklPSDhB?oc=5"
+        },
+        {
+            "source": "OSEN",
+            "title": "'정식 감독 첫 개막전부터 대참사' 캐릭의 맨유, 9년 만에 돌아온 '승격팀' 헐시티에 0-2 충격패...세트피스 두 방에 '와르르' - OSEN",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpVDd5YkpQZTg2T0I0UGZ1MzZRMlpQQmx2REFUaEZmaFBKUGg4TDQyNnlobjJlaEZTdWZwaDBjM1EzYUc3c0ItdWlmVTlUdkdXVlRMMw?oc=5"
+        },
+        {
+            "source": "스포츠서울",
+            "title": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’ - 스포츠서울",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcEhNdlZTMVB6RUdWbGo1S2loTHdiRWhZQlFjdzhYZWtxUkhnSkhDMzNnLXVVdUxUSHFYV01rYXNpSmdiVW5TejlMUHRJa3ZFUmZzYzNlV2o?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +113,27 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim",
+            "date": "2026-08-23",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-08-23",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
+        },
+        {
+            "player": "Official: Napoli sign Chelsea defender Badiashile on loan with €20m buy option",
+            "date": "2026-08-23",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
