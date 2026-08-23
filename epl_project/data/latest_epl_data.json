@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-23 08:15:30",
+    "timestamp": "2026-08-23 09:15:38",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League highlights: Brentford 3-0 Tottenham Hotspur - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VSG5zQzltQ1R3RlJLQUJGNkRFbFZLSUMyd2F3T2g3c2oxR1A3MGF5UXpmUy05WGc2UXRDNDdFeElnNFhHT0Q4Q2J3c2s4U1N4ai1IRjNEbElPU0RBem5CRC1hVGZudmc?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Hull City 2-0 Manchester United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODQxNi1oMDlJMmt5XzBrNHFqd2xCMFhqRERQYXlmZVNFTUFIY2VrZ3BsTXJhZE9PQzd2VWN3enZBSHZfRkREZkpyemJrLUhZYk10MkxTYmRKT3RhZ01pbkpLNGZXYmQ0bjY4SEdhanZtSmhNRm0tXzRzWmVBTlI4S25HdzZmLTJ6Tk1HZE5OcWJpUW1ZRWw2WEJ1ZHdodW56YUhGTmlR?oc=5"
         },
         {
-            "source": "ESPN",
-            "title": "Nottingham Forest 0 - 1Leeds United LIVE: Anton Stach scores late winner for visitors - as it happened - ESPN",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU1IzOEEzb19Dd3psdXQtYUFobkdjdGVORTZLQi1Eam5vTXp5VGczelhUODZydk5YcHQxMU00TExEMnBHUDVhX0R1dE5UVXJwbWJTVlExcjUxendSS1VHYVVPRC0tM2NpM1VGMG5sa1JJdHIyZTgtV2Fmdkd3REFqVDg3dnFZb0J2NDIxdllRcENjazhuVXhUOFphY3JvV0lZNEQ1WDdxbE9vMV9XYVpFYWIwNVBvR3pRaGRpUHllQnp6WHJ0b1F5dGxZVDZ1RVp4N0V5WTNIcHJCUQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League highlights: Nottingham Forest 0-1 Leeds United - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQUpITmhWYzFCNUNfUmtWUmctc1hvWERtZDUxVkdGOG9EcDI0bHVNSDQ3emtBcjFoZVU5M1k4S25TMG1ZTFNhdlZJdzRPR2U0bE4tMHllY1hJTVFMVi1yTVVwRVczV2s?oc=5"
+            "source": "The Guardian",
+            "title": "Isak returns to Newcastle with Liverpool, Premier League buildup, and more – matchday live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXZmMHNWaXNqLTdkWkw5ZGlxc01vMFJLS3dOZ0FHT2s5LUd2M1Y4aThmeGpucGRsM1JYODlqekZMMG5OSE14YzhxQ0xRSC1nRy1QVlF2LWdiYVM3b2hmZGdzN0pfTG1zUXB2bVRyT3pmNUJvSHN5bi1YczVheGlsa2lwQW96QnZPZTVJSE5lT2NPQVQ5dHgwSW9id184dFcyYURnSFg3ODdRU0dkTDNfYlllNzBZWFBZT0pzUWhKVnd1Ul9Jb0VDNkpodmVIVzM0bDVzeG9sSQ?oc=5"
         },
         {
             "source": "readliverpoolfc.com",
@@ -26,19 +26,19 @@
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0hJek1CSXMtcW5ST0ZRM0ZEdHdoQWlxeklxdW9xMXpZd0Q4MThheUVSTWpwV0Q2S2E1WmRCRzQxajNTTkgxbF9NcUUtaXJhZUtGV3BPbjNvUTRaYU9oRHRoY3RNaWhneS03MERmS2RNeXNzWmxrVG9ZdzBBM1c1SHlhOXhydUNMcUE4bzctT3Z4RlAyN1RINF8yNDJMazhhcDB2Uw?oc=5"
         },
         {
-            "source": "LiveScore",
-            "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
-        },
-        {
             "source": "Football365",
             "title": "Liverpool announce winger transfer and Romano confirms another deal 'agreed' - Football365",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2lWUXhtVHNMcUYtM3hvY1NJMVV6bEpybkkxSEVUekxTRkhTaXVGdHU3N0l1M0l5WjhfRkFIU1VqOTFyUmVfemY5N0VlTlBZVkM5Q1Q3OEN4NXdDc2dIalhMXzFJclEydzcta292V0lCU19acEg3TlI5WXVySXNneUNnWFJlU1plS2ZIVm1BYlQ1R3pSOXg0VWlQbTBOem9lNzlxYm13cHJMalg1ZGllQ2JR?oc=5"
         },
         {
+            "source": "LiveScore",
+            "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
+        },
+        {
             "source": "The New York Times",
-            "title": "Aston Villa make approach to sign Club Brugge defender Joel Ordonez - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2thSjRDbS1OUDFnXzV3VVpuanN0SXZ2OUh4NlRNNk5qT29WN19PMXpJZUc3VTZ2ekV0bGU4WXgyZXg3REFpdzRlRFlhdlhvODR2UGVrZWtKVjNkNGM3ME9ENHh2aEFXSldBdXYxNzY4aUZXdkMwRmdubzBRSGxWenFpbFJ2aXl4SnFMYldvTQ?oc=5"
+            "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5"
         },
         {
             "source": "Football365",
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5"
+            "title": "Aston Villa make approach to sign Club Brugge defender Joel Ordonez - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2thSjRDbS1OUDFnXzV3VVpuanN0SXZ2OUh4NlRNNk5qT29WN19PMXpJZUc3VTZ2ekV0bGU4WXgyZXg3REFpdzRlRFlhdlhvODR2UGVrZWtKVjNkNGM3ME9ENHh2aEFXSldBdXYxNzY4aUZXdkMwRmdubzBRSGxWenFpbFJ2aXl4SnFMYldvTQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -91,9 +91,9 @@
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZGM3SkFwOVQzc2pmMmdlVUZoLUdSdi1ST0JrYmtLNmpEZnI2d2JPNElYVE9ZRVJwYlkyb0h3d0JsU2ladURqdTJTSzNQUGF6c3hrcVN6LXNhUdIBX0FVX3lxTE5ZNk84X2ducF9Vem4weURQVVpZdUtQNUFBVDBSNUZiRUVuMkhUMDMyb0RLTVkzcklaNDN1MlZ2RFYwX3N2S2I3OTF5LVB0ODFFZVdUVUpXa2JWbjRrYUtJ?oc=5"
         },
         {
-            "source": "sportsseoul.com",
-            "title": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’ - sportsseoul.com",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcEhNdlZTMVB6RUdWbGo1S2loTHdiRWhZQlFjdzhYZWtxUkhnSkhDMzNnLXVVdUxUSHFYV01rYXNpSmdiVW5TejlMUHRJa3ZFUmZzYzNlV2o?oc=5"
+            "source": "조선일보",
+            "title": "[오피셜]\"죄송합니다\" 2억파운드이상 쓰고도 개막전 최다 점수차 타이 패배! 토트넘 데 제르비 감독의 사과 \"변명의 여지가 없다, 몸상태 100% 아니다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFcwUmQwSUpONG91bU1MSEdQS0JCMUhzVVl2d1NXTEtXMHZiQjNSSUJOWUtrZWNTY1J5OXlpckZ3R1dCMmEzM3NOaTBpMWU3bXlBWElkanozVFFwUVQ1WkRlaWd5X0kyY194S0g2VWRDT0xHYThUSWxMX28xV0R1X0RQVnJvRDdqeTk4?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -101,9 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NFlYVUxJZURDWFRkd0ZZN3lnNUx1aFRCeU5qQnBHVmozenc4OGNUaVZQOEM2TWV3dTJXODNCa2I0OVNHdVZ3WjFtSW51anM?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "[오피셜]\"우리가 맨체스터 유나이티드에 벌을 주었다\" EPL 첫 이변의 주인공 헐 시티 감독의 자신감 \"준비한 전술 대로 잘 풀렸다\" - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZUdSVUFLNWYxbUR0Sl9DQTFtTVZ1ZXBIQjc2Y3hDRkZIdXZZLUZaQ0dtTGdidE5XUlVaTEZqREpzVHhSRkZJOE1EQllFLWtnUTdidGhQMmpoQkR1aDEwOG96ekY3WlVDeG9ZOG95ZTQxNzllVXdfbU5OMEhjdw?oc=5"
+            "source": "스포츠서울",
+            "title": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’ - 스포츠서울",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcEhNdlZTMVB6RUdWbGo1S2loTHdiRWhZQlFjdzhYZWtxUkhnSkhDMzNnLXVVdUxUSHFYV01rYXNpSmdiVW5TejlMUHRJa3ZFUmZzYzNlV2o?oc=5"
         }
     ],
     "transfers": [
