@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-08-25 19:21:23",
+    "timestamp": "2026-08-25 20:14:33",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "Sky Sports",
+            "title": "Fulham 2-3 Chelsea highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOWUzdXBhVVJIY1h1akQyUGNuS21LX21SY2VzV1REdldvWGdpYVNWdUUxR2t4cWdyLWo5MFB3WFhNRzhBUnBKMFBnYWV0cEVxWGVoaVQ5TzZ1WnhQMGZCeV9pWC0wVWJPNDV6T0w1a0NoUFVvZk0wYjhHbWZSb2dHbEhIclFkLVJFcnFVU2otOUZCb0hsTW9jY19ZWFNpMTFnS1lhR0NpUDJ1Z0lmbW9UOV8yMUhORDRUdnBFOF9SOXliLUVoY0V0NGo1Ulc1SmFGSy1PNUd1eTd1S2VCS3E1YmdXX1hVZTFmT29nMFJGak9hRTBC?oc=5"
+        },
         {
             "source": "The Guardian",
             "title": "Fulham 2-3 Chelsea: Premier League – as it happened - The Guardian",
@@ -16,19 +21,9 @@
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOSkk4UmxwMHBtbXVaY0Z0b0dMdFMwUkZpUW8yUWRqcU1RUXpjT3VEZkFKaDhKdGFZdkpaZkY4LVpnQWgwVEhTRDZyWkNBd1RkbG95M1RNLXB3YXVKMEM4WE8tLWI0YUk?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Cole Palmer & Morgan Rogers shine in Chelsea win but Robert Sanchez struggles - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10UUhQLUtSUUhRVVIzbUxmUTVJeG81U1dSWDd5ZkdsWnpkUjZFeDI0TXhDeEd0SFpPelNRX2JFSURqUkpRUUhxY2xqVGxvaW1oZmU3UVFSTXhMOVJDa2dzNnBqS2pzWWs?oc=5"
-        },
-        {
             "source": "LiveScore",
             "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - LiveScore",
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
-        },
-        {
-            "source": "Yahoo Sports",
-            "title": "Fabrizio Romano jumped the gun with Tottenham's Omar Marmoush deal - Yahoo Sports",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcTI1QmFuZWU1cmZ6MkFCR1pGemdjY2xVOTdXWkNJLVNid0lHZ0pWRm8xU3NUNktrMjhZMnRRVVR1RFdHN0xoVU5BUG9JQ243OTdPUFlyWG9zZm9jT3VxbWdSdXRkVEFYTWc5ODJoODlfeVBraGdYdU5qNzhoeEl2eTdpejVFb0dLam5TXzRzOA?oc=5"
         },
         {
             "source": "Football365",
@@ -36,8 +31,13 @@
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2lWUXhtVHNMcUYtM3hvY1NJMVV6bEpybkkxSEVUekxTRkhTaXVGdHU3N0l1M0l5WjhfRkFIU1VqOTFyUmVfemY5N0VlTlBZVkM5Q1Q3OEN4NXdDc2dIalhMXzFJclEydzcta292V0lCU19acEg3TlI5WXVySXNneUNnWFJlU1plS2ZIVm1BYlQ1R3pSOXg0VWlQbTBOem9lNzlxYm13cHJMalg1ZGllQ2JR?oc=5"
         },
         {
+            "source": "readliverpoolfc.com",
+            "title": "‘Negotiations’ – Fabrizio Romano confirms €35m Leipzig bid for Liverpool transfer target - readliverpoolfc.com",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDZGUUFXSFE4el9WZmctVVhDd3NRanhWa0xmSlBoMGZhVS1IYUJCQ1dGQ1p0VFBlRkZBSkxGSWZDenkySVR3TU1Od2tjeVBwVVFQSF9LS3RUemc2RHlTUlNuUC1ISDN4ZzcyZ0czWUNfZTBKUnVuQmpKaXF5aFdEMEw5VTJCT2dFblpUZWRIMkN3N0h4X05xNUlJS3J5ekFpQmNFTzlCSWM2b3NrWl9lRjA4aDZmSWxscnc?oc=5"
+        },
+        {
             "source": "The New York Times",
-            "title": "Liverpool, PSG holding key talks over proposed Bradley Barcola move - The New York Times",
+            "title": "Liverpool, PSG holding key talks over proposed Bradley Barcola move - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGhwamNwODN5emZ0WXctQzUxM0U1cHZaY0hfMzlISWZuak1JNE1YaU80LVZYMzZzbUJsYWlHQ1BTUzQ2OUhDc25qSXNFOEE4LURpZlo3TTZURHNualk0X2NHbDN3YjZ5TVFoZjlTbGpEbXdhUFhiX1poZnFVVUd0VWllcHVhejFtdkVYdGhlNDNaTHZKY1NxR1pxZzBsNmZZNkRsWmhRYXJQZHI2NnVQdWVDNA?oc=5"
         },
         {
@@ -66,19 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'발리슛이 골대 대신 코너 플레그로 날아갔다'…토트넘 역대 최고 이적료 영입 비난 '역사상 최악의 낭비' - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yMDRmaVM0dDl1NHFzdzUtajZuMFU5OUF3UlVZMHh3Smtlb3ZXTFFiY1FkNlRkMVowanh5QTJmdGtwcXVUQ0RjTTVnVmg4NFE?oc=5"
-        },
-        {
-            "source": "경향신문",
-            "title": "수천억 퍼붓고도 고작 이런 경기력?···시즌 첫 경기부터 ‘참패’ 나란히 고개숙인 토트넘·맨유 - 경향신문",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZGM3SkFwOVQzc2pmMmdlVUZoLUdSdi1ST0JrYmtLNmpEZnI2d2JPNElYVE9ZRVJwYlkyb0h3d0JsU2ladURqdTJTSzNQUGF6c3hrcVN6LXNhUdIBX0FVX3lxTE5ZNk84X2ducF9Vem4weURQVVpZdUtQNUFBVDBSNUZiRUVuMkhUMDMyb0RLTVkzcklaNDN1MlZ2RFYwX3N2S2I3OTF5LVB0ODFFZVdUVUpXa2JWbjRrYUtJ?oc=5"
-        },
-        {
             "source": "네이트",
-            "title": "[PL REVIEW] '4318억 썼는데 이 꼴이라니'….토트넘, 상상초월 졸전! 브렌트포드에 0-3 대패→두 시즌 연속 17위 악몽 되살아나 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xS05WeHNrRUE1b0xNbXZVbF9LQVFHYVJqaXVkb1RDcjFveGJhNnlBay1sYXEtY3NrbXdMSTV1YlVyNlZZZXliN0F4OHFkUnMwZ09ETy1lRFFzTVEt?oc=5"
+            "title": "원조는 맨유였는데…토트넘, 오버페이 1,2,3위 모두 차지→이적시장서 무려 2,456억 적자 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeWFEX2FFM3AtWERuc1lZOUlIYkYybWx0OGF2NjVRZFZMY2ZERFpwU2Y2QVpVWmpVdExMdkdJckFGMUZyblN3LVFBN0QxWW1RdzhaZXRNdFlNZ3Rr?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "`4486억 투자해도 중위권 못 벗어난다`…토트넘, 2026-27시즌 EPL 11위 예측 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV0ZlcHFpeV9YMXFvY0ZETER2NUhSenNzRmxaazhFNzl5VzU4VFZCNGk3Y2RDbVhQT3Q3dnFXYWxPSFU4dVhuTmtOeEhRZmlFeXpKWGcxWldqdlpFaFpxNg?oc=5"
         },
         {
             "source": "이투데이",
@@ -104,6 +99,11 @@
             "source": "Your Field",
             "title": "이럴수가! 고작 1년 만에 팀 떠난다? \"이적료 945억 책정\" 첼시, '전설의 아들' 델랍 매각 준비 - Your Field",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoUWRqWUlSNXBwN3Q5dWhUZ2loZUJTNi1wcTZVMnNJMXRqbS1BVWxHSEVSak9pTGZGb0EybWF4d3k2dzZsWWVId3RpaDJiMzdiNVRFNGpaOWp3TUNmRC1xeWJXYldRdjVZek41NDI5SmEwR1o2U0E?oc=5"
+        },
+        {
+            "source": "경향신문",
+            "title": "수천억 퍼붓고도 고작 이런 경기력?···시즌 첫 경기부터 ‘참패’ 나란히 고개숙인 토트넘·맨유 - 경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZGM3SkFwOVQzc2pmMmdlVUZoLUdSdi1ST0JrYmtLNmpEZnI2d2JPNElYVE9ZRVJwYlkyb0h3d0JsU2ladURqdTJTSzNQUGF6c3hrcVN6LXNhUdIBX0FVX3lxTE5ZNk84X2ducF9Vem4weURQVVpZdUtQNUFBVDBSNUZiRUVuMkhUMDMyb0RLTVkzcklaNDN1MlZ2RFYwX3N2S2I3OTF5LVB0ODFFZVdUVUpXa2JWbjRrYUtJ?oc=5"
         }
     ],
     "transfers": [
