@@ -5,7 +5,7 @@ def map_missing():
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="0623os1978",
+        password=os.getenv("MYSQL_PASSWORD", ""),
         database="epl_x_db",
         auth_plugin='mysql_native_password'
     )

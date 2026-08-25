@@ -1,3 +1,4 @@
+import os
 import mysql.connector
 from datetime import datetime
 
@@ -11,7 +12,7 @@ def connect_to_db():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",         # 보통 mac mysql 기본 유저는 root입니다. 아니면 변경하세요.
-            password="0623os1978", # <--- 여기에 워크벤치 들어갈 때 쓰는 비번 입력!
+            password=os.getenv("MYSQL_PASSWORD", ""), # <--- 여기에 워크벤치 들어갈 때 쓰는 비번 입력!
             database="epl_x_db"
         )
         

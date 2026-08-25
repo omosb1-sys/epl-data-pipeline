@@ -1,3 +1,4 @@
+import os
 import mysql.connector
 from datetime import datetime, timedelta
 
@@ -5,7 +6,7 @@ def connect_to_db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="0623os1978", # 막내님 비번
+        password=os.getenv("MYSQL_PASSWORD", ""), # 막내님 비번
         database="epl_x_db",
         auth_plugin='mysql_native_password'
     )

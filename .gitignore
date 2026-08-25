@@ -1,32 +1,49 @@
-# Python & Environments
+# Python & Virtual Environments
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
 .venv/
 .venv*/
 venv/
 env/
+ENV/
+
+# Environment Variables & Secrets
 .env
+.env.local
+*.secret
+*.pem
+*.key
+
+# Node / Web Frontend
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# OS
+# Database & Cache
+*.sqlite3
+*.db
+.cache/
+.pytest_cache/
+.ruff_cache/
+
+# OS & IDE
 .DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+.vscode/
+*.swp
 
-# Data & Heavy Folders
-data/
-cache/
+# Logs & Output
+*.log
 logs/
 exports/
-reports/
+dist/
+build/
 
-# Tools & Local Models
-epl_project/tools/
-epl_project/models/.venv/
-*.gguf
-
-# [IMPORTANT] Include folders requested by USER
-!Skill_Seekers/
-!.agent/
-
-# Allow EPL Project Data for Automation
-!epl_project/data/
+# External Tools / Large Submodules
+Skill_Seekers/

@@ -1,48 +1,123 @@
-# 🛍️ Naver Shopping Data Analysis Project: Pricing Strategy Optimization
-> **Project Goal:** 네이버 쇼핑 '텀블러' 카테고리 데이터 분석을 통한 매출 및 가치 최적화 전략 도출
+# ⚽ EPL Real-Time Data Pipeline & Analytics Engine
+> **End-to-End Sports Data Engineering & Predictive Analytics Platform**  
+> An automated pipeline for ingesting Premier League match statistics, transfer updates, and tactical metrics into MySQL, powering interactive dashboards and match outcome simulations.
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
-![Sklearn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-
-## 📊 Project Overview
-이 프로젝트는 단순한 시장 조사를 넘어, **머신러닝(Machine Learning)** 기술을 활용하여 상품명(Text)과 이미지(Image)가 제품의 가격(Price) 결정에 미치는 숨겨진 패턴을 찾아냈습니다. 이를 통해 **"어떤 단어를 써야 더 비싸게 팔리는가?"**에 대한 데이터 기반의 해답을 제시합니다.
-
-## 🧪 Hypotheses & Verifications (가설과 검증)
-이 프로젝트는 다음 3가지 가설을 데이터로 입증하는 과정이었습니다.
-
-1.  **Text Hypothesis**: "기능성 단어(스텐, 진공)는 저렴해 보이고, 추상적 단어(에디션, 정품)는 비싸 보인다?" -> **✅ 검증 완료 (True)**
-2.  **Structure Hypothesis**: "중요한 단어(브랜드)를 앞에 쓸수록 비싸게 팔린다?" -> **✅ 검증 완료 (True, Avg Lift +4.3%)**
-3.  **Visual Hypothesis**: "파스텔톤(Low Saturation) 이미지가 원색보다 더 고급스러워 보인다?" -> **✅ 검증 완료 (True, Negative Correlation)**
-
-## 🛠️ Tech Stack & Methodology
-*   **Data Collection:** 네이버 쇼핑 크롤링 데이터 (2,110건)
-*   **Text Mining:** TF-IDF Vectorization, N-gram Analysis (Keyword Extraction)
-*   **Machine Learning:** Ridge Regression (Price Prediction Model, R2 Score 0.53)
-*   **Image Analysis:** PIL & KMeans Clustering (RGB/HSV Texture Analysis)
-*   **Simulation:** A/B Test Logic (Predictive Valuation)
-
-## 💡 Key Solution (Triple-Core Strategy)
-분석 결과를 바탕으로 즉시 적용 가능한 3단계 최적화 전략을 도출했습니다.
-
-### 1. Title Optimization (상품명 최적화)
-*   **Action:** 기능성 스펙은 뒤로 빼고, 감성/브랜드 키워드를 앞으로 전진 배치.
-
-### 2. A/B Model Simulation
-*   **Result:** 특정 사례(마리슈타이거)의 경우 상품명 변경만으로 **+86%**의 가치 재평가 달성.
-
-### 3. Visual Pricing (이미지 전략)
-*   **Action:** 썸네일 채도(Saturation)를 낮춰 'Modern/Premium' 포지셔닝 구축.
-
-## 📈 Visualizations
-| High-Value Keywords | Price Simulation (Lift) | Image Saturation |
-| :---: | :---: | :---: |
-| ![Keywords](./insights_premium_keywords.png) | ![Lift](./ab_test_lift.png) | ![Saturation](./image_saturation_price.png) |
-
-## 📂 Deliverables
-*   [📄 분석 결과 보고서 (Report)](./Naver_Shopping_Optimization_Report_v2.md)
-*   [📝 상품명 변경 가이드라인 (Guideline)](./NAMING_GUIDELINE.md)
-*   [💻 분석 코드 (Python Scripts)](./price_predictor.py)
+![Status](https://img.shields.io/badge/Status-Active%20%2F%20Production-success)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
-*Created by Data Analyst Sebokoh*
+
+## 📌 Architecture Overview
+
+```mermaid
+flowchart LR
+    subgraph Ingestion["📡 Ingestion Layer"]
+        A[BBC Sport Scraper] --> E[Sync Engine]
+        B[Transfer & News Feed] --> E
+        C[Match Stats & xG APIs] --> E
+    end
+
+    subgraph Storage["🗄️ Database & Storage Layer"]
+        E --> |ETL & Validation| F[(MySQL / epl_x_db)]
+        F --> G[Normalized Tables: Clubs, Matches, Transfers, Tactics]
+    end
+
+    subgraph Analytics["📊 Serving & Analytics Layer"]
+        G --> H[Win-Rate & Form Predictor]
+        G --> I[Streamlit Interactive Dashboard]
+        G --> J[Tactical Simulation Engine]
+    end
+```
+
+---
+
+## 🎯 Key Features
+
+1. **Automated Real-Time ETL Pipeline**
+   - Ingests match schedules, real-time news, official transfer confirmations, and club squad conditions.
+   - Cleans and deduplicates data, enforcing strict schema validation and error-handling routines.
+
+2. **Relational Database Modeling (`MySQL`)**
+   - Fully normalized relational schema managing clubs, players, manager tactics, historical matchups, and matchday conditions.
+   - Secure environment-variable-driven DB connection abstraction (`os.getenv`).
+
+3. **Predictive Analytics & Tactical Simulation**
+   - Computes rolling team form, home/away head-to-head records, and tactical mismatch advantages.
+   - Simulates match outcomes and win probabilities based on squad availability and tactical configurations.
+
+4. **Interactive Dashboard**
+   - Streamlit-powered visual dashboard presenting club power rankings, transfer timelines, head-to-head match previews, and win probability matrices.
+
+---
+
+## 🗂️ Project Structure
+
+```
+epl-data-pipeline/
+├── .github/workflows/         # Daily automated pipeline workflow (CI/CD)
+├── src/                       # Core ETL and synchronization scripts
+│   ├── realtime_sync_engine.py   # Real-time news & match synchronization engine
+│   ├── epl_db_connector.py       # Secure database connector module
+│   ├── update_official_transfers.py
+│   ├── update_realtime_matches.py
+│   └── update_tactics.py
+├── epl_project/               # Analytics modules & Dashboard applications
+├── archive/                   # Historical data migration scripts
+├── .env.example               # Template for required environment variables
+├── requirements.txt           # Python dependencies
+└── README.md
+```
+
+---
+
+## 🚀 Quick Start
+
+### 1. Prerequisites
+- Python 3.10+
+- MySQL Server (Local or Cloud)
+
+### 2. Installation & Setup
+```bash
+# Clone the repository
+git clone https://github.com/omosb1-sys/epl-data-pipeline.git
+cd epl-data-pipeline
+
+# Create virtual environment & install dependencies
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+### 3. Environment Variables
+Copy `.env.example` to `.env` and fill in your database credentials:
+```bash
+cp .env.example .env
+```
+```env
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_USER=your_username
+MYSQL_PASSWORD=your_password
+MYSQL_DATABASE=epl_x_db
+```
+
+### 4. Running the Pipeline
+```bash
+# Run real-time data sync
+python src/realtime_sync_engine.py
+
+# Launch interactive analytics dashboard
+streamlit run app.py
+```
+
+---
+
+## 🛡️ Security & Reliability
+- **Zero-Hardcoded Secrets**: All database and API credentials are read dynamically via environment variables (`python-dotenv`).
+- **Data Validation**: Automated schema validation and anomaly filtering ensure corrupt or malformed web-scraped entries do not contaminate the primary database.
+
+---
+*Maintained by Sebokoh*
