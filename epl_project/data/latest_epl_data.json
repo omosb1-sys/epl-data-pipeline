@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-08-25 15:31:20",
+    "timestamp": "2026-08-25 16:21:55",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "Sky Sports",
-            "title": "Fulham vs Chelsea LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQzB1b1NNUnJsOVlfQnd4ZTM0YXdxTldFODZwTGNkTU5RUXZ6cXg4RU53TExqTEttaHJOWHNJTFZpNlRFWVR0WGd6YmRvVGJQXzJ3azQtejVYeFVPV0NVSm10TGNXSjZFeWZDZWYyRUw4YldFQ3BHNU0xNTgxWDh1RWpIdVp1XzQ3dXNKcl9aNm9taTJIZjFYSnlqUkMyS0JWQXBVX085ajVwdUVzS3ZlSjU1S0E5MTVORFV3UC1aaXpiODRKczVXRElUM2cwbVExb2pHc0ZwOHBxVDdLZjFQV2gtWmZoeW05bnMyUUtEbXItZmND?oc=5"
-        },
         {
             "source": "The Guardian",
             "title": "Fulham 2-3 Chelsea: Premier League – as it happened - The Guardian",
@@ -17,8 +12,13 @@
         },
         {
             "source": "BBC",
-            "title": "Fulham news: How did Alvaro Arbeloa fare in Premier League opener? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWDkzRVlwWGhkelg3SDdyWEdudGFsTldDOHRGS2Zrb2RHRnlXVDduWlFhRjNFQmlBSUFack1JakNLcmwxTWtWVVY5ZUpSR3Zjb1JMWEZ0U0ZpQmlhd1dRLXF2TzNDNUtkT2paOVhhTk5ndDNxXzNOb3JibU50UDBVaXhaRjVvV0l6dm9MZXJiQnNXc1lLZkpiMUxiNG5MM1NYRW9jYTZDUHAyNDlhaUd1WnN2SHFRcDU5U0dkTzRYWFhJb1E4ZVpQWmY5RFpXY0MyVzJyWG85MzduQTZTdW14YTdqUVNmZTkwRjd1bDFDRGY?oc=5"
+            "title": "Ferguson? Guardiola? Mourinho? Ranking the best managers in Premier League history - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RTEdLd2k4T054WGZDRTNFd0ZxQVZoVzdMQUoxUHc3d1RUMXdRblBpci1RTTFsVjNjZ3Zyc0JWc2dKRGhfOTY1MnVLOEs4UGdKZlZNQ2tsWDc2cHNSLUhtVHRaNWFwNGM?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Harvey Elliott given perfect Premier League club to join before Deadline Day - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOak9Cc3VMS0RTblZ3VmtvT3BSRGlMdU1TWWdBQWhlTUJ0anRraG03ZUxDRnJYWTRkekFrOTVCbFdfdEcxV1VqS1BzamdwMmNndTEwWTVya0wwbWdNbTZ6dGFuOHhUZzFKVVRqeHBmTWNtcDd2ZTZ2aGJtT2NERVlDYXBOT1hSbEZOXzhWdGUwSmpveUlPdzlqSlNFcjQ?oc=5"
         },
         {
             "source": "Yahoo Sports",
@@ -67,8 +67,8 @@
         },
         {
             "source": "v.daum.net",
-            "title": "'韓 경험 후, 日 귀화 결심' 윤성준, 당돌한 선언...\"월드컵 주전, 프리미어리그 진출 목표\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14Wi1GU016bGZaWi1XVjBjYmpuMC1aUnJ1Z09NYm0yRUx6VjRZM0ZILS1VdzV5N2lTWUQwNk1zOG5Oa1NOWWZ2MjVWTkZpcFU?oc=5"
+            "title": "'발리슛이 골대 대신 코너 플레그로 날아갔다'…토트넘 역대 최고 이적료 영입 비난 '역사상 최악의 낭비' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yMDRmaVM0dDl1NHFzdzUtajZuMFU5OUF3UlVZMHh3Smtlb3ZXTFFiY1FkNlRkMVowanh5QTJmdGtwcXVUQ0RjTTVnVmg4NFE?oc=5"
         },
         {
             "source": "이투데이",
@@ -76,9 +76,14 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10VFJ2UXd3VE9RcW5zbXYxZEhsOEFjWXExaVhVRlg2elpVMWJYM2ZQUnMxVGZMbmh4ZGJzWDFRdDN0LUxRQ2JZMUxDZ3RnU1NlV0dMeQ?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "이견 없는 GOAT…퍼거슨, BBC 선정 EPL 최고 감독 1위 \"20년 간 리그 지배\" - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DT2oybDk5SFZ3VmRRWktjZ3IxSTdOcTJlanhZa2pKQ3lXS2pVb1BOTGNxTldsY2tObE8zX3BiUnFWQWxUUzZULUhBeDJNcGdjREtRcWIyWk9EV2VxUnpkSlZnTzgwSWdObzUzbTBaV19kS3VEMWdQaFp1dnlOQQ?oc=5"
+            "source": "v.daum.net",
+            "title": "'韓 경험 후, 日 귀화 결심' 윤성준, 당돌한 선언...\"월드컵 주전, 프리미어리그 진출 목표\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14Wi1GU016bGZaWi1XVjBjYmpuMC1aUnJ1Z09NYm0yRUx6VjRZM0ZILS1VdzV5N2lTWUQwNk1zOG5Oa1NOWWZ2MjVWTkZpcFU?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "이견 없는 GOAT…퍼거슨, BBC 선정 EPL 최고 감독 1위 \"20년 간 리그 지배\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSy1FdXotcl9zdWFLbXdodnFRUXQwaGJVZ1QxdE1adWRaeDlVUjhoZnEySDg3My1RMnVseGw5RWtHQUJHTUgtOElSQVR6TV9va29uTGpUbDBldUI1Qnhqc0U1WG5SMUNHMFJsR2VrbmNfUmtEMXhHLXROOWlfWVN6SU4ybW9jblVZNmQ0?oc=5"
         },
         {
             "source": "동아일보",
@@ -96,11 +101,6 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoUWRqWUlSNXBwN3Q5dWhUZ2loZUJTNi1wcTZVMnNJMXRqbS1BVWxHSEVSak9pTGZGb0EybWF4d3k2dzZsWWVId3RpaDJiMzdiNVRFNGpaOWp3TUNmRC1xeWJXYldRdjVZek41NDI5SmEwR1o2U0E?oc=5"
         },
         {
-            "source": "미주중앙일보",
-            "title": "20년 만에 싹 바뀐 EPL 유니폼…도박업체 지운 ‘새 스폰서’ 정체 - 미주중앙일보",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QbkUyTzQ3Ym1mT0JSOXp2bm9uT1lSOEFGc2pLMXlqZ000ZmFUeXpCeXNzelpaOUtHVGRHRFZyeHVqV3hqaFZaRjFHUkZpUzFYRVJhRmF1dHdHTktRb3FxNERR?oc=5"
-        },
-        {
             "source": "머니투데이",
             "title": "\"우리가 꼴찌? 그렇게 확신하면 베팅해라\" 헐 시티, 맨유 2-0 격파로 강등 후보 평가에 정면 반박 - 머니투데이 - 머니투데이",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjLU10amg0UTF5aUlJUlVIZmZXUzRIR252ejNDWXI0RzlNZURwWUg0N0JCMU5hWER6NV9KMFlNWlV4Qmh3WUpiTy1oVVpEWnhQdkowa3FlTnBVWHduaFpmd0pBMWpTQ1pFaWfSAW9BVV95cUxPTHM4OEt3MHpKODRkbEJSR3RnYTRzdXRNNVlPczBrTFdFNzRtZXNfanJvVDMzN3VGd3FjYXRVZ21ubFY2SjQ1YWhHMFd2Z1pIQVJkUDYwU2FZdnhybjNVVFpFbldfU0pwYUwxTDZaVTQ?oc=5"
@@ -113,13 +113,6 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
-        },
-        {
-            "player": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim",
-            "date": "2026-08-25",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
