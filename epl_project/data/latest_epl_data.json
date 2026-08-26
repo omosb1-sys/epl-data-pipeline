@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-25 23:14:46",
+    "timestamp": "2026-08-26 00:33:11",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Yorkshire Evening Post",
+            "title": "Leeds United's Premier League rivals agree deal to sign Chelsea's Liam Delap for big club record fee - Yorkshire Evening Post",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclNLSnJSTXFYV2N4X1hQRTAyT2ZPdnEtcllRakhZRDczY3hwZHVDMjBLbUQ1WGxxTDM4dlJjSndhend3aU1TR3FJbzBVWVh3MXN2MkhqUVJCUHpveUhWdko3WGRxTkt4UnlCRklhTlhTRVZTNG5hNktVbGdUcm80YmV6d3pQLWMxLTF6RUJDLUI4aHAxMWQta0hjLVM0ZloxR2VTdE9UUmJQVUNpOGcyTFdrMnVnUGZHZndDT0tlTkEzUQ?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "EFL Cup LIVE: Build-up, team news, live text & score updates as it happens from across the EFL Cup - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aOVEycXp3YkY2Yi13ODJndFRwMzhzRVJ0aHc4NDVPWDV2SEszblhHV0JJYnFocTlDb2w5MnJWN1VNb0NjZ09Mcjh6VXhESmxoSlJfVmtDUVpvQWNmTGRSTktTNmVzdw?oc=5"
         },
         {
-            "source": "The Mirror",
-            "title": "Carabao Cup third-round draw explained including 'pre-draw' for Premier League giants - The Mirror",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnJhOVhPQTE1ZnBBeDdYajhiV3EwX3BaeExxeFUwOFpkNjBfbUNrcGFwM2ozSGNfeW9qZGExOUZ4aDlKTUtva3EzbC16clh1ZmQ4MjBKaS1QbnRzV3RGVlcwc3FnMUdBY0kyQ3VLT1N1RnhHR0NuYXRfLWFDTXZQOTV2YVhWRjR4R2fSAY8BQVVfeXFMT3VLekR3REtKM2l2QzA5b0R4M3hYZzc3RlQtLWFPeXVPdU42ZXQ5NTRLS01RRUI2a2htLURFcVh1MlZOTjJRcmFQQ0RVek95MGZLT2hYME80Q3AwV2w0U3ZFbTRaTEZDRlp3WDVXcHYtcEE3Q3BDc21sSHMzb1k4YlBzSXhyc2tiNjk3NWFMQ3M?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "Carabao Cup second round: Leeds beat Forest again as Premier League clubs safely through - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOXlhbVNSNkJJdTBCWmpOQUNOODBNOUttY0k2ZTRkZTRaSDktcVl4aGVDZmswTldjaEN5WEVqRmQ5VlhaM0t0LWlEM0U5bXJKYUJpN3NmVlpTQXJSTGkwVjdENy00a0RJUHJveGVmMGZvbkVfdGxVWTc3bm14dWRoRkhvNy0yankzLWNiR2xCQXBPalY4bl93LURWMUxjVk9GUVBLMGRxa3k3NEZqRjg2bzkySjdYZjgtS2ZqY0ctMHZXMjdaV0J4QTQ4NElDd25YeFpJTHlTMHowOEYwaERja0Vn?oc=5"
+            "source": "Sky Sports",
+            "title": "Carabao Cup 2026/27: Watch Nottm Forest vs Leeds, Chelsea vs Luton, Tottenham vs Charlton and more with every game LIVE on Sky Sports | Football News - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOenVFalBhLU1kRnpCWWQ5VElXQUk5THJqMFFObVlHbk5pVkJFNTUtSVZublpjcVN1WWUxSXU4eldINThvdURGMTNOSHQ0QXFCQnpsQWJuckhPSGxlSnhvdGdTeXpZa21MOTdmQkUyZGN0d1pkaE4xLWhRcXFUdWRLNENsQmxvS1dJWEwyZlV6ZEo0TWh1d0hHYXV5LTd4UW52RTBWQm9GY19MVzlYeFdySkQ3amlkb3g0QjZSUEczYjFfNGFvbmR5R25HNFl1cDlNUFdPUlB6X0FMS05IWDVMTkJ0YmxzclpTVlo4d1VJS0pTdGtxbThnY0pESkd0dDZtMl9XOEZzRVFjbmE1MDNPTERndw?oc=5"
         },
         {
             "source": "LiveScore",
@@ -37,13 +37,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Liverpool, PSG holding key talks over proposed Bradley Barcola move - The Athletic - The New York Times",
+            "title": "Liverpool, PSG holding key talks over proposed Bradley Barcola move - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGhwamNwODN5emZ0WXctQzUxM0U1cHZaY0hfMzlISWZuak1JNE1YaU80LVZYMzZzbUJsYWlHQ1BTUzQ2OUhDc25qSXNFOEE4LURpZlo3TTZURHNualk0X2NHbDN3YjZ5TVFoZjlTbGpEbXdhUFhiX1poZnFVVUd0VWllcHVhejFtdkVYdGhlNDNaTHZKY1NxR1pxZzBsNmZZNkRsWmhRYXJQZHI2NnVQdWVDNA?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Manchester City agree €40million deal to sign Allan Elias from Palmeiras - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOC1RWUthTm9SV21sa0xOSmhOeTZpbjJVX3lRdElxWmt2Q2Q0X1FJQVItdHpLVVFHYXI4dk9ERjRNVDlsZDFWOE5QV3gxUXI2UUVOOEVzZnZuOEZIWjE3WU5ENnlraWs4emRNM1hoSDJXajAyRll5WTlrMHhELWF5Z19SeTlQSmdoTE1QdFZYVGVPOUtwMUY1SkFqWWhOdw?oc=5"
+            "title": "Newcastle agree deal for Manchester City’s Nico Gonzalez - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3F5REhzQUI4VTJxOW9leExjRmRWTm5UWDNNTFVramJHY05JUlpIMURkSW4za3BjTDFiX0dwMDh4Yi1vZTM1RVA2UTNSSTFjZnNiZkdZYUtkWDhNZ0FoY3c3aHlWcFJZZDVHQXBJd0R3bnFidHVsdVBncGY1a0N6TmJ0U0JodVNJVmd5NW92NkRSaktK?oc=5"
         },
         {
             "source": "The New York Times",
@@ -71,9 +71,24 @@
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aSXJnRHBnVms1U3RWTWw2eGJsSU0zRFRuWUxmaldzNnh6OTNBTGpUQk9XRnRiUUxVX1YxbjJWMEh6UjBIY09sLUFTMmhRQjQwWlV5YldESzZVY3VCWVViM0JDTUpva2lKMzh3OHhNY1pMQQ?oc=5"
         },
         {
+            "source": "뉴스핌",
+            "title": "'EPL 9골 21도움' 페르난데스, PFA 올해의 선수상 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EVkpnZTJwOFdiQXpQTnlrdGhOTjEwcHo4R1hUcEU1V1prV2xpOU8tVm02T3Q3ZjZNa1VCNEJLcFNTLTBNcW5CbjMtVDR0QmItN2lYeDNkZVFKU1Uz?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "원조는 맨유였는데…토트넘, 오버페이 1,2,3위 모두 차지→이적시장서 무려 2,456억 적자 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeWFEX2FFM3AtWERuc1lZOUlIYkYybWx0OGF2NjVRZFZMY2ZERFpwU2Y2QVpVWmpVdExMdkdJckFGMUZyblN3LVFBN0QxWW1RdzhaZXRNdFlNZ3Rr?oc=5"
+            "title": "'4486억 투자해도 중위권 못 벗어난다'…토트넘, 2026-27시즌 EPL 11위 예측 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrZzYtN0RsT0piMGx5XzFTMW1nbEk4bkFETGh4dEdJMkh5czU3WGhFMUFzY3JsczJNWjRTR2tCLXJlNk5faXlvVVNzTmVOUkV5MWlGa0lET3J3dnlS?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'발리슛이 골대 대신 코너 플레그로 날아갔다'…토트넘 역대 최고 이적료 영입 비난 '역사상 최악의 낭비' - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yMDRmaVM0dDl1NHFzdzUtajZuMFU5OUF3UlVZMHh3Smtlb3ZXTFFiY1FkNlRkMVowanh5QTJmdGtwcXVUQ0RjTTVnVmg4NFE?oc=5"
+        },
+        {
+            "source": "경향신문",
+            "title": "수천억 퍼붓고도 고작 이런 경기력?···시즌 첫 경기부터 ‘참패’ 나란히 고개숙인 토트넘·맨유 - 경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yZGM3SkFwOVQzc2pmMmdlVUZoLUdSdi1ST0JrYmtLNmpEZnI2d2JPNElYVE9ZRVJwYlkyb0h3d0JsU2ladURqdTJTSzNQUGF6c3hrcVN6LXNhUdIBX0FVX3lxTE5ZNk84X2ducF9Vem4weURQVVpZdUtQNUFBVDBSNUZiRUVuMkhUMDMyb0RLTVkzcklaNDN1MlZ2RFYwX3N2S2I3OTF5LVB0ODFFZVdUVUpXa2JWbjRrYUtJ?oc=5"
         },
         {
             "source": "이투데이",
@@ -89,21 +104,6 @@
             "source": "조선일보",
             "title": "이견 없는 GOAT…퍼거슨, BBC 선정 EPL 최고 감독 1위 \"20년 간 리그 지배\" - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSy1FdXotcl9zdWFLbXdodnFRUXQwaGJVZ1QxdE1adWRaeDlVUjhoZnEySDg3My1RMnVseGw5RWtHQUJHTUgtOElSQVR6TV9va29uTGpUbDBldUI1Qnhqc0U1WG5SMUNHMFJsR2VrbmNfUmtEMXhHLXROOWlfWVN6SU4ybW9jblVZNmQ0?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "\"우리가 꼴찌? 그렇게 확신하면 베팅해라\" 헐 시티, 맨유 2-0 격파로 강등 후보 평가에 정면 반박 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjLU10amg0UTF5aUlJUlVIZmZXUzRIR252ejNDWXI0RzlNZURwWUg0N0JCMU5hWER6NV9KMFlNWlV4Qmh3WUpiTy1oVVpEWnhQdkowa3FlTnBVWHduaFpmd0pBMWpTQ1pFaWfSAW9BVV95cUxPTHM4OEt3MHpKODRkbEJSR3RnYTRzdXRNNVlPczBrTFdFNzRtZXNfanJvVDMzN3VGd3FjYXRVZ21ubFY2SjQ1YWhHMFd2Z1pIQVJkUDYwU2FZdnhybjNVVFpFbldfU0pwYUwxTDZaVTQ?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "이럴수가! 고작 1년 만에 팀 떠난다? \"이적료 945억 책정\" 첼시, '전설의 아들' 델랍 매각 준비 - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoUWRqWUlSNXBwN3Q5dWhUZ2loZUJTNi1wcTZVMnNJMXRqbS1BVWxHSEVSak9pTGZGb0EybWF4d3k2dzZsWWVId3RpaDJiMzdiNVRFNGpaOWp3TUNmRC1xeWJXYldRdjVZek41NDI5SmEwR1o2U0E?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "日 GK, EPL 데뷔도 못하고 '충격 4실점' 지켜봤네…조롱까지 쏟아졌다→\"PSG 무시하더니 꼴 좋아\" - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBNFN0eHM3bkd1NGtBNFJaWDU3ZzJhbGF0WS1jcEVDQWc0WVRIVFltZ2Z3T3RoVVVhcjZuSFNyS2ZsSEJkU25TUzlJQWxaV05MaVlqSw?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-08-25",
+            "date": "2026-08-26",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
