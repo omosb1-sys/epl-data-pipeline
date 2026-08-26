@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-26 10:22:31",
+    "timestamp": "2026-08-26 11:18:18",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Chelsea news: How did Xabi Alonso fare in his Premier League opener? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcGxJTVpna0xHRlNEOGNTRlRlaVBhUElKeXliUnU2YUVkZ3ZWa0NXMkRBNGo1N2l2WnFTVmVsVXF1NS14SThZdFRxQi1wbTVYMGNmZ05mUU9WM0ZjZ2pHNGJpejFqbjBKNTF3RjFSeEJwSG9lb3VGaTM2YTBLanlhaDFRT3ZJcDdJQTNkVnREbTBNb1dxT0ZPbFJiZ0ZIaVA5LV9qZC1MWVRsb2J4bmp5a0xmQWtfZGIzX0cteExMNjY4bFJyUUhITHRmR0MyaFZfUGlJaXdPbUhMYkNGdjVjV1N0b3RNNlhkLWFZQlA1d1M?oc=5"
+        },
+        {
             "source": "Premier League",
             "title": "Alan Shearer's Team of the Week for Matchweek 1 - Premier League",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjhEZHVsUHlsUWdmRVBBZm93N2gzVzhFc09yZkVzdXhISWE1S2NrZk9Ib0M2dzBZTFZ0bnVFTzZBMUpuUmdZaS1Kc1VvU0hzZU9zd0RJUnBXNlIxcS10RklsVVBCRzk1al9zWVkwbFVIUl9TbzI3WnVPaU1kRXZUbkkwc1RhUGxhMDAwcGlxeWlaVVZaYlhB?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Premier League: Fulham 2-3 Chelsea: Xabi Alonso post-match interview - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zaG1sVm5BZ2xJT1ZtemYwZ3dmRnZtcThRa096elRMYTdFejBrei1FOWN1SFlmcU54Sy1MWDh5M283NHBCSDNLQ09zM2YtNy1TV19za2E5UzFQTEdzbHp1dGRlUktXQVU?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Chelsea news: How did Xabi Alonso fare in his Premier League opener? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcGxJTVpna0xHRlNEOGNTRlRlaVBhUElKeXliUnU2YUVkZ3ZWa0NXMkRBNGo1N2l2WnFTVmVsVXF1NS14SThZdFRxQi1wbTVYMGNmZ05mUU9WM0ZjZ2pHNGJpejFqbjBKNTF3RjFSeEJwSG9lb3VGaTM2YTBLanlhaDFRT3ZJcDdJQTNkVnREbTBNb1dxT0ZPbFJiZ0ZIaVA5LV9qZC1MWVRsb2J4bmp5a0xmQWtfZGIzX0cteExMNjY4bFJyUUhITHRmR0MyaFZfUGlJaXdPbUhMYkNGdjVjV1N0b3RNNlhkLWFZQlA1d1M?oc=5"
+            "source": "Chelsea Football Club",
+            "title": "Chelsea’s fastest Premier League goals | News | Official Site - Chelsea Football Club",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYkdvS2xUVEhXR1V1a1kwSEZoRjRyUlVUQnpCNmtsSEgyZW1mdThFS2FXd2cwN20wV1BBeWNJckcwQ0tGOFJHcmVlZWdVV0JLVnRjZDE0dXpjNVpzYXp6dnFjVVpZWDBxcE45bWRFU0o3QkRYRDBpSzIzVTVmQmxhd3FYRHQyQQ?oc=5"
         },
         {
             "source": "LiveScore",
@@ -58,7 +58,7 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5"
         },
         {
             "source": "Premier League",
