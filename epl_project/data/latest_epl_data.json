@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-29 02:31:59",
+    "timestamp": "2026-08-29 09:28:53",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Emery and Watkins ‘shed tears’ saying goodbye; transfer latest; Celtic and Rangers punished: football – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeTY5ZkRGamg2UVFDeFdRcmtTOHVDLUtNckx1SVJGMDk5cEYybnhnSkxXbjNvcGRJZ2lDOFEwUndsX2U0bklrQXN0QUdoWnMwdTlXRVlxVTlOQ1NWdkU1QkhUdzRsQlc0aDRvNGxCUUFTd0hhN3U2WGtPTDNVOWR1LTFEdEstRHpSNzJqYURYSlVEd2t0VWg5SnVUVlNYV2VkYUxmWWNxc1RUX3hrUzRUWkVtS2l5STFjLV9EQzlYQTRCOHlNVkE?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Recap: Friday's Premier League news conferences - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZ2lFUmR4WmlNNmlIckVmbWZOR0RhUDdNNTZTYjdRd0hnUzhTTWFkM2YtZkF4WFVoYkMtUmdydmxIRmtuOVRrMUdzMlgteVpJU0FPQUREX055M1g1R1hWM0pBOTBQQQ?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yY2lvYlJjcWJUWnk2RGQ2OVdlUTRNSGxhOEJJdFpldUlFdTMxbzEzY3NDMjdtRGRDNDJOMVpFREFKZUY5anFPTWJXUk56TC1pS3ZYd2VCMEZQUlFKWGFsNTVNOVlVdw?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Frank Lampard: Coventry boss on his managerial inspirations and proving doubters wrong - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBS0VTcnI5T0JXWC04Rl8xM0thZUxNSWlWUUZXSWhXcUkwQlktN1dZbGJBZVo0SEpKVnpyeERkWlVZcF9iNnBxLU1Gcnd0S2RpY2N4M3hTWWVzVlRoc25WdGlxOW1TMmM?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Premier League should steal European ploy to solve biggest fan problem - Football365",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSFg0Q01iVjJqeWlwaVdlMzF6MDBRYXk0cVhPdmF1anc5eFRRSm9wT0JSd1JkMURjTWlmaDNCLXFNeUlPNFpqZHJvMm5xTEIydmZGd3ZxMlktbm9fV196TmE2NUk1S1ZYLVlOanFTcUxuZEtnbjJTNFFDUThTQUIzV2NOT1FvVHlrRXlacHNzTk1ZNDQ?oc=5"
         },
         {
             "source": "Football365",
@@ -57,8 +57,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTNib19BT213UW1CVEVMQmZnSFFpRmNSSTlETS1SX3JlX3dkd2ptWDhDQjJYc3V3TFFsMTMybmhYUmp6WkxzVGZwNTBndFN1R2Mxd3RQMFhtbjBiajYwTDhUWHhtS1hxMHkzb0lBUTk4NThNcEd1MWRKaEs5SUpENWtNX0I2XzdBN3JucERlV0NDWDNDakxSOFJmVU1iakJVM19kYVJHUFkyMEtXVzV0OWtORjJqRVdCMTFUWnRIMlk5dVlFNmZqNFNSR3phR2JaU1Zoc05wZGNOaXVfUnd4bWNBTmwyRjZHVnVUcjZGM09lN1JCZUxV?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Premier League",
@@ -66,9 +66,19 @@
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "“한국 축구의 충격이다” 日 깜짝 놀랐다! 맨유·아스널인데 “KIM, 프리미어리그 ‘디펜딩 챔피언’ 이적 제안 단칼에 거절” - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTEpCR0Q5bUpVY0lJWG9WMlhKbUxZN0t1bTliOGxGNWU0UUlPVzZKemF4dE5LeW9uYkw5dDhocU9LUV8tMFRKSHV5bVpMWlE?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "황당 몰락! '배신자' 소리 들으며 이적한 아놀드, 결국 PL 12위 구단으로 향하나...\"뉴캐슬이 관심 표명\" 英 복귀설 솔솔 - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40bnI0TGdWX2lFME84Rl85R3VTWERKemhQckVpLXRieV9oQnZrd1p1WXYzMlkybWR4Q3JYOTZvaF95UlpBd1VnWHhLd180NW14SHVFeG56b2ZIZlZzY3c0UjM1SjRSWjYxaE5yaDhsUUhXWm1SSnc?oc=5"
+        },
+        {
             "source": "네이트",
-            "title": "28억이나 폭락했다…전현직 EPL 스타들 집값 \"와장창' 왜? \"오랫동안 지속된 문제, 범죄자들이 부분적 원인\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PX193RWFSNS02OWszdXA3UW1lRDBLSVFrZVphLUdEa3RYdmtQZGM0Sm9QSmZnbmhreW52eWJuZ2NCMGtKVUU5S0xBWU9NZWpEa3IxLWkyam5CM2FD?oc=5"
+            "title": "\"맨유 우승 확률 9%\" 어차피 우승은 또 '그 팀' 가능성 매우 크다 \"첼시, 리버풀, 맨시티 합쳐도 못 넘는 수치\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnZBSVQtR2dPREFWM1owSXViSWZCSkJQNU9kemdCX0R2Uk56Wmh3WENjbUk0S3UwUHFqelA0NnJOT2hWVzBTVkUyeE1tU3dPOXdzR01vWnJEOTdiMzBHVWZMRnRvN21RQ3hBWmlid3dDNUR1eE9QTUxLQVhCMzdYY2xR?oc=5"
         },
         {
             "source": "머니투데이",
@@ -76,34 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOTVjUm9jX2ExNkc4WkptSC1mRHgzaUpubHFZQVVTcHJPa09ocUliZ1lhVWVMWnNkbmxHRmlnMW13eVd5WXFFUlNDa3RaU2hMSXp3ZkI0Qy0wME5kQ2pRcXd1REU5cnluNmfSAW9BVV95cUxQODk2ZVFDaWF1S2g5NTNuclhvMnZIeldKdld5Y1p5SUREcEVDeW4xa2hCc0dPNHBlbG1mNm9NYUNPVEtJWXpjRWZJQUdacUZGQ21oQm1SMzhfUDZhSm5NSTh1amRJZGVEWjNRZjQ2bEE?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "공 잡으면 2골, 공 없으면 미친 압박… 완벽했던 맨시티 셰르키, 마레스카 감독 \"정말 좋은 경기했다\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxSHNuTWZENEZvZzdRUURDcFJzT3FxUmdHVlB1VTVZNlEyY0xJdkdocDNrbFRSWWxmaEotSWljQW9tVUEzMldGWHhVcElGajA?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "과르디올라·로드리 없이도 강하다!… 격변 맞은 맨시티, 홀란·셰르키 멀티골 앞세워 4-1 완승→ 리그 2연승 질주 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeEFMODdjZzE5RkZsblJ0Q1NzdXVuMnZkU3llZXFrOW9MMVVBaE9kRDQyVDVSbzdOaER5SjdJZ1RCTjZ6NzR5ZGVmVFBENGs?oc=5"
+        },
+        {
             "source": "xportsnews.com",
             "title": "\"역시 안 되나\" 日 대표 유리몸, EPL 복귀 2경기 만에 다쳤다…\"부상당하는 모습 그만 보고 싶다\" 팬들 아우성 - xportsnews.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12TUw3MzFCeVBaZTdtVS0tSDlRZ3ZncXp2Y293Q01OU0xUXzlVdjZwajU3Vlgtcl9EVjFiT2ltZDA0Y255SUtqbHVMSDJZbWZmdGJsVg?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "“한국 축구의 충격이다” 日 깜짝 놀랐다! 맨유·아스널인데 “KIM, 프리미어리그 ‘디펜딩 챔피언’ 이적 제안 단칼에 거절” - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTEpCR0Q5bUpVY0lJWG9WMlhKbUxZN0t1bTliOGxGNWU0UUlPVzZKemF4dE5LeW9uYkw5dDhocU9LUV8tMFRKSHV5bVpMWlE?oc=5"
-        },
-        {
             "source": "OSEN",
             "title": "'프리미어리그 396경기 123골 66도움' 레전드, 어디까지 몰락하나...'람보르기니 1.2m 공중부양' 충격 사고→3개 혐의 기소 - OSEN",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16QnFLd3M0UWJmTlBILS11X0NqeTBCWkt6QXpBX1dqNTg4bXpyS280M0htSXYzTE1EV0NsaGxZd0FiYThySnRIMUsyUWE4WUV2dExkaw?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "“맨유 우승 확률 9%” 어차피 우승은 또 ‘그 팀’ 가능성 매우 크다 “첼시, 리버풀, 맨시티 합쳐도 못 넘는... - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XTC1Wb0dsdEZIYm9uSm1NbG9TcGJvYlltV3dxaVpqaGhOMlJPRE43U1NxVmF2dVNRNTYyR0xOUW9mN2NORlc4TWZ1OE9mVklWcE4xSWFFMHVOWGgzOVHSAWNBVV95cUxQTE5sTE9DUmZwOFJCcnhDejJkMTRjUjRsbFQ4WXVMS0RSbGJndnFXcEFPTzh5ZUJMeFJmY2VxekZBLW9oTFFWRWRIYWNXRlZWUTVNR3VVYU50YzZLbXAzREtQYUk?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "맨체스터 유나이티드, PL 첫 경기부터 규정 위반....\"사무국으로부터 주의 받아\" 무슨 일이기에 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ca1N2Y3l0ckozY2dsS2I4RXFHbnZUWTk4QkRENVNOT0RMSkF1eTE5NDFKQktUcm9jVjhNanRzV04tSy00b2N1Wl9tQ2lqc0J4NGJhS2NFdHpRamlxTnJNUDR4T3ltd2YtQ2I2dm9LM3o?oc=5"
-        },
-        {
-            "source": "금강일보",
-            "title": "'브라이튼 6위, 토트넘 12위'... 옵타, 프리미어리그 순위 예측 발표 - 금강일보",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zTDJrLUwyR0xRbE5RMTBabnkwVGhpUGtiY0JZZEtleWRQQVE2VlVhdmwwY1Q3NUhra3A4N050ZXNkMV9IN1hUTFcwN2VYbFVLamtqSFktb3FiZV82aW5QXzhlQWsyN1psSEE?oc=5"
         }
     ],
     "transfers": [
