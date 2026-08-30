@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-08-30 00:51:04",
+    "timestamp": "2026-08-30 06:00:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Tottenham 0-2 Newcastle highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSURCemtscXhaMVAtdGk1VXY5Zm5iaFZWckg1ajlHekJaZDBscmpCN3Y1bVJhMWxoN21ZM1dIVDVxaGRodUgyTjFNWXNPZkNmZl95UE11aXN5Mm0ySTV6VzhWa0FHLWpkdVlHeWt3UVpQOF8yZ09NMGxCVWpRLVowX01FR244VXpaT1pxS2xIeHRxakhtc1VFdTFKQUVINUkzUl9XUEx3Q0Q2T0lWbUlnV3FkTzFSUmtnYktaY2MwMUdMTDRHQ1ExZjNIdkhDY0ZDbFZaV0RQemRUUGtFejhPM1RjUzlVNGNNaXFpMW9heVYwV0pDNVE?oc=5"
+            "source": "BBC",
+            "title": "Liverpool 2-2 Nottingham Forest: Victor Munoz rescues point for hosts at Anfield - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSQUV2UjA2ZkZfemlmdnJkSHpEaWsza2RSR1hIQzNadGpuekVqZjRtTUJ6NksyeTNQWVMyYlV0VlJDTFlkSFYzeEpidWRZY1JqZGwyczV4ajdhaDd4ZEpva3VCS3Jndw?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Tottenham v Newcastle: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEpVeUoxREVfU1BQWXhEN3I5ZHFrNWZuRmhraXVSX1BHcGJEbm9LQTlYYzMybWFUZFpDd3IxMHJMVmdYbDQ4UFczU1Z5QmJVMmdrdlJYNmhEUnozMnJRV1hFSy14Wlc1OUhJR0s3bU1QLTlyUnlnd3hOTUZ1TzBYNzFNS3hpXzNHSGlXMDhJUldxRENadmh0NnF3U1pLVFkxcWxaanV3?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yY2lvYlJjcWJUWnk2RGQ2OVdlUTRNSGxhOEJJdFpldUlFdTMxbzEzY3NDMjdtRGRDNDJOMVpFREFKZUY5anFPTWJXUk56TC1pS3ZYd2VCMEZQUlFKWGFsNTVNOVlVdw?oc=5"
-        },
-        {
-            "source": "Daily Express",
-            "title": "Transfer news LIVE: Maatsen to Man Utd, Arsenal Alvarez deadline, Liverpool medical booked - Daily Express",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQy1OTmJZSV9OLU1SWS1hUzRCNElOeGdWd01NcUdxcEJLVWMwODZNbXl5cTBkYS1LMTctTjFoRll5VW1MRTdVdmdRLXB2REMxTlZDX3VtRk1BY2p2UFZHazdzTFUxc0ZLaVVleDhQRkJmM2dXNkstTjBvbGVLQkZnVF9iMlRHX0ZPQ0tQbksxZjg3VndmMTVPVno3V2JLTE1MTHFV0gGoAUFVX3lxTFBaTXdPTlhaZDFLZ1ZicFpLOVF1QXdYaEVmTWNIVTkwSFZmc2I1MDlySE5nNGlsbGhQWDFDR3pYZ0dXRktvcV9GSWxWLUFhOWF4Q2pidFRaU2VaTWI5eFRzRm4zR1BEVEo3dTdpOU5memJNaGJpX09zZzZXZkxJZ1QzYm83UTVDR1N1eXJrUkNzeS1wWjFTcVpIUDZ3SXROZHdHeFlTZV9yMw?oc=5"
+            "title": "'Not bad for the worst team in Premier League history' - Hull's perfect start - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaFJOdWtnWTBwdFM1a0dpRWhldE5YcVNXbHZhOEpGTHlVUTFEeVlZb2p1OE8tX21WYmNkVmtOYVZPNzdqN2lNZVlVMzlHU0hMY3Q2Rno5dG1VSlJXLWVxdDFvZkZqcnc?oc=5"
         },
         {
             "source": "Football365",
@@ -37,11 +37,6 @@
         },
         {
             "source": "The New York Times",
-            "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHp1VHBISnUyZXh4Z3lLVGRSM25oVWpPV2FDVl9zVG5FZE9RWVZodXlRMFZQRzljUG12Y3U1U1g3RGlNcDNRQTFXYzFFdTdyNjBpbDlXTEQyRmx5RUFMQXBZeExfY3daaGNHV3dxbFRfUVFQenZOZ01nS2QzZ0VOeDk3eWJ6SmNOLS1OVXpRVlFvRHphZWVCal9HWXViZndi?oc=5"
         },
@@ -51,14 +46,14 @@
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5"
+            "source": "The New York Times",
+            "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Champions League 2026/27 fixtures, dates, schedule, format and who has qualified from Premier League and around Europe - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMExoTHJjVXJpMUNNSVZ0QXpDcEFKanFfaXlqTktacVZrdm9MSzVxX0RsOTU3TUkwcDVfdGpGdUVZclFyVTczaUE0Zm4yRmxUZDNjcXgzWFltNGlIcXZGbjN5LURSUjJWcVpDMWNZQ0g3a0FEVjQxVkhMVy1JMkpEbXQ2eV9yYVMxRF81WDRVVkhkX3U2SHJCbkxCQjdJR2x2U2NoZTVmeVh0ekp1V1B3WExSVWk1M1ROOGgySnZHNlRzajlDTlRyMEVlRENveDBnSFJKdWQwTWliSVJmSTZmeUJncVdlOXpkZExfaUhKeHNRVWpONndPWnZxUVV4S1k?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5"
         },
         {
             "source": "Premier League",
@@ -66,19 +61,19 @@
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
         },
         {
-            "source": "연합뉴스",
-            "title": "\"EPL 맨시티, 리버풀과 공격수 학포 이적 놓고 협상 시작\" - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JUzVzdmFOMXVqaDdOQ1g3NkdMaWN0NVp3UVNRa3hfeUtaMVhMZWM1U3JaNFVqRERTRGpZT0dhUV9TR2s3T0o5UkFTR093VzFMQm12ZkFVS0dVS1XSAWBBVV95cUxPd2RUenFGYUZlMHNTdDZkN3BrNTZhWkFuRHdsQUI1V0lDQ29lbG8yQ0U3UlVmYzBmS05CSWRtS1dNRU50NGNTUkJwOW5ZZC0zZjlTZDFqbHZ6WjJaX1h5MnU?oc=5"
+            "source": "Sky Sports",
+            "title": "Champions League 2026/27 fixtures, dates, schedule, format and who has qualified from Premier League and around Europe - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMExoTHJjVXJpMUNNSVZ0QXpDcEFKanFfaXlqTktacVZrdm9MSzVxX0RsOTU3TUkwcDVfdGpGdUVZclFyVTczaUE0Zm4yRmxUZDNjcXgzWFltNGlIcXZGbjN5LURSUjJWcVpDMWNZQ0g3a0FEVjQxVkhMVy1JMkpEbXQ2eV9yYVMxRF81WDRVVkhkX3U2SHJCbkxCQjdJR2x2U2NoZTVmeVh0ekp1V1B3WExSVWk1M1ROOGgySnZHNlRzajlDTlRyMEVlRENveDBnSFJKdWQwTWliSVJmSTZmeUJncVdlOXpkZExfaUhKeHNRVWpONndPWnZxUVV4S1k?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'또 0골' 토트넘, 뉴캐슬에 0-2 완패→개막 2연패·합계 0-5…PL 출범 후 첫 '2경기 연속 무득점 패배' 대망신 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43WHNDWERCN1ljMlVCYVdSZnc3WlIwX1dSVDZtQmcyLXdNSC1TNFhVSDYzWXZrdnQ1c1FlVHBCeEY1QXlTS1VBN0dxQkxhc1dVaUtjbXhwdnk0SEg4?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "'이적료 1869억' 토날리, 친정팀 뉴캐슬 상대 최악의 부진...BBC, \"실점 장면 모두 관여\" 평점 4점 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZE9yc1FvRVpmTUdaYzF6bnZDRDBETVI4S0dtQVRGMEFNaWdUd0tkV21HVnJ6SUZBNjNnM0hQaFNLVmZXZzd2MF9mazdiTGI2XzJHZkRmYUMxX01uVUJyODJzcGxENVFVZ1NZdWFzQldkUVhJRXNrVzdoSGtXWmhWaTlzMGw0OXBkVFcw?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "\"EPL 역사상 최악의 프리킥\" '포스트 손흥민' 어이상실 '장외 홈런', 분노 폭발…'황당 쇼' 이후 전격 교체, 눈물의 토트넘 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uV3JtaENVMndyekEwSnJuQjFXWjNRcmZ4TjN5bk5IOTZMU0RCMVZnaXRidGptSnYwRzl0NGUwNS15Um45LVlsXy1IOWhXWE93RUFOVGhSajYxQm5uZ2NYS3B3blZWSElIMkw4V0xXSFdZOERURkcxYUMxRWp6Zw?oc=5"
+            "title": "[오피셜]'주축 3명을 팔고도 토트넘을 완파했다' 1승1무→망할거라는 우려를 날려버린 'EPL 38세 사령탑' 뉴캐슬 야이슬레 감독의 반전 \"우리는 도전을 즐기고 있다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa043bHVhS2Q3TkZ1VWl1OXNhblF6RHZYR3E2QVVFcE94U0pmQUdGV2dBUEhJT2hRbFA0ckdDWTNCaW5BMmRuT0hUUFNMTUpjeWlfQnhlbFRNeFdGNi01WmQ2eU1SMEtTT2o2bEJGQ2FxdGw2Z3RtRUtxWGV5V0JXQlBXSjlGMzI4V3kw?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -86,24 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0VFhybXJjU3ZLM1o0U1I3Tk55eXVqVHY3R2llaHJFOXlRNVU1QXptaHBXUXA3NUN1RmtzdVZOZXpqZVhtSDkzcGU3VjB5TGs?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "“17년 동안 아무도 못 했다” 손흥민의 역사는 계속 재조명 된다 “토트넘 입단 11년, 소년이 레전드가 돼서 ... - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyT2F4bmNIR0R4aEMzdnl4dDdlcVhHUk1HUGdqb2haSE5xZlIxV0NVVnE4REZsSUdwTXRpMV93eXlEbDJzOVpEeC10dmE4MklVR25nWXRyZ0VVeXN0WVHSAWNBVV95cUxPZjE0bjdmQndaSFhSYnRTSUpSMDBZOHpYRHNDd1k5NXhMeW42VUtlYjNOS29ISFFlQmFxWjZwUFkwM0pnWEJHZjJFNUE5Nl9NY0tzUEZjNEFmZVRpNlZ4Vld3eDQ?oc=5"
+            "source": "조선일보",
+            "title": "'홈 최근 23경기 고작 3승' 토트넘 팬들, 종료 전 집단 퇴장...5600억 쓰고도 0-2 패배, 감독은 \"우리가 더 잘했다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGlKdkwtdU9qVndBdzdxNGpOSnhzSW1ESXBqOGZCbWktS3JBTjFZaml2MXhDQmt2NG1LRERqdGhEWGw4akY1SVh5dGJIdEpSZ24wVUhLSFAwS0xFc1N1elQxNEVXUU1ZMS1uXzFncEROSy1zVTY1UEZKZzBYcld3cXlJYlBCQmVHRTZZ?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "'홀란 2골 셰르키 2골' 맨시티 공격진 미쳤다! 팰리스 원정서 4-1 대폭발...마레스카 체제 개막 2연승 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOTVjUm9jX2ExNkc4WkptSC1mRHgzaUpubHFZQVVTcHJPa09ocUliZ1lhVWVMWnNkbmxHRmlnMW13eVd5WXFFUlNDa3RaU2hMSXp3ZkI0Qy0wME5kQ2pRcXd1REU5cnluNmfSAW9BVV95cUxQODk2ZVFDaWF1S2g5NTNuclhvMnZIeldKdld5Y1p5SUREcEVDeW4xa2hCc0dPNHBlbG1mNm9NYUNPVEtJWXpjRWZJQUdacUZGQ21oQm1SMzhfUDZhSm5NSTh1amRJZGVEWjNRZjQ2bEE?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "\"도박과 술, 마약에 빠졌다\" 프리미어리그 출신 스타, 충격 고백...어머니의 실종 신고에 \"잠시 일상을 벗어나려 했다\" - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yemxYWkRNZlhOZzktOGR3Z19xbU9lZmNiUWxhQ2s2WjBMZ0tFbTJTVVZWVG5xWFpNa2lnYmh6WVNueGlVM0twU1ZCbEd5NXhGdV80OFRfbnRaekJabXhHSGJRVUhPRFhhcF81amJoV3g?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "어쨌든 이강인과는 작별!…'3일 연속 훈련 불참' ATM 공격수, 아스널 아닌 맨시티 하이재킹? \"마레스카가 원한다\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xRXJITnJZT2pqWEU4ckE5NElpajdRVFJubjl3SWFqN1lnNTdZMi1iT2hrSXExNlJiWEExMm1rX0ZrVHdVWXM3RHNUdW13QXFGc2dpcXZSalE3WWdy?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "과르디올라·로드리 없이도 강하다!… 격변 맞은 맨시티, 홀란·셰르키 멀티골 앞세워 4-1 완승→ 리그 2연승 질주 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KeEFMODdjZzE5RkZsblJ0Q1NzdXVuMnZkU3llZXFrOW9MMVVBaE9kRDQyVDVSbzdOaER5SjdJZ1RCTjZ6NzR5ZGVmVFBENGs?oc=5"
+            "title": "“한국 축구의 충격이다” 日 깜짝 놀랐다! 맨유·아스널인데 “KIM, 프리미어리그 ‘디펜딩 챔피언’ 이적 제안 단칼에 거절” - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTEpCR0Q5bUpVY0lJWG9WMlhKbUxZN0t1bTliOGxGNWU0UUlPVzZKemF4dE5LeW9uYkw5dDhocU9LUV8tMFRKSHV5bVpMWlE?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "공 잡으면 2골, 공 없으면 미친 압박… 완벽했던 맨시티 셰르키, 마레스카 감독 \"정말 좋은 경기했다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxSHNuTWZENEZvZzdRUURDcFJzT3FxUmdHVlB1VTVZNlEyY0xJdkdocDNrbFRSWWxmaEotSWljQW9tVUEzMldGWHhVcElGajA?oc=5"
+            "source": "뉴시스",
+            "title": "EPL 맨시티, 리버풀 소속 네덜란드 공격수 학포 영입한다 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFenJLRW9nYTFQOEtxRVVxQmhLREVCQkF4WkRMQkNROXZDYnQzaU5McjA3SndIUmdPdUR6OFN5WVVCLVJCTlQyTGFYaWtVaDBjRTZFZ1VzX2RUcnk2NDg1b9IBeEFVX3lxTE1BbGY0S2p6ZW5RTXhHTklkaFg0QkxQRGNsZ054MDIxS3d5RDJDVnVqTWpRZG1JTkoxVGE0Qk9EXzI0Q0xicFlLNnUyZE5VMkVzX3pMQWF3UzZZWkFFR0VlRUZvbVhZSHRIQ2lqR1JpNndzSEszYmdWcQ?oc=5"
         }
     ],
     "transfers": [
