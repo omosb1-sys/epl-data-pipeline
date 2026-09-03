@@ -1,49 +1,34 @@
 {
-    "timestamp": "2026-09-03 06:36:14",
+    "timestamp": "2026-09-03 11:48:29",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Ranking the most game-changing transfers in Premier League history - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yT0o2b3d5R0RoellJVlZWaHpsU1dzQ01wVVJSQ3puOWNoTzhudWdEZzNPcFl5UkdPNHJhdjJXaDhuRFh5MHBQbFFYZW9VQ1lpRlNTTk13U3puQlJkVUs0T0szR3V3VnM?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHJDX3pxdGpUSldadkNxT2tUcWhMWkxNZkdhTlAwVDRFSktGemN5MU1TWEdQa3hOSXlQMFJHbDJTeTc3cFd3TG94cGNwTTFlT2U5MWF6TWR0bENCbnBKRjBMWUJlTnpoazVCakl2LUpJZE1aMkN0SnV6MEkwVXVnNkM4dHRyclBIVEhuNTN5YVZxSHhITXF6OVhPaUx1U2kyam9IRkkyWFRGNEt3aHk4WWNSSnpIUG5NdkdtUE1VRTM?oc=5"
+            "title": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMHMyZ21wUG12ZkJ0Y2dXYVB4R2ZwYWR1a0pIdGs3alBXbVc5ZmZYbGNGbUtuNEwyQmc2ZW9lZ3F2Xy1vYmhGbmhCQUE4WklVOEFGcVJXdHR3Q1VaaFhoNDBtYW4ta2YzSWxtMERjQzZWdUNfRTNZSWR4alhlX0lzaVZNTHBNS2RjRkJqdVlKUm11YnhqLVhjaF9NTXp4Tk1MMjdoVHhYYnNtWUxJbXVxTlNyZVJ1ZGtOQm16OU1RR2JRNUE3R3ZOc1ZmWHhQN0NIWTRhN3BDVWdiaVd5WXpR?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Ranking the biggest game-changing transfers of the Premier League era - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNmUwaUhCdjEyV3UtaXFIQXIyeFF4SFowSndlc0ZwV1plSk9XdXhEOVMxYlBrTE5iUTltNXRmUElVajJhcUZ1ajNHNG5jalpoMnR1WW00YjZGRUFQbUlCSE9jYXM3UW5jWFE?oc=5"
-        },
-        {
-            "source": "The Independent",
-            "title": "Transfer news LIVE: Chelsea furious as deal collapses, deadline day signings in full - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWk1czhRZ2NfSXZJc1QxRjd2X1FWNllQYW43djFSbWp6TGVreGVPUkNhaDRPODJwcTFMTXhLUVJETWpSVHpJRFpIUHlYYXFzTWQ4Zzd6MGR1MkE5NTM3Y0lRWmpaWmp0b21Vd1UwdmdSOGo0bGtpS29FdWUtbl9peGN4cXo4QmFlYXhSSjduWm11ajJFdHdlZ1laTTFFVUtoaFFMMXB3RkNSZzZSVnY1MGl1SUpJNlFfRjlj?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "‘Deal on’ – Fabrizio Romano drops exciting Liverpool update as Reds make official contact ahead of deadline day - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWnVVWTJCT2RCTTVFd3NBeHFjZWFmc1JCZEo1ZUlrTHFYT3pNWGdrY2UybDZqT2FEdENrdHNtb1ltWTdkeDM1dEVPZlY1MjRPd0FkZ1pqaWJSWTlTbG5mZWtvenViQ05WbkNHVHFqay0yVE5jejhjTnlmczJBbXp3Wk8wRUlJMzN0MzNfN3RRU2g4MlVFaWRjVzFEelgzSzVTMnVJNVRKdkNJM3RpRFgtN3ZBTmhwUURYZnFTRDVLOFJNa3E2NFozNlNOZW40X1hMTzRUWnl4QXZLREgwVFdFN1RNSU1lVExlb3I4bm1KazVBQmN3MndWdTVIRktCbUJ0bmRJcUtTTkpNRTZY?oc=5"
-        },
-        {
-            "source": "readliverpoolfc.com",
-            "title": "‘Decided’ – Fabrizio Romano confirms £85m Liverpool transfer u-turn - readliverpoolfc.com",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3V0c0NmZ294RnQ2MjN3ME9GVTVZLU10UHAtNU44MVVBSHAyVVJ1N1JqX19XWDlpU0JFZU92M0h0U3JJVGJWQ0FicjNyeXNBQnFMdnZpUGxwd2VyU0hTcHY0Tlp2ZDJOX1cwa081TFdpZE5ZdldEZ3FuR2FXR3hBZjE4WXJINnJCcXFMUGUyVFg0bEtiV0xNWFVZV1g?oc=5"
-        },
-        {
-            "source": "football365.com",
-            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - football365.com",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
+            "title": "Football gossip: Garner, Martinez, Kroupi, Kofane, Camara, Martial, Wijnaldum, Richarlison - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ISFBoRHNRNUQyOFFwMHQ5NlFiTk82c2lEdUcxTzZiMXNNSlhLZ0JZVHBoOHVCdmF2cThsalJTTlR4UTRCcHZwOEtlcWtYbXlmaE1NZGY2MUdsWW83SC1ZcVF0TEVlZFU?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Cody Gakpo’s Manchester City move off as Liverpool reject £80m bid - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQklPTzFqTEtMbmpmVkl2SF9pRzZpYVlGcE1QazlkOENRaEVPLWF2cV9WS3M3SnN5dlJpbzM0TTBRU2sxLVBla3c5amtYYXl3dFFuSUh0Y2lLdDcwbGJCU1FwY2lVcEt1bm84RHlJcElXQlB0T0lXaW1maG5lQTdQcFU2OXRydzFwZm1lWUxjNWFtRmxUdWpQbTRn?oc=5"
+            "title": "Tottenham make enquiry over potential loan move for Chelsea’s Mykhailo Mudryk - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVpjRFpTQWhZb3hEaXdMZzRGZGRqdy1jNXdlNV9HaGE5b2MzOUktVGRiZzFpNWxwV05wam95WVZ3RElrY3I2YlpYdU1MYTlhTFRSYmJLWE84amVWNTdiMHdFdEtGSTFobnI4LXVBTGxYTHF1WktmTE15R2FvRmhWdWZESnZQSnp1dzdIUU4xUGdVd2Nna3FrZHBtWWFpMHdKLUE?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Champions League players to wear new ‘debut patches’ in 2026-27 season - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlhhTXZWM2xFWHUtZ1FBQzRlRS1BX0phallDbmV2TDdvSDVYTlpFZF9BR051eXM0TDNST0FXdWVRV2xSX1VtTDQ4RHpBdWtIXzVITnBYNHBHcXFkbGd5cGpmVTdaT284Z1VpYTRwdU0xRlJMeDQ5dUlaLWtUZnRuam5zQ1U2ZzktMDNtbVJIank4WGVneXFWS3dJNTA5dw?oc=5"
+            "title": "Liverpool reject £30m Trey Nyoni bid from Nottingham Forest - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzZjN2RGYnRmeHQ5Vjdka2hrb3k0bzQwTFN5eGFxZjE5aVRXb3lxbk9UeUNkZTVrTlZRYUZrOUlidFF4MVU0MWxCRkp6azNhR0gzUjV0OEZtY0NmcW9ZQkdMTHRJY19yWjJrcmFNMWV4STFKOG81YlY2Qzk4WEJZam5pUkRpMDBkVkRZM2JqSjVnSFRiWDdxWkIzbw?oc=5"
         },
         {
             "source": "LiveScore",
@@ -51,13 +36,13 @@
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaFducmRxMG5ieU8wb09rV1pZZHcyWHFvT0lJdWtHSjV6YzBreXN6UkZVSnBlT1FSMm1FS1JMbWN4Q0xlRUNzVmRuT1Q1QS1Nd2EtLTFuR3d0WmVjSVlPdXh0Rkg0TnlCNE4ySlhFMk1oSEZYdGRsT2lESEpCOEJxOW4tREY2dEFnaV96aW80QWZXYWZ5dC1PSHcxX3FfcE1hMW5zR3RmV3Z4TmFfQkU1cjA3RjBUUWpiWkpxLUc4S0Fjbm8waHVQVldreWo4a3NYT3pKdV9HWGFtUlpQSG1KOHRuSjVhN010a21ZN0Fn?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer deadline day deals summer 2026 - confirmed moves across Premier League, Championship, EFL, Europe and more - Sky Sports",
+            "source": "skysports.com",
+            "title": "Transfer deadline day deals summer 2026 - confirmed moves across Premier League, Championship, EFL, Europe and more - skysports.com",
             "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1pzWDI3QzlWV1RlbmVKamRSYWJmeWxGVkp1d3BmczBpbE9UYlRZZkl0UlNqRlJneGJ0Q3d2c3hMTndCZ3R3NW10RkdRSEFINlB6djBVSEI1bFdKRGlIa2drTWtMWG9NNllHSElxeXFrRnRSRDlUcXZOZkd1VUY2c0RDeHBCazNNUXJOWXdCU3I4ZU1KOFJ6RTFJMzFOMjF3dWQtNElPUDFzNHJiT3ItNnUxSHFmNm5zRkVtbnJtcFo0UWp0aXBMMUs0ME95aWNQcmUzOVZrWnFObTBBV1RUV29QLTA3VjBNSHh3Yk44a0ZZRllxRHltMA?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+            "source": "skysports.com",
+            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - skysports.com",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaENvTjlqeTNEZkVkQWwtbklKRHNWS0h6dnhoNWtmUGJRVjVFaGxCTEZtd1pJa3d6NVJWeDJ4cnl3VUZEb090SW1xelNXUHkzLWg1REEtVC1tTlNfa2RJTDd3WW54ZUdEYks5bTRCVFdMYk1fOFhNU0tVelBKeXcySlhFOXFkM2NfY1MwNmQyaWFkbnlQbnFybDdHN3hoUS1ZTTROeTNnNFY5TkFCTW1HRnhnV1FVV0ZBRnR4QVN1VERmSXVpdk1uTWVB?oc=5"
         },
         {
@@ -66,19 +51,9 @@
             "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRlRTSnFnX1BSWVpxUHNOaHB6bEpaNVc2RnpJWVFLVmd3Q2ZWc3VVcWxlRGdaM0h4UjNFckFLcmstay1HcnVRZ1NfSWRacTlzWHZab2lfM1cxZ2dQNVh0TUVhLTd3ZDE3Wk9DQzNSTjFGVktSTUhDYXZwV2NVWUloR2h3N2x0YjRsOVA2R0YtMXlEbGV6QVJPX0pHYW5DQjkyWmFrQUFEcm9IbG8xY0VWTmhzUVVkU2hfX082R3Y2V1o4VnEtS1pOSFFVQm5BU0FPNzNpLUFBQThNVWY4ZVhsOVpUR0o1Z2p1VHJ1S1lmeXdxcEdoUjd4NEFFcw?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "'억' 소리로 부족하다...'무려 6조 4000억' PL 이적시장 진짜 미쳤다! 2년 연속 신기록 경신 \"맨시티 1위·첼시 2위·토트넘 3위\" - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdzhrY2ZqWE91aEJGbkV6SmZiOGFrakpHQlY2ai13Rk8wbDc3Z090NDJBU3pLbjdtX0otcVpYTWt6Tmc5Q0tYLXVsc2Q2R2FnM0dJT2xLTVpFbWNpU0k1UzJZYXJiaWludUHSAW9BVV95cUxNX3NrNEhHVUU1QkdVUnVyOUVJdzB3VVNMNkV1aTNudWtmV0hzN1RrLVdSVzdjY2x6REFFZHRuSThMZW1rV3hhQU1pU2lKQnRncTg0T1k2NVBYMS1Ec2d2bXV5em5zZF9JRDBsaFlSZG8?oc=5"
-        },
-        {
             "source": "네이트",
-            "title": "좋은 선수 원해? EPL선 '큰거 1장'이 기본 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzNjFqZmI0UWIyMWFxTlR0TmVkN1pwb2pRLTJ6RHAxRmpMd0Jxa05DeDNXbEp5N0kwQzU0RVFaVFNGMFhhRVpJdVlXSkhmZUtpc2pwcno4M09td0tfYW13NA?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "분데스리가+라리가+세리에A+리그1 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OOUJGdkc2VzhOTEdySTY5ak1QazRGVWtROGtxWGUtR3dULVRIcnFldUxNNUN6VGZIUVRzODJOX084LXBPNVNYWWxaQk1uUGdoMUhzV0hmdk1CRXZ3cEE?oc=5"
+            "title": "[오피셜] 맨체스터 유나이티드 '그 자체'…홀란+셰르키 제쳤다! '캡틴' 브페 EPL 2라운드 이주의 선수 선정, 득표율 69% 달성 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EZG01Uk1TNWxsUFNMdWxWS1BUY0dnVWd3VDNwNDZiSm55QjJ4X1BhaTVYWEk5OFhsRmd2dUNnMVBybWY3TXRPbklYaTViSFV1bURrRElpRWFISU1p?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -86,24 +61,34 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IcGZNV0xkN3VXaHNnTFV2UlE2ZGFJM1o3T3BjazFZX2JFS08xOGs0NXJpREpvT2VKejRIUjFOV3hNenRkV3p4QWZCUG02ak0?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "'황소' 황희찬, 프리미어리그 복귀 길 열리나…리즈 유나이티드에서 관심 “울브스 떠날 가능성” - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wYVNkM240ZGZrYWdBXzNEaDl4emtpdjU4aTBreWNyNzlSeEtldS1ueGIycEhMUFVWYVJCOUpySktfN3pjVnJILW01TTFLM2hHMkViQVA0MnJoSlFMNkZWejBVZHZtMl9IWnfSAW9BVV95cUxOUEczcW5TVlNKRXkydHpCMDBkaEFFV2ZLckRsREd6MzVyUVFrR3M1MHRUaVRyNGdUeXZRazB3WlJ1MnlmWnNkZ09KdmdXWDZIR0xzWi1RakNoMG1oOVo1aWFHX1Z5N1dBbUhGWGN0Zzg?oc=5"
+            "source": "스포츠조선",
+            "title": "\"이선수를 2300억원에 맨시티에 팔다니...첼시 우승 기회 망쳤다!\" 맨유 전설 MF의 돌직구 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SZ3VmQ2Z0SGZwWFA0aURBRHNXcHRIMVNiYjk5V1RVbFdPaFQxRnpuYlF5Zy1qMXk1REcxSXVEdmg2bl9WOE04SjJWU1lMUkprZnh6eHB3MUNEMzRMWEdSVXE4NGstRTVBd2tJWGVpbktYQkxQY3RIWkp5eDFRdw?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "황희찬마저 떠났다…박지성 이후 21년 만에 EPL 한국인 전멸 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1QnJlMUJ1aDdqWTdGTlR1and0cWtVLWZQU21PTDVlbG1VTnRQa0ptYk9NVU9Ld1RjYk1Hd0xHQ2FRREdCcGJkZ2d4a2NVUTZrdVBXTE9kd0NPRV9YSmtqQVF3?oc=5"
+            "source": "스포츠경향",
+            "title": "ESPN이 뽑은 ‘실패할 가능성이 큰 이적’ 베스트 11, 놀랍게도 1위가? - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxUkp1R2wyX29OajJKNUt6QnA4MklOOTRZZWdfazhONE1ULWpBSE5GQjBGV1BfTm5xVFFpM2NfMDNXaThNRkJBWkdDbkpBOV9XSnUwOTd3azFTcDk0ZmfSAWNBVV95cUxNWks3QnM1bG1jd3hnRXdoS3BHM0VGc1hLVUNuYWxMTmI2SngyQ20yWU1HUE1tNWNzbGFaS1cxa3V4TFd0MHNXNnZrUmphdWVUcjZCS2pyVUV5NUVJaDlDcHdmanc?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "[오피셜] '해트트릭+1도움' 브루노 페르난데스, PL 이주의 선수 선정!...\"69% 압도적인 득표율\" - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbGVoNmFlUUVLVXF1R2llSVc2V1cxb2p5UjctemhJSWMyaC1RenYxMjBJSk1HNk5sZzdRNlRDUnlfYkM4Z2RGT2UyQ0RTdTV0R3AtSWdpQjlGMHNTaEhSb1pjZllSVUxORDNnUGhmX2UyWFZ3?oc=5"
+        },
+        {
+            "source": "파이낸셜뉴스",
+            "title": "\"한국은 0명, 일본은 10명\"… 황희찬 떠나자 21년 만에 EPL 코리안 리거 '전멸' - 파이낸셜뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbmpPTnVvbF9lS29FODU2b2tzNHE4dndKaDNVSkxuVHRLUGJhaGN0Z2FISjhBSDQxZnhBSUNxemV5QkREa3k5emtlZGdpZDVqLUpWT3Faa0kydw?oc=5"
+        },
+        {
+            "source": "FT스포츠",
+            "title": "샬케 04 유니폼 입은 황희찬 무슬리치 감독 전술 맞춤 카드로 부활 도전 - FT스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81VDB0bl9BZXVCQm9iY2ZWQWhpWHY3YTdYNVR3LWR3aDdvTzVESzJSWl9kX3g1WUExRnhyTzNUNzVHU1VqWFV1cTVRb2F5TXhpTzFLdFZGVkhsS1dUSFRVMTRLQk4?oc=5"
         },
         {
             "source": "네이트",
-            "title": "[오늘과 내일/이헌재]한-일 프리미어리거 0-10의 불편한 진실 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qbnhwckowMVVzUGRhVzFub2lmQ2xteXpnbnZnR0NJM05HeTE3dVc3WVhEc3dPRHNSNlR3VVpXVnI2SXpNa3llYnNGSGxLSUpGTHNB?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "'韓 에이스' 이강인 떠나자 한일전 또 대참사, 한국vs일본 0-5 더 벌어졌다...EPL만큼 심각 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ya1dKeWprNHQ0MENFQmUxZnV3VTEwZ0ZfVk52R2RNLWtVaFVJNDJueHgwUGZmVW1JRlhNZnZJeGFWbWZvSTdQYWY2Q0xXbTVEN3RBdGdLdnhNV2VGNXB3UkVIelE0VG41c3NEc2hhQ0paaGc2UnlJeUZMTGxrdw?oc=5"
+            "title": "\"사우디? 프리미어리그 수준!\" PL 도움왕 출신 FW의 평가…\"신체적으로 매우 강하고 힘들어\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hcVNxVHZXMURsaXJwSDFCQmVnVXdjMU9NM2VvTmthX3RURTZGUzFmMlNkaVJuMlJ1S0NSd2E0Z2gwS0pqMWJUVDZENTNUUzZGZWFsU2JEdFdMLTVUeFhSanBPTDdyaXZUaWtQVU43eVpDdndWdjhPNw?oc=5"
         }
     ],
     "transfers": [
