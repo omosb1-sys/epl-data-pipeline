@@ -1,96 +1,10 @@
 {
-    "timestamp": "2026-09-03 11:48:29",
+    "timestamp": "2026-09-03 15:21:51",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [
-        {
-            "source": "BBC",
-            "title": "Ranking the most game-changing transfers in Premier League history - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yT0o2b3d5R0RoellJVlZWaHpsU1dzQ01wVVJSQ3puOWNoTzhudWdEZzNPcFl5UkdPNHJhdjJXaDhuRFh5MHBQbFFYZW9VQ1lpRlNTTk13U3puQlJkVUs0T0szR3V3VnM?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMHMyZ21wUG12ZkJ0Y2dXYVB4R2ZwYWR1a0pIdGs3alBXbVc5ZmZYbGNGbUtuNEwyQmc2ZW9lZ3F2Xy1vYmhGbmhCQUE4WklVOEFGcVJXdHR3Q1VaaFhoNDBtYW4ta2YzSWxtMERjQzZWdUNfRTNZSWR4alhlX0lzaVZNTHBNS2RjRkJqdVlKUm11YnhqLVhjaF9NTXp4Tk1MMjdoVHhYYnNtWUxJbXVxTlNyZVJ1ZGtOQm16OU1RR2JRNUE3R3ZOc1ZmWHhQN0NIWTRhN3BDVWdiaVd5WXpR?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Football gossip: Garner, Martinez, Kroupi, Kofane, Camara, Martial, Wijnaldum, Richarlison - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ISFBoRHNRNUQyOFFwMHQ5NlFiTk82c2lEdUcxTzZiMXNNSlhLZ0JZVHBoOHVCdmF2cThsalJTTlR4UTRCcHZwOEtlcWtYbXlmaE1NZGY2MUdsWW83SC1ZcVF0TEVlZFU?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Tottenham make enquiry over potential loan move for Chelsea’s Mykhailo Mudryk - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVpjRFpTQWhZb3hEaXdMZzRGZGRqdy1jNXdlNV9HaGE5b2MzOUktVGRiZzFpNWxwV05wam95WVZ3RElrY3I2YlpYdU1MYTlhTFRSYmJLWE84amVWNTdiMHdFdEtGSTFobnI4LXVBTGxYTHF1WktmTE15R2FvRmhWdWZESnZQSnp1dzdIUU4xUGdVd2Nna3FrZHBtWWFpMHdKLUE?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "Liverpool reject £30m Trey Nyoni bid from Nottingham Forest - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzZjN2RGYnRmeHQ5Vjdka2hrb3k0bzQwTFN5eGFxZjE5aVRXb3lxbk9UeUNkZTVrTlZRYUZrOUlidFF4MVU0MWxCRkp6azNhR0gzUjV0OEZtY0NmcW9ZQkdMTHRJY19yWjJrcmFNMWV4STFKOG81YlY2Qzk4WEJZam5pUkRpMDBkVkRZM2JqSjVnSFRiWDdxWkIzbw?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "Tottenham respond to Cody Gakpo snub by raiding Everton – ‘Agreement in principle reached’ - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaFducmRxMG5ieU8wb09rV1pZZHcyWHFvT0lJdWtHSjV6YzBreXN6UkZVSnBlT1FSMm1FS1JMbWN4Q0xlRUNzVmRuT1Q1QS1Nd2EtLTFuR3d0WmVjSVlPdXh0Rkg0TnlCNE4ySlhFMk1oSEZYdGRsT2lESEpCOEJxOW4tREY2dEFnaV96aW80QWZXYWZ5dC1PSHcxX3FfcE1hMW5zR3RmV3Z4TmFfQkU1cjA3RjBUUWpiWkpxLUc4S0Fjbm8waHVQVldreWo4a3NYT3pKdV9HWGFtUlpQSG1KOHRuSjVhN010a21ZN0Fn?oc=5"
-        },
-        {
-            "source": "skysports.com",
-            "title": "Transfer deadline day deals summer 2026 - confirmed moves across Premier League, Championship, EFL, Europe and more - skysports.com",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1pzWDI3QzlWV1RlbmVKamRSYWJmeWxGVkp1d3BmczBpbE9UYlRZZkl0UlNqRlJneGJ0Q3d2c3hMTndCZ3R3NW10RkdRSEFINlB6djBVSEI1bFdKRGlIa2drTWtMWG9NNllHSElxeXFrRnRSRDlUcXZOZkd1VUY2c0RDeHBCazNNUXJOWXdCU3I4ZU1KOFJ6RTFJMzFOMjF3dWQtNElPUDFzNHJiT3ItNnUxSHFmNm5zRkVtbnJtcFo0UWp0aXBMMUs0ME95aWNQcmUzOVZrWnFObTBBV1RUV29QLTA3VjBNSHh3Yk44a0ZZRllxRHltMA?oc=5"
-        },
-        {
-            "source": "skysports.com",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - skysports.com",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaENvTjlqeTNEZkVkQWwtbklKRHNWS0h6dnhoNWtmUGJRVjVFaGxCTEZtd1pJa3d6NVJWeDJ4cnl3VUZEb090SW1xelNXUHkzLWg1REEtVC1tTlNfa2RJTDd3WW54ZUdEYks5bTRCVFdMYk1fOFhNU0tVelBKeXcySlhFOXFkM2NfY1MwNmQyaWFkbnlQbnFybDdHN3hoUS1ZTTROeTNnNFY5TkFCTW1HRnhnV1FVV0ZBRnR4QVN1VERmSXVpdk1uTWVB?oc=5"
-        },
-        {
-            "source": "Ayuntamiento de Pamplona",
-            "title": "Hot Bokep Jepang Sub Indo Terbaru 2026 Tante Colmek - Ayuntamiento de Pamplona",
-            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRlRTSnFnX1BSWVpxUHNOaHB6bEpaNVc2RnpJWVFLVmd3Q2ZWc3VVcWxlRGdaM0h4UjNFckFLcmstay1HcnVRZ1NfSWRacTlzWHZab2lfM1cxZ2dQNVh0TUVhLTd3ZDE3Wk9DQzNSTjFGVktSTUhDYXZwV2NVWUloR2h3N2x0YjRsOVA2R0YtMXlEbGV6QVJPX0pHYW5DQjkyWmFrQUFEcm9IbG8xY0VWTmhzUVVkU2hfX082R3Y2V1o4VnEtS1pOSFFVQm5BU0FPNzNpLUFBQThNVWY4ZVhsOVpUR0o1Z2p1VHJ1S1lmeXdxcEdoUjd4NEFFcw?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "[오피셜] 맨체스터 유나이티드 '그 자체'…홀란+셰르키 제쳤다! '캡틴' 브페 EPL 2라운드 이주의 선수 선정, 득표율 69% 달성 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EZG01Uk1TNWxsUFNMdWxWS1BUY0dnVWd3VDNwNDZiSm55QjJ4X1BhaTVYWEk5OFhsRmd2dUNnMVBybWY3TXRPbklYaTViSFV1bURrRElpRWFISU1p?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "[오피셜] ‘韓 축구 절망’ 황희찬, 프리미어리그 재진입 실패…EPL 공격수 0명 확정 ‘독일 샬케 임대 이적→분데스리가 무득점 악몽 깨야’ - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IcGZNV0xkN3VXaHNnTFV2UlE2ZGFJM1o3T3BjazFZX2JFS08xOGs0NXJpREpvT2VKejRIUjFOV3hNenRkV3p4QWZCUG02ak0?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "\"이선수를 2300억원에 맨시티에 팔다니...첼시 우승 기회 망쳤다!\" 맨유 전설 MF의 돌직구 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SZ3VmQ2Z0SGZwWFA0aURBRHNXcHRIMVNiYjk5V1RVbFdPaFQxRnpuYlF5Zy1qMXk1REcxSXVEdmg2bl9WOE04SjJWU1lMUkprZnh6eHB3MUNEMzRMWEdSVXE4NGstRTVBd2tJWGVpbktYQkxQY3RIWkp5eDFRdw?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "ESPN이 뽑은 ‘실패할 가능성이 큰 이적’ 베스트 11, 놀랍게도 1위가? - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxUkp1R2wyX29OajJKNUt6QnA4MklOOTRZZWdfazhONE1ULWpBSE5GQjBGV1BfTm5xVFFpM2NfMDNXaThNRkJBWkdDbkpBOV9XSnUwOTd3azFTcDk0ZmfSAWNBVV95cUxNWks3QnM1bG1jd3hnRXdoS3BHM0VGc1hLVUNuYWxMTmI2SngyQ20yWU1HUE1tNWNzbGFaS1cxa3V4TFd0MHNXNnZrUmphdWVUcjZCS2pyVUV5NUVJaDlDcHdmanc?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "[오피셜] '해트트릭+1도움' 브루노 페르난데스, PL 이주의 선수 선정!...\"69% 압도적인 득표율\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbGVoNmFlUUVLVXF1R2llSVc2V1cxb2p5UjctemhJSWMyaC1RenYxMjBJSk1HNk5sZzdRNlRDUnlfYkM4Z2RGT2UyQ0RTdTV0R3AtSWdpQjlGMHNTaEhSb1pjZllSVUxORDNnUGhmX2UyWFZ3?oc=5"
-        },
-        {
-            "source": "파이낸셜뉴스",
-            "title": "\"한국은 0명, 일본은 10명\"… 황희찬 떠나자 21년 만에 EPL 코리안 리거 '전멸' - 파이낸셜뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbmpPTnVvbF9lS29FODU2b2tzNHE4dndKaDNVSkxuVHRLUGJhaGN0Z2FISjhBSDQxZnhBSUNxemV5QkREa3k5emtlZGdpZDVqLUpWT3Faa0kydw?oc=5"
-        },
-        {
-            "source": "FT스포츠",
-            "title": "샬케 04 유니폼 입은 황희찬 무슬리치 감독 전술 맞춤 카드로 부활 도전 - FT스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81VDB0bl9BZXVCQm9iY2ZWQWhpWHY3YTdYNVR3LWR3aDdvTzVESzJSWl9kX3g1WUExRnhyTzNUNzVHU1VqWFV1cTVRb2F5TXhpTzFLdFZGVkhsS1dUSFRVMTRLQk4?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "\"사우디? 프리미어리그 수준!\" PL 도움왕 출신 FW의 평가…\"신체적으로 매우 강하고 힘들어\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hcVNxVHZXMURsaXJwSDFCQmVnVXdjMU9NM2VvTmthX3RURTZGUzFmMlNkaVJuMlJ1S0NSd2E0Z2gwS0pqMWJUVDZENTNUUzZGZWFsU2JEdFdMLTVUeFhSanBPTDdyaXZUaWtQVU43eVpDdndWdjhPNw?oc=5"
-        }
-    ],
+    "news": [],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -98,6 +12,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "‘Official bid’ – Fabrizio Romano drops blockbuster Newcastle United transfer news",
+            "date": "2026-09-03",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
