@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-07 23:06:35",
+    "timestamp": "2026-09-08 01:44:29",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -11,18 +11,18 @@
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbE8tcmJ2UGxLM3ZvVW45ME5VcDZNOTNZTHFyMnhxQnpGTHVPNGhTTEpqaTRSWVRZWFlPN0pQLXljUnQ5ejFVdjd5VGx0UXl2QkpySDNSb3RsTDhKUmNlUjJKQjBqOVJncGNJNmhFYUVPbnZKcDFlS3pqQ0h0eXVPUlRjY3M4ak9KNWtNMVAxa3U3QWZQYmtTTXlCNHBkNGszZDJLV3RMMklsQQ?oc=5"
         },
         {
+            "source": "Liverpool FC",
+            "title": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek - Liverpool FC",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWt4MkpYUk1UVWVaSDBUckdVbGktUEJQUDIwbFZ0dS1ZX2t5OVFVZlRteG1xOVNkOXkzUS1sWXFmaUJmcS0yV0pHQ0JMbTJqYm5TbXVoWEhzZXZOWWs4MjBfNjQ2UnlxRVNpRHdBLV9PZzFPWGFuazBJQzY5bVd3aGQxR1g1Y3k4VUdsenFNTHJZVjAxc0QzTkJR0gGiAUFVX3lxTFBwMVJOZ0NIWlUxU1lkcDY1Z0VnUk82OURuaXVNQWRhWW9kVHNyejV3OV9ZNTJ3dlN6RkU3SjFTeWJiNk9BX1pxVXlEUDJ1MmJ1SmRZdTFpUG55WE03LXJmc00zallFWEhYWjVvWHR6T1BOb0NhWnc5QkZ3UzVQT0xxQlZUOHh6QTFJbl8xY29EM2JTZEpOWmZGYUpFX3NUaEUtQQ?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "Highlights - Premier League - Arsenal 2-1 Chelsea - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12anJma04zYkFNa0RwbDdZbS1EUmxuMl96S0lvTG5tdmJBV0tLNUNVUmNpWk95NDFnTUlHUFFFWUs3YTdwQ1hXcGxnaUdNcU9UcktPc0pWakFuUDlUZXVYRFZVdzNnVnM?oc=5"
+            "title": "Premier League review: Are Man Utd stuck in doom loop? What's behind Spurs' poor start? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZ2NTdlk5TzN0TmgyRXNJaFVMVml6THM3MF8wT1JjQTdBalY3T0RFUGNGS0Jnejd5UWVQYTZvWVNabFdoWFlJbFZSMHZWVUlLWDJ0eFNWcUpQNjh6OHZGa0MwV2ppUQ?oc=5"
         },
         {
-            "source": "The Telegraph",
-            "title": "Lord Sugar on 115 charges case: ‘Man City have got away murder’ - The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3hQdWgyQ1dwejRVbTdTT3JfUGFrTm5uaV8zR0R0QU8zZ04xdldqd05LU1dMZko0UmNqTW1IVXBTT09XczR3NE1MWUdNMXB3TF9iQTQ3b3ZvRFEweTRhVXFyY291Y1c4NFBZTFVxcS1YRElPTDQtVHExUGpBQ1QyRDI1Um85Z1pFNklJT0cxRFNFVkVLTXpOR3pHOA?oc=5"
-        },
-        {
-            "source": "football365.com",
-            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - football365.com",
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
         },
         {
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
         },
         {
-            "source": "backpagefc.com",
-            "title": "The Deal That Broke Here We Go: Why Romano Is Changing - backpagefc.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZU5kYjRKY1Y4M2FZeFEyNmVaN2lQQURtczZNYmh5WlpiRDA3VGhaYnlOQWRzNGEwdnhXcHplbkViYkpzXzVZWmtFekFJQ040eFk4YUpRdEpSdHFMYXo3eWdwdzI2d2Y5cC1YMFBaYUdiMDZKUmxIbGdLTUNCM09YVjdBOVNieE0xcXVWY0FDY0pVV1lidkJj?oc=5"
+            "source": "Read Newcastle",
+            "title": "‘Sent official bid’ – Fabrizio Romano drops Chelsea news that helps Newcastle United - Read Newcastle",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWNHa3pkVXdvQnRtVWNzR3FlWElXYkJPeFVRRlJnRUUyRlcyc05OMVZCT0RoS0RJM01WWkVHcXVZZU5Gb0oxV3c5a1VtSUxkZWdxQmJoN3gwRlBjTE5XQXhBVEhYeDFiWjgzT25sZTZIdE1LMFIzVUhNeVdRZVRaN2xySE85Q2trbTBIdUFPci1OOVRmNExKaUNONkZ0NXZKTG1r?oc=5"
         },
         {
             "source": "TNT Sports",
@@ -57,28 +57,28 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Scottish Premiership news, transfers, rumours, gossip and more - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2hkREZYQ3lIQXowejRsNEEtamQzR2pjWmhSaXctdFVvc1dKSkROLUJCa2kwbGQ2M1hnTkIyZWt3SGZVWWg0M0FfOVdzcjlDSGN4SWcxTGZZNWtnMGN2ZkMycXFPTVY2X2VKbGdITWl2QjR6S1JaeXlEeDZaMm9CYWc0aTk4anVDQzNlekJISEg4TkMxSlJLMWJpRWFOSVByenVZc0c3dGVWYWNDT2pMb2JTa1pQYVdFWWpN?oc=5"
+            "title": "Nottingham Forest transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTDZJNFZXdUp2RkFqZUVoVmRvTHFjVmJKaUVxdWcwa25fb2N0NzB2NDhSRVo4UmhtRHpla2hOczFjNFJWRFlZdkRyNVBDbnZQeHFETnhlMHRlQmRwT0RzWFd6eTBTWndnRjdoUFJCY2dmUkpERmxPRjVDNUczcFplUXZKZERfTG1Sc2NGX09RbnJUeXNXbnVBWl91MFVLQmdBWE1KSmtDZFRDc0NPUDlaRnoxczFTbnN5NHVWcFExNDAzVTFpVWcxSzVZc3dqMDA4VDhYTmRId213RjJQUEpNMzlrN014ZEU?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "지동원, 현역 은퇴 발표…\"2010년부터 시작한 축구 여정 마무리\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00eUdkeDVzWEJjVEhfamlaTk1HYjlJbF96VjdtY3h2a0JCWHY4Sm5tRFR0WXN6Q2MteUJneVVnV0xibWZVakp5cHVDTlpzWlk?oc=5"
         },
         {
             "source": "네이트",
             "title": "3연승보다 내용이 더 무섭다…더 강해진 아스널 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50NnI4VmwwUktocDEybUs0RkxMUndKdGJ5LXVRWGhGT0R2LVVqb0RBYlgxcm00alJLVGk3WFhvYk9SQmRiUWFYNE1wVTEwLXV1NDA2ampsUzgzeWVvdm1DRDVwaXFJRnVSX2RORnFKQnI4dnZsVGpaLQ?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacUMtX3YwS2tCVEpHZWZfWGpsRDhZdVNnTU1tR3JZZW5uQUhfS1FOcEtMN28yUTFwZUd5c2UweFRDOGw1bXlqWVA4b1k3T1duYVI1S093?oc=5"
         },
         {
             "source": "fourfourtwo.co.kr",
             "title": "‘역대 최초 일본인 골키퍼’ 프리미어리그도 깜짝 놀랐다…“이렇게 패스하는 골키퍼 본 적 있나” - fourfourtwo.co.kr",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBseWU4dDZWQ3VETllmdGRZNVA2SFhkaGlJWkFHcjRoOF9OT1F5ellYUGxLRS1zSXk4dUNMZmxGeGFiYWp2cm9XaFkzSk5EejJoT2NwN2dsY2VNVXBhd2RxeVIzMmVoRjFLQWR0MXUxSzc?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "'맨시티가 아니네'…토트넘 신입 공격수, 경기 시작 4분 만에 텔과 말다툼 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zRUJBN0NGZWE5a2ZFQU5udVlWbXN5VC1Mb2RjekJwaHIzN3o4c0VEdHEwSVJ2SHJVbGVuakNoby11TmVtTVE?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -92,8 +92,8 @@
         },
         {
             "source": "인터풋볼",
-            "title": "“장난으로 휘슬 안 불었다” 고백한 前 프리미어리그 심판→논란 커지자 “내가 한 말이 잘못 전달됐다” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CMGVTMXB0VEVMcW54WjA1SUlrUFdVbjJGQlREU25ncDZSc3pxN1ZfQzh5TXdHajNXQ2k2WXZzc2tQODhYRGhnZzltLTNadWlRVGg0NVVYV19GLThnQnFOcnYxMmlEbXdhd0Fjb2c0b29HQjhH?oc=5"
+            "title": "‘ATM에 떠나나?’ 이강인 절친, 프리미어리그 이적설…“맨시티가 상황 주시 중, 뉴캐슬-아스톤 빌라도 관심” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hMjBqaTZBblBDNEQxVkQ2VEpZWVlrYmJTd3VLd2FOT3hYQlVOMXVqVUpJSG9QOEtmTDlBRDN0Z0RfdGRheGo4aWJVaGJ0QUw1cmdDdVJmNUdnb1ZOY3FxbGc3LXVfS1BQNmdPQUlNZHYwMWk3?oc=5"
         },
         {
             "source": "조선일보",
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-09-07",
+            "date": "2026-09-08",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
