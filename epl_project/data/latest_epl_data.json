@@ -1,39 +1,39 @@
 {
-    "timestamp": "2026-09-09 00:47:31",
+    "timestamp": "2026-09-09 05:28:10",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Riccardo Calafiori: How Arsenal's defender has emerged as one of the Premier League's best left-backs - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaVZGLVNyYjc5TV9pNHpLd1VuLWNyTDFZeXFybjBiNFZVMG1Yd1pacFUteWJJQ1ZsRHAwZkVETzZqYjRXcmxzRllXOE5rYzh3Rk5BTWxfNXBvR0l1eThXYmVmTFlXRzZuQVpvYmFHQTVsbHNIQWM0TDRMbG5RNlZiY3hQTm5RRUZlbUlvaGNubGEwcnRFSlFRVV9hODFrb2xtRy1veklSd3FabkdVZnBUU2MxQUU5VXBleG9pQlJhWDBFVm5XblZHY211a0lxQ3hJYlhnRDVpTlNYU1FJQzBrc2tuMzNXOEww?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Arsenal sign 40-goal wonderkid, 16, from Premier League rival a week after deadline day - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ19OUER0Rk5qWUFsck1rWi0yOEJ6MDhVd2dzRXhialRQa085b2NVRVRFZ2h1RlNheER1N25wQWxxM2VzNHdIemktak9BRkloS3VIVXpmM1JMcGVtMnhzV1pqQ0NmN2g4aUhGbTBXUTFEQXVBWFJxaDJTSFQ2T3NXbE8xWWxUNjROWklObjhGdzNmVXVa?oc=5"
+        },
+        {
             "source": "BBC",
-            "title": "Highlights - Premier League - Arsenal 2-1 Chelsea - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12anJma04zYkFNa0RwbDdZbS1EUmxuMl96S0lvTG5tdmJBV0tLNUNVUmNpWk95NDFnTUlHUFFFWUs3YTdwQ1hXcGxnaUdNcU9UcktPc0pWakFuUDlUZXVYRFZVdzNnVnM?oc=5"
+            "title": "Liverpool vs Fulham: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FZW1lR2VLeC0xaXZaaUx2bTY0N05Td05fQmFtWExaaWN4Ull4aVE3ZlFFandSYmtBeWNJUjdreERpNHo5LXFIam9Fakh0dzdRSEhxOVFqSFdiVG9IdFVJMFJ3ZkFBdw?oc=5"
         },
         {
-            "source": "Metro.co.uk",
-            "title": "Peter Schmeichel predicts Chelsea star will be Premier League 'signing of the season' - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0ZDU2RNZkEwdzFQM1pxbkpnZzlqR2ktUTZ4QWIxM0RuNm4xUFBmTkRsX080RGRzdFdVNGZuRHNwd3RsUEx3ZmJ2YUdNWFBaa01Vckl5Zk9uS1pLU01Eb2VKczZsc1NOZjdQN0NXUVF3cFkwaG41aHlJeXVUTWFvS29EQ19DelhCZHBoaHFNUUtXVEJ3Yi1oSS1qUFRMWVFLUTFfWnlVWWljNXU4YjlYcTJhdjjSAboBQVVfeXFMTkVOVk50amVONTFIdGdjckpvUjI0NGlNcG5kWlhRVU9nMFlrcTF6NHB0X2RhTkw4LThqUTlIQmJUZUxSVGM4Vjl3SndnWWx0N08xUUE2NGk1NkxyMUNQYUVUZDNXYmhEaVJaSjVINndqUjI1c2hJaXhSQmE5amxEdmdIdDdsamJQWkN3cFlBdVIyNVZKNUM2WnVIMWtxOW9LNUtkVnQybjEwWDZfWi1lbUxVNFRiWnlSNGJ3?oc=5"
-        },
-        {
-            "source": "Metro.co.uk",
-            "title": "Chelsea legend Joe Cole makes Champions League prediction and snubs Arsenal - Metro.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3Ezako1RGpNR2xZRkc1Y0wwME5QY3FlNy13M0pOdGZVNDdVMmItVzVDNlVpVnFla2Y4Z0prNXJldVhBUFp2VXBTaUdRX29JSXJOZTE2aVBfMnZDQW1XX24wZkpBakpHUk1xbUFQRmRPbThTUXUwbGFQdHFELWFtUFlCRHA1c0l2SkVqYmpuNk5tRUFFbG9tSjlhakNKVWFBakllY3FYZEd2U0N3Qk1zaTJR0gG3AUFVX3lxTE16ckhBcS0yX3h2aUVKY2xPaTZpdjNvcE11dVpJTWhPY3ZYRWZGOUpKeUFDM0V0QWlLZ0dNTmI1MkdPUW5CM2pwZmplVjJwbXBodW9BQ3RWZkZVbFZIR1RpWGFXVzBIOHU1OW53cGdkWkxFZFNoMVl4OVNsSFJNamRfb2xlVTZvVGtKM0hKNUpHTUswYW9OR3NnTXg4YkVBdHJQaklGeThGTUxSN0RQOTNhU2FoMVV0NA?oc=5"
-        },
-        {
-            "source": "football365.com",
-            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - football365.com",
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
+        },
+        {
+            "source": "Yahoo Sports",
+            "title": "Fabrizio Romano Explains Man Utd's Next Two Signings After Carlos Baleba - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pSTTJCS2hGamVwYWRxaExEN2JMY3N1MTV4Y1VRODV2S2V6dnB2R25PdE1kQ1NPMU05WWswVEpMbGp6WHJVX2NKWWh3ZUpBdmZOenZXSzB6V0U5Z3ZvNnFka2tZWUlXd1c1MVV6a0ZiNy1xNnVDVldTakZkbFlLTUM3ZDlqU2tYcWc?oc=5"
         },
         {
             "source": "LiveScore",
             "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - LiveScore",
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNEWVJyY3l5N1dpY0Q1a1F6QnNMUi1jdGxPVHpqRk9iQnZIbkFIaUVlX3gwMG1IQnVBVjBEZzV1a1V3TXZGLXNUSTc3bjVkZFZsVk1FNk1CZm5JRUNhbDhwWlVKNm9wOUpzaFJWUy1BWTdmaGdpX1N2bGdId1BPYWpPUG1IVE5SZTBEbHRCd05wWTZEbzZlblJGMm5IMXc1eWhxS3F5dEJ0WEtBWEtodlRlNXlMMU5ycGlhWTJjMFdiRVJJS0Q2dG5wdmx2ODRWT0h5OUNLUkVzWXJlbnZwbTl6Q2dsVHVVR2RDOExn?oc=5"
-        },
-        {
-            "source": "readliverpoolfc.com",
-            "title": "‘Decided’ – Fabrizio Romano confirms £85m Liverpool transfer u-turn - readliverpoolfc.com",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3V0c0NmZ294RnQ2MjN3ME9GVTVZLU10UHAtNU44MVVBSHAyVVJ1N1JqX19XWDlpU0JFZU92M0h0U3JJVGJWQ0FicjNyeXNBQnFMdnZpUGxwd2VyU0hTcHY0Tlp2ZDJOX1cwa081TFdpZE5ZdldEZ3FuR2FXR3hBZjE4WXJINnJCcXFMUGUyVFg0bEtiV0xNWFVZV1g?oc=5"
         },
         {
             "source": "The New York Times",
@@ -46,24 +46,29 @@
             "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
         },
         {
-            "source": "skysports.com",
-            "title": "Arsenal: Will Gunners regret missing out on transfer targets? | Transfer Talk Podcast - skysports.com",
+            "source": "Sky Sports",
+            "title": "Arsenal: Will Gunners regret missing out on transfer targets? | Transfer Talk Podcast - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZk5hTHcyN2tiNVN0bk5Yc0E1WklTQlkwYnBlMnZvclVwRXZhRy1mU2dZRllpTWhRSWJGUFpWWmpRRm1lSXI3MU1GbURVaTdlcU9XM1E2cUJmODBTOXpWOXMwV05uWFZEaWZfZklMU1VVRGJ5UTJmeWJRNFMxandYSGZtUXo1dlBqXzdzZHFTQ0M5ano0R2FSbGxEdEFfZV9qd2tCbzFYcGNzdEhXM2V4c1BPS2NVNjA0SDZnaWlkRUJpMU9UR3ZTYw?oc=5"
         },
         {
-            "source": "skysports.com",
-            "title": "Transfer deadline day deals summer 2026 - confirmed moves across Premier League, Championship, EFL, Europe and more - skysports.com",
+            "source": "Sky Sports",
+            "title": "Transfer deadline day deals summer 2026 - confirmed moves across Premier League, Championship, EFL, Europe and more - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1pzWDI3QzlWV1RlbmVKamRSYWJmeWxGVkp1d3BmczBpbE9UYlRZZkl0UlNqRlJneGJ0Q3d2c3hMTndCZ3R3NW10RkdRSEFINlB6djBVSEI1bFdKRGlIa2drTWtMWG9NNllHSElxeXFrRnRSRDlUcXZOZkd1VUY2c0RDeHBCazNNUXJOWXdCU3I4ZU1KOFJ6RTFJMzFOMjF3dWQtNElPUDFzNHJiT3ItNnUxSHFmNm5zRkVtbnJtcFo0UWp0aXBMMUs0ME95aWNQcmUzOVZrWnFObTBBV1RUV29QLTA3VjBNSHh3Yk44a0ZZRllxRHltMA?oc=5"
         },
         {
-            "source": "skysports.com",
-            "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights - skysports.com",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTE9iLTY4VTBwQm94cWNpQUNIdTVHa29TTy1ScXg2M1RJSDBrZzFuWWwxQ0d6WUpBZWp0bHJtZUMtRVFyYW4wSG1odFU5b2RzTEtualpPN01WV0FkOVkxQVJ3cUNMMGdoNVFhbVFMdUtGVk5UUGlzOUQ4QVljNHZDVm0wTVg4cmdfbVFqVXBqZGtWNXQ0S0lhdzhxaXVMUDhfVk9fVGZFRVBvVUwwRHdZUFNVNUtVZklRU2E3bUlLOGcyV1ZyOGxCVzRuWVk0bjBBbzVYTnNOQmZPMHRJ?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
-            "source": "skysports.com",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - skysports.com",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "source": "Sky Sports",
+            "title": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU0Q2UTNHZGlrSm9tYjVjME4xUEtwVHp6UF9rV0FBNFRuSjR5RXJqOFhYSzByMzcxZEhqQVM5ZWt5WUdSdjZqSE15bUZFb0p1T2Jvbk1GMFEyblFCSk9vUGVpZ3d3SWtTd1JUcFV0UmdmRWY4TDJmQmhaa2hZYUFUSERhbUNhdjl4dER1MU1zZ25PejdaSEhPdS1jdzVMMVNuWFBfVUlGOTZwRUhkM2IxbmNVcUQzeGE0dmFJUjR6LXhPeVhPVTYwbUhGRmRaV2Y5eHlOd2diWDBieFRQWHM0eGdGTEtXb0xob21vYS1QZ3pmdFNYbnlNaw?oc=5"
+        },
+        {
+            "source": "Nate News",
+            "title": "\"경기장 중앙에서 발생했더라도 프리킥만 줬을 것\"…마갈량이스 태클 논란에 선 그은 전 EPL 심판 - Nate News",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZbnFYR094SWV0aUVrbjIxbUs3QmF2NDB1Mk8yRmR5UHloT3ZycWRXOFE2STc0NEJIa3FmbzdsaUY3em5ReC1kSC1TbGVqbDZEbi1tZFA0VzBoSnl2NjgwcmZpVUtTd0RUNUowZmxXYlh6R1FOR0xITg?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -71,14 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qUWVGSk1LOUdiVFN6amRtTVZLTDFqZEFUZ1FzM01XYVc4WUE2bkJNc0JQcF9kVGxSMk1aTjhmMjYtUlItU3BwMF9mUHpHcjA?oc=5"
         },
         {
-            "source": "Nate News",
-            "title": "3연승보다 내용이 더 무섭다…더 강해진 아스널 - Nate News",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacUMtX3YwS2tCVEpHZWZfWGpsRDhZdVNnTU1tR3JZZW5uQUhfS1FOcEtMN28yUTFwZUd5c2UweFRDOGw1bXlqWVA4b1k3T1duYVI1S093?oc=5"
-        },
-        {
             "source": "fourfourtwo.co.kr",
-            "title": "‘역대 최초 일본인 골키퍼’ 프리미어리그도 깜짝 놀랐다…“이렇게 패스하는 골키퍼 본 적 있나” - fourfourtwo.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBseWU4dDZWQ3VETllmdGRZNVA2SFhkaGlJWkFHcjRoOF9OT1F5ellYUGxLRS1zSXk4dUNMZmxGeGFiYWp2cm9XaFkzSk5EejJoT2NwN2dsY2VNVXBhd2RxeVIzMmVoRjFLQWR0MXUxSzc?oc=5"
+            "title": "\"PL 수준 아니다\" 日 월드컵 참사 원흉 대반전...리그 첫 선발 출전하자마자 '평점 1위+최우수 선수' - fourfourtwo.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80MFVHcU1PZy1ya2t0X2xuT1pyUlZSNmM4bWo3QzdVNDBhTXBkR0xab0xXeEFzNVpKT0F5dlFlNnVuSWtlR3Q0QUQzZTVqbDZGZ2J1akhpRWp5eHBQd3dQQ2JhZkQ3VllOSDlYQXlRazE?oc=5"
         },
         {
             "source": "Your Field",
@@ -91,19 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hMjBqaTZBblBDNEQxVkQ2VEpZWVlrYmJTd3VLd2FOT3hYQlVOMXVqVUpJSG9QOEtmTDlBRDN0Z0RfdGRheGo4aWJVaGJ0QUw1cmdDdVJmNUdnb1ZOY3FxbGc3LXVfS1BQNmdPQUlNZHYwMWk3?oc=5"
         },
         {
+            "source": "mhnse.com",
+            "title": "\"1073억짜리 재능을 낭비하고 있다\" 캐릭 향한 작심 비판! '초특급 유망주' 요로 리그 출전 고작 22분→\"새 포지션에서 기회 줘야\" - mhnse.com",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSmFGbzZvOFNZVHk3OW1GQ3ZnbWpySTdsNW1tQ1FRQU1GZG9LVFk1OUxpM0FDOTQ1aV9mTzZIYndRME5HV0s5MFRWNkgxSjJEZGZtLTh2aTh4RlZzMk9yZWZqOA?oc=5"
+        },
+        {
             "source": "조선일보",
             "title": "'먹튀→25인 명단 제외' 토트넘이 포기한 브라질 국대 히샬리송의 빅피처, 브라질 복귀 또는 러시아 진출..'사전 계약 가능한 겨울 이적시장까지 의도된 결장' - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTVZOV2hJR2RuSkdMclQ0QUgzeURBZldCMXhPX3A1RFViRDEtanR3MThneVJVWVZReUpFTHlsQU1sZmxQSDBXc3pBcmp4YWtvVGRxZXE3bEZSajdlcVBXNmFaM1hLZHczRHlBTWdlNWNwSDl3MVRCcl9tY2lEZE95cGdrM21pdEMxTjcw?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "육아도 축구도 바쁜 홀란…전 경기 풀타임에 마레스카 “휴식 필요” - 스포츠경향",
+            "source": "sports.khan.co.kr",
+            "title": "육아도 축구도 바쁜 홀란…전 경기 풀타임에 마레스카 “휴식 필요” - sports.khan.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTEpYZkQyOGloQ1U3UnEwNzJKbDVpalB2ZEJaMWtwWUFtZmwyc01jU0xHQThqdFFyMGxsTnRKa0hVSnJScWNzR2VPcVJnd1VuZTFRUWZMWk5YdkNlSmfSAWNBVV95cUxNMFlEREhOTlgzdVFOUTluSnB4MGYtT0E3bVZXTDhsNUJ2MldkSlljbGlBZE8wNUhmZVIwc09IM2JGQWNiSjYtZnBVWVZra3R6ZXJtalJ6UWFhUHFTQUVXRGE0ZkU?oc=5"
-        },
-        {
-            "source": "마이데일리",
-            "title": "펩 떠나고 선수단도 물갈이…홀란 솔직 고백 \"현재 아스널은 내가 왔을 때 맨시티 같아, 맨시티는 재건 중\" - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNGdCSUZSN0VaNHlrTUg5cEpfNTVZY2JvRWx0NkRqekQ1LTd1aFBwNzkwRWRHdlNacW5qd0VwZzl3SmdUVGNBOS1iblRRMWx5SThHZ0NMZUN6NFpvSnZyUg?oc=5"
         }
     ],
     "transfers": [
