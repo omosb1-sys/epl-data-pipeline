@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-09-11 01:46:08",
+    "timestamp": "2026-09-11 06:44:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "Sky Sports",
-            "title": "Premier League festive fixtures live on Sky Sports - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3hyMDc3MnhPbG40QUI3ZUI2NC01OE94S1lpQWlDQWswNWs4aG40OElidGxWeUUtUzB6Smp0OFQyRHBpZWdJVjR6eXFFSnNqNTVsaDc2NUJnZ25ueGpBNk1Pc2JsUTltMW8zbWxiN1Y2UjdOb25kaUNPLXBnYnJoRHRGYS04bFJDLV9QSU40VzRzbzlRdWFET3hLRjE0ZUVkdm1DbDVwUXRuU3hwWEtLeVJ4WE1KQkNrdnBRRzRJYlZvaGpRekZ5SW1XSTZNZ2l6c0pfN0gzQUczejVBR0RrSjg3eE9JY0FNWU95Y1M1NDZxTmp1ODZmNEdXbVhyZw?oc=5"
-        },
         {
             "source": "The Guardian",
             "title": "Premier League: 10 things to look out for this weekend - The Guardian",
@@ -17,8 +12,13 @@
         },
         {
             "source": "BBC",
-            "title": "Aston Villa 0-1 Arsenal: Bukayo Saka scores winning goal for Gunners - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0c2NNNXg1WU8wbHRrNFBoeWRSX0lHY3Z6NU1OQU5FbXp2Nm9DdmxNWHo0TEV6bUxhd0hOVElYSDI3MTRRLUNVR3ZCU0E0N1NzdjNibkhlWFpUeGlWU0RSMTRpTG0yUQ?oc=5"
+            "title": "Premier League predictions: Chris Sutton v Dorking Wanderers manager Marc White - & AI - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TOGdiSUxQYmZPRmdQdmJhdW03Mk93QXhHdmtVc0RIempNcmxTZTFZNkFWdGQ4a2J2TTZXb252c1FFUm1kYVJvLUlHR1ZLbFNidGNGQkZ6VElzX2lLcldlZkRyZ1E1UXlJRkE?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Jude Bellingham in talks over Real Madrid renewal as Premier League speculation grows - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeGxSZjhnVG0yelgyMUgzdzBvbERlSEhYZlVRZ3BBWW5xYzhuRFdSSUwwS2s3YVJiQWhVdkZzRmQ1dFRVWW1rUzZXcnhfTk81MnEydFQ5Y3pZU05wWU15dkNIb08wRTlDNDc4dWx6N0luMEZ6NWhwZE1pUl9CVkRrVW5McS1PNEY3NUZYZGxpQUo5Y2J6NXJ1TndNekpqLTY4bEZGSXptbjBUMkFPeUZIeGpCSUdWeHp5STFZbkc0a19TUVpMc2I0VGN4NWxmYk5ZQUZPQTNlMUlWejk3ZjUyMXMxRU91V0ZZWV9MQUxCTW4?oc=5"
         },
         {
             "source": "Football365",
@@ -66,9 +66,24 @@
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE5jZGRhRUdqbXJmQzF5dk9QWjFYaDVfcmc3TVN6YXVGejF3V1hRa09JQzRHckVudU1kcEdZMmZFMUhPbl9SUDVoRUJ0cEU4TTEweFd2NjJ3eWZlNzZaMzJoTGxGaDh4dDF1cGZiU3hPZ1pjYWJlc251d3ZqMHlrQWcwRFNBLWRNR2VQUHd4QXVlcnBHdGpQd1JIeDUzTF9RUDQ1UDFySjJsV3o0Nng2MUx5dw?oc=5"
         },
         {
-            "source": "마이데일리",
-            "title": "역시 EPL→승률 100%! UEFA 챔피언리그서 초강세…맨시티·애스턴 빌라·리버풀·아스널·맨유 V - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44ZENNOHVTdmYzSmFhekllal9TWEdpY3BvQzNYcXVGb0xPZkRDREhXZXFSeFBNaVVfeE5KdWhVODB5d0dWdnZYN3VQMnNRQlQ0MmIzbWtxQTYwQkR4Y0NCQXFIS0pSZw?oc=5"
+            "source": "sports.news.nate.com",
+            "title": "[EPL] '리그 명단 제외' 히샬리송, 토트넘과 계약 해지 검토 - sports.news.nate.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MU2ZuYk5ZeUM0NmgwclNGb3hXLWtnTm9wd3ZGUFEwdFd1MGdqRDQzN0NpN1BJbFNHaEhPNVExdmpmTVAzQnAwTjJWMmRpODljeS1SRWJPNW85eUZy?oc=5"
+        },
+        {
+            "source": "chosun.com",
+            "title": "이런 먹튀는 없었다...히샬리송, \"토트넘과 계약 해지 시도\" SNS 글에 본인 등판! '박수' 이모지로 이적 의사 밝혔다 - chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVMtdE9sRC1QcmRLdnFwQXotVW9RdmI4TDlvVTlHM1V3UWlKOG5YZ0NZZTI2Q2M4dkFsRl9GazVGTWMwaldDUHRvd0EyT040WWFBTzZ1Z1MwQ1hiOVVhZGhMS1VyZnNQRzZFdkpMQ2U0UGdsNDJuYWVnSnJBUDV6U3lFY3IzZWVLM2l3?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "히샬리송, 토트넘과 결별 수순…FIFA 법적 대응 검토 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xYXpHdzhhOGY1NC04a21TZ0E3QncxUGU3clhDMnVUaVNsdzZDTlhRTVl4MnZINnpHdWpuQ1FHcTd3WWF2aXRpaGotWFJ0Z28?oc=5"
+        },
+        {
+            "source": "sports.news.nate.com",
+            "title": "\"첼시 2016-2017시즌 우승 박탈해야\" 포체티노 감독 직격탄…박탈하면 우승은 토트넘? EPL \"처벌 공정했다\" 반박 - sports.news.nate.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80MS12RjEwTDVvMHNlNm5YMWtscWRza3BjcU5EeGdVVnA5ZExydXF4Z0lRMHBiZnptZ0RnVVVYcXZVV01IeGItUzlWRkRRRUZKVm1IMlhOVllrQlho?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -76,34 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CYWhscTBmSTNmbzEzWWxSZ25kZUpKZXBMUmo2Q2NqNHdFdW9XQWEzTFN2Qy1iVEhTWUxhcFJIVnRqalhfZWc?oc=5"
         },
         {
-            "source": "news.nate.com",
-            "title": "\"충격\" 손흥민, EPL 우승 도둑 맞았나…스승 포체티노 폭탄 발언 \"첼시 우승 박탈하라! 토트넘이 받아야\" - news.nate.com",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvOXJkRWxJZFFVUE82R3hXNW41RzJmTVhXTUZUcDdza3ZBWXhhYWsybjBmX0Ryem82dVZET3ZXSHFsX2N5UU9UVzNTbHFYZXd1cHp5THlB?oc=5"
-        },
-        {
             "source": "sportalkorea.com",
             "title": "초대박! 쏘니, 축구 종가 프리미어리그 구단서 명예의 전당 헌액 초읽기...\"토트넘 대표할 5명의 유력 후보 안에 있어\" - sportalkorea.com",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmZPaFlRRm5iR0lnZnM3eTB2czh4QzhaWm9LX0FZUWRpWUZvYWdxNVMyMVc4SnBobzdpbUxjdGJQRFZqUFlVY0dBRXBUVFYyNFhDbVJRUVN0cC1fYTBHM3RaR3YtYTBZRmlldE1nS2QzSUtIRWc5V0JMUWFrM3Z3eFdB?oc=5"
         },
         {
+            "source": "마이데일리",
+            "title": "역시 EPL→승률 100%! UEFA 챔피언리그서 초강세…맨시티·애스턴 빌라·리버풀·아스널·맨유 V - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44ZENNOHVTdmYzSmFhekllal9TWEdpY3BvQzNYcXVGb0xPZkRDREhXZXFSeFBNaVVfeE5KdWhVODB5d0dWdnZYN3VQMnNRQlQ0MmIzbWtxQTYwQkR4Y0NCQXFIS0pSZw?oc=5"
+        },
+        {
             "source": "SPOTV NEWS",
             "title": "'감히 손흥민과 비교할 수도 없다' 日 충격, 국가대표 간판 스타, 잦은 부상으로 프리미어리그 떠날 가능성 제기 - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEc2w5WGtEQmJPU3o2OVJieS1yZGF1MlZ6YTFIZ3FUOU5fM21FV2Y4TlJXUEtVV0tOcTVraUhyZXBKT3NqbWh3dUltRGZnbXFvQ0FBYzFkM2FtOTdwc1hWcTFMeHhDOW9Bd3JkSU1CcF8?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "EPL 절반 ‘미허가 베팅업체’ 돈 받았다…규제 땐 수천만 파운드 증발, EPL 10개 구단 직격탄 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlVnp0NHh5NmxIU25LVGVxWEhpaFBGOWhOaDl5SGVsWnA1YzZhclEtUHhJXzhVQU9iMWFkRzF2Q1hTSy1VYW8xZklMVWVtRWJRR1A1UGFNSERyQUszUGfSAWNBVV95cUxNNTg4UlAxY2treWIxYlJlWVVJRkwzZ2MzY0VBaE9Jei1zU2dFZUd4eWszaGthR3ZqTW5nZlFpQ0x3bTFUMEsyMGRLcEI0ZVZQdXN3Mmo4Z2F3R2ZuZmo1R2tPaDQ?oc=5"
-        },
-        {
-            "source": "FT스포츠",
-            "title": "EPL 맨시티 홀란, UCL 포르투전 2골 폭발… 캐러거 \"역대 최다 득점자 될 것\" 전망 - FT스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50Yk1veFM3SW1EZ1k2U0p3R3Q5NFpqZ1pqcElia3BObklqYkNndko4TWtmc1V1dFlXdHhaZlJBenRFRncySDFNV0Fham9EeWl1ZThEMHRLMDBLWTBGbUlZa1d5RFByUQ?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "손흥민 충격 대반전! '토트넘 복귀' 진짜 가능한 일이었다…\"포체티노 돌아왔다면 SON과 낭만적 재회 가능했어\" - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdEZScENpYlFXRHhlYi1yaXdrNmdxZGRfVk8wUVpfSzIzckhfYWZ6OWU3M1hGUkJXMjBpd25famJCcENSNEIxTWtRQ1ByOFpTcGtOc2duNGsxc1d5VGYwNDhQUDFBUk9Lbmt1Zzd6ZnYzYVMtOFRxRE9hUjVEUQ?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Official: Manchester United academy midfielder seals late loan move after transfer deadline",
+            "date": "2026-09-11",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
