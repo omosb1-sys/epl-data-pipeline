@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-12 21:46:18",
+    "timestamp": "2026-09-12 23:29:59",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Tottenham 0-0 Everton: Spurs remain winless and goalless in Premier League as Toffees stay unbeaten goalless after another bore draw against Everton - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQYnkwRURnOHgtZzUxd1EyREYzQ0otUmNxdW5SZk1UcjJ4VmFEOVJRNUIyUk1FR0I2eU5BeTZfNEpvS05GM1h1RXNOX3ZqdXdzT3MyZUlzcWNjcVIxcHFKdUl1SklUcHdsRXVlUlpvUWYzU2RsUkVwY2JON3hUTnRpMzdrWjh2d3RoUklYeWhFaTJPQ3VmazlmUkN5dXdUdWhJZUh5aFBPNzZpOTV4RjVXWDMxU1JfMlJXdzMtTFlZNHNzQmJvQnJvLThGaXhKYUNscGRXalhVaDRra2huUjdsLVJUSGNoWTJEcmg2M09XMGVDODVjWDVMcDFlbE1aajBKMVoweGd6Q19BU2JIN051ZXRMTkFibHJaajdVX3FDY3VlbFppQmRERTJB?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Sunderland v Arsenal: Premier League – live - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmFIbjhjbFE0MWRxbDlTNnpIajVrLU4tSTJURkFzYXJZd3RYSm5rNDdtT3doRU5BSkMyMXh0MG1PZThZR2lvVHhWQ3FJYS10ajA4OEEybFFLcGRYMnUzdU9JOFNvTjIyei1VN1c5LXRUMWdrMVNUSkQ2X2dUQ0NYSnBnYnhDNEVtUUwtenNqRW5lTk1LbHRIdVJR?oc=5"
+            "title": "Tottenham Hotspur 0-0 Everton: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUdadTNoelc2N1hDcWxsZEpiSTA2QXpnQU40eEhmZjJQbmhlTlhYbEl2aWNxakxHNGdaOWxwc1hxU2VITjU2allIVWw3Y1JZQ2pjUW9pczNwMDd2V0phOWZiRnF6OWNoRWd4Qk14bzQxU0J1ZmJTVkkySmJuVWUzeXpDVkRtc0hGYWYzVldsaEQ5TUlfcHB5YnMyUWx3SlBTZVNz?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League: Which goalkeepers have the most clean sheets? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lZDdEaTR3aUpYVjhubXpXZGlYTDNsZXZnRFJ1TURpbmFGU3p2RF82LTgwN2hZUzg3UEFFWV90OFR2eEVRQTNNcTltMHNXcEx1Y0J2eVI5cV9PZHlnU19NR1FPS1lBVVE?oc=5"
-        },
-        {
-            "source": "ESPN",
-            "title": "Chelsea 2-2 Hull City: High-flying Tigers remain unbeaten - as it happened - ESPN",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ214TGVTZUxSTXVjOHIzVXRteDZwdWZPWURrUFE4d3kzR01FRGkwcG1Qby1VZDV0ODVfUE4xUk9oVUp5QWtyeXBjQURnbUJXNzNsLWMwa19aYk1rOEJISVctUHF3S1dZQVZFUUtZR1pIUUlUX0U5a3dVekR5UUhUdG1vRFFldlh2VjVQTnBpWHRGd1VfWlFpNGlrMGdsdFk3dXdFY3hPc2JjOXJONHlndy0yZDhNN0hLYUJGbjJQTUV5WmRBUVM5cWdmOUdiak9vRnc?oc=5"
+            "title": "Everton: A goalless draw to Spurs extends Premier League run - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HQ1BtN1EwVldqZ1hxYThmdW1sMWNEdTBidk5WY1BXMGNXWDJzb295dkJXbW0zR2FvVzV4YUhMdXhzLWpSVEV1QjJzbGJvYnlJRGp1bUM4VjEtS2c?oc=5"
         },
         {
             "source": "LiveScore",
@@ -56,9 +56,9 @@
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNlVxbUJpY3dpWnd5TWRVWnBaVXBMTlV0R1lfNk5aNkk4NlhxTnM2ZlhpMGxYdktaclItQTItX2pEZndmWFd0Q1hSVVZqUzFlOEh4ZHlHdjF5Q2didzMxWDZKZ2hxV2lkOHFmLXJ3VGFvZHdwWDJoWkN5a0xlcUIwN0thcUVzNTVaUzFXRHBva3F5eVVsLTVpSU9WbVh0SS1TZGI3QWxsQVREZ0QybXk1aVNCbHBkM2o3LWRjeGl6YWlMaTIwRHkzQ2lHTGd6RFJNdy1WYVhKOWZJZlhNZWQtTFVwcURNV2QwUEVvTg?oc=5"
         },
         {
-            "source": "lboro.ac.uk",
-            "title": "#√☯️[[Live Football+!]] South Africa vs New Zealand 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 12 September - lboro.ac.uk",
-            "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPeThsVGpuVlBld25RZ25PbXdEcnY5WFlYTXlDOXl0bEZJR0JFakxaalhoYjgtZ1dvb19pTGFtSmdmSFRyendSOTRNTUdOS2RaYW1OVmdmS3dxRFFzYnBORVA4SnNLcGxFbW1lVEpjTzF1NHBBUWVxdmNOR2tVczhVRG5qRlQxbTZGajR0OWFHTzNHczVSSnVnMDBhaUZaZXI5N2VYQmVJZXVzSzNxMzVHTUxLVmhLV2ZyM0pGblpJUXdYMnhodkUxQUF1eWlRS005dnFHZUFaRmVVNVhjeTYyQUhXcW8xTHFTRE96akdhLTZZejl0UFdPS0trY1ZadDVRejFWaEtIYkhzQm50Q1Buckp6YWRidDA1OElESHR1UVpMdGJMalBHYmJxbmNtWWZDblRTWmIzMUkyXzhCMU5Ub3hqZUc4UWpsNFRPdW8teEpVZy0tNFVOWHVSMW5nZF9tU0VqRmdYazh4cTMtdVE?oc=5"
+            "source": "Loughborough University",
+            "title": "%*[[[SPORT TV>]* USA vs Spain 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 12 September 2026 - Loughborough University",
+            "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVlhvZU8zVG1fTUpfMnh3bkRrcUJibUtiWDFVX0JXRVBkZ2JCRWRXVjVnNW5NVFF5T3hIT2ZrY0N5Q3N3bktsc2JpV3hQRHM0eFVWZ3VVZmpxUjIwRFgtRGtoaTJvdHNNRjRqWFo4NWNVdFdvWmFMSGZTTU1udkJQTS1RMnEzYkZJOEJCYmdrOW1NYlB3Y0lCM0h6YmV3Y3JTU1IzMzRrMWJYRUhDd2I5dkttVnFXYk44ZHBBOWtXNWh0OWxEbDBwZndocVV1ek1ucFlVUDRWSERNMy0wRUtoWHM5QUhFbnJDZ1NSei10aU9haFpLWl9qTU5ady1TUFNKSDBoU1VGZkNWd1pYV3h3dGpfTDJNZ2FvWkNlc3czbVpqeTdsSjJQdUkzSE5MT0ZqeW00MndaMW9HUzRPbHpj?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -68,12 +68,22 @@
         {
             "source": "네이트",
             "title": "[오피셜] '144년 역사 최초' 토트넘 충격적인 불명예 신기록…개막 4경기 연속 0골→5450억 폭풍 투자에도 첫 승 실패+리그 17위 유지 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oZDhidkZHeWpQSDJ5NTBvLVdiT1FNa0NwRHcwbkhjbnNGNWp4VWVnSlQwMm14b2ZueXJSQVFVczRHYnV0bVpoQUJvRGhpalZQbGFJMklSTFYzZFNiT0ZhSjNYTl9sTU52REVQV0hBOXp3X3Y5YXQyUQ?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LTnRXbTNERHkzYmItWlFnU05jY01LRGpTV1NZa1JwcFF6dGw4UUlRWFhMMHFRVW1GTXNQdEVxZG1oYjEySWctM1JYeGt1UzBxektRN1RaRU51ZDdI?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "'아르테타 매직, 환상적이다' 라야 PK 선방→기마랑이스 환상 결승골→사카 PK 쐐기골! 아스널 개막 4연승 질주, 선덜랜드 원정 2-0 승..'단독 선두, 이 보다 좋을 순 없다' - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WY0s1V196RzZ0bWI4UWt5V0pTQUhRZWJ1NjdlTVREM2wzczlsNWdJMm1WNUtEaGtReWV4Nk5NRlRiM3ZjOVRWMWc5RnpiNk1XbWtlTTRYa1F4dEJBd29nX3FKd1J3bW5xSFlpWktqWldFUXdiaWo4Smp1bUpodw?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "'골을 이렇게 못 넣어서 어떡해' 토트넘, 개막 4경기 연속 '0골' 대굴욕...에버튼과 0-0 무승부 - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91NmVFbkRwZ1p6WTJXbnhKODVkUXAtR3lpSjk5bi0xd2VMQmRBZTlOWnN4NzZzTTI2SG4wLVNlZ1FqQnZnU0ZaZmV1YU9MUDVRUDFzb0h0UEhObXJvdm9QVkxYYUhrT0EwUXfSAW9BVV95cUxOSm1oa3hZZXN5cW1qMUxFR3gxU1h2Z09zcXRuNmVvdTBNR3Z6NkR5Mzh0WXljUEVvOEtUSTUzcER3ZW9pNm55N0lxeDhTOFFVOHBDS0R3LV93UGdiYmZ5WmdsTTZTeXNXYlZydUtLaVk?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'상위권 도약 어렵네' 첼시, 헐시티 돌풍에 휘말릴 뻔! 데드루 1골 1도움으로 위기 탈출 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYk5yZjFsZkViUzB6VzlWd1VuUzljZFJCUTU0WXl5UjJQUklneWcyNHB0LU54Z0FnWHA0dWptVHIzbU9HQWhVaEF1U3VCaGc?oc=5"
+            "title": "\"첼시 2016-2017시즌 우승 박탈해야\" 포체티노 감독 직격탄… 박탈하면 우승은 토트넘? EPL \"처벌 공정했다\" 반박 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zNDdydlBaTE82T2dNYUM3VFQ0c1dDSlFLc3ZiZHhJZFhLWVl2RU1pbkxIWVRPcm5Jdzl5bVVZLXFiOElZQmQzWWgwdk1hQUU?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,29 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVU9IdnNyVXItMFQtY0dhcUV0a3IwakU2X3VvRTRKRGp2SnRTOTlwcUtoNlc1ZmxLTVJqYnhFQkpIaDZ6R2VKekpGV1pJM2JTS3RiMDBpQXJ4dllkWXFKcFgzRFhSWEljZ1ZsbHl3OUtlUW1wRURRV0hiQ2gybXB1cWl1VmpORTByeUFv?oc=5"
         },
         {
+            "source": "mhnse.com",
+            "title": "\"손흥민 PL 우승 돌려내!\" 포체티노 감독 작심 발언...9년 전 첼시 우승에 문제 제기→\"우승은 2위 토트넘이 받아야\" - mhnse.com",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VbFNXd01FS01waTVmNEVLaXBIbmlfaGJSRFpqaFFiekFBa3REWExLNG5UXzRNalpRNTd6VHNlVXo0dENaNC0yejBPNGgtLWUyQ2R3dzBzLTRGc1c0Q2JQbDVrSQ?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'상위권 도약 어렵네' 첼시, 헐시티 돌풍에 휘말릴 뻔! 데드루 1골 1도움으로 위기 탈출 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYk5yZjFsZkViUzB6VzlWd1VuUzljZFJCUTU0WXl5UjJQUklneWcyNHB0LU54Z0FnWHA0dWptVHIzbU9HQWhVaEF1U3VCaGc?oc=5"
+        },
+        {
             "source": "인터풋볼",
             "title": "프리미어리그 우승 팀 감독은 다르다...아르테타 \"원정 대비하기 위해 고의로 선수단 방해한 적 있어\" - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84RU1kdXl5S2RPQmxGRFcyTnJxZGdGOGRjVkp2VWkyTTBUVE1JZmhXV0dsR1F1QWpiV2dJWVZCTzR6TlNHVnZmSVRZSW1CeEpwb05idS1MMmhKMGpPaWY2cGJTcGJhdWJQd3UxdUkzajlHb3V3?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "EPL 헐시티, '동성애 혐오' 응원 구호로 '벌금 5500만원' 징계 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mTFptZGd5TklEMUNZU045WnFWWU5pWG51Qm4xZnNpX1VPem9EMEh3NUhGNUJGR1pQU25pZ1BkX0tpRWtFTHVEU0N4RFV6ZV9YeDVWRldTZl9VbWFYb3BkWNIBeEFVX3lxTE9FNnNfc05INWc0UnpFOUYxX19IRnFkM2M2bmMtckJfdFFCSndKUm0yaWRuQjNTWVJhVDhiYUZudFBjbFpBdVMzOWx5NzFldFJPWDRlY21namhmNEtEcDZ0V3BfR1dlb1hHME54SS1UN1Z5bm9iSlA2OA?oc=5"
-        },
-        {
-            "source": "마이데일리",
-            "title": "`토트넘 EPL 엔트리 제외` 손흥민 절친, FIFA 개입 요구…브라질 클럽 이적은 거부 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuNnRoVXdPbUJmNTJseFQzUktVU2c1d0hVTWtXemE4aTdXbXRPV1V5Wk5QR0lQREN4d0NXczVBTmNSU253VlZyak5KWllSMkxEMldoVGFCNk1YUmc4MDVCYUdKSTB5UQ?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "'괴짜' 아르테타의 충격 고백 \"라커룸 고의로 더럽히고, 침대 숫자까지 줄여\"...\"예상치 못한 스트레스 면역력 키우고자\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84ZXNxZkZ4QnRlQ2RXa3hQeW5jekJwekJOX0RYVllNMWVLU1o4Znk5Z0djSUdXYmZVallZbEJIZzNFUGZ4V3dvMTBOZm5QbUFiaFZQYzBkcFVhNnRSclNwSGhTRVBwUUFBOGxKS3ZkcHp3YjBKb2c?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "'마이클 캐릭은 거물 오기 전 임시 대안처럼 느껴진다' 리버풀 레전드 캐러거의 혹평, 맨체스터 더비 앞둔 맨유 사령탑 저격..'1승1무1패 부진하자 벌써 비관론 고개 들었다' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Tczh5RFhPQi13OUc2Z0pkSi11c0pfdE14YUQ1dFBrc29uZFB1TnM0OUZ0NmdZMjdyZ2kwT29TOTFlUnNFVWUxNTBmSnNqUVBTbjNveWM2eTYxOHlUOU55UXU4Umd3UGw0QWRWMmk2T0pZMGxmSDZzWWxQbmd6Zw?oc=5"
         }
     ],
     "transfers": [
