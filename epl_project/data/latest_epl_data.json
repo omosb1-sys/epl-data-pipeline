@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-14 19:59:05",
+    "timestamp": "2026-09-14 22:56:04",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Leeds United vs Newcastle United: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BeFBMd0w5RE82VGFOSThuc3BFQ3RERVB0US1PNlZLMkJ1U045TmExU05QOW9ZNEplV3BJWnVkQnlsZXhXNHRfMVFHVlBMcnRxLTk0bnowdk93ZFVXSTVnbEtFNDYzZw?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "(1) Leeds United v Newcastle United: Premier League – live - The Guardian",
+            "source": "theguardian.com",
+            "title": "Leeds United 4-1 Newcastle United: Premier League – as it happened - theguardian.com",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLV9ZTDU1TUpWaERlblpmOHNtb1BqSm85VlhnYjctQzI0X09kQ3dwQjlsWk1ueU1teUM0ZWRlbjdCWEdDTVRpY1VQQ2dWTGMza0xTOGF4REhfWHkxRkczakRmaGRoTWl1ZTRhQ2U1dUNxdGpURVNZVDc5Vld1Mkl2WjQxcWtfdXZwYzR0djFjLW5qbGJLUkFQeHpHQ05jN1VhdjdWRlh3SnBhdGNYQmZNSWNkTQ?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Highlights - Premier League - Manchester United 0-1 Manchester City - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lUXdKM1FCV3dkVlFjSDhVMXBjRmJrUjJCQUxKN3lXcnphUGlwY0o2SmIyQWZyb0pWVVB2bTk0LU1ubFlfRGQ2ZlFGM2xPRTJLTnZkODcxRDlEVkgxWW1rdHU4bFlMNDg?oc=5"
+            "title": "Troy Deeney's Team of the Week: Donnarumma, Konsa, Fernandez, Schade - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TWU1oMzEwM1RxbkJVR1ZvX3JOakZ6RVd2WlhscjB0YVh1andlQlYtejBhbnVlTV9MVzlOVGN6aG1UWjcxMU9JdW1iMDF1YUpSMTRTblhKXzE3NXZ0UkViWFRCREVIY3VF?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Manchester derby VAR officials not given Premier League game at weekend - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hLThtbzRRb2xUNExMYUFCQWQta0FSbThvSHNmQUF5dnhmZVlfWGdrbXp0YlVOSndIbmg0LWZzWXY5ZE5sN29laGVvd2lJSm9yUW4wY1hPZTYwYzVFOWlMNU90cFY5SXZD?oc=5"
         },
         {
             "source": "LiveScore",
@@ -52,8 +52,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
         },
         {
             "source": "Premier League",
@@ -62,8 +62,23 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaGhIVGI4NE5oZzJMdV9BaXhvNzl2UzVDbWFUQm1KZHZ2TTg4Zm9Fb3owNklBYWNXQjY1endmYVNoY1ZmbERMbk81SHZ5WmRrTzZxTFE2YUxZOEZVcGZZTDZVUjhPM1lOZlllZUMtbWVOd3RXZEFnZGthakljcldIbTBGMk1mdTdOay16RFkzOEV4Vkh2cDd1T2xXUU43bnVnSDFXNzJtNlFLT2ZEcTVySlIzNmJvTy1Wb0ZiQWJfVHhRanl3bnNuY2t6dldvRk43eVROSUhBdGF4TEhCUDBWNkxwMUp0Z2V2VmpEMjhsTjltSlBncllz?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "[오피셜]'아무리 급해도 너는 안 쓴다' 개막 후 4경기 무득점 충격! 토트넘 데 제르비 감독, 히샬리송 리버풀과의 리그컵 원정 명단 제외..프리미어리그 물론 컵대회도 기회 안 준다 \"떠나라\" - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMVk5NW5rdGlYZWMxUkNBOGJTZEFGZm9wWlh4bmZSVUxidzBLdmFxZW54QkdqOEs5dUJ3bHpVWTJwdkdZVHZldGdXZGZQS1h1Q3l0SGNRMDgyakcyTUdhN0pJRV9qTDlCSkRVNUJUTUxMbEd4LUFDcDM1bkdNUQ?oc=5"
+        },
+        {
+            "source": "gukjenews.com",
+            "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌 - gukjenews.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNE9QcDZmSzVhQVA0OEJBTmc1enRPMTJVNXk4U0lxZ3dtUEJDMjkzVWh6UlplTDZHSkcwQjdiOVU4V0M1Y0gzN0l3VE5iRGVtbWRlS0hFaGVfSXplOS0wamg1SHhpQWxILWVneUt3?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "'2026-27시즌 EPL 4경기 0골' 토트넘, 처참한 득점력…데 제르비 감독과 공격수 텔, 경기 직후 말다툼 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zdjl3WWlmQzNwTUVwbzRvTzh5U2tjQnVoVktSQmk0QXFFVS1RSGVHcWpYUUhQMHItVE1sdVZtcjV3ZlZZRWNNQ2FQM0g5a2dZMjl6aUt6YzBCVFllWk13NTQyYTNCQQ?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -76,34 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjZabm81dkZGWVBETzQ2LUI0YTNqckh4aHFNWXhjVnJjaGJuOWdCdzNWVzgtUjAxR3hrUXJBcmpDdFYzWWV4UDg1U2JJRFlnMGlya1YyOVhqUTZibmtzc21XanJrWVdKbEVpYzl5WWtuUHRGNE16bXN6Wkw2Znd5cXRfZ0l0Y3FoNm5ZTS1KT0VxRE1RU2F2QURvLVE3Y0VF?oc=5"
         },
         {
-            "source": "gukjenews.com",
-            "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌 - gukjenews.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNE9QcDZmSzVhQVA0OEJBTmc1enRPMTJVNXk4U0lxZ3dtUEJDMjkzVWh6UlplTDZHSkcwQjdiOVU4V0M1Y0gzN0l3VE5iRGVtbWRlS0hFaGVfSXplOS0wamg1SHhpQWxILWVneUt3?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "토트넘 공개 조롱, '4경기 0골' 제대로 긁었다 → 도미노피자 \"우리가 거의 5억 판 배달할 동안…\" 처참한 굴욕 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EM093dURKZUNRUVd2cGdVb09DeDJ3NFhWVC05MnBfQTh0NHlOWFhkRlZFaVV1MlNtcENxWjVoY21LNnFrNVU2X3AtZjZpU28?oc=5"
-        },
-        {
-            "source": "마이데일리",
-            "title": "'2026-27시즌 EPL 4경기 0골' 토트넘, 처참한 득점력…데 제르비 감독과 공격수 텔, 경기 직후 말다툼 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zdjl3WWlmQzNwTUVwbzRvTzh5U2tjQnVoVktSQmk0QXFFVS1RSGVHcWpYUUhQMHItVE1sdVZtcjV3ZlZZRWNNQ2FQM0g5a2dZMjl6aUt6YzBCVFllWk13NTQyYTNCQQ?oc=5"
-        },
-        {
             "source": "sportalkorea.com",
             "title": "'韓축구 보물' 양민혁 미래 망쳐놓고 본인은 '폭삭' 망했다...램파드의 처참한 현실, PL 4전 전패·무득점→107년 만의 굴욕 - sportalkorea.com",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEJfcWtzc0Q2XzdXNlplSjFIQkI4YWRjY19VR253SnB4bE1Vd2Q4c2hBdTNERV9UREZaalJyTHQ2MUpGdV95OHA1YVNDTkVPZjdyazV0WDRxeUh0Z0lGUk8xeEItSGdoZ1J2WGFOVkZfMGZjM18zTkdROWpJM2pxaDl3?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "'충격, 이대로 가면 경질이다' '첼시 레전드' 램파드 감독의 수모, 승격팀 코번트리 무기력한 개막 4연패, 4경기 무득점이 더 놀랍다..'EPL 역대 5번째 불명예 기록' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5VGl6TEo0U29fYzFFbi1BbDNqQmNOVVhzeFc1cDJMQ2xPSXhwYlBYVXVnbXlWV0t2ZnZTWHRQUFQ5RTEzMUc1c0dJMFdZc09tMnlJTUNLbjkxWHA5Zm5ieTNZcG5Yc3JMSmpDdmlZUUJtWVlvYWFERkJES3pCQQ?oc=5"
-        },
-        {
             "source": "뉴스핌",
             "title": "[EPL] 홀란 '오프사이드 오심' 결승골 덕에...맨시티, 맨유에 1-0 - 뉴스핌",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfeUNmbWh3S3k4bDRfM201MnBUSGNOVThNRlVCUDJwaEhPaC0wSmc5bi1LRG5WSG1KekpQUW5IZmZBc01JZnZvLVVRZDJNeG1OeXF4OHFPd3FCOGpz?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "\"너무 부당하잖아!\" 오심에 분통 폭발…맨유 리산드로 마르티네스 격분 \"여긴 세계 최고 리그→받아들일 수 없는 일\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZW5vckl0N0ZmSTVaTHJKTlluTXBkSW1FbUF2OXEtMnh6ZFFLaGJTQmlOdDQwSENjSUtnZGtoVlRVNmlWY3F6UVdhS1JVVWVRcWVLNWV2a0pWUXJvS1RQYXU4OHAyZ1hJNlgyNUFlWVgxYmJSOEg1aU02OVBFcTFTVHNFN3NTTUo2TVNF?oc=5"
         }
     ],
     "transfers": [
