@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-14 22:56:04",
+    "timestamp": "2026-09-15 01:03:28",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "theguardian.com",
-            "title": "Leeds United 4-1 Newcastle United: Premier League – as it happened - theguardian.com",
+            "source": "The Guardian",
+            "title": "Leeds United 4-1 Newcastle United: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLV9ZTDU1TUpWaERlblpmOHNtb1BqSm85VlhnYjctQzI0X09kQ3dwQjlsWk1ueU1teUM0ZWRlbjdCWEdDTVRpY1VQQ2dWTGMza0xTOGF4REhfWHkxRkczakRmaGRoTWl1ZTRhQ2U1dUNxdGpURVNZVDc5Vld1Mkl2WjQxcWtfdXZwYzR0djFjLW5qbGJLUkFQeHpHQ05jN1VhdjdWRlh3SnBhdGNYQmZNSWNkTQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Troy Deeney's Team of the Week: Donnarumma, Konsa, Fernandez, Schade - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TWU1oMzEwM1RxbkJVR1ZvX3JOakZ6RVd2WlhscjB0YVh1andlQlYtejBhbnVlTV9MVzlOVGN6aG1UWjcxMU9JdW1iMDF1YUpSMTRTblhKXzE3NXZ0UkViWFRCREVIY3VF?oc=5"
         },
         {
             "source": "BBC",
             "title": "Manchester derby VAR officials not given Premier League game at weekend - BBC",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hLThtbzRRb2xUNExMYUFCQWQta0FSbThvSHNmQUF5dnhmZVlfWGdrbXp0YlVOSndIbmg0LWZzWXY5ZE5sN29laGVvd2lJSm9yUW4wY1hPZTYwYzVFOWlMNU90cFY5SXZD?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Troy Deeney's Team of the Week: Donnarumma, Konsa, Fernandez, Schade - BBC",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NaFJ0WUJJLUtUSzZjU0RzRDN4QlBweEpwRkhKLUhQTHZTYWtCZnp6WU8wV1M0NVNPU2lYZGYwMmR0eS0xU2lIaGxhMXdrSHY5Tzg0aVVvTkZEdWlZYnlIYllTd1JLRVlvNUZZ?oc=5"
         },
         {
             "source": "LiveScore",
@@ -36,6 +36,11 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pSTTJCS2hGamVwYWRxaExEN2JMY3N1MTV4Y1VRODV2S2V6dnB2R25PdE1kQ1NPMU05WWswVEpMbGp6WHJVX2NKWWh3ZUpBdmZOenZXSzB6V0U5Z3ZvNnFka2tZWUlXd1c1MVV6a0ZiNy1xNnVDVldTakZkbFlLTUM3ZDlqU2tYcWc?oc=5"
         },
         {
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHlubENibVk5emlQMElpZHU2QnI3clJBTmdaZWx0LTJ2ajQ5S3VlM0lNMnNXSWFNWUdlX0RhSUZOdVRrYzJUaFFwOG9FNTJYZC05U0otSXBRM1FGQ2l2WFMtN3MyWG13dkpOa2J2WE9Jb0g2RUNZQzBiY28yTmlPNWdQeWxIZExUWnd4bWtvNldCOGFLSmhkZkFBcEZfSWNWQXExR05Rdw?oc=5"
+        },
+        {
             "source": "LiveScore",
             "title": "‘There’s very little patience’ – Ornstein gives huge De Zerbi sack update at Tottenham - LiveScore",
             "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGR4cGd2U3lPc3NGLW9GZ1Z1dDl0N0VLRVZReHFTVFp2LWo0Yl8yVEstamczVkN6N3d3emVFMGhrWVkxZnYzRWhsZDZ4R3JYNGdGb1ZXQlRWOW91ZEhkOWJqY2pobmRSVW9zOVJhVkROMTJhNml4eEpTNmxYdlMtZU5IX3ktTlU5aFZOSDRydVRvUUtPS2MxbS1kY1ZOX1phQkhRNGlvMGhCTHVtMDRERVhOUG9RQVR1QUFhV2Y3aTFNbHhZM1BnSld4bHZfMGNweENfVWMzSlVoQQ?oc=5"
@@ -46,14 +51,9 @@
             "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales? - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5"
-        },
-        {
             "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
+            "title": "Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNlVxbUJpY3dpWnd5TWRVWnBaVXBMTlV0R1lfNk5aNkk4NlhxTnM2ZlhpMGxYdktaclItQTItX2pEZndmWFd0Q1hSVVZqUzFlOEh4ZHlHdjF5Q2didzMxWDZKZ2hxV2lkOHFmLXJ3VGFvZHdwWDJoWkN5a0xlcUIwN0thcUVzNTVaUzFXRHBva3F5eVVsLTVpSU9WbVh0SS1TZGI3QWxsQVREZ0QybXk1aVNCbHBkM2o3LWRjeGl6YWlMaTIwRHkzQ2lHTGd6RFJNdy1WYVhKOWZJZlhNZWQtTFVwcURNV2QwUEVvTg?oc=5"
         },
         {
             "source": "Premier League",
@@ -62,8 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWptTVo5dkdXV3k1WDVYTHJsb29PVE5JaTY1VkdiWlBqaXJXOWc5YWtOalRrWEhkcElmcVJLbzV1MF9kN2hGa2NBUmJJQjJ1RzZNMmVuRjk2WWV0aHJjdmJIOFJ2RlZYTkg2Rm05WERmd0k0OEpUWm1aZWg5bTlOTC0tZGNwMldnM2liY3Q5am5pRE92dWttNHl3VkZCOEVpTEk4bHVieUtTaW9tckw2RmlkcWRLUGVkVGthUHZuMWJ3NWNXU0QxRGcyWFlmU1lwWGJnZUkxZjkxQkUtenFEQzdhT3Roc0RSUFg3SU5DXzJVcXhP?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'오심 피해' 맨유, 10명 맨시티에도 무득점… 틸레망스 \"이길 만큼 기회 못 만들었다\" 자성 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RWkllVFkybDd3bVRtV2wzN0g1QVdxQnRHRXlndmJlb01HTmZUaXE5cHhOQTJIQnl6VmFQb1hFeFlLQVBhd0Q1QWFpSFVHQ2M?oc=5"
+        },
+        {
+            "source": "연합뉴스",
+            "title": "'맨체스터 더비 오심' VAR 심판, 주말 EPL 경기 배정 제외 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50akxtU0c1LUszNjFsWWVKZ3BVWGNVV2JVSTQ2NURmX0QxMjFMZFR1UEdqRk93UVctY2hqdU03ZHRsZkhKZjVDTDBUOEYxWUY3ekUycVNlS0FxbFHSAWBBVV95cUxQU2tGR01MSmd4SDdjS1NNSDVGLUtJT05TaHhxdUJoeTJZUkNhWjY5UXJOTjM1V2JtQmMtRjJ4ZnVzVlJTWi1GUENiUjg1RDdLZTFqMzNMckZrWU1iYnMzX3Y?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -71,24 +81,14 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMVk5NW5rdGlYZWMxUkNBOGJTZEFGZm9wWlh4bmZSVUxidzBLdmFxZW54QkdqOEs5dUJ3bHpVWTJwdkdZVHZldGdXZGZQS1h1Q3l0SGNRMDgyakcyTUdhN0pJRV9qTDlCSkRVNUJUTUxMbEd4LUFDcDM1bkdNUQ?oc=5"
         },
         {
-            "source": "gukjenews.com",
-            "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌 - gukjenews.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNE9QcDZmSzVhQVA0OEJBTmc1enRPMTJVNXk4U0lxZ3dtUEJDMjkzVWh6UlplTDZHSkcwQjdiOVU4V0M1Y0gzN0l3VE5iRGVtbWRlS0hFaGVfSXplOS0wamg1SHhpQWxILWVneUt3?oc=5"
-        },
-        {
             "source": "마이데일리",
             "title": "'2026-27시즌 EPL 4경기 0골' 토트넘, 처참한 득점력…데 제르비 감독과 공격수 텔, 경기 직후 말다툼 - 마이데일리",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zdjl3WWlmQzNwTUVwbzRvTzh5U2tjQnVoVktSQmk0QXFFVS1RSGVHcWpYUUhQMHItVE1sdVZtcjV3ZlZZRWNNQ2FQM0g5a2dZMjl6aUt6YzBCVFllWk13NTQyYTNCQQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "\"프리미어리그는 오랜 꿈이었다\"...'韓 국가대표 공격수' 황희찬, 샬케 임대 이적 후 울버햄튼에 뒤늦은 작별 인사 \"정말 그리울 것\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4YTRmbUZ4SHRFaV9yUU00WmJqbXlhX09XQ29xVFlHYi1CTS1aYVoyTFk2UzAxV2U2bDZIaHJ4TUM0aXEwR0NQX0dMV3dCbnM?oc=5"
-        },
-        {
-            "source": "Manchester City FC",
-            "title": "홀란드, 프리미어리그 시대 맨체스터 더비 최다 득점자 등극 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjZabm81dkZGWVBETzQ2LUI0YTNqckh4aHFNWXhjVnJjaGJuOWdCdzNWVzgtUjAxR3hrUXJBcmpDdFYzWWV4UDg1U2JJRFlnMGlya1YyOVhqUTZibmtzc21XanJrWVdKbEVpYzl5WWtuUHRGNE16bXN6Wkw2Znd5cXRfZ0l0Y3FoNm5ZTS1KT0VxRE1RU2F2QURvLVE3Y0VF?oc=5"
+            "source": "조선일보",
+            "title": "[오피셜]'아무리 급해도 너는 안 쓴다' 개막 후 4경기 무득점 충격! 토트넘 데 제르비 감독, 히샬리송 리버풀과의 리그컵 원정 명단 제외..프리미어리그 물론 컵대회도 기회 안 준다 \"떠나라\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEVja3JpRkdsZ2RxV1hLa3ZhclRZaEJBWHpGUi03dFJGNjBDcXRyU2YxanlLZTcyQUp5dWpia3pHUklNTXN0dFpZQ0FHT2dKN0h6WHRpRDhaWmhPQkM0Z2w5QkVLWWxHTk9DYzZBeFVfMDZseDlyWnVHY0FNVFVKQVpJQ3oxWVp6XzFN?oc=5"
         },
         {
             "source": "sportalkorea.com",
@@ -96,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEJfcWtzc0Q2XzdXNlplSjFIQkI4YWRjY19VR253SnB4bE1Vd2Q4c2hBdTNERV9UREZaalJyTHQ2MUpGdV95OHA1YVNDTkVPZjdyazV0WDRxeUh0Z0lGUk8xeEItSGdoZ1J2WGFOVkZfMGZjM18zTkdROWpJM2pxaDl3?oc=5"
         },
         {
-            "source": "뉴스핌",
-            "title": "[EPL] 홀란 '오프사이드 오심' 결승골 덕에...맨시티, 맨유에 1-0 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfeUNmbWh3S3k4bDRfM201MnBUSGNOVThNRlVCUDJwaEhPaC0wSmc5bi1LRG5WSG1KekpQUW5IZmZBc01JZnZvLVVRZDJNeG1OeXF4OHFPd3FCOGpz?oc=5"
+            "source": "Manchester City FC",
+            "title": "홀란드, 프리미어리그 시대 맨체스터 더비 최다 득점자 등극 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjZabm81dkZGWVBETzQ2LUI0YTNqckh4aHFNWXhjVnJjaGJuOWdCdzNWVzgtUjAxR3hrUXJBcmpDdFYzWWV4UDg1U2JJRFlnMGlya1YyOVhqUTZibmtzc21XanJrWVdKbEVpYzl5WWtuUHRGNE16bXN6Wkw2Znd5cXRfZ0l0Y3FoNm5ZTS1KT0VxRE1RU2F2QURvLVE3Y0VF?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"너무 부당하잖아!\" 오심에 분통 폭발…맨유 리산드로 마르티네스 격분 \"여긴 세계 최고 리그→받아들일 수 없는 일\" - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZW5vckl0N0ZmSTVaTHJKTlluTXBkSW1FbUF2OXEtMnh6ZFFLaGJTQmlOdDQwSENjSUtnZGtoVlRVNmlWY3F6UVdhS1JVVWVRcWVLNWV2a0pWUXJvS1RQYXU4OHAyZ1hJNlgyNUFlWVgxYmJSOEg1aU02OVBFcTFTVHNFN3NTTUo2TVNF?oc=5"
+            "source": "gukjenews.com",
+            "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌 - gukjenews.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNE9QcDZmSzVhQVA0OEJBTmc1enRPMTJVNXk4U0lxZ3dtUEJDMjkzVWh6UlplTDZHSkcwQjdiOVU4V0M1Y0gzN0l3VE5iRGVtbWRlS0hFaGVfSXplOS0wamg1SHhpQWxILWVneUt3?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-09-14",
+            "date": "2026-09-15",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
