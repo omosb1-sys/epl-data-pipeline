@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-17 23:11:09",
+    "timestamp": "2026-09-18 01:52:11",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League press conferences: Newcastle, Chelsea, Brentford, Coventry, Hull - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VZ000UTg3aUlibFB4a01XSU9vZzh1WndTWDVkWkJJRktyMFRLOFh5bnJLenhNa2dCb2IwdkNEWVNCbXN1MExFYmViYXA1ZTkySmhDTWxRQ2o4cG1nbWNEX3Bwbw?oc=5"
+        },
+        {
             "source": "Sky Sports",
             "title": "Premier League predictions & Jones Knows' best bets: Brentford to expose soft Chelsea underbelly - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUlNa0c1M015bVZ0aUlRN2ppTGxLdXRILXJwelp2QWs0TlhHRWNUdGtkZG9ESGhoZnFoZXRBOHJHM3lmT3lhYk5Kc3NHb1p5VDhUSGRPTGROc1d3ai0wTzhzY1N1Q3lWR1dmX0dLalVhOTdibnhRLS12MklUcEF5UDlqWlNtY3JzUnVDOTFiRG1DZWthV0EyeFl6dFJQZkNqWlBwQU9HYUVibDFPeDNfb3paNHZXR0lUNnBaUTVpcW85QkJ0clBPSXpablNkX2J1MFlqWFVMWGE0SHNpeGZHcmI3N0tmUQ?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "Premier League Mood Rankings: Man Utd fall 11 places as Yorkshire celebrates - Football365",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmJvcHFZOVBNcVkwcl92Sko3dkxqdGk5NW4yNXVMWmF4ZU0yRXNFVjlMZ21TRzFSeURnWll5ci0taGxONXEwVTRURXBMRE1XN1JaOE5LMmxHV1ItZjZaa21iNmJMRkRtdjBmcnZCdU9YTGpBNW9KVEdDcUYzLVlkNndhZkprbDFobWtEZk5DUEZTLUpkWTlDTkp3WDBNUm1mdGc?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcm1zVGgzVWVfWmtjNDlPMmxaUjhUUGtTcFB6aTFiZl9TaVQ0N2FrVjV3MXcwS0gwVE5GSzJRNG5OVHhWdjloUlJBQlhOMjRjSW5IWW9BMXd6RWs1blI4SUNIeGI2bThIN29ld1pWcm8wb3o4eE1RTWRpb2Q0ZmRyQTNEeXkxLUMxLVIxM2lVbjlmRXRUQTJpRXBLN0ZzdUFVNVV0OQ?oc=5"
+            "source": "Chelsea Football Club",
+            "title": "Xabi Alonso confirms Chelsea team news for Brentford | News | Official Site - Chelsea Football Club",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWll3dWJKbDFIZVp5bnEzVURsVFgyV0YwcFdkQWNQTHYyUmRNT1VoX2JWTmcyX2F1THYyTWx6N2lHUWRMXzJoenZrUndaeERJU2ZxczhfYXBTYmNsT0hkajFmN3h6dXdpcGRVWkhiQzJYYzRaSHAxcDNjRVdOa3h3NjVLSG02WHVreVlwbnVPNFhoeVpLYXVXd0dB?oc=5"
         },
         {
             "source": "LiveScore",
@@ -26,8 +26,8 @@
             "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjNsNzdTYTEwMnBETjFoLWFnV084aGUtRXRueHZVR0VBdExxSkNRTVZZQWE3MGJOSUk3X3RnVGNXTjRteUZtQUNka3NvZjFwanpNZndKaXlSSGR3MTByM1ZxcjVtYnR3MVkwcDhLWjJpWHRzR2xRVmlWbUtkY3B5SFhaVnJHUzJ1d3ktUktycS02REt0QlItdzBwZlhieFNjcFBoLWM5SGZxTmpLTTVfNjRSaWtteWhneXduMmo4U3RUTTNvZ2NfN0VNMGxLR2plcEFnTm1BeVU3TUVvaThrRG03LWVsd29oRUM3RWpKVVh2SG8?oc=5"
         },
         {
-            "source": "Yahoo Sports",
-            "title": "Fabrizio Romano confirms Liverpool star was offered to Manchester City - Yahoo Sports",
+            "source": "sports.yahoo.com",
+            "title": "Fabrizio Romano confirms Liverpool star was offered to Manchester City - sports.yahoo.com",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnZMdlhkTHNrN1JzMm9rSHN6NDRQVmk3eUhHR2RJYWlNOThzY2xWeTlQblV1aGV2UlV0ZHNab1FTd1psRDV0OVZ6aHhpb1BCR2dPamlRRjl6bGJib1FPSXFTenMzLXl1Wm9XSFUzS2Q1cUFuM3N4ZzBwWHF1WGRsOElnSFhyZkNyVmRhVVM3VHhNQQ?oc=5"
         },
         {
@@ -57,18 +57,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Carabao Cup fourth-round draw: Liverpool to host Chelsea as Arsenal drawn away to League Two Fleetwood - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYW9uSnlGRG9YVWxQVE1BQXZIS3lWWTczeFU4Z2dMUDhkOGgtQlFrU0dBYWNLN2NybDM4Q0FObnhIWTZseU5hMWdmRlJKOTR0WlhVeEE2UTV5TEgzTTMya0RHOHpPYWx0TXQ0OWk3c1JjUkdHSW4wdTBfNW5ZT1R4NVcyTUppN2ZvcVpQQzdGRXVCTFU5aXlmTlVtX1VqWllMamlwUWF4ZUxXM0lhUVYtcVFYR3lGNzAtMU01ZmE1YWlkdkJKa2tsTU9fUE9hNE41RjZIbnYydTMxTnhlUGUwN1EyeUJrbDRhd2dXcg?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhMNThDVHNFcXU3TkJOQ1FwbWhxR2hGUVlReUFESnNjbHJQR05udlMyN1RDUjBoV0hHaWFKdVlKUnNheHkxQmhwSk9vTUJrVWhrMW4wbnFIZnl1cm9CWXRvMGp0YjJEMmdEd3h3UnlxR0pDdkY0LW83c2FsNkxRZnVkQTFpN2xodVJwbzEwaVRIZ0JMelg2bTJMS0x1VUxacDNLdmNiRTNhLWVkUUtySk1IVnNFcXNIU1N4NzkyWlU5OURHcUlMUldSUEtnN1ltN1dTMUdPWG9yVE1Ua01PSjNacVlVcVYzc0RvYmNEOXIxd185RkE?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "‘충격!’ 맨유 ‘리그 13위’ 절대 우연 아니다 ‘스프린트 횟수 18위’→핵심 활동 관련 기록 대부분 EPL ... - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Q2lfbDhTQmFUZ1FFU05vSzg0dGZLVUVob2MyWF9fVE1wRUNYWU9IMHJXT1lqR3huMnlIdnZjM2FXbFBwZXR4NUxUU0I2b1BNNWVXZW5NRmtXWnpYYmfSAWNBVV95cUxPeldzclBsd2NtYXF3OVRzTXFqaEJDOTJkcWlkSURLaDBYclNmN2YwQ0tyV2N5WUdKVUs1M0ppaDh5NndjT002QThnWFJtTW00cDU3N1Y0SXM0Y2pHbWZibjhEQ00?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "EPL 맨시티, 리그컵 16강행…17세 샛별 삼바, 데뷔전서 멀티골 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdVlndk9TZjE3RGZwVlRMVGdNdFF1ZEI2RFI0VFlMR2ZyajFVU0ZZV2NiYmUtdG1JTGVPVk1lZkY4WnRaY2FwbGxYcGNnVnRkVTNLNkdnaUxhdGJnY0dHOdIBeEFVX3lxTE1WTzJ2T2lOcGluMnVpVUZMTkhJYW5GZzEycHZJYmNUeHlKZ2ZVVktUY2NYZlpJaEFDZXN0RG5xVkRrdlVBSXpxeVNVX25SUFdYaC1mTDRYc01DdkxKOGZic1lnT2lSa01scG95UVBKd2FBYzNVZkx3eQ?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -76,9 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zVDhrXzdrOVlPSmhPYWxvZ1Nkb0RVbE1DbWFzaDVvMjR5c1VncFBKSUU2ODBrVGZkQzVFbWxITXdQWl9fMldwT3B1VWJyaDA?oc=5"
         },
         {
-            "source": "마이데일리",
-            "title": "쏘니 떠나자 '펑펑'...토트넘 떠난 '탕아' 아약스 입단 확정! 'HERE WE GO' 1+1년 계약 체결, \"메디컬 테스트 후 입단 예정\" - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xbWpYRlRpelJhUWJVSUIwM0ZsVEFTQm9tZURQMU1yUG4xUlRMMExWSWtoM19yeHhkY0hZSTJ5eWx3aTlvRGZTR1Q0WldUanlEaF9RbFhpcVBJN3NqVzBnTw?oc=5"
+            "source": "스포츠경향",
+            "title": "‘충격!’ 맨유 ‘리그 13위’ 절대 우연 아니다 ‘스프린트 횟수 18위’→고강도 움직임 PL 최하위권 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Q2lfbDhTQmFUZ1FFU05vSzg0dGZLVUVob2MyWF9fVE1wRUNYWU9IMHJXT1lqR3huMnlIdnZjM2FXbFBwZXR4NUxUU0I2b1BNNWVXZW5NRmtXWnpYYmfSAWNBVV95cUxPeldzclBsd2NtYXF3OVRzTXFqaEJDOTJkcWlkSURLaDBYclNmN2YwQ0tyV2N5WUdKVUs1M0ppaDh5NndjT002QThnWFJtTW00cDU3N1Y0SXM0Y2pHbWZibjhEQ00?oc=5"
         },
         {
             "source": "인터풋볼",
@@ -86,14 +86,9 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Kb3BNTk9FSzIzZkJtSEo0RFFDWE1hQjZlZ2s1eEF5Zk50N2tiX3dMM1Q5R2ZmTkR3MzR2eUs1cUxoT01DRlZ4RGU4VE9adXVaUUJfTmF4MTAyaVlKSzVvb3d1RG8yTWx0Q08zSFZ0aVRMQkJi?oc=5"
         },
         {
-            "source": "연합뉴스",
-            "title": "17세 삼바 멀티골 댄스…맨시티, 리그컵서 노리치 5-0 완파 - 연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iNGZuMS1XNWkzSmp6ZG5DSGVKZ241MTNpQTZacTBlWFJhYWYzMGVvaHBVZ3ZiRC0yOTd0SHhINEpWUjNxdEllLXlsZDBkajNlOFIzZ2J1Rmd5RzDSAWBBVV95cUxPcXk4cVd0cFNXNlMyTTBiZ1U4SGlPU2tOcFBILTRfZTJIWWhGN2NhckxKTlRHWVFCWjFvbjh2eDZCZlRaQjJTaDk5UDdpVDh4X0p4TlpnOWJUMHhrU1RHNkk?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "[오피셜]\"맨유와 토트넘은 우는데\" 이런 복을 주다니! 4부팀 만나는 아스널, '무사 통과' 예약…충격의 '알론소 더비' 성사, 리그컵 4라운드 대진 완성 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zb1FJN2FSRDktaktqOHppMUhGeVpBSzZodWsyTnJHTG4yOEF2M2FwcF94TXY4aXlMSWZmSjFrVXNDVXY4ZnA1UDZ1WEREaGZJaF83RVA1QUgtNDdVbHlmX0JVcmtFYUhPMTBqWkF5Z25tZFdabDI4SWprbXJpUQ?oc=5"
+            "source": "조선일보",
+            "title": "[오피셜]\"맨유와 토트넘은 우는데\" 이런 복을 주다니! 4부팀 만나는 아스널, '무사 통과' 예약…충격의 '알론소 더비' 성사, 리그컵 4라운드 대진 완성 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT05WVmEtQ0FLaG11eW5NekFQRzk2ZjFKQktLTGpkTXNuai1MSjJIUkN5eld3UG9ianJjQTByUElXOXdiMWIyelBRbENfNXdYUXJPNDdHVTZFcy1HR2FBRUVTLTV5WmN1TFpiRkEwUE9YUVNuR25SdWFhVmNIcVNnWElIM1hwaUNfS200?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -104,6 +99,11 @@
             "source": "네이트",
             "title": "'韓축구 보물' 양민혁 미래 망쳐놓고 본인은 '폭삭' 망했다…램파드의 처참한 현실, PL 4전 전패·무득점→107년 만의 굴욕 - 네이트",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yY2dGOXZtYjBFUUpYTXF1WG5FSG1BemVpOGpfS2RPUlBJSlNiOTduTFZwV2RWQ3JSN2VEMkxIX18ybDNrU1k4RUJXb1dMNmVuTkx4aGppdUZqXy15?oc=5"
+        },
+        {
+            "source": "연합뉴스",
+            "title": "17세 삼바 멀티골 댄스…맨시티, 리그컵서 노리치 5-0 완파 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iNGZuMS1XNWkzSmp6ZG5DSGVKZ241MTNpQTZacTBlWFJhYWYzMGVvaHBVZ3ZiRC0yOTd0SHhINEpWUjNxdEllLXlsZDBkajNlOFIzZ2J1Rmd5RzDSAWBBVV95cUxPcXk4cVd0cFNXNlMyTTBiZ1U4SGlPU2tOcFBILTRfZTJIWWhGN2NhckxKTlRHWVFCWjFvbjh2eDZCZlRaQjJTaDk5UDdpVDh4X0p4TlpnOWJUMHhrU1RHNkk?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-09-17",
+            "date": "2026-09-18",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
