@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18 15:30:57",
+    "timestamp": "2026-09-18 18:42:07",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "How Iraola is moving Liverpool on from the Slot era - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3UUlBTlpYQ2tDWnQyLVU2c2wxTXJFZmlYNjc3UjFRcHVTUTZSclNybGdKMllHLVB6eTl1OTVSdEY2YlllX3FuUVdfUnJ4WkVSMk12QXE5aDNZSk84SmtVa0t3T3Q4RXpy?oc=5"
-        },
-        {
-            "source": "Goal.com",
-            "title": "Iraola: Araujo needed to leave Barcelona, and this player has not adapted to the Premier League - Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXV0WDJBZXhQQnZaR000QklLZ2R4bUJpUjItZ0lRVXJzNjlSVmg2clZmV3psR2Q4bkZCU2VCNW1ROE0yWUdadHNVcnMxeHJLRlBYMVUzOS1ULTV2MDVKVVB6RzF5ZHU5ZDJxaVlVVzJhWUJzQjRUVndzd3Y2YzRRZlBxS2stb2RWcU5pdUlwZmNKdDAzTDF3Tk5jZnNTdHozNDVNNW5WQ2ZPWWRLbGhORnpwS0JhNUNGVy1kLWRkVTROYjZGbjJKUTBrVFVyX3dzdTRIWGRydw?oc=5"
+            "title": "Premier League press conferences: Michael Carrick & Andoni Iraola latest - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VY1AzMngyYXJndldBOFBpQXNjY3NVTEYtQWhLcjE1UVh1N3dEQ1NtaWVGdk96UzNVbkF0OU1wOE0waTMzQzdUV1A4enFyZXZFWGRYOHF4V0I4bFRzQ2hFd0R3OA?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League press conferences: Michael Carrick & Andoni Iraola latest - BBC",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40emR4SFJ6NVZSOEl1UHBFZDdlcks0TjQxTDJMTlJqQmI0NHQ2MkQwNTRXLUZtYWZTaU5wb0s3MFFCRXFVYnBQVFVBUEVpQXRYbGtKTWdoNms3ZjhtYUlMZkQwTjkxdmtKeHdsTkZMaw?oc=5"
+            "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMlFONHJzSXRLNHlCLUhiTF8tU2dnNVB0Rlg1TlNzTmhVdTNMbEdsaTVYVmZNMWlrQ2lINFJtaFVPUlMzVDRkZXNwS0o0VVpONzB2Vjdlb2c5cnFRRnp0SU9rRlU2QQ?oc=5"
+        },
+        {
+            "source": "GB News",
+            "title": "Premier League star gives huge donation to family of Noah Woods after death of three-year-old - GB News",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZ1hpbTZDbmd1WkhnaTdNTVVhR3pROGlsRmJuZ2JSSmZCNHhSd2NHVmdNcjBHemJmT1p6cWt5VmxWenBER0ZHRnQ5bWdoeEJHLXNqdDNxUGhXVUY3Z0ljajdLdXVXaHR2V29WLUpZRm9mdW5WXy1J?oc=5"
         },
         {
             "source": "LiveScore",
@@ -36,9 +36,14 @@
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnZMdlhkTHNrN1JzMm9rSHN6NDRQVmk3eUhHR2RJYWlNOThzY2xWeTlQblV1aGV2UlV0ZHNab1FTd1psRDV0OVZ6aHhpb1BCR2dPamlRRjl6bGJib1FPSXFTenMzLXl1Wm9XSFUzS2Q1cUFuM3N4ZzBwWHF1WGRsOElnSFhyZkNyVmRhVVM3VHhNQQ?oc=5"
         },
         {
-            "source": "nytimes.com",
-            "title": "David Ornstein’s The Athletic FC Q&A: Carrick scrutiny? Lampard’s start? Arsenal interest in Ngumoha? - nytimes.com",
+            "source": "The New York Times",
+            "title": "David Ornstein’s The Athletic FC Q&A: Carrick scrutiny? Lampard’s start? Arsenal interest in Ngumoha? - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHlubENibVk5emlQMElpZHU2QnI3clJBTmdaZWx0LTJ2ajQ5S3VlM0lNMnNXSWFNWUdlX0RhSUZOdVRrYzJUaFFwOG9FNTJYZC05U0otSXBRM1FGQ2l2WFMtN3MyWG13dkpOa2J2WE9Jb0g2RUNZQzBiY28yTmlPNWdQeWxIZExUWnd4bWtvNldCOGFLSmhkZkFBcEZfSWNWQXExR05Rdw?oc=5"
         },
         {
             "source": "TNT Sports",
@@ -46,29 +51,24 @@
             "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "‘There’s very little patience’ – Ornstein gives huge De Zerbi sack update at Tottenham - Football365",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnltcUNtZ0FKdzc0cThTdTYyRnpud21DMldYdGhQaDNKSk5uRXVjSExwWHVBNlBhMjFCWTktME0wZXh6ZDhPYTZiWGxIWURKQjM4aWJfSnlzUUR3enIwZFptLThncExZQV9OTHF5WnNKbVBhbkM0TzQ2ZUlLaWZqR2F5RXpya3VV?oc=5"
-        },
-        {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWszOURJWHRoOFY4UFZna1Z0OUhOYTBWaFVoSjFOM2lBV1h3ajVqT2ZxQm1BeWVZTm9fYVkxXy15eTgtQnFXbkZNODBWcjBtT0xIMVUwcVU2cURyZ3RwWmxwdDAzM1MxX1FuRnJpYTBJbHBpeWNYZzRVVzY3RnV1N0t2R0JiQWRPbWstTGdDQTU5bnczLXdPZDd6alhpbTdjWnFjX2NIZWhCcVEyV2dPS3RjY0d2VGRLT0swaE1PUkV2YnRoWERtUHpOM2xoX19wY2U0ZjVEVVowRHB1QjlEallTQjN6bVVrLTFmNW56MG5VdTNL?oc=5"
+            "source": "uv.es",
+            "title": "*?#[𝑾𝑨𝑻𝑪𝑯𝑳𝑰𝑽𝑬]𝑭𝑹𝑬𝑬] Chelsea vs Brentford LIVE STREAM FOR 2026 English Premier League MATCH - uv.es",
+            "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVi1adWp6RDcxaTZPN3R5S3NvSUVaNFdQOElVdTlkRUxiZ05lVFBvWW5sZ0dQc2dSODg1ZlpDU3JrOGNtS1JkQ0JpU2NfOTVvZmc2Sk4yaHNyNTdFMkFQcE11QmNuQ3pQMzJoUzZLblZaeUpNbDM3MEVhdHBHZEgxN19nenVhay1RRG56cldoRUlRRGhzSmlEVWZCSU9ZcjFlOHc2ZTA2M2xmaDhzTUNKSi1Fcm1iOUU4Wk1PR1p0ZGJPQ2Rac1d0RlN2NzFjak40T3ZxYjlVdkJwOHdtZ1ptZHE2REJoOVI3MFBNcWJYb3M2WjVVRTU1OC16WHJYVGluTXhrbXZzNVMtdk4xVXlKc1VYdWpvVkg0Uy1CS2xNaEluZ2ZYUndRUzhkSGpEYml0YmdaQldUM2JhX3B6Sm5FNUN6blZocU0zVmJrdlplOA?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
+            "title": "Carabao Cup fourth-round draw: Liverpool to host Chelsea as Arsenal drawn away to League Two Fleetwood - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYW9uSnlGRG9YVWxQVE1BQXZIS3lWWTczeFU4Z2dMUDhkOGgtQlFrU0dBYWNLN2NybDM4Q0FObnhIWTZseU5hMWdmRlJKOTR0WlhVeEE2UTV5TEgzTTMya0RHOHpPYWx0TXQ0OWk3c1JjUkdHSW4wdTBfNW5ZT1R4NVcyTUppN2ZvcVpQQzdGRXVCTFU5aXlmTlVtX1VqWllMamlwUWF4ZUxXM0lhUVYtcVFYR3lGNzAtMU01ZmE1YWlkdkJKa2tsTU9fUE9hNE41RjZIbnYydTMxTnhlUGUwN1EyeUJrbDRhd2dXcg?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "토트넘 144년 창단 후 최악의 기록…英 BBC ‘비피셜’ 노스트라마무스 예상, “지든 이기든 ‘1골’ 넣는다” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faURGdGdYbjJOaHFlbURrNDItYzZzUXdUR1E3TzhQX3ZPVHpQcUhaSC16OU5tU1d0ekRyMWlaV2taQW9ZSG5WdWdINnU1MWNOakNEa0NheHZEcW9IdWpYSjYwdzdOcWdmYWVJdVNEQmQ?oc=5"
+            "source": "v.daum.net",
+            "title": "'4경기 0골'인데 이게 무슨 소리?…토트넘 출신 전문가 황당 발언 \"토트넘, 분데스리가 우승 가능\" - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVkxVeWl6bmxhUXBacDEtekFYbXBoRzhZYmVIMjg3Ym5xNjJvYy1qSk5leFJfcExoZkxhc3hlMTk5NmNkSVZVMWFPQTRselE?oc=5"
         },
         {
             "source": "뉴시스",
@@ -76,18 +76,18 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdVlndk9TZjE3RGZwVlRMVGdNdFF1ZEI2RFI0VFlMR2ZyajFVU0ZZV2NiYmUtdG1JTGVPVk1lZkY4WnRaY2FwbGxYcGNnVnRkVTNLNkdnaUxhdGJnY0dHOdIBeEFVX3lxTE1WTzJ2T2lOcGluMnVpVUZMTkhJYW5GZzEycHZJYmNUeHlKZ2ZVVktUY2NYZlpJaEFDZXN0RG5xVkRrdlVBSXpxeVNVX25SUFdYaC1mTDRYc01DdkxKOGZic1lnT2lSa01scG95UVBKd2FBYzNVZkx3eQ?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "퇴장당하고 '우리가 1-0으로 이겼어' 도발…맨체스터 유나이티드 레전드 극대노 \"그냥 버스나 타라\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PN00wYnRtSklwaGMwTzdJRmxDZWNZNVkxR2VYVjVyd0h6bmctMEtsRXA5eEZkV3BHNGxzbG9hWDczcnZrYlE?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "토트넘 144년 창단 후 최악의 기록…英 BBC ‘비피셜’ 노스트라마무스 예상, “지든 이기든 ‘1골’ 넣는다” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faURGdGdYbjJOaHFlbURrNDItYzZzUXdUR1E3TzhQX3ZPVHpQcUhaSC16OU5tU1d0ekRyMWlaV2taQW9ZSG5WdWdINnU1MWNOakNEa0NheHZEcW9IdWpYSjYwdzdOcWdmYWVJdVNEQmQ?oc=5"
         },
         {
-            "source": "sports.khan.co.kr",
-            "title": "‘충격!’ 맨유 ‘리그 13위’ 절대 우연 아니다 ‘스프린트 횟수 18위’→핵심 활동 관련 기록 대부분 EPL ... - sports.khan.co.kr",
+            "source": "스포츠경향",
+            "title": "‘충격!’ 맨유 ‘리그 13위’ 절대 우연 아니다 ‘스프린트 횟수 18위’→핵심 활동 관련 기록 대부분 EPL ... - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Q2lfbDhTQmFUZ1FFU05vSzg0dGZLVUVob2MyWF9fVE1wRUNYWU9IMHJXT1lqR3huMnlIdnZjM2FXbFBwZXR4NUxUU0I2b1BNNWVXZW5NRmtXWnpYYmfSAWNBVV95cUxPeldzclBsd2NtYXF3OVRzTXFqaEJDOTJkcWlkSURLaDBYclNmN2YwQ0tyV2N5WUdKVUs1M0ppaDh5NndjT002QThnWFJtTW00cDU3N1Y0SXM0Y2pHbWZibjhEQ00?oc=5"
         },
         {
-            "source": "sportschosun.com",
-            "title": "[오피셜]\"에이스, 선발 출격합니다\" 2무2패 4경기 무득점 '최악의 개막 부진' 토트넘 데 제르비 감독, '부상 회복' 제임스 매디슨 첫 선발 낙점..'19일 애스턴빌라전 풀가동 예고' - sportschosun.com",
+            "source": "스포츠조선",
+            "title": "[오피셜]\"에이스, 선발 출격합니다\" 2무2패 4경기 무득점 '최악의 개막 부진' 토트넘 데 제르비 감독, '부상 회복' 제임스 매디슨 첫 선발 낙점..'19일 애스턴빌라전 풀가동 예고' - 스포츠조선",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54WG5nTzlqNTdTUHQ0Sm5KeEJ3cjc1WmJMZ2xTZmNmcGNzcHIzRXk4VnV6SEswcC10ZTU3YkdaOUZjSnhlN3BGRnN2WjI2aHE0Y2RORGpuWEp4d1gxNjU3cW00RFhJQjk3N3l1WU9sZzl3bWVKWEttamlzNzJ3QQ?oc=5"
         },
         {
