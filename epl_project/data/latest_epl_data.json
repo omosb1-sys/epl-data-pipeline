@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-19 06:54:22",
+    "timestamp": "2026-09-19 11:41:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Brentford 3-0 Chelsea: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUJVdkdNS3NMRnhOTlJxVk9JaXVOb0VTOW44QWl6VXdFb0dPcm1ZMUZOVGhka1VsQXY3bUlNTTBZNWRJT0ZsR1ZpaTRfT2dLV0xMMUN6Z3hYQUU3LUFFTU9YdEdUMVVDeUFWQmdvR1E0bXhDUDliMlhLSncyLVdPYzRBSmdaTFd0bFp6VVZhOTdLOWlwR3ZxQTRYbVk4N3lPTGpBV3FxWUl3bjg?oc=5"
+            "source": "BBC",
+            "title": "Premier League highlights: Brentford 3-0 Chelsea - Igor Thiago ends goalless run - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZjZRUmFGUC1sN2pHa1hfUmppczRaTjkweWI2SVlxeDhwbWxzdU1zVjVhYWViS3lzZnljUDVROEpvUGFfU3UyQnJwOG1aMThLNGo0LXBKTXh1MkxPWk1ETG5nMEg4TG5r?oc=5"
+        },
+        {
+            "source": "Liverpool FC",
+            "title": "Bournemouth v Liverpool stats: Gomez landmark, Iraola return, goal records and more - Liverpool FC",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGFSNW5yd0IydlRHb0lDYnZRcjZxLTlsOUl1M18yUXB0aUZLSVVnYVZJS09ReFNHVFlzQjY5a0hlUU80ZW1CUUpldHJ3NFlqLXNRcHFLaGZ5eElPcFRoMEVYRHMxVDlNR2xLT1E4ajF2Rkx3UGdVanRTeDhBZ1FZYkVua015T0xPSEJYRVB1aDR5dlp0WHpDNTNPTW93aEZqVDBqOHNhQ0plSXdqUFhTRUVUTdIBuwFBVV95cUxQMWRzNEt1STh3ZnpmdUZvdDdBUUQyTFc0dkZTWVlHWlhrLXE5eE9OaGprVVY3bUdud2ZHU2pCUF9MMENLdi1UUklwemcwTkhjOWxTUDdGT0FocWttQUYtbkxmaTk5OEI4dElFX1VtTUF0azlJdU1lcjNKNklBZk5RYm1SU0VQLUtyY01qZjdkanp1NlNIZHBPanhndWpKXy1mVEM5alY0S3hmcjhyUlpIWFhKVEJMZWpMMDdJ?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Everton vs Ipswich Town: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IVUFVaUlOY0x4ZzUxaUpWTmVGUUlBWGRpMTBfZjF1Q19Zc0syWjNIaFdlYzA1RG94cklPbzNJQW5mRU5HemRZMW8zaU5tR2VqZmZtczFYZGRnRlVSM2t5ZktGNA?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "It's official, Liverpool have their new Roberto Firmino and he's incredible - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3BLcmdleUs0cDB5UTU5dkxKWE9zS0JWTnZhQUdoalY0TlhqYldQMW9yQ1FmMmNLY2FtVnI4ZjRESm8yaWw5aGVMSUcxdHkydEMtajhTZzlMckFjWDBXQXJ0X25fN1BBcXJBWklMQTJCQnFkaG9GT3p6OGhUVFRPNTJncWlXZVplb0tNd3RJei1kM0duYnNQd3dyaFhfV0swVWNEZV9kOGlpZHJWcFlTSU02WGFsb21hMTktQWo5a0l4bUZiOWpPRkk0N1J1RlBlbk5ScGR5MElWMU9i?oc=5"
+            "title": "Premier League press conferences: Michael Carrick & Andoni Iraola latest - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VY1AzMngyYXJndldBOFBpQXNjY3NVTEYtQWhLcjE1UVh1N3dEQ1NtaWVGdk96UzNVbkF0OU1wOE0waTMzQzdUV1A4enFyZXZFWGRYOHF4V0I4bFRzQ2hFd0R3OA?oc=5"
         },
         {
             "source": "LiveScore",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
         },
         {
-            "source": "footballmuse.com",
-            "title": "The rise of Fabrizio Romano: Is transfer journalism turning on its biggest star? - footballmuse.com",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzF0dkU4VU45SmdXeF9XMS03Y0tBTEUyTG84SEE2S2Z4UzJ0R2RTbk96VUF5T242Y2JOb2htQ1JxU2RtellmM1RFLVBLek83Wm1DTG1kaVR6Ulg4NjYzM3JVc3NoVW9ZREd6SGtwTkszTHNsXzBER3BhWUZuNW4yYUpmQnJtQkxBN2E0UWJLeEo1bWc3VTBGVjZacnloZGt3S0JBVndtTEk2NzJFdlR1TTNiclZXLTQ?oc=5"
+            "source": "Yahoo Sports",
+            "title": "Fabrizio Romano confirms Liverpool star was offered to Manchester City - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnZMdlhkTHNrN1JzMm9rSHN6NDRQVmk3eUhHR2RJYWlNOThzY2xWeTlQblV1aGV2UlV0ZHNab1FTd1psRDV0OVZ6aHhpb1BCR2dPamlRRjl6bGJib1FPSXFTenMzLXl1Wm9XSFUzS2Q1cUFuM3N4ZzBwWHF1WGRsOElnSFhyZkNyVmRhVVM3VHhNQQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -57,18 +57,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
             "title": "Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNlVxbUJpY3dpWnd5TWRVWnBaVXBMTlV0R1lfNk5aNkk4NlhxTnM2ZlhpMGxYdktaclItQTItX2pEZndmWFd0Q1hSVVZqUzFlOEh4ZHlHdjF5Q2didzMxWDZKZ2hxV2lkOHFmLXJ3VGFvZHdwWDJoWkN5a0xlcUIwN0thcUVzNTVaUzFXRHBva3F5eVVsLTVpSU9WbVh0SS1TZGI3QWxsQVREZ0QybXk1aVNCbHBkM2o3LWRjeGl6YWlMaTIwRHkzQ2lHTGd6RFJNdy1WYVhKOWZJZlhNZWQtTFVwcURNV2QwUEVvTg?oc=5"
         },
         {
+            "source": "xportsnews.com",
+            "title": "'손흥민 빈 자리' 너무 크다! 토트넘, EPL 개막 4G 연속 무득점…\"케인-SON 같은 해결사 아직도 못 찾아\" 英 매체 지적 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85YXZrNm1hZVZRbUlrWm9YbDc1M2dYeXdoUXdLSXVDdmtXZG9rUnJJT3N4MHhCVmtYYUtMMHZWLWRCY2dGeEk2QUc4V1VmTUk3Qm5nOQ?oc=5"
+        },
+        {
             "source": "v.daum.net",
             "title": "'자산 1조 6455억' 한국계 女 구단주 \"EPL 뛰어넘는 시설 만든다... 오직 여성을 위한 곳\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRXFkUzl1WUw0dFk3dFBCUnJ5MDROZU1HeU0zajB5ajJnWXZGeU5qUTNGZGxBYXZEWmE1OFVLV3M5MG02dXBRbGhsRzV4ZWc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wQ2xVLTU1UGM3SlRYRnNFVFBrR0NfMjZOVFZQWUcxdHBTUEtvUmdUYjJjQXI4TDluR3BfSTJ3TXRGVFFSNXc?oc=5"
         },
         {
             "source": "데일리스포츠한국",
@@ -91,19 +91,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Q2lfbDhTQmFUZ1FFU05vSzg0dGZLVUVob2MyWF9fVE1wRUNYWU9IMHJXT1lqR3huMnlIdnZjM2FXbFBwZXR4NUxUU0I2b1BNNWVXZW5NRmtXWnpYYmfSAWNBVV95cUxPeldzclBsd2NtYXF3OVRzTXFqaEJDOTJkcWlkSURLaDBYclNmN2YwQ0tyV2N5WUdKVUs1M0ppaDh5NndjT002QThnWFJtTW00cDU3N1Y0SXM0Y2pHbWZibjhEQ00?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "토트넘 144년 창단 후 최악의 기록…英 BBC ‘비피셜’ 노스트라마무스 예상, “지든 이기든 ‘1골’ 넣는다” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faURGdGdYbjJOaHFlbURrNDItYzZzUXdUR1E3TzhQX3ZPVHpQcUhaSC16OU5tU1d0ekRyMWlaV2taQW9ZSG5WdWdINnU1MWNOakNEa0NheHZEcW9IdWpYSjYwdzdOcWdmYWVJdVNEQmQ?oc=5"
-        },
-        {
             "source": "스포츠조선",
             "title": "'충격! 또 3실점, 이런 자동문을 봤나' 개막 5경기서 총 12골 헌납! 첼시, 브렌트포드 원정 0-3 대패..'레알 마드리드에서 망했던 사비 알론소, EPL도 쉽지 않다' - 스포츠조선",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQTRoUTdkQnhNWHRhQzRBeXhmaktJcXp2WGVrZmVlTjRvelRfZFZ4SS1tNHFPbUpmOExMZUFkQzZxODFtcXVTbjJ3TE8xeEFYYzNMZmt0V0ZIQW9xY0ZmNXViSHNkSDk3Yjl4Z0RpY1RyMUVxRGpmdEdxQlBMZw?oc=5"
         },
         {
-            "source": "mhnse.com",
-            "title": "\"죄송합니다\" 캐릭 감독 결국 고개 숙였다...리그 13위 추락+카라바오컵 충격 역전패에 팬들 분노 폭발→\"비판과 불만 모두 감당하겠다\" - mhnse.com",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QekVNWUZBVnk0YmVQNmRmS1p5LWl3bmNUTFlER00zWld3c1VzeGszaThSVDZOZjFlY2lBTDlHblJhU2Z3WnliYk5yWnlzdTkzcFBhNDhwT2lzOXNvUGh2aVZrTQ?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "토트넘 144년 창단 후 최악의 기록…英 BBC ‘비피셜’ 노스트라마무스 예상, “지든 이기든 ‘1골’ 넣는다” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faURGdGdYbjJOaHFlbURrNDItYzZzUXdUR1E3TzhQX3ZPVHpQcUhaSC16OU5tU1d0ekRyMWlaV2taQW9ZSG5WdWdINnU1MWNOakNEa0NheHZEcW9IdWpYSjYwdzdOcWdmYWVJdVNEQmQ?oc=5"
         }
     ],
     "transfers": [
