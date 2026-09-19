@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-19 14:56:41",
+    "timestamp": "2026-09-19 17:36:15",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "ToffeeWeb",
-            "title": "Premier League #5: Everton vs Ipswich Town - ToffeeWeb",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hTkVQbWZOT2hIQm01Q0ZWWHQ0cEFKcVZPQkh3TkpjMWZtaUdXYUxQZXNkbURuNTJCa2dQLWprd09PN1ZtMjVVZWEtOWNiREY3b1NiR3M4MERfQVdsa2dUa1dDQlg?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Everton vs Ipswich LIVE! Premier League score updates, news, prediction and line-ups - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekp6Z3RpMzl4RENaNmNBN2lnbElheTBpRHpNekJjSXdRV3BYSVFaRFcybzB2T1RWVENOcDI5dktjeVY2dVBJOFlTdzZadlNKT2VoX1hPYVd6SGdGM3A0VFYxeGQ5dEdzbGNKeUpCQWNVOHJjXzJQN1RvSnEyMTk2Rl80QUhTVnNSakUwTzFWRlNrb2I1ZHNLUHUwbGpLb0tvQUs5NjF4OGQwZGtWVWlJaGdXbnc4R2w1NUkzOUxsTGVQSHFhV1J4N3NwR0NtbldaYzBYdzVqQl8?oc=5"
+            "source": "BBC",
+            "title": "Tottenham Hotspur vs Aston Villa: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yaUc4dW1qcC1WcnBtWjlNc3VVUmVfaFZTTGhpa29MbXZRSG1UWGZzb0h6ZDhfUzUyODZsMlNaN0hFOEJoRFVpdWR0RXRqVE9nX3RraXlOMk1tWHpXSG5ZaDJGYw?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Everton vs Ipswich Town: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92ajJ2TnZPZTdlQVhDZW5vcVFpT21CeDJYbEJZVXVXQWhSU2NJeEZscUc0Q0szMEJoUWd6QjNySlhwTXJtWHpnNXdBaWQ1VmpCMnNsSUpLT1BQczJDSGQ1MlpkREx1UQ?oc=5"
+            "title": "Brighton 3-0 Arsenal: Seagulls soar to end Gunners’ nine-match Premier League winning streak - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qc3dETEM3SEd0dUdOUmFmMHYtaXlsZENHTFdVZ2dkUkFyX1ZrZC1HcVFvdWpUTVkwSWUzMlQxbk1nb3MyZzZzc3VCcHhjVG1MWTlnN3ZyY0lQSkRvbHg0cG50UVhuZw?oc=5"
+        },
+        {
+            "source": "London Evening Standard",
+            "title": "Brentford vs Chelsea LIVE: Result, score and latest updates from Premier League - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVNvdXlLVExqRi1VWEVicWVNR3M0RVhYNl80SUJjTUFHc2RhcmRJdUk5cmFrcEt6Y2ZIdG1RWHdHVjI5MG1NRGZfYTRZazItZnBuYlAyYkJEMWdFUXhoMjlsQi1rZzYzeVdqNlVGUjJVTE1MUHFEZmQ5SGM1MUFyVjlFeTVRLUtCalVkM244d0k3Z2hSaGlMYlJxX280Z3h1V1llUWpvdlEwU1hzOUx5Qlc4UW1JaVl0TXprS0hGdUtiTG5ScUlLOWhhQ19pWEo4NGwtRXVR?oc=5"
         },
         {
             "source": "LiveScore",
@@ -41,24 +41,19 @@
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHlubENibVk5emlQMElpZHU2QnI3clJBTmdaZWx0LTJ2ajQ5S3VlM0lNMnNXSWFNWUdlX0RhSUZOdVRrYzJUaFFwOG9FNTJYZC05U0otSXBRM1FGQ2l2WFMtN3MyWG13dkpOa2J2WE9Jb0g2RUNZQzBiY28yTmlPNWdQeWxIZExUWnd4bWtvNldCOGFLSmhkZkFBcEZfSWNWQXExR05Rdw?oc=5"
-        },
-        {
             "source": "TNT Sports",
             "title": "David Ornstein: Arsenal ‘really happy’ with transfer business – ‘Better not to spend than to make a mistake' - TNT Sports",
             "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHlubENibVk5emlQMElpZHU2QnI3clJBTmdaZWx0LTJ2ajQ5S3VlM0lNMnNXSWFNWUdlX0RhSUZOdVRrYzJUaFFwOG9FNTJYZC05U0otSXBRM1FGQ2l2WFMtN3MyWG13dkpOa2J2WE9Jb0g2RUNZQzBiY28yTmlPNWdQeWxIZExUWnd4bWtvNldCOGFLSmhkZkFBcEZfSWNWQXExR05Rdw?oc=5"
         },
         {
-            "source": "TheBusinessDesk.com",
-            "title": "Everton vs Ipswich Town Lineups Today: Confirmed Starting XI, Team News and Live Updates - TheBusinessDesk.com",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGVoc1IybHpoY1Y4d3ljdnJMeF9sQy1lcDhycnMzcUZQVlpnYkVVa1lOUzgxSFNuZ3pqeXVZNHdFYnBQR3ZCcjczWVdEczdIbDV3a2p1bFdyeUZjTkhFbWIzV001OE42b2EwU0ZZYmxEZlI3a0J6NjBUSkN4ZC1kUGp6N25lWDdwNWQ0Y2E0NWYwZWpNZnVQZnhTMUZZNHl0b2pUanBqNFN0UklDMy1TamI4YlNfWU9vTVl3b0pLalcyRDFjRTh1cEJieWlybHZI?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,29 +61,24 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmFEam85dk9kT0RsWkFfenVLMVVGQXZsNXZHN0VaNnBadTJIT3ZBM0N1cm1HYnhYcmhSR0MyVmVwMW1sWnhxby03X3I1OGt3cUNtU0tnY2RqR05nWlpjaEUyN2RYU25jOEUxb3lNNUxNTVUwYTl2SnBLUjItZkVxSzMxNmI2RUlsa3NmaEVjVmxWdDNwNnpsbWZ5Zmdsc1ZmY3BkazJhbFc5VnZBRXU5QnRzY09Xck1ab0trLWY2bEV1eEV4MURTcm5rZ0xQOG5KU2RNaVhRTVRfSFJEQUNoaHNQclp5QmFBTUtid000N0hiUVJZVmc?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNnY3SGJFVVRFS2FBUHg3SnJodkVydC1zRVBWaXNxQml1YWlTYmFoMVRXTFhsSXgyVmNUZjRhUUx6ZjRXd2Jta1dzZE5LSGFNTUdjWVMzcWVlRkRxUkhLaVgzZmNtcnhnT0HSAW9BVV95cUxQLTluanQ0dk1mTGF1aXlBSG1DR3hmZmJFUV82amVzRndvbnN1YjJJNXhSNE1MYW1ndEF2R3VaenltbEZxeHdrQkY3TDg2a3ZQbkJDTDFDbldad3hkTHBxQ3Bmam5sczFJU2kxd0trY2M?oc=5"
+            "source": "Sky Sports",
+            "title": "Leeds United transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS2kyQXBHcnhsU2w1NnIyTW5XTG83X1NYZWRsaUFDM1JKZjREcFY4VURFRmUzNGhuaGRSQXpZRnBJWVFWU1JyT3RRSUlCUm1hNzdjM3drMzBPUzBXTDJrdjdtZmEwZVZWTzBJYnNxbTNxVDhMUHpEMkQtMUh0ZXliUEE0X0pXOFZHTkZ6WUlQcHhudzJhWndQR1NXTEJjMlE4R0RZUFNRWFJqS1NWeUhKRTdUd1Fsa2tGekhYZ2hfcjVkUHZkM2p4ZHVCN0JiUURtd1ZKcDFtTFEyWEU0cXJXSEY1YV8yRUE0cFdZb091VXNhRFZfU3lTV25SMA?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'자산 1조 6455억' 한국계 女 구단주 \"EPL 뛰어넘는 시설 만든다... 오직 여성을 위한 곳\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wQ2xVLTU1UGM3SlRYRnNFVFBrR0NfMjZOVFZQWUcxdHBTUEtvUmdUYjJjQXI4TDluR3BfSTJ3TXRGVFFSNXc?oc=5"
+            "source": "조선일보",
+            "title": "리그 5경기서 '2골 0패' 데 제르비 토트넘 감독, 이러다 울겠다...\"답답하고 슬프고 실망스럽고\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGxpRGFzV3Z5TmI1Tkl2dWxqdWhBbGIxUFB6aHZzazBOQ1h2a21lMndUWW13QXRPOXk2T2xGZ0VFRkdMQU1qdXBqSHFjeHZXd1BUZExQUjFWa0ZPZTVyY3E2MzVNeUg1a3lGR0tpSmhvZThUWkFjWjhHZDVWUXlXSFNQVUl5ZkVvRFJn?oc=5"
         },
         {
-            "source": "dailysportshankook.co.kr",
-            "title": "승격팀 브렌트퍼드, 첼시에 3-0 완승...알론소의 첼시는 리그 3경기 무승 늪 - dailysportshankook.co.kr",
+            "source": "데일리스포츠한국",
+            "title": "승격팀 브렌트퍼드, 첼시에 3-0 완승...알론소의 첼시는 리그 3경기 무승 늪 - 데일리스포츠한국",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zZmtuWDVUQlBJMHUxNW5NRW9PVExwbDBvLUtFQ2NkMFlxYUJrU0xwZElKVGpLT0lDUVVTT2YyTGo0dnhUSFZWblc3MTVwVlQybHRlbGM0aFcwb3dqSnNqbWlXX3lHbktlQVFNeTREdTNESHUzTFdMS0NGc9IBf0FVX3lxTE16SE1BclFzLUtJNlNucHZvUkxPRW1oU1p1b0tQN3ZmRHJhS3J3UVhkN09qUjdLdlcwQ0VwcEtTRTZ5QTNVRTlmSWtxMjF0OUE0Q2xpMThYT0VQb2hCRDFicEs0ZE0zSXgtS19WemM1MEJxNWdIaDBxVTJuS0N6V0U?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "EPL 맨시티, 리그컵 16강행…17세 샛별 삼바, 데뷔전서 멀티골 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdVlndk9TZjE3RGZwVlRMVGdNdFF1ZEI2RFI0VFlMR2ZyajFVU0ZZV2NiYmUtdG1JTGVPVk1lZkY4WnRaY2FwbGxYcGNnVnRkVTNLNkdnaUxhdGJnY0dHOdIBeEFVX3lxTE1WTzJ2T2lOcGluMnVpVUZMTkhJYW5GZzEycHZJYmNUeHlKZ2ZVVktUY2NYZlpJaEFDZXN0RG5xVkRrdlVBSXpxeVNVX25SUFdYaC1mTDRYc01DdkxKOGZic1lnT2lSa01scG95UVBKd2FBYzNVZkx3eQ?oc=5"
-        },
-        {
-            "source": "MSN",
-            "title": "EPL 쓴맛이 어때? 아르테타, 절친 알론소에 첫 패배 선물... 아스널, 첼시에 2-1 역전승 개막 3연승 - MSN",
-            "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxORlB4dTdJWXNGWlN0bUtyYnc5YnFILTNheFFxUmRITDM1WGdXU2lPcVZaTUdGOGYtalpfNUJoTUUwbDlodGYtSjJEM0c5Nm82TU9yUGFoTm16b2lPaW84OC1tNzJvcnFOZUp2LTZaWXVwLWpzN3VTWEJZbENDaUJuQkZDU0dlV3haa2otNlZCT084eUNyLVVlbGxGdVBjRXQtYlIxckROUUx1VDBZLXZFRldoaGdST2Z1NmVndU5ZNXlJYnE3TXhtaFRjQXVOWWxiNmQzMDRhQWt5aVRYR1FJZzZDZ3cweUNYNzBKYmNrV1NydWJFWDJfcEFaY091S19sOTd3M1F3RnR6cjBhLU9sVFBKbUhKTWd3WDR5YWJnZzN4RGxQT0pHVzVINFZXOUcySUJBUHV0LUZyUTVVUjJmMVpNcTd1ZVBRUVAyMTFVS1drWE1QbXB5WXZrNjRJUHBqanpPeFloYzRDR2VEZkZkZlB6SWFxMmQ5ZW40OG1CWUozdE5KdHczNlhrMi1NMFEzeUhDQnlYUUZabjdZZHdPbmxGVnJjVkY2WUowWU9kYUhQVGZTRG5Eczc1aXB2TG9QMVdyVmd5MElaMEZQQTZoNWtvQmJVRkd1VmVHVWxXTVRtTEdaV1lyWGlERkRJc2R2UDlSR25wV21uS2QteGxwbDN4bnhsYjNpSHc?oc=5"
+            "source": "vietnam.vn",
+            "title": "2026/27 프리미어 리그 6라운드 최신 경기 일정 - vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXlOcHBBYjNxUDVrN1VxeGJpUzlHN3Y5d3ZwRDY2SkRLWXAtOWl3WnhjTWY2dE52UlRZVm9YbmRUZTZZOFhISXVBTFZSVy1QQWEzWWE4YnJZX2NnalB5SHRCcEZ1aVI5eGxBbERGS0ZDVVAyZFRfNWhoVFRBYWJ1RVFFbw?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -96,14 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mdWY5WWhST3o2LVFNbnVkQ3pEb2FwUm1JN2d3OW9VRDFfYnhMWmVRTFh4bmptS2kwQVI3N3RpclA5VE9RX3NvSThCb0NNNHI2V01YVDlfbm1FY1ZhVGfSAWNBVV95cUxNVS1XdG9wdEFwLWdzQ0E4ZDgtVktEd0l5RzdoRHJqTnlvbjVlUTR0UWNsTmJkbnVwWDBNVXlpMzlvWHNTOWFwUjk0WHFuTDNVSjhoUVZjV1Bod1BMV05vLXk0c1U?oc=5"
         },
         {
-            "source": "mhnse.com",
-            "title": "\"죄송합니다\" 캐릭 감독 결국 고개 숙였다...리그 13위 추락+카라바오컵 충격 역전패에 팬들 분노 폭발→\"비판과 불만 모두 감당하겠다\" - mhnse.com",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QekVNWUZBVnk0YmVQNmRmS1p5LWl3bmNUTFlER00zWld3c1VzeGszaThSVDZOZjFlY2lBTDlHblJhU2Z3WnliYk5yWnlzdTkzcFBhNDhwT2lzOXNvUGh2aVZrTQ?oc=5"
+            "source": "조선일보",
+            "title": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입 검토中..'전력외 히샬리송 보다 잘 할까' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmhyeWxMNUxjWW9ZSWlqaW9zdElJMVkyT1lzLTBMNml5NE9PRDRTaThoMFdoei1YbWpiSG50SXlfWXBjZG13REFZdElFTzE3VzFhd01VeUY5TGgwR0pnbHAxeVNFa25oNV9UV3E3Q3E2dkpSc3JZTVpnWHplTFM4OG5tSjlFTzFyUVVR?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "[오피셜]\"에이스, 선발 출격합니다\" 2무2패 4경기 무득점 '최악의 개막 부진' 토트넘 데 제르비 감독, '부상 회복' 제임스 매디슨 첫 선발 낙점..'19일 애스턴빌라전 풀가동 예고' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54WG5nTzlqNTdTUHQ0Sm5KeEJ3cjc1WmJMZ2xTZmNmcGNzcHIzRXk4VnV6SEswcC10ZTU3YkdaOUZjSnhlN3BGRnN2WjI2aHE0Y2RORGpuWEp4d1gxNjU3cW00RFhJQjk3N3l1WU9sZzl3bWVKWEttamlzNzJ3QQ?oc=5"
+            "source": "Your Field",
+            "title": "손흥민 떠난 뒤 토트넘 '대추락'...홈 50패까지 고작 141경기→라이벌 아스널은 무려 382경기 - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TLWxYVlJxb3FEYmxVckZBYmRTU0VtZEZlcHZldEZKc0ZDeGtlelZZeVAxbFhpOTlFNTc2bnFid1dwUHNZWkllUWRSNWFMbFhNOEtyVjhNY1BWSVlCYWhkcXdtRTA0TFh4cl9OajVkTTh0Rm91d0E?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "'손흥민 빈 자리' 너무 크다! 토트넘, EPL 개막 4G 연속 무득점…\"케인-SON 같은 해결사 아직도 못 찾아\" 英 매체 지적 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yTWNYWHU1YWpnaUZPOERWZkhUUENZT3FPcFBVSGVBWUtzQkRSRmVmcHJla3BGREYxejhuSHo5NjhBRmFoWUtzOWZwVTVUNmM?oc=5"
+        },
+        {
+            "source": "besteleven.com",
+            "title": "EPL 5경기째인데 아직도 못 이겼다… ‘5,843억’ 지른 토트넘, 애스턴 빌라에 2-3로 패하며 리그 18위까지 추락 - besteleven.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYXpMa3lKcFBqcjQyRVZoeGNxMlJXYnUtbHRYMVdDbTlGeTlqZkg3TF83dEJQejZfb3lobkRBMU5ZcUdVTXVmNHBiU2l6Ni1ESnN6UVA0R1Y1UFM1WEYySTdFQ1p1UUcyMlJuaEJR?oc=5"
         }
     ],
     "transfers": [
