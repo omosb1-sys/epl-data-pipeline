@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-20 19:08:29",
+    "timestamp": "2026-09-20 21:59:13",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,13 +7,8 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Manchester United - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUNHJGVVJNYkZQcUtaaU5HY01iZ0RleXIyS0J5SWhHVmNndW1ETGNfMWg1S3QxbG4zamFXRndBaXU4dktwajFkYWhKY2JPLTN2ejQ5WWx2czBFQ3VzdXB0c2ZKRlIyUQ?oc=5"
-        },
-        {
-            "source": "Football London",
-            "title": "Tottenham Hotspur favourite could return to England as Premier League move lined up - Football London",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVF5bmFkVUtINDhuclpELVpEQVRVQjdES1VueDZUOC04cDBVdXVUQ1pEUlpCMmVUcE5QT25CanhkcjRjNVhEVnpEbjlCdDh3VGNXZGxvU1gzYTh6ZE1fTlFHRWNROVJfdDFxaVp0VXo0SG1hYWdNMk9qY2xWeldvX3QzWHFjQ1RiQjRnX09qcnlUUlRvNGpvY9IBngFBVV95cUxQX19vOXFfcjd5MVFSMHdpWUZybFl3RmlZeF91RGZVZV80dmladGhYNFo2NndqV2dabjU0Q2VxUjV1ZF9DQkthc0YtdlAtWDdVMVFneFhkRjd6SXcwUkZLd2VseXhPdDhCbW9pc3JzYUZGMHU3dFBHTzR6QUlwN05GeHdwQlEzMFZobm1DRHdSTmhJMkxSdzE0VnVuZGdTQQ?oc=5"
+            "title": "Bournemouth vs Liverpool: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82djQ4MzdNbUZKNm1nTS16ekpLa3VuWEdQUl9HNVU1Zmpzc1daN2h4YU9aLVJBdlpESERGOGFOV01QU0F6bGg5TjMxWXZiV084MzJ6RUVPa0xwZEd3ejlNakx2dW5adw?oc=5"
         },
         {
             "source": "BBC",
@@ -21,8 +16,13 @@
             "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yaUc4dW1qcC1WcnBtWjlNc3VVUmVfaFZTTGhpa29MbXZRSG1UWGZzb0h6ZDhfUzUyODZsMlNaN0hFOEJoRFVpdWR0RXRqVE9nX3RraXlOMk1tWHpXSG5ZaDJGYw?oc=5"
         },
         {
-            "source": "football365.com",
-            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - football365.com",
+            "source": "Football London",
+            "title": "Tottenham given clear Roberto De Zerbi instruction as club sink to bottom of the Premier League - Football London",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2t2bFFYOHpKSmtwQnhVT2tUZ3g2NXExWkRCUDJGRG9OR0dpMWRzS2ZDRm1SSWNBLXAydC1ESXI3WXhFU0R2b3phZlY1Q2xVYmEwejVYWExRalY1b1JtMUJ6em40Nk1iUkVPZ2ZseFpLQTdNRkFPM3hNbUdsR3ZmMjF2b21RYXhWaFFOQkJ5S3E5dGNkZ1p4Q3F3ekZtUk3SAaQBQVVfeXFMTlgtb3Fkb3pBUTVMUkhBdFJsYUtjSWNBcklLcnQtM1pRVjAtSnVmSTZLVHBYcWZLQWRUQ3dZaVlqWXd2OWR2M1lCRUdyREs2RjFvblR4bm1kLXdma0RfdHUwR0RIYTJqREc5SWJPQ3dWQnE1S2luaDBpOHBKTnYzWkRrUmNqZFl6X3FUTllvMHlTRTB6eERnbk91WjY3ZFFpRkdiWW4?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
         },
         {
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc?oc=5"
         },
         {
+            "source": "Yahoo Sports",
+            "title": "“Oversight”: David Ornstein says “Carrick’s focus” for summer transfer was not fulfilled by INEOS - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3ZpWWRnZlNZbUwwZGxjR3p4WjA2Sl9KNElpb3U4VHJqYS1Fc0VkYnpSa3V2cTdLMlZHeHBEemJ5SGQ1NUdyejV3Sks0N1hkSGVQcmpqQUdDb283dXhzMkhPNjU1d3dmc0ZhUnVBWEpncnVjRXZIY0p2MDBWS2E2VktsYVNDSXh4eUVLWTN0cw?oc=5"
+        },
+        {
             "source": "TNT Sports",
             "title": "David Ornstein: Arsenal ‘really happy’ with transfer business – ‘Better not to spend than to make a mistake' - TNT Sports",
             "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
-        },
-        {
-            "source": "The New York Times",
-            "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales? - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,18 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNlVxbUJpY3dpWnd5TWRVWnBaVXBMTlV0R1lfNk5aNkk4NlhxTnM2ZlhpMGxYdktaclItQTItX2pEZndmWFd0Q1hSVVZqUzFlOEh4ZHlHdjF5Q2didzMxWDZKZ2hxV2lkOHFmLXJ3VGFvZHdwWDJoWkN5a0xlcUIwN0thcUVzNTVaUzFXRHBva3F5eVVsLTVpSU9WbVh0SS1TZGI3QWxsQVREZ0QybXk1aVNCbHBkM2o3LWRjeGl6YWlMaTIwRHkzQ2lHTGd6RFJNdy1WYVhKOWZJZlhNZWQtTFVwcURNV2QwUEVvTg?oc=5"
-        },
-        {
-            "source": "starnewskorea.com",
-            "title": "'도대체 왜 中 무시하나?' 아시아 역대 베스트 0명 대굴욕, 손흥민·차범근·박지성 '韓 1~3위 싹쓸이' - starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1Y0Vid2JlSGZYWXVCRlFGaTJjMkVZWDhLOXhzRmQwMUhuV0hoaVd4cFBsSy0zU2ZvRWp5WHV2bUZOX1ZHem9YS1Z5S3oxcUFXWTFQTGZiTFYwZUFXVDRnUXlyMUhKaXdYcmpRb3VxMm8wemFqVHc?oc=5"
+            "title": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUR1OS1Za0hvanFNUThURWMyZURPVHlNWGtZV2hsY05UaTVGTV80RW54RzZ1ajczckRuVzFtQjYyOTNWRzhVb3IyR1hCQWxwZ2VzNE41bFpLSk9UUTM4Vm1BSktuMWM5OGRSalZDS1NfZG1mX3NiX1hmTUROSWE5OGpzSjJjM2ZOaWlfRHZUc3QydThzWUdBck5ham84MmxveTJBdVczSFJ4YVRuZGhnUlN2Tmp1eFZnLWYwbTk3X2dpbW9SR2JuVVZBZjVhOTBLdUtTQU5DbTJBTlMxbVJ1MEg2dkJ4VzNXeEFOM01LOWFTQzlQ?oc=5"
         },
         {
             "source": "v.daum.net",
             "title": "1989년 이후 디펜딩 챔피언 최악의 굴욕...아스날 0-3 대패, \"6~7골 내줬어도 할 말 없었다\" - v.daum.net",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LQ2NKWjl1OXk1dE9lenBrSi1pbXRWdjItQWd5Zk5sa3ZtbWFUNDVsVDgtU05TVHAyZ1pCdW1zSHh6UGVzY2tKQ1Z2ME1SUEk?oc=5"
+        },
+        {
+            "source": "Manchester City FC",
+            "title": "[매치 리포트] 8골 난타전 끝에 승리 거둔 맨시티, 프리미어리그 단독 선두 질주 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzFoanFSNUE5VGdCUW10RGc2bDZtVzB6M3lkTXFjT2szcWhkVFZkZXpMTi03NnV4MWo4UmdlQlI3dU9seDIyeTd3UVg1UFpZOExoMUxDSk10T0lpU1dRbjlxekFkMmdvZUh0NGY3aUYzc3NZcmZ3X05Obk1CNGVBR2FPVzlTT0FaY05TUkhB?oc=5"
         },
         {
             "source": "머니투데이",
@@ -86,9 +86,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UERvVm9PbG56TUJRNFRiU1VXNGlZY2lHNjB3RzVJOVp2azhWYklTZGh1UkZMcnVPMnZRUHlBTE1VSFRodC1tVkMyVnAyanNhQ3hpb3Y4VmZyNjRFcmfSAWNBVV95cUxQRVlJLU1HWndrcmhfUC05WjZRYmZLb2dJd3hIa2hsNXlEU2VWc3o2V25ta3ZIYlVPcTkzOTAyTkZOQmRmTk5zMjNsYkl4UjFuZ21rRzdHSjFWLWJGMk11Rk1NX1U?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSmVMY1R4eVZxR2RHYXdaYUREaFhERUtiQ2VvODN4S3RidEo1dzViMWtERFpvWktDTnhrZl9mV3R4V1VqbE5XVDJINlplS29adzl2a0l0UHN4NDFkVU53N2NIajYtQklpWWtoeFAyLWhmUVh4bkRJZWxpc3RSa3RnazRYQzNOUnZvZnJ3?oc=5"
+            "source": "starnewskorea.com",
+            "title": "'도대체 왜 中 무시하나?' 아시아 역대 베스트 0명 대굴욕, 손흥민·차범근·박지성 '韓 1~3위 싹쓸이' - starnewskorea.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1Y0Vid2JlSGZYWXVCRlFGaTJjMkVZWDhLOXhzRmQwMUhuV0hoaVd4cFBsSy0zU2ZvRWp5WHV2bUZOX1ZHem9YS1Z5S3oxcUFXWTFQTGZiTFYwZUFXVDRnUXlyMUhKaXdYcmpRb3VxMm8wemFqVHc?oc=5"
+        },
+        {
+            "source": "xportsnews.com",
+            "title": "토트넘 19위 강등권 추락! 애스턴 빌라에 2-3 충격패…0-3까지 무너졌다가 뒤늦게 터진 시즌 1~2호골 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3VVJsUUhGN0JKV1BTWjhOREpPUng3ZnlsdV90cjdDdFd6NkpSQW1mVmF2bE5TeWZlakJHQW16TEk5dWdmbmVCRXpmd0RRR0tjRmhYZw?oc=5"
         },
         {
             "source": "Your Field",
@@ -96,14 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVR212ZzJ2YXRRcHV3NGVEREs3NHAyMHBkTi1mY3ZjYTBqbURGbURGZ19ab3FkeWE1dFJnb0lkUkFCbkdvby03TDAzRFd4cFB5cDdMRkdHcHotYU9TeHVpbFh6WFU5eTI1bEdGNlBfdGZjdlk3X3c?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "EPL 맨시티, 리그컵 16강행…17세 샛별 삼바, 데뷔전서 멀티골 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdVlndk9TZjE3RGZwVlRMVGdNdFF1ZEI2RFI0VFlMR2ZyajFVU0ZZV2NiYmUtdG1JTGVPVk1lZkY4WnRaY2FwbGxYcGNnVnRkVTNLNkdnaUxhdGJnY0dHOdIBeEFVX3lxTE1WTzJ2T2lOcGluMnVpVUZMTkhJYW5GZzEycHZJYmNUeHlKZ2ZVVktUY2NYZlpJaEFDZXN0RG5xVkRrdlVBSXpxeVNVX25SUFdYaC1mTDRYc01DdkxKOGZic1lnT2lSa01scG95UVBKd2FBYzNVZkx3eQ?oc=5"
-        },
-        {
-            "source": "xportsnews.com",
-            "title": "토트넘 19위 강등권 추락! 애스턴 빌라에 2-3 충격패…0-3까지 무너졌다가 뒤늦게 터진 시즌 1~2호골 - xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3VVJsUUhGN0JKV1BTWjhOREpPUng3ZnlsdV90cjdDdFd6NkpSQW1mVmF2bE5TeWZlakJHQW16TEk5dWdmbmVCRXpmd0RRR0tjRmhYZw?oc=5"
+            "source": "조선일보",
+            "title": "'이게 맨유의 현실' 꼴찌 풀럼 상대로 89분까지 끌려갔다!…쿠냐 '굴절골' 아니었으면 충격패, 겨우 1-1 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVyOUlrOTVaMkNLTnJsWmtLOTM4M3plajB4NmV4VG9jd3M3NG5NLUFhUWZCekZpMkt0QlZLaURGNDRtZU1oRXBiVFVmYk10UWVCRmFfUGRWQVBPQUVLN3ZsS2YyODNoa0FLdnZBWDVkTEkySVFrV1FNbXZiTHRxU0tZV2VfelJMZ2Fj?oc=5"
         }
     ],
     "transfers": [
