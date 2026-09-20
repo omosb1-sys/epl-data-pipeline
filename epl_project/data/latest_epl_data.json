@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-09-20 02:00:19",
+    "timestamp": "2026-09-20 07:31:33",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Brighton 3-0 Arsenal: Seagulls soar to end Gunners’ nine-match Premier League winning streak - BBC",
+            "source": "bbc.co.uk",
+            "title": "Brighton 3-0 Arsenal: Seagulls soar to end Gunners’ nine-match Premier League winning streak - bbc.co.uk",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qc3dETEM3SEd0dUdOUmFmMHYtaXlsZENHTFdVZ2dkUkFyX1ZrZC1HcVFvdWpUTVkwSWUzMlQxbk1nb3MyZzZzc3VCcHhjVG1MWTlnN3ZyY0lQSkRvbHg0cG50UVhuZw?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League highlights: Tottenham Hotspur 2-3 Aston Villa - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82enViNEl2ZURqMnNVXzZuc041SkVwa2VjTUpyYkxrR2ZMVnVwUURkTkJBV3NtQ2txdUwzaFpLcjdOeU82dTBNeXpIelE3S0xZdV95bXVBUUFTdkJIZHhXZUxEWktjV1dK?oc=5"
+            "title": "Aston Villa: Villa and Tottenham face crucial early season showdown - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOZ3lzVU5VZ0MtVEZkbHZ4TzJpamNsZ2x6U3JGVkZEZFByWllsV3RsNHE2MVJORkhsUEx2ZUlHS2x2b2VELVlfM3MyX180WThvWXZZNkFxdHBnNzN6RUY3WVA5N3lfWVVw?oc=5"
         },
         {
             "source": "The Guardian",
@@ -21,14 +21,14 @@
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUhZbmhCN2c1ZWZrRXhBLVpWOHFvSEdxNEp4RjZuZWQtVURLWVZWc013SzZTbVBPSmJRTGxZdElDRGdSZlIwLWg0RFBkMTBoOVBfTm13VThyT0w4X2M0Z1ZXWDNtcHlOUm5vNUdubzkzZHNpMjMxU2RJUmllZldGcDlpb285bmh0VW1wemJ5UlNRY3ZFQm9hTmxnbGdTQQ?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
-        },
-        {
             "source": "LiveScore",
             "title": "Fabrizio Romano confirms Arsenal out-of-window signing of attacking gem – it’s a ‘big opportunity’ - LiveScore",
             "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjNsNzdTYTEwMnBETjFoLWFnV084aGUtRXRueHZVR0VBdExxSkNRTVZZQWE3MGJOSUk3X3RnVGNXTjRteUZtQUNka3NvZjFwanpNZndKaXlSSGR3MTByM1ZxcjVtYnR3MVkwcDhLWjJpWHRzR2xRVmlWbUtkY3B5SFhaVnJHUzJ1d3ktUktycS02REt0QlItdzBwZlhieFNjcFBoLWM5SGZxTmpLTTVfNjRSaWtteWhneXduMmo4U3RUTTNvZ2NfN0VNMGxLR2plcEFnTm1BeVU3TUVvaThrRG03LWVsd29oRUM3RWpKVVh2SG8?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
         },
         {
             "source": "footballmuse.com",
@@ -41,8 +41,8 @@
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc?oc=5"
         },
         {
-            "source": "TNT Sports",
-            "title": "David Ornstein: Arsenal ‘really happy’ with transfer business – ‘Better not to spend than to make a mistake' - TNT Sports",
+            "source": "tntsports.co.uk",
+            "title": "David Ornstein: Arsenal ‘really happy’ with transfer business – ‘Better not to spend than to make a mistake' - tntsports.co.uk",
             "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
         },
         {
@@ -52,8 +52,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFtOXl4dm83VzVpYVJOcFBnTy1SdXlUUGFvbmtuMTRPR2p2ckpBWUhrRE1CVVMwS2Y3RnluYXhkOHpBalcxeld6ZC1IcGNweVZFWWFobVVxSGZMY05zVWJkeVZRb1dqanJJRGRxclM0eEROZ2ttM05XMWZZTmxoQVM1OHpwWWJkNVhWcDJ0MklzR2JTV3ZwRWd4ZVlmSGNFZFRVTnMwdnZqSlJkTWtrZHpxS0NROHhPRG13UTh1UnB6alBJV29fU0owcmloX09RNnNEak51ZDFib3lNVjlqMHVJdS1sbFYxX3NEajRJdDhRVjhU?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -67,43 +67,43 @@
         },
         {
             "source": "v.daum.net",
-            "title": "EPL 5경기째인데 아직도 못 이겼다… '5,843억' 지른 토트넘, 애스턴 빌라에 2-3로 패하며 리그 18위까지 추락 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tbFBDSFJNUDBoMktsbWN1VS1NOWFqaUlIUDVvcmtIMy1CN0JyMWdRelFvSl9aYkp0NFZzYmxRNmVPcEhrTGRodTJZOGJWUVE?oc=5"
+            "title": "토트넘, 불발탄 쏜다…“케인과 손흥민, 가장 정확한 슈터였다” 가디언 지적 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zamZXYWRFZGcySzdxdGJNRkpJSjl3dTJfSjNrOFd2MGY4ajZHcnltdTRaZFZvcW5QVjRaaU5pdHo1aHZYNnc?oc=5"
         },
         {
-            "source": "Laodong.vn",
-            "title": "맨시티 대 선덜랜드 경기 예측: 에티하드는 \"험한 땅\"입니다 - Laodong.vn",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTENlX1NpMGc5R001T2paMmtpX1FNR2kxZUhtSkphR3JfOHRnVXNrNTlVdUo2R2E3bTAyX043ZHFuTEFuZFUzY290UUN3ZElLYmFlckRwcXkxcThaMkltUjR3d2NoVEZfTjdOSU96b0dDNkc3RnlXODBHRURBWEVNVWM1SXdFdS1ibEFaakU5SlZVenFBY051RmlfWTkwX1E3Z3hhczlnVQ?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "\"5600억짜리 동네북\" 토트넘, 돈 쏟아붓고 '강등권 19위' 추락... 안방서 빌라에 2-3 패배 '개막 5경기째 무승' - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBX243c1EzQlRJMXlYZThvSlJVUHpqYXUzdGR4dGdfcmJPcWNmdVVVb0l6Q19QTlJEbjMyNTl4WXMtVXFoRjRFUjN1eUxlUXJJeDdsdXJnREp5ZngyXzZrbFl0cnBIMzhWclHSAW9BVV95cUxPOVR2QURpRmdFZ09DZmhyS01IWFFMOUdnLXlLRjNBejk4YnMxaVhkVDF5RmwwSnQ2b3FFTElWYnVGcDVMclNKaGYzbkxrUkJ6MFAwaUZzbm1PWGtFSnpqX3luNnFJYVNHRGxLekxYM2c?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "토트넘, 불발탄 쏜다…“케인과 손흥민, 가장 정확한 슈터였다” 가디언 지적 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mdWY5WWhST3o2LVFNbnVkQ3pEb2FwUm1JN2d3OW9VRDFfYnhMWmVRTFh4bmptS2kwQVI3N3RpclA5VE9RX3NvSThCb0NNNHI2V01YVDlfbm1FY1ZhVGfSAWNBVV95cUxNVS1XdG9wdEFwLWdzQ0E4ZDgtVktEd0l5RzdoRHJqTnlvbjVlUTR0UWNsTmJkbnVwWDBNVXlpMzlvWHNTOWFwUjk0WHFuTDNVSjhoUVZjV1Bod1BMV05vLXk0c1U?oc=5"
+            "source": "Goal.com",
+            "title": "5600억 투자하고 '0승→19위'…결국 울분 토한 토트넘 데 제르비 감독 \"매우 실망스럽고 슬프다\" - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMivwhBVV95cUxQUENKMkpaR0ZaTXBiZmMwX0xqVWt6SWh5MDZMMlJkR09laGxPSDhsejR5cG05T2xldEZ1aFZScnVPbk5Fa3c4TUp6SEdUbXNUVUlBQmUzdFB0Y3hjMjNydnhkNEFOeFk3OHpmYUFvZHlSZzZVMUhTdnpidkpKLWgydmxhaGtFSVRxd0dOc3phaGhPTmRsNG9wSXRoQkYzTjdpYldkRUJrUzJCUGlJLWFOaS15Y0toZFpkYWg5N0JyUUQzX0RNM1Y1cXJxVXU4S2l1N3VYdi1SNW9lVGp5Qm5ZWXBPNU1Pa3N1RFpCS3FTM2NveDhNS0YzbFZJVHQ1NTFoZXdjZzQ0aklEX2ZpY195MDVqdUtxX3pRM1FpaU1EZkFwUE9RaE9CT2FNMXBVTGRrVTYwVVNSNFUzWUhxUmRZLXE1bkk4Y203RzUtbFIxVTBacm5qcnd3MkpCaWEtNnpKT0xNdW5HMU5qdVhpN2xhZ19pRXV2cWs2Qmxrc1NtWWMyWU8wRTh4ZlNNTFFyOUhkamh0M1BBWUtyXy1maVJsN3ZPVzdNT2dweHAtQWhGeGM2Q2hIUENONld4ME1GbTNmYmFTN04wbGRWci1mNENEVFAwMzFwRFZXY0J3LVc0dHU1MkpPbGVsdUJUYU0xejN5ZWhKcjZqejRxbHAwbUo3S0E5cjlXS2h2R3pZT29DZnA0Q2pGMjhpeXpsREhuX1VjVFlPNmx4MXVQbXZuTE45aG1FdmN6dmp5d1E1SWx3UXlfVy1GcUkyWnZfbW5ESUJuQl9JQzFnTWt2SGZCUWtWSkZDQzlZdlF6WXJ1YWN0VDZWOTlpTlg2Y2JIbXF4TXZwSmdlRWlRenBlVVRpeE5ydG1NNEE5S3RpVGdvZmR2RENXeHBLUmdhU05la2FZREg5dFU1MkZxY0RYOGlqYlZKM3lKem5OSnpja213Y3YwM0l0RUZyM3VTNTJXUE02Z1hXN015eXZaT0JPWmo3N2I4UVF4T2F1NHB1V0ltQktmSkNyMVRPUDItY1dvMzRRVVhvZnluRnBzdjlUQU9nWHJGam5tellHd2FvVmNKbUVWTm9zWHdwbFpPQm9WRVJHQmc3d1Rhb0dRbVlGUzhGU3hCS3FQNU5RNDNCZ2lkY2NOZWpPZmpfeVhDVThwZ2ZNU1NKTUV1R01helZIbEVIX1ZfMUZHc0k3SEpqQ2FiaUhRb1plR2tMRU13azI5V3N3aFgydXZtY2xwejFsUElySmpWeWpRQzN5aGRLYXZrT05yLW43Tk5iYUx1WDB6YWhEN2hIbDVEajN3OVRzb2RsWHpOdE5JZHRhRHNoeTd3T3M5SHgxZzVFbmR4WjFsWkNoYkduSjktZmlIZXBYMmZrYUxpUXdRc0NtX09iejd4ejI0LUxxUjVzckxneG9QeGx5dlNnNmNtSnJmT1VOamJ6bENj?oc=5"
         },
         {
             "source": "Vietnam.vn",
-            "title": "2026/27 프리미어 리그 6라운드 최신 경기 일정 - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXlOcHBBYjNxUDVrN1VxeGJpUzlHN3Y5d3ZwRDY2SkRLWXAtOWl3WnhjTWY2dE52UlRZVm9YbmRUZTZZOFhISXVBTFZSVy1QQWEzWWE4YnJZX2NnalB5SHRCcEZ1aVI5eGxBbERGS0ZDVVAyZFRfNWhoVFRBYWJ1RVFFbw?oc=5"
+            "title": "프리미어 리그: 아스톤 빌라가 토트넘과의 짜릿한 경기에서 승리했습니다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1ZBMFpyWE54bGVBamdLRDkyYkVIeG9kanJqR3FxSFloci1welRGcVk5TUo1S3d6OWtva2dtb3UtcWUtQ2lsakY1RmVadEZqOUhMMjhJdWV3dkU0SUtvVWlBZzhaNlNMVmNySHJNdHJCQ3Z6VG83VVFvZnN2eW1Da0JmcG5wUTVkQy1MVg?oc=5"
+        },
+        {
+            "source": "Laodong.vn",
+            "title": "프리미어 리그 풀럼 대 맨유 예측 - Laodong.vn",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS28zZnFFS29yeVBVaTEySU9KY0dDRHloMmx6S0c3TDRacnZhOGlSTzBIRlRiT045T1VHUmhPak1fN2FyQWtsVEFTbk0xWnhSYVk1Unh4MFAzY0RYYldDelo0OFl4SHRZMHl4Yk5mRzBQNDFNV3k2SThTR1hTOTFuSE15SDhBQjZBbFhRVmhRRUpRYXBGRDBuUGxWMFNtSmd4?oc=5"
+        },
+        {
+            "source": "Vietnam.vn",
+            "title": "프리미어 리그 5라운드: 리버풀과 맨체스터 유나이티드의 흥미진진한 경기 - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGl2aU5vNVgwVnFQZS1GQXMybkc3dnRGMzdlSm1FeVUydWFweF8wY0NKVnNWMThFbTh3TEhFcjBET2h4ZmpyVlV3dEpCV0ZsUDcxUGpfLU9vSkdzb0k0a1ljYXZqRWtpWmZ2cFdMM3BucmNET1lYRkFNNFVIWlFrSGJidkcyQ1dPOThz?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lTkRXZWc4Uk42djZsdTBDMEtHQUpYTzExY05IdzlZY2p3VXRPUmdfV19NRHhzMzJiSmZWNmxNS29Rakk0d0FpVjRYa19MVGM?oc=5"
+            "title": "“어쩔 수 없다” 캐릭 맨유 감독 ‘리그 13위+컵대회 탈락’ 부진에도 침착 “언젠가 이런 시기 겪을 것 예상했다” - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcHFZempjWmg3ZU5Cd21kRU9ZQjYyUjRHS3hmMG5KOVlJWTFhRDRwMkZTTDhrb2hOaFVIN05tOGhuQjl1U1h3azg4WEpSSFk?oc=5"
         },
         {
-            "source": "마이데일리",
-            "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kT0JNMFBfVEpNa3h2VDhpNXJFS3FOMGZrTUhHNkFka1dNSW40UUsxVW9GOVFIZlhUVzR5SEtiT1JreDgxdWhzVDZIOWMzU0M4VVFxMncyaWZWd3NUeXpwV3EzdlA4UQ?oc=5"
+            "source": "Vietnam.vn",
+            "title": "프리미어 리그: 아스널, 브라이튼에 충격적인 패배 - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1I1ck00OGJkT21YWjBsdkh2R0lXbTEtUzJwUzQxOGIxTjdYQ2pGY1ZqQnJCdFRjanl4elNnZC1xQUcyby11dGR3WEgyOFVRY09NTWs2TkNZdmVqYU93dmVxZVpIMm5BWFBuOEZqN3ZVS3pOd0RKdkVGanFIcW0tRQ?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입 검토中..'전력외 히샬리송 보다 잘 할까' - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmhyeWxMNUxjWW9ZSWlqaW9zdElJMVkyT1lzLTBMNml5NE9PRDRTaThoMFdoei1YbWpiSG50SXlfWXBjZG13REFZdElFTzE3VzFhd01VeUY5TGgwR0pnbHAxeVNFa25oNV9UV3E3Q3E2dkpSc3JZTVpnWHplTFM4OG5tSjlFTzFyUVVR?oc=5"
+            "source": "Laodong.vn",
+            "title": "미드필더 브루노 기마랑이스, 아스날 패배 후 비판 받아 - Laodong.vn",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDViVmVnXzBRai1RRWQtVGx1TWEzWVB3bWhXYU9JWC1KV1loaUxyb3J2N2lLZkJVX0JaNEozcHJleUE2T2ZnSUhzOEhoVGlKMG40N0lvcE5aYk93OUNtUTdHbm0xb3hJYVp2T2ZZRjFPRTNpQ3pDclc5YmpEV3FIN1o2azBVbjBuM094UFVudnZORXdKTG9ZUEM2YjBkbl81RkxRcDBOMVhQdTYyaF9sdG9R?oc=5"
         }
     ],
     "transfers": [
