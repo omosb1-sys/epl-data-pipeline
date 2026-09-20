@@ -1,29 +1,24 @@
 {
-    "timestamp": "2026-09-19 23:43:12",
+    "timestamp": "2026-09-20 02:00:19",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Brighton 3-0 Arsenal: Seagulls soar to end Gunners’ nine-match Premier League winning streak - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qc3dETEM3SEd0dUdOUmFmMHYtaXlsZENHTFdVZ2dkUkFyX1ZrZC1HcVFvdWpUTVkwSWUzMlQxbk1nb3MyZzZzc3VCcHhjVG1MWTlnN3ZyY0lQSkRvbHg0cG50UVhuZw?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League highlights: Tottenham Hotspur 2-3 Aston Villa - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82enViNEl2ZURqMnNVXzZuc041SkVwa2VjTUpyYkxrR2ZMVnVwUURkTkJBV3NtQ2txdUwzaFpLcjdOeU82dTBNeXpIelE3S0xZdV95bXVBUUFTdkJIZHhXZUxEWktjV1dK?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Tottenham 2-3 Aston Villa: Premier League – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUhZbmhCN2c1ZWZrRXhBLVpWOHFvSEdxNEp4RjZuZWQtVURLWVZWc013SzZTbVBPSmJRTGxZdElDRGdSZlIwLWg0RFBkMTBoOVBfTm13VThyT0w4X2M0Z1ZXWDNtcHlOUm5vNUdubzkzZHNpMjMxU2RJUmllZldGcDlpb285bmh0VW1wemJ5UlNRY3ZFQm9hTmxnbGdTQQ?oc=5"
-        },
-        {
-            "source": "Coventry Telegraph",
-            "title": "Coventry City player ratings as Sky Blues get first Premier League win at Forest - Coventry Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTRHaGpkWFp2MmRidzhVNUJiaDExQi1yd0VvYkpqalUzd2NSV2hkRVFqNHU3bG1PdWJzS1pwOUpSRkd3SVZOU0FOQmh2YVJCRnJhTnlEQ0VsTVF3SDhrWHItOWRHanZ3QVgyaUw0SGt4OHh5TVQxOW4xa0V6LWpoQ0Vjc0RqQ2JsZzY5TXFBcUczZTNDcnBmVkF0Xy1MSHdGTVBacl9nRlBQazDSAbABQVVfeXFMTUxsQ1B5ZzJIeXloXzBSdEY2Mld4M3FaRE8waW0yRFh2elh5aXpqa2tnQkw0TWpZbmlKY2xCRFlUNkhZQU9fX2FUazNxRTFITXU3aVJpN1VEalBvaTh3cGdDX1VwTnNDa3R0dlBtU1ZLc3p1U1RTTUxjQlZtZ1dYMGVyQmtOc29SbUNEZTJIellkRGZSUS1wOWNocmNZb29VaF9XWEJOcUg0UWxKWkpDdWU?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Brighton vs Arsenal LIVE! Premier League score updates, news, prediction and line-ups - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWktSGNfZTBQWmhPOG5UcURYVS1OS0w1TURxREl2OTRQZGl3SmxlcjJ6bHJ1N1VWNjBGckYtaC1iX19uZlY2WlV5clBFYzA0dVJ5TVhMWmZFdkFQeXhrN0FMYXNpRWJNSXZzRDYyS3B2a19SQWRmWlNObzlxUk56SnI2MERMLTlFcUpYVFNsMGdQOEV1MTlkS3NIZmd6WmpNQVhWT3Q0SWhSY05GVUotbW9SdDJiVmhKRmpsYW9rU0xvRGFLMjZvZGNkZC0xTVB0WGhCX2RBMFhKZw?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "Fabrizio Romano confirms Arsenal out-of-window signing of attacking gem – it’s a ‘big opportunity’ - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjNsNzdTYTEwMnBETjFoLWFnV084aGUtRXRueHZVR0VBdExxSkNRTVZZQWE3MGJOSUk3X3RnVGNXTjRteUZtQUNka3NvZjFwanpNZndKaXlSSGR3MTByM1ZxcjVtYnR3MVkwcDhLWjJpWHRzR2xRVmlWbUtkY3B5SFhaVnJHUzJ1d3ktUktycS02REt0QlItdzBwZlhieFNjcFBoLWM5SGZxTmpLTTVfNjRSaWtteWhneXduMmo4U3RUTTNvZ2NfN0VNMGxLR2plcEFnTm1BeVU3TUVvaThrRG03LWVsd29oRUM3RWpKVVh2SG8?oc=5"
         },
         {
             "source": "Football365",
@@ -31,9 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
         },
         {
-            "source": "Yahoo Sports",
-            "title": "Fabrizio Romano jumped the gun with Tottenham's Omar Marmoush deal - Yahoo Sports",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcTI1QmFuZWU1cmZ6MkFCR1pGemdjY2xVOTdXWkNJLVNid0lHZ0pWRm8xU3NUNktrMjhZMnRRVVR1RFdHN0xoVU5BUG9JQ243OTdPUFlyWG9zZm9jT3VxbWdSdXRkVEFYTWc5ODJoODlfeVBraGdYdU5qNzhoeEl2eTdpejVFb0dLam5TXzRzOA?oc=5"
+            "source": "LiveScore",
+            "title": "Fabrizio Romano confirms Arsenal out-of-window signing of attacking gem – it’s a ‘big opportunity’ - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjNsNzdTYTEwMnBETjFoLWFnV084aGUtRXRueHZVR0VBdExxSkNRTVZZQWE3MGJOSUk3X3RnVGNXTjRteUZtQUNka3NvZjFwanpNZndKaXlSSGR3MTByM1ZxcjVtYnR3MVkwcDhLWjJpWHRzR2xRVmlWbUtkY3B5SFhaVnJHUzJ1d3ktUktycS02REt0QlItdzBwZlhieFNjcFBoLWM5SGZxTmpLTTVfNjRSaWtteWhneXduMmo4U3RUTTNvZ2NfN0VNMGxLR2plcEFnTm1BeVU3TUVvaThrRG03LWVsd29oRUM3RWpKVVh2SG8?oc=5"
+        },
+        {
+            "source": "footballmuse.com",
+            "title": "The rise of Fabrizio Romano: Is transfer journalism turning on its biggest star? - footballmuse.com",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzF0dkU4VU45SmdXeF9XMS03Y0tBTEUyTG84SEE2S2Z4UzJ0R2RTbk96VUF5T242Y2JOb2htQ1JxU2RtellmM1RFLVBLek83Wm1DTG1kaVR6Ulg4NjYzM3JVc3NoVW9ZREd6SGtwTkszTHNsXzBER3BhWUZuNW4yYUpmQnJtQkxBN2E0UWJLeEo1bWc3VTBGVjZacnloZGt3S0JBVndtTEk2NzJFdlR1TTNiclZXLTQ?oc=5"
         },
         {
             "source": "The New York Times",
@@ -68,12 +68,17 @@
         {
             "source": "v.daum.net",
             "title": "EPL 5경기째인데 아직도 못 이겼다… '5,843억' 지른 토트넘, 애스턴 빌라에 2-3로 패하며 리그 18위까지 추락 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Rd3hpa2dFNk9iMVRzQ0xOWHNSc2M1TmljWm9zZmZXOHZGaUpydnczcms0TjBBeEEwQXRwRzVyM2kzaGNXVGc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tbFBDSFJNUDBoMktsbWN1VS1NOWFqaUlIUDVvcmtIMy1CN0JyMWdRelFvSl9aYkp0NFZzYmxRNmVPcEhrTGRodTJZOGJWUVE?oc=5"
         },
         {
-            "source": "starnewskorea.com",
-            "title": "'도대체 왜 中 무시하나?' 아시아 역대 베스트 0명 대굴욕, 손흥민·차범근·박지성 '韓 1~3위 싹쓸이' - starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1Y0Vid2JlSGZYWXVCRlFGaTJjMkVZWDhLOXhzRmQwMUhuV0hoaVd4cFBsSy0zU2ZvRWp5WHV2bUZOX1ZHem9YS1Z5S3oxcUFXWTFQTGZiTFYwZUFXVDRnUXlyMUhKaXdYcmpRb3VxMm8wemFqVHc?oc=5"
+            "source": "Laodong.vn",
+            "title": "맨시티 대 선덜랜드 경기 예측: 에티하드는 \"험한 땅\"입니다 - Laodong.vn",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTENlX1NpMGc5R001T2paMmtpX1FNR2kxZUhtSkphR3JfOHRnVXNrNTlVdUo2R2E3bTAyX043ZHFuTEFuZFUzY290UUN3ZElLYmFlckRwcXkxcThaMkltUjR3d2NoVEZfTjdOSU96b0dDNkc3RnlXODBHRURBWEVNVWM1SXdFdS1ibEFaakU5SlZVenFBY051RmlfWTkwX1E3Z3hhczlnVQ?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "\"5600억짜리 동네북\" 토트넘, 돈 쏟아붓고 '강등권 19위' 추락... 안방서 빌라에 2-3 패배 '개막 5경기째 무승' - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBX243c1EzQlRJMXlYZThvSlJVUHpqYXUzdGR4dGdfcmJPcWNmdVVVb0l6Q19QTlJEbjMyNTl4WXMtVXFoRjRFUjN1eUxlUXJJeDdsdXJnREp5ZngyXzZrbFl0cnBIMzhWclHSAW9BVV95cUxPOVR2QURpRmdFZ09DZmhyS01IWFFMOUdnLXlLRjNBejk4YnMxaVhkVDF5RmwwSnQ2b3FFTElWYnVGcDVMclNKaGYzbkxrUkJ6MFAwaUZzbm1PWGtFSnpqX3luNnFJYVNHRGxLekxYM2c?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -81,29 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mdWY5WWhST3o2LVFNbnVkQ3pEb2FwUm1JN2d3OW9VRDFfYnhMWmVRTFh4bmptS2kwQVI3N3RpclA5VE9RX3NvSThCb0NNNHI2V01YVDlfbm1FY1ZhVGfSAWNBVV95cUxNVS1XdG9wdEFwLWdzQ0E4ZDgtVktEd0l5RzdoRHJqTnlvbjVlUTR0UWNsTmJkbnVwWDBNVXlpMzlvWHNTOWFwUjk0WHFuTDNVSjhoUVZjV1Bod1BMV05vLXk0c1U?oc=5"
         },
         {
-            "source": "Histoire pour tous",
-            "title": "슬롯 유형별 차이 속에서 보는 프리미어리그 토토 중계 구성 - Histoire pour tous",
-            "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdVpZWV9PN1QtcE9ocG9RV2dzX0E4b3NRZ1JudWxnd0NhWmpZYzg3YktITDNjM2Z3a3gzT1poY29nWkxWUURsbDZ2WDN0MXZHUHFMbXRZRXZYZ29JU1pNVjhZVmN4UFVYMVdWRUJjR28xWGV1bXZEM0JfbE9ENVpGenFzcHN0UVhOTTFJamV3QWlmU3FMUHRpNHd4V2x4T0E5ek9LakQ4S3NXd0ExMUc3TmJieFAzTDFkbUFvR3RFaFBLcW9rcDU4U09vcjVFd01VdURZY1M3bERrZFlzZmNSZXdydHdhRHVRRXVVTFJSdlJPRzJERUlGNXp4SlFLVkVVbkY2ZjVjQy1TMkRFbWI1a09WaU5DTFRPLWZYUXNuWEZmQWM5dWN2WWhiSl93QQ?oc=5"
-        },
-        {
             "source": "Vietnam.vn",
             "title": "2026/27 프리미어 리그 6라운드 최신 경기 일정 - Vietnam.vn",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXlOcHBBYjNxUDVrN1VxeGJpUzlHN3Y5d3ZwRDY2SkRLWXAtOWl3WnhjTWY2dE52UlRZVm9YbmRUZTZZOFhISXVBTFZSVy1QQWEzWWE4YnJZX2NnalB5SHRCcEZ1aVI5eGxBbERGS0ZDVVAyZFRfNWhoVFRBYWJ1RVFFbw?oc=5"
         },
         {
+            "source": "v.daum.net",
+            "title": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lTkRXZWc4Uk42djZsdTBDMEtHQUpYTzExY05IdzlZY2p3VXRPUmdfV19NRHhzMzJiSmZWNmxNS29Rakk0d0FpVjRYa19MVGM?oc=5"
+        },
+        {
             "source": "마이데일리",
-            "title": "토트넘 진짜 어떡하나? 또또또또또 못 이겼다…빌라와 홈경기서 2-3 패배, 리그 5경기 연속 무승 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tMHp1d2dsdUlZX2R0c2tCbU1qcmN2NHlNRjVTcExRZlloaXZxSmpiMzhQMWVkVjNoamsxcW54MFl1ZUdKalU3QVpEOTFVLTB0N010T1JPTE94ekRnM2lnMURwUmxNdw?oc=5"
+            "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kT0JNMFBfVEpNa3h2VDhpNXJFS3FOMGZrTUhHNkFka1dNSW40UUsxVW9GOVFIZlhUVzR5SEtiT1JreDgxdWhzVDZIOWMzU0M4VVFxMncyaWZWd3NUeXpwV3EzdlA4UQ?oc=5"
         },
         {
             "source": "조선일보",
             "title": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입 검토中..'전력외 히샬리송 보다 잘 할까' - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmhyeWxMNUxjWW9ZSWlqaW9zdElJMVkyT1lzLTBMNml5NE9PRDRTaThoMFdoei1YbWpiSG50SXlfWXBjZG13REFZdElFTzE3VzFhd01VeUY5TGgwR0pnbHAxeVNFa25oNV9UV3E3Q3E2dkpSc3JZTVpnWHplTFM4OG5tSjlFTzFyUVVR?oc=5"
-        },
-        {
-            "source": "besteleven.com",
-            "title": "“기본조차 지키지 못한 경기”… 아르테타 감독 대폭발, 아스널 브라이튼에 0-3 굴욕패로 시즌 첫 패 - besteleven.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0eEUycVY2MmdqQ2wzMHYtNVBLYVJEeWU4NXVaSGw1ZHlob1NQbGpUUVJFSTJnMUhxSmk4TzgySkYxYTRJUVFUTHJqM1FuVnQ5ZWhtVUg1QkdVV09Eb3pweExLTkJ0Q1RCdWRMWFhn?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-09-19",
+            "date": "2026-09-20",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
