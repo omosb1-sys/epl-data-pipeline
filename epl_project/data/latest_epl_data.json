@@ -1,28 +1,28 @@
 {
-    "timestamp": "2026-09-22 07:59:57",
+    "timestamp": "2026-09-22 13:08:51",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Come back soon Premier League, the endlessly moreish mega-product | Barney Ronay - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRMMU1EYm5ua3NDX0NiUzZmTFl3cFhLUEZlMG9xR0JxT1dMcHFRbDhXejFQeVRXS3QzcWJnT3Y3dlBURGp1NkFoZmlZMzIwb0tSN0R4NUF6WW9NSVFKNzh2Rm5TeHl5dlVWVnlJWHJCbmhNWS1Ib0dZU1B5bzV1YlA2ZEpzN2ltNEp3NUgxRDJFOXhDb1pvVGZoS1Q2ei1aN3gwcWFwRXB2cWxRdEFSNkdtMA?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "'Far from their best' to 'a joy to watch' - ranking Premier League teams' start to season - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lRWZwWTkwWmxRUVN1b2ZBV0hFWWtTblBSWmlHOWcyX0pwTkJ1aF9vSmFnbGVFdkNqT3dkazhFSTZnRzdtNTVqUy1NRDB4alg4MEl2MkF1MTFBY19iODdQM3lSRnZEb0t1?oc=5"
-        },
-        {
             "source": "BBC",
             "title": "John Egan: Republic of Ireland's defender's late career resurgence back to Premier League - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSHFkZS03WU1IN0JzbjFBY2JJTlEtVmJMaEpNbTRIQVhuNkVveTVUX3V5UVkyVXI5NWdnZ2h5Q3R6ZDlqR1ZtazNrMWtTem9xdTJPT1BYeFlPNjBHOVE?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSWlQb2VzN3ZzYi1OTDNldnM0MkhieGxGaDhJRVJ0ck9TWm5TMWtFUmxhSEx4THBJckgzZzI2VkU5bHcwa29QOEEyUld2bW9DUUhBN0xpMkVsSGs?oc=5"
         },
         {
-            "source": "football365.com",
-            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - football365.com",
+            "source": "Sky Sports",
+            "title": "Tottenham bottom of Premier League despite £300m summer spend - where do they go from here? - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQUpiVDE4NGVkb3NyQlBnVGc0MFhfanZnT3BzSXd3WVI0VDRBWE5qTUkyNFRQc3h0Sm9XUHoySWNndzhReC16Y21TZHNqb1doWVdITjdEVmlCaHZOV0tHR2xKalVoYXlpdUUxblk2emhfUDI4Xy16SXFTdS1RVVVUbmhPdlNVS29KZ0RCWG9XV0ZGNjhvbHpmOFRscGtnMG5hNlZmcG1WemJ6RHVmVUUwN0RWS3RWMnJXeXlaNWRpcERhYVI3NjhIbnhWcTBhRGY0czVHQg?oc=5"
+        },
+        {
+            "source": "theguardian.com",
+            "title": "The last two seasons were grim for Spurs. This is as bad as it’s ever been | Jonathan Wilson - theguardian.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclk3N0NrUm5QZllaRGg1ejdoRnIwZHRQcjBldGNqX1JORmdOelczY2VRMDhha3JUVGkzS0RKMnRGNHVhQmR0eS1jS0phcktJNVhiR3Qyb1duXzNpbGNHZlhpQjlIRHFTWEMzQ2tZN3JRc0ltTGtBRkNTalRrUHpmcUNhSnlLamJp?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
         },
         {
@@ -36,19 +36,24 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOGpQV0pGOHdqWHV1SVlYR2dNQjlLZEQtMmxXTVFQSHZpWTdDcTVQakhBdnV5SDE3TzJjVDNlb0FXTnBMejdFZy1YcmxaRTZaTjkwZy10QVlJZERSU1h4cUpPSDF1WlNub1p5VEIwMGV1T2N0aElqZ2FtcmgtQlJ6RWxoLXpPNnNkRUZZYWllVzBOY2RkWmRLbHZQQkJwOHR1ZmJPNDhXUGY4STd3TFlwT0tPekJPSE1uQmdFS2NtMjZrZzUxM01FZFZ4c1hPX2dWYkhHbEZNUkZxYXU1ZVpMWDU1X2xaMGtDT3NWRUZraHAzRVc3Vnc?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "source": "nytimes.com",
+            "title": "The Athletic FC: Ask David Ornstein your questions - nytimes.com",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3dBQTNWMU9zUEZkRU4wRHpuXy1lNWstbkVOVVJpYWd2NWQwVXhtbENGaC1JRnhLOGsyRVBaQ3NfYWpwem54TkJQOWZFV2hvX2JPNUl6MzFzME5xcW9sX050MEplR0I5WFJienR3T1prM3JpZ3Z1OGpfY2ROYnVvUDROc1dCT25CNVBHWHI0TmE2LXVuclRCLWlkZjYwVmdVek45MklYaw?oc=5"
         },
         {
-            "source": "TNT Sports",
-            "title": "David Ornstein: Arsenal ‘really happy’ with transfer business – ‘Better not to spend than to make a mistake' - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObTlQd0UxRlhyOHl2cXFMRkdlVkh6UnRObHgyZkxfekZTV1lQUm93UVl4OS1zV3lKNFFqcnBfVm9nSHotT3g0QzFhSk5CRU5MWGhZTE1rQ0VYUzZZZVFFemVUX3BYQ1Y0b0s4dWdWTWZhX0JyTHFxem4ycFVmeTVpbUZzS3ZqVGp3bnpmb3NMYUR6VWNxaHZEUURheFZ3SHVqb2RDSXQ4RnFlTzltenhOTUMtV2ZIV1ctaWlYVWpSMUw4Tmh3MjVHUDUzSHlVN2lIZDNNWkl2QWJ5X2huVVR3bk9KYm5pVmR1c0JTMFFUZFFZZkJ2MmFrNkl0c0llWEtSR3VhUlFMMkc5Q3ljNTIw?oc=5"
+            "source": "nytimes.com",
+            "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales? - nytimes.com",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Cole Palmer, Declan Rice and Marcus Rashford among England withdrawals; Morgan Gibbs-White called up - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmtzNGVlT1ZSc3VLajR1eG5kRmY3NTNnSkVPNU9vZGdLLUhTYTJhZ25qWFVjR3g1U0JQYkpDeFVQbWlYUW5Eb3JueldZOVlRNEhBRXJvRFZEN0taM1J1TVNSUXNDMjdtRktWMml0R0FPSFpxcldlMU1fR1p1S0RCNnV4Tk1yelJqdkVENHBQQ0U?oc=5"
+            "source": "Yahoo Sports",
+            "title": "“Oversight”: David Ornstein says “Carrick’s focus” for summer transfer was not fulfilled by INEOS - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3ZpWWRnZlNZbUwwZGxjR3p4WjA2Sl9KNElpb3U4VHJqYS1Fc0VkYnpSa3V2cTdLMlZHeHBEemJ5SGQ1NUdyejV3Sks0N1hkSGVQcmpqQUdDb283dXhzMkhPNjU1d3dmc0ZhUnVBWEpncnVjRXZIY0p2MDBWS2E2VktsYVNDSXh4eUVLWTN0cw?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,14 +66,14 @@
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakpyVW5XcGNXRFRtTTdBV2tweU1XZzhabXBQMmFGbWpWU0hpMVAtVS14VmdEZHhRTEt6M3lxeDZEaVN2VGwteEV5UFloaE50cDEwdlFnRU5Bdl9EMUZES0U4UDRiQ3RVQW9aT2RPbGlYNU5SS0J1bHluZHVUSE9VYXlMeHN0azJhVVprTjAyMmNuMEpEWDFn?oc=5"
         },
         {
-            "source": "Manchester Evening News",
-            "title": "Liverpool vs Man United and Arsenal vs Man City given new dates as Premier League TV picks confirmed - Manchester Evening News",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHlub3JPdDN5S05mdUs2WS00WGxteXVYUEV5Z0txR1NfdWNIMk12S2c4QTBkdmhxYnNWSXF2N0s1OVlYNGRYR2gxSTdyaktkSEhkdEtBMGFITjh0Yjk4S04yZUYyNFpxbzdHMDRzRlVJU2pOTzhIcnVLa0VsTEFxb01vc1hsaWtxeXV1Wm5BRzljTXRraWlaaTZlYWhKWEVnWDFTemhkdnluMkkzOEHSAbMBQVVfeXFMTUYxU1lZVnNNNjEzeEZHLVdBT21ld0JNNGRtLS1kaThfN1AxUVRRbDlTTWpISWJLM0V4eUhFd3R6VE1CX3FBRHZhTVllZTVHODVIQmR3M0tZN0hxVW5tWFVpLU5Ka3JLdzNUWXNlLURHaUk5bFVxSW14QWY3SnpsbjZVdWhrX1lFUThtajJSTlRHN2N6by1xX3RVOFFrcjlobW5RVm5CSThOZ2p2UjA1TGx1d2s?oc=5"
+            "source": "스포츠동아",
+            "title": "또 졌어? ‘AV전 패배’ 토트넘, EPL 개막 후 5G 무승…데 제르비 감독,“이렇게 지면 안 되는데” - 스포츠동아",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aYTlPU0k0VTJFUlZYOUxWdlNGNkExOC1VWjBPbU9qbVU5eUQzLWVLWU9XVmRmZGg2eUMyT3VTZEM5UjZaYlVYRWdSRDVFOXJMNE1McUs0RlRoc28zVFBEWEFpQTVoMzZqT2NtRUhsbF81QQ?oc=5"
         },
         {
-            "source": "sports.donga.com",
-            "title": "또 졌어? ‘AV전 패배’ 토트넘, EPL 개막 후 5G 무승…데 제르비 감독,“이렇게 지면 안 되는데” - sports.donga.com",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aYTlPU0k0VTJFUlZYOUxWdlNGNkExOC1VWjBPbU9qbVU5eUQzLWVLWU9XVmRmZGg2eUMyT3VTZEM5UjZaYlVYRWdSRDVFOXJMNE1McUs0RlRoc28zVFBEWEFpQTVoMzZqT2NtRUhsbF81QQ?oc=5"
+            "source": "v.daum.net",
+            "title": "\"손흥민은 토트넘의 마지막 슈퍼스타\" 이러니까 SON 그립지…\"토트넘 슈퍼스타 없다\" 제라드 일침에 SON 소환 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjY3plT3dGU0toNTNJbWVzVjVwTlVqY0RFS0diS3VtNUI2aTNjTzFVd0lUX1FnSzBaalZydVBhRGJUM2hnMFBER2QyS1dzc3M?oc=5"
         },
         {
             "source": "조선일보",
@@ -81,13 +86,13 @@
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBveDJwTUtQX2xGM29UWnRYT3J1Y2pISmcwQTFUc1hSWEZTZ25vUDAtcmFxSVhqQ1Uya2JrNnRaQVFGeWFRdXlObXhDXzNLajlOQ2c5M1BkV2MyZmJ0VlFQeDZzWFJ5QmFyaW9pX3QyNXQ?oc=5"
         },
         {
-            "source": "kr.mancity.com",
-            "title": "[매치 리포트] 8골 난타전 끝에 승리 거둔 맨시티, 프리미어리그 단독 선두 질주 - kr.mancity.com",
+            "source": "Manchester City FC",
+            "title": "[매치 리포트] 8골 난타전 끝에 승리 거둔 맨시티, 프리미어리그 단독 선두 질주 - Manchester City FC",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzFoanFSNUE5VGdCUW10RGc2bDZtVzB6M3lkTXFjT2szcWhkVFZkZXpMTi03NnV4MWo4UmdlQlI3dU9seDIyeTd3UVg1UFpZOExoMUxDSk10T0lpU1dRbjlxekFkMmdvZUh0NGY3aUYzc3NZcmZ3X05Obk1CNGVBR2FPVzlTT0FaY05TUkhB?oc=5"
         },
         {
-            "source": "sportalkorea.com",
-            "title": "6386억 쏟아붓고 '충격의 꼴찌'...토트넘, 개막 5경기 무승→20위 추락 '데 제르비 경질론까지' - sportalkorea.com",
+            "source": "스포탈코리아",
+            "title": "6386억 쏟아붓고 '충격의 꼴찌'...토트넘, 개막 5경기 무승→20위 추락 '데 제르비 경질론까지' - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE1YSEpoYUpzSWp3NTNtdTZ2eHNYVW80bEhBM0tJTjRaeHBURzR3d0VackFDSnNSY0pfdlVabDVmU0hqRzR0TXo3SDM5ZVRhLW1uOUhwSHF6ai0tNGhNZGhJLUJSNEJDbHl6MkxFckJHei1SNzhaZFFNSkdOeUMyVjVR?oc=5"
         },
         {
@@ -96,14 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HNWQxWmZUc0FfcHAzQ1FaMDhad1A3eURnX21nMnNLYVNEbTViX0M2bzRodGlKX1JTX19TMWFnOVZfVTFBU3RpdGtCb2RSM0pLRGtoRWs2cGVjS1dpZ281SFpZVUZlRlVBN1RhZTdYYXIzT3o4?oc=5"
         },
         {
-            "source": "Your Field",
-            "title": "'충격 사고!' 롤러에 하반신 빨려 들어갔다…'손흥민 전 동료' 타운센드, 태국 무대서 벌어진 '아찔한 촌극' - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVR212ZzJ2YXRRcHV3NGVEREs3NHAyMHBkTi1mY3ZjYTBqbURGbURGZ19ab3FkeWE1dFJnb0lkUkFCbkdvby03TDAzRFd4cFB5cDdMRkdHcHotYU9TeHVpbFh6WFU5eTI1bEdGNlBfdGZjdlk3X3c?oc=5"
-        },
-        {
-            "source": "m.mksports.co.kr",
-            "title": "‘마드리드 더비’ 이강인의 AT 승리·아스널 완패…축구토토 승무패 54회차 1등 미적중, 20억 원 이월 - m.mksports.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1Nm5ENGdxelJxajFWSmRZalNsaHIzbUhKZ1R0NWpIWmpNMmtlR3lpekYwck1DQmpka2ZLTjlFMm1Ddl9MSjJHXzVLTzFETWJpR1Q3S2tOcGVLekE?oc=5"
+            "source": "스포츠경향",
+            "title": "‘달리기 꼴찌’ 맨유, 이러니 잘 할 수 있나 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96U3ZrdGJQUkZLQ3R6cnBxT1RwZ2ZrMDBUUEU2RHNwWTg3QXlDMjJFOU9TTzNqbThRWjNZM2tGZ0VQdnpRdkM1akxFdVd1dTNaQ3h1b3R6ekxzT3hFa2fSAWNBVV95cUxQcFZBSDJKNEY0VTRzYjJPWEVRVWJISGY0Q0drUURiQnNaZngyMnU0ZFBEYkJpTmtUZnJ5ZTMxMXFjSnVPNXEzNDdILVMxZG1qb3IzWS1KUHotNkJseUVncldhVUE?oc=5"
         }
     ],
     "transfers": [
