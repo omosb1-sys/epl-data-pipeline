@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-09-24 10:38:45",
+    "timestamp": "2026-09-24 15:33:47",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League Bermuda Triangle: Do stats back Brighton, Bournemouth, Brentford social media theory? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByWVVwYW9JV1JiX2ZlMkRhZ3B0Si1GWmdMRXpjVjZvTEhOdENOeWRxQVBlTGY4aWdUYm1UclpBYnBOcTBzeURlSy1QWUY2N2t1Ni04NUtpZVBmVFoyUW9RNTkxUHoyaVFGaGlj?oc=5"
+        },
+        {
             "source": "Premier League",
             "title": "Pick your EA SPORTS Player of the Month - Premier League",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUF9POVFIZHRGNmpfUEV6NUx1WmlqOE9QSHNxMEcwZU5GUDFPbDJUSVEybnF4d0M5Ykk4V3VEN21FRC1Pdk5zaUhMUUt3T3JXRG5UUURDZURMYTJaaUF5UFZ6RHdQZEpBSHJPNzBpQUpDUFBYNXU5RW1uaVZiNFRDcHFDeGpwNWNvTXNjZ1F3?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Man Utd: Antonio Conte lined up for sensational Premier League return as replacement for Michael Carrick - Paper Talk - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZnl3OEg1cnU2SjU5RkpiX3E5MnpBaWF6LXJ0c1hyQ1E1OTVsREhXRkV2SkNwOHNaSDExYXhNRC1rZXdESWs4cGNEbkdFUDNpejNjdGJuNWF0SkYtTE5hSlJVT0UwU3ZGaHhXMldzcE5jRUIwMUwwYWk4eGRCcFpCbzFNM0E4eU9SOWFjbTA0UWNiQmQ3bmkxMXNwM0RYSWdrX2Rpa3ZhVWt2bjVoN2hTMkZTYzF6WEVVTDNUS3pMUnBESnJJMnd3bG5jVnFiZUZYUHpJY2ZaeUU2ZG1fVG1BZHlRcmcwSVJIUWdrQ2NXeFh1OExSakE?oc=5"
-        },
-        {
-            "source": "The Sun",
-            "title": "Premier League’s most valuable XI is worth huge £1bn and boasts 5 Arsenal stars - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHhlNWFmWFFWTXVCOThVbnFhN25KdGRBbTBzLUVVb3BpUG93aGNhMXlnVERtaHpzWXNQY3hIaHlOLW5ScUlMX1VDZUpRMWY5VGVfdGhxZHI1enRiM0VrTmFlaElaVFlMMUo2SEI5N0dPQkJCdGNtaVd2Q0J6SEFXWnZpbDQ4RElGQmttZGZXcURYR3ktc2paOXlTeUpKNVZpQU5uN1JuQQ?oc=5"
+            "source": "Premier League",
+            "title": "Vote for your Barclays Manager of the Month - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWZmaFNUTnNCVmJJbkk1Ml9tblVXWV9Td01jcUFKNFZ3S2UtWmJEXzdnUm53bTVwMkc3enpSbFJlTnVNUEhkTWpaeHdvTS1yU0dndXFWWjAtandEekh2bjFCXy1NM05yYmxjLUZqWnUtUW5oOVlYMGs5Q00wS3JQZ2JHdlR1aFJVRzlncWpHVlVVMHM?oc=5"
         },
         {
             "source": "Football365",
@@ -36,13 +36,13 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOGpQV0pGOHdqWHV1SVlYR2dNQjlLZEQtMmxXTVFQSHZpWTdDcTVQakhBdnV5SDE3TzJjVDNlb0FXTnBMejdFZy1YcmxaRTZaTjkwZy10QVlJZERSU1h4cUpPSDF1WlNub1p5VEIwMGV1T2N0aElqZ2FtcmgtQlJ6RWxoLXpPNnNkRUZZYWllVzBOY2RkWmRLbHZQQkJwOHR1ZmJPNDhXUGY4STd3TFlwT0tPekJPSE1uQmdFS2NtMjZrZzUxM01FZFZ4c1hPX2dWYkhHbEZNUkZxYXU1ZVpMWDU1X2xaMGtDT3NWRUZraHAzRVc3Vnc?oc=5"
         },
         {
-            "source": "nytimes.com",
-            "title": "David Ornstein’s The Athletic FC Q&A: Brentford blueprint? Spurs’ January plans? Pressure on Man Utd hierarchy? - nytimes.com",
+            "source": "The New York Times",
+            "title": "David Ornstein’s The Athletic FC Q&A: Brentford blueprint? Spurs’ January plans? Pressure on Man Utd hierarchy? - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTZDdlJVNml3Ym9sdUVtaDR4ZHhuNmFKVlFjcXpsWUxBMWUwekxod3FWSE5WcXdrTWpqZEVBaF9mZ3p0VlNRdUxMb0xVT2ZyRTZTLWM5aS10NVA5dGg3Z002TzBRX09XY2EtcHRxYU9DRnlrcjZfeXJfYmRRSk8tRG00cE8tcGtYcEc3RUY4STNZa1RDX3hhTmQ5UEZzeEE?oc=5"
         },
         {
-            "source": "nytimes.com",
-            "title": "The Athletic FC: Ask David Ornstein your questions - nytimes.com",
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3dBQTNWMU9zUEZkRU4wRHpuXy1lNWstbkVOVVJpYWd2NWQwVXhtbENGaC1JRnhLOGsyRVBaQ3NfYWpwem54TkJQOWZFV2hvX2JPNUl6MzFzME5xcW9sX050MEplR0I5WFJienR3T1prM3JpZ3Z1OGpfY2ROYnVvUDROc1dCT25CNVBHWHI0TmE2LXVuclRCLWlkZjYwVmdVek45MklYaw?oc=5"
         },
         {
@@ -52,8 +52,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "title": "Premier League Darts 2027 dates and venues confirmed: Glasgow hosts opener, Finals Night in London as Luke Littler defends title - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOGpOaFd6WVNSVFpJWDlYVTlIYUtVZm9Qemp0T0JrbVdrX2NvTXEtR1o0M3RDNGt0aE5kRlpUN3lTcElIcERWYzd1RzgtTXNJV0F3TDFvUHZBYlMyMUxxU3M5ZmVMQk94NTlXbk1mVXZxbENzZlJ3amc0cUc5M0h2enlQTm9YSHhIakZybzRSUXNFNDY2VG1IVHZjdVo2Uno2R2RiUkVkNG80N2hGbWNMWU9QM0s5SHEweWpCZnhWTG80S0lVYVRFQTNtdHpfYXlwU3NlcDJSb09GVnZYdkhfbGh0ZmxOVC1lT3UtVnJVVUFsVWQ2cUVVa3U5OG1YcVBwa3c?oc=5"
         },
         {
             "source": "Premier League",
@@ -61,19 +61,14 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "'17→17→20' 토트넘 진짜 어떡하나? 5경기밖에 안 치렀는데 슈퍼컴퓨터 '강등 예측'…우승 후보는 아스널·맨시티 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WV1ZkTXhNbEF4UG1JUENPRjVvU1VLYkpPb2RTU3l0RmJRYmlxd3RpWE15REhpSXpFQlBnRTlmQVB0ZFF3c0dueVdUcjdWdGM?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "Manchester City FC",
-            "title": "세메뇨, 프리미어리그 이달의 선수 후보에 올라 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUxDeWNWMFlwXzlmWE1KRldXWUpVeGVLZFlWRVlIU3lvUUdhUU9obG1kd2RGeEVrSFh3ZHV4SUpiZVlibVdNN0kxc3NIbzlPNERMaGN6cmprT2lBbWk5UXoxSWFXcXNwbW1ibWxEUEkwZ1hMVGhZSUxGbW5ESUxaTU82cXV6enJNbC0xWjhnUWZhak9sU3FBSHM3dmhGZ1RVemxwbE9aRGZvTlVWY05Bbkc1MUJJSzNyM3c?oc=5"
-        },
-        {
-            "source": "FT스포츠",
-            "title": "아스널 시절 가짜 코로나 백신 증명서 위조 시인… 스위스 축구 대표팀 그라니트 자카 공식 사과 - FT스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOVGM5WVFFVEJKbndaQ2l6bC05REFwb2VpMGptblowQnVRQnpYQld2akxCNkk3Y1pSLUN1Ql9xb1MxOVNmZ1p6N2dmV3pISFd4UWhscGFjMVRiZzZoNW9aY0JKWjUtZw?oc=5"
+            "title": "돈나룸마, 프리미어리그 이달의 선방 후보 명단에 올라 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjBqRUFaZlNnNnN5YUlObE4wdzZBY1l6TjhEMmFsbXZEOVo2bGVtdEFqMTN3cXlsb1FYVlY0R0pVSW9MTm1pQTZWUENNS1RKemJhdktVV19FRWxrM2VtRnlCQUNRQ1lwSUFSZlFXbGFSUVNOT0hlNWEyOFRlbnpHTElweGo3b0stdGNqNWkzeVp4MzZXaEFNQXRDWUk1MW9pcC1VaWFaOGRuNTR5V2EzME5FVFhrWHpXcW1BNw?oc=5"
         },
         {
             "source": "v.daum.net",
@@ -81,24 +76,34 @@
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01NklCUmxkSExyalZJb21aU3BMXzZfdVRYOXl5OVc0ZUxnWnFNV0Y3WWotNUEtOTR5S1RYYUhaN1pGVmNkNVItRUk3bnVuUjA?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "사라진 캐릭 매직…맨체스터 유나이티드 레전드 소신 발언 \"선수단이 조금 약해\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RbGd6RGNiMzBYRXhoMWFmZHBuaDRESVJOQTdMa0ZsQzdXUDJtTzlrSlRROWFpalRfRllZRHU2UkhoMEFCZjY5dDVBN05JcWs?oc=5"
+            "source": "Your Field",
+            "title": "'레알 제치고 957억에 데려왔는데'... 맨유 초특급 유망주 벌써 매각 위기! 리그 선발 '0회'→\"내년 여름 매각 가능\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ObzRHd19FemZZQTlmdDhhbGNQWVdXLWRUREpBcVVJbjdsU1FHdGpjUm95UWxSVUo0amZVcmlFeXBEckZtZTA1djlNbUNjT054VHdpXzBnbllfNDU2Y09Ram41ZElRUzVTRzdPVUxISUVaLXVCV2c?oc=5"
         },
         {
-            "source": "스포탈코리아",
-            "title": "6386억 쏟아붓고 '충격의 꼴찌'...토트넘, 개막 5경기 무승→20위 추락 '데 제르비 경질론까지' - 스포탈코리아",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE1YSEpoYUpzSWp3NTNtdTZ2eHNYVW80bEhBM0tJTjRaeHBURzR3d0VackFDSnNSY0pfdlVabDVmU0hqRzR0TXo3SDM5ZVRhLW1uOUhwSHF6ai0tNGhNZGhJLUJSNEJDbHl6MkxFckJHei1SNzhaZFFNSkdOeUMyVjVR?oc=5"
+            "source": "FT스포츠",
+            "title": "아스널 시절 가짜 코로나 백신 증명서 위조 시인… 스위스 축구 대표팀 그라니트 자카 공식 사과 - FT스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOVGM5WVFFVEJKbndaQ2l6bC05REFwb2VpMGptblowQnVRQnpYQld2akxCNkk3Y1pSLUN1Ql9xb1MxOVNmZ1p6N2dmV3pISFd4UWhscGFjMVRiZzZoNW9aY0JKWjUtZw?oc=5"
+        },
+        {
+            "source": "Manchester City FC",
+            "title": "마레스카, 9월 프리미어리그 이달의 감독상 후보에 올라 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJVc1N2QzdTQW5LdGN4WW9XRzVlRzlnWEkzZHl1SkRaaE5jUnZjVDZfQmFjUlY2c3dsejJ4bFpNZ0cydEZmd1hzZnNFWnVrbi1KNUhXelRSaExvLUwwc0dGTGVpSzlJN1UzbkFYaEpHa0t2dmhrcVhMSXk0WFQ1RzNIRjVTdDFleVNwQjdKOWlEaTVNWVhPT2tfeFM4cXNZeTFIY1E3SW1XMXEwNUdEMGw0V3J5WXM?oc=5"
+        },
+        {
+            "source": "Manchester City FC",
+            "title": "세메뇨, 프리미어리그 이달의 선수 후보에 올라 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUxDeWNWMFlwXzlmWE1KRldXWUpVeGVLZFlWRVlIU3lvUUdhUU9obG1kd2RGeEVrSFh3ZHV4SUpiZVlibVdNN0kxc3NIbzlPNERMaGN6cmprT2lBbWk5UXoxSWFXcXNwbW1ibWxEUEkwZ1hMVGhZSUxGbW5ESUxaTU82cXV6enJNbC0xWjhnUWZhak9sU3FBSHM3dmhGZ1RVemxwbE9aRGZvTlVWY05Bbkc1MUJJSzNyM3c?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "맨체스터 유나이티드·리버풀에서 뛰었던 '원더 보이' 작심 비판…\"축구를 즐기지 못하는 것처럼 보인다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SZDYtTndac2FRUnZPcE9uV1ZrTkNHOWtjd1RNSlk0QW85UG9ZYmZtUnM4MDVDSU5rRDJGM0h0MmV6d2FUcHZjXzB1dExwQ1U?oc=5"
+            "title": "'17→17→20' 토트넘 진짜 어떡하나? 5경기밖에 안 치렀는데 슈퍼컴퓨터 '강등 예측'…우승 후보는 아스널·맨시티 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WV1ZkTXhNbEF4UG1JUENPRjVvU1VLYkpPb2RTU3l0RmJRYmlxd3RpWE15REhpSXpFQlBnRTlmQVB0ZFF3c0dueVdUcjdWdGM?oc=5"
         },
         {
             "source": "v.daum.net",
-            "title": "'17→17→20' 이러다 진짜 강등당하겠네!…리버풀에서 토트넘 온 레프트백 한숨 \"지난 시즌의 무게를 어깨에 짊어지고 있는지도 모른다\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XcENSemZCMEJCV1prSloxSDNWMVNQT2c5d0hFanBMb1dGdERBWnMxZklNRUptZFAxZ2ZHNkpEOE02ODRMbTZpdEdFdVEzc2c?oc=5"
+            "title": "\"정강이가 부러진 것 아니면 그냥 뛰어라\"…맨체스터 유나이티드 레전드들 셰슈코 부상 조롱 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KYlBLSTI2VVRoMWlJQzItdHQ2cVI5b2kwSXBtSUQ3amFTQ3d0SGxDakVya2R6SFZMYnE1c2x5TTMzU1dNbXU3RTlja3owZXc?oc=5"
         }
     ],
     "transfers": [
