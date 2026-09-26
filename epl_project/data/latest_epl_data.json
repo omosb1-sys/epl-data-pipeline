@@ -1,14 +1,14 @@
 {
-    "timestamp": "2026-09-25 22:54:09",
+    "timestamp": "2026-09-26 01:01:32",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Clubs seek legal advice over Man City charges compensation - BBC",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FSXgyMVQwRkhDX2k3dUUxZThsV2pQcEx6b054WmFfd2lHOFUxT1VFQ2t0VC1VV0h0eUhjS2VEZ005bklzQzhsRU5sckl2X0NsY19ib05vYUlHWWVSeFVWbU4telFpMFktRkZV?oc=5"
+            "source": "The Guardian",
+            "title": "Manchester City found guilty of breaking Premier League’s financial fair play rules - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2R2aG43RlZZSDlRa1FfWU84MmdBTmtkYzBnbzdaMlIyR2RHUWdVMEFGbG0xSWR4WjI1ZmVOUW5ubUlaWUdtbDFIeUVjZmxHN0d1QTFicUlMY1ViZkd5MnZHN3NYWGFjMzVxWjhKdzdLZDBCOU9fSDVjMTRUcUZTMlZrSDlDYTBxZFA3VEJhNDlRNm54WWRiRnVZLWc3azFZX0ZKaWpUaUxUNzY0UXJxZE9ZVDFmNk9kTVhrZGMyaW5tZXAzNWZSMThtSQ?oc=5"
         },
         {
             "source": "BBC",
@@ -16,9 +16,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpcklNM3J2WFM1MVU5N3dLUXM0TDk1LUdSUVJTLXctYjNKN0daZkd0RTZKTFFWeTR3VnFCYXNfV083c2lOMHdnZVB6QjFsTGhvVmRyeVBHdmQ5NC02?oc=5"
         },
         {
-            "source": "talkSPORT",
-            "title": "David Raya is not the Premier League’s best goalkeeper – summer signing is miles clear - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTNhMjlza0x2Y0VrOG45SHNTeFBUTnhNWGE4S1d6MENRTjhPSl9PSngzdjduUUd3a214eWExcDY5cWszbXp5eVdfckJkN19hVU5UWDEwcHZrdkg4SEZjODJxLWlrWkdEbGdLVnNOLTdvMmtzQk1kanV4WGZZNkRDQ2ZndHdtcFhTVzdaVHhDMFhDY3pmaDZ0VVpZQ2pXYWc?oc=5"
+            "source": "Football365",
+            "title": "Liverpool, Arsenal both want to sign same Premier League winger as talks begin - Football365",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaUloc1E2NkszNFR6Ym1yOW9KMEROTVpKRXNQLXBySzlLX0tqSE1MeW12eTQ1dTZKTzc5SFA1UlBkeVVYenlJM1dzMVkteTV5Z05SMEhyNk9mZkM2bjB1M3N2cEJWY3daY1lHaFQ0eUdsSmE0cHlqS0poY0ZsbnFNaHozekRTU1Mya211bEY5UlE3MXdL?oc=5"
         },
         {
             "source": "The Empire of The Kop",
@@ -46,8 +46,8 @@
             "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcndmTXo4UWxBdkZrVnlIQVhlY1dXeXhmR19EdWF4VXA1MUhRbHFOSTVfZ1prdFpFOURFRldmVzhnTjZqUzc1eGNsMkI0YXZkT0M0N3RIaklQSWUtMF9UNDVTaUlxYm5OZzlqZlY5T1B5TWhYVDgzZVZVdE5OSEhBeWRhSldKTjVucmJxYTN5VDBQQTZXMG5lM0UzeThPeHlwaFVlYmlWNlZaYVV2TkFFajNNQ1JKd2NraEJKQlJFNWN4WlBXeVhzQ2xLcWZLSzZvSzN5RGdQc09lT0lmZXFZ?oc=5"
         },
         {
-            "source": "Yahoo Sports",
-            "title": "Manchester City have now been found guilty on 114 of the 115 Premier League charges - Yahoo Sports",
+            "source": "sports.yahoo.com",
+            "title": "Manchester City have now been found guilty on 114 of the 115 Premier League charges - sports.yahoo.com",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZy1OUW9MT3J0OW1TTzZHSlZJVmpuUm94SjRXZm9zSDhpVGVWc3p0eHVpeDBKQWVPYTlHcEs3UFNKZjEzd1Q4TEY1ay1VZ3kwNmhMTjJ0TWNRZjJWWHRXazZ3MjVqVV9pYTU5eVoxODhZSXdRbDBkLTNmSFNYbTZSTnoxVE1ZZlBN?oc=5"
         },
         {
@@ -61,9 +61,19 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
         },
         {
-            "source": "스포탈코리아",
-            "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도 - 스포탈코리아",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOak5BWXBNc2hST1pORXpXWmdSYkRGWE01SGNTVWxyZENDcnBNUmpZZ2FUWVNVNkNZNFhFajhXM2V3R3pTTG9XRGl6LVNPRDgyaWljMnFfX01uZ0NSV29qSWhUNC1DbFQ5STdMMUd6VUVLM21xLUlWVldSek02RUJITTJ3?oc=5"
+            "source": "Sky Sports",
+            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGxETjVqU2RwQ2J1N2o5MHliQkNSM2lLejh6TGN1UjIyTnZ3R3YyZVlQM0NBZ3dVOXF0Wk5yWHpvRl9zcmpmU2plOXRZeEhULTJuZGo3TDg2ai1SaUZObl9Md2IzUWUzNVU4LXhRWEhoeHhRZDFYb0x5T2F5dGFqZlZRWEhGZE5NTjNLdEpUSFV6bFJFM3BaQnZYU3p5OEJsMTJHS0xNbGlwbzZWM3o5a2FlUEZ1ZEtjaUIzdWxUaEdzNlcyNGMtTGE3N0FnN1pCZnk2TjBoZ1dnQUxyWUhLb0VFYWF0VC1VMDJiZQ?oc=5"
+        },
+        {
+            "source": "뉴스핌",
+            "title": "[EPL] 맨시티 '재정 규정 114건 위반' 판단…제재 수위 주목 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fSjdsUnpncTdBRUxYUjliSE5BU081SVpIT2pIeV9uel8yOWVHcjVXVXA2d0VtcTBRWUZETUV2SXBaY253a3BYOFlpczc5RU11OHkzWTd1WDg1ZHZV?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "맨체스터 시티 초대형 위기! '115개 혐의 중 114개 유죄' 판정…승점 삭감 넘어 PL 퇴출 가능성까지 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0UjBvU2pha2FOOXp0aFNrbkhtTFl3M1lNQmw5VVZqUG0yNUtCOVp0ZVQ5Z0szZ3JpaGlieGR6UXdHNVh2UUJLTnZuS3NvZ3RkZDQtY3d3?oc=5"
         },
         {
             "source": "Manchester City FC",
@@ -71,9 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjBqRUFaZlNnNnN5YUlObE4wdzZBY1l6TjhEMmFsbXZEOVo2bGVtdEFqMTN3cXlsb1FYVlY0R0pVSW9MTm1pQTZWUENNS1RKemJhdktVV19FRWxrM2VtRnlCQUNRQ1lwSUFSZlFXbGFSUVNOT0hlNWEyOFRlbnpHTElweGo3b0stdGNqNWkzeVp4MzZXaEFNQXRDWUk1MW9pcC1VaWFaOGRuNTR5V2EzME5FVFhrWHpXcW1BNw?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "맨체스터 시티 초대형 위기! ‘115개 혐의 중 114개 유죄’ 판정…승점 삭감 넘어 PL 퇴출 가능성까지 - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YMnRXaW5kWUhQaG0tSVhYTkZvVjFUckQ1U1BXaVU4eXJuMmY1ZVRLbXZuTzYtQmpEaXl0VWZFZTBCaUFJTF9hM2lRR05KcWo2dzgwUmN0UGI2UWtwNURKYUg0d3pEdHktRmozdGEyRThGNTBJ?oc=5"
+            "source": "연합뉴스",
+            "title": "EPL 맨시티 재정규정 위반 혐의 거의 모두 유죄…제재 수위 촉각 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTjBYYVdKVmtmRGlYUElxRHpOb1Q1R2NOdzhPUk9kSl9VVHBCT3Z4V0FQSXpKb1RPc0JmY1RienVpaDlyN0Z6aWVSUzFqYkFvUm9Tc1JjaUNSMTTSAWBBVV95cUxOUV9VSkd4TE1SY3ZKaXZaNjVnbE5tTmdsbkhYQmU4MGdDVm5ObjdzOUtoN3I4TjFGWjRrd0hhV0l3a0oxVGZ3ODJvRjFJQks1VHNWZFNlYVpPSlRQNzNVdEM?oc=5"
         },
         {
             "source": "Manchester City FC",
@@ -81,24 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJVc1N2QzdTQW5LdGN4WW9XRzVlRzlnWEkzZHl1SkRaaE5jUnZjVDZfQmFjUlY2c3dsejJ4bFpNZ0cydEZmd1hzZnNFWnVrbi1KNUhXelRSaExvLUwwc0dGTGVpSzlJN1UzbkFYaEpHa0t2dmhrcVhMSXk0WFQ1RzNIRjVTdDFleVNwQjdKOWlEaTVNWVhPT2tfeFM4cXNZeTFIY1E3SW1XMXEwNUdEMGw0V3J5WXM?oc=5"
         },
         {
-            "source": "Manchester City FC",
-            "title": "세메뇨, 프리미어리그 이달의 선수 후보에 올라 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUxDeWNWMFlwXzlmWE1KRldXWUpVeGVLZFlWRVlIU3lvUUdhUU9obG1kd2RGeEVrSFh3ZHV4SUpiZVlibVdNN0kxc3NIbzlPNERMaGN6cmprT2lBbWk5UXoxSWFXcXNwbW1ibWxEUEkwZ1hMVGhZSUxGbW5ESUxaTU82cXV6enJNbC0xWjhnUWZhak9sU3FBSHM3dmhGZ1RVemxwbE9aRGZvTlVWY05Bbkc1MUJJSzNyM3c?oc=5"
+            "source": "스포츠경향",
+            "title": "유럽 4대 리그 뭉쳤다…EPL·라리가 등 “FIFA 근본 개혁 필요” - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41R3FPZWQ5bGE1WHBhX2RHVFdkLWNvcGpuVDhTZXp4NkpPUDVXaWE5elV6VDZ6bjZZcDVZa0lQXzlXTmFWclg5OHNNOVVDYkNsa1U2UlEwSXBla2tTdEHSAWNBVV95cUxQd0puV042TG1LcDM3VncxWTNISi1xZEZFalVwMERzdkpoRFRrbTZrU3lmOW5mN3lPWWFJQl81YmJpdC04akQtZHdfWElDaGNsRDVnU3VHNk50NmJwUUIzSGc1YUk?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "사라진 캐릭 매직…맨체스터 유나이티드 레전드 소신 발언 \"선수단이 조금 약해\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RbGd6RGNiMzBYRXhoMWFmZHBuaDRESVJOQTdMa0ZsQzdXUDJtTzlrSlRROWFpalRfRllZRHU2UkhoMEFCZjY5dDVBN05JcWs?oc=5"
+            "source": "조선일보",
+            "title": "우승 박탈 '미친 소리'→'무죄' 믿는다! 유죄 판결에 英 찾은 떠난 로드리 대폭발…사법 제도 신뢰, 맨시티 출신 첫 소신 발언 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnlsUUFiZklPWkUxSm54a19aN0JkeVc3aEtUTkN1Wkh4OElRa01XMlNGS0dpLWRydlFDcnVySVlRQ2xSSnI2dmszVVMzY2tiXzNyVUgzQy02WnZhNDQ2ZU1PMUNOVEVpS3JmbFN2OUpzcnFqN1BjaXVIQ2ktaW1JdmxuUDQxUUIzeUNr?oc=5"
         },
         {
-            "source": "v.daum.net",
-            "title": "아스날 '역대급 파격' 결단! 'HERE WE GO+BBC' 컨펌, '22년 만의 EPL 우승' 제2의 벵거와 장기 재계약 합의...'연봉 인상' 포함 - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01NklCUmxkSExyalZJb21aU3BMXzZfdVRYOXl5OVc0ZUxnWnFNV0Y3WWotNUEtOTR5S1RYYUhaN1pGVmNkNVItRUk3bnVuUjA?oc=5"
-        },
-        {
-            "source": "v.daum.net",
-            "title": "손흥민도 없고 EPL에선 꼴찌… '돈이 증발 중인' 토트넘의 자금 위기, 한국 스폰서 줄줄이 이탈하고 AIA도 발 뺀다? - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcjNDV3FHRTZqLWFWMFROQk51a0p4SWVxS1VNdW9FYk9odXZQZmxoNkpTSnNtYy1LUTN3YjFvNkl2NHBjQjZ4ek1ab0hOUEk?oc=5"
+            "source": "xportsnews.com",
+            "title": "\"115건 중 114건 유죄, 승점 삭감부터 강등·리그 퇴출도 가능\"…맨시티 초강력 징계 시나리오 떴다! 과거 우승 기록까지 사라지나 - xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PYzJ3ZkgyeVB6OUQwa3JUV3RJWDVRVU5EcGR0X1hwWkdQVE93LWs2WGtUU192UnlFUEowTVdjcTg5ZHQyRFBvZVhQQzJ3SHh0S0NaUg?oc=5"
         }
     ],
     "transfers": [
@@ -111,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-09-25",
+            "date": "2026-09-26",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
