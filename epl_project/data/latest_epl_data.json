@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-09-27 18:43:53",
+    "timestamp": "2026-09-27 21:42:51",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "Manchester City charges: What punishment could club face after Premier League verdict and will they appeal? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2T2d5VVVPaVVsb0hjTjRMUVlvZGUzSVVjY3o5NWZuR2NYenUyOVY3aE1GWUM0Ykh4dkZuY1gzZ0h4emQ4QWVHWjlPU09hWDhmcmlSbnNXcm1KejJEVmp1V3pVcEpnRW5F?oc=5"
+        },
+        {
+            "source": "The Pink Un",
+            "title": "City wait as EFL and Premier League thrash out ‘New Deal’ - The Pink Un",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1I5aktWdC1hQjgtbUNkR1lKMlE2Q1dRbDRfcjYzN3Q5dHJrX3p3UWhxUU5kdzhSZ2NOcmdyZ2pOQUoycFc2d0JfRGFCNHluYU96VmJMVlBiSHRBVmhZU01DWkNqdk0tVnVhYlpHLXlPNENhd0NHWVEzNzc2NlpkNTlKbnF6UXhtOTBxOE1DVzk2eVlvbktOQnpnd0szODdM?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "All 20 Premier League clubs' badges explained - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXgxR0tCbHBzbUcwbXR6bFQ1V0xLWUN2dS1Zc011Nkw3U0VEcW94T2RNaTAwcUI3cHhJZTUwY3Rtbjh4YXVXeEkzS2NPWHJkTW5fMW51a0dWbWZZNm11RzktbWdIS0QzaVhMallCZUo0anRMTFU0NzZoOWJOcW1fbWllbDBOdVlsbHhLd2tCcGlxblBX?oc=5"
+        },
+        {
+            "source": "The Empire of The Kop",
+            "title": "Manchester United set to officially confirm rare Liverpool transfer blow - The Empire of The Kop",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUhVWU9SU3lzV1VldTYtaVBnMHlQQ3Nvazh3SkhBZ1dMajlvbjkyXzZqV0VncDFLaDE0azU1bFdqNHpNdU5uWFd1U1NiMkxXbmhhbDBmeTdyOGtLLUZ5TTZfVmI0dkFUYkZLVE9QbDlBOE5aMDBNbnhpSVFqVGhhLWE1dHJzeDE1bnNieWtTd0NVYzA3a3hBT1pxSm1QMXV3YUVPeFNaRFBTUWs1ZVdMa056Mk5lQdIBuwFBVV95cUxQU0YwVXlXYUVCVUtJekpXVFREUHZ3Tm5tNWVEQWdfc0lWWVNPbVlEQ1haX3J4NHZ2R3JKZDlTbXY2UWloV3I0QmlrMmp4SHdvTHZuNHlyQ1hBMTlfeHdBZHp3b25ZNlR4M3NIRlNJR1VjV3dFRnNUZXFHVE5MZzNpZFBZZC1zTVhqbDVyRjlORWNkRWpqRjNlMzR2ZmJXRWd5M294bVRmMHM4TXdmRDZBZURWWXgtMnhaN2NB?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man Utd: Signing fully agreed, but Fabrizio Romano explains why it's 'not official yet' - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVNOb1BfWURuMjdYQlZRTDVidWJ3czVPRHN2NlJrQlVDWkxfcmdYUDIzYjUwYkR1VjFxdmlPUUtfNk5YaFJyOFFrMmZRUEFUY042aTJMdDBLekhpQ2RaalZtSHo5TDZNM242dzRYQUczMHZ3Rm1lNWZ3eDBObXd0ZGhwVzZLRmllWk9GTjVTZ2VJT2dJQVFneG9hRnhULXptN3d4di10SkllWWM?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Fabrizio Romano confirms Arsenal out-of-window signing of attacking gem – it’s a ‘big opportunity’ - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjNsNzdTYTEwMnBETjFoLWFnV084aGUtRXRueHZVR0VBdExxSkNRTVZZQWE3MGJOSUk3X3RnVGNXTjRteUZtQUNka3NvZjFwanpNZndKaXlSSGR3MTByM1ZxcjVtYnR3MVkwcDhLWjJpWHRzR2xRVmlWbUtkY3B5SFhaVnJHUzJ1d3ktUktycS02REt0QlItdzBwZlhieFNjcFBoLWM5SGZxTmpLTTVfNjRSaWtteWhneXduMmo4U3RUTTNvZ2NfN0VNMGxLR2plcEFnTm1BeVU3TUVvaThrRG03LWVsd29oRUM3RWpKVVh2SG8?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Manchester City “found guilty on virtually all” of 115 charges, reports David Ornstein - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcndmTXo4UWxBdkZrVnlIQVhlY1dXeXhmR19EdWF4VXA1MUhRbHFOSTVfZ1prdFpFOURFRldmVzhnTjZqUzc1eGNsMkI0YXZkT0M0N3RIaklQSWUtMF9UNDVTaUlxYm5OZzlqZlY5T1B5TWhYVDgzZVZVdE5OSEhBeWRhSldKTjVucmJxYTN5VDBQQTZXMG5lM0UzeThPeHlwaFVlYmlWNlZaYVV2TkFFajNNQ1JKd2NraEJKQlJFNWN4WlBXeVhzQ2xLcWZLSzZvSzN5RGdQc09lT0lmZXFZ?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Man City FFP: Ornstein reveals bombshell verdict with next steps - 'guilty on almost all charges' - Football365",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0NLeXFIRFlQejF4aEYyMERrSnY4eWJpU09GTk1HTk1vM3Mwb0FNbVVldVZNSzdOUFJQaW5kVUxrQkxxUVMzNUN4ZldlVjcxeDRRSndiQXp0bmF5RmF4TmUtVk1PMG5GTU9GRXVMaXZVMjhDQTJRdUZMOWFFWlVIYjF1R1ptM21sVHprWXQxZFpHTnFSbVp5WG9qVGcwRjVQdWwtQkJ0aTNLa1pNR0hKMg?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in October and November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "`EPL 강등권 경쟁 지난 시즌보다 엉망`…`손흥민 절친 방치` 토트넘 감독, 리그 꼴찌 미스터리 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rLWp2WWY1S25RcUxXdVIyUGlxNG0yMUdBYWFrZ21tWExHX3dBME1rX2FBXzVnUHJfZ2tGaWJxaFN2bk1qT2dTMnBzMThiUTQ3UE5PSWFNSE1xX3B5YWgtLUx0eU5zdw?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "한국에 토트넘 팬은 없다… 손흥민 팬이 있을 뿐 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUptUjJ6dXRORzZxNG5sMm1vaTVWSllMa1RQcF9ieEtZLUlqc0xRZVV0TTM0alhwNGJSc0tVNk5GNVFJV1dLRzdZYXBvU1N4T3llZDNjY1AyY3k3QmRWZXJnMXFxVk5BQjdCc2ZWSkpROTZTdUxZMl9QZjhPTVBJRnN1dmFHeHdUY28w?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "“무리뉴는 뭔가 알고 있었나” 결국 맨유에 EPL 우승 안겨…“2018년 맨유 리그 우승” 전격 추가, 맨시티 유죄→타이틀 박탈된다면 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tYmZiNmRmVUFYZ3VfZGpiYlZ6WTFNNHh0QUhVbU9aak4xUnNIbGlCcVZ6a3lLZG1YTmktdFlHUXNaV3J3Vjc4VjJzejZIY25XMVBtd0VsUzlqNzJtMGxVaXBrS1RHdUoxQ21WeXZuZmI?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "EPL 명문 맨시티, ‘돈 장난’ 반칙에 우승 박탈·2부 강등 등 고강도 제재 위기 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTZvdThIUDZROGg2YUJGcjRfemhyVDZiSEQ1UFRnQThxNTBrRVlPT3VnZlAtT21FbXlnVzkyWUhvb1E0WmNfR2trSUFkSnFvTm1hTmZVUzFGcDNNTVVrM3BZMGZ3SE1RcnZxbU80Q1RhWk55eVJtRmVKdFFORXEtMWE5Q3JTSXNHb2NB?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "강등돼도 못 나간다! 홀란 충격 계약 조건 공개...맨시티와 2034년까지 묶였다→\"강등 시 방출 조항 無\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwb2RaWEhmNnR0a2wtN0Y2SDNwUTMxMXN4aHZ4cVA2VnV3OVNIbWdsWmFOYjJzTzlJR0k0Tnh1QzhIakRLNW1QNkdFc05Sem03YmkzdlFqb3hndFRRX1lHdEJmOUx6U01GRE0tZjhGZ19vdWxUbWc?oc=5"
+        },
+        {
+            "source": "스포탈코리아",
+            "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도 - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOak5BWXBNc2hST1pORXpXWmdSYkRGWE01SGNTVWxyZENDcnBNUmpZZ2FUWVNVNkNZNFhFajhXM2V3R3pTTG9XRGl6LVNPRDgyaWljMnFfX01uZ0NSV29qSWhUNC1DbFQ5STdMMUd6VUVLM21xLUlWVldSek02RUJITTJ3?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "'韓 축구 희소식' 오현규, 내년 겨울 마침내 빅 리그 입성하나…토트넘 이적설 급부상→\"데 제르비 감독에게 필요한 유형\" - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMipAtBVV95cUxPeUF6aW1VLWNOZ2kyYnpVNlhiQTI0ajZqTWVvQ2N4NG5lZzM1aDBGVkFIenpTcDhVdWlMRWZTSEFRSEhfbkNSdUhFTEJZYzVZMk9rRDlXcFd6M1lneHZPOFU1WXNickNuQ196eFViYVEzcjhlVkxLc2E4RndzN21OVHM5eEhLWUVPaFlDWXVONm5CUVZvUHlHdjZhMnh1eHZtZ0NDVTh4LXMyTWd5Z0dzakktNVF3VTlsTGNGUnhlLUZXeWZ1U1AxODhOdFJvcHZzdnBCLUJfUXRnamtWQ2NXTHVIV1RyQ056bFZ4cGhsQWF4T2xxMnAzc193VmVNYldaOGF4Y3JubjZZNGZJMWlMMTlYR1lpUXJwWWo3R1JYejRuWXhfZXF0ZWxqZzh2alhtZVJvd2h1LUtXSVNZelZLQ0ZzTkdqR1E5cUZSR1Q2bk9sR1hnbGN5RXlxX2RMa3F0czNyUmg3azBvdU9jZmR6UmJVcmFpYk02R0Z4UzNnc2NiZU9oUFVmVkdybkp3c0lIY0E1MkJpLXpPVGt3VUREMG1IMVIwcW9tM1dPNVlrRWl6TjFGaUNiN1RjczRkVmx2OUd6SVpieUVicFhkRDBzNHRMRENJcHE2VE9mYm9lQXZTemN0VldZRE1UUTg4dF84LVdWRkhkVEdiWmVkNEtmMVplMlhGWC0wQkY4cm1FczB2a0R2cGVrT00yMFU4Zl9zWWp2WUNtTUk4QUQ5VzRzcEpqZU1zOElaUzhfMVFqVEdqa3d5OHVaYmJBeFJCTklRZXhENVVhdFlLeFI2R2Y2MWY1ZERRSVBWX0xQbTZyYWJhaTVDTHJnYWJ3REp6VExoZ1JNc25mRnlCM04zYVFMWnhjdHBNN0stRWtvcjd3NldzVUUyNnBRUlAyYU1ydlFKUGdWZlVfbEhvYk9FQ19oWVc5U0hpMVdNN3VWR3M5NmNXTWxTeWlrdFVVY1k5VUxVZG1oMWxPZnhrUGZ2N19qYld2OVJ5bS05VjBBb0thYUpGQjd1cndqNTFhdlhVdWQ2TXlXNGtodGdqNzRmbTM3ZmZRNlRCMFlvRnFNeWxTUzZHdGloaEtVbWRnLXZRM2l5Y01BQ0k1MW5TelM5MlktNWh1UUF0XzgtU291d3E1YlhvVTZkWV84cFNZZHkyM3dreEdySzNPdGhvcFdKS280dkJ0U2NJSVVpZ1NMVjNkWEdHd3lKS2hNLUZiTEI5X3owaGpmczdvWG5wbEtBTTlMZzZDNF9sYlFqOF9MNE9BT04xSUY1LW0yR2NDOUV1WHB5M2swLXZORDkxMzI1SXU5YWtQalhDZE8xQS1xNFRJdHBkZjRxOGNsRnZsY21abFJQYnFqcU1MS1FjOHc1Wk5hVTFHVzlNUlRYM2Y0T2xxcTZCNG56Xzlldk96MmwtLWZZSU4xTzdTSGJiSTFnRWEzekxuaTktNDFVNEJXMWRaU3VMUW1IaVdPYjZyd3JqWkg4UzNkU20wSGJDampBRXlsS24wLXBYY24yMXVSX0pZRDZyT2JlQkpURklYVUtXb3FsMVJCc1B0TTNxUjFUS1pxVGMwVW1TXy12MzBHdjlsM292N2ZWbGE0SnJvT0Z1LUpEenk3T28zVlZFOU43NElCZ1JHd010UnpUeGFNZFE5MzZ6N3hORlNKcndpMko5VkJIaWZ0am1QbXcyVHUwT29SUzhac2JmMWhDWDVOaUYzODlWcFhxTDFQcXpDWkNLaENXdHQ3ZkdlMDYzRGw0QWNrUkhUNTNNeUNhUm5OTkVDNG9Icm5GTVk0WWpINWNoWVlCLTBYN3g0Z2N6V3BOeDJieXpYY2pkZGIzNkhwWmZmd2RjZzBUbjhfT1JjNXJjbnZOeF81NUd6RU5lQlliRVE4R1hwcjB1V1ZSMzU1cnp3UkZaaVlO?oc=5"
+        },
+        {
+            "source": "sportschosun.com",
+            "title": "김칫국 마시지마, '박지성 EPL 우승컵 추가 없을 듯→'EPL 규정에 '우승 박탈' 없어'…BBC \"승점 삭감+EPL 퇴출 가능성이 더 높아\" - sportschosun.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RNy1QX2pGNzhEZnZ0SmJVeDkwX0N5dGVLVk5IWkZmZ1MtNC1pa000UTdQZW5zTzFsQzAtR3pGdVpwSVpOSHo4ZmM1b21WUzFEUDRuT0VFTXlPcE1XY0x4dnphSlMxWnpaZG9fcmJLNlpHSHhBa1VQejdyby1sdw?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-09-27",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
