@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-02 14:14:34",
+    "timestamp": "2026-10-02 19:37:13",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky News",
+            "title": "Man City latest: City lodge appeal in 'sham contracts' case - as No 10 says nobody 'above the rules' - Sky News",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPci1lT0E5SkNTZDVkTDQxY0JqM3pXSGpwRG5YMm41UDJNekpSaW9jV25hN05FUk0tdDdqUm1Nd3g1ejNmYWo2a3U3T0Vjc2NnQnVJRENsTmJVclZfWTN6eDJ1S0JpVkJWSjgtMHZtZnNPbjVoZGZjWG4zSGMya2lBREFQdnUwNXFrcGl6VGc4X2tLcHBMV3MwQjgzYnlPSDZzSGdfa25ZNktVSXkwaE41aEV2N01CS3ZXR3VOLVk3U3hhTTNRWjdHR2xPdTV0S1lhOEJFMmNrNmItT2VMcVE?oc=5"
+        },
+        {
             "source": "Sky Sports",
             "title": "Man City lodge appeal: Premier League club contest guilty verdict of independent commission - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTVQ4M29wSjRqZThYaWMxTV9VWmRzd2VjWXNZZkliNWdUZGpJNHFCMk55U2NIZTRyUl90LWpjTHpPS1FlRDEwMVFVUm8zX2xIUmhKSXdUMzFpVWJTaXVKM0llVGFkUjU1STdnWloxTGJHekwwX1ktQ0NQYkxEd0hya2JxZXhuQXVvcGl4QmFzU205ajI0Y2pYYjAxUWhILUlFa1pYYzNNRHk4cVJRemZVd0FYaWdBN1B6M3VQWXo1N3NmZmN3TUc4eXpLcHZxOW1lakkxenV3?oc=5"
         },
         {
-            "source": "The Empire of The Kop",
-            "title": "Florian Wirtz told Liverpool what he needs to be a Premier League success story - The Empire of The Kop",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnJGMzVPZ1liZWVueHIxQWUzOWIwTFRCd2tiNmNTWGx0S190dklMdkx0V3JLd252MEQzRk16RDFPUnIySnlqcTVnQzNlRUtNRVpIWUFQdzdwcjgyMUlKZWtvRTdBaXMzeTBLQ0xGbUt5ejcxRFk5UXFUdUVlanVzTlN2blhvdnVCTC1vTHZwb1N4c2dzNDdBUFI3TlVXVkhyTUNPV21ORzN3VjhrV2JCY0tYTndWdFhrTEVHWXNlMNIBxAFBVV95cUxNR2k4V3hvamNZeVNXa2tuNWhuUGV5RGlxaE0zZFBLMnk3dzZwOTFvT0tsdlY4UWo0eGhPY2lkNFpMRVNubDVsYkE2YklOU3V5UDZqd284aHkybl8xLXBReEkzZFVUeGxCeG1ZcmFNWFBFNVc5TlpsME8xXzRwNzRJXzEtZVB5bWFyblVKenAtcS1hWWVMT2x1Y1p3SDJnVEF5MnBWajh5Nk9saVRtd2pEby15M3Q1UmdIaVBqVm9EU1g1Vi1a?oc=5"
-        },
-        {
-            "source": "Manchester City FC",
-            "title": "Manchester City lodge appeal - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95REctb1pXMTVhbVhHUjNreXZGSG0ybTQzME9UVDVqQjBmYm1KZjVUdHhrWWx4MEQ2b2NmbS1meEhPcDlvUVJUTEh5NzVzNDdNVkxGRGdFVDBXSnFIUEFHOTRXZTU4UEhsVUQwWEdaZm1BSGQ0cENNVGg5dw?oc=5"
+            "source": "Chelsea official site",
+            "title": "Reggie Watson wins Premier League 2 Player of the Month | News | Official Site - Chelsea official site",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeVdZbXBJcUtHUWR4NGx4VlB1OFFhYmRpcURldmpnT1JWQ3RzQ3ZXMHVuMHdkbXdkZ3dEc29QQ0VXb2hvRk5jWkFEQnVUVUM5SFpwSTdoZzFTRlVRRFk4UGNtS2FKVVBSME92VTMwU0Jqdjk2aTFTTHVqVlpfbmRJMXF4VVFWY3FnbmJqUDc3YjUzNGNQcmc3b21Beno2UQ?oc=5"
         },
         {
             "source": "Football365",
@@ -36,19 +36,19 @@
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzF0dkU4VU45SmdXeF9XMS03Y0tBTEUyTG84SEE2S2Z4UzJ0R2RTbk96VUF5T242Y2JOb2htQ1JxU2RtellmM1RFLVBLek83Wm1DTG1kaVR6Ulg4NjYzM3JVc3NoVW9ZREd6SGtwTkszTHNsXzBER3BhWUZuNW4yYUpmQnJtQkxBN2E0UWJLeEo1bWc3VTBGVjZacnloZGt3S0JBVndtTEk2NzJFdlR1TTNiclZXLTQ?oc=5"
         },
         {
-            "source": "esteemedkompany.com",
-            "title": "There is only one sensible option to currently take in regards to the 115 saga surrounding Manchester City - esteemedkompany.com",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRERpUXo1NDQwZEZXWVNjZ3h0ZWcyM05vc3BUV1FZbU9acDhCY3VENW9Tb25vQk96dWtXZWtBZjdFZjNGV2U5Q25MLUNoZ0Zlc0YxS0I4alpMU1liNHZCLXIzYU94RlN2eVQwbWNFbnRWUEVaT1NfLS1pYldxeVlFazNQVGNwV1lrSjEtaGVLMy1NczZlOVR2dEJZb0hWV0xkbUs3MFloZTZ5cVZ1dEctWF8wbDVHMkxGV2tObnBrc3dHcThMQUxCaWVDcXVGY3RVcW5aVVlQWUtaeGxtdTFn0gHkAUFVX3lxTFBZU3NzTHQ0VklVcmN0UjBxaXd0XzNXQWE5WFRlazJtRHZUMF9lQU9lY2VOZG42QUNnYS1oQW1kSzJ6UEgzNFlSeTA5c0hVWG1QV1BrV3duT0N0a1E4aXlBTW5fWlQ2bjFPOXU3MEhZNDJ0MlYwNm9kZnM5X1RzRnFid3piNGs2UUNzcjJmREludVBwc0ptRDM3WjlRTzcweUN2Y3o4VUVwa1RhU1JBQU9TRkRJbkdKenU0bGFXcjZ2RnJhUWFMazF5ajZJQm0wRE9nTXBYYmdFbDJtLXVQaVl2dl84bQ?oc=5"
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDR2SGNEbi03Zld0TV9iblhQWFlxdGRBNzlzQ2VqNHpQWVZmOXBCNmpiNGdvVmpvLTlqVWxRQzNKVXE3cVJfWldGUFowcUotR21iWExYTFB5c2RkNjJ1SnBqMzlyM1BPOFdmeThQN3R4dzJtQVBWWDg5WW1keDBSSE5UalU2RXFZOXF3VGlWdkU?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5"
+            "source": "LiveScore",
+            "title": "Man City FFP: David Ornstein tells Carragher whether Sheikh Mansour could be got rid of now - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc1I3akNpcEF3UXgzV1duWWVuRVRSWi12NDQ2bUFMRTNTd0ptbkd6UWxCZHQtVkoxaGhOUmlRSnQtaXlKNFdacy15UW9aZXdwN1dCQUJkTmV1NEMzWXlneVJmWEdXRWtSWk5qcnJ4Ti1CbXQ2ekJ5TjRzQUpjZV9oQ1MzUDM4NXR1MF9Ddnd5NGt2S2NkQVNqXzhIcDIyejJULWJiYWs0Zmt3NF80RmI1OXh5SFE3SGpzMWc0dW9KNUVDamZxSjhxMzRyY2VYUDJJd291Z1ZFOXlNTFdQMVJWbjJjcW1FUkFSRmZKYXMydGc5UEU?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5"
+            "source": "Yahoo Sports",
+            "title": "There is only one sensible option to currently take in regards to the 115 saga surrounding Manchester City - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlRiUTZ5dTRSY0hlRTk5TmxLNjFVcloyWUwzTFpTY2pITXp3LV9QMTN0Z2ZNSnNiTDZSUmZpRGM1UnB4SERqT0Z5UWdMZUtwaTJUYjNnMFh1YWpjZjVTTU1NdVBLYXBmVDJzVFhyeFhva2RVM3B2UDI4d3pVSlBFMm05ck9lRHZGSzV3?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,24 +61,9 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
         },
         {
-            "source": "데일리안",
-            "title": "‘맨시티 퇴출 위기’ 만수르 직접 나설 경우 외교 분쟁까지 - 데일리안",
-            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcHhJQl8zbzAtLThWTk5mWTUyR2NmSVIzbzA5aTIwZVAzeXVFNG9jYzNlS2tneDBUbHJPRW5ZcFVxWGlDcTF1SW5nd2RNTE9ybjNVVUk4LXBtMk5QbEZBeFlzblVvMHNzeWs2cWRYUVFOb2JIRW9mZFBNcVZrb0RqbWViVml0SXFzakNVMmRFSjI4bjRjTllZZFNMMWw5Wk5fNndUa3NfTzI5c1hOcHVqQ2dnMjV1U0Uyc1hKOEpRQTNIczNFU3BBcTdDTFhKQmpZM2lrUHU1am9sekhXbkdBUnJZWWduS051TVZPdzExLUhwR3NTTzFiQnE2bVFiLVFMQTFPVWJsc3BJMGt0SGlfQVhoMkttcmpH?oc=5"
-        },
-        {
             "source": "v.daum.net",
             "title": "'韓 국가대표 공격수' 오현규, '캡틴' 손흥민 덕분에 프리미어리그 입성하나…\"토트넘, 겨울 이적시장서 OH 영입 타깃 낙점\" - v.daum.net",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6azdkbm5kdTItLXNfSEdkOU9valpTRXByQjhpRjZkU25iTzMyTmRLc2hIcmZNZm1uVC1ZeWoxTTY4MjJNNlE?oc=5"
-        },
-        {
-            "source": "Goal.com",
-            "title": "\"내년 겨울 영입 검토\" 오현규, 韓 21호 프리미어리거 되나…'골 가뭄' 토트넘이 관심→\"매력적이고 잠재력 풍부하다\" - Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMiuApBVV95cUxOcXp5QUs3MGJ2SWhlNnA3UENocDl2Vk9ZWS00R2g0T0t1QmxEd0FtY2kwR25SdGZBZC1HbElSOXVlWldvNGtLMUpmQ1ZCU2JyRXhmMEhkZGRrVUM4Y1BTUGRvdmdORWh0R2NWc0tpYTA2UFJsXzJTbE1LdHVZNjFLYWNkNXZUbU9lYXZTdUFvcFkyRzdtalRVYzFkZWl3SzZFVnNYbmhTVGxQT2RTTUQwZkpyaW1uZEcxa0tuYjVJOXdOdHF0Y1kySkpUVlhnYlNXMkg4eURaYXZHN2FwZzVHZFFQNE5aNWxLVDhmOVVZUUxDNDNubXdZdXdNRllfM3J1VHVBWVJKZlU4cERrc0tJZm5YVVJUV19rRlVVOWg3R3lKUUtqMk5QS3o1ZzRUQVU5ZGFweGhSWjJBc0NYYjhXVkhzTlJPRjJ6aEVicXVxY1ZORHhqNWM0Y2lxam04eVhMd3hHNVBKY2ZSWlhVaE5vc1EyVTExRGhGUUcwclI2SGk5ZDFtY3ZzcVZKclVMUEJrNnItVVZXSnlBa2U0c3J3T3lhYlRJbGdiSlNwT3FfeWlGaTRma1FOV3J3Mzlla1lrRnAwM1l5X0RjV3JrZ3p1c0Z0UlZPLVYxcnFDZXVoelIxQmFjZU9rcFZFaDRoN3A5TjBGYlZFaDNNdkhkZ1pJSUlPUGxWNXFGdEpjYXFiMERqZkVOS000NTRqVk1rNTg5ZnRBNkdnQTNFdVhRUzFzQ0FFVXRhQmtuY3Q2ZVFDSFE1Qlg1TXhHNmZ5d0ZPYXk5WldldndZcEVkTVhIRmxHVFluSWxwLXJoM3U5ZXFQTGJCVFdDQlJDZmdtV0dsS1QyS2FjRG9iTkllaWQwMmt6cW1KSWlqMGZRc011TVhteG9NRTRTM0RuWHg0aGlFMm9Mb05DeHRBQkFRbEk4SklQY2ZHWFg2WGFxOG90OGliaktSOVlhVVNqckVEeVBBaWxzUFBXR1NRSXBQU1dpTXdlN2NDbTN6Z3VnWmxVZkg4WE9WTnNWQUlkb0ZKMXZtMWs4QnUxUThDSmxYZ1JqcU8wQ3lrdjFOX1lTRU96X2kyLV9IZUdMWll0ZXhTUm50cGVQcWgxelJTeE16Zi1LZ0JZMkhvYkNwZGVfVGJUdkxUTWNtZ2RNOFJFTnRKSEI4SzM4R1pGUk1DUnZLUU1YR0dyb3J4WUxfQTRIcFlhVzkxd2hITmpwcGJpOFJqUmZWZHJFbE9RQ3lKR0N2bm8tN0hremYyeXNvLTgyVS03ZE1EREF5amFRbk1BTDkzVDlzM05wOEhIV1pxcG1uVHFyNmx1QURFdnhTd3ZxUGRwSFNLcENRUkRJSm5fcDAzOEtLX2hfTW9VWkpwaWRfa3h1d0huVDBaN3hrM1dmaS03T1lhMFhGcEtqOHQtcmE2U2lreF9SMlVyV0tuWjhhZkF2dWdpbDI3U2JLbFdVc3N6aGY3OVNkbTdfTS1EcFNRbmVYMmNNZzh6TGdXRTgyaVh5a0J2UTZ5NElRaWc0SjRfaFk1cWx0WWFtWjIxS2xpQ1NnM0dzeDd4RTVBV3c5RHRHVDBBX09sOW1Hbmw1bFkxSG5hYWFLdDN5TDNaYVFLTVZYMTNMMm9YdlYzRVJrZklTNllDZGpWUVdlVHJGbkRyUWN5VmlFQ0Y5Zk96b3phZzJBeHRGU2Z6TmVjQ2Q1WlhOa1ZIRVhVWGpzRnVWLTQ4ZEJ1VnlFOG1QRU1QNmQtcUhrUDZFOFlEYjk1Z3JObF9kWkh6OHE4b3BBOUNN?oc=5"
-        },
-        {
-            "source": "sports.khan.co.kr",
-            "title": "‘韓 축구 또 만세!’ 손흥민, 반박할 수 없는 ‘역사상 가장 위대한 영입’ 선정 “PL 출범 이래 토트넘이 품... - sports.khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZkl1RDBUb2RYNlhCS2ZxV0pUczRUSDdaOWgxX3RwMndzNTV2YWp0UE9oNTdXay1NTHpla3NtVFpJbTlkVVN1XzVRRlRVdFlrQVZDUG1xNzJVbDMwaGfSAWNBVV95cUxONlBFb25oMzJjdlJ1aHhpbnJ2dk9zLWhXLW55cE8wdGRyNzMtUVp3dkJTRXdIbWE0dzZWMmhfXzczbFc4cVlQVmpua2ZnOUEwR3d4U0k0R1dJT0V1dFhfa01kazg?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oVDNiUE5tQURhVEUyTV91MzJvNE5vTVluMXU3U3R1XzV2UlpZekpMVFgtWnpPS29yOG5aaXFUOVZpMF90UDNTZEJlX3NYMk0?oc=5"
         },
         {
             "source": "Your Field",
@@ -86,19 +71,34 @@
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT1RESU5Ubl9JTGRqRjhJWWdCUkd1OTIxMUtQT3VJLW4xcWtPX3diTFIzYm1LUXlNM25rRjJWME1zaURhRVlrbk1aTXhlUkkwSFdVLUt0T1NmYzN2YjlrYnZrS19IWnpXMmRuU2htQVNydDJtVWc?oc=5"
         },
         {
+            "source": "goal.com",
+            "title": "\"내년 겨울 영입 검토\" 오현규, 韓 21호 프리미어리거 되나…'골 가뭄' 토트넘이 관심→\"매력적이고 잠재력 풍부하다\" - goal.com",
+            "url": "https://news.google.com/rss/articles/CBMiuApBVV95cUxOcXp5QUs3MGJ2SWhlNnA3UENocDl2Vk9ZWS00R2g0T0t1QmxEd0FtY2kwR25SdGZBZC1HbElSOXVlWldvNGtLMUpmQ1ZCU2JyRXhmMEhkZGRrVUM4Y1BTUGRvdmdORWh0R2NWc0tpYTA2UFJsXzJTbE1LdHVZNjFLYWNkNXZUbU9lYXZTdUFvcFkyRzdtalRVYzFkZWl3SzZFVnNYbmhTVGxQT2RTTUQwZkpyaW1uZEcxa0tuYjVJOXdOdHF0Y1kySkpUVlhnYlNXMkg4eURaYXZHN2FwZzVHZFFQNE5aNWxLVDhmOVVZUUxDNDNubXdZdXdNRllfM3J1VHVBWVJKZlU4cERrc0tJZm5YVVJUV19rRlVVOWg3R3lKUUtqMk5QS3o1ZzRUQVU5ZGFweGhSWjJBc0NYYjhXVkhzTlJPRjJ6aEVicXVxY1ZORHhqNWM0Y2lxam04eVhMd3hHNVBKY2ZSWlhVaE5vc1EyVTExRGhGUUcwclI2SGk5ZDFtY3ZzcVZKclVMUEJrNnItVVZXSnlBa2U0c3J3T3lhYlRJbGdiSlNwT3FfeWlGaTRma1FOV3J3Mzlla1lrRnAwM1l5X0RjV3JrZ3p1c0Z0UlZPLVYxcnFDZXVoelIxQmFjZU9rcFZFaDRoN3A5TjBGYlZFaDNNdkhkZ1pJSUlPUGxWNXFGdEpjYXFiMERqZkVOS000NTRqVk1rNTg5ZnRBNkdnQTNFdVhRUzFzQ0FFVXRhQmtuY3Q2ZVFDSFE1Qlg1TXhHNmZ5d0ZPYXk5WldldndZcEVkTVhIRmxHVFluSWxwLXJoM3U5ZXFQTGJCVFdDQlJDZmdtV0dsS1QyS2FjRG9iTkllaWQwMmt6cW1KSWlqMGZRc011TVhteG9NRTRTM0RuWHg0aGlFMm9Mb05DeHRBQkFRbEk4SklQY2ZHWFg2WGFxOG90OGliaktSOVlhVVNqckVEeVBBaWxzUFBXR1NRSXBQU1dpTXdlN2NDbTN6Z3VnWmxVZkg4WE9WTnNWQUlkb0ZKMXZtMWs4QnUxUThDSmxYZ1JqcU8wQ3lrdjFOX1lTRU96X2kyLV9IZUdMWll0ZXhTUm50cGVQcWgxelJTeE16Zi1LZ0JZMkhvYkNwZGVfVGJUdkxUTWNtZ2RNOFJFTnRKSEI4SzM4R1pGUk1DUnZLUU1YR0dyb3J4WUxfQTRIcFlhVzkxd2hITmpwcGJpOFJqUmZWZHJFbE9RQ3lKR0N2bm8tN0hremYyeXNvLTgyVS03ZE1EREF5amFRbk1BTDkzVDlzM05wOEhIV1pxcG1uVHFyNmx1QURFdnhTd3ZxUGRwSFNLcENRUkRJSm5fcDAzOEtLX2hfTW9VWkpwaWRfa3h1d0huVDBaN3hrM1dmaS03T1lhMFhGcEtqOHQtcmE2U2lreF9SMlVyV0tuWjhhZkF2dWdpbDI3U2JLbFdVc3N6aGY3OVNkbTdfTS1EcFNRbmVYMmNNZzh6TGdXRTgyaVh5a0J2UTZ5NElRaWc0SjRfaFk1cWx0WWFtWjIxS2xpQ1NnM0dzeDd4RTVBV3c5RHRHVDBBX09sOW1Hbmw1bFkxSG5hYWFLdDN5TDNaYVFLTVZYMTNMMm9YdlYzRVJrZklTNllDZGpWUVdlVHJGbkRyUWN5VmlFQ0Y5Zk96b3phZzJBeHRGU2Z6TmVjQ2Q1WlhOa1ZIRVhVWGpzRnVWLTQ4ZEJ1VnlFOG1QRU1QNmQtcUhrUDZFOFlEYjk1Z3JObF9kWkh6OHE4b3BBOUNN?oc=5"
+        },
+        {
+            "source": "v.daum.net",
+            "title": "이강인 대신 무리뉴 저격한 아틀레티코 동료, 토트넘이 1229억에 영입 추진 - v.daum.net",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ROGFHWjFqa2NscXdOZFNnTXU4Mll2djlJMk5nSktuY2xNQS1jeWc3S2lwaWxhaUhrYkNYNzlOM1RrQi14RTZxZnNLY0E0Sm8?oc=5"
+        },
+        {
+            "source": "데일리안",
+            "title": "‘맨시티 퇴출 위기’ 만수르 직접 나설 경우 외교 분쟁까지 - 데일리안",
+            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcHhJQl8zbzAtLThWTk5mWTUyR2NmSVIzbzA5aTIwZVAzeXVFNG9jYzNlS2tneDBUbHJPRW5ZcFVxWGlDcTF1SW5nd2RNTE9ybjNVVUk4LXBtMk5QbEZBeFlzblVvMHNzeWs2cWRYUVFOb2JIRW9mZFBNcVZrb0RqbWViVml0SXFzakNVMmRFSjI4bjRjTllZZFNMMWw5Wk5fNndUa3NfTzI5c1hOcHVqQ2dnMjV1U0Uyc1hKOEpRQTNIczNFU3BBcTdDTFhKQmpZM2lrUHU1am9sekhXbkdBUnJZWWduS051TVZPdzExLUhwR3NTTzFiQnE2bVFiLVFMQTFPVWJsc3BJMGt0SGlfQVhoMkttcmpH?oc=5"
+        },
+        {
             "source": "조선일보",
             "title": "‘장부 조작’ 맨시티…EPL 퇴출에 줄소송으로 공중분해될 수도 - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmhYRTZiV1h1VVBaS095RVg4U1VocDdtR2dXd0gwWGJiUXh0X2t2NDhuaGFRYVQ2Y2JoWHJqaksyUUNCSEowVnppQWl1MTdpaW10SVFBMXM3N3JkWjdZMEF2YUV2TUVDWVhQNU43ekZQWDJ5cWc0bGl1emJLenlYbVRoVnlMa2Nta1J1UnItTDB1ZWRfZWpHaWs0WXJLUQ?oc=5"
         },
         {
-            "source": "sports.khan.co.kr",
-            "title": "‘英 충격!’ 맨시티 때문에 자격 잃었다, 손흥민 합류 직전 토트넘 “그들의 야망 때문에 4시즌 연속 UCL 진... - sports.khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0NjlMbVBKWlhscFR3TTBpazExMk1xLXQ4YjVtaG1PdVhnY19OQXg3aGlZZ3dGbUNuQU1XY3ZpSzlSY0I4bF83b3luWE9OdXlOYndGaWppWFM3UUdZdUHSAWNBVV95cUxPd0hVQ3p1OE5HWllqaURqckdQTWRxZ2JaU2UydE9PVU45MVBpVkhvRWNRZk9ZeDUwQlU0bmhvNWhoVWZKdW5OWGp3QzNRM0ItVGZVMVlzNDZrei11STJycXRDTzA?oc=5"
+            "source": "인터풋볼",
+            "title": "“맨시티 2부 강등? 이점 없어” 리그 관계자들의 ‘솔직’ 전망…“휩쓸어버리고 다시 올라갈 거야” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMHhJT0NFMWhCUFo2MkhrYUstdmwxTEw4VFg4cVk5SmI4djB3U0hDRWw0N2xHMzFmN25iTThoS1JfNUo3c0RmWU9NSmU4UzVTS1I5WmwtV1Y0ZGM0MGdsdGFvcS1OQmxvcjdVbkJFUDVLWGtS?oc=5"
         },
         {
-            "source": "동아일보",
-            "title": "맨시티 ‘위장 스폰서 계약’ 드러나…EPL 퇴출될 수도 - 동아일보",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55WEgtRV9iTDhMYVA0SFJXS2Rta0hMcmkxd29SV2QzMnlsMjJlOVZYZ0FZOVpWcHR3N2tOeXdySGtuZUtKMEdtcE8xSlRURG1oNTFvNnNXZjBiWjNiNUxKYTY1dDQ3ZnhmZ2NEeDg0NWJqbmfSAWZBVV95cUxPRkxoN1VwcmlUV3JiMHNTeVlKWnRodTBLcnBqUHFsTHRXNTVBUGNJNXoyMzRqQTVVVV92NERURnFfRkdkS2Y3RXFWY3hFTFhoYzdZb25fWFMzRk42al9YMnJ4VzVCaWc?oc=5"
+            "source": "스포츠조선",
+            "title": "[오피셜]\"반박할 수 없는 증거 확보\" 맨시티 자신감 대반전…EPL 징계 앞두고 '유죄 판결 항소 제기' - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42TFQySl84ZEYxVG44UzdDclp5V0kzSTJWaUJDYUtYQmQtSW1kYjcxd0pHOVNaaTQ0MTdOT0lBM0ljSGxYbmg0dFdkYjZib3BVSkRiSHlWX1lzZkNtOGJ0SUh2NUI3dnktX3dmSkQ1TGdPMmVROS1HOUZQcHRyUQ?oc=5"
         }
     ],
     "transfers": [
