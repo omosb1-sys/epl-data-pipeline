@@ -1,15 +1,10 @@
 {
-    "timestamp": "2026-10-10 23:01:17",
+    "timestamp": "2026-10-11 02:32:58",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Arsenal 2-1 Leeds United: Gunners' title defence back on track after comeback win - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrSG9EdUQ5anh6eGZRRVo5M3UzdEo0T25pTncwNEZCMURBX0JWcDkyTEJ5QmRUTEVrbFFkR1E5d1V5MEhNWE1tNG5rRWlTcHlXdmFxRk8xRUtXRkhyeUVWdUxaRlowZw?oc=5"
-        },
         {
             "source": "The Guardian",
             "title": "Manchester United 1-1 Tottenham: Premier League – as it happened - The Guardian",
@@ -19,6 +14,11 @@
             "source": "The Telegraph",
             "title": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs - The Telegraph",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVC1rNEFER0hCbk5VQ2x6R1phb2FUTHZlQTE4di12RDE4Zk80Y1ROa0RGbGFZLXVTdC1FZWNYTVI2MnJxQW93SnJqcWV5SzdRWThLLVA0UFU2elJnV3p2eTVOMXoxQ2ZwVkY2MzZDYUQ0MnB5d0FQV2xlVUthd3o2c3BPaVNjZ2J5TFRMd2RnTWFhSEdUcFFpMTNwZUp4VHp2U2otUXNqTnZ1NjB5?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Build-up, Team news, live text, radio & score updates as it happens from across the Premier League - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxclVqclJPTWhfeUxUMDkxVFRKVHlKVnpNVTlBQkdYMVA1VmVBQjY0dDlSelREb01HempPQXRjU3kybDh6aTUwQmRzbkVHYXBKdVJOSXNyUW5NS254R1oyXzZNWnE?oc=5"
         },
         {
             "source": "Liverpool FC",
@@ -41,14 +41,24 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0NsWWFPLWkzeGdvMlEwMzI2VGQ5Qmx6UUxPYWE3UEFveHlXVW9ucGRvYk05Ukh4Wm5GM0lZdG9WSEFuX2t4OVg5MEhVMC1GNnpSMDYzUGZJbms1akZHRlowZzltS0ttU0ozWnZManpsMHlSR0dEX1NVbFQxNTQ2Q3ByaVJNeFJjWTBtMVl4ZE1LM0dkTDhmWFk2M2I?oc=5"
         },
         {
+            "source": "TNT Sports",
+            "title": "Ornstein on Man City charges - and what happens next - TNT Sports",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFFmV3k0aUo3c2Fjd0cyc0hsbC14TUhaMWVHMElvU0wxeDNpUnlLZWp5a3YxRUNOMDA3TEtnN2haMkpVOTVHRVkwdE9OTmh4c0R2dXNZdjFMWllCZGNSaV85TWo5bTJ5d20zSThucjJCVTM0al9yT3dxdDZKSHliT2NkTFc5U2tmOF9oY0pnLTMwWDR5S3pVTjlINHYxVlBkZVIyTkt6UDMtcmNIX0JWZGJtVHBMdDRQOXdNcUVQUGJBMk9QNXA5cEhDMUd1WnVx?oc=5"
+        },
+        {
             "source": "The New York Times",
             "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -56,19 +66,34 @@
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXpJN2V3ZE1saXRuUm41TFpGeWdLcTFOR1NLcmZrUXRpSXctUm9GSXlSLXBoUVFwWWJlbGJpQnRDOXJQNEhRTWF6bFFYYWYyRXp5ck5jeUNGRnFpczJabGszNWp3aWppUS1XQUJZYk5xQkdPN0k3U01CY3Z2NllzSnpBQVBnenpTNmxINWRXdDVtc05FM0dPNXRsRHhTMHdvMnJZODJOMVBCUF9rQzJwbFVKUkM5bkFrS3F3NVdkY3hTQWdrRlNuME56TGNic05JaFRsbWxVUEYxMTdNVk9YVDFHVDc?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Fixture amendments for Premier League matches in October and November - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
+            "source": "Laodong.vn",
+            "title": "프리미어 리그 맨유 대 토트넘 생중계 링크 - Laodong.vn",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3ByaTIyU1phMWR4ZG1zMFpvcFdzekU3c292cG5VcnZOY25SMThTeTBYekRyVTY4aDJVVllhOWxkX1prVkRYdEZvbkZybGFERWlzNkY2TmdlOUhyLWQ5ZnI3OHZzem9ncEFvUDRsS1hRdmktOUlBaHlTMFlPeEZQU0FWNm0yUzc0NGJhX0tYYy1hMVlZWGFfcHk0N2pGRXdqT0w5ZzIyVkgxYzlhb3Jzdw?oc=5"
         },
         {
-            "source": "Goal.com",
-            "title": "Mikel Arteta makes huge Kai Havertz call as Arsenal confirm starting XI for Leeds clash with triple injury boost - Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUdnNDVfTGl1VnRzNC0yY3dmdTBjWXNOdWdkUThvcXdHcnhuU1hpMFAyTGJlMjFTTHZGVXJxbGVvV3JyVTNHWGlyUW5Ddi1uTzJocFBzdS1TR3ZycFlrVDBOMmpTZHBLMFRqQ0FuX0NKTjZQaXlJTXhUa1B1c1FwWHN3RERWbFhDWl9LV2M0dHJ6SmswODdiVUVXUTR5VWFGQk90ajF6U05UUjF0Skd0ekdrM0pQM0VXVWNFVi11R212M3M?oc=5"
+            "source": "뉴시스",
+            "title": "'벤탄쿠르 박치기 퇴장' 토트넘, EPL 개막 6경기 무승+강등권 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KS2dLeXkyZWcxYS1rOFFja1p4REhmWVFFWjh0VW9jOWtiaGp3X0lGa3JQYjljaGRGaGhFUEY1NmNodVQ5MU85ZUM5Q2gxc1NyZldLNnRSeHlUTUtUUklRQtIBeEFVX3lxTE9WWkYyU0lKMkNhaUlSZDZScnlTZVhNLVVFcHU3UzVNR0RnZ1Yyb0lEMTZiX0VjMjdKeVZIMTV5ZEREOFZfREhKYXhyS2MtUU1hdklZOTlNclliUklMTjZFc1JzaG5xTmhlUGoxYi1UVjhsdnRuUk5WYg?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "'또 이걸 못 이겨' 음뵈모 선제골→벤탄쿠르 퇴장→솔란케 극적 동점골, 맨체스터 유나이티드, 토트넘 1-1 무..'OT에 쏟아진 야유..둘다 웃지 못했다' - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Xy1BMGx1WDJ3TEY3cXkzNXlJMXpfWmRMN2lua0hrRU5zS3c5ZFdoSnBhVnR3cTVRYWZoMkNpQk1DU1BIT2dDN0JDWERwdnlhUlZqY0haQ1VsTWdjM29lamhWQXVMWE1xYUtKOGQybmVlRHpsSG1DSGh6QkwxZw?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "'또 이걸 못 이겨' 음뵈모 선제골→벤탄쿠르 퇴장→솔란케 극적 동점골, 맨체스터 유나이티드, 토트넘 1-1 무..'OT에 쏟아진 야유..둘다 웃지 못했다' - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWhFLUdGcEFNMUJsYUk0dlBiUnBsczkyZEJyZFlYMURXckJiMHhNbzdkcnlCUUZ5MXBKNXVPWlJTZDkxLTFaaExOTTJKOGxiM0poUHhHSVhlczhLSnZNTEZ0V0FzeTZRMWhCVzgwbWNsR2NPc2NVRTBDMEVBamUzc3ZDQnh5cW01RTh3?oc=5"
+            "title": "\"SON 같은 마무리는 아무도 못 해!\" PL, 한글날에 또 손흥민 '기습 숭배'...\"토트넘, 다시 데려와!\" 현지 팬들도 아우성 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU45bkt6bDdmU2NYdjFJczkwamRTdllQMUprckd5Z25MclZPX29pOGdGUXBUOXJncjRCLXBEVlh2bmRxRlNQMk1kdHFVRU9NUUh4ZTR5QUlndko0RE9NbUVJb3owWHpTa2lpYUZjcnRlODR3MzNBLTkyUE8xcWhiaGtGMDFEMWs1dHk0?oc=5"
+        },
+        {
+            "source": "뉴스핌",
+            "title": "[EPL] 10명 싸운 토트넘, 맨유와 극적인 1-1 무승부...최하위 탈출 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82Mm1mb2dEYmRyTjczOVNGVG5LdnhTYl80OE1TZ3NuTmkyZkVDb0pmM0Vfd1F5U3d5Y1JabXl5eVZXLXFsNVNacGxYcXFDQWFSc1VhWU9aV3hiYnVt?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "돈이 삼킨 프리미어리그…세계 갑부 손아귀에서 못 빠져나온다 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jOV8wUUdPbVVpR2c5V1JnTlBUNW1zT3BEZFQtNnhYRzQ3aGpTR2JCVjh5N1RUbzJPYjVqMlNBcW9YRTlzLVp6TnRCdG9DbTZRT3JfTTFrZ1ZxQWpTQXfSAWNBVV95cUxOajJtUGdtN3BmOXJ0Sng2bG5FUHNVQXdOVTVrS2VLMHdtQnNrWGllQXFRQXNkX1d0QTUydHlRc1FRWmxMRS00NjE2dkhNdjFWVUJ4b3A4UmtkaFRfTUpQWFo3ZW8?oc=5"
         },
         {
             "source": "Goal.com",
@@ -76,34 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMi_ApBVV95cUxNZW9JbW13b2pmZmhzTUJUVGhqT1hnb2lmZGNhOENKSHZpNnZ4bGpFcG4yMkdGOE5qRkJRMW5pSU02ZUdudUFydTgwZldfSEJSRThIelp5Y1FPYjVvU200WWxWTldnVDRHcGJrYnZLTGpqQU9xYmQweEZHa1Zza2c2d2c5UExsRGFRZmFkUGVjNWQtMzRwZktkMU1SZ1ZINm93bmN2aFlZX2VDcVNaTkZkSmMwMGtjenBlMTZWdzZyR2pIdFJIN3RZb3VtSWFGclZ1a3ByR21aZHlhaFJrZS11RmJJVnBCZFZ2RUlMR3FtS3BJTXBUN0dKVWF0Q1JRVTIzZmowdkNzWlZENHpjMkVLaUgtQk14ZVN1bWdJdlRrMVVsblJqQUp6em85cTJvZjFNaFljbWh6N3FQMXctVUcwZFJ5N0dsWjRqWlpQLWF5SG8yMHdkeXM3SDMyVzZxT3ktdmJhYlZuRDJNLUlpRnNoZzlUMGU4S3h5UjNOZUtXakpNM1Uzb2I0OF9tRF9yWFZYMUZCRUxGbnNoSmw4cGx6cl9qR3FvMDNRZmp5ekxlV0d1eTZfTFl0MVc0WmpZdnNtcHNwQlNWc2hPcXU3QUx2VW14Z0ZnY2JQU2dxQjhjZndQczlzQUdSdEZRS0hqWl85My0xa2I0N0ptU1BHU0hBV3paSm90UExSeDlGRVhEYjVtT0NzQ2VCS3EzSXVYaTEyVVhyV1lCT29CUTFpRmVHUkJsTHMzcUFOYkdHa3IwbDBwckY3THdJNmR1Qk15V05GVzFyU0oxTk5oZVpzRVpaTkFCTy1ITEdLbVUwYUdmd1dwbXFHeXR2aFphWG1ZY2c2a1JwMDFtb2kwUFN5SC13MloxYktMdUFuR3IwVFh1Zk1wajhSLUZJYVZ1WjJxMVpsOTZqZFZrbXZFN0JTVEttU1NxOXRKTU5oekZWeTljV3JDMGZ2bEVwenlfc1lBMzdMd3ctN2c5TngtcGRrVzI2QkVmZ09SZ3BtbjhyZUxaYWZNOWFmY3B4N2lxZVBTT0lJbWVwUFZQTjFpTFJaVWN4dlhocEhveHkxeEU4QmNrenF4bGxwbXVaUFhCYTVQZkVzSXJvYzBqNjM1MlRuaDNnbzR3TTEySHVQT3FYNkJKN0lyci1LRnhvVFBEWnV6amFOWFRMcjJFZE9nQXhyYnlEZXRkUlZRQnR3Y2FSdEdWTDlWcWRkZDlkQlhDekRBT1g3QlZiNjBiRjhReDE2eVRZQTAxRHpaVnB2WTlJeHJNZE1NcGdHTVU0WDRnbUJ6T2dvRVZvYTd6eDZJbzJ1bnQ2N0lrNzVBT2hRcG1ERmFDV296NGg5QVBUYjlVeWlmT2Y4SlJYY2xmWnJralR1aGVDeXBYclQtOWUtTURwRjliNHpHVnBZOXBybVBaQ1pzaWFzUmoxaTJyZG85TEloaVBhUW96U1VFU1hKOFR3NDZsZGhKaGIxX3V6LUdnQV9wTzU2QjdUd1FFN082UEhhdENpdVp3SEwwUEhINUNheFptNlppTnVDUktLc3hQaEJtZVF6RlRUR0lqTWNXRkJUTGRyY2tLcEV1b1p5NzZUdWFoeElBRVc1Z0lwUXhqYnhqTXdSdUhqYXA0OVozSnFhOGN0N2trcFp1Ukh4WTdoVUJKdFRMRzBOWV9GanFVY3VBei1xZk81ck5PWHNGLXpDVkh4NDdHc2FrNDRZNWxQUFBhbjBLelp5RlBRb2dfZmpVSVdZV2pzbXpGUzYxLU1OcF9IM1F0bjhVTndPdk9tT0Rxc1ZlUEFHWWdMdGhvTHBTVUFXWkFlN2pJUUFTYmMtaUxISGlXRW9vV18xQWI0ajNJQkQ4Tl8tNXJOVmdUaVk?oc=5"
         },
         {
-            "source": "Laodong.vn",
-            "title": "프리미어 리그 맨유 대 토트넘 생중계 링크 - Laodong.vn",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3ByaTIyU1phMWR4ZG1zMFpvcFdzekU3c292cG5VcnZOY25SMThTeTBYekRyVTY4aDJVVllhOWxkX1prVkRYdEZvbkZybGFERWlzNkY2TmdlOUhyLWQ5ZnI3OHZzem9ncEFvUDRsS1hRdmktOUlBaHlTMFlPeEZQU0FWNm0yUzc0NGJhX0tYYy1hMVlZWGFfcHk0N2pGRXdqT0w5ZzIyVkgxYzlhb3Jzdw?oc=5"
-        },
-        {
             "source": "KBS 뉴스",
             "title": "[크랩] EPL ‘퇴출 위기’ 맨시티…역대 최악의 ‘위장 계약’ 스캔들 5분 정리 - KBS 뉴스",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IdHRLUHY0NHNDNUhWQ1BmMmdHUmRTUl9KSm1ka0l1VkE0LWVENUFNZW1GNU81LVF6UDdrR3gyUW9wczJhc2lEWjQwVlR6dkdMcm9uOHNlUEUwV2s?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "이럴 수가! '韓 국가대표 ST' 오현규, 입장 표명 '토트넘 안 갑니다'...\"에이전트에게 전달, 겨울에 떠날 생각 X\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83RjBkSWJFa1FfMTRiOFJjQzVpa3RobnkycDIyeVVZRG9WcEdmMzFVYzdnNURaX2U2eUtUN0ZGMmk3dkJwWmRacU5vaVpCYnBHdERDa0diYWVmNWhNajFtZG9GS0MxWVZpWkpxcVk1UloyUklNUGc?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "“맨시티 우승 못 한 지 51년”…맨유 팬들, 전설의 조롱 현수막 부활 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qMHdqOXlqemZWbllDUGxDOG5QT1Nycmt4d3JreTI1eGp3ZVlOSUlCMTVzZ1VpdjRlT1F6Y0p4RzR6ZkN3TnZYVDdNWDhBWDVBTjhVMm56Rm5jV3JvbWfSAWNBVV95cUxQbHEwRXBMU2ZSMzhZMnhRSkx5Tndrb0E1N1hvcmlKT0lIUldEa1MxMmxaT3JQZjZ2dVhEbmFxTlJ2cEJoWGJ0b1FDeEZEVXNvamdock40NkVIclJIcFRPTTI2Tmc?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "맨유와 멸망전 개봉박두...데 제르비 \"반 더 벤-반 헤케 모두 출전 가능, 매디슨 상태는 신중히 봐야\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VdVpNUUUyeE9aaENiRl9HcFVkWHdoNC1sRHd5X2h2QWR6YmxqVEhJMlBQTEI2T2N6aTQzb1h6T1VIeW1BSGlqV0p3WEY2ZG9tLWdwMnpIa2dCMkNCZktqUlRFN0VNeUFuNXBFYVd5eW82cXNK?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "'손흥민 추천'도 소용없다! 오현규, 토트넘 이적 가능성 '뚝'…왜? \"베식타스가 천문학적인 이적료 받지 않는 한 안 팔듯\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wdDd4NEVZX2JfYUo3OF9jZmIwaEx0LTJERjE5YlJRZjFIV3MtQ081Y0JEeUJZaTFMRjhaWjBnUjdaMHdOWG42SW1ybkF3cF9SMXpndERR?oc=5"
         }
     ],
     "transfers": [
@@ -116,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-10-10",
+            "date": "2026-10-11",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
