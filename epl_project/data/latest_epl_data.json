@@ -1,25 +1,10 @@
 {
-    "timestamp": "2026-10-12 02:57:26",
+    "timestamp": "2026-10-12 10:04:48",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
-        {
-            "source": "BBC",
-            "title": "Man City cruise to statement win over 10-man Liverpool - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LSml0Ulp2eVRKb1I0NkctY0hPRmlRMXRTaGZsX3E1eVFoZXVtWlJJQlZvVG1udWZlWlJvc3JFd29qS0g2SjlkcUF1SVJsd0dmWk5iMmxOWEVuUTR5T0ZwaTFMV1FWZw?oc=5"
-        },
-        {
-            "source": "Daily Mirror",
-            "title": "Man City charges news: Settlement talks with Premier League before punishments agreed - Daily Mirror",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTJ0UUFyYlhWOGV4X0trNG5IenJ3ZGlrRmtpYXZzWGZHV1Npd21oTGI0bUxLY3hUS00wS19iRTBtcy1keHg5dGlBdmQtOFZicFFXbklZOFhyQzZyU3JNMExGWnRjTFNGUFBHbk14MXhSVVdyckNSQTJNZ3hJOUp5REgxX0dFZVJiSWIzd19DWQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League: Palace come back to beat Forest and Hull draw with Everton - reaction - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3NjRhNEpNbWU1NGlfUFNINXdzUE1xUmZzTzBXWktfdG9NTEFERjdQNDB2YWpTSDBIM1dHYlpHc0dVLXJBNHFNWndNdHZkNlJJRXdPdERTODNFVkk5Nm5yYk8xNk1lUQ?oc=5"
-        },
         {
             "source": "Liverpool FC",
             "title": "Liverpool are ‘serious’ about signing a player described by - Liverpool FC",
@@ -51,19 +36,34 @@
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "source": "연합뉴스",
+            "title": "EPL '재정 규정 위반 유죄' 맨시티, 리버풀 원정 3-0 완승 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUDFsUUFEUmJPSjl4ekdzWjhHcFFDZUlXOEdibmpqZ08ydkNEV2g3R0pZNEZ2OFdrVkktZ2tGQWpodk5aSlpMSmplcEFHa0RNU181V3FmSTZzTGPSAWBBVV95cUxNdmNvc2NNcDNKZHJtU2RrOEdMN3NfRVZYcGhuSG81YWRQUEJFeDN1SWFmaTFrejVoRFBqVWNnTDE1NXdobkJGVlhYZDNUekU1U3Bta0ItQzdDR1ZkSDZ0cFA?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Fixture amendments for Premier League matches in November - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
+            "source": "마이데일리",
+            "title": "'韓 축구 초대박 소식'...오현규 미쳤다! EPL 진출 기회, 토트넘+헐시티까지 파격 러브콜 \"경쟁 펼치기 시작했다\"→'벤치 탈출' 가능? - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FS0tSVXREaWN3OGxqZWJLWUFGaUdwc2RKNkJtaDZpQmxVYUZoa2pwczRlNjdQOTNTUGZQSTNyTS1uZGkyM19peWIzVHJRQkZSbUJtYWRrNWR5eVVsLWtKXw?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3h4Z0lUOUN1emVYVTI2SXlXXzh0MG5GUFNHWVE4bFluS0UzYU5nWmE4aVlsNnlaUlk5bUw2TlpsdU44QmYtY1BEOExjRXdlOW9xd3lDVlBKWWZmZVllNWdxdWlYS2oyYzd5TFExTGdBeGxaNnQ2YWlnSUM3d3hLOTdfMEM4ZVJHRkQ3SWZDWGtMVkFoS0JUSnA2Skp5ckNRd3M5NDgtUEpJd210UWw0a0NtUmNqS0o3RFZtYVlXZ1JxQUJZelZtZVVrWngwNmJmWFh0bmJwc0huR2psVVdiYy05VW1rYU1Xd0o3eTN3?oc=5"
+            "source": "Vietnam.vn",
+            "title": "맨체스터 시티는 프리미어 리그 경기에서 리버풀에게 퇴장을 안겨준 리버풀을 응징했다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWhIVm1RLURCLVJtclRULUJ3R3F5X3BUM2VYMUctMmhWOThLaGNPQnRpX2o1QnZONG5RaGNuUzAtUHp3Y0t5MExSbUd3UE1nRjZQUVZQNENDanRVb2hCMEREcGZrUnk1VkMxcDMxNTNVd2JhSnI2dlVRTlY2UHBCNHlTczdfa08tR2VqVk9iX2MyQnNjUlBrblZlRGJudw?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "이겨도 이긴 게 끝이 아니다...'114건 유죄' 맨시티, 리버풀 완파·선두 질주에도 강등→역대급 승점 삭감 가능성 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNy1QS0E4a1NsWHZrVElhWGZ2Yk1kY0lSZ1M5R0h1VGo0Y1lxS01jYk94THozd3Q5TDBRdU5rWU82Ny16QW1yMVFFbTF0TEdvek9ISnJBV2R3M0pEOFRfeGlDR3lGcVQtOTlfbUNqb3FrQ3lRdUlUd1ozQy1zVkp2VFJXVjhiTGt4SmF3?oc=5"
+        },
+        {
+            "source": "경향신문",
+            "title": "맨시티 감싸다 불똥 튄 영국 총리…야당 압박에 회동 기록 공개 - 경향신문",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12T290Q3BHTnZMRjBQbXpjVU52X01xZHJwVnV5dWIzLU9OUng3R3pEc2dQd0RvNkp6dUVQTzJtRU9pN2ItcFMtbW9DVkNXcWlqWmdpcUtNdG1lZ9IBX0FVX3lxTFBtMGVDSkpSS183eU5VQ3BnS21pZC0ybG5lVU81VEppRUZ1VEJIXzRKLTB2UmVCQTFoYWJRZFAtS3RoLV82TWlQYkNwVU1mU3V5czdHQVFjUFM1c3FCZ1U4?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "일본 열도 환호...68경기 만에 프리미어리그 데뷔골! 노팅엄전 승리 일등공신→카마다, 사즈 체제에서도 주전 입지 굳혀 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96U1lQcnpTcXZaNG9OV3NLWWlxZ2NLLWpVdmR0ajlEWlBPVE92d1RoT0VhSFJQV1EwNWRDUHMwelI1dzdvVDRPVlJYM0VKQ0ZzUlktX1dUQlhWNVRuRjZRUUROMlVGMV96Wl9QNVlvR1VzZ1Y2?oc=5"
         },
         {
             "source": "이투데이",
@@ -71,39 +71,9 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3VW4xNmpiV2syR0pqOE55cmltZzg0SlJQUncwTXF6NjJOd29kQWNXLWx4SHNQcEJ1OC1mSTYweGJhaXphd2RzMElvV293aWlWUlFobEVBa1lzOG1KVG1iU2QxX1lQNVBudW5vZ0dyRGdvQlIz?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "\"강등되더라도 함께하겠다\" 과르디올라의 약속…맨시티, 리버풀 3-0 완파·개막 6연승에도 'EPL 퇴출' 공포→114건 유죄 판결에 운명은 안갯속 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDeHp2OU9ramdqcEJadEhKcTZWTktCck9iaWpLdEJSUS1MTVh1T0Jsa2pTbnhJZlVvZzl6MnN0aEhvZVZJa2tkUF9mXzNIc05YLUg0dGpGaHp1djVwVU9HVG9XWWViNXVtQkJacHQyUk0?oc=5"
-        },
-        {
-            "source": "www.xportsnews.com",
-            "title": "한국은 EPL 전멸인데…日 시즌 1호골 폭발에 환호성! 가마다 다이치, 팰리스 3-1 역전승 견인→리그 데뷔골로 팀 주역 등극 - www.xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BYks5aV9wYUppbVNVd1dGeUNZaEx1akxLSElnV3dYNnBid0NXM1owbEl3Q1hZWWlNWmJ3SExtdVNHT2NwVS1MOUZfTE55ZFVHM1B2bw?oc=5"
-        },
-        {
-            "source": "Goal.com",
-            "title": "'대표팀 은퇴 소동' 황희찬, 프리미어리그서는 여전히 군침 흘린다…\"팰리스, 올여름 영입 않은 선택 후회할 것\" - Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMi_ApBVV95cUxNZW9JbW13b2pmZmhzTUJUVGhqT1hnb2lmZGNhOENKSHZpNnZ4bGpFcG4yMkdGOE5qRkJRMW5pSU02ZUdudUFydTgwZldfSEJSRThIelp5Y1FPYjVvU200WWxWTldnVDRHcGJrYnZLTGpqQU9xYmQweEZHa1Zza2c2d2c5UExsRGFRZmFkUGVjNWQtMzRwZktkMU1SZ1ZINm93bmN2aFlZX2VDcVNaTkZkSmMwMGtjenBlMTZWdzZyR2pIdFJIN3RZb3VtSWFGclZ1a3ByR21aZHlhaFJrZS11RmJJVnBCZFZ2RUlMR3FtS3BJTXBUN0dKVWF0Q1JRVTIzZmowdkNzWlZENHpjMkVLaUgtQk14ZVN1bWdJdlRrMVVsblJqQUp6em85cTJvZjFNaFljbWh6N3FQMXctVUcwZFJ5N0dsWjRqWlpQLWF5SG8yMHdkeXM3SDMyVzZxT3ktdmJhYlZuRDJNLUlpRnNoZzlUMGU4S3h5UjNOZUtXakpNM1Uzb2I0OF9tRF9yWFZYMUZCRUxGbnNoSmw4cGx6cl9qR3FvMDNRZmp5ekxlV0d1eTZfTFl0MVc0WmpZdnNtcHNwQlNWc2hPcXU3QUx2VW14Z0ZnY2JQU2dxQjhjZndQczlzQUdSdEZRS0hqWl85My0xa2I0N0ptU1BHU0hBV3paSm90UExSeDlGRVhEYjVtT0NzQ2VCS3EzSXVYaTEyVVhyV1lCT29CUTFpRmVHUkJsTHMzcUFOYkdHa3IwbDBwckY3THdJNmR1Qk15V05GVzFyU0oxTk5oZVpzRVpaTkFCTy1ITEdLbVUwYUdmd1dwbXFHeXR2aFphWG1ZY2c2a1JwMDFtb2kwUFN5SC13MloxYktMdUFuR3IwVFh1Zk1wajhSLUZJYVZ1WjJxMVpsOTZqZFZrbXZFN0JTVEttU1NxOXRKTU5oekZWeTljV3JDMGZ2bEVwenlfc1lBMzdMd3ctN2c5TngtcGRrVzI2QkVmZ09SZ3BtbjhyZUxaYWZNOWFmY3B4N2lxZVBTT0lJbWVwUFZQTjFpTFJaVWN4dlhocEhveHkxeEU4QmNrenF4bGxwbXVaUFhCYTVQZkVzSXJvYzBqNjM1MlRuaDNnbzR3TTEySHVQT3FYNkJKN0lyci1LRnhvVFBEWnV6amFOWFRMcjJFZE9nQXhyYnlEZXRkUlZRQnR3Y2FSdEdWTDlWcWRkZDlkQlhDekRBT1g3QlZiNjBiRjhReDE2eVRZQTAxRHpaVnB2WTlJeHJNZE1NcGdHTVU0WDRnbUJ6T2dvRVZvYTd6eDZJbzJ1bnQ2N0lrNzVBT2hRcG1ERmFDV296NGg5QVBUYjlVeWlmT2Y4SlJYY2xmWnJralR1aGVDeXBYclQtOWUtTURwRjliNHpHVnBZOXBybVBaQ1pzaWFzUmoxaTJyZG85TEloaVBhUW96U1VFU1hKOFR3NDZsZGhKaGIxX3V6LUdnQV9wTzU2QjdUd1FFN082UEhhdENpdVp3SEwwUEhINUNheFptNlppTnVDUktLc3hQaEJtZVF6RlRUR0lqTWNXRkJUTGRyY2tLcEV1b1p5NzZUdWFoeElBRVc1Z0lwUXhqYnhqTXdSdUhqYXA0OVozSnFhOGN0N2trcFp1Ukh4WTdoVUJKdFRMRzBOWV9GanFVY3VBei1xZk81ck5PWHNGLXpDVkh4NDdHc2FrNDRZNWxQUFBhbjBLelp5RlBRb2dfZmpVSVdZV2pzbXpGUzYxLU1OcF9IM1F0bjhVTndPdk9tT0Rxc1ZlUEFHWWdMdGhvTHBTVUFXWkFlN2pJUUFTYmMtaUxISGlXRW9vV18xQWI0ajNJQkQ4Tl8tNXJOVmdUaVk?oc=5"
-        },
-        {
-            "source": "뉴스핌",
-            "title": "[EPL] 10명 싸운 토트넘, 맨유와 극적인 1-1 무승부...최하위 탈출 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82Mm1mb2dEYmRyTjczOVNGVG5LdnhTYl80OE1TZ3NuTmkyZkVDb0pmM0Vfd1F5U3d5Y1JabXl5eVZXLXFsNVNacGxYcXFDQWFSc1VhWU9aV3hiYnVt?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "'갑작스러운 아버지의 자살' 슬픔 딛고 쓴 편지…\"자책하지 마\" 르 페, 과거의 자신에게 보내는 조언 - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91UlY1TEIxVUZidEZxQ1BLbnd4Vm5MNDBsd3lQNnNhTkNQcmJ1QVlnYkRJSkkxT3V5VV90OWptNjZzUlg4OTdKQ2NldFgxWWkyeHlCOXVIVzNPTE15MFFmSU5ZRFRUc2pISG1fSnJXVDJyOXdqUmc?oc=5"
-        },
-        {
-            "source": "news.sbs.co.kr",
-            "title": "EPL '재정 규정 위반' 맨시티, 리버풀 원정서 3대 0 대승 - news.sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEFyRHk1cnBWbm03THBTTUhXbk9DcEljd1V5bk15RG1ZLS1GSW5qX21qbklxY3h4bDBOb3UyV281dEhLUmUwazFWRVE5ODhneFJzR19iOFZzUEstR2hvR2JGRldta1Jybm44VGd2NW5MOXA2bDdDVnRkb3NCUlBOU0V6RlRLQQ?oc=5"
-        },
-        {
-            "source": "위키트리",
-            "title": "축구 군 면제 논란에도… 소속팀서 '대박' 소식 전한 한국 선수 - 위키트리",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPeFhQLUtXRVdUcDljd3Awd0hsUzIxaElReVhKSmZxYXhNSkMzRUp0cDJxTkw1ek5fNEhjUThvdjBCcndPN1ZDQ2RSc1kwcUZMd0VtT3hn?oc=5"
+            "source": "데일리25",
+            "title": "[26/27 프리미어리그] 멸망 더비, 맨유와 토트넘의 맞대결은 1대 1 무승부 - 데일리25",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMUsxMFZhTndocldLNnlrU2tpb3psbXF0U1phSGxmdjcwV19waTJrZXE2WDJGa0hXQjJvZWhTa0xDMVhZMFNXWkJBQmRRUzZQWGJfSmt2OUpQMUcxaFZPUU94NGZZUW5sNWpteg?oc=5"
         }
     ],
     "transfers": [
