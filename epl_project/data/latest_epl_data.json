@@ -1,10 +1,25 @@
 {
-    "timestamp": "2026-10-12 10:04:48",
+    "timestamp": "2026-10-12 20:01:25",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "The Guardian",
+            "title": "Coventry City v Newcastle United: Premier League – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3UzeGEtb0QzQWZXT24wZ1VyYVMtclc1ZFdCMG5vQWE4bDFfWGZZb3B5OWhJYk5WWjc1VGxQOVhzMDBKX2s2ZUFycmU5QWc3cnZnLXJGZ2ZtOC1iay1xOWhMT1N0VDF2M0hZT0FvbWpDMXZ0anFXM3YzUGZVLUtoU09tRnZMTmtYekdYYlZpOEhtWXpqaE5qWmtKSzhEN0pwV2RBS0Jfemw3Q1pqbU94eEtoUC1qQ0I1aFE?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Liverpool 0-3 Man City: Anfield delivers own verdict on Premier League ruling but City are defiant and top of the table - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ19mQVB2bEZJNHdxMjFKY3NLZHB1SVFFb3VhRTV6VUpuMGMzeTkxRUR5S1ozQnN2UkhlYjItenUyUDR0U3RnNlFsTlJraGxsaUZPaXBQUkVGbGdGQ1haREVHZlBKUER2a01ZUUJWRHJIbEVzT21mSHFTWUFVZlJnalJ1Z1Rzc3oxZXoyWXRsQ0VlVmE2dUhKNlVTMGxNM3JxOGhsaTQwbGw4bmcxTkVxVVJkY0ZHZm5LZThpLVBwTEhOcDRFcTl5cXppcW1OeUpuRXNmTV9UVmdGdDJQMzB1eXIyb3hSQWxWdXhkQmVTOUxNQndvLWVSZGVSbw?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Premier League winners and losers: Man City, Wirtz, Benitez, Glasner, Brighton, Aaronson, O'Neil - Football365",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGtIYU1TNFZwT09fLWotLUtYSUdoT2tKLXdLbjhvclhmdzVwYk0tS0xfcHhGbU10akxnajZsbVJ4XzNTNHh4ZmY1U1dHRy12WUZVc0xVdVNUQm02RktVaTRDNkpPczlkRG5xYmQxUUR5TnZkUGNWcmoyYTc4WF9DSU5rcWE2VGhRbFg5MDl2b3pDWk0?oc=5"
+        },
         {
             "source": "Liverpool FC",
             "title": "Liverpool are ‘serious’ about signing a player described by - Liverpool FC",
@@ -26,9 +41,9 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0NsWWFPLWkzeGdvMlEwMzI2VGQ5Qmx6UUxPYWE3UEFveHlXVW9ucGRvYk05Ukh4Wm5GM0lZdG9WSEFuX2t4OVg5MEhVMC1GNnpSMDYzUGZJbms1akZHRlowZzltS0ttU0ozWnZManpsMHlSR0dEX1NVbFQxNTQ2Q3ByaVJNeFJjWTBtMVl4ZE1LM0dkTDhmWFk2M2I?oc=5"
         },
         {
-            "source": "TNT Sports",
-            "title": "Ornstein on Man City charges - and what happens next - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFFmV3k0aUo3c2Fjd0cyc0hsbC14TUhaMWVHMElvU0wxeDNpUnlLZWp5a3YxRUNOMDA3TEtnN2haMkpVOTVHRVkwdE9OTmh4c0R2dXNZdjFMWllCZGNSaV85TWo5bTJ5d20zSThucjJCVTM0al9yT3dxdDZKSHliT2NkTFc5U2tmOF9oY0pnLTMwWDR5S3pVTjlINHYxVlBkZVIyTkt6UDMtcmNIX0JWZGJtVHBMdDRQOXdNcUVQUGJBMk9QNXA5cEhDMUd1WnVx?oc=5"
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZtOUs4M2FPZUJTRjB3Y3JfeGR4bUg0TFFFaUMzOTZtVmI2dHM5dTJWa2NxYWZ1dV9tVVEtdmxCazZlTTlKcXVqNjdodkxaM1pLWEFDWmhrWV9wMF9NcHZxekduMWx5ZnpuemEzaFJnNGh3Z2FxdW9IRjZEczM3UGp3ZTNBLVpfMUxMamJlYjBoTVFTNHBiNExuNGxhMzBqYXI3YzdCOA?oc=5"
         },
         {
             "source": "The New York Times",
@@ -36,9 +51,39 @@
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3h4Z0lUOUN1emVYVTI2SXlXXzh0MG5GUFNHWVE4bFluS0UzYU5nWmE4aVlsNnlaUlk5bUw2TlpsdU44QmYtY1BEOExjRXdlOW9xd3lDVlBKWWZmZVllNWdxdWlYS2oyYzd5TFExTGdBeGxaNnQ2YWlnSUM3d3hLOTdfMEM4ZVJHRkQ3SWZDWGtMVkFoS0JUSnA2Skp5ckNRd3M5NDgtUEpJd210UWw0a0NtUmNqS0o3RFZtYVlXZ1JxQUJZelZtZVVrWngwNmJmWFh0bmJwc0huR2psVVdiYy05VW1rYU1Xd0o3eTN3?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQektvRWxpTEZNU1Z4Yi0yOVJwYWdTc2hzbDFYT2I4eGhBVFEzQkNpTzFmUTgtRFVDQ2xfRTFaTldaQkFHblNjd0xmSXAybWpyNHFYaC1TbFppNV9BZDJ3SENqSVlDY1NIclNwTE85ZUszM25MeWZ0eTlrOWxXWDhOdEpDcEVxVDVjaU5tbzNkR085c1ZmMGduc3gybVdZMHgwUmxIR29aa3oyWEJxd2RrYzZoT19ub01CMktIWGFLYS1fUURieGtqRVJLMFAwME1UZ0Fhd1AwQW4xbTIycUJmWjRCY3B3RmtPS3NPLVB2Zw?oc=5"
+        },
+        {
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEc4WHdsM1RPeEJ1MzVDenZFcXVSbjVyY0dMMnc5SGk1dUdyVVlXS0JjM2VpMHliZXhleExwOG9NRlZ0RUdLdng3Nnc4NUVnaTFsSHAwZzNSSjRmaXRCN3VhN2dBeTdNZEdvM1FIUC0ycVdQUmxmUVZDNExqVXdZbXE5REdHY181V1Q0Z0NtbGVCSXJ1djhpcmV4eDN6eUVVTlJnbThR?oc=5"
+        },
+        {
             "source": "연합뉴스",
             "title": "EPL '재정 규정 위반 유죄' 맨시티, 리버풀 원정 3-0 완승 - 연합뉴스",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUDFsUUFEUmJPSjl4ekdzWjhHcFFDZUlXOEdibmpqZ08ydkNEV2g3R0pZNEZ2OFdrVkktZ2tGQWpodk5aSlpMSmplcEFHa0RNU181V3FmSTZzTGPSAWBBVV95cUxNdmNvc2NNcDNKZHJtU2RrOEdMN3NfRVZYcGhuSG81YWRQUEJFeDN1SWFmaTFrejVoRFBqVWNnTDE1NXdobkJGVlhYZDNUekU1U3Bta0ItQzdDR1ZkSDZ0cFA?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "韓 축구 프리미어리그 진출, 다시 활짝 열린다 “오현규, 겨울에 토트넘·헐시티 이적설” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVeVlGNmRxdGl0WGRCNGRLTE1PMkY2eXVIOTFpemg1SHJRREstZlk4ZTRJTWtfa05tOERtYXNrc1QtSzg4VjhjbDVTMThDZ19yNjhpUUp3X0N4SkhOYVZYcXZtb25NU0F0SzQ4Q3ZPY0M?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "\"에이전트에게 이미 뜻 전달\"...'韓 국가대표 공격수' 오현규, 프리미어리그 구단 러브콜에도 베식타스 집중 \"팀 떠날 생각 없다\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xMXJ4U3pPbzRsdHJaTERiU0t5YmlVdkZQOUNuNGRhbE14akQ3SUloM2R3MGh6bkZjNGk3RmVnTTlSdnUwYzB1SVltcl9tLVNCeUh2X0diY2c5VzRZUE5pYkZpT2VxS1pxd0ZCRVpaczZ2VEZPQ1E?oc=5"
+        },
+        {
+            "source": "www.xportsnews.com",
+            "title": "한국은 EPL 전멸인데…日 시즌 1호골 폭발에 환호성! 가마다 다이치, 팰리스 3-1 역전승 견인→리그 데뷔골로 팀 주역 등극 - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BYks5aV9wYUppbVNVd1dGeUNZaEx1akxLSElnV3dYNnBid0NXM1owbEl3Q1hZWWlNWmJ3SExtdVNHT2NwVS1MOUZfTE55ZFVHM1B2bw?oc=5"
         },
         {
             "source": "마이데일리",
@@ -46,34 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FS0tSVXREaWN3OGxqZWJLWUFGaUdwc2RKNkJtaDZpQmxVYUZoa2pwczRlNjdQOTNTUGZQSTNyTS1uZGkyM19peWIzVHJRQkZSbUJtYWRrNWR5eVVsLWtKXw?oc=5"
         },
         {
-            "source": "Vietnam.vn",
-            "title": "맨체스터 시티는 프리미어 리그 경기에서 리버풀에게 퇴장을 안겨준 리버풀을 응징했다. - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWhIVm1RLURCLVJtclRULUJ3R3F5X3BUM2VYMUctMmhWOThLaGNPQnRpX2o1QnZONG5RaGNuUzAtUHp3Y0t5MExSbUd3UE1nRjZQUVZQNENDanRVb2hCMEREcGZrUnk1VkMxcDMxNTNVd2JhSnI2dlVRTlY2UHBCNHlTczdfa08tR2VqVk9iX2MyQnNjUlBrblZlRGJudw?oc=5"
+            "source": "국제뉴스",
+            "title": "맨시티 팬들, 안필드서 홀란드 풍선 인형과 셀카…리버풀전 앞두고 이색 응원 - 국제뉴스",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NaG8zQUR5R3NBS2RQcXN0TWdYZnB1aDZUazM4eU9GVjBhUDcyeUkwUGhNSDd2WUVxY2dORllaMW1oYW9seElPQUdCSTZXbnRoU1R6MmNHb21GeFlRZkxEQWxVbmduZ0d0bDFMSXZ3?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "이겨도 이긴 게 끝이 아니다...'114건 유죄' 맨시티, 리버풀 완파·선두 질주에도 강등→역대급 승점 삭감 가능성 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNy1QS0E4a1NsWHZrVElhWGZ2Yk1kY0lSZ1M5R0h1VGo0Y1lxS01jYk94THozd3Q5TDBRdU5rWU82Ny16QW1yMVFFbTF0TEdvek9ISnJBV2R3M0pEOFRfeGlDR3lGcVQtOTlfbUNqb3FrQ3lRdUlUd1ozQy1zVkp2VFJXVjhiTGt4SmF3?oc=5"
-        },
-        {
-            "source": "경향신문",
-            "title": "맨시티 감싸다 불똥 튄 영국 총리…야당 압박에 회동 기록 공개 - 경향신문",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12T290Q3BHTnZMRjBQbXpjVU52X01xZHJwVnV5dWIzLU9OUng3R3pEc2dQd0RvNkp6dUVQTzJtRU9pN2ItcFMtbW9DVkNXcWlqWmdpcUtNdG1lZ9IBX0FVX3lxTFBtMGVDSkpSS183eU5VQ3BnS21pZC0ybG5lVU81VEppRUZ1VEJIXzRKLTB2UmVCQTFoYWJRZFAtS3RoLV82TWlQYkNwVU1mU3V5czdHQVFjUFM1c3FCZ1U4?oc=5"
+            "source": "위키트리",
+            "title": "축구 군 면제 논란에도… 소속팀서 '대박' 소식 전한 한국 선수 - 위키트리",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPeFhQLUtXRVdUcDljd3Awd0hsUzIxaElReVhKSmZxYXhNSkMzRUp0cDJxTkw1ek5fNEhjUThvdjBCcndPN1ZDQ2RSc1kwcUZMd0VtT3hn?oc=5"
         },
         {
             "source": "인터풋볼",
             "title": "일본 열도 환호...68경기 만에 프리미어리그 데뷔골! 노팅엄전 승리 일등공신→카마다, 사즈 체제에서도 주전 입지 굳혀 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96U1lQcnpTcXZaNG9OV3NLWWlxZ2NLLWpVdmR0ajlEWlBPVE92d1RoT0VhSFJQV1EwNWRDUHMwelI1dzdvVDRPVlJYM0VKQ0ZzUlktX1dUQlhWNVRuRjZRUUROMlVGMV96Wl9QNVlvR1VzZ1Y2?oc=5"
-        },
-        {
-            "source": "이투데이",
-            "title": "맨시티, 프리미어리그 퇴출? - 이투데이",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3VW4xNmpiV2syR0pqOE55cmltZzg0SlJQUncwTXF6NjJOd29kQWNXLWx4SHNQcEJ1OC1mSTYweGJhaXphd2RzMElvV293aWlWUlFobEVBa1lzOG1KVG1iU2QxX1lQNVBudW5vZ0dyRGdvQlIz?oc=5"
-        },
-        {
-            "source": "데일리25",
-            "title": "[26/27 프리미어리그] 멸망 더비, 맨유와 토트넘의 맞대결은 1대 1 무승부 - 데일리25",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMUsxMFZhTndocldLNnlrU2tpb3psbXF0U1phSGxmdjcwV19waTJrZXE2WDJGa0hXQjJvZWhTa0xDMVhZMFNXWkJBQmRRUzZQWGJfSmt2OUpQMUcxaFZPUU94NGZZUW5sNWpteg?oc=5"
         }
     ],
     "transfers": [
