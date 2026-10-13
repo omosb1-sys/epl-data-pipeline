@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-13 09:49:01",
+    "timestamp": "2026-10-13 17:12:10",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Coventry vs Newcastle LIVE! Premier League score updates, news, prediction, teams and how to watch or stream - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWGhRamd0azZ0ZTk2ZEt3al9yX1lCaWVmX3BscmxPSlNraDROc1F1VmNieVE0UFBUYXg2LXZ5cG52QmpLMjVsNWpvbmY3OFFhRE5uTWFEV1VzWE1wWU9ZVHExVTZOM0NaOU56SE5qS0NRT0FBektpYWxaME1zTHZudkRua3JIaXNtak9ZSWRoWnc5T3NQS2hiVGdKdDhpN1JxS1RvUHVOYVUyYzNvNExrTGZqaXQ0UTQ0a21CclNjaW9maThiZHJ0YV9ia3BWSGZLMko1NnNuVDdLUWY5RGFRS3RVS1h4dmM1d3ZhUG1WMA?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Coventry City 4-1 Newcastle United: Sky Blues win first Premier League home game in 25 years - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BOXYyNEpiZ0U4WUg0eHpWR2M2cUk0Uk1ZQWlFdlFkcXVYU2FUZWpKTHo5U2cyTVNRV1JuWG96VmhFYjgyY1pBTnpWVzlZS08xSTVESGw2VE1MMXJPTnRfOTlMWFlvUQ?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Troy Deeney's Team of the Week: Henderson, Calafioui, Cherki, Justin - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVWt4T3ZaOGFldTI1WGM1VlNuQURfZ3hNNHJlUGR4d1dqNGR6NkI0Ymo4cFo3Z3RSZVBtNjhuQXN1Y192ZzNOT083YjJEMTVvOUpDOFJYZHU5UEVvblh2RFhlQkstTC1S?oc=5"
-        },
-        {
-            "source": "The Sun",
-            "title": "Struggling Premier League manager, 43, 'given just TWO more games to save job after disastrous start to season' - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTlGUFppWmlnTVh0OGYxcml5a1c5bkRINlBaNEhhMkdLSlJFczRnRzRZYXZPd2JJTV9qeUN3Nmt5ekFFYS1wS0M0NDM3UW1lR1VncXVwZ0ppVUxGVjNmMVVXb29tQWdoVUxSWE56RzhXeEEtZ3NjUzBBMFlDSGVoclhsYm5tNzc3?oc=5"
+            "source": "The Guardian",
+            "title": "Coventry City 4-1 Newcastle United: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3UzeGEtb0QzQWZXT24wZ1VyYVMtclc1ZFdCMG5vQWE4bDFfWGZZb3B5OWhJYk5WWjc1VGxQOVhzMDBKX2s2ZUFycmU5QWc3cnZnLXJGZ2ZtOC1iay1xOWhMT1N0VDF2M0hZT0FvbWpDMXZ0anFXM3YzUGZVLUtoU09tRnZMTmtYekdYYlZpOEhtWXpqaE5qWmtKSzhEN0pwV2RBS0Jfemw3Q1pqbU94eEtoUC1qQ0I1aFE?oc=5"
         },
         {
             "source": "Liverpool FC",
@@ -53,7 +53,7 @@
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPem5jYzJ0Sm9pblg3TmZOalRkaXpDdGNvSGd1WUpQNlROVkw3UVdvdF9zXzhoWWE1RVBFZ3ROQ013OWZWdl9xOHM3d1ZMQWs5VHVfUWpFRDVzbDBIYXItY2lxTk5iYW4zVVptb0M0b29DSERtQVc1eGFkeE1DVWh5akF4anNQNjc1VWhQcVNZVTdFZEhuUXdWVnBHaVFybUpUbURhVEM2LUEwWEtYMEJibzdFZGFxc2tWMWc?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
             "source": "Premier League",
@@ -71,14 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUUydzkxNTA3OW5LX3Jla2o4YzBDR2EyTzhoN0Y0MHVIVFI1NVNzRzFId20zVlptZFRfVFFQQ0lHV3R0NTlnWXRUZV9BLW1iRlhINHYzSjljamRzZzJxNXpBclJ5OW5JMkYwckYwQnJCVHpQZUdaRzNMTHZ5LW1XTVRn?oc=5"
         },
         {
-            "source": "Manchester City FC",
-            "title": "마레스카, 프리미어리그 감독 부임 후 최고의 연승 출발 기록과 어깨 나란히 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHBIRExjSTRaZGxXODduVTY0VUlvNnJIcEx0TWhtb1VzYmNuWVVqenJHQjNHSXZZWTlHa3hhZFlHWk9VZFB3ZEVPRzlueEw1M3RRR3VfaW5YbGY4Q2RLSDVTejdBYnRmNjRwYVhnTmgxZjRyV2QyRDNOS3NDRFkteVprNU1USy1m?oc=5"
-        },
-        {
             "source": "SPOTV NEWS",
             "title": "韓 축구 프리미어리그 진출, 다시 활짝 열린다 “오현규, 겨울에 토트넘·헐시티 이적설” - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVeVlGNmRxdGl0WGRCNGRLTE1PMkY2eXVIOTFpemg1SHJRREstZlk4ZTRJTWtfa05tOERtYXNrc1QtSzg4VjhjbDVTMThDZ19yNjhpUUp3X0N4SkhOYVZYcXZtb25NU0F0SzQ4Q3ZPY0M?oc=5"
+        },
+        {
+            "source": "Manchester City FC",
+            "title": "마레스카, 프리미어리그 감독 부임 후 최고의 연승 출발 기록과 어깨 나란히 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHBIRExjSTRaZGxXODduVTY0VUlvNnJIcEx0TWhtb1VzYmNuWVVqenJHQjNHSXZZWTlHa3hhZFlHWk9VZFB3ZEVPRzlueEw1M3RRR3VfaW5YbGY4Q2RLSDVTejdBYnRmNjRwYVhnTmgxZjRyV2QyRDNOS3NDRFkteVprNU1USy1m?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -86,19 +86,19 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84ZUMyTzZRLVNKVk1GbnduMmR5LTFIQ2ZuZU1qX1hVWU9pTTBoZkl2bGY1SVl0LXQ5b051ZEdmRHNaeXBycEJZOFRjUVRLMS14UERxaWtuUDg0WXV1VHpnSWlNRi1yU0oxUVV6MktXUWRYLV9QVUlmYWFEVGV1dw?oc=5"
         },
         {
-            "source": "포포투",
-            "title": "'시메오네 부자, 결국 헤어지나!' 맨체스터 UTD, 이강인 동료 영입에 관심!... 맨시티·토트넘까지 러브콜→ ATM은 판매 거부 - 포포투",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UOV9ZTE0yRXpHdGpNcjM3YzIzcXZPNXkzdlBmc21uQndfOXVKak1QUXh3SkI0RUVsSFF4NmJIOGd1ZUxqZXdwQzdhUmxHNUdLVzNOd0Y2bDc2d2ZlUTNrRWczel9UMElUWUNHc0NjSXA?oc=5"
-        },
-        {
             "source": "세계일보",
             "title": "‘재정 위반 유죄’ 폭풍 뚫고… 맨시티, 개막 6연승 질주 - 세계일보",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VWtSSkphUlJRN3dYRWxCN0NCOFdmVVY1bnpXekJ6TEFGNUFiQWlEcFRPUUZoQVlEbUxzMkpzdnpzWUdtMjNpVk5XZFI4c1ZxVHdWT19lVmZkc1VuM2ljOS1HNDZ2SFBqb25n0gFUQVVfeXFMUHJQUkJyZzR5bDdUdVFiU0dqNkRUcDJFaFBoUFptSS1kWjhUYTl0N3lOd3BrbDk3V0stRGY4YkxkMFR0WmlkOG5ZZFhsb21ZdmhucjMt?oc=5"
         },
         {
+            "source": "포포투",
+            "title": "'시메오네 부자, 결국 헤어지나!' 맨체스터 UTD, 이강인 동료 영입에 관심!... 맨시티·토트넘까지 러브콜→ ATM은 판매 거부 - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UOV9ZTE0yRXpHdGpNcjM3YzIzcXZPNXkzdlBmc21uQndfOXVKak1QUXh3SkI0RUVsSFF4NmJIOGd1ZUxqZXdwQzdhUmxHNUdLVzNOd0Y2bDc2d2ZlUTNrRWczel9UMElUWUNHc0NjSXA?oc=5"
+        },
+        {
             "source": "스포츠경향",
-            "title": "3시즌·68경기 만에 첫 골 “저주에 걸린 줄 알았다” - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lc0c2Yjl1a3dpS1d3QnR0M29FUWo4VjFta0Zla0VKdEpTOHM5LVAwang3T0p1SVIwOUlodjdVSDhOMlN1VGVIcGtLNDJjYVF5bHpNSnVjUXN3ZER6ZHfSAWNBVV95cUxQb0FTTEFLQURJcmtyTnRNS3J6VUZ0eFo5SXVYb0tra1R6YXByZGJncmhwMFJvQ05BVVdlQlBiYjdaRHVCcnY1U3M4cFFrZzFrNU82OFp2TWdLS3VzX0pUd1lCbE0?oc=5"
+            "title": "돈이 삼킨 프리미어리그…세계 갑부 손아귀에서 못 빠져나온다 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jOV8wUUdPbVVpR2c5V1JnTlBUNW1zT3BEZFQtNnhYRzQ3aGpTR2JCVjh5N1RUbzJPYjVqMlNBcW9YRTlzLVp6TnRCdG9DbTZRT3JfTTFrZ1ZxQWpTQXfSAWNBVV95cUxOajJtUGdtN3BmOXJ0Sng2bG5FUHNVQXdOVTVrS2VLMHdtQnNrWGllQXFRQXNkX1d0QTUydHlRc1FRWmxMRS00NjE2dkhNdjFWVUJ4b3A4UmtkaFRfTUpQWFo3ZW8?oc=5"
         }
     ],
     "transfers": [
