@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-10-14 17:39:15",
+    "timestamp": "2026-10-14 21:02:35",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "BBC",
+            "title": "Man City cruise to statement win over 10-man Liverpool - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90QUxJYktfeXVaOEdqX0kyNHR3eE1oVHV2MnA1aHcxWXpnbng1eGQwRzhDZ3FJNzYtS1VKek40QWw2aHREb1Y5b192cm03T0FzZnNvWWoyejhGZVpkZE80cDY4WQ?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Premier League 26/27 could be a stone-cold classic (if we ignore Man City) - Football365",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Lajk0UkxsTkVldnEtOXlqTUFka3lmWjdwaWNvNnRWTm5xYnJyaHdjeVptTG1COTdFZzBZNFN5NlVGZjRROG13WFpFSm9EX3VfUzNxTDNXZmlIMkdaZ3dXeXZGWVRzZ3hIUFNCZVl0VGRaQ2NXVzN3Njl0aGZJZw?oc=5"
+        },
+        {
+            "source": "Daily Mirror",
+            "title": "Man City charges LIVE: Pep Guardiola returns as appeal and punishment timeline emerges - Daily Mirror",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHFJWm42QmJwdUNJdkw2cVJseVdRSE9TeW1LV3N3VVpzWkQ2SmZFdEtoZlg4dDhGTEI3RVFnTWZtNWFaMmFhaWxSU3NVUjlqRjVhLXBfV3lYcERvWW1EMzVpTmZ2SFNJMzZMVFpwTUUtMXNFRFFFbUEya1JoTWMzYUxoa3pEdlBOVlE?oc=5"
+        },
+        {
+            "source": "Liverpool FC",
+            "title": "Liverpool are ‘serious’ about signing a player described by - Liverpool FC",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
+        },
+        {
+            "source": "www.footballmuse.com",
+            "title": "The rise of Fabrizio Romano: Is transfer journalism turning on its biggest star? - www.footballmuse.com",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzF0dkU4VU45SmdXeF9XMS03Y0tBTEUyTG84SEE2S2Z4UzJ0R2RTbk96VUF5T242Y2JOb2htQ1JxU2RtellmM1RFLVBLek83Wm1DTG1kaVR6Ulg4NjYzM3JVc3NoVW9ZREd6SGtwTkszTHNsXzBER3BhWUZuNW4yYUpmQnJtQkxBN2E0UWJLeEo1bWc3VTBGVjZacnloZGt3S0JBVndtTEk2NzJFdlR1TTNiclZXLTQ?oc=5"
+        },
+        {
+            "source": "Football365",
+            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - Football365",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "David Ornstein’s The Athletic FC Q&A: Arsenal’s transfer decisions? How secure is Michael Carrick? - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFJIT2pBMWxyVXFoWnRydk5ncTVOMlpmcEtmdUV0dFdnTVcydGRINjg0Z1pGZERiOU9VVzNKSzRSVWNQZmwyX0paZzZUOTd1dWNyYTZYZmt3RHpTa3QzcktCNFEtWmJucERQbnV6S1ZDamg2OHlpb2NROUVJR2RkOE9xbVRDbFNEMFJMa1AwN2c3S2hZaGFfbjNJdGtpSkV1NHc?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZtOUs4M2FPZUJTRjB3Y3JfeGR4bUg0TFFFaUMzOTZtVmI2dHM5dTJWa2NxYWZ1dV9tVVEtdmxCazZlTTlKcXVqNjdodkxaM1pLWEFDWmhrWV9wMF9NcHZxekduMWx5ZnpuemEzaFJnNGh3Z2FxdW9IRjZEczM3UGp3ZTNBLVpfMUxMamJlYjBoTVFTNHBiNExuNGxhMzBqYXI3YzdCOA?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+        },
+        {
+            "source": "Universidad de Córdoba (UCO)",
+            "title": "((SPORTS LIVE TV)) Sheffield Utd vs Portsmouth 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 October 2026 - Universidad de Córdoba (UCO)",
+            "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVVBwTURvUzQyVHNBdXlvRmRPZEo5ZG5xc19UUUkxVXNXM0x3cXBpRGFCOVBTXzU5TFdSTmxrVDh3TXdGekNzWVVCZ3ZNbDMweGg1V2NITHhkSW9vTUg3eWVaNGZlY2EwQ0dLZ2YtR0NOd1V3eTVBODlwN1JwWk5ncVJBUlhKRnRUODBVbGZ5TC1QLXZ4WHZvb21iQUlJYkhSb1hBOFpGVTZjVDdXWk9MdmUzQ3gwM0tYRGdVWDhGSnpsSUN5OTFNbWQwNjdUdDZBdnpZdmotNENFeDdkMk5wTnN6ZzkzMVYyQ29PbS1VWWFHY0JjaU9sWnExQ0RkdElHRU05Qy1jZzdvRWY2a19hVWc1V3k3Vmp5b0ZkSTMwT1V0ZWpfYzI3eWhkQUVPdlVkTGNSNGtqNGl6WEYzWDQySGhNQzZwWE1JYy1PUU1uZ3Y3OWhTUnc?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXpJN2V3ZE1saXRuUm41TFpGeWdLcTFOR1NLcmZrUXRpSXctUm9GSXlSLXBoUVFwWWJlbGJpQnRDOXJQNEhRTWF6bFFYYWYyRXp5ck5jeUNGRnFpczJabGszNWp3aWppUS1XQUJZYk5xQkdPN0k3U01CY3Z2NllzSnpBQVBnenpTNmxINWRXdDVtc05FM0dPNXRsRHhTMHdvMnJZODJOMVBCUF9rQzJwbFVKUkM5bkFrS3F3NVdkY3hTQWdrRlNuME56TGNic05JaFRsbWxVUEYxMTdNVk9YVDFHVDc?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "이강인 41초 만에 ‘킬패스’…AT, 맨유 꺾고 UCL 첫 승 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjBTSWljRU9FSmY4MEJJQmxWeXFDMUFCTHRxVEVtbElObm0zcG9IQjQ2R1ExYnpuWFQzT2J4TDEyY3I0Uzl1dDQ1TzktVzlsT3ZiejE2TjdmaTlTcGh6REZyVjdiWTBxTUdFY25ycGFfSVdlTllGTjdZVUZnQmVQRHdPWDJySEhfU2pz?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "“맨시티, 프리미어리그 재정 규정 위반 징계 피하길 바란다” PSG 엔리케 감독 깜짝 발언 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoMldzekJEM3JSZVZmaGRuS0x3S0xXalRFQ19wXzJETFRIUUFUWjBLOEk4eTNFbVlMcV9sS3VFMlQyV3o1dUE4QzEyTkZzNDlOTVE4THFVU3BSWWJnNnM5c3RmNE56T290QUlBZVVla0g?oc=5"
+        },
+        {
+            "source": "스포탈코리아",
+            "title": "\"에이전트에게 이미 뜻 전달\"...'韓 국가대표 공격수' 오현규, 프리미어리그 구단 러브콜에도 베식타스 집중 \"팀 떠날 생각 없다\" - 스포탈코리아",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUUydzkxNTA3OW5LX3Jla2o4YzBDR2EyTzhoN0Y0MHVIVFI1NVNzRzFId20zVlptZFRfVFFQQ0lHV3R0NTlnWXRUZV9BLW1iRlhINHYzSjljamRzZzJxNXpBclJ5OW5JMkYwckYwQnJCVHpQZUdaRzNMTHZ5LW1XTVRn?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "레알 마드리드 간판도 소용없다! 프리미어리그 개막 후 6경기 무승→“결과 얻지 못하면 시간 끝날 수도” 전망 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NZ1pJazhWWjdNM3NVX2NSOGc1ZEJGZERMbks3dnNGLXN2NzA4Nkxhd2thX1FkV0FGVzZYOTZyakRZYjYyMTk2ckFxTmdtNFFHd3k1MjktMWhQanUzMTFxM0t5NUNLR2o5b1ptcWRHZHllYU5x?oc=5"
+        },
+        {
+            "source": "www.xportsnews.com",
+            "title": "램파드, 서울아파트 맞먹는 '15억 고가 시계' 찼더니 강등권 탈출?…승격팀 코번트리서 2연속 승리 웃었다→놀라운 우연 화제 - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VdFUzM3h0eF90TXg4Vm82X0F0Q0VYODNXcU9tS2VZZTlkNTRvam9fZ2E3TV9Hb1ZRZ29Vd0JLU3ZiSWE2NV9WNWRSQ3ZLaHp6V2F3Ng?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "3시즌·68경기 만에 첫 골 “저주에 걸린 줄 알았다” - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjdmekMxTGtoTUNzcENlMEJfMkZVMlZaWDV2cTBCQllFQk1rV2dJT1F5cUVsdW9XRXFGOFhYTVY1d3RoNHBaNzY3ZXJMTWJCRkVDNTJCX2VudW9fZFRsZWV4Q3c3RFIwaFpaRVJqbE5FZU5TOWExTFkwSGQ0UUVUTFgySEthRVRQRXV2OWdBU05TcG9sVTR6bUhpVEV6VzFOSnNGU3hR0gFjQVVfeXFMUG9BU0xBS0FESXJrck50TUtyelVGdHhaOUl1WG9La2tUemFwcmRiZ3JocDBSb0NOQVVXZUJQYmI3WkR1QnJ2NVNzOHBRa2cxazVPNjhadk1nS0t1c19KVHdZQmxN?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "英 매체 깜짝 단독 보도! '캐릭 경질→휘르첼러 사령탑 부임' 전망…'이미 3년 재계약' 보상금 지급해야 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yMlhicVBTZWh1YU81T2dZeWJjVVRKTENQeUlKYTJVcW0xQnZ4cTRDdVZSMHBuaVpXQ3l0YzR3cW9xTzVRc0VFMW52blNLeWZtR1A0QmJyU2VDVnRMc2RrOVBFNnRlNHJtRUotYjJScFBFVHJaanpyeG5rQWtWQQ?oc=5"
+        },
+        {
+            "source": "Your Field",
+            "title": "맨유 주장 맞아? \"동료들 충돌하는데 혼자 앉아 있더라\" 브루노 향한 충격 혹평...\"이 모든 상황에 지친 듯\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3eG9YX1hsNEVLSUNSM3NEa3dUVGk5Y0kwcXFFQmdKWGE4Q1V3ellhU2J5cG1jajVsbWNWSHRPLTBqd2dVd1d3bE1EdzBVUU02Y2wxQURTRnQ3ek5zWWQzT0JTQTRVZFZicnRDWlhmSFVxclhhZHc?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-10-14",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
