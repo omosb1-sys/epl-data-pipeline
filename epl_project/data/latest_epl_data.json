@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-13 22:01:16",
+    "timestamp": "2026-10-14 01:27:24",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Liverpool FC",
-            "title": "LASK v Liverpool: Champions League team news - Liverpool FC",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMDZXSTRNX095c21BQS1aSkJzRl96Y1ZMMnloMmt4NlhOamJLTWp1VU9NSFR1SFQ5YnBaRG1vUzRsSXItSV9kZUxEZWNRRXhNRmJRd1dpdTN2Q2FQNFM1Y1Z0WVJIMktHRkUyNlVfc29yZmdDSDc0UXNKbUVHaGZIVndR?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Fabian Hurzeler's Brighton are flying in the Premier League and it is a collective effort - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQ1RCdnlPTUJ4S25SenVlTkFfUU1mV1M3dVVubEQxbVdZUG5TQ21WUENMWW1wcy0zVzlNenZoY2hHdkN5X2dFMzBwcHdPcUVDbVVpQTdEVHBJcGd0a3pES0NGak90R0xZUGsyTkh4TW9IMjE2cVpBTW9yMmN6RXI1b1d1UElRZTNTOF9xQ0NLd0xYeWNOeWwweWFXSFIzX1pLZkEzWVFLZW9fcERaRGR3S1ZpY2ZBczM2QVhzWHB1eDFESlZOSnE3UUpkcnlmSkFMOUZka25GcEpmXy1EcGVGalhvRURWYld0bVFvQzdDLV9lc1UxSFJVaGpEdld2eTQ?oc=5"
-        },
-        {
             "source": "BBC",
-            "title": "Coventry City 4-1 Newcastle United: Sky Blues win first Premier League home game in 25 years - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BOXYyNEpiZ0U4WUg0eHpWR2M2cUk0Uk1ZQWlFdlFkcXVYU2FUZWpKTHo5U2cyTVNRV1JuWG96VmhFYjgyY1pBTnpWVzlZS08xSTVESGw2VE1MMXJPTnRfOTlMWFlvUQ?oc=5"
+            "title": "Man City cruise to statement win over 10-man Liverpool - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90QUxJYktfeXVaOEdqX0kyNHR3eE1oVHV2MnA1aHcxWXpnbng1eGQwRzhDZ3FJNzYtS1VKek40QWw2aHREb1Y5b192cm03T0FzZnNvWWoyejhGZVpkZE80cDY4WQ?oc=5"
+        },
+        {
+            "source": "Manchester Evening News",
+            "title": "Man City charges: Recruitment confirmed as Premier League told to issue two punishments - Manchester Evening News",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmhnbFlJOWFIYlp3RVB3UFlGZ09KeGQwNWhPMmNuYXpkdDJURTd0d1dHZF9lVTJ1aHlpNFBwRC0zTGVPZVJJSWJkcU12RExnWXR5SG9lTUNyV0dldWZSdVdtNXFWV1BId0FVYnFNOFR1cFhyN2ZZMWRXT1FpdjZtc2FwSTg1a1pQN2wwZ0FXenl4eWRFYTVCU3l5NDdRSV9MaEJ4TzNTdDYxdlBTQ2Iw0gG0AUFVX3lxTE1EaHplZzl1cjdlWHJTYmxjbXVaWURZdHdBTkFxSk5ucGN4STFseE93eS1QbWtBM0p5dzd5WXN3djEtNVZiZ05HLXpOMDlWUlBLMVdWUjJiNUhRSURnZTVLeEQxZ2dpSVBFUk91cFlHSVNGTzFWTlB0d1FIS29JdmFZLWNYZmhmZlhBWHVDbGhCY1ZOcVNDV1Y3ZWc3V3gyQUpMX1N1VzFJS2FlNkUyR0dKcFdQWA?oc=5"
+        },
+        {
+            "source": "Daily Mirror",
+            "title": "Man City charges LIVE: Four punishments named as Premier League execs send texts - Daily Mirror",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTkyemJFd0dKUW1CT2xrX2FLdkV4WWxYd3FrV0N6SEdudFRReDRoYnNSZ0NJWUhUX2I3NzZVYzNXOWcwUmNTRWNwUWVDdEpkSzhpcjJoS1JKRDVZNHEyZW45V1d2QjJqTHA5TUZsRGMxWmxFcXdIcVREVWJJUlJvT2hRLWI3bk0?oc=5"
         },
         {
             "source": "Liverpool FC",
@@ -41,29 +41,34 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZtOUs4M2FPZUJTRjB3Y3JfeGR4bUg0TFFFaUMzOTZtVmI2dHM5dTJWa2NxYWZ1dV9tVVEtdmxCazZlTTlKcXVqNjdodkxaM1pLWEFDWmhrWV9wMF9NcHZxekduMWx5ZnpuemEzaFJnNGh3Z2FxdW9IRjZEczM3UGp3ZTNBLVpfMUxMamJlYjBoTVFTNHBiNExuNGxhMzBqYXI3YzdCOA?oc=5"
         },
         {
-            "source": "TNT Sports",
-            "title": "Ornstein on Man City charges - and what happens next - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFFmV3k0aUo3c2Fjd0cyc0hsbC14TUhaMWVHMElvU0wxeDNpUnlLZWp5a3YxRUNOMDA3TEtnN2haMkpVOTVHRVkwdE9OTmh4c0R2dXNZdjFMWllCZGNSaV85TWo5bTJ5d20zSThucjJCVTM0al9yT3dxdDZKSHliT2NkTFc5U2tmOF9oY0pnLTMwWDR5S3pVTjlINHYxVlBkZVIyTkt6UDMtcmNIX0JWZGJtVHBMdDRQOXdNcUVQUGJBMk9QNXA5cEhDMUd1WnVx?oc=5"
-        },
-        {
             "source": "The New York Times",
             "title": "Aston Villa reach agreement in principle to sign Ibrahim Mbaye from PSG in €55m deal - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE?oc=5"
         },
         {
+            "source": "The New York Times",
+            "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
+        },
+        {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "title": "Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXpJN2V3ZE1saXRuUm41TFpGeWdLcTFOR1NLcmZrUXRpSXctUm9GSXlSLXBoUVFwWWJlbGJpQnRDOXJQNEhRTWF6bFFYYWYyRXp5ck5jeUNGRnFpczJabGszNWp3aWppUS1XQUJZYk5xQkdPN0k3U01CY3Z2NllzSnpBQVBnenpTNmxINWRXdDVtc05FM0dPNXRsRHhTMHdvMnJZODJOMVBCUF9rQzJwbFVKUkM5bkFrS3F3NVdkY3hTQWdrRlNuME56TGNic05JaFRsbWxVUEYxMTdNVk9YVDFHVDc?oc=5"
         },
         {
-            "source": "Universidad de Córdoba (UCO)",
-            "title": "[WATCHLIVE]SKY!] Red Wings vs Devils Game LIVE 14/14/2026 - Universidad de Córdoba (UCO)",
-            "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNWUFLeUI5N0FqbUpIVDJaYVZQZTZyZVYybEoxdGphX25ablhMQWQ5dk9lYzVrTUw3bUhPeDVsdWRveDkyR185YzZWTzlTT21RWlZUMW5IYzBBNXZPYkY0WjBrN25hZW8xMGtCRkxIRlQyWU1mNUEzMVZaNkFzb3BRQ1VacVNKNmtmeHVjZS01NnRBckNzSF9RTFlEcmo1R3B2VnRYNk5WOVFRRTBxUnFOTGxRRm0wcDZJNmZ6SFFpOEUxUzNPcGlCVldGQVM4UFBZakl0clc0bVE1Q2tlemhZeUkxc3RCMjRFMWE4cTRuSzM0NGRPQTRpOTdXWWtyME5IanNpZm81ZUh4VXNPdDBvekthZTkxaVdDWDFZOTJCdjNQQ2I3UU5DUFVRUnJWV1JQbWg5RU1GMU01YnI0ZVc1OUtkdHd3RGFWX1E?oc=5"
+            "source": "Sky Sports",
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3h4Z0lUOUN1emVYVTI2SXlXXzh0MG5GUFNHWVE4bFluS0UzYU5nWmE4aVlsNnlaUlk5bUw2TlpsdU44QmYtY1BEOExjRXdlOW9xd3lDVlBKWWZmZVllNWdxdWlYS2oyYzd5TFExTGdBeGxaNnQ2YWlnSUM3d3hLOTdfMEM4ZVJHRkQ3SWZDWGtMVkFoS0JUSnA2Skp5ckNRd3M5NDgtUEpJd210UWw0a0NtUmNqS0o3RFZtYVlXZ1JxQUJZelZtZVVrWngwNmJmWFh0bmJwc0huR2psVVdiYy05VW1rYU1Xd0o3eTN3?oc=5"
         },
         {
-            "source": "Laodong.vn",
-            "title": "챔피언스 리그 아틀레티코 마드리드 대 맨유 생중계 링크 - Laodong.vn",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQm5YRW5pV0V4Nm04anhEX3hoemtvR2FIYzdWSFA2azVkaGJNQUJJMXR4WS1hMUJlblNmeW1Id3d2WllIUG1xMnZJR0VVaE51YlFONzIxVkJkUFVMYkljVWdtS2JycF96alVLaS1fZFFQRUpWNWF5NHk5QTZnckx6eXY4b0hsUEc1aXpqUXRTVXNublJ3THkyWVJQRXFlNW1QNDdQV09XOW9aYVhBWFZHYWx6UTVCSk1fWXh3?oc=5"
+            "source": "Premier League",
+            "title": "Fixture amendments for Premier League matches in October and November - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFXR2prVzJOZXNGdWw2eUdJbDcwQXhBTGdqOWgxaXhtcjRhT1JRdUN1ZTZBZG5jMmpDOFVKMkQxdTBPektiOGJzb1p0M0F1UE9rWmtfdVRxSHBsLXEtUU50RDJ5RW96ZzJQWGR6UTlodkx6Zlp5QlRKU1hMV2VSNk5rZTloTVVaWG9KU3pUY2NpRFlIZlRKT0YyWHlRUk1yZnBnaXRaOUFyTWluWE9OeWdsMEV3Zw?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "이강인 41초 만에 ‘킬패스’…AT, 맨유 꺾고 UCL 첫 승 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjBTSWljRU9FSmY4MEJJQmxWeXFDMUFCTHRxVEVtbElObm0zcG9IQjQ2R1ExYnpuWFQzT2J4TDEyY3I0Uzl1dDQ1TzktVzlsT3ZiejE2TjdmaTlTcGh6REZyVjdiWTBxTUdFY25ycGFfSVdlTllGTjdZVUZnQmVQRHdPWDJySEhfU2pz?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -71,9 +76,9 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUUydzkxNTA3OW5LX3Jla2o4YzBDR2EyTzhoN0Y0MHVIVFI1NVNzRzFId20zVlptZFRfVFFQQ0lHV3R0NTlnWXRUZV9BLW1iRlhINHYzSjljamRzZzJxNXpBclJ5OW5JMkYwckYwQnJCVHpQZUdaRzNMTHZ5LW1XTVRn?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "전쟁터였던 안필드… 맨시티 팬들은 왜 ‘바나나’를 흔들었을까 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaDE1VkpoUmpJMmhaTkVSUDhrOTFjM0VDalNTMmxIdFZDT3F3V3JULWVJUkVHYWxTRk1mRVRqb28xaFY3ZV9PMlVTSkFEZDd6WEVpbEhZSkFBNnJfY2NWdFYtbmh6azVvZ01Ra19BNTd5RWlUSlRLX2NyUnptTHA0X1E5SUY5elJicnY1X1VMTDZBTW5rN2xrZVNvZUVTUQ?oc=5"
+            "source": "스포츠조선",
+            "title": "양민혁 버린 램파드, 잘 나가네! 25년 만에 EPL 홈 승리 감격…코벤트리, 뉴캐슬 4-1 대파→토트넘도 못한 첫 승, 벌써 2연승 신고 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84ZUMyTzZRLVNKVk1GbnduMmR5LTFIQ2ZuZU1qX1hVWU9pTTBoZkl2bGY1SVl0LXQ5b051ZEdmRHNaeXBycEJZOFRjUVRLMS14UERxaWtuUDg0WXV1VHpnSWlNRi1yU0oxUVV6MktXUWRYLV9QVUlmYWFEVGV1dw?oc=5"
         },
         {
             "source": "Manchester City FC",
@@ -81,24 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHBIRExjSTRaZGxXODduVTY0VUlvNnJIcEx0TWhtb1VzYmNuWVVqenJHQjNHSXZZWTlHa3hhZFlHWk9VZFB3ZEVPRzlueEw1M3RRR3VfaW5YbGY4Q2RLSDVTejdBYnRmNjRwYVhnTmgxZjRyV2QyRDNOS3NDRFkteVprNU1USy1m?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "'충격, 안필드 소요 사태' 맨체스터 시티에 0-3 충격패→관중과 경찰 충돌→10명 체포, 경찰 얼굴 부상..'완패한 리버풀의 어두운 그림자 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PUjNmdXU2VlhuenFTMDFHM0JlNFQtak5OV3ozV1FINnBRRkZfYWJOWk1Hd2tTMmF6Y0dsQm5xLWRDSVkxb1BaOGozMGtuZGw3YVhSV1lTTjRPekpIam1kWHBEdXRZLUtQZVNIS2ZOdGU3cmprRlEyQWhiMmpmUQ?oc=5"
+            "source": "Laodong.vn",
+            "title": "챔피언스 리그 아틀레티코 마드리드 대 맨유 생중계 링크 - Laodong.vn",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQm5YRW5pV0V4Nm04anhEX3hoemtvR2FIYzdWSFA2azVkaGJNQUJJMXR4WS1hMUJlblNmeW1Id3d2WllIUG1xMnZJR0VVaE51YlFONzIxVkJkUFVMYkljVWdtS2JycF96alVLaS1fZFFQRUpWNWF5NHk5QTZnckx6eXY4b0hsUEc1aXpqUXRTVXNublJ3THkyWVJQRXFlNW1QNDdQV09XOW9aYVhBWFZHYWx6UTVCSk1fWXh3?oc=5"
         },
         {
-            "source": "SPOTV NEWS",
-            "title": "韓 축구 프리미어리그 진출, 다시 활짝 열린다 “오현규, 겨울에 토트넘·헐시티 이적설” - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVeVlGNmRxdGl0WGRCNGRLTE1PMkY2eXVIOTFpemg1SHJRREstZlk4ZTRJTWtfa05tOERtYXNrc1QtSzg4VjhjbDVTMThDZ19yNjhpUUp3X0N4SkhOYVZYcXZtb25NU0F0SzQ4Q3ZPY0M?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "양민혁 버린 램파드, 잘 나가네! 25년 만에 EPL 홈 승리 감격…코벤트리, 뉴캐슬 4-1 대파→토트넘도 못한 첫 승, 벌써 2연승 신고 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84ZUMyTzZRLVNKVk1GbnduMmR5LTFIQ2ZuZU1qX1hVWU9pTTBoZkl2bGY1SVl0LXQ5b051ZEdmRHNaeXBycEJZOFRjUVRLMS14UERxaWtuUDg0WXV1VHpnSWlNRi1yU0oxUVV6MktXUWRYLV9QVUlmYWFEVGV1dw?oc=5"
+            "source": "Your Field",
+            "title": "맨유 주장 맞아? \"동료들 충돌하는데 혼자 앉아 있더라\" 브루노 향한 충격 혹평...\"이 모든 상황에 지친 듯\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3eG9YX1hsNEVLSUNSM3NEa3dUVGk5Y0kwcXFFQmdKWGE4Q1V3ellhU2J5cG1jajVsbWNWSHRPLTBqd2dVd1d3bE1EdzBVUU02Y2wxQURTRnQ3ek5zWWQzT0JTQTRVZFZicnRDWlhmSFVxclhhZHc?oc=5"
         },
         {
             "source": "포포투",
             "title": "'시메오네 부자, 결국 헤어지나!' 맨체스터 UTD, 이강인 동료 영입에 관심!... 맨시티·토트넘까지 러브콜→ ATM은 판매 거부 - 포포투",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UOV9ZTE0yRXpHdGpNcjM3YzIzcXZPNXkzdlBmc21uQndfOXVKak1QUXh3SkI0RUVsSFF4NmJIOGd1ZUxqZXdwQzdhUmxHNUdLVzNOd0Y2bDc2d2ZlUTNrRWczel9UMElUWUNHc0NjSXA?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "3시즌·68경기 만에 첫 골 “저주에 걸린 줄 알았다” - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjdmekMxTGtoTUNzcENlMEJfMkZVMlZaWDV2cTBCQllFQk1rV2dJT1F5cUVsdW9XRXFGOFhYTVY1d3RoNHBaNzY3ZXJMTWJCRkVDNTJCX2VudW9fZFRsZWV4Q3c3RFIwaFpaRVJqbE5FZU5TOWExTFkwSGQ0UUVUTFgySEthRVRQRXV2OWdBU05TcG9sVTR6bUhpVEV6VzFOSnNGU3hR0gFjQVVfeXFMUG9BU0xBS0FESXJrck50TUtyelVGdHhaOUl1WG9La2tUemFwcmRiZ3JocDBSb0NOQVVXZUJQYmI3WkR1QnJ2NVNzOHBRa2cxazVPNjhadk1nS0t1c19KVHdZQmxN?oc=5"
         }
     ],
     "transfers": [
@@ -111,7 +116,7 @@
         },
         {
             "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
-            "date": "2026-10-13",
+            "date": "2026-10-14",
             "type": "Rumor/Verified News",
             "from": "Unknown",
             "to": "EPL Club"
