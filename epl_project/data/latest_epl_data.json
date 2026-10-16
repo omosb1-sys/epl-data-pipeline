@@ -1,24 +1,29 @@
 {
-    "timestamp": "2026-10-16 05:13:34",
+    "timestamp": "2026-10-16 10:15:10",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League: Is the era of the 'Big Six' coming to an end? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pT0VNV01zTWJuYVVQM0VnRFVsa0xja29vcWhhT1FhOENNQW5XeVp3a2N6S2xPSHZSLXZrOVplMThSOXk3RG5hQzlNT3AxNmNYT25sWG1MbVpfY0tINXJaLTA0Y3RkUE9tdmQ0?oc=5"
+        },
+        {
             "source": "The Guardian",
             "title": "Premier League: 10 things to look out for this weekend - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEVLdGU1OS0ySW9JOW1LdGhZYWVIZkNxaUg2OHBpNDEyRFdSRkM3TlBwbmNlbnl6blU5c2FkRDBvZV9faS1La1lKZVlkNVNSck5hYUhLbktHS2xGYXhJSlRnM3RVNDZxNnFva0p0dW4yRWhMQlQ0OWRSU0N5QmE0YUJFbkhFQXVtUXAtTEJkal9XZFZnZ24wamI4Mkg5RTF4a2tTWA?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Ten KEY questions for Matchweek 7's fixtures - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUd0WUluMTJubVJJZFlzVjZQdWplVlgwNG5mQkRLQjBtUVR0VGdFdlNqVkJDanpGSGtoQzl6ejF6cUk5VXlLelMwMjQ5dkctd3NLOWRydzBKV1pnUzBzXzZadjVYbmdjelpqSnQyaGhKWEJ2YVdkb0oxanIxT1VPY3hkY2hmS2FDOFRUZms0STc1REk?oc=5"
+            "source": "BBC",
+            "title": "Premier League news conferences and team news LIVE: Arteta, Maresca, Alonso, Carrick speaking - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tbF9zMlZSUVVmMFptSHFqSHZ2Yi14MWtoVzlwNGRncEIyRUo1WnJON0c3b3dCSnFuWDZveGhieU4xWFN2VUF2SjhzM2luajBrOHhUY2ZENlNMQzFXdmJfcERPdw?oc=5"
         },
         {
-            "source": "Racing Post",
-            "title": "Everton vs Chelsea predictions: 4-1 Bet Builder tip, team news and odds - Racing Post",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2xGaXcwVnk4ZjVwQWFzWU10bHhTQk02NV9YcXViQjU1WHJFUkFid3FCUktMUk8tR3VCOU1oVzJaQzJXb1ZzeDYzUnU2TkJpYzZxaUhDeFl0S01Mc0cxYm5JNFdKNlVFU2tpdHMySEZvM1Nna2JGTHhzdFNoQkN0dmc2VkJtcnhndkNDZDE1Y2JISExSWERPLWtzdmpDQXRKMWhsZmp3Nng5LTU5QTFEQU51R3RyeFAzMTRVM056RHNuM09UellyVjBxQW8yQm83aklLRzVpbDIyb0NjNENj?oc=5"
+            "source": "utdreport",
+            "title": "Romano: One top Man Utd official pushing to appoint ‘meticulous’ EPL head coach - utdreport",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmtVMDU2Y1Ywa2V4b0ROSVVpYUNSd29FWFRFdWlWUXhaUGJXQkNYZnMySmtsTGpOUXpwLVdCdHE1aHFmQ3pFVFVGdE5pbzhXcEw2M29ESHBBV24tYlBqZ3JoeW5uSUxsN2E2YlJQV3VRQXZsVGhxSnY5d0Njd0J0SEg3ekpHcnExWFFrNkdPQWNaM3dObnRIRjlEa0lkdEJ4R2EydnhWOFdfRXRFX2NVY3FR0gG3AUFVX3lxTFBLUUo1TFozdXZqc3lXajZYVFdTMmNOQ3Jzam9TU2NnQmRtSFYtXy1SLTkyTEEtc0s3OEJmcUJRd0pmWWNTU1RMU2lIeEljVEFnVWNOS1JtY00yX3M0MjE1dFZLWEFwd3pBajV5eGVxVlhLYk1ZWkw2UG5LSERROU5IanVFazhlbmNiN3dPVzdlUWxBbVZZWVlhN2toZjloa001SE9Fa1A5Nmxjd0U2Z1IzcWpPWnAzTQ?oc=5"
         },
         {
             "source": "Liverpool FC",
@@ -26,14 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
         },
         {
-            "source": "www.footballmuse.com",
-            "title": "The rise of Fabrizio Romano: Is transfer journalism turning on its biggest star? - www.footballmuse.com",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzF0dkU4VU45SmdXeF9XMS03Y0tBTEUyTG84SEE2S2Z4UzJ0R2RTbk96VUF5T242Y2JOb2htQ1JxU2RtellmM1RFLVBLek83Wm1DTG1kaVR6Ulg4NjYzM3JVc3NoVW9ZREd6SGtwTkszTHNsXzBER3BhWUZuNW4yYUpmQnJtQkxBN2E0UWJLeEo1bWc3VTBGVjZacnloZGt3S0JBVndtTEk2NzJFdlR1TTNiclZXLTQ?oc=5"
-        },
-        {
-            "source": "Football365",
-            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - Football365",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
+            "source": "LiveScore",
+            "title": "Fabrizio Romano: Alex Scott attack, Ronaldo latest, Real Madrid deal - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzR4ckhPbnhJZlBGeUVMZVp2MVhTcENaR3hwZFZ4S2VrOVNBVE9qWGN4em5OekJGcmVER2xoUWpNcjRBWFZTNXJNbGJEbmVfRzRyTFVNV192dTJ3UkRudUdIdUlVNGdDU0JrOEEwX3VsSlp2ZHd0dXJFNVl1d1czUFpNQzdKRmd3eHVQMDJaRXNLN0F3UEF1ZVNscVYyaHBnYmg5MEFGQjVIeEl2d212SHVMbk1vMTZEZDU3eHlCdHlEYVl6OEZFY0xsSTFFQ28?oc=5"
         },
         {
             "source": "The New York Times",
@@ -42,18 +42,18 @@
         },
         {
             "source": "The New York Times",
-            "title": "Aston Villa reach agreement in principle to sign Ibrahim Mbaye from PSG in €55m deal - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5"
         },
         {
+            "source": "The New York Times",
+            "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5"
+        },
+        {
             "source": "Sky Sports",
-            "title": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two | Football News - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2VkdWxmNGtNRDdpWXJfbDgwakQxYmV4eE1GNDdFbmdaVy0yeGJYQTQ5MXJETXVObW1xcW1FSUFOU2NxRU5ydzQzalk2REJ3YjRzdEFCNjRIbktsWmh5a1pGZ0JNUDdxa2ZYMW5qZnY0NGlBbE1PRFJ6NXpUWVJhUVpTUWhwOG1NRFQwamFpU0VMam9kakR3ZHRYSHhhajJBcGowSzgxTHJDYWxXRkFQbktRZFVfRW9xU18tQmt3bWtGVnpGcXRLVEFwa2o2REx3TVpWeDRrdE9hNmRIZ1lz?oc=5"
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
         },
         {
             "source": "Universidad de Córdoba (UCO)",
@@ -62,13 +62,23 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "title": "Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMnlTZzRmcHFLcW9RQVJNM29IR0tNVDBDOUFabTNjSGs1U05BSWVqbEs3eVJlN1E4Z1NiMzdUbWFpWVVvc0tETVZmY25heFc4OVgzTGVjMmJnbVhRcHREWXlSVWZyUGhpWTBIQVlPeFpwX2dKclRvS2tNeUpqa0NfV2QzUGNDZmRJZHo4TUR2dm9oejNjakRBR0E2aktfQWJ1TmRQR1VCVTZRYkt3NGJ2eUxCNkJiUVUyN09RMEMzYkppQk93YjhFb29TNmJxWjVualNn?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "FA컵 우승 48시간 뒤 잘린 맨유 흑역사…10년 만에 맨시티 원망한 이유 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHNOUTR0Qk80QWktb0RsR3UwYmNUV3RjcUF5MnlYRXJkSzlPY2xTb1pBNk1tMm40d292NWtMRmRTT3h4Tk95eExuZzRjMGV3dFVLX2Jfc25Ma2ZaSFJreGJnRDVxeWx4U1o0ekVoNmJ0dS1fWFNBM1ptdkljSkYycXlLWXN4RUpLRmZV?oc=5"
+            "title": "'EPL 떠난 손흥민 2년 연속 후보제외' 이강인·황인범 나란히 AFC 국제선수상 후보…김혜리, 여자 올해의 선수 최종 후보 선정 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2x6QVcySWlJd0RKNEh1MkZXM19sWjZ5Zjktc2YyNVBDNlJRSnFmd2VpbnVoaHdvRnZ4NkFaODhMVGRlUDQzcEUtWVZFN0FrZzZUTzlwcXJEZEFSQlZoWGRyY0FMTFgzSDkzeEQ3cEFqQlJuM094Ti1MY01TbDZSMXYtOA?oc=5"
+        },
+        {
+            "source": "세계일보",
+            "title": "주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’ - 세계일보",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pR01nSHIxZG4yLVJRX0hxMnV5cmgxa2FQb2FiV3Qxa005S3dlYXV6dHlDTDhNdXFvT0kzcFpVa3JpMkNyZXpmMm5PTFh1NWVodEl5V0hCQVHSAVRBVV95cUxOWm5hOTl1cHFVWFhWT01RRFYxMHlkdkRNSk1mTkE0aVAwNzl0QXhOeW9iR0NYQjhHY29IVUZNb0J5b0pnS05Hc295VF95cXhXeUxiNGE?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "“스카우팅 책임자가 영입 후보로 제시” 김민재, 21호 코리안 프리미어리거 등극하나…나폴리 이적 이끈 인물이 아스널에 직접 추천 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KT3lKSzd1UkVmNEJKNi1DZm83QlZlaHdhaU5ka25SNUxJMW5sVi1hOHIzNDRvNmQtRF9sMVU5MlRkTjREQXNIZmNNUDJ4akxuTk9kU2ZOOE9oeUJaRTZUNklBUGdvdjhhMVVSLW5SZUJieTda?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -91,19 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NZS02WG1DdlJkQjVCYXRvVW9hZEk2Y3cwcnFIMlptbVMyOHlDcjBPbmZET2k5Vll6Slh1TVZ0UjhITVdrNXJlVm5HR1o2WFEzNTNHaUx5RkZMRVk3MG05Z0NwR1h4SkNv?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "\"日 이토나 팔아라\"...김민재, 韓 21호 프리미어리거 가능성 대반전! 'PL 챔피언' 아스날 러브콜 등장→뮌헨 팬들 '갑론을박' - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkVHJEdWhCY1JYc2xDTVpPT0ZMMWJxUTNHc0VoaDZ0bllaek1ITVl3dFo5RlZrSnR0S1FWTnRiRHFvWkpDMlA1cWtycFI4SG9QQ1dkSm9qQ2QtbjAwQzdLY2wxYi1yMUNhMlHSAW9BVV95cUxNU0EtSktEUkdCT3hwYmtUcGJWMEZtM3JvelRzQlZmVFVUdUQ1REdoY3Y3dDdSX3pRU3hNWlVwSGItQWhZTXhzVERqc3J2Vi1ZbnhJajAzTFRSWVZ5aW9zeVNZWjNDWEM1S0ZQSnZXcHc?oc=5"
-        },
-        {
             "source": "FT스포츠",
             "title": "“유니폼이 찢어질 뻔했다” 이강인 향한 맨유 수비수의 거친 플레이, 반칙 논란 터졌다 - FT스포츠",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BaWRIdWozV1JjOTBnZzV2RDBiSEM4ZFVtR0duSHhNeXhzcllZYzE4cmFranUwZE5xUWhiUFloQmgyd0N2YU5sVjVfX2VDeUtfNHh5dzgySUkyRXBFdDNCZl9hamN2Zw?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "'EPL 킬러' PSG에 또 다시 무너진 맨시티... 마레스카의 씁쓸한 핑계 \"상대는 주말에 주축 선수 쉬게 하잖아\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BRzIzamh1dlB2YlJtYUNPaGI4bGluQTNIOEVPd25rcXVVVkgwNGlIRDhvV09pYmlidjRHSlU5bUU4Qi1DS3BzQV9PS0VyUnJjVExFWWtCa0RlSTRHYm13QloyamktNGtuQ0NTbnlNNGs3ekll?oc=5"
         }
     ],
     "transfers": [
