@@ -1,19 +1,19 @@
 {
-    "timestamp": "2026-10-17 05:08:56",
+    "timestamp": "2026-10-17 09:49:13",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Ranking the Premier League's all-time greatest super subs - BBC",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kc3A0SUpOQ1RjdlkzVTNRcVd2ZDlKaXdfQ0NMZVV5M0ZTRUFsUjZVcGl2ZVV1ZngtNXVCRjVKalBYVzBFUk82a3Y5OFhOZFhzZlNKdzBwczRlZ2w4SS1LTmxvUjJNUDkxZE1R?oc=5"
-        },
-        {
             "source": "The Guardian",
             "title": "Carrick includes Martínez in squad; Madrid call for Tebas to quit over Goebbels comparison: football news – as it happened - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak9IbU9ZaldxV3U4elJzTGdreWx2blZUTmNqU1NIazJfdVZMWWJ3WHI5eUl4a1M2THlyckRkejEydkdaVm10ZEFIQl9ZX2I4LXJmeDhoMmhwaGQ0eHp0UHl2RGR1akRLV1ViM29yNVA2dVpMOElMRXBjdm01UnkwSi1PQXdNVGl0U0RmOHdDME9Pbmt2Z1N1Q0V3RHVBY1liVFRGVTZiYWpsSlplTjhTQktTNmtoZ1FWQTlQbXpTZDE0TUZfN2JSWEhuSnhLOGxodHc?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Predicted Man United line-up vs Leeds: Player who’s recorded 13 open-play chances returns to XI - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR3Rhb2QyUDlYWXRtM09OWmJwWHU0UGliZllNRjRTREl3OWZoOVBCUlVoUVJrWjJaNzJGT0tIMUxyWEtCN1NVYS1uYUFicXA2aE91UTd1cUprZlM0TnU5cmtUSHVSb2FmV0I1c05CSG42c3dlOExwVmFOdmJwWUZ0c24taVZYYXlFekJ1TkdzNU56dzFNSGpJZFpLUDlIckhQLVBERlRhVHc5RFB3dzhZZHBYWEhEN2ZWOE1SVW9LZHZhRmNEOGY1UjFrc2ZMV1dfMEl6MEVUd3VodjJ5RmZQOE1CV0paYmNtVDBqcnBuaGphS2JT?oc=5"
         },
         {
             "source": "BBC",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
         },
         {
-            "source": "Football365",
-            "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’ - Football365",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1nX25rc0F4WHNrVjBHQ0ZtZ0poZWJ0RTBzY1JXRVZKYVoxeW1XNUhIZFlqWERFRXhOdVlPZFh4TjV4RDh4RVZTMnE5alBjek13aTRRWnlSOFZZekhURzVhS3F1c0JqLU1rbFRGZmRHRzA1QlVtaTc1eTB0SVdmdVpTeFZWdy1XNUN1SEgxZ25VSVk?oc=5"
+            "source": "FootballTransfers.com",
+            "title": "Fabrizio Romano Transfer News: Alex Scott attack, Ronaldo latest, Real Madrid deal - FootballTransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY29WWWEwQ2VrZ1JJSUQteUFUODNpbmhZN1I0U0xqQ3RzY01ycGZtdGNhWUFaWGtLd0N5bFRuek5kUHhJY28yT1QzRUxQZlV3ZDBKeG5FSURaUDBheWU2SWNvRTlpaExfNWxMRVZ2X3dKV3VtcUUtMG8tM1dZRE9lX2MyWE1OUFZZSWhyaUx6NWJGZFR1R0N3Yms1T0xkY29EdDNoZXdtNFZFS1psS1ZVNnpfa3hFUm9TV2Rob3RhMGVva0E?oc=5"
         },
         {
             "source": "The New York Times",
@@ -47,33 +47,38 @@
         },
         {
             "source": "The New York Times",
-            "title": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5"
+            "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVFldEhXcW5xMVFYbUphMG9PVWwwV0JIdGlSWmRuX2IwTTE1MldfY1ZFZjJlNkMzOFBOa1A1UkJwR3VOU1Q5RDVPY183UWFBeVJ6TjJQZUZ2Q3ZpdlZ5MUlBS3YzdkoxS21GUC1QR3FSc1FuM055aU5HdVNWWHhYb0dtNDN6OGJOTWJ2S2w4RXU3Ynk3QU9pU3hwNEZFU0VxSmJvcFNBYUVFaUt2OUc0OGFB?oc=5"
         },
         {
             "source": "Universidad de Córdoba (UCO)",
-            "title": ">(LIVESTREAMs!)FREE@!Tonga vs England rugby league Live free Football October 17, 2026 - Universidad de Córdoba (UCO)",
-            "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZmpoeFZqRjZ4X3pwdXFmSUhUNzNzbmVhcVVjbVZTSmpyYVA0aVdyYVpSOHo4U2dyV0Z0aHlaMGd1RUJBV01RV3hmSFJ6V0N2NEhCSTNnRTB0QnBaVnlPb21zMWZpQkZDMndCdUd3dGZmc3Z4MWhUZkpQekJGTlZVeXo4bEVGa1RPdndfVklEb2w4Q2tvWG5OaWVEQVVNaUQ1V1BWMW45UmZQUmNjOTZMVlNveDJQSVdUZVM2WkZpVHNoM0FGbnZaOHdVcnVidnI2T251YzcyaXB1TVlhSWFFVUk0b3VfZTJ5MlBWWkhhcFJ6ZVh1SlRjTmMyd2l1Y1Y1YVh6NVJEbnJTV01qOHpUTTBLamY5elJackdUUTFCVVZBbnZ0M0x6X0M1ajhwM0hlck1YNEdOa1hHdDlybzQwMWdMNUFyR3R1TWc?oc=5"
+            "title": "[RLWCLIVE]FREE]* Tonga vs England Live Free RLWC Rugby League On TV October 17, 2026 - Universidad de Córdoba (UCO)",
+            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPLWJyTHRDNk1CV0NmU0NpekJ1b3lDNnp6Ukp0bWtieGVkRlhNQ2VGa2VsUk55dmthQkl6a180NVVXaklLSC1yYWgwbFdnRWFoRjlmamVWaHVCdkVseG9yMDFkN08yUkJ1NWFlQWkzVF9qR3lsT2c5c21zWGlTQS01aC14LXNweFRlRUpFSV9jeklaRHpXcGRRMUpiMnJoei1lcmlxUHI5NUpZY3c4WGY3azFlbkF4SG4xS2MtNHhERDBOaS1Tc0syNF9veXVyaUdybHNXNWQtWm1Qb1Y2bVdLSU8yYlI0SmpRUEpSRU5YQjVCTHU1eGV6ZzdfN0lxZVAzakpxUTI2a3JXRkVodG5PX2szY0RHc3Fyel84RU85LW1DVEE3Zlow?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5"
+            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcjdXYWthZjE3ZWY0LXVtNzl0Ulg2T0ZlcEt5MnAtQURWWGpXOVlwQm53dUtxLTRBZDJNQXRSYzRDYmg5V2NsZmFjZGJVVjYtNlpXdnFqVU40U253dUppX2FqcEN5VGVlZkoxamdFakpFclFrZWFGWUxFOVRSNG1Sb3lhb2VxNW5OTHdZRHZzZGFPNUdJREFiUlYzckcyWkxTUW50TU5BMUxZeFVKMmpVVFl6SFM3S0t3cWlkUFk3UThlZmVhem80akl6S1ZVMzR4a3hYQVh4OG8xS3dFZ291OVdoeWY4MWxBeW1FbU5qd2c2QQ?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "“그냥 뛰는 건 의미 없다”…EPL 데이터로 본 승부 가르는 활동량의 진실 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTFpXS21BMXYzZE5KUEF1WUphVkJuUm5sNjRkRWd2bmtVc0ZmeGc2UDViVlRrVldjcDVwMFk0NTVXdTlCSkFqMXQ2UnJqNnRrUTZhR3U3OFpkZHpRLUHSAWNBVV95cUxQaHo1UW5SZEoxYkFuUFVVclQxYUhEWklpT3V6bmlOd3Y4R0poZ2FWanN6REZtYlBKSXYyUnNMRk16cWI2QUd6SFBnRzRyTWtPTmd5NWdTYmRnWHl3ZUwzdjcwSUU?oc=5"
+            "source": "스포츠조선",
+            "title": "'역사상 최악 스캔들' 맨시티 망했습니다, 사상 초유의 역대급 징계 '유럽대항전 10년 출전 정지 가능성'...EPL 우승 박탈+퇴출 가능성도 여전 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LeW9RSTBiOXc5ZjI4a05ma191dzV3SzhITVZjdlFtWHlhZUhIVmhUSjNaT3RuQ2h5Vk9qdGo5dndxbWc3YlYyMjVrYnRsSzRmLXFWU2lkN29kZjdWSzBnQ05PalVrdDk4YWhvdGYxTVppRXIydW1sSlBETHJmdw?oc=5"
         },
         {
             "source": "세계일보",
             "title": "주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’ - 세계일보",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pR01nSHIxZG4yLVJRX0hxMnV5cmgxa2FQb2FiV3Qxa005S3dlYXV6dHlDTDhNdXFvT0kzcFpVa3JpMkNyZXpmMm5PTFh1NWVodEl5V0hCQVHSAVRBVV95cUxOWm5hOTl1cHFVWFhWT01RRFYxMHlkdkRNSk1mTkE0aVAwNzl0QXhOeW9iR0NYQjhHY29IVUZNb0J5b0pnS05Hc295VF95cXhXeUxiNGE?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "“그냥 뛰는 건 의미 없다”…EPL 데이터로 본 승부 가르는 활동량의 진실 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTFpXS21BMXYzZE5KUEF1WUphVkJuUm5sNjRkRWd2bmtVc0ZmeGc2UDViVlRrVldjcDVwMFk0NTVXdTlCSkFqMXQ2UnJqNnRrUTZhR3U3OFpkZHpRLUHSAWNBVV95cUxQaHo1UW5SZEoxYkFuUFVVclQxYUhEWklpT3V6bmlOd3Y4R0poZ2FWanN6REZtYlBKSXYyUnNMRk16cWI2QUd6SFBnRzRyTWtPTmd5NWdTYmRnWHl3ZUwzdjcwSUU?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -86,24 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZXF4WjVOMWV0dC1GeTAtcWdFSDJJZkVWeTdyN0Y5WGkwVFFkMXA4SEJWT0oyTlpHUTNuRGlQdm5yTTRqMjh1VjdlYVU1Q3UzZXVfbw?oc=5"
         },
         {
+            "source": "FT스포츠",
+            "title": "\"감정 앞섰다\" EPL 맨유 리산드로 마르티네스, 고위층 향한 비판 번복하고 사과 입장 표명 - FT스포츠",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Mlk5dF9TVU5PelF2bXowS29TWVlpeWFHWXpqcEk3Z0p0R0k5WjVvYndvQjJQZk0wRUxXcjVtbV9zQkZqWkdjWWFYWDdPUGhIQ01ZMFcxVXR6VU9nQ1BMa2lpUkJlZw?oc=5"
+        },
+        {
             "source": "인터풋볼",
             "title": "“스카우팅 책임자가 영입 후보로 제시” 김민재, 21호 코리안 프리미어리거 등극하나…나폴리 이적 이끈 인물이 아스널에 직접 추천 - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KT3lKSzd1UkVmNEJKNi1DZm83QlZlaHdhaU5ka25SNUxJMW5sVi1hOHIzNDRvNmQtRF9sMVU5MlRkTjREQXNIZmNNUDJ4akxuTk9kU2ZOOE9oeUJaRTZUNklBUGdvdjhhMVVSLW5SZUJieTda?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "FA컵 우승 48시간 뒤 잘린 맨유 흑역사…10년 만에 맨시티 원망한 이유 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHNOUTR0Qk80QWktb0RsR3UwYmNUV3RjcUF5MnlYRXJkSzlPY2xTb1pBNk1tMm40d292NWtMRmRTT3h4Tk95eExuZzRjMGV3dFVLX2Jfc25Ma2ZaSFJreGJnRDVxeWx4U1o0ekVoNmJ0dS1fWFNBM1ptdkljSkYycXlLWXN4RUpLRmZV?oc=5"
-        },
-        {
-            "source": "FT스포츠",
-            "title": "“유니폼이 찢어질 뻔했다” 이강인 향한 맨유 수비수의 거친 플레이, 반칙 논란 터졌다 - FT스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BaWRIdWozV1JjOTBnZzV2RDBiSEM4ZFVtR0duSHhNeXhzcllZYzE4cmFranUwZE5xUWhiUFloQmgyd0N2YU5sVjVfX2VDeUtfNHh5dzgySUkyRXBFdDNCZl9hamN2Zw?oc=5"
-        },
-        {
             "source": "Your Field",
-            "title": "'韓 국가대표 수비수' 김민재, 'EPL 우승팀' 아스널 이적 가능성 제기...\"사실이다, 스카우트 부서장 직접 추천\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80b1NkZWNicjF6VnI1YkpNMUpOemRudWhlamNrMmV2Q1NIWEZZMzJiOVNhQ0ZmTkNsUE1OYU85RE9aVlpEQ3B6b09aTWNCM05XNHl2X2RSS0plazRnTmtCX2pUeXVHNlM1SlBKbFFsS1psVEVLUHc?oc=5"
+            "title": "'맨유, 결국 캐릭 경질하나!' 9경기 2승 충격 부진→'33세 신흥 명장' 후임 1순위 급부상...\"가장 유력한 후보\" - Your Field",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yODZ3bTllTHBsdDNOT0ZzUGU4ekNvVm95SE84SUVXeHIxOVpZVG81eEprT3RaX1pLWVJtOXZtT09YazBLVEtZbDRYM2QxaEw0UjBxR3A5WWtTNVdHbDdzTmR6M213VEdja1NqR0NTUkV6TTBqMkE?oc=5"
         }
     ],
     "transfers": [
