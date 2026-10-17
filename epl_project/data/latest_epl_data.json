@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-17 16:42:52",
+    "timestamp": "2026-10-17 18:55:50",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "BBC",
-            "title": "Everton 0-2 Chelsea: Emiliano Martinez head injury worry as Pedro Neto goals earn Premier League win - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fSllhUTFCY0luR1VsWEV5YWlFWERMMGRDbDUtR1JPMi1iRmk2Y2RsWEg0TEhCQVoyeS1lSkpzVF9zNXdEVXVwWU5GTHg2MG01azlFbzNPeTIxazZOeGUzVWk0UVI4UQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Brentford 1-2 Liverpool: Alexander Isak and Victor Munoz goals give Reds win - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DV210aEkxeElLSTEtUkZPZzNQWjhIeTJoY1JvbzRRdHYtYUVNXzl1VncyQnB5cUlDZWZ2V2tjZGVyekNKbWZlODNJUXB1V2hvRU1HMXlGdW04Tm0tNWdzd0x0QQ?oc=5"
+            "source": "The Guardian",
+            "title": "Newcastle 0-1 Aston Villa: Premier League – live reaction - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEU0VmJsXzJSYWtSU3pTZDZabmhRUjhkeGVERDNXSWpRLVRBZGFCa1FKWmp3dHlUM1ZXRHRndjZFbG83YTkxRlNzWlQyVDNLcThjYW95d3ZFZmVLdjFWbVdtSy1BSkpfYVBBRk54X09ZZWctRFZJdWpQZ3M4Q1hFdnRPMUxlbU95OXA3YW9ZNk9WMTRUeG9wRUtiSUxXZw?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Brentford vs Liverpool LIVE! Premier League match updates, team news, score, free highlights from 5.15pm - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE42U1hlRUYwbGZaY08xM3BhNUhrXzNPRGxudTM2bUxOaUYwSjAyemtPX2IzSUpabEVtRjVySGY4TExmWVlKbnhQSG1RWk5lOG95eGFKeGlMYlBwRGhWc184Wm9yVnBYUU1YY2JJSERiYTNiakxDZFFMbUM3SjFBZXpva0wyeDRuUUNlNzBITEhqTFJqMlFJdEtOOUJINC1JRTh1WlNrUXBYVkJUTm1YWURnQUVaZlZUV0ZSWFR0MUNoZTQ?oc=5"
+            "title": "Newcastle vs Aston Villa LIVE! Premier League match updates, news and score - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2Exem84LURsaEhuMzZNazlkV3ExbXdpUlR3UEM3YnlaZkU5LVBibS05Q3duejFCUEd4aGtaY0pCM2NwVTIwakVnbmxKSGVuUk94WjJGSFZuU3F6RGpjTUZVNDhrakE0UUw3R0NwNVZrOEIya1NpZE1Yb1pFN2EtQjVTeF82VHFuRDhLeUxGdGVoS2lva2cwT3VWR0tVdXRXSTltaVZvdVAzbkV3Sjk5TU9FcXQ2RVc1My1GRFhaR1lhNDI4N3c?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Premier League LIVE: Newcastle vs Aston Villa after wins for Chelsea, Fulham, Liverpool and Man City - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83RjFERkhsNV9KRWlKLUFHRXRheHZrbXhRb1pnc1NuZFk3V1BFbjRsWXM3VjZYZ2tMcjN3bU9aWGRMV1ZaTndpU2JtWGYwcUFuREdIWEltSW5EV3ZPVkZ5QlJ6ZHNoZw?oc=5"
         },
         {
             "source": "utdreport",
@@ -51,24 +51,39 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZtOUs4M2FPZUJTRjB3Y3JfeGR4bUg0TFFFaUMzOTZtVmI2dHM5dTJWa2NxYWZ1dV9tVVEtdmxCazZlTTlKcXVqNjdodkxaM1pLWEFDWmhrWV9wMF9NcHZxekduMWx5ZnpuemEzaFJnNGh3Z2FxdW9IRjZEczM3UGp3ZTNBLVpfMUxMamJlYjBoTVFTNHBiNExuNGxhMzBqYXI3YzdCOA?oc=5"
         },
         {
+            "source": "Sky Sports",
+            "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEt5MVJXa0ZrZWRROUtnMVdEeUJ5OGJKMjRvX2hIVVRyWHl1TDJnOFpXS0o5eEEwaGtXZ2RMamNEMDZXdUZRMGozeVdVSUpWblpwQkhKQy1ILVM5b2hrZVlTRHVFRnhGY2Z5ck94dkQ3dXFySzRxWUE3dkdqclFjTUQtUW9pNkdrTFZRd2k5UXhQS1hlMksxNVF6czh4dzJXZThDaE5JMmtyOV9aSDZXaDJMMXRtWmF3bzlEZXU5MW1aYjEtN0h1ekJWbzZnSkkxdTRZcw?oc=5"
+        },
+        {
             "source": "Universidad de Córdoba (UCO)",
-            "title": "[WATCHLIVE]FREE!] Newcastle United vs Aston Villa English Premier League watch Live - Universidad de Córdoba (UCO)",
-            "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRmhPc2I2ZGpTREdKcFlGMjFHZW14OXlPdk9rb3JGaHJjX05IRlFhWjdUeWdjbi1YNG42QlZyM2JXcEhZMk5iN01UV3I2Zmk4LTEta3JRdjRpQmJtQnJUbWQwcExTd3F4bHJNRmNNeHFYWk1TX2FJakRXOWNyekFBZjNEZlQ4QlMzempQallsb3UxMngxU0pSQ2JOcFFDeFJLUlJ3S2JhZnBIS3M5WGRUaml6S05Ha01LTUZzakNHaTVjTmNjaDZpNzQtcm5lSVVtOXNsbjJQLVhfd29fbEVjSy1Eb0I2MjBma0F5b252NUdsZkR1eExZWnpqbzdJU2hSZWxHZE9KcEhhTTl2T09iNW53WFJzNHFIM2txMnhpTlNVaVRKU2Nlb2pPWUxGbEFmUGRjZHFvV1lhaVBHbGJJVVpNeWlueXU2b3BZ?oc=5"
+            "title": "[[Streams]] Newcastle United vs Aston Villa English Premier League - Universidad de Córdoba (UCO)",
+            "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNYTNVb3RlVDdPS1UyLUxObDZUbXVfRWtmLTVHWmpZaVIyOW0yYzYyVGl3cVhsMkVqSkRkcEMtS2c2RE0yOW5kTzQ1bVoxMkNRVWotTjBOYlh5X1J4LUl1aklaVmVqQW9SM1ZyazkyN3MwQ3VjTUl5ajhUb1dieXpHb0tVd0ZqcnFFTVJkSDBYRllKOGhweFc5N2lPMHI0dXRwWjYwRGt2dGtRbFhyYXFQNVBHZkZEWjNUSFNoZHFqSnZPdjg2QkJtYnNvTXlKWkVhNFFmTTNpeHFXZEhTLTZKWnRzTWNnSDlGdXV4M0s3YzVYXzZsNUpwWUQ0elVQc2F2RUk0Zm5oQ29QSVAxTVNEX0RNY0ktc2ZmWThvTHliMGRtOTdIVllLT1EybjZwMHllcEs3R0hnVm0xS0EzMGsyTi01S0ZDUQ?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
-            "source": "Universidad de Córdoba (UCO)",
-            "title": "+$$[[\"LIVESTREAM\"]] Newcastle United vs Aston Villa English Premier League Live Streaming free - Universidad de Córdoba (UCO)",
-            "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbUtqbUNZcDRuLVdPMjJhN19HUVR1eFdWZkktbktFSWJtVW00RUpiYUNQTkltaV9YWldZTmJaWlpPX2NiUGVNUEtaUlFuN3pvdy1mOFdtdDU0SU43dWJ4cXVfM2M2TVpncVVBbjZuZzZxV29zdnppZUlkeU5Ka2dKT1dlYUdnbW5kQm16SHhscTZGc0NlTERkbkNoUzRSTkNYUXhWZy1Ubm11bU5WRE1mNmxNSVo4RXBTYWlPZ0FYS3luaUFSZG13THJ4VmpMdm8waUlPY0hLMUFpUGEtRmROZC1WbWp1V25RUEhZRXZQd2FJQ1ZiMDBvcVZ2VDNpa3VVczdudFBjeTY1akhselY5NnQ5UE9Na003dHpVSEtoREplSjRQZDhMazI0SUxqRTE5TVNzR2I1bzBwNHRF?oc=5"
+            "source": "스포츠조선",
+            "title": "'풀럼이 날자, 토트넘이 20위 추락' 이워비 결승골 폭발! 풀럼 7경기 만 리그 첫 승→꼴찌 탈출..경질 압박 中 아르벨로아 감독 한숨 돌렸다 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xbEhOUlVMSGVGMTRydzV5NUNhcTFNRlV3anVBLXhPVlRLamZFbVpoZlhaY0MzY2RiQi1YNVV4ZWJJTHZOZ2RzWTdWdVdnLXBsNTRTYzJRLUR6T0JoMXdHejg3NmItZVdLYkJlUWthMkktTDlJd1Nfcldma1JwUQ?oc=5"
         },
         {
-            "source": "세계일보",
-            "title": "주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’ - 세계일보",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pR01nSHIxZG4yLVJRX0hxMnV5cmgxa2FQb2FiV3Qxa005S3dlYXV6dHlDTDhNdXFvT0kzcFpVa3JpMkNyZXpmMm5PTFh1NWVodEl5V0hCQVHSAVRBVV95cUxOWm5hOTl1cHFVWFhWT01RRFYxMHlkdkRNSk1mTkE0aVAwNzl0QXhOeW9iR0NYQjhHY29IVUZNb0J5b0pnS05Hc295VF95cXhXeUxiNGE?oc=5"
+            "source": "www.xportsnews.com",
+            "title": "토트넘, 충격의 꼴찌 추락! 5500억 쏟아붓고도 6G 무승…풀럼 승리→EPL 또 20위 - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDNU03Rl9jX0FGcEZVelYyMHhhSHhUVzkxTVJoTmowQXE0a2RENi0yOVl3SXl5aHlzMFlwSFNpNldtUVZZNHJnbEhXMUtPU05LSTNCNw?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "'울고 싶어라' 더 벌어진 한-일 프리미어리거 격차, 韓이 '전멸'한 사이 日 14번째 EPL 득점자 배출…주인공은 29살 늦깎이 공격수 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZ01vZXVvMkYtLTVoa3UzbTYwTEdVWlJ5QTNncUZvcVhwVHZXa1ZkWEcxS1dsODVnZjNkNWpDOW9QM2xoMTctZG0ya3hxMFhMX3FrWVY4QmktWFl0VjZ2TERYczlqQk1VNDZ5a0JoWW1SWGYtM3FOdGdldWFOZw?oc=5"
+        },
+        {
+            "source": "OSEN",
+            "title": "'국가대표 은퇴설'로 비판 받는 김민재, 프리미어리그 입성할까…아스날, 긴급 영입 추진한다 - OSEN",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkdQY0NzaFR4YTRzT1doOTlick8zcVhlSXBLSzNSZ1RCa01oVWtXTkMtQVVNZ01kTGxLMld6V2tYVzVJUnpuWFpub0s0YUU1ZklydQ?oc=5"
         },
         {
             "source": "뉴시스",
@@ -76,34 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zRm9IU2NPSVEwVnNsZmpOUVg5UnhqZTVhV2RDckU2ZDVJQVdBckxmN1UxSkVZWjNpU0RuWjhPbTdQMmRxUVlnSFc1NGdZd1ByU2J0c2dmUlI4Rm0wckgzY9IBeEFVX3lxTE5yM3BfdFpqOGRQd1gtaXcxWnNtRFNWWWtKWXNkbXk0S1BDUmZIQ2kyTHB2WEpBNmR4SXVhU1FDWExlY1hSVl9Ic1ctRWI2U09IS3JuNFczX2I2VjFMX3VyQ2hUbGVRZzFScXBvNU42Z1ZKRng0ZHpIeA?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "'역사상 최악 스캔들' 맨시티 망했습니다, 사상 초유의 역대급 징계 '유럽대항전 10년 출전 정지 가능성'...EPL 우승 박탈+퇴출 가능성도 여전 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LeW9RSTBiOXc5ZjI4a05ma191dzV3SzhITVZjdlFtWHlhZUhIVmhUSjNaT3RuQ2h5Vk9qdGo5dndxbWc3YlYyMjVrYnRsSzRmLXFWU2lkN29kZjdWSzBnQ05PalVrdDk4YWhvdGYxTVppRXIydW1sSlBETHJmdw?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "“그냥 뛰는 건 의미 없다”…EPL 데이터로 본 승부 가르는 활동량의 진실 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTFpXS21BMXYzZE5KUEF1WUphVkJuUm5sNjRkRWd2bmtVc0ZmeGc2UDViVlRrVldjcDVwMFk0NTVXdTlCSkFqMXQ2UnJqNnRrUTZhR3U3OFpkZHpRLUHSAWNBVV95cUxQaHo1UW5SZEoxYkFuUFVVclQxYUhEWklpT3V6bmlOd3Y4R0poZ2FWanN6REZtYlBKSXYyUnNMRk16cWI2QUd6SFBnRzRyTWtPTmd5NWdTYmRnWHl3ZUwzdjcwSUU?oc=5"
-        },
-        {
             "source": "SPOTV NEWS",
-            "title": "'손흥민이 아니었다'...\"토트넘으로 다시 데려오고 싶은 선수는?\"질문 받은 주장 반더벤의 대답은 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiYUxPblU4MzhGZXpvZGNLekxFYWRxQmpoaG02Xzk2dmdTMzRsZUgyVmhRV3VYYmc0bXZLTEtfbUpfTkNyb3lOU3hFRWgtbVVVVmlnVGhMMGNNeTNUYlRrbzh0N19WNEFCQ05OVHRLbVQ?oc=5"
+            "title": "“그냥 한국 국가대표 은퇴해라” 비난→김민재 뮌헨 떠나 EPL 이적할까…‘챔피언’ 아스널 영입 추진 “스카우트 영입 리스트 포함 확인” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LclpHc1M1ZWFKV201RXI4QzNVRDc1TGFkUXVfUlBEaE9Sa0MwNElodVJENGhPMkVqZE5ETmR2V1AwMl9Fc04yTzRCRjRJQkQzTWUwYm15NFFhU0VadFZIbUY4NDFKYlp0c2VnTEg5ZEk?oc=5"
         },
         {
-            "source": "엑스포츠뉴스",
-            "title": "맨시티, 60점 감점→EPL 강등? 와르르 무너지나…재정 규정 위반 114개 유죄 판단→유럽대항전 10년 퇴출설까지 - 엑스포츠뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZXF4WjVOMWV0dC1GeTAtcWdFSDJJZkVWeTdyN0Y5WGkwVFFkMXA4SEJWT0oyTlpHUTNuRGlQdm5yTTRqMjh1VjdlYVU1Q3UzZXVfbw?oc=5"
+            "source": "Manchester City FC",
+            "title": "마레스카, 감독 부임 후 최다 연승 프리미어리그 신기록 경신 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlB0V1o0QXJneHU4VVJodjY3OFk2eEMxZ21mQXA4aGhDd1NDTG1aR0c2VU14MG10Tk5kenpEdjRYNXIwcVJTWHlobUlkWnpzU3lNLTY2djVVVURhSGxpVkJ5V0MtT1VLTlZUQmFiclpLaWZyMkRacl9PNXREY2RiVWxad0haRTNaN1pOSA?oc=5"
         },
         {
-            "source": "FT스포츠",
-            "title": "\"감정 앞섰다\" EPL 맨유 리산드로 마르티네스, 고위층 향한 비판 번복하고 사과 입장 표명 - FT스포츠",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Mlk5dF9TVU5PelF2bXowS29TWVlpeWFHWXpqcEk3Z0p0R0k5WjVvYndvQjJQZk0wRUxXcjVtbV9zQkZqWkdjWWFYWDdPUGhIQ01ZMFcxVXR6VU9nQ1BMa2lpUkJlZw?oc=5"
-        },
-        {
-            "source": "위키트리",
-            "title": "“내년 1월 떠날지도 모른다”…한국 국가대표 김민재, '충격 소식' 떴다 - 위키트리",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DZS0tSE9GX3AzeWxxWXVxS09SR1FSbmwtT3RyOC1FbXFzb3ZvRkVtclFqaTRxMHJxZWgtdWdNMTNRMmZGYzNUdTk1WFJuRUdmLWd4d0xn?oc=5"
+            "source": "세계일보",
+            "title": "주급 5만원 공장 노동자에 18억 베팅…결과는 ‘5000분의 1 우승 동화’ - 세계일보",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pR01nSHIxZG4yLVJRX0hxMnV5cmgxa2FQb2FiV3Qxa005S3dlYXV6dHlDTDhNdXFvT0kzcFpVa3JpMkNyZXpmMm5PTFh1NWVodEl5V0hCQVHSAVRBVV95cUxOWm5hOTl1cHFVWFhWT01RRFYxMHlkdkRNSk1mTkE0aVAwNzl0QXhOeW9iR0NYQjhHY29IVUZNb0J5b0pnS05Hc295VF95cXhXeUxiNGE?oc=5"
         }
     ],
     "transfers": [
