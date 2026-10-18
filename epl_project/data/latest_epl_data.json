@@ -1,10 +1,111 @@
 {
-    "timestamp": "2026-10-18 17:49:59",
+    "timestamp": "2026-10-18 19:46:42",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
-    "news": [],
+    "news": [
+        {
+            "source": "Sky Sports",
+            "title": "Nottingham Forest 0-1 Arsenal | Premier League highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnVEMEtMeWNPSjNkb1pUQWVsbjV1aWJHVmJER2R0NnlPSzE4ZkNkTWt3YWFJbm50bDQ3YU9IUF9WMjRpV2FwdWdkeUdCX09icDVfeVJvTWFXcXd5X0EzMVZ3Mms3MjNZeFlONFdCclJHZlZjSkdjTmJQVTlRYjN3RkwzUXJtZTJTUzlRZ3RWSGZCTGVYanRmMGlzd0JvbU85OExaTEhPWkY?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Leeds United 1-1 Manchester United: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTRweXhvMDV0Y2s5eHdneDFCM3VuV1FfRnlPd0hzTl9WTUZjU3JCeU1tWDIyYklsSkY4clVIUFlLWWV0ajMzeVEzZ0dHQTRHaURPRFJJTG9jQndDdnJWLThiTnlMdmFOX1lFMWJmaWltakI2T2liQTd1MU5nMHctYUNHOE12RmpfSGtYMlJXQlNoeUNhSGRkTmN3Zk5jbzg2?oc=5"
+        },
+        {
+            "source": "The Sun",
+            "title": "Man City’s kit ‘set to undergo subtle change’ following Premier League guilty verdict - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRXBqNFF3cmxNVG51UjYwcG1IbXd2MlFyYmk3d2FDWTE0S3g2cFFNMWVvSWFwcDBCd2liSm1sNXY1dktFWkY0elh1V3pieVRxbUhsWU9STElqU0RST0hMX2NqeVoxck1jWDVkcm93alEwdUltZ1hFbHA4M1lIQkw1TjFrcUdWdGVzYTE4?oc=5"
+        },
+        {
+            "source": "LiveScore",
+            "title": "Fabrizio Romano Transfer News: Alex Scott to Chelsea, Bellingham agreement, Conte to Man Utd update - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX1ZZQlQwdWgyQTQ0RjFhb296X2RLOVpsWDlUUlhTLXFRLVpNUkI1MTRXRFZLZDJERjNkOTZkQkppSU9sa0EzOGpmdnpQVl9vREZfZm8xZzk5ZjRnX2d2dTlvM1hzVWpKbEdjb1ZtdWpwUVdRMlN1cGhKMm9lQS1Na2NnRDVrZnJoTlJTQlFudUd6c3VGTG9TQXl4dDdveUppYzk0aHlJRnFqc09PUXRMQkoteGJiNlQyZVYyTVY4ZXljWVp3T3JsNWk4ZWw2cE5yVGxfMVdlQTRuWWMxeHY5ZTFiVDI1UTFKMEhwNHBuN1Z2bWlLTjFwWUNNXzhuc0hwMkJz?oc=5"
+        },
+        {
+            "source": "utdreport",
+            "title": "Romano: One top Man Utd official pushing to appoint ‘meticulous’ EPL head coach - utdreport",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmtVMDU2Y1Ywa2V4b0ROSVVpYUNSd29FWFRFdWlWUXhaUGJXQkNYZnMySmtsTGpOUXpwLVdCdHE1aHFmQ3pFVFVGdE5pbzhXcEw2M29ESHBBV24tYlBqZ3JoeW5uSUxsN2E2YlJQV3VRQXZsVGhxSnY5d0Njd0J0SEg3ekpHcnExWFFrNkdPQWNaM3dObnRIRjlEa0lkdEJ4R2EydnhWOFdfRXRFX2NVY3FR0gG3AUFVX3lxTFBLUUo1TFozdXZqc3lXajZYVFdTMmNOQ3Jzam9TU2NnQmRtSFYtXy1SLTkyTEEtc0s3OEJmcUJRd0pmWWNTU1RMU2lIeEljVEFnVWNOS1JtY00yX3M0MjE1dFZLWEFwd3pBajV5eGVxVlhLYk1ZWkw2UG5LSERROU5IanVFazhlbmNiN3dPVzdlUWxBbVZZWVlhN2toZjloa001SE9Fa1A5Nmxjd0U2Z1IzcWpPWnAzTQ?oc=5"
+        },
+        {
+            "source": "Liverpool FC",
+            "title": "Liverpool are ‘serious’ about signing a player described by - Liverpool FC",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Manchester City confirm Enzo Fernandez signing from Chelsea - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXJyRU9MVE45ZXgwaE5keE9Ha1FudEZMSFVIX01PWTY2NlZ2cnRmLU1jaWNzeFp0QWU1U1YyU0djbWZ5Rm82ZGRQTkxDNVNLLUVfdHhkWFdXQTlyYnFiblNfRUdCQzdXamFhVXB1UWpjOHpYbDNKcl9NaE9ING9mS3c0NnpFSmcxeWZQZ2R3cndaeTkybDFJbw?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Aston Villa reach agreement in principle to sign Ibrahim Mbaye from PSG in €55m deal - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+        },
+        {
+            "source": "Universidad de Córdoba (UCO)",
+            "title": "*&TV~[LIVESTREAMs]!! Sunderland v Bournemouth English Premier League Live streaming free - Universidad de Córdoba (UCO)",
+            "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOc2JyZUFjcmIzYTJEa0MtRUhVcW5sTUYzRjd5clk0V3BKaE1DQkNpUU1hMk41dTg3NnJhbTlGR3dTTzZPNWkwR3B1Z0hUb0E4RUJsZklfbWU2SXNBZDU5bTEzWXFGR0EyVjFtcnQxX3A4TmRwcDFDWVdQU1ZESE9HeVhiTWVDQk8xYlJxY0JCT0V1UFhrRmpwZWhPRGI1d2p5M2t0WWlSOGdiTHVPNXNBVGNTZFZKb0xsUFNrb3ByZjBmckxJZEVsU05oYmViSERNR2preUVKN3otbVpwSnhBQWJmRWtlb0l3VEx0ZnhhVUZYUlhRX2ZxTzdhak5mNWhja0Q4X3l0T21MbWdpS0FrWi05UzhUV1lvZ2FiaVdxa2J5bjN1bUt0SGhOb2NiRUkzcW9KQTZn?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEt5MVJXa0ZrZWRROUtnMVdEeUJ5OGJKMjRvX2hIVVRyWHl1TDJnOFpXS0o5eEEwaGtXZ2RMamNEMDZXdUZRMGozeVdVSUpWblpwQkhKQy1ILVM5b2hrZVlTRHVFRnhGY2Z5ck94dkQ3dXFySzRxWUE3dkdqclFjTUQtUW9pNkdrTFZRd2k5UXhQS1hlMksxNVF6czh4dzJXZThDaE5JMmtyOV9aSDZXaDJMMXRtWmF3bzlEZXU5MW1aYjEtN0h1ekJWbzZnSkkxdTRZcw?oc=5"
+        },
+        {
+            "source": "www.xportsnews.com",
+            "title": "'베컴이랑 똑같잖아!' 51m 원더골 폭발…브라이턴 고메스, 하프라인 골로 EPL 뒤흔들다→라이벌 팰리스 5-0 대파 견인 - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EZFRza1M5Rk5YS1lRbTY3WW51b3dNWnQ3WlYyZ2NUeVFUaVFsdlhYQlNBTnBxeG45WWdlMGcwLUlGTVdEc0R4bkU5V3dqUThlc0RtVg?oc=5"
+        },
+        {
+            "source": "포포투",
+            "title": "손흥민도 이런 꿈의 복귀 가능할까...39세에 英 무대 돌아온 레전드, 5경기 만에 데뷔골 폭발 - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81WG5mdndUVFVMVWVoMVEwSER4YlRNd0d5X0JNWnBUa2M4cm1NWEUtR3dfUHhnMXNOdlc4dzZIMzBmQlVrY3lnWC01Y3hUTjhGZkpMd0RnZllKbmRFVkExZWxsWXBqWWRmNnBDY1A3eDI?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "단장 '오피셜' 공식발표, '국가대표 은퇴설' 김민재 프리미어리그 갈 일 없나...\"1월에 변화 줄 필요 없을 것\", 이적 가능성 직접 차단 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMU5BQ25kdFpCTWdhMkUzSHZLbEkza2k0WXhiNXpfOXFyRkljTUl4Nkwyd0pHTTVEYUpHY0JqOGd4dW14cXA1NjhQMlRGc0VZUThFYmQ0dUtqb1FnTENEelRLRzUxbXR4TzltcmFuVnozTjNqdTJESDJQY2lMZw?oc=5"
+        },
+        {
+            "source": "Manchester City FC",
+            "title": "마레스카, 감독 부임 후 최다 연승 프리미어리그 신기록 경신 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlB0V1o0QXJneHU4VVJodjY3OFk2eEMxZ21mQXA4aGhDd1NDTG1aR0c2VU14MG10Tk5kenpEdjRYNXIwcVJTWHlobUlkWnpzU3lNLTY2djVVVURhSGxpVkJ5V0MtT1VLTlZUQmFiclpLaWZyMkRacl9PNXREY2RiVWxad0haRTNaN1pOSA?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "'국가대표 은퇴설'로 비판 받는 김민재, 프리미어리그 입성할까…아스날, 긴급 영입 추진한다 - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCaTBTS2c0VHJzQW93Y3UxWkpaOGlmS05XLXdiZFpVRmw3ck8wVjNkS1Vhb0NlSW9ZZHl5MjRNVkhCcmJTSnpUOTR3NUJVZ01ROG9BNjJjTDlnQU5CYjFNUjVBSXhaQ2oyRXfSAW9BVV95cUxPM25jRGNZZUxVejIwNWJxaU9BV2VJTmJYckpPY3NYMHVxNUJaOVFLOFFSRnI3WU5Cc1VKdmhnQU9yZTMtVnRIVTRTX3BOTFMtNHFLWm5BdjU5ZE5XX0owYVA5MHpvNWZQdUtQUWo5cFE?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "\"대표팀에서도 이런 모습 보여주길, 손가락에 쇠를 넣었나?\" 축구 팬들 일동 경악...日 프리미어리거 연일 맹활약에 찬사 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DOVhsZDlILU80Q01HeDROZFlPc3NIV3NwLU5aWHZYWExfaDQ1T1NUU3kzU3BBRmN6RndWSnQ1STZhTW9BT2dFakJBanhHVVN1R1gwcHlkVzJ1Wlh0Q293eGtTb2RrY3hTLVRkcEJPZ3I?oc=5"
+        },
+        {
+            "source": "뉴스1",
+            "title": "'재정 규정 위반' 맨시티 팬들, EPL에 집단 야유…바나나 응원도 등장 - 뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55eXhpTkhGb3hzVVZEQmZqUUtLQUltR1BmbGtyeVVZUUNJUHIzOWppM3Uxck5fUlp1cEEtMFBnREI2UTRTSDNIc3JYR2RTWlVIeXRxNWs0YmQ0eFF3X2dSTg?oc=5"
+        },
+        {
+            "source": "한겨레",
+            "title": "홀란 멀티골 활약…맨시티, EPL 개막 7연승 행진 - 한겨레",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZ3VoekIwdGtFTHVvTVl4YTg0ZTVsYUhoQVVmQzNnZzBEb0VMNWlFZ1cwRlVmZ09kY2ZtQzhvdVFoR1pibkVKdWluWWNuU3U2T3lSb3NmMExZTVRneW1pdWoyT2s?oc=5"
+        }
+    ],
     "transfers": [
         {
             "player": "Antoine Semenyo (🚨 Verified by Senior Analyst)",
@@ -12,6 +113,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-10-18",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
