@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-18 21:59:42",
+    "timestamp": "2026-10-18 23:56:09",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "Sky Sports",
-            "title": "Nottingham Forest 0-1 Arsenal highlights and rate the players - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzhJUHFqc1ZfY3hIWmsyZEg5WjVXeUFad3RJc3ZwNU1adXNHdGRDVUJVMHJIQ1pJM21sNkdnM1NDeUxhZkNhX0hJckNCOE9OempIWWNxYUR2dTJOeE0tVVNsWDl0NEs1OHoxZUpvdkhtX3lwY0VxRUR1c1JSWmFsS3NZbS11dEtNdmxTMmEzXzhlS1lycU4yZmNfY1RuRmgyYVl4TENRTzdqMzdpeTFYYlZwc0drSm1mSnpiQVV0dFpKbnZldGtyOEJ0VQ?oc=5"
+            "source": "BBC",
+            "title": "Gomez scores from halfway line as Brighton thrash Palace - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fYXRJN3J0RDd1QVh3ZllPUTZOTGFHTl9xeVZaS0Z3SjFhb21wOFAzTnJIdUdhRjJaVWNkbGNJU3BPUThjRkk0dlpTNDRkMFFGQWVKYTdXcjZXMHlqaGF4dXdNMA?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Brighton & Hove Albion vs Crystal Palace: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWjlwelV6NXRPVnVCNElmTWJKXzlYT1BIUDE5NXlyRkJCOE5wM3R4MDJ5Y0FPNF9rWU9sY0pRbjFxQUlGRVFXODVyTTJzVVZvSnBnMXBXWWlOS044clpUY3VKeUdTUWdlaFZ6am1GWQ?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Brighton 5-0 Crystal Palace highlights - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjFhTzBjVllqRmlESlc3a1pIbUpOZG1FTEtRckhwc2h4bGozUFN1WlpXVEE2RDJTNC05T2JGX0lrVGVqYzQtbVV1Ym0wS0lvcnRCcGVhWUhUQ2hDcmNYNDhuT29WRFZ3d0F1X09Da084czAtNTM2SGgwNFJtVXVwSFNfdm5BM2NPdmN0aE5ySnMwSHFDLXFNLWJ4SUxHRWZDaVRkN2FYcHhPT0wzUm9xR1ZxVVNxVGFiYkdkQ1ptTUU?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Free-scoring Brighton continue to impress and entertain as they thrash Palace - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wSzV1VW0xZEJ3UlFwUXhfZmtnbmw1VW4tbHNLa1VrYl9ZOGh4ZFQxd0lRT2g1dndqOVdNREFuM3V0ZkRQMXpOTHdmbTdRMTY0ZWJsa2NQNktzVHJNbGQtdVdnZjdFUG9r?oc=5"
         },
         {
             "source": "LiveScore",
@@ -37,11 +37,6 @@
         },
         {
             "source": "The New York Times",
-            "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Manchester City confirm Enzo Fernandez signing from Chelsea - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXJyRU9MVE45ZXgwaE5keE9Ha1FudEZMSFVIX01PWTY2NlZ2cnRmLU1jaWNzeFp0QWU1U1YyU0djbWZ5Rm82ZGRQTkxDNVNLLUVfdHhkWFdXQTlyYnFiblNfRUdCQzdXamFhVXB1UWpjOHpYbDNKcl9NaE9ING9mS3c0NnpFSmcxeWZQZ2R3cndaeTkybDFJbw?oc=5"
         },
@@ -49,6 +44,11 @@
             "source": "The New York Times",
             "title": "Aston Villa reach agreement in principle to sign Ibrahim Mbaye from PSG in €55m deal - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -66,19 +66,34 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "'화났다, 이렇게는 못 뛴다' EPL 우승 주역 아스널 요케레스, 북런던 떠나겠다..'한 시즌 만에 달라진 처지→조커로 4경기 공격 포인트 0' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFFIbXFENzB6SkZuUHdNcHN1ejVpZmZCYUNrbFYwcGVuY3RhSG4yeHRUWDJtaURZeVJnd0prR21Ob1RUbG5CSlZ3cHU0XzZvMExtZFpjb2hFSHJIbHpydnV3NERieGdQM3lzNGxzaGlDMVdYb19CVmJsTjFlMEg4R09nSi1yaEZiSUdR?oc=5"
+        },
+        {
+            "source": "뉴시스",
+            "title": "'캐릭 감독 경질설' 맨유, 또 못 이겼다…6경기 연속 무승 늪 - 뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SVJmZTczSE1pR25nd3lvODhmZjRWU19JTHVlNEQ1YUdaaU9wbUdtN09Vb1FpcjU5WlRaeUMzNW5VTTRqN0R0WXdfWGlTVXhaZlNjRjZFeVl1WjRBRjFwT9IBeEFVX3lxTE1JUWN2dzdTaUxmYVRVY201dEpzT056aXhNQzRmTHl2TFItVWhuY3Z2MkVacldVNXZjcnFtVlRoSVNGaXNhRmxaaWUyX1RhcHgtYjZabkI5WHhCSWRPNFpaWFk5VGFLMzZBRlV0ZFVUSUpKMU45N3lHYQ?oc=5"
+        },
+        {
+            "source": "서울경제",
+            "title": "선제골에도 또 승리 놓친 맨유…‘리그 5경기 무승’에 흔들리는 캐릭 리더십 - 서울경제",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rSmNrVXRnZ05oNHhvM042cU9JVUxUNWxiaHd6MVRON01sQy1kQkEzV0ZRNGFISFd3WnhydVZpYVVGSkNvYkNNYmZCMFBwMnZVMGfSAVNBVV95cUxNX1lOVU5FcTFiSXM2ZWI3eUFIZnFnbUdIVm9iS2pMNzUxallRY2tueXMtb3ZiNW5qTm92RU1vM1l1aXZ4MmhQRXYyamkwR1c0bktDMA?oc=5"
+        },
+        {
+            "source": "Goal.com",
+            "title": "'대표팀 은퇴 소동' 김민재, 韓 21호 프리미어리거 되나…'디펜딩 챔피언' 아스널 영입 경쟁 참전→\"토트넘은 전전긍긍\" - Goal.com",
+            "url": "https://news.google.com/rss/articles/CBMimAtBVV95cUxPLWZwSG5keDhDTFVPeFY4c2V2TVNvYU1EVk9OX3NuaGlWM3VFUXliT1FiWEtvb0kwNDdkZE9JOFc5YkowSVdFbi16M1pBNFZqZ2xIWHptUUdST0xLNXpTYWJFRTJCN2lLanZrck5aVnp6Z0tTdlZ5a1VDdmdBMHY5UUthNGFBM1J3LWFDNmVxdWdvcHUxRUotczI4b1l1WV9GbE1ZU09YVlpRZWJJNnNCWTQxelY4X2ZaMkhBTWwzTkJvVHh0YlNTX0xvYkM5LUtGMmJaX3U3cU9ZbnpfTDRyVTAwM082Wm5tOF8xU2dxa0l0MnhObGthdVh5QlBzSHFfb19ldG1xR2pBTElhOElfTTBYd0lUb2JzcGxMbF9VUVRqcUdmdUlzalhzTXFLVzlTaGtnTG1Gc2h4eU9HVlpfaXhhdzBiTXp0V1JURkM0RzU5c3FFa3MyUjlnMVNPUUtyTnlmai1MY2tJYWpQejZpOVAzT1Y2aWZEekxTXzRSTzZaUi14X2ljU0NqQTJDQ1Z1NWl5c0ozZ3g4SWJyRkNqU1g3cWlGS1VLdHktMV9iYUw4M1dHdkd4SkNsY2pUMlNkcjZ4Nk5wQ0s2WUxJWXRPQ0J1Tm9GQjNJVUZfRkJpYjM5LVIyUDJpOEQ3aExCb1AwYUJ4bE52NGlrbTJfdXZXcUFnMXZhTzhQZWNVdS1vVnU4WktZMzlfUDVoVktfRUN3OTVqUTdPQ1ZSMGU3ZlpHeFV5MDFnSzhiWVhyQUM3UzVVNC1Xb09ObUVjWmxyQVlUc0NrQ21nT2otd1hTRzBlVmtrc2FKa3VCOC1ha2k1RnptSnVIcnNJNWdORmUyVGxhakpkRG5faHRqUmpEZE5GWnEtazRUa3pHaEsweHlYMnB5NnpEMWx5ZVZFdUlaVWVTNFprZldjd25yOGVpaDdfWm82VG9lV3NiU2pHUnc3QnhwaVN2ZXJJMmRodW13bi05N3hZeVpCSFh2TXMxSkkweVZnLS1GaWlUV3BJY2Z3Z1ZKYnZiODVsUDJEdEVMcVNhNWFXSUdBVjF3N2d0UHBzYzlIQlZqOGU4N1Z3WTZfV25MSC03ZWJvalkzc19NN2J6QkxQNGxTUjJ3bG1ackVrd05GbV9ONmhOZUIyMHhkbzhmUi1aY25CajRBQkQ1MVplLWZEM0pDVzE1UjJFTDVocEVtM05IVWcwamNxN0tkaC1nd2F2MkxUOXdwTTlNRHdVaHFNelZQaTUtdi0yZjdXTXdKTUNEekRXSjN5N1Q2cDE0ZjRMb2FKaFV2QXNST0VuTDNTdjlYUHVYMUlzQWhYYzQ5Xzd1MVJiVGt4X0p5Qm41bEhDUGJnSEhZVDVGM2djc2xFc29tdk82bjJFNTk3TVJnU2VXaW9UV2Zfb0QwN0czLVhFMGFxZWJJN01qclI3WWNxNlJ1R2RRNFlxeW9Lbm9NVjlVRDZCaGFHbXVtemhteVJHS0FUSlZfUnZKZ0gtUk9CclhZU3E1elNlQnNjNElkZk5qRHhkdDNmWXVYY1NNb1c0YUw5TktDVU0yQkw0WHk2SnNadDE3R0ZKdVFHV2swcEhjYmQzeGFiRmRYWGM5RGcwamk2TW8ySnJaTjdEd1NrX1B2M1I1ZXpwUFA3cWZjUktPckcybmdRZzFWQkJBMC1PcmphYVA2Q3RjTy0zaVVWdU9IYXd5dmU3OEZvQnVrZ0Z0Z2FBZkR3YlVuZUNUbWl5bmdvaVNkZlFhVXlpZlRpRThqQmhsTWFoWWRzV3NzRU1HTlU0V0JraWg0enFlVFg3eTdDb01hXy1mYW5JcElEMzkwVk1ocXlob0FFN0lNeHlSS1ZHTEVIUU9qbktqclZ3a1R0MGZ3UnNhaDgtSDdSeGcwYkZvY1N6X0JKMlJaQ2c5V0dk?oc=5"
+        },
+        {
             "source": "포포투",
             "title": "손흥민도 이런 꿈의 복귀 가능할까...39세에 英 무대 돌아온 레전드, 5경기 만에 데뷔골 폭발 - 포포투",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81WG5mdndUVFVMVWVoMVEwSER4YlRNd0d5X0JNWnBUa2M4cm1NWEUtR3dfUHhnMXNOdlc4dzZIMzBmQlVrY3lnWC01Y3hUTjhGZkpMd0RnZllKbmRFVkExZWxsWXBqWWRmNnBDY1A3eDI?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "단장 '오피셜' 공식발표, '국가대표 은퇴설' 김민재 프리미어리그 갈 일 없나...\"1월에 변화 줄 필요 없을 것\", 이적 가능성 직접 차단 - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMU5BQ25kdFpCTWdhMkUzSHZLbEkza2k0WXhiNXpfOXFyRkljTUl4Nkwyd0pHTTVEYUpHY0JqOGd4dW14cXA1NjhQMlRGc0VZUThFYmQ0dUtqb1FnTENEelRLRzUxbXR4TzltcmFuVnozTjNqdTJESDJQY2lMZw?oc=5"
-        },
-        {
             "source": "Manchester City FC",
-            "title": "마레스카, 감독 부임 후 최다 연승 프리미어리그 신기록 경신 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlB0V1o0QXJneHU4VVJodjY3OFk2eEMxZ21mQXA4aGhDd1NDTG1aR0c2VU14MG10Tk5kenpEdjRYNXIwcVJTWHlobUlkWnpzU3lNLTY2djVVVURhSGxpVkJ5V0MtT1VLTlZUQmFiclpLaWZyMkRacl9PNXREY2RiVWxad0haRTNaN1pOSA?oc=5"
+            "title": "부아디, 프리미어리그 첫 선발 출전 승리에 기쁨 드러내 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZUeVBaLUI1aFhZWmNJN196emRZVkFOZW01RFlRTTV4T2RjQXNGb3k2MG5JVVRGUnZJUFBGV19td3FFTzhrZzlLUXlpb0IwUC1HbTFzS2djQnFiUFFEcENGUTNWbzloczdtSzR5bFhZNzhlT1dOY3BaRU56WFFrQjNVelhsZk04?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -86,24 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DOVhsZDlILU80Q01HeDROZFlPc3NIV3NwLU5aWHZYWExfaDQ1T1NUU3kzU3BBRmN6RndWSnQ1STZhTW9BT2dFakJBanhHVVN1R1gwcHlkVzJ1Wlh0Q293eGtTb2RrY3hTLVRkcEJPZ3I?oc=5"
         },
         {
-            "source": "www.xportsnews.com",
-            "title": "'베컴이랑 똑같잖아!' 51m 원더골 폭발…브라이턴 고메스, 하프라인 골로 EPL 뒤흔들다→라이벌 팰리스 5-0 대파 견인 - www.xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EZFRza1M5Rk5YS1lRbTY3WW51b3dNWnQ3WlYyZ2NUeVFUaVFsdlhYQlNBTnBxeG45WWdlMGcwLUlGTVdEc0R4bkU5V3dqUThlc0RtVg?oc=5"
-        },
-        {
-            "source": "뉴스1",
-            "title": "'재정 규정 위반' 맨시티 팬들, EPL에 집단 야유…바나나 응원도 등장 - 뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55eXhpTkhGb3hzVVZEQmZqUUtLQUltR1BmbGtyeVVZUUNJUHIzOWppM3Uxck5fUlp1cEEtMFBnREI2UTRTSDNIc3JYR2RTWlVIeXRxNWs0YmQ0eFF3X2dSTg?oc=5"
-        },
-        {
-            "source": "한겨레",
-            "title": "홀란 멀티골 활약…맨시티, EPL 개막 7연승 행진 - 한겨레",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HZ3VoekIwdGtFTHVvTVl4YTg0ZTVsYUhoQVVmQzNnZzBEb0VMNWlFZ1cwRlVmZ09kY2ZtQzhvdVFoR1pibkVKdWluWWNuU3U2T3lSb3NmMExZTVRneW1pdWoyT2s?oc=5"
-        },
-        {
-            "source": "Your Field",
-            "title": "끔찍한 부상! \"뇌진탕도 있었지만 그 이상의 부상으로 보여\" 모두의 우려 산 에밀리아노 마르티네스, 수술 성공적으로 마쳐...\"몇 주 안에 돌아올 것\" - Your Field",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VYVpGVkI0V0ctWTlEMVYzcnVfTE5UcHpVclRNbmEybmtaODFUNUh4Sjh2R3QtNl9DZFlvRlQxQTNHM1BjNEkyNmVEalJhSDVON0JYLUtOeWt6eVNuMmZQWDYtaFhFcEx6UXRLMmY2eUo3VmtMUlE?oc=5"
+            "source": "스포츠조선",
+            "title": "단장 '오피셜' 공식발표, '국가대표 은퇴설' 김민재 프리미어리그 갈 일 없나...\"1월에 변화 줄 필요 없을 것\", 이적 가능성 직접 차단 - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMU5BQ25kdFpCTWdhMkUzSHZLbEkza2k0WXhiNXpfOXFyRkljTUl4Nkwyd0pHTTVEYUpHY0JqOGd4dW14cXA1NjhQMlRGc0VZUThFYmQ0dUtqb1FnTENEelRLRzUxbXR4TzltcmFuVnozTjNqdTJESDJQY2lMZw?oc=5"
         }
     ],
     "transfers": [
