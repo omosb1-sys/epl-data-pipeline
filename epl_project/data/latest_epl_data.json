@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-25 05:26:46",
+    "timestamp": "2026-10-25 10:16:52",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93TG1zclY4dVZjclktUWJWRmh6bHpCY2E4RWVmODJmUU5qTThQdXBzMmVBQks3WGRLdkhBODRZN0RZOG5ZUldsdmJNWEM1OWl3RWh4M2xhdFU5T2ZSVkpFajVwNXJmQQ?oc=5"
+        },
+        {
+            "source": "BBC",
+            "title": "Liverpool: Why are Andoni Iraola's side struggling for goals in the Premier League? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxV3p3dGNjdk1sZUlvdDZMUVlGaGZjV2FhNURMZDB5V3pMX1NhX05QOFhvdDRzVjBwRTItZjNTaTZHRmVoNWw4cTllblBkZ2luU2ZacXFhVm9oVXBqVkJLU3pBOUJVOFU5?oc=5"
+        },
+        {
             "source": "The Guardian",
-            "title": "Chelsea 0-2 Tottenham: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzJkdm9aakR3TWZYQWpBN0FmNGlrMXVOU0ptMEFiUjdibVF3bm1ET1RhckpsTEY5VGYtUW9nOHJZZ0ZsT05selBFSl9pR2Y4SVEtLWcteGd4TkdhSlJsODM0NzY4WXpwYk9qcWNRZUkxay1HaGxmZlV4V3BHLVg2aTBWQW45ZG14Rk9hT2xaRnBZd21rcnk4VA?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Arsenal vs Everton LIVE! Premier League score updates, news, prediction and line-ups - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTFIRVdnZlk3bzA2SWNrV0tfZ3k5RDc0NUpmMVFkSllDTjF2SnY0YVBTRER6bkstWFRmMWhxNnR1UkFpUWFIeE5CZ1ZsWkJwRkxLUWJzWXE2ZU9CcW8yWTRLVVQzVlVmN1M3QktIemIyYmJ2TkE1bEE5VjlGVEoxbmNwUURraG81WXhiN09pMXVreVVpbXliQjNZeU1MdDktcXhRLUhrcGVhTm93RDFwREpuX2NYbVd3c1hVMXZkNXZVSlFlNXpBQ05YVDROZDNC?oc=5"
-        },
-        {
-            "source": "Liverpool FC",
-            "title": "Liverpool v Brighton & Hove Albion: Team news - Liverpool FC",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVhoUFlQZHV2aDhfSEUzRWxzMXM2S1BSR0UwWFBKLThaN2N0THpZR0pYQ1dFdVM2NENEZHlKNGdYX3pHdWR5R2dzTDBRcEx1MXJNYlNjV3lQbmlScWNPa1JsWUtEaGxVd3REZ0xmVUhyem5IRFJUZlJWVEUxZTNzQkNMdG9pS2M4Nmx4MUoyYjRtSUpDem1GcmZ3?oc=5"
+            "title": "Arsenal 2-0 Everton, Coventry 0-1 Fulham: football clockwatch – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS3d3VW9DZUxBU29nZjVIaWtYT2V0SVZLNGZ1UTNaNUJzOC1CcGh6c1JLbGpKMWhLaTBjOVZ4VGp1Y19IeTlnUlExN1F1SEFaX3plZ2s1cnlTSVZYR1drbGZsaGNQUDZBWVF6djdUT2ZDRzlyRW9QM0RUemFsWmlaNm1INkloZ0RYY2pQd3dZcXJRX2wxTE0zdWZqb0lGVURoQjh3blo3RVJkNnpiN1dmWnlqOUhMZzdCREhV?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -46,9 +46,9 @@
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0pZeHpCR1dFd2ZmTGtSQmUwQWFCR01vTnFmZVdGampSSW1fd29TOVRiczBjbWtpcDVzTzJtN2xlSE5XYXU5OGFuNDJrdWhnU3ZfZUhkT3RHUVBvWDhZNmFUSy1vTWVIVDZvM2NPdTlvejkyUGsyZGp1bkR2dno0TlJuM1JmR2R3YV9aU1Y0UmxCVnVEZUd4cVdxRkstZ3PSAaQBQVVfeXFMTVpHa0tmMzk2Z3pWNm8zTWRPbGJoOEdXZDNJeDFJMjFNS2pRU3QzZ2RWb00tX1E0d1BKMmdyUE9meVBtTUpRZE5ET2ZQLUsteFMtYnJDZ1lDVkdwdGZ0ZlUzVm91WlZmbTgtVDY0SXg0UWxCcVJ4Q0tLNTF5UjFlZmhTVE5ITW9FRVRreXVYaDVmR2FVMHQ1M2JXb0I1MDdtWVZWa2E?oc=5"
         },
         {
-            "source": "TNT Sports",
-            "title": "Ornstein on Man City charges - and what happens next - TNT Sports",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFFmV3k0aUo3c2Fjd0cyc0hsbC14TUhaMWVHMElvU0wxeDNpUnlLZWp5a3YxRUNOMDA3TEtnN2haMkpVOTVHRVkwdE9OTmh4c0R2dXNZdjFMWllCZGNSaV85TWo5bTJ5d20zSThucjJCVTM0al9yT3dxdDZKSHliT2NkTFc5U2tmOF9oY0pnLTMwWDR5S3pVTjlINHYxVlBkZVIyTkt6UDMtcmNIX0JWZGJtVHBMdDRQOXdNcUVQUGJBMk9QNXA5cEhDMUd1WnVx?oc=5"
+            "source": "The New York Times",
+            "title": "David Ornstein’s The Athletic FC Q&A: Will players distance themselves from Man City? - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFEzRlc4VjZ2NnJHZVYtSUNsRWtBZUR5RkUtN3ZKcHlMLWVQeGtza3RieXlDcGo1eDJGMGRVWDBUOEZjVjJnbksya29UcVNfWXphamdYWnBtX08tT25GMjVQTDZ1cGhpbG0xSjlSWUxSQXQwd0luSmx2Nmw1RHBJMHM2NWZ0OTM2czN4SWN5NXZJZF9aLVc5Tw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,8 +62,8 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Premier League 2026/27 season start date, final day, live Sky Sports games and match schedule - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWFGS1p2R1dwWGpQZ2czVk53aUxXaVNDRGtHdGEyY2VzeFlTRHlDYy1NbUtVXzlrbWtWbEQ5Z1ZCdUNzZkNhSUJJaUtMc3lCM0FhMHkyRDZKMGFOMUt4UkJOUlBwaHdfMDBiUzY2SjMtX3UtVlVwNGVJQ2N3SFVxZkhwSEV1WGJveVpZSHNEUUNIVElqaFVKV2wzMllTN2o3MmJfejdDVXE1dlFvVzV4MEtqcTdsbENTejFfRXktUm5fbHFvOGNSdG11WEVLSmViODZOUmx4QkRwU2tMMXFZQ2tkbF9BWGkySVE?oc=5"
+            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWVp3WUhtRmhYc2JBU3ZFTjB6bzlqWTYwcEE1T2tCeVIySGtjTzljdTNVQ3pjSkdqbXY2b1lsT0tNWEk5cW9NRmNfS1RRVy11cFJxT082dEFDdld3X1QxQmhENXJMMzAxOEIyQ3hsSzhtLWNhWXVqa1lWazZKYThqT2J6bHFuQVRhdTk0a1ByaFhOMEZUYjlPVmRHX1BYdDE0WUpGVXNXcTFyRmcwNGJpc0tZVFV0VVQ5OG1QR090bktnRUp1TzZZT3FST0hpX3k5eGVIYkFFbHFsVEtXcXc3b2ZOWVJ5ZzdRQW9QT0pCRQ?oc=5"
         },
         {
             "source": "이데일리",
@@ -96,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySkJEakVYRnpVdEdiR1RJSlpyci1lTnVHLUc4Qjg2UXp3dWZMdWNkM1ZrLW5oY0tERll0V1g0NHQ5UktsdE5NRmRELXRaWVNfSXNmYkZzc3YtVzBJOEFEc9IBeEFVX3lxTE1VWGF6Y2FCYnJqaHVkajB3V1VYZ0Y3a3JTdDh3cWVMR0lvUzB1R2lNODdVY2ZTb1ZSVWdFWTlWanBPRDNoRUFnVW9HSWE4d0tweU16dnZnUzZOLU44Vk1GbFZhd28tQU9jQ3RrVXQ1NjRZaTZEVzAzeQ?oc=5"
         },
         {
+            "source": "조선일보",
+            "title": "충격! 캐릭, 맨유 경질 임박? BBC 섬뜩 경고 떴다…그런데 왜 굳이 시기 콕 집었을까 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFF3NEVVNkhQTmtERlNCVk1TbXczZnBIUG1oeVF4T09zYk56YU1KTXRNZm52RF9OOTlrSWp1R0MwbjI3UUZGSjk4Sy1uWU1Da2V5QjdCS2Z4NVlyX09Dc3h3UDhnN251cWtteFhIWmQ3NVJhVEQ2dG4yUTF4UHZ0MVdqNFpjaUxyaGhF?oc=5"
+        },
+        {
             "source": "엑스포츠뉴스",
             "title": "'감독 경질 될 때까지 매일 가슴 공개!'…맨유 미녀 서포터 파격 선언에 난리→팬들은 \"캐릭 종신! 재계약 추진하자\" - 엑스포츠뉴스",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbEdkNnhNYTBRWFduSGFseDI1ZWFyekdIejhyRi0wYmJSUFIwdnZLa3d1MGF0SWt5U0htZDQtZVNobUVzcUZJMkdickpCVHA4Sm5RcA?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "첼시 원정 ‘8년’ 묵은 한 풀었다…토트넘, 라이벌전서 2-0 완승 거두며 리그 2연승 반등 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zYVc1Szl0cDI0dTQtM2x0d1U4a1NwTEZMY0hodnZnNHpiZ2R0c3Q1TFdmakNBc01RWS1OYzFCVDJjZjQ3OG5Kd0VENkhvVmVmeEIzZlhqSlhfMmNaM3fSAWNBVV95cUxOdS1halNZd0VnZEI4NTBZN2YwaXlxc0RhNWt1bWgwNlNuTFpFR1Y2ZmZIRVJvMTUtZlpGTnY1bGJBU21hWG9IZ0NvMGViZEwtRWFZOUJqdlBNeldLSF8ydXRYbjA?oc=5"
         }
     ],
     "transfers": [
