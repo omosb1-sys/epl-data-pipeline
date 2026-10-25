@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-10-25 20:07:51",
+    "timestamp": "2026-10-25 22:52:56",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Michael Carrick on the brink after Manchester United are humiliated by Bournemouth - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkF6V2xuMzBQanZSaGdvbi14S2VUMGJvaW50WnptWHZxOUwxVU9QcXFvWnBNWEtGQ2l6UTNBQW9lM3VtQmc0LWc5UjlqTXpkWEdkSWNaNTZKNms2aERNVWxtelRJdnFqRGFBeDRabm1pbnJHWWRYSzdnNDRNaXYyX0h0VjB4TzR0aFN3clhBMzFZQ1hWd3VaWkZoLVkxamRBeFBtX1pVQ3lOVU5CdkVxWGt5SFM5a3RZV21IRHl5UQ?oc=5"
+            "source": "BBC",
+            "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ta3dwZHl1ZDl2TUJLMTJZQ2hXYXJnbF9SbVgwaEQ1b2JuaHE4c2xjYS0yam96endWT290eGN4T0RqaEs3Y0ttcm5wNzdYMW1vMzZ1NlY0d29GNnNaYUNZSHFkUQ?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "Sunderland 0-0 Leeds: Regis Le Bris' side remain bottom of Premier League as goalless draw extends winless run - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmMybldOemlaU3pIcnZGSElwZG54S1V3SVo1Wm45aktnakRjUjltMkc3YXhaYVRUOW1OSUV1dmJDblFndFRvUHlLbkxmNjZWMjdTS3RrejY2SDJQWDV6cmNkdHl2WElScUtjUk45Z1ZlRVdKVkh0NndNaWRzZ2RoU2dEbm92UDZIUmNsMUhSbW40OElzOWNGdGlkejhfMmtsOUpYc0ZvQlJFVVNIRkEtX0xxUXhWYnBPNHZfYjJfTTBDSHBySWpLOXpXT180clVsenhhUE9kbE5US19OM3BYZU4xSHBOTGo2aEJleHRn?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Sunderland 0-0 Leeds United: Hosts stay bottom of Premier League despite ending losing run - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10S00tcTh1akJrVHJmak9uWnlxOFRWb2dEcWlrczNJRHdmc05zVGlqQ2ZZcVRNT2xrV3lGRnNheVNsWHBIMzBIVHBCaDcyVVhFd1ZxLTdZblAwTXNidXNfeXNtS0VxZw?oc=5"
-        },
-        {
-            "source": "The Guardian",
-            "title": "Sunderland 0-0 Leeds: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2xoSFpCZ25fNnFKR3JVX1E2RFBpTE5UTW1EMkJNNHlvLUJta29RWnVKaHlMNjRvOHFwdEFaaG04aWgtZEthVDlVOVhTWDEtUjU5MW9femRlUmRaRmtjSjBCSVR6V1ZwR1pEWFBEb19ZaWtHcUJ0aU1LdXdBRUlUVGtJTG1Eb2NQSFA3WDFIbm5pWU1Hano0?oc=5"
+            "title": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yRkFUb2RJdFJCTWhrbUxqZnkwb0JCTGNoU2EzMWFIX3hSc3plRE9EaVFVRHVWSDZpeU0xMzUwOHQ0SmJ6VFY1WUVWblRhSGtXWTZrcy1RU2ptTnFpZHBFRDNXdjVMQQ?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -62,8 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wTjRESXdPR1l3a0ItLW5rZkJyQlRDbmJoVGI5ME9iTnFmeXRzdXNaSnRPdXhHcHQwNzJqWEF5MjZCb19zZGhwUGZuOFp0S0EwdmhB?oc=5"
+            "title": "Premier League 2026/27 season start date, final day, live Sky Sports games and match schedule - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWFGS1p2R1dwWGpQZ2czVk53aUxXaVNDRGtHdGEyY2VzeFlTRHlDYy1NbUtVXzlrbWtWbEQ5Z1ZCdUNzZkNhSUJJaUtMc3lCM0FhMHkyRDZKMGFOMUt4UkJOUlBwaHdfMDBiUzY2SjMtX3UtVlVwNGVJQ2N3SFVxZkhwSEV1WGJveVpZSHNEUUNIVElqaFVKV2wzMllTN2o3MmJfejdDVXE1dlFvVzV4MEtqcTdsbENTejFfRXktUm5fbHFvOGNSdG11WEVLSmViODZOUmx4QkRwU2tMMXFZQ2tkbF9BWGkySVE?oc=5"
+        },
+        {
+            "source": "스포츠조선",
+            "title": "'이제 와서, 캐릭을 지킬 수 있나' 8경기 연속 무승→EPL 16위 추락! 맨체스터 유나이티드 새 주장 매과이어 충격 발언 \"우리는 감독을 전적으로 지지한다\" - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzRxZFdjc2lEWHhJQXRoblN1OWVZelRRRE1JUy1sWUlweFNRdzZMREVuQmFHTWQ3RXUtamxvUzg3alRDbWU0aVh6UjhrTlVEZnFVWG9VMDBtR3JiRmtZNjl6VXVuamxjYjlFbUtBOFpabTVLV21PVkFQNllYQQ?oc=5"
+        },
+        {
+            "source": "이투데이",
+            "title": "맨시티 첫 패배·맨유 16위 추락…프리미어리그 순위는? - 이투데이",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CZ1F0VGQ2WU9HZS1NV25ua1ZORjJEbnprUWIyajkyOWo0WlBlQWdXSmsyYUh2UVUtM3oxUy11REhzdmxibmZqS19HeHpscGkxMmFJdmVSbF9ZbFNHTGR6dDU2aGhUMmVINUk2QkFB?oc=5"
         },
         {
             "source": "뉴시스",
@@ -71,9 +81,9 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySkJEakVYRnpVdEdiR1RJSlpyci1lTnVHLUc4Qjg2UXp3dWZMdWNkM1ZrLW5oY0tERll0V1g0NHQ5UktsdE5NRmRELXRaWVNfSXNmYkZzc3YtVzBJOEFEc9IBeEFVX3lxTE1VWGF6Y2FCYnJqaHVkajB3V1VYZ0Y3a3JTdDh3cWVMR0lvUzB1R2lNODdVY2ZTb1ZSVWdFWTlWanBPRDNoRUFnVW9HSWE4d0tweU16dnZnUzZOLU44Vk1GbFZhd28tQU9jQ3RrVXQ1NjRZaTZEVzAzeQ?oc=5"
         },
         {
-            "source": "Manchester City FC",
-            "title": "시티, 빌라 원정에서 시즌 첫 프리미어리그 패배 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalV3bDhmb0E2dFUwc2xEMmRRbTR3U1I4UG5xWGxtUVg3TXVUVU5rQkk4bnRmOVlBN3BGdndveUZzVGYtQjZNWlg5c3VxbHZXbVNSNmlpR3NhWnZROHFXejJpR0xxbUg4Y25EaW9ZRWxmZDRQRGZPZndsMVd5UWExUC1rN0Y0SGRabl9XdGw5QV9YZw?oc=5"
+            "source": "데일리스포츠한국",
+            "title": "토트넘, 첼시 원정서 2-0 완승…EPL 시즌 첫 2연승 질주하며 12위로 도약 - 데일리스포츠한국",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCX2taVHBCMlg3TXZJYy1XRzBBdkZKSUloQ2xFbUI3a19oZEZTMHZLblBNYnYzUExTWkRVNXdvOXo3b3hCdWo0R2VQZW5xSGEyRDZabHJuVDgtX2pUeW5xV1ZIYXBpMWFhNkFCMnN4Zy1zVTdfcWpuZG8zONIBf0FVX3lxTE1yeFdtRGdVenE3TDF0aWJzbWZnbXAtV0ZMbm9DdzNfOTNkUEhHTU83Rkhzbkl0VXJjOWNhVVRFc2tVWG9SNV9lVHNvNEV5clc2ZjY3RDBBeU91R0lMUmV1a0llc1l5WncxYXpFYzJTRC1IbFZmTmUwMC1iMEJCX2s?oc=5"
         },
         {
             "source": "Laodong.vn",
@@ -81,29 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0JHZnFfT2hGLVJKX1NZMXU4WFdwSkdKRUo5Tmw5azlvSVM0b2tWUzdaSHRsaDdoYnd4NjJOZzRuT0dqdmc3MHJfZ2luaTFpNC1iZVBXVUx2Z0J2M3h2WjVJeFN3clZkQ0RpWVMwQkxsQms5SDRvdV9NeElRaFEzdnBtbE9WcVA4d1RQenltZGpnZ3kwWFk5TkhwUjhnQklhamFueFZaOWdLNDZw?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "맨유 진짜 망했다! 홈에서 본머스에 0-3 대충격 굴욕패...8경기 연속 '무승' 리그 16위 추락 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaENCX25vWlBuR003SXlSR3haS3FIR2h3Rm10T0k1VVpBQ2ZmMjFrNnM1SXJTc0xlRjRhdkJYbk5EcmFlLU5BdDhINi1PdkV1MlhOZ1pzSHFrTFlERWl0Y1haVFo5T3ZPMWdtU3NJdi0tMldWRGIwQzlydk9jZGtrUmFvczR3R1dfT0lF?oc=5"
+            "source": "Manchester City FC",
+            "title": "시티, 빌라 원정에서 시즌 첫 프리미어리그 패배 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalV3bDhmb0E2dFUwc2xEMmRRbTR3U1I4UG5xWGxtUVg3TXVUVU5rQkk4bnRmOVlBN3BGdndveUZzVGYtQjZNWlg5c3VxbHZXbVNSNmlpR3NhWnZROHFXejJpR0xxbUg4Y25EaW9ZRWxmZDRQRGZPZndsMVd5UWExUC1rN0Y0SGRabl9XdGw5QV9YZw?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "아직도 ‘손흥민 공백’ 메우지 못한 토트넘…현지 매체는 ‘日 에이스 영입’ 거론→“빠르고 상대하기 까다로운 선수” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbkZxWlZweUxzOFZaNEFDQ1FDbkhvd3dibGpfYVc2UDV3bFdnVDN0S2JFT0dLdkYzSjZiZXRXMndVdDY2QWV2ZUd3Q0ZSd1BjNTZXeVpRdkpibzNzeUxUTVBySFNsVFMzM3F3NXFrRC1tYnNI?oc=5"
         },
         {
             "source": "이데일리",
             "title": "토트넘이 달라졌다...시즌 첫 2연승에 8년 6개월 만 첼시 원정 승리 - 이데일리",
             "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVNVLUR2WENVWGQ1aVY2MFFrTjR1OTBiQ0xvNS00X0lab1pMdVdOTjVXZnZ2ZFFhdllhaUxSTUQxWXNCN0Q1cFVMWDhjVE9IYTVHOWpubXJRcVo2Zk9tV1lnZDB6SVpFTDZDUnhVNWNXTHlDTVNMRmpJV0FYalMtUw?oc=5"
-        },
-        {
-            "source": "인터풋볼",
-            "title": "한국 0명, 일본 10명 현실화되나...\"토트넘, '개막전 해트트릭' 스즈키 유이토 영입전 선두→유럽 주요 구단과 경쟁\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02OXh2R25yVHYwZ3hRWlN6dkZwd2pwTm5LRF8ySFNhV3hJMmFCUUR5RHVQRkJqNFJ4N2JqS0ZPWFMwVlh4cnprWEkza0lmRXY5S1UyLXlPZzZrM3JpZ2daRUhQUEdZX19vWjVMNTNpVGR4bUJC?oc=5"
-        },
-        {
-            "source": "스포츠조선",
-            "title": "'대충격, 홈에서 또 대참사' 3무5패→8경기 연속 무승→돌파구가 없다, 브루노 페르난데스 '문책' 결장한 맨유, 본머스에 0-3 대패..'캐릭 경질 발표만 남았다' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ha3hIMXFEQ0FsTFhTVnppSy1oSUF6VkstQzJxRm8wVU5Yb0JmOG9LMTQ1TksyZ05EcjEwVVg4MjByeUk3TTRDdFF5MmVRbHItNHRoMVhJWm43a3dfQXRyTTJGWFlTOVZIOC1LU29aZnNtcVIyM0pqaXFBQ2RLQQ?oc=5"
-        },
-        {
-            "source": "시사포커스",
-            "title": "토트넘, 8년 7개월 만에 EPL 첼시 원정 승리… 리그 2연승 - 시사포커스",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OUkFZRjJiNmJQeExPXzJVQ0hLakVkTzBTdXpMUGxLc0Y1T2kySlFvb040cnNsZ042NzNIeTBpZERuZ0UzRDdmeTFoUTVlalJmMEhWOWpPamdvMlJPT0RjU1lpRkhNX3lidXBWc3MxOA?oc=5"
         }
     ],
     "transfers": [
