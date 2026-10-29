@@ -1,10 +1,15 @@
 {
-    "timestamp": "2026-10-29 10:30:13",
+    "timestamp": "2026-10-29 17:08:44",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
+        {
+            "source": "BBC",
+            "title": "Is the double drop from the Premier League becoming more common? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQbFFzYUpRWjVqZTFjNExCMEk0cG9VWENwdHlMck1FUUNTNElZMWxLQWJabDI3YW9mTFFtemk2enZHd3BydlJ3eXNLbmNSbHVmQ2FVVE9rcUZhQzd5LVpQNkN5RHFPUHda?oc=5"
+        },
         {
             "source": "Sky Sports",
             "title": "Carabao Cup quarter-final draw: Liverpool host Bournemouth as Bradford and Fleetwood learn Premier League opposition - Sky Sports",
@@ -12,13 +17,8 @@
         },
         {
             "source": "BBC",
-            "title": "FPL: Can clubs stop players' friends and family leaking Premier League team news? - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WYXk2c3BTWlFybTFsdGRtRkpKT1RPeWZJVmV6TE1RVm5TYUFKcUVHakJJMlF1Vk8wcGFUTUZHN3hxaXhEcDA2U3VNakFuTDRfdG51ejgySjFMdUVYOENMak10WnB2Yi1o?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "'I have to continue to show my quality on the pitch' - Tanaka - BBC",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sTkFvRFI1eDFFTXl0LWtITnpHei04SDNCWDJ6eDVJRlRIRS1KTUhCNVpIbU5wZ2RsNldObHB6R1BDLXRzY1B1M2tNYWhVTEN5VXBYTmxZOUotajRVNWZ0NzRCYzBadzFXdXpj?oc=5"
+            "title": "Carabao Cup draw: Fleetwood Town to face Everton or Newcastle in quarter-final - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KS3dJNUFtN3d6bXRIckdoU05tZ3VvX2phQlBsOVhBdkZ2OFR6QnZiSkhPR3ROMUFhbFVOVTVtaTRyY09jMUpZaHJSeWpMcE9fd2hBSmQ1UW1BcjFuZXRLMlJDVlY5TGtH?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -26,14 +26,14 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21JREFyM3FHdDFfQkZJOUl1X1hNSUdsbDdxUU1laEctN0JwSmFYRXdKMzR3ZzZZM0RSOWdBcG5sSHRMLURpRURWNkF3RFRPTmNLRi1EUnJLajFkUmVEbktRZi1rM0syVnd0RzhBOGU5NGVzQmMwOUJNeTVUQ2FrRkttX1hoSXJWUExsSGpWRFV6cTJCQWl6MTB5SW1EZkQ2ZUlkNnVYcnhpaXlVR3hRUXRRcFJKaWVuc19IWnI4QjJELWpwN2s5MmVlNWx2SUN2a3ppVGJ0TjhBMG1QZml5ZHk5aWJPdkd0TF9DRW5MYmJCLTJMNkE?oc=5"
         },
         {
-            "source": "LiveScore",
-            "title": "Fabrizio Romano: Alex Scott attack, Ronaldo latest, Real Madrid deal - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzR4ckhPbnhJZlBGeUVMZVp2MVhTcENaR3hwZFZ4S2VrOVNBVE9qWGN4em5OekJGcmVER2xoUWpNcjRBWFZTNXJNbGJEbmVfRzRyTFVNV192dTJ3UkRudUdIdUlVNGdDU0JrOEEwX3VsSlp2ZHd0dXJFNVl1d1czUFpNQzdKRmd3eHVQMDJaRXNLN0F3UEF1ZVNscVYyaHBnYmg5MEFGQjVIeEl2d212SHVMbk1vMTZEZDU3eHlCdHlEYVl6OEZFY0xsSTFFQ28?oc=5"
+            "source": "Liverpool FC",
+            "title": "Liverpool are ‘serious’ about signing a player described by - Liverpool FC",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
         },
         {
-            "source": "Read Newcastle",
-            "title": "‘Sent official bid’ – Fabrizio Romano drops Chelsea news that helps Newcastle United - Read Newcastle",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWNHa3pkVXdvQnRtVWNzR3FlWElXYkJPeFVRRlJnRUUyRlcyc05OMVZCT0RoS0RJM01WWkVHcXVZZU5Gb0oxV3c5a1VtSUxkZWdxQmJoN3gwRlBjTE5XQXhBVEhYeDFiWjgzT25sZTZIdE1LMFIzVUhNeVdRZVRaN2xySE85Q2trbTBIdUFPci1OOVRmNExKaUNONkZ0NXZKTG1r?oc=5"
+            "source": "FootballTransfers.com",
+            "title": "Fabrizio Romano Transfer News: Alex Scott attack, Ronaldo latest, Real Madrid deal - FootballTransfers.com",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY29WWWEwQ2VrZ1JJSUQteUFUODNpbmhZN1I0U0xqQ3RzY01ycGZtdGNhWUFaWGtLd0N5bFRuek5kUHhJY28yT1QzRUxQZlV3ZDBKeG5FSURaUDBheWU2SWNvRTlpaExfNWxMRVZ2X3dKV3VtcUUtMG8tM1dZRE9lX2MyWE1OUFZZSWhyaUx6NWJGZFR1R0N3Yms1T0xkY29EdDNoZXdtNFZFS1psS1ZVNnpfa3hFUm9TV2Rob3RhMGVva0E?oc=5"
         },
         {
             "source": "The New York Times",
@@ -46,9 +46,9 @@
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFJIT2pBMWxyVXFoWnRydk5ncTVOMlpmcEtmdUV0dFdnTVcydGRINjg0Z1pGZERiOU9VVzNKSzRSVWNQZmwyX0paZzZUOTd1dWNyYTZYZmt3RHpTa3QzcktCNFEtWmJucERQbnV6S1ZDamg2OHlpb2NROUVJR2RkOE9xbVRDbFNEMFJMa1AwN2c3S2hZaGFfbjNJdGtpSkV1NHc?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Arsenal: Will Gunners regret missing out on transfer targets? | Transfer Talk Podcast | Football News - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1hvVjFRRGZEaXViQ0h5bzZiUnNfM0pXMkhISmtGTGlBTk1SUV9VVEM2MG9aUF8yZXFGblliWlB5YXUwMjhCM1V1eVpialJmck9TcTN6eUVwQmxOYS03dDJVT3RZQnByZHVkM0hnWDhkMGstdHhxRFRWU1d3VW9URm5XdUFqaHlCbzRPWUJ6MnlxX28wMHU5WHBQdHRaZURlaV9VdE43amd0b1FCUGZYREU1SEFfTE43OXVTcWZkanA?oc=5"
+            "source": "The New York Times",
+            "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales? - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,18 +62,23 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "초대형 참사' 아스날, 4부리그 18위에 승부차기 패배→카라바오컵 탈락!...상대 감독 \"구단 역사상 가장 위대한 밤\" - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQkd6SGN3WENidExRSjd3UVh0UFBmNGFPRDVudk9tMG9RZ3diRmJ2UHdYNWh1NHdKUG1kaW1VZEd2LXFwR0VpTklBbGRheVR2NElBQm03QUxnRGhXZ3RCU0Z0UlRoOWJha0HSAW9BVV95cUxPd3hWTHI0bUU0bXRCWTJlbWJNakMtUWprODlBZ0dINzc5bHo2c0xLUlZtYmYxTzkxNEd4VnpxQnJZb21XWmppRGgxclQ2SFVhX0RMa2dkU25GX1Nmcld1QTdycWczaXNvc0ViaEcweWM?oc=5"
+            "title": "Premier League 2026/27 season start date, final day, live Sky Sports games and match schedule - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWFGS1p2R1dwWGpQZ2czVk53aUxXaVNDRGtHdGEyY2VzeFlTRHlDYy1NbUtVXzlrbWtWbEQ5Z1ZCdUNzZkNhSUJJaUtMc3lCM0FhMHkyRDZKMGFOMUt4UkJOUlBwaHdfMDBiUzY2SjMtX3UtVlVwNGVJQ2N3SFVxZkhwSEV1WGJveVpZSHNEUUNIVElqaFVKV2wzMllTN2o3MmJfejdDVXE1dlFvVzV4MEtqcTdsbENTejFfRXktUm5fbHFvOGNSdG11WEVLSmViODZOUmx4QkRwU2tMMXFZQ2tkbF9BWGkySVE?oc=5"
         },
         {
             "source": "마이데일리",
             "title": "아스날, 하이버리에서 대참사…`끔찍한 경기력` 4부리그팀에 참패 혹평 - 마이데일리",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzbUhDelN1dHZRY2FxZV9XXy1ENXhzWm1tNWRqMFBlSTFsVm1OQ2V3bGdhQmxnd2Fqa09YcDJMYTVJVjVfN3A1OFJSSF9oZmJxSGdPaklQNUxOMG5nVFVMbG9EV1lCdw?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "대이변! 아스널, 4부 팀에 지고 ‘경기장 탓’까지 나왔다…“16세 아이 탓하지 마”→“구장 3m 짧았다” 팬들 격분 - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hd1FpUkROT2tPOUtCWmVIRDNXN081bEh1eUZBalhUNlNPZllRUHZXNUtfME1BRm1lTkdBM1ZpR2NldWZMT3BOOHBCX1JabFk4OThDRXhZQzNxZE1PZG9pSGluYVZNUkpSUmZDdkZ6U28?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "초대형 참사' 아스날, 4부리그 18위에 승부차기 패배→카라바오컵 탈락!...상대 감독 \"구단 역사상 가장 위대한 밤\" - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQkd6SGN3WENidExRSjd3UVh0UFBmNGFPRDVudk9tMG9RZ3diRmJ2UHdYNWh1NHdKUG1kaW1VZEd2LXFwR0VpTklBbGRheVR2NElBQm03QUxnRGhXZ3RCU0Z0UlRoOWJha0HSAW9BVV95cUxPd3hWTHI0bUU0bXRCWTJlbWJNakMtUWprODlBZ0dINzc5bHo2c0xLUlZtYmYxTzkxNEd4VnpxQnJZb21XWmppRGgxclQ2SFVhX0RMa2dkU25GX1Nmcld1QTdycWczaXNvc0ViaEcweWM?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -86,24 +91,19 @@
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ldnptTkI5Qzc5cEZrSlV3b3N5X3RpZWtDNGpVT1NXR2ozaC1zNWZtZHdWNkxkblNzb2U0NnU2Sk1lcENnQ3l4aVI4YmhuYWxDNVU4QVlEa1VzTTFsVndCcVpBZVJPdVVIZHFlU0R2NWI?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "“2년 동안 관찰했다” 일본 국대 GK가 프리미어리그 진출한 이유…“특히 성숙함에 대한 평가가 매우 긍정적” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbEwwbEtEY0NCcFBVUHdPak53NS1DbTIwQnhjRi1RRk00U0lkQkJlZ3RELWFaTm44Qk9XSG50Y0JOQ1owa2U4RXA5RzFxZXZjZlFya2pDME51ZFd0WnNkVnJGS1VoSXFXOGExMmI2M3VEZmF1?oc=5"
+            "source": "마이데일리",
+            "title": "전역모 논란 후 잉글랜드서 댄스 세리머니…뉴캐슬 감독 앞에서 시즌 첫 골 'EPL 기회 줘야한다' 요청 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQ0Exc0g3Y2ZUUGt6WVhha3NSa2xXRGg3RWIzLU4wa2pRdW1hVUZrZ2FLaHFIZjdhNmxKNnY0NmpxVkdUMy0xVkhYUUdvZkxWTGRreFJpa1cxcWpMNzdNbA?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'캐릭을 믿어서가 아니었다' 맨유, 1-4 참사→0-3 굴욕에도 감독 경질 못 한 속사정...이미 570억 날렸다, 이번엔 돈도 문제 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEdndWl4ajVmZDZVVjZkMWhNNUV5QmhDUl9Ic2pYbGZUYlRNenVOMzlKOU5uN3lObVhwbEI2dzBsR1NlOTUtY3QzV21mb0tQejZld0NFZkdDdTFWZV9OSTUxcUpxWmFKdDEyZ0xEaTlFdUVuRWNlQl9nRFZLQWJQRDFyM0VLd183cWhJ?oc=5"
         },
         {
             "source": "스포츠조선",
-            "title": "'공개 망신은 1경기면 충분하다' HERE WE GO, 본머스전 '문책성' 결장→맨유 주장 브루노 페르난데스, 주말 첼시전 선발 라인업 복귀..'유임 캐릭 감독과 오해 풀었다' - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3b0xqTDZVYzdwLUV6YmxCR295di1ITFF2WHZZNlRieTZ6Mjc2TDhDUVNLMGliU3NUNF9fMmhiQzZVQWZWeVJOck4wMjZVeDFtZjJZWnF6cnJXYi1vNkUycjBJS0stZEpRc1pRVUdfdkdSNVNncFl0MHhUVHk1dw?oc=5"
-        },
-        {
-            "source": "서울경제",
-            "title": "8경기 연속 무승에도 유임 가닥…맨유 수뇌부가 캐릭에 건넨 ‘시간’ - 서울경제",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kenVYdkZrNXUzOWJDR1dzNGJVUEtaYnhxVFNzQ0x2a21vaWRHeENzd0I5T3F3V1c0aGNmdXFyeFRlcDFua0xVTjY5N1dyU01yQkHSAVNBVV95cUxPYjJaR3l3cG1EMTViLXlyMldRVW00REhzVG1Td3pCRkRJQkJ6Vm9wdU41OURzQlBkekVULTgyak13U2ExQTRHeWwzMG9UalgxZkdpaw?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "'태업했나' 맨유, 본머스에 0-3 완패…캐릭 감독 경질될 듯 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbE1uVk5sYUM0Ty1TV2pnTkpkaXdqdFBtS1VqNU1NSTF2NEdCdGVNdEtZYkN3R04yeVJoQVl6Q3dvZ20tNGdRbWQ3a1BubF9PT1V6T1h5WEkyWWNEaEF1UtIBeEFVX3lxTFBFWWFpSzJWczBseTBmZnhMVnA2SVVTUjBaTk1BQ3RyRWlMLVRNNUNCRWJNOGI1WGJnSmZ5T1ZpbkxCN1BEV0dpSU5wNXZUMTJURTlRWmFrR282bTgwRzZfYXR3eEZwUHpKdmZaZTBqa0tfS2x2U20tRw?oc=5"
+            "title": "'금메달→전역모' 초대형 논란 박승수, 英 현지 난리!...韓 16호 프리미어리거 기대감 폭발 \"당장 1군 데뷔시켜\" - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LakFLLUd1UFpVRVZBVlViVmI3MWpldUlRR1JsaDVhZ3l2Y2diWlQ3M3YyZENJYU1VdVFOcktLYmtDSS15ci01MVJoMlF0QWx5VC10WlJ6eFBwQ05tOThYNS1XM1NsdVlkTS1ySU5KR2VralhUSTFydko1WEhXUQ?oc=5"
         }
     ],
     "transfers": [
