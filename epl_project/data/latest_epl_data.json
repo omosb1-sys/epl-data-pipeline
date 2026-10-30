@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-30 09:10:36",
+    "timestamp": "2026-10-30 16:19:13",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Premier League predictions: Chris Sutton v Bad Day At The Office star John Hannah - & AI - BBC",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lUVNTQ0xHalBiYnBuZTBlRzFXMkZ4OGloSG5vcWVqdXlWNndXQWRBZzhZbGlqcnluSXBOWUdhamJoNDZYNVJHVmJaeFZ4bzFKQ0JjQ2NDcWxUMUxRb3VtcElrSWd0aW1zVmNF?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League LIVE: Team news, news conferences and build-up - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tYU1Bc19fZG9EV082dTlwSHQtVWV3OUo3ZTJGalBvcDJRaC1JQm51SVJWWVowNDFTZlpJVzRGcDE0MzF2eUxWbGlZYlU2cG1NS2h2dXNTXzRNMGdiWi0yUW56aw?oc=5"
+            "title": "Premier League news conferences, team news and build-up LIVE: Iraola, De Zerbi, Alonso, Arteta, Maresca all speaking - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDV29pRklEN0l3TFJxeXJIZTctS0hjS1JmTUpmRk0tMm5xZDlJYUdXUDhuZnNyNnI1X1U2bTZFM3B1X2VtSjMyNVhGdDRqbFFFUUQ5amhGWHV0TUg4ZXBRVXRhdVUyZw?oc=5"
         },
         {
             "source": "The Guardian",
-            "title": "Premier League news, Carabao Cup and WCL reaction and more – football live - The Guardian",
+            "title": "Arteta warns Dowman that top flight is not ‘Disneyland’ after red, Maresca says Donnarumma is droppable, and more – football live - The Guardian",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3N2a0FmZUIwWEdONkdvQ1dWMVFVUXlXTXpzaEhvQlU4bjluN0RQdXN6RXBsSllyZEMya0JoRElvRDJfbXlpSEpjRTc5ODlkMm1GbTYzd3N4dTUzUVcwMUtRaFhmTWladjFTN2lCdlNtejdMdXl6QkYyWlVtVUtxdVBvQVE0NGRFWmw4SDh6cjByVUdwZjhEQXlpZEV5ZFFaZEM4NnEzR01pc280bExoWlloTVhWcFQtWDRBckhwdkVFYVk?oc=5"
+        },
+        {
+            "source": "Sky Sports",
+            "title": "'If Liverpool want a title race, they have to beat Arsenal' - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcTlWTFd5ODdRXzYwUnQyOTVMMks5M1hmRHpkSjZJVHNoN3VJbUZaSF9hcDU4OEZUTHJueExCNy1JbHczMW9aSkR1aGYxdlM5U1dXYmhBc090elM5WERqWWk1WmxaY1JZRDBCT3Qxdzl0SXI5Vi0yRy1oQTNTcVRkNVZrdnhaOERKMFI3RTRHZFpoZ2FOZG1ORHY2Q3BkUHhBd3A0WkhHVUVwN0NDNUVob1ZIVkh1ZUpLdzVCTC02V1RqanEtbTZxMDc4VlZJSG0xMEJLOFNLNTQ2TzNGQWt3dEUzTWp6UmtNd0F0aTVDMmNkWkxCUF9LTWV6MTVJQQ?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -52,18 +52,28 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEt5MVJXa0ZrZWRROUtnMVdEeUJ5OGJKMjRvX2hIVVRyWHl1TDJnOFpXS0o5eEEwaGtXZ2RMamNEMDZXdUZRMGozeVdVSUpWblpwQkhKQy1ILVM5b2hrZVlTRHVFRnhGY2Z5ck94dkQ3dXFySzRxWUE3dkdqclFjTUQtUW9pNkdrTFZRd2k5UXhQS1hlMksxNVF6czh4dzJXZThDaE5JMmtyOV9aSDZXaDJMMXRtWmF3bzlEZXU5MW1aYjEtN0h1ekJWbzZnSkkxdTRZcw?oc=5"
+            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3h4Z0lUOUN1emVYVTI2SXlXXzh0MG5GUFNHWVE4bFluS0UzYU5nWmE4aVlsNnlaUlk5bUw2TlpsdU44QmYtY1BEOExjRXdlOW9xd3lDVlBKWWZmZVllNWdxdWlYS2oyYzd5TFExTGdBeGxaNnQ2YWlnSUM3d3hLOTdfMEM4ZVJHRkQ3SWZDWGtMVkFoS0JUSnA2Skp5ckNRd3M5NDgtUEpJd210UWw0a0NtUmNqS0o3RFZtYVlXZ1JxQUJZelZtZVVrWngwNmJmWFh0bmJwc0huR2psVVdiYy05VW1rYU1Xd0o3eTN3?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "SEVEN Boxing Day matches confirmed as festive fixtures are released - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmFpSk01cmExdmpxU3BRWWtMcllkOE9WeHFqNVBYZkt3NEppTTl4U3hheG9lQ3RPX1FMUlF2QnJsUWNKV1k1aEtGcXpNNEhBNjRLVEtBZ2lURXA5OUEwWGozQXZZa2ZGT0ZENExWYUlDYjVNeWZLZ1R6S2lZUHZIUUhibEFTU2x5UWJ3QXF5dnlyNnlBTTRyNlZNQmFzMU9id3hHNllwQmFUU2dDNVYzZHlWT3M?oc=5"
+            "source": "Sky Sports",
+            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5"
         },
         {
-            "source": "Port of Rotterdam",
-            "title": "!!+[OffiCial@!]* Everton vs Newcastle 𝐋𝐢𝐯𝐞 𝐒𝐓𝐫𝐞𝐚𝐦𝐬 ~@NCAA Premier League Today - oct 30, 2026 - Port of Rotterdam",
-            "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOQTctWW5iUnBQbVlrUmY0akpTVkRpMGpmZDRiZnBTb1pXblBBb05GOFlvQWlYZzJlQjVEanBsVXV2QXdjOElIazhtYWkyMC1MaXVMWGlCQkN4VmlJWUNKZ3FvdGcwdGdzWVBrbmpvSGtZUFJWeDB0ejBjYTR3Q2xEbWZvRmFrSnpFR0VDSW9aM2xrLUFBbjBJUWdkZW5mb18ycjBmRmlLSC15RnRPcDJ1cHhWY2lGdERfLV9iYzRoQkxxX3hmN1Q3U0JUdjlVZVNiclowLTY4V1hpdmR3dTdLRG8zTTVRcUdyS1RhRHRfc0xOZ2loVmNiSjJpVDBCd19rWURtdncwZXpUQy00cHJUU0YyajFfLVJneWRIMFlyZnU0cVQ3YkVDVEYwendmTUNmV2RIcjF6ZGV4MWdnR0V5ZFBlOElTOU9hcjBpV1NsV0F5QTI2VjlVZlpxSUt6TTM3bTNrc1FrcjA?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+        },
+        {
+            "source": "네이트",
+            "title": "'뉴캐슬에 이런 선수 있는지 몰랐다'…'한국에선 전역모 논란' 박승수, 뉴캐슬 현지 팬은 극찬 - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWRkc0dpb1pQeXNZU2duejdiVGRZTUp0OEh3SWhXemJmbzh2SzV1Tm5GeDBtOXdBOTBsUWU3LW9SbnNFUjRqSXZieWFaN0tDUms2YlhVbkQ0by1QTFk3TDRIRlVhQ2NIOVRjcnVrTzRjU01rOVVXQzNJYmpxUlFXcWJR?oc=5"
+        },
+        {
+            "source": "스포츠경향",
+            "title": "‘韓 국대’ 오현규, 오는 1월 ‘프리미어리그 입성’ 토트넘 유니폼 입고 가능할까···“여름은 몰라도 겨울 이적... - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZzhhMWNQTndCODl2RmJGeWdRX1M5WXhuaEQ3c0lvb1RpN092UkZaLVgtZFh2cXJZSkRqTFVsbmRDR21sZjFyc3h3ZUFkZ2toZE1ad1lpOW1Xel9BWmfSAWNBVV95cUxNUnBsZjBjaWc2Z2VIeFpSMzJhSUx1UGR3YUh1bnN5bmRGUk5IRThVVnU5ZExBc043Q3g4cFNKUEdWRHNVcEJRV0w4dGVOQkNuWFM3dUgzRjdKdUNCWF9JenpQVzQ?oc=5"
         },
         {
             "source": "SPOTV NEWS",
@@ -72,18 +82,18 @@
         },
         {
             "source": "마이데일리",
-            "title": "전역모 논란 후 잉글랜드서 댄스 세리머니…뉴캐슬 감독 앞에서 시즌 첫 골 'EPL 기회 줘야한다' 요청 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQ0Exc0g3Y2ZUUGt6WVhha3NSa2xXRGg3RWIzLU4wa2pRdW1hVUZrZ2FLaHFIZjdhNmxKNnY0NmpxVkdUMy0xVkhYUUdvZkxWTGRreFJpa1cxcWpMNzdNbA?oc=5"
+            "title": "아스날, 하이버리에서 대참사…`끔찍한 경기력` 4부리그팀에 참패 혹평 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzbUhDelN1dHZRY2FxZV9XXy1ENXhzWm1tNWRqMFBlSTFsVm1OQ2V3bGdhQmxnd2Fqa09YcDJMYTVJVjVfN3A1OFJSSF9oZmJxSGdPaklQNUxOMG5nVFVMbG9EV1lCdw?oc=5"
         },
         {
-            "source": "스포츠경향",
-            "title": "‘84계단 차이’ 뒤집었다…‘4부 리그’ 플릿우드가 ‘EPL 챔피언’ 아스널 무너뜨린 기적 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjZqTnZIc3JVaHNJcTlVMlc4amJDRDlNdjZfQ01IbmtfbHhPemVaeU1LZW0tQ1VXekJRT0h3OF83UDdJRnIwVnBfbmNFdWxKUmRBazFqeFFDdmU5Vko0cWFZd045VE44azB0MGdTcE9KWVg2QkhqTndWSWpURzlSaXRBdmFtbTktM0ZkVGdlX2V0anBVQnpMT2lPWnFnWXNfbUdBNDVsbndqNHFoS1JsemhHT2NxT1JFeEHSAWNBVV95cUxOLXFjc1dtNmJ5bXN5SFdNLUxQYVU2VHpwV0hOS2ZCR1p1UjJ1a1NvRkszLXltWncwaUxkTzBWc1NCUUV1c2RVZUt5RTZNU0ZGeU5wVGxEUFNMbkdHNTk4S19wSDA?oc=5"
+            "source": "스포츠조선",
+            "title": "이럴수가! '韓 국대 괴물' 김민재 또 엮였다 \"아스널 탈락은 토트넘에 악재\"…내년 1월 북런던 수비 보강 경쟁 '치열' - 스포츠조선",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVmVEUDVEZjBUY3VpZlFvOGhPMWYzQXFwdWV0YVF6WDNUWGZUdGM2MHNJWlpuR2FnZDVoWFljc3R3alFrbmdvY2ZlMjVnalFKemYtaVpLd19NYnctMnBWU1pJemtIRnZqUE9aZm9pUGhNeUxVTDUxVWZKeXlMdw?oc=5"
         },
         {
             "source": "인터풋볼",
-            "title": "폭로 등장! “퍼거슨이 약속 안 지켰다” 맨유에서 뛰다가 맨시티로 향한 이유…“내게 복수 같았어” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TY3hTQkVmZHhRZFg2bWlmTEVMSV9Kb1l3NGwzSU5lSXVITEF1eVBQbmZZSnExZURrUnJyWU5WQXZ2UG1vQk9MMWdZN00wRlVLbEl6cncxME1qV0RUZ0p3ZnB0Yy1qNWdHdi1UazFlbDlkRUFv?oc=5"
+            "title": "\"토트넘-헐시티, 오현규 원한다! UEL 활약 영향\"...베식타스 이적 1년도 안 돼 PL행 가능성? 감독은 OH 잔류 원해 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53S3ZvZmQ5RDBMYVJETGFrdDNLSVNmd0lwZlFiZmRlNy1maGplRFYyXzJCanBscHJac3ZxVzNENXVhN25pME5rQ2Q4c1gzQ29yT1VDUUVVWlB5MjVvVEVpQjZVQmxRbXRoQlN2eEo3Z185ZTBv?oc=5"
         },
         {
             "source": "Chosunbiz",
@@ -91,19 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVVtampFQ3h0bUZ2YTJnYm5ta2pITUZDdE94TE1FMldqWktVYk5DVk9XQ2lYQzJzdWEwcVY1X2JucF9zTFNkbE10dVlOTmt2V3lJcDFIdlFWcWpRSHI1b21tdy0zRTVad1dXT1diUnhBZzFWdTNXeHhCaGV1ZDc3dE95TdIBlwFBVV95cUxQRHFYMktVSnpha1FkMmhVaElLX1FJdVNmVWl0ZnRfQWVkd1dDQUlWdkdubF9yamg5OUt6dGxLVEdORDlZZ0VIWmI1Q0FTc04zalF5OXZhSFRRVmdpMVhNRERlVXQzWVFtSnZlakNSTTNaM2FQNVVVOEFxRXprd0x1RmJ5S0xKLWxoaUlXb2ppalUycFlTZFEw?oc=5"
         },
         {
-            "source": "스포츠조선",
-            "title": "'금메달→전역모' 초대형 논란 박승수, 英 현지 난리!...韓 16호 프리미어리거 기대감 폭발 \"당장 1군 데뷔시켜\" - 스포츠조선",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LakFLLUd1UFpVRVZBVlViVmI3MWpldUlRR1JsaDVhZ3l2Y2diWlQ3M3YyZENJYU1VdVFOcktLYmtDSS15ci01MVJoMlF0QWx5VC10WlJ6eFBwQ05tOThYNS1XM1NsdVlkTS1ySU5KR2VralhUSTFydko1WEhXUQ?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "'34년 만의 대참사!' EPL 챔피언 아스널, 4부리그 18위에 무너졌다…16세 유망주 퇴장→승부차기 패배, 78% 점유율도 무용지물 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ldnptTkI5Qzc5cEZrSlV3b3N5X3RpZWtDNGpVT1NXR2ozaC1zNWZtZHdWNkxkblNzb2U0NnU2Sk1lcENnQ3l4aVI4YmhuYWxDNVU4QVlEa1VzTTFsVndCcVpBZVJPdVVIZHFlU0R2NWI?oc=5"
-        },
-        {
-            "source": "스타뉴스",
-            "title": "\"주장 브루노와 화해도 했는데...\" 캐릭, 당장 내일 잘릴 수도! 맨유 수뇌부 움직였다 \"A매치 기간 새 감독 부임 유력\" - 스타뉴스",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MW0zZTFYVGFCWkVCWGRINDJlcXJPcVR2aHRIWlVGbXJVc2d0TzF1YXotRUJjSkFuQTI1R0k3NE9SaG1IVWkzbFU0RG95NmlxeEZXYVExZFZ3aGx2LUk2OF9jVE1kQ293NTdEd0RFN1hsci1nd3c?oc=5"
+            "source": "마이데일리",
+            "title": "전역모 논란 후 잉글랜드서 댄스 세리머니…뉴캐슬 감독 앞에서 시즌 첫 골 'EPL 기회 줘야한다' 요청 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQ0Exc0g3Y2ZUUGt6WVhha3NSa2xXRGg3RWIzLU4wa2pRdW1hVUZrZ2FLaHFIZjdhNmxKNnY0NmpxVkdUMy0xVkhYUUdvZkxWTGRreFJpa1cxcWpMNzdNbA?oc=5"
         }
     ],
     "transfers": [
