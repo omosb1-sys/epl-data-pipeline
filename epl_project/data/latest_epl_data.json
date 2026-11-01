@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-11-01 06:57:35",
+    "timestamp": "2026-11-01 13:58:03",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "Sky Sports",
+            "title": "Chelsea 2-0 Man Utd - recap and commentary - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbG9SbXQxNGNZUk9ueDVsbTkwRmVIejNkZGFKWGVYbHZCYkNIZmRIVU1SYTAzcWRBSkNfWWxpODJpR3ZQd29KSmFtdHZQZFhPbTFlZTZDRkFlY2N1all1ZVlCUU00eTVHWm15ZW9EWWN3Wm1qWHJpUWFqaVFUV05KWmRkd052VEQ1Vl9FZ0NpWmoybDZYTnVoYU43clVTd0hFVjdpUWxOREZ4bnd6VDdlN3M5RUxYVGRSLVNSRmVB?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Chelsea 2-0 Manchester United: Visitors' second-half slump adds to Michael Carrick's misery - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTeGpMSlQ2UXo5QWItbFFYUEtkRnFUejZxaTFOM2x4SkJKZFdXb3pLVzdtX1dROGdtM25wWXNKZXRPcjFJMTJwNnhGbGhwV3FQN250dlJFQXJrRld1REw3ZTVkbW1fUQ?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Coventry climbed out of the Premier League relegation zone as they cruised to victory over bottom side Sunderland. - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcXRLWjlaX3d4UHhUcl9nYkdPbXRyMWN3NUpzSlJMRVBoTW9nTnByUE1vWFRVcFdNSUVVZ3REWW0waWZreG1iaGNnZ1pDNnZrU1pzVXlobklndkpyRkhYRXBLek1TUmQxTUVqck9GWXdOemE0YW1CUFpwOGdiOHpxd1MzSlBWY2xhRmtrUk03MHdJUmsxTnpuQ1Rod204aWM2NllSdVU4RGNxbFJBZjZGWEktQzBKdDhmOEFYYTdmWE50MDc4clZxSHBsRGxEZXI0ZEFZM0MweU51X0xuX05ONVF2Y0h5dmd6b1NkaXZ0UkMyeGVDMFhKLXhBLVhTLXd6RW5V?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Premier League: Frank Lampard praises 18-year-old Stephen Mfuni in Coventry win over Sunderland - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IbFBHZlQ0TUduYl9fOFBCTlBIeVBheHBEZE90dWV6aWJuUUd5YkgzX1pvN0ctbklydWYyQkZacEVkQ2JISk9GcDJfeWdRWm04VmZlT3BxSElMMlNDazdRTFZoVm1OSG9o?oc=5"
+            "source": "The Guardian",
+            "title": "Chelsea 2-0 Manchester United: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZjYzRHhpUW5PQm9PeVZuZEZ3VFk3VmVMN25yZFFiYjZEdTk5c3lVdkU1Qk42TTZqLXQ0V21IOFJmWWtrQno4ZkIyWHdDeTZlTGRZMk4tRnRERFNkWVJfTFE1Z21raEpNZFltUzBDMVh6NDIzX3dOMUVUN0IxQXk5Z0FTd1g4ZXlSUFRHOFQ2T1QyTDU1ZFptUkxlZUQtdDdQMHRn?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
         },
         {
-            "source": "LiveScore",
-            "title": "Fabrizio Romano: Big Barcelona deal, Declan Rice contract, Alvarez change - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeThDZlVUQXl4dTNGdk9tTmJIejdlTGliS1FUVVU4LThLcWM0LUNzeWFZNnJoTjNkMHpydnZCemF6YXVwMEhLWjJGRnpCNk5mNm56Vi1tSFFlRkpDYVpvZnZ2R2IwWERTdmFMS2o1dnVPS2h3bVpKTlh6NWU3RTFCaGxaN05QS3lsMTljcFFlS2JYWlU2clliaHEwT0NmV3pjUnh6VG0tdFRTcUlndzRqOHUyQ3VteDZrVGhiVTRYY091SHpPODIxX214UzZCdTgxNDJhNzBB?oc=5"
+            "source": "Football365",
+            "title": "Romano reveals Arsenal ‘deal moving quickly’ after ‘official bid’ for winger who’s ‘keen on joining’ - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJ3MDVLRE5lZnB1aHlicUdRSVdoOG9fdGJ3QUVsV1lVZGZwdnJGVWt1dEpaRi11MVRTSzROQWNvbTRuSnp5M1AxWFZzZmRDQ2RYZGlKNEVVRU1GLXNnZEM2TDA0R2JNSDgyYm9fRG5nUmI0WU5PMUtONmx2MEtYWFlXOHlTbXhO?oc=5"
         },
         {
             "source": "The New York Times",
@@ -52,28 +52,23 @@
         },
         {
             "source": "Sky Sports",
+            "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEt5MVJXa0ZrZWRROUtnMVdEeUJ5OGJKMjRvX2hIVVRyWHl1TDJnOFpXS0o5eEEwaGtXZ2RMamNEMDZXdUZRMGozeVdVSUpWblpwQkhKQy1ILVM5b2hrZVlTRHVFRnhGY2Z5ck94dkQ3dXFySzRxWUE3dkdqclFjTUQtUW9pNkdrTFZRd2k5UXhQS1hlMksxNVF6czh4dzJXZThDaE5JMmtyOV9aSDZXaDJMMXRtWmF3bzlEZXU5MW1aYjEtN0h1ekJWbzZnSkkxdTRZcw?oc=5"
+        },
+        {
+            "source": "Sky Sports",
             "title": "Manchester United: Michael Carrick to be given at least two more matches in charge despite overseeing worst run in nearly 40 years - Paper Talk | Football News - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBobHhRdWhYSTVUMmdLRUdNTEpZdXlWMTU2REstbFYzRjB6RVFReWNDYU1mT3BjQmVab1pnZUtINzZDYkZBYXlvdXFOY3lKSEgyd3BqNURCWFFOVUVGN3ZtTmF4RExRQQ?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNkN5T1hUWFNodVlXMTNTNXlRTjlEcTU3VU1YdC1Va2pxdjFwdTZRNHdtV2RvaEhfY0Yyd3daLTQ4NzVMZTFOaFdFV2NrNmtpMkVBd0tqcFpESllJY1kwWF9ubHo?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "source": "Premier League",
+            "title": "SEVEN Boxing Day matches confirmed as festive fixtures are released - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmFpSk01cmExdmpxU3BRWWtMcllkOE9WeHFqNVBYZkt3NEppTTl4U3hheG9lQ3RPX1FMUlF2QnJsUWNKV1k1aEtGcXpNNEhBNjRLVEtBZ2lURXA5OUEwWGozQXZZa2ZGT0ZENExWYUlDYjVNeWZLZ1R6S2lZUHZIUUhibEFTU2x5UWJ3QXF5dnlyNnlBTTRyNlZNQmFzMU9id3hHNllwQmFUU2dDNVYzZHlWT3M?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3h4Z0lUOUN1emVYVTI2SXlXXzh0MG5GUFNHWVE4bFluS0UzYU5nWmE4aVlsNnlaUlk5bUw2TlpsdU44QmYtY1BEOExjRXdlOW9xd3lDVlBKWWZmZVllNWdxdWlYS2oyYzd5TFExTGdBeGxaNnQ2YWlnSUM3d3hLOTdfMEM4ZVJHRkQ3SWZDWGtMVkFoS0JUSnA2Skp5ckNRd3M5NDgtUEpJd210UWw0a0NtUmNqS0o3RFZtYVlXZ1JxQUJZelZtZVVrWngwNmJmWFh0bmJwc0huR2psVVdiYy05VW1rYU1Xd0o3eTN3?oc=5"
-        },
-        {
-            "source": "www.xportsnews.com",
-            "title": "'충격' 日 EPL GK '기름손' 됐다→황당 실점…코너킥 공중볼 놓치고 자책골→홈팬 앞에 90도 사과 - www.xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QNmNFWkZweWxnSFJNUDRqTUdYUEh0a3FfQXVPTXNFT2Q1bk9iSndGX29reUticWUwdmpMVWp5NWJGeXVNOVdiWTRLUmJUc2dycjhhaw?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "한국인 프리미어리거 입성 보인다…'금메달 에이스' 엄지성, 노 룩 패스 작렬 → 스완지 승격권 2위 지켰다 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MdG9xY29TVkN2aFk2dUZDMXpnY2ZKTS1tQkZPblRoLUNVSkZwdWVfME5FazBmQjl6Ymk0UFB2SGtHLTZYakZZc1J5R3BrQzZxZ0p0VnZUa0duZTlHblVTY25fWS1PRWlOT2xIS0YyTWw?oc=5"
+            "source": "조선일보",
+            "title": "맨시티의 완벽했던 출발, 단 2경기 만에 '와르르' 7연승 뒤 2연패 충격...BBC \"수비 실수 쌓이고 5850억 중원도 정답 못 찾았다\" - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXlxZEp4dkVfaGRkZnJ2MDVoTGZ1SUlLTGhQYjVlb3B4eHB4QTJZOEoxTTAyWG94RUk1UUdVMkFsa0Q1UFdSYS1jenlrV0hUYVJkMEZBeUZSeC00VHBxM0VmQkdhT3pWc2M2V3pGN0kxVE1xNy1FVjBGTFNqMXFRRExrRGtfZ3lMeFZv?oc=5"
         },
         {
             "source": "머니투데이",
@@ -81,19 +76,24 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4UFVnN19yTGdOdGNsenZHYWFtZVoyQ0xLRWhkbW8ydDlVWDdTNmxRMkQ5RFlxTlM0WWkxQ0pkSWtKazhvZzg3T1pkVWlZYTR4T3hNSmFuS01YRVF6YUJzSExjTnY3MTdqWkHSAW9BVV95cUxOTm5sckNRLTA5a2VEcmpaOHNxTG1wMDNZdnd1eHZEdEtkTnFNdG5veEZjNHFZX0IyXzdTNGhZbmItYndoMTlvQ0RjbFY1Q0hFbEhFejViUTdFdlV5WmpaR0taeEt2aVlqNS1OYkY1Z1k?oc=5"
         },
         {
+            "source": "Chosunbiz",
+            "title": "'토트넘이 이기는 법을 다시 배웠다' 21개월 만의 3연승 감격...직전 26경기 3승→최근 3경기 3승, BBC도 놀란 대반전 - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2lZZXd3QW1GSkcycUU0c0dyU3B1NlREdkJFN3RrRzVUQTI0RnF3WU9HSVBESjBJekhsdnBvdTI3NG4yWDNHdG4tVkdWN3lTTzRNZ1dFYlVWYXNEdGpoSGVvMGw0TUxCbWg4dGtjOTdQU1F1N1BVZU1xSnphMzlVR0ZKd9IBlwFBVV95cUxOR3hUQ3NpdTJ3OEpTRFdfNDVFaXF1T19HdG5aeTU5STlMRzkyX0JDTzNRMktVZ1RmM0tIdExHRFJfZVdTRDdWZ2UwdXdRaGJnUGVCOWIzSE5oSW56ay1wM1V6VWItQzB5Wm1ybmlQU1g0MXNDOGQzdEtvb1hkNkJJa2lhN2RQNy1HTEJlYnQ5V2R0Zms5bkMw?oc=5"
+        },
+        {
             "source": "SPOTV NEWS",
             "title": "손흥민 떠난 토트넘이 다시 한국인 골잡이 주목 \"잉글랜드에 완벽히 들어맞는 공격수\"…오현규, 블라호비치와 경쟁하더니 EPL도 주목 - SPOTV NEWS",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qZE1fQ0o0aGpwSlhaU1liazVlcnhDWkIta1NQME0yV1FQWi1TZXBvNmpZNlVDRXRZQllXdV94ZmtEYUQ2cVZwM0VXa1pYY29sYjI5MXc2QTh3UjJUWkJkVkd2Rm9McUxJUVNsV3N5X0k?oc=5"
         },
         {
-            "source": "포포투",
-            "title": "손흥민도 저평가당한 건가...케인 발롱도르 수상에 뿔난 英 매체 “PL 떠나니까 상 받았다” - 포포투",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWDhYQmdHNzNkOThrTmRCMUF5aWhyanFsQnYtU2hReUFreEpWQzJzUFBvRThBa1puWmZMZmhReFF5a1lONzNWaHc0S0JlN2VDUEdGMk5ocEV1NTRwRTV6ZzFYSmVpUWxBRWYwV0VaVDZqZw?oc=5"
+            "source": "www.xportsnews.com",
+            "title": "'충격' 日 EPL GK '기름손' 됐다→황당 실점…코너킥 공중볼 놓치고 자책골→홈팬 앞에 90도 사과 - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QNmNFWkZweWxnSFJNUDRqTUdYUEh0a3FfQXVPTXNFT2Q1bk9iSndGX29reUticWUwdmpMVWp5NWJGeXVNOVdiWTRLUmJUc2dycjhhaw?oc=5"
         },
         {
-            "source": "뉴시스",
-            "title": "'날개없는 추락' EPL 맨유, 첼시에 0-2 완패…9경기 연속 무승 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DVFdkWTZWb2YtYmJKTUVHMmhkaGZDaFBNSThsUzZzY0xZX2szYXpoeUxCTEdhSnlfU3NTdWJrUWFDc3U0YlVZblh5RFNPRGJEdVZwdjRscmFocHdjcXVuaNIBeEFVX3lxTFB3UTZacXFvYXVwZ0lNWVBKR3FKNjR4UGFMeUV2blJUeFg5RDVxSTllNXJTOUNpQ0toZU92TmI3d2VFVTlwM2haRFBScWdSbEpKNFNhRFZOWUpFOTB4ZVk0UVNoandHQTNXOHlwTi16SjNkV2VpVkNYcg?oc=5"
+            "source": "뉴스핌",
+            "title": "[EPL] 맨유, 첼시 원정 0-2…9경기 연속 무승, 리그 17위 추락 - 뉴스핌",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wa1c3MjZueTIwcGw0UlBRR3JsdF9iM1lQbGhWWVFNUzRrU0lQeHE4aUgtdFJORTN6clRJbkh4YUFTeEE3YW5VQUxHdGVpVDhnc0pOU2pxZklINWw5?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -101,9 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tWHAzSmdEakowSTk2UzB6d2t1ZXl3S2EwY09HRXhNLUE3Z2xJUnJGNU5OUGZzZGlHal9KY3ZhZm04TGFSdEJyRURaTlh5anc3dFdhdGtxMHU4U3RGN0HSAWNBVV95cUxNQk45N1FYY25FS1hZakZKcTdPdTgwM1JVcVZHN1htQUU5X2dCRWtEZVF4aVlpdjRyQUlKS3RlMG9Za0FvcVJYeW5kTVRkcEZaVDVLcVAtSkxva0RtZ1gza2Uta00?oc=5"
         },
         {
-            "source": "국제뉴스",
-            "title": "3연승 질주 토트넘, 팰리스 꺾고 리그 8위 도약 - 국제뉴스",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DU0lfY0VzUXN6VDZTLWdlZkszb3lmZDJYSm9PVzJxTUNSbHBPRDRmOHFrWjA2R3Z3NGFPQXR2c2x2b3VENXA5MXM2Tk9BWjZSNXc1ZUhBVW1ZR3FIWE1USzRWZnJ6WDRRdkppVU9B?oc=5"
+            "source": "Manchester City FC",
+            "title": "맨체스터 시티, 브라이튼에 0-1 석패 - Manchester City FC",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3F2aWhpQW8zOEpUUVVtcHB2M0g3N3VYRmhRbkVHZG9nVHJKMzlwQmJPU1dnaDVHbGVVVEl4ckwtMkNOV1E4d2dDVVBZdDloR0pyQXh5dC10NGtYX3otVmFfM3lmMVF4aHktLUpVRnRwUDRmR0VRVWRvNldZTmd6a2JiLWYtRUI2SWE2RWNRcHJtcXBxNmtV?oc=5"
         }
     ],
     "transfers": [
@@ -115,7 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "player": "Confirmed details of Liverpool's starting line-up and",
             "date": "2026-11-01",
             "type": "Rumor/Verified News",
             "from": "Unknown",
