@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-03 16:41:19",
+    "timestamp": "2026-11-03 22:07:01",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
+            "title": "Troy Deeney's Team of the Week: Rice, Konsa, Van Hecke, McBurnie - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TT1NEMW9xX2V5U3RuQW9ySDlFdE5KZmZCYzMzdjJ4bUdPcTY0S2o5bldNN2ZaS0h4bFkzMWhIMGNDa0dsR3BldzduM2RfcjZzdWprWm1oYWN0VUE3T2ZuOXp3TFdOczZn?oc=5"
+        },
+        {
+            "source": "BBC",
             "title": "Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner - BBC",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hS2stdlFNb21HancxLXpCLTl0Y3NxamwteUp4eklEQ1pRVGtKUmZKdHZTTUJlM0l6UVlsUDdITUxLQXhsQUNCR2IwYXl0TnZhcXEwVDE4UlBLSTR0TEpPX2FmRGZuUQ?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Newcastle United 0-1 Everton: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2lEU2ZmTjVfekd0Mzk3NVJRZmNoUU1uWWtHN1M2MjdJOFV1aXY2eGVlSnhvM0RfSENQNm5qbW9SbUxfeE1LZHN6SlFJWUJRcjh5S0xaTWRiczRrVVRpLWNCUmZZVmctQTdjYlF2SlVPRWJKWmU0SFpuODgzdEpfQ1ZSaUVhM2tYQmFKQzlsMkRyYk1DbXU1U29Wa0MyZ1M2ZXc?oc=5"
-        },
-        {
-            "source": "Read Everton",
-            "title": "Everton set Premier League high in impressive Newcastle victory - Read Everton",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuQlhjSU1JY2w0UERKZmM1MjNwNThJZTljWnctLVhWWTVZS0FNSnU4bkNHa1hIOTNZTGxReVZ5OTREdnpTRHROa1lWeFQ2M0s5czA1QzdDNms2R2E4UWZ2a2lXd291SGhKNzM1V2pfRzZSYlBXdG5v?oc=5"
+            "source": "BBC",
+            "title": "Highlights - Premier League - Newcastle United 0-1 Everton - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPM1l1NmpVYTJvOTlzY2JPU2RqeG5NNTJZdW9hRFV3U3BIOC10cVdWSUsyX2hHUmZvSTh2dG41RWhMSkp6MHYzQ25hUmlFZHN4NVFnMTQyLVlQcVJ6azdpNWQtM0FwTWFj?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -31,9 +31,14 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
         },
         {
-            "source": "utdreport",
-            "title": "Just in: Romano reveals Man Utd officials have identified ‘fantastic’ coach as ‘ideal’ Carrick successor - utdreport",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmNkWE9MY2dGckVINS0wa210X1JiMjRRVUd6b0pid0xBdlZEb1NoVWlXM2pkbUkyNnQtWnJMVzZhY1o5eC1yWlh0UHNNeE0zdnhOc2hwdjlMOE5nVU1aVlVWWHdpZG1MUU56N2RFbVZsdTNVZUJqV3hIR2pMVUZ6M0ZmTzBVSnZ2ekHSAY8BQVVfeXFMUEFhUkptNjNON0NYekVDVUxkbXdhTjBMUG5KcVhRWk1jTHZtWHU5SDc5N1NRZEVUUE1oYVdyZGZSbHFOWE5YXzJfekZDS2VSbGI0ZExDY0wxQlJIYm5fT0xybFBuNnVRSnh6X0tvckNaY0ZZTXVWeFlfWFNMSUo1SENRem12N2VXZzNRdFVWSmc?oc=5"
+            "source": "Football365",
+            "title": "Romano reveals Arsenal ‘deal moving quickly’ after ‘official bid’ for winger who’s ‘keen on joining’ - Football365",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJ3MDVLRE5lZnB1aHlicUdRSVdoOG9fdGJ3QUVsV1lVZGZwdnJGVWt1dEpaRi11MVRTSzROQWNvbTRuSnp5M1AxWFZzZmRDQ2RYZGlKNEVVRU1GLXNnZEM2TDA0R2JNSDgyYm9fRG5nUmI0WU5PMUtONmx2MEtYWFlXOHlTbXhO?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "David Ornstein’s The Athletic FC Q&A: Van Dijk’s future and Spurs’ striker search - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVhuV2ZtUHp4T1ZMVzFUN3o2RFlsejlaaGNxVTRYZHd3eFp4bDdDbThISHZIY0dEdGtNMXNRczduZ1AydGxhTUtaUVBINUlYZlJ1QU00Tjh4TWFxVWgwVjVtTlo3YnlUWXNtYk84VzhCZEljQjRPYWFaSHlwdmF5bTFsbWh2QU1oSHF1WlhaZGVPSEgzYmZlbUZCZFY?oc=5"
         },
         {
             "source": "The New York Times",
@@ -46,9 +51,9 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVW9oMVNTaF9aQy1ZSUFXNFhGa3JRR0Z3WmxwVzJwYVV1Y2lIU2hrY3dWa2F3UHhkbVA3Z3JYZkNzOFd1bHN1MVRtUzRIZHJiRHc2Q0VxdTBNb3Z1bUtySGtRR1hIejJadTN5MENhR0FyR253UnVxSTVEWWE5VlB0cnRnWjdXMkFvc09aUVNPZ0hEaGsyRTQ1Zm12Wjc5QjBmUEJzTk10UQ?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5"
+            "source": "Anayasa.gov.tr",
+            "title": "#@(vivo-tv) ver Barcelona-Aston Villa Em Direto - Anayasa.gov.tr",
+            "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUm15MzY5MmN1VGw1WEFEc29qdFlyNl9sQ0Nyc25CT1QyNk1EV0lKYTZlbVRlYnNaV0pfd0JMazBtNkozN3VUZ1JKVEJDTXkzMFZRbXhlOVpfTnNzUERobXoxRHVYT2w5SHpYU0ZlWm56SEhfQUR2ZUI1cDFDc3V5U1BZV3pocUZpSDFpc0lpRERKMnR3RHRVSDdMNzBGMGdiQm1rYTRKY2t4OVd0N3NEQ0tNWm9QMWZOcHVTYzczQ0x6OXIyTktZbzFIUjA0emhRMjFBZ3FzUlFmZHMwbUhMd0ZxLUZDX2R6TDk4ajZoRVhFN0syM2s0LUwzaEJMcDBaWEZYdlIxWmx6NGEyVUdrSTEtU1FiWnVCcnRQeEQxV01uNFRNS0ZZRG5qcw?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -56,14 +61,9 @@
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "SEVEN Boxing Day matches confirmed as festive fixtures are released - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmFpSk01cmExdmpxU3BRWWtMcllkOE9WeHFqNVBYZkt3NEppTTl4U3hheG9lQ3RPX1FMUlF2QnJsUWNKV1k1aEtGcXpNNEhBNjRLVEtBZ2lURXA5OUEwWGozQXZZa2ZGT0ZENExWYUlDYjVNeWZLZ1R6S2lZUHZIUUhibEFTU2x5UWJ3QXF5dnlyNnlBTTRyNlZNQmFzMU9id3hHNllwQmFUU2dDNVYzZHlWT3M?oc=5"
-        },
-        {
-            "source": "Sky Sports",
-            "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3h4Z0lUOUN1emVYVTI2SXlXXzh0MG5GUFNHWVE4bFluS0UzYU5nWmE4aVlsNnlaUlk5bUw2TlpsdU44QmYtY1BEOExjRXdlOW9xd3lDVlBKWWZmZVllNWdxdWlYS2oyYzd5TFExTGdBeGxaNnQ2YWlnSUM3d3hLOTdfMEM4ZVJHRkQ3SWZDWGtMVkFoS0JUSnA2Skp5ckNRd3M5NDgtUEpJd210UWw0a0NtUmNqS0o3RFZtYVlXZ1JxQUJZelZtZVVrWngwNmJmWFh0bmJwc0huR2psVVdiYy05VW1rYU1Xd0o3eTN3?oc=5"
+            "source": "Anayasa.gov.tr",
+            "title": "+[TV EN VIVO]Barcelona vs Aston Villa EN VIVO 03 de Novubre de 2026 - Anayasa.gov.tr",
+            "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPWFZSVEtid2doZ29yc1htc1N5aWRFZGtwMkw5UFluWFhibHhZUXlYWjZaNkx2ck5TR2tTcmdhaEpEczluYnJYYm1tTUx1WlZOU2RWZmhudWs4WnhtblVDTDBDNFM1UmtIOURwMXhITEl3cDZtcGpGX3BVbC11Vi1Fekx5YWNvZC15MS1SVnJaaWpvMGxCblJfd2VDUENjU3JCZURvbWV5MXZ6bHFDb21YeXBpN3l3YlFsalZlb1hVSFNaNER6TnZaQnRrdElmZV9LZnlaWUtvTzh0blowdkEwRGFGZ3htU005LWtEZ1pTODRmV09OUTBmZHc5S0ZXTDF2VjhPUE9JRzVJV3NRVmxzMWtRVzZVUUsxWXdBTHItOHZRanFsMnpXNHZRYzAyVUk?oc=5"
         },
         {
             "source": "스타뉴스",
@@ -86,24 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CaEpwWGtKVTI0OUkyUUZkdVo4TUFBSzA1UG9aR0dVcm9tYzZCOWNsYmZHV1JsbzhUSXpTaHd3V1Juc29DU0c0MUVZTUtkZmc5djM4bjhURlUzQTTSAWBBVV95cUxOeHJPQmpTcGpPbHNwc0QyNzMtMlBCMjAyWXVISnlsMjcyekxGblhYbjdMUHpHSzlOb0tkWnN2elM0bThBV1F5LUplcjJKdmI2elMwQXVkMm9yT0h6b0gwYUM?oc=5"
         },
         {
+            "source": "포포투",
+            "title": "손흥민 존경하더니, 쏙 빼닮았구나...토트넘 616일 만 3연승 이끈 최연소 주장 \"형제처럼 가까워졌어\" - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNnprRXM0RVBjSVFOVDc0dGlNTGdsS01pZVZPUWZDQ28zMnlxNHFSdEljN1ozUGNEXzdWNnVXc0w4SmpyaTlKWWl4NjJrMDNEbnk4ZGhKSXhMbnY1ZkMzZ053ZHVUcEE4ZVBrMlI2czg4dw?oc=5"
+        },
+        {
             "source": "스포츠경향",
             "title": "“맨유 강등, 가능한 일” 전 감독 텐하흐의 경고···“강한 선수단 갖춘 EPL서 악순환 빠지면 어려워져” - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84M2J4bDN2bnppZFl6M2lhaDJtTm8yVEtWSEFxZkN5MzI4dXV1cTdsTVBQcUhZNnBMempDU3FZOGctOFNZdmR4X1FmeWx6TVVYeldTU0lmQWI1aE8yM2fSAWNBVV95cUxQYk53alBiOHp3NUxjNk9QLWhnenlyVlVHUGt2akJzQkREQU1CNUQ0S0VGQXM4QWxEM0dBOXBDdHhoSzJXb21LR1V3dW96UnZxT3dIazBRME5NUGFBSk1ySXN1aGs?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "'41경기 뛰고 겨우 8골 넣더니' 에버튼 공격수의 충격적인 변신!…올 시즌 단 12경기 만에 8골, BBC도 부활 집중 조명 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVN5YUF5RV9RNm5zUXl4eTN1Mnpfb1lVelBOQmdFSUxnX0EwUEVJX0p3N01ZdnhRaXMtT2NNb2Z5T0Z6Rm1tM0xZWmNMakktcm55blFDeGliYl9vak43NDFpcWJFWlFoY01YUWtSQTVHa2hCSlpyUGY2M0p6SG5iMHZWTF9rRFRsSC04?oc=5"
+            "source": "www.xportsnews.com",
+            "title": "'EPL 은퇴'→40세에 42.195km 마라톤 풀코스 도전! 3시간09분04초 나왔다…'철강왕' 기록 화제 - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTaGZIcDAySVRNcG93d1BvbGxoZ1ZOU0EwT1pTdjE2SlA2dXNRTWxQRkpyYTBRUkhyaTJoV2hFendwMmJUY2xNMlloVndTTF9lTUJDdg?oc=5"
         },
         {
             "source": "Naver Blog",
             "title": "‘한국인 5호 프리미어리거’ 부상만 아니었다면 더 오래 EPL에서 뛰었을 이 선수, 김두현 근황(해외축구) - Naver Blog",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iNTMxQngwV2NOTHhZYXI4YWFfLXZvdzV4bHZpQXRrTjd1OHNaV2ZFUDZUWkQzYURiYWlqbGxCZEoyZk54VHRaWm9PdW16LWo1eE9XUDBMX1NsWnBI?oc=5"
-        },
-        {
-            "source": "www.xportsnews.com",
-            "title": "'EPL 은퇴'→40세에 42.195km 마라톤 풀코스 도전! 3시간09분04초 나왔다…'철강왕' 기록 화제 - www.xportsnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTaGZIcDAySVRNcG93d1BvbGxoZ1ZOU0EwT1pTdjE2SlA2dXNRTWxQRkpyYTBRUkhyaTJoV2hFendwMmJUY2xNMlloVndTTF9lTUJDdg?oc=5"
         }
     ],
     "transfers": [
@@ -115,7 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "player": "Confirmed details of Liverpool's starting line-up and",
             "date": "2026-11-03",
             "type": "Rumor/Verified News",
             "from": "Unknown",
