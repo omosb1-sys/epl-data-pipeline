@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-07 14:28:01",
+    "timestamp": "2026-11-07 19:07:51",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybkdRVlNaeHZpTmZOcGRCUHVRWDF4b3dUbzZmTERsbEVnZlphRC1FUW1ZSlQxbVoyUEUya3ZiUDM1VnA3T3N2cXM2dlVNeHlOY2RMZGYzbkwyVS0yMzlqTnFlSQ?oc=5"
-        },
-        {
-            "source": "BBC",
-            "title": "Arsenal vs Hull City: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoTHJMVzZha0p6U2xBVG1YbG1DX2c4N2p3UXZJcUxVUXZyOHAyYWlxV3BGWDBWTzZTdldyampDY1lGYU5GcTRGSGQzckwzRkZGQlNhM2J5M0R2V2F1R2FwdEpkckxTdw?oc=5"
+            "title": "Nottingham Forest vs Manchester City: Premier League preview, team news, stats & head-to-head - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wRGhYMFBwZzFjVmNWOTFUaGVHVXJUeWdEZ1poRjgta3lTa24tMUdLdTlpOTZXQ09aSFhnaWxKQ3RxbS1Tdlc1bWFydkhSdGkzX2M0T1cwZzlpaHo0NnFUZ0hPZWlSUQ?oc=5"
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal vs Hull City LIVE! Premier League updates, news, prediction and line-ups - Sky Sports",
+            "title": "Arsenal 1-0 Hull highlights - Sky Sports",
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmpaWmJERVNXRnpmZUNzOEhVSm9ZX1lKWDlLSWdacENrWTZhRThHRHZoZHdLUU9hbG0yWVE5QU9meEJtYkhBLVdVc0tCNXA0TmJiSEpHWTNaQ1Q2OWR2MDVhcFo5Mm9WNDQwcG9ScTlsNGFQVTg5YzJtMWpYcW9OSjdrZ1dOXzBjWnlSTUlKTUgwLXVYU29DNlNQa0hyVTktMTFXRmdqSW1KOE1XUlN6MU0zQm5SUDl3ckdxZ0E4SGxySTk1SU45bEpjcw?oc=5"
+        },
+        {
+            "source": "talkSPORT",
+            "title": "Arsenal in action, Leeds beat Spurs as Bogle avoids red, Man City play later - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1htT215MUZGSUNHbFdWcWdXcnhnUXlqaFBwV0dNZkQxNUUzRXlkSkQyWW9NUHU2ZTIyNnJhV2pIcjM1ZS16ZEtWWndDd0FETVYxMnU2bnhuZDVYVnloN3dab05MQVhCeV9fOVlMZmpIZjlSbEd4bS1fRGF1YXV6QWRjRkwwM2FLcVdaRG9OSTNFOGY5T0x6TVJaQndrNzJReGQwQg?oc=5"
         },
         {
             "source": "LiveScore",
@@ -37,11 +37,6 @@
         },
         {
             "source": "The New York Times",
-            "title": "Harry Kane signs new Bayern Munich deal to become highest-paid player in Europe - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHM5eFBDbXZSZVU2QVprMXFtNEZhelI5Yk92VWhrZ3BPNHpZbVVOSW1UOFU4WFJwVGctQi1kdWFSZ1dGM3QtS2xpQzkwdHJobVN2bWhpOUFEdG9TMnlVMHRGSzVHeGl4b1ZJNUxiUURQdV9HZ2UtbnFSX1dYTDBIS2p6ZUZkTkJhejR4bE5jOA?oc=5"
-        },
-        {
-            "source": "The New York Times",
             "title": "Cole Palmer left out of England squad, Josh King and Jobe Bellingham included - The Athletic - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2VZemJoU1cyX2luWG1QN0JZVVdPaEFaSUVfdHp2a1MyajNTclBvaG5uZHQyOXJldEhEdnBUYWhrMm1LOXp0T3k0TVFNQmpJcXdycGNiT3RzRXFHNnRnYlVaZndYeDQtZXoxQjJDd1RSeTBMeTYteHNrSzdMRm5oYS1xRU4xUTRMMVAzTThfVkQ?oc=5"
         },
@@ -49,6 +44,11 @@
             "source": "The New York Times",
             "title": "Jack Grealish returns to training at Everton with view to being available for Brentford trip - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU85bzNRZUVUVHhLLUpPVWxrX05FSjBtQURkRHlWbzZOUGhVVzFpUEFibktNbk9NNXg4WTFfaER6ZUdHdjI1WmhzSkdYWWJ1RF8zaEh4djBNODU2YkNMYW5ZZk5NMlZTLUNEa3VwTGhNZmt3Rlk4d1pwcGVPNC12eVdDTGFyRF82TEQ0SVJrQ0tqZw?oc=5"
+        },
+        {
+            "source": "The New York Times",
+            "title": "Harry Kane signs new Bayern Munich deal to become highest-paid player in Europe - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHM5eFBDbXZSZVU2QVprMXFtNEZhelI5Yk92VWhrZ3BPNHpZbVVOSW1UOFU4WFJwVGctQi1kdWFSZ1dGM3QtS2xpQzkwdHJobVN2bWhpOUFEdG9TMnlVMHRGSzVHeGl4b1ZJNUxiUURQdV9HZ2UtbnFSX1dYTDBIS2p6ZUZkTkJhejR4bE5jOA?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,34 +61,9 @@
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODVoNDJlVGo3VXEwWDhqY29zQXVUTnpGdFdkSktReGxmRlRlZ3BmRDFkeTczMnBLOHBjdGJaZjJSeU5qMnhNMXF1MUtBc3ZDSGRZUks5WTNiLWVWVWt5bVVlZTNGRTZkc21zd2Y5Sjcybl9pNWNhWWQ2UDlrM0k?oc=5"
         },
         {
-            "source": "조선일보",
-            "title": "\"맨유전 3시간 불꽃 난상토론\" 데제르비의 토트넘, '3연승' 대반전 이유가 밝혀졌다! 최하위→9위→오늘밤 리즈 원정 승리시 '톱5' 눈앞 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHM2Y3FQcXZiTEtObl9uYWliQmozWUhCVWc4MFZLSTc0LTRLOVdOSGxKNVVSUWNPbWJCaWxFeDFxSkRGYk42RXZ0NDFIbnhGNWgxNGdaU1U4eGY4OFhuaUIzY1hSNnlkVnZoWFA5UzFMZ2xrVUttUmlReWNJQkNBRjhvdDl0cDRZbW1j?oc=5"
-        },
-        {
             "source": "마이데일리",
             "title": "일본 국대 골키퍼, 프리미어리그에서도 증명했다…`레알 마드리드가 영입 관심` - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ETUZRS1hycExMdFFEM09JSEhkZUQ5NlhNX2pNX3I1YlRVVGFrRHZyN2FGdTFWU3duYTZxTzU5NTV2OUdTZTUwYmp2Q2RudVNQODFqbkdPMV9VeFFwb3JIZ1BuVFpDdw?oc=5"
-        },
-        {
-            "source": "Vietnam.vn",
-            "title": "2026/27 프리미어 리그 11라운드 최신 경기 일정 - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY08yTnVLdXU4aENUai1wSThFV0UteXNkVWc3MGxYcnA1YnBaSFFQeFBtSE1kX2w4Y2NxdU1iUXNmWnJyTF9Fa3BMcHNKdzN5ZFk1ODk4aGN0ZUg5RDE2aEd5LXhpVnRLUDNkdDBQcWZRRDl4UGpaZnlVcGhTdGNVdnN6NG8?oc=5"
-        },
-        {
-            "source": "GeekNews",
-            "title": "해축이모 - 프리미어리그 이적설의 출처와 진행 단계를 모아보는 서비스 - GeekNews",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcE9nd2E2UUNyZzdLbGNtZW43ZjVibFFfYmxZdGJZdlJwMGcyODhTMXZwUS03Snh3c3M4aTNoaEJ0S3hvZlVIYlVYWQ?oc=5"
-        },
-        {
-            "source": "전자신문",
-            "title": "EPL 명문구단의 끝없는 추락…도박업체 스폰서도 모자라 성인물 女배우를 홍보대사로? - 전자신문",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43V0tnOVRleXVqVU5jdTlyWUJVczZFNEFZWTZpZml6ZGtOUFZtU0QzbUU5SHE4UEhaTnV1T1lDTjFycEdDSGFDRlotM1hSdw?oc=5"
-        },
-        {
-            "source": "SPOTV NEWS",
-            "title": "日 축구 초대박, 한국 망했다…“국가대표 골키퍼, 레알 마드리드 영입 추진” 영국 단독 입수 - SPOTV NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZzQ3bm5UYVFHS2c3ZFpaSWVNM20zM3VhZkhqWDFxaGo5SVo3LWF2cEZybEoxOXNmeEdBUnllTS11R3VhdDl3dzlzVHJpNDBuY0phbHpMTXItQU5aYmZLUWUxZ003dEJWUGF1ZUQxaGg?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WYkpOUUhYV3ctNEs3WVF4QlBKdUd6enlodUFESnlXb1ZSb0gzLUduNDlGTkJUR0RiTE0tejNvdVNMWjFfYnF2TU95ZHdHWWt1RDlXLW1qdjFYSm1rRGlueQ?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -96,9 +71,34 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96SVZKZ0UwQVdxREM4VENZT25SVEpZNEV6Z1E1N0s0bzF5d3RmZWo1LXV4SHFvX2oxRVNCZmdaZ0J3UWdtcFJDcGltdkJOLXQ5OHcwbGFJSzBWN0hfUEHSAWNBVV95cUxNdU5yY3o3S3pwNlMwWGJsZDRwSDdlRklhWjdTR0M2c3lKWURVbXNzMzJNOXRZY1lkeXhaTlZCR1FqVEVHOWpWS1d3TkxrT3FEMTVfU1JpaXBlV2w5RVNfSk9fc2c?oc=5"
         },
         {
-            "source": "포포투",
-            "title": "손흥민과 해리 케인, 온 세상이 손케 듀오다…PL 기습 숭배 \"이런 조합 또 있을까\" - 포포투",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ieEtMSlU5YUZ2aTBzRGZSd3J0UmljNzRfUTdBTDRuZ3hmUjNQX0RfUHczZFkxWHFROFR6T19jRDM4eXRULS1LOG9OemY2alZoNFBYWFBkOWtCdGFsVzVPXzQ1cDdMbXVVQzJMN1ZCZnlZQQ?oc=5"
+            "source": "SPOTV NEWS",
+            "title": "맨시티 유니폼 입고 ‘성인 콘텐츠 촬영’…누드 사진 제공, 화끈하게 응원 “축구 사랑에 빠진 스타들” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDM2E0V3dqR3BmMHpmclJnbENPbXBQQVA2Z0JiZkhqeHBkNURZRS12czlvelpQeGpHUGdTZDVmMmJ2NS1HWUVTUWxLSHVUSGhkSWYyeTZmRzZVbjFqLTZYbk1pOElJa0ppeUFPN1ROOW0?oc=5"
+        },
+        {
+            "source": "GeekNews",
+            "title": "해축이모 - 프리미어리그 이적설의 출처와 진행 단계를 모아보는 서비스 - GeekNews",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcE9nd2E2UUNyZzdLbGNtZW43ZjVibFFfYmxZdGJZdlJwMGcyODhTMXZwUS03Snh3c3M4aTNoaEJ0S3hvZlVIYlVYWQ?oc=5"
+        },
+        {
+            "source": "중앙일보",
+            "title": "독일 5부리그서 시작해 브라이턴 EPL 3위 돌풍 이끄는 33세 명장 휘르첼러 - 중앙일보",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdDhEX3hTVndaQzRSdnI2QWYwYmMtNWRveHFkNjM2bWxhT1NUZ0lWc3EwUTM0eDZNWmZ3bjd2NjlCdUNtOHVKdkQxWkpwRVZiZnpKSUNB?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "\"맨유전 3시간 불꽃 난상토론\" 데제르비의 토트넘, '3연승' 대반전 이유가 밝혀졌다! 최하위→9위→오늘밤 리즈 원정 승리시 '톱5' 눈앞 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHM2Y3FQcXZiTEtObl9uYWliQmozWUhCVWc4MFZLSTc0LTRLOVdOSGxKNVVSUWNPbWJCaWxFeDFxSkRGYk42RXZ0NDFIbnhGNWgxNGdaU1U4eGY4OFhuaUIzY1hSNnlkVnZoWFA5UzFMZ2xrVUttUmlReWNJQkNBRjhvdDl0cDRZbW1j?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "우리가 알던 토트넘으로 돌아왔다...선제골 허용한 39경기 연속 승리 실패+리즈 원정 26년 만에 무득점 불명예 기록 - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FdWdBSDRHRXV4MnlWYUxwM290ZzhndHRrb0dmelZOMVRUQTJkXzFOY2lLU1pSZzJKbEhocW5OSmpGbWtPNkthb1NqNE55UXM2UFVnaTJQWDBLQkNsdEJ1bDhLMkZlUjZpQVpudHctNzhVbU5R?oc=5"
+        },
+        {
+            "source": "Vietnam.vn",
+            "title": "아스널은 헐 시티를 간신히 꺾고 프리미어 리그 기록과 동률을 이뤘다. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVMxeU1fNHNaVFhTVUtPZHRtZXIyNld4MFplTERzMi03NzBYLV9SWWhQck51OVJ2bXlEczN0VXB5VHpUa0M5U2pQQ0l6dXNaZkZGemdaQ1hxT24yMzEwOHBoS0VnTXhFSm44TllUQ21za29McGpETVcwNWptU2EyNkNKSEI2Y2NxMEk2blpn?oc=5"
         }
     ],
     "transfers": [
