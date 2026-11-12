@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-12 04:38:44",
+    "timestamp": "2026-11-12 13:23:12",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "The Guardian",
-            "title": "Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWkt2UmZBQXo0bjBnQmpMbEdsRHF5c052UEVXNW5GNWxxN0pIYkZuTG1hQzhkRGFxc3hKd1RvNEozaVhEbVJGU2l6M1l0QmE3UUVKTXFwWHE2QWVjLUNNRDdEOUVXQk1VNldLaHZQRm1PMk5VdG10LUFHQVdkYWhlbDFjZllUMWl6amhZTWxYSjR4UWF0ZDFiemkxUVpodW56MklvS0NOa0JuUmFMMjQ0b2ZhaDNNekNvQWJpSE5sZWZpejFETzBzaUZ4ZnlIdw?oc=5"
+            "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcGh6Vlk1cldnb0U4VWpkQ1Y1OWdhVk5zRWlic3B1TzRYZkNVeFdaZERvZlNVWnhQLWYzdEZKbUxMZmFhRDhsTFlzXzhscWpwcm1vaFAtOTc5aVctYkU2WVd5SUNXOXdhOFpJeWV1YkxKRVZWcVlGM19UeHlfbGNBMmNaMjg5aEdWdi1wYWl5SThaODFyb3A5RE1OTzI4bm9BN1BIUjVjb2phX1g2V1pnZWxSdlJkMEEtWU14U2xMY3VQdTNJRFJleXVaV0d3RnczcE0yOQ?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Next Man Utd manager: What are club's managerial options amid doubts over Michael Carrick's future - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcDFmWWFNcnNmTWNFYjRYY0loRmZsd3BqeDhPaXBNYnJpNWxwdGk3R25wM3NOSjFYRmdjbkN6d2h0eTJWV0lZbVZ6SnFLUFk4dFVBMk5zZjNUSk5Vb054VVZ3cHZqS3Fh?oc=5"
+            "source": "Premier League",
+            "title": "Williams-Barnett wins Adobe Express Creative Moment of the Month award - Premier League",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGlDcjJmYXRjS3FpbnlQWlNpNnNqbFBXVVR3dEVYQm1nelRQTkY1SHlUZDBiVXc1dGh3Z3BOcWhjbGVBaWJHYmZ1dGx0cGI5Wjl0LWp2QUNFLWQyUVdBeURybDB4b2pIbVpJYWJZdXVfQTVEeWlnR0dvM0J0TXl5TXZRRk1LRzFJYWpHM2p2WU5OOTlCWTVHQ1NyYlJ4Z2J4WVR5aGVuNWRReVZzY3h4bE5pekk2VVU?oc=5"
         },
         {
-            "source": "BBC",
-            "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OcVNjcGdqUDgtM21FVVNqVk93ZzdFbDlIcEt1OHlHaDctSC16aWU2U2pMZ19JeDJXdGFfckMtaVFRdVVwaVBVak9FZl84YVBLekFHRE5SLXlFNklFMl9qNWRRWWNqQQ?oc=5"
+            "source": "Sky Sports",
+            "title": "Pierre Sage: Crystal Palace sack manager with club bottom of Premier League table after 10 matches - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2RJdURVY2pKMWdnZVRmZ1lINjJiNXJLaUhKMGEySWJfS2tnWXhPdE11YjNXTFo5T3J1b0Z6dm5DOUFBRmVoT0FodW1EWUtXTERfSm9GZnQxU1FqRFFZX2VDUEZOMG9pakxZV2E2a0d4SWxSdHRaWWRUXzhTM2ZwUlZyYkRTa2daeFRTaHN3ZERMUklDQXZEQkJKSG9EdEszSzFhT2dnM3ZPS1BzZnFSanBIZkFWQU9EYXRmX0hfdHNIRFJpeGNHbjFmYW9qa2FPckZPaXZpNzRKNUk4VVBv?oc=5"
         },
         {
             "source": "utdreport",
@@ -42,13 +42,18 @@
         },
         {
             "source": "The New York Times",
+            "title": "Manchester United part ways with Michael Carrick - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnd5M01CSnpYSDloM0sxV0Q0aDB6WUpmeVN5R2V5ejVkeUJ0NzY0eEo3SUozcnVQWVcwRWZ2UmRXTExXdlNQNG1JWWtURVpSRGZob2liWU1KQWg4b0xPai1lRlRjRVFEckhxaDhTSHREQUdYbXJ1SlBtZmtuSHN0bDBhUDZzUFRfR19fWEZleE5vSkEwNjlqYmR6SUVHUmh0ZkM4OXRRRQ?oc=5"
+        },
+        {
+            "source": "The New York Times",
             "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUYxT1pxblcyOWVxQTFIQVdkZXBrdnRPQ0xIck9jeGtoLWloaWl4ckx2SnlUU0ZOYmMxZlVhRWd2eWo5M3hfV1JzWmNfNlE3N2FRSURibGdtUFhtMkJ3d3RKYXBnMmU5d2xLWk4zcWRzRjRjeHhvdkV4Rk9kbUsyMEpKbU1xV3RJX0prSjVvaVppSnVZ?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5"
+            "source": "Sky Sports",
+            "title": "Transfer deadline day deals summer 2026 - confirmed moves across Premier League, Championship, EFL, Europe and more - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMjVqTVBPaHNZTzJzX2hCbm45X2RXaTBzNkRPYXNJUDNhZ0pzb2kwWFJ5c18yMnFuZHhvcXdvUHJJUUpOcW1RTVJxa3dwRExIRlRwUVljWGVGaU5pWWlFbFA1c0JSY25CUEFIek9GRlhHWFJiYm4yMW1zVnlkdVdYUEVvVnVVTkxNZkNIekpCTU9vMTlqX0VWdWVsbk9CcmhiWmdsWlAzd1hrY0NpTW1sejRUTFcxMm04dHRneW50OVJIMGN0RV9kRjR4ZWM1MmNSYzVfeW9hb3RlTkxFSXU2T2M3TF9saUZPdXF0dEpvT00?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -56,29 +61,24 @@
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGxETjVqU2RwQ2J1N2o5MHliQkNSM2lLejh6TGN1UjIyTnZ3R3YyZVlQM0NBZ3dVOXF0Wk5yWHpvRl9zcmpmU2plOXRZeEhULTJuZGo3TDg2ai1SaUZObl9Md2IzUWUzNVU4LXhRWEhoeHhRZDFYb0x5T2F5dGFqZlZRWEhGZE5NTjNLdEpUSFV6bFJFM3BaQnZYU3p5OEJsMTJHS0xNbGlwbzZWM3o5a2FlUEZ1ZEtjaUIzdWxUaEdzNlcyNGMtTGE3N0FnN1pCZnk2TjBoZ1dnQUxyWUhLb0VFYWF0VC1VMDJiZQ?oc=5"
+            "source": "이데일리",
+            "title": "'강등권 추락' 맨유, 사실상 포체티노 차기 사령탑 결정...美축구협회와 접촉 - 이데일리",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGRSUnlqVmcxS2JVNnMxWTJfbVZtUFYxWFFIVzlvcTZtWGwxV1Nwa2hRdnBKQy1TWmVNaHZORHlQSmdaZTlGbTk4bjNXZnBzc3ZSZXgySV9aWmVmaGZkUGExcWwzN0V2RHdPOVdRR005WG1Ta2tTMlFWLVlmeFVJRw?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5"
+            "source": "포포투",
+            "title": "한국 국대는 시끄러운데…“손흥민처럼 해낸 선수 아무도 없다” 프리미어리그, 쏘니 10년 대역사 재조명 - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FeU9Xd0tSZDhVaEluVV8xVEpuQ2RQTzl2X1NaLUFhSVZHTU1CMWZOZFlGMjdJYkRUR0xxZVd0b1dwZnBkVHRGTUhORkVrUURjQlZST2wxN01aaDNZRTA5aVZldThQWHZTeTFiVExzWXdPQQ?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "'강등되면 1조 5972억 계약도 날아간다!' 맨유, EPL 강등권 추락에 아디다스 후원 계약까지 위기 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLVlrVEhqN3E2U2tTYnRTc3Y4SF9mX1l6MlVvcl9xRXZ5RVU3Rlp2Z2hzbEFsM3pCUDRnUWlzakdzTzBCM29qeEpLcUo5X3FTTEhkNkctdHdaeUp1NUlkTFI4T095MHBOR2VrZDdTRzRRYjRjMEZVekNiUTNfempVeEM1QnZnM2FIZnRF?oc=5"
         },
         {
             "source": "스포츠경향",
             "title": "EPL 판정 기구, 리버풀-아스널전 열흘 만에 오심 인정 “페널티킥 선언됐어야” - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42YjFEUFJEM0tGVVVvdUVEWkFLSjdrOURjN2NMT0pRU05rRVh6dmd1ZllVRmRCdFpKZnhFalZfNWVlSzJqamJDaExuR2UzaUJLdW4wU2NVRlZ4OTBaVEHSAWNBVV95cUxQQ0d0dGpVdkRVbEgxNHVRUTBEQlVjSUVpM2JObm5oUUtIYnhnTXFEZ1NITkNDNkh6Yl9YY01uZkczM1ZWVmVqQzU5MlEzaDVELXNzRk5JdWpZcS1vcEFndFhjWU0?oc=5"
-        },
-        {
-            "source": "머니투데이",
-            "title": "'강등되면 1조 5972억 계약도 날아간다!' 맨유, EPL 강등권 추락에 아디다스 후원 계약까지 위기 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zQ2x4S2FsbFZNNDRsNVYxR2NDWE5BRFhYNFVrUFk3QWdYRXlKbS1lYVE4cjNQenlPaDRzNWFjWUlVX3hmMVRsUEc3X0RmOXRPaWVSUFhFTDMyanBocUdCcHpmZ1ZQanRqT1HSAW9BVV95cUxPcDRlRmFUX2tjamRucldDNlR3Q1JMY3Bxa0VDMGhHTE0wOUdPV2F3Yl9mWUhKQXJjS091RzQ1TkVIOHRnU09EUDBxWjh4ek9UbWVLWmhsaHdvZDNFUnhudDFqRkpmcTBIdHMtNENvYjg?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "EPL 강호 집어삼키는 ‘공포의 삼각지대’ - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2Jhck84WUd6Sk9EbVEwLUNHalVmLVF4X2FDTnJvQTI3NWVEVjZKRUs2cEFha1BRZFdUbFVfVzFnTkFUNkZJNGFZSllDOUpQVHRYdDF4Y2FPemtiSjZVZ1dZa0pLVktXWHdxN25JUjhRLXFOaXNsN3ROVzBMNzBENw?oc=5"
         },
         {
             "source": "Goal.com",
@@ -91,19 +91,14 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2R2dSNEluZTRxQ3dmUVp4S2hyMWVXM29DdmltdnJDbWpiVjFDRC03YzlzZW54ZE1WLWJfTGxmQmFwNzRveUtEMkFEemczeENnYV8zWXB5T3J0V0NyTE5RMnRPcWxYSVUxYm83OW56clJiR3R0?oc=5"
         },
         {
-            "source": "엑스포츠뉴스",
-            "title": "\"손흥민 까는 사람들 99%가 한국인\" 사실이었나…EPL 공식 계정, SON 기습숭배! 20장 파노라마처럼 올렸다→SON '좋아요' 눌러 [오피셜] - 엑스포츠뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42N0I5Z1M4WDYtb2JGemZXX2VOUGxLY2NtckE3NDczOGw5bWQtckVJREF4YnByUmxwS1l1QVRwT1NMM1hoT2FyenVVZHhOaXFtLW94Zw?oc=5"
-        },
-        {
-            "source": "포포투",
-            "title": "‘손흥민 스승’ 포체티노, 맨유 감독직 수락...맨유 경영진과 협상 중 (로마노 속보) - 포포투",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mT29hOWtra0ZqTjF3NlFjeWg5Q09hUVlSemZRMjJPbEt4b21VdXN0V2h2UU9ybVl3TXdaX1c3aGZHRS1tVG0tTWhHem9fa1B4dmI5eG13WEFQOW1NRmx3VF92UVZHdjRSS0toSU5raXJ6Zw?oc=5"
-        },
-        {
             "source": "뉴스핌",
             "title": "[EPL] 美 국대 포체티노 감독, '10경기 1승' 캐릭 대신 맨유 지휘봉 잡나 - 뉴스핌",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaGR0MXJLb2VjRE9JTFprUlc1c3hCdkk3aHBmRmlEUUlvbENrNkVSRVNTdWg0eFdKX2JKTTFRTjRJZV9VR3ZCY2RRS2JsMUs1a1pDNFIxSm1mczZG?oc=5"
+        },
+        {
+            "source": "머니투데이",
+            "title": "'강등되면 1조 5972억 계약도 날아간다!' 맨유, EPL 강등권 추락에 아디다스 후원 계약까지 위기 - 머니투데이 - 머니투데이",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zQ2x4S2FsbFZNNDRsNVYxR2NDWE5BRFhYNFVrUFk3QWdYRXlKbS1lYVE4cjNQenlPaDRzNWFjWUlVX3hmMVRsUEc3X0RmOXRPaWVSUFhFTDMyanBocUdCcHpmZ1ZQanRqT1HSAW9BVV95cUxPcDRlRmFUX2tjamRucldDNlR3Q1JMY3Bxa0VDMGhHTE0wOUdPV2F3Yl9mWUhKQXJjS091RzQ1TkVIOHRnU09EUDBxWjh4ek9UbWVLWmhsaHdvZDNFUnhudDFqRkpmcTBIdHMtNENvYjg?oc=5"
         }
     ],
     "transfers": [
@@ -115,14 +110,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "FPL 2026/27: New Chelsea signings prices confirmed | News | Official Site",
-            "date": "2026-11-12",
-            "type": "Rumor/Verified News",
-            "from": "Unknown",
-            "to": "EPL Club"
-        },
-        {
-            "player": "Confirmed: Liverpool want €40m star as next signing",
+            "player": "Liverpool secure signing of future €100m midfielder: Official announcement soon",
             "date": "2026-11-12",
             "type": "Rumor/Verified News",
             "from": "Unknown",
