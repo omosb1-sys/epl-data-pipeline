@@ -1,24 +1,29 @@
 {
-    "timestamp": "2026-11-14 11:50:29",
+    "timestamp": "2026-11-14 17:24:29",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "talkSPORT",
+            "title": "England team news, new Man United boss Pochettino takes charge of USA tonight - talkSPORT",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1htT215MUZGSUNHbFdWcWdXcnhnUXlqaFBwV0dNZkQxNUUzRXlkSkQyWW9NUHU2ZTIyNnJhV2pIcjM1ZS16ZEtWWndDd0FETVYxMnU2bnhuZDVYVnloN3dab05MQVhCeV9fOVlMZmpIZjlSbEd4bS1fRGF1YXV6QWRjRkwwM2FLcVdaRG9OSTNFOGY5T0x6TVJaQndrNzJReGQwQg?oc=5"
+        },
+        {
             "source": "The Mirror",
             "title": "Mikel Arteta the 'most difficult' Premier League manager as ex-ref calls out Arsenal boss - The Mirror",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVg4X1ItSUk2N0NMSnFDalNtOUQ1akk4ZmhkWUJ3d0U5a0NHaTNiRkRCMUdoZHo3M203b2dIbU5ZUENCVlNoV000YjZPV0VZX216N1IxSGNLRFJFbHZ1SGo0ZzZVT19VXzdtZTFka0gyZ2R2aXd1bXRTYjh6Sy1PTTdEd3VydGlNU0ludlpHUnpiVllQRGcw0gGcAUFVX3lxTE44RzBJcE1LbElQVzcwSVBDbjZWWC02ZVFxMXZkZTl4N0R4S2hkM0gtUms5dTFBb05XbWtHelNQN2JNVWNXWVlFZ3ZNdE44Y000SjBScDFabVFEVmRTaE9WTlJremo1SDBRSm5hQndGeGl0N1oyU1dWUWgtY3g4WDBMdFhwRVowbkxsRDgzcWM4eng2SGk4c0FWcFRlZw?oc=5"
         },
         {
-            "source": "Premier League",
-            "title": "Sanction agreements reached with Manchester City over kick-off/re-start delays and PL2 breach - Premier League",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSmNubHpybG1KeXpGbXhsUHZfVGpFbHJoOEdJS2lCNUVJdjZuT1hVdWNGN2xQMXVIdnJMUHNQVl9qZ3dEUUR2TjVQX2E2ajdKcHZNYm1TSGVueThrWVZGbF9ITXBlbkozRmczQkQzRXhKSGVLd0NXcFFnTDZJUDlaM2dmNzBaaEdMTEtzeExMcWtMdWZHTndxTjNTbnZQbmhEelIybGh1RExoYW1RME1nZkgtSkRpcHZ3SndMd2MxcHlRN2QwOXBBNGo0cEhKMG5GWTBONFpB?oc=5"
+            "source": "The Sun",
+            "title": "Ex-referee Graham Scott reveals the Premier League manager who was the worst to deal with during his career - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUh4T2kzQ05LazhRcy02eTA0WldyRW5yVm1fZW5MUUYtUVFkenNlU2Z6blp2YWNuR3JGZlZzcVZEWC05bl85MjdvTTNaVFFwcUZVT09vMXIzYnl3NmdjT3c5cVdRVHFtWjNIbC01c2lmeUV6VG01dm9BS2VXUUxDeWFhZGE2ZHNQQTZGaUhHY0lMNlNqRFFaVFhodlg3X1U?oc=5"
         },
         {
-            "source": "The Mirror",
-            "title": "Man City appeal date set as new fears emerge over Premier League sanctions - The Mirror",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXU0NVMzTTNZbkhjNFVoNENnWlNVQVZDN2JfekFZZUphaGtBRDBrdHY5YXozMkxqNVhkWVYyZDZ4aWZ0a204SkhmcUxoRF9TbnBhNUZCd28wYk01b3YycDZEVk9HRXJTeXBRbkZLcF9Jcmx4QWJCYmZzWEFQQ21WQ3ZiZVZfU1pRU0HSAY8BQVVfeXFMTmYyTXRRR2lXTmpsazBsbi14bUJVT3B6Q3lNWG5tWHFZOVc3Y3Q2c0JYYnA1cU5mcE52cVBIUUhSOVZMVGJDeHNLYjBrTl8wOEpaQ3EyUlR3SkE0Mjk1N0c0ejU4RXlDaVE5bUttZlJVQ0laRng4QVQzZWdLbUhDUEFua2xYLTl4U1VyZEVMTms?oc=5"
+            "source": "LiveScore",
+            "title": "Fabrizio Romano: Man Utd still trying to secure the signature of ‘greatly disappointed’ star - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVEZoc0ppVjVIWldNZWYtMjVtdmY0OVAwWW1jYy1LbDFvVzN3aF9ya0gxQ3d0U3NndTY1X3RqeVF6N0Y4ajBKZlcxdzAyUnJnR2IxVTdsVnJvZ2kwQVY1Wk9lLWRoS2s2dUFSNXBTekdwb01uMXBpd2J1eTY2OXA5T2t6akhrR0pWRW1xRXMyeUhFQjhYVDNBMzA0LVhMM2NGWkNBcHFFajJCMEFoOVNvUGFRQTBtUkFWZV9GcGtwODNkUlVaZ3NSX3ZJUlhUOEVqY3NjdXdMVUhWcUZpeVRhdFRPaEZIRm1ieHZ3QzFFUQ?oc=5"
         },
         {
             "source": "utdreport",
@@ -31,14 +36,9 @@
             "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21JREFyM3FHdDFfQkZJOUl1X1hNSUdsbDdxUU1laEctN0JwSmFYRXdKMzR3ZzZZM0RSOWdBcG5sSHRMLURpRURWNkF3RFRPTmNLRi1EUnJLajFkUmVEbktRZi1rM0syVnd0RzhBOGU5NGVzQmMwOUJNeTVUQ2FrRkttX1hoSXJWUExsSGpWRFV6cTJCQWl6MTB5SW1EZkQ2ZUlkNnVYcnhpaXlVR3hRUXRRcFJKaWVuc19IWnI4QjJELWpwN2s5MmVlNWx2SUN2a3ppVGJ0TjhBMG1QZml5ZHk5aWJPdkd0TF9DRW5MYmJCLTJMNkE?oc=5"
         },
         {
-            "source": "Liverpool FC",
-            "title": "Liverpool are ‘serious’ about signing a player described by - Liverpool FC",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
-        },
-        {
             "source": "The New York Times",
-            "title": "Manchester United expected to sack Michael Carrick as head coach - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ?oc=5"
+            "title": "Manchester United finalising deal for Mauricio Pochettino if Michael Carrick departs - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ?oc=5"
         },
         {
             "source": "LiveScore",
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "The Athletic FC: Ask David Ornstein your questions - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUYxT1pxblcyOWVxQTFIQVdkZXBrdnRPQ0xIck9jeGtoLWloaWl4ckx2SnlUU0ZOYmMxZlVhRWd2eWo5M3hfV1JzWmNfNlE3N2FRSURibGdtUFhtMkJ3d3RKYXBnMmU5d2xLWk4zcWRzRjRjeHhvdkV4Rk9kbUsyMEpKbU1xV3RJX0prSjVvaVppSnVZ?oc=5"
+            "title": "Manchester United expected to sack Michael Carrick as head coach - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,33 +62,18 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcjdXYWthZjE3ZWY0LXVtNzl0Ulg2T0ZlcEt5MnAtQURWWGpXOVlwQm53dUtxLTRBZDJNQXRSYzRDYmg5V2NsZmFjZGJVVjYtNlpXdnFqVU40U253dUppX2FqcEN5VGVlZkoxamdFakpFclFrZWFGWUxFOVRSNG1Sb3lhb2VxNW5OTHdZRHZzZGFPNUdJREFiUlYzckcyWkxTUW50TU5BMUxZeFVKMmpVVFl6SFM3S0t3cWlkUFk3UThlZmVhem80akl6S1ZVMzR4a3hYQVh4OG8xS3dFZ291OVdoeWY4MWxBeW1FbU5qd2c2QQ?oc=5"
+            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE55eDRGUF9sdGtWcnF0MkNGU19ZYkpkQWN1U0dHakxncEpSQlpOTkFHMjYzQmk2MVdLZkZLeWtNRU4wb1ltX0w5bW4xdS11eVIwaVpvTzlUTUFSdUJPdDllYW1DaEdjbFJLaWozWUFoczg3Qm1Od2NMYUxOZnVrajBaWUljSm5PX2Zpb3d6VUNGRnRyX0pqQ0dqYWxJdGV1cmJtdGxJU1VleXRub2x1Rl9RY1QwTEZNXzlBUnR1TjFvaFltTHdtX3pHT3lTV3NNbHVDcnN5ZFNjY3lSMmdYLUplRDdONWE1Q2d4bA?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "韓 축구 최고 희소식! 백승호, 한국인 21호 프리미어리거 탄생 가능성…“버밍엄이 최소한 플레이오프에 진출하지 못할 이유는 없다” - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtc2VuVkhtUDMxdDZ3UFNaa3pqbzV5czh0VTEyRWxYMVJZLVNnOHRWMWx3aTVUTWVUU3FaeTZJLWpuSnVOenAtX3IzR1FZQ3NnaG1rekJpU2xXQXZPT1Z4UC03V2s5X1dkQ01fSzBSWUR0TnFm?oc=5"
+            "source": "OSEN",
+            "title": "\"더 이상 EPL 득점왕 그 손흥민 아니다!\" 치명적인 빅찬스 미스 두 차례…손흥민도 인정 \"찬스가 있었는데 해결하지 못했다\" - OSEN",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cF9vV3doSXFNLVk4M3luSjFEdHRnWk9nSlgyUjNJeVpYTXVjME4yR1YyaHVFVHFWNE1HWUY4ODZwZnhmTjJjU0VGNVZOX0NZcjdZNQ?oc=5"
         },
         {
             "source": "마이데일리",
-            "title": "[오피셜] `EPL 최하위` 크리스탈 팰리스, 세이지 감독 경질…후임은 프랭크 감독 언급 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjbnZDbUx3UG5mU2NiUVM4ZFowUzNiZjYwWW15cHFxMERtR3RDUmgtZTI0aDlUR285TWUzRjBueWo0Z2lobXZ4VFZJa0dpQmFPcVp4a0lxQV9SaWE3Z2FiOA?oc=5"
-        },
-        {
-            "source": "이데일리",
-            "title": "'강등권 추락' 맨유, 사실상 포체티노 차기 사령탑 결정...美축구협회와 접촉 - 이데일리",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGRSUnlqVmcxS2JVNnMxWTJfbVZtUFYxWFFIVzlvcTZtWGwxV1Nwa2hRdnBKQy1TWmVNaHZORHlQSmdaZTlGbTk4bjNXZnBzc3ZSZXgySV9aWmVmaGZkUGExcWwzN0V2RHdPOVdRR005WG1Ta2tTMlFWLVlmeFVJRw?oc=5"
-        },
-        {
-            "source": "포포투",
-            "title": "한국 국대는 시끄러운데…“손흥민처럼 해낸 선수 아무도 없다” 프리미어리그, 쏘니 10년 대역사 재조명 - 포포투",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FeU9Xd0tSZDhVaEluVV8xVEpuQ2RQTzl2X1NaLUFhSVZHTU1CMWZOZFlGMjdJYkRUR0xxZVd0b1dwZnBkVHRGTUhORkVrUURjQlZST2wxN01aaDNZRTA5aVZldThQWHZTeTFiVExzWXdPQQ?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "\"주장이 감독 저격, 선수단 내부 분열까지\" 결국 감독만 잘렸다...맨유의 충격적인 라커룸 내막 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUlSVVhsYm5wNTNoektPdmc1UDVTRVJlcUxJNWg4LVh1ZDZjc1RQVnRNQV9qN0sxNm9ZS092dW9vV19IdFp2amlXak9OWHhVSFJjOEItaWZuQW5MbDlpYW1qbFN4bkgtVVQtWWlsWEhvTnU0RExJTU1xakltZWo0SG0xbFJwQ1NuMk00?oc=5"
+            "title": "'최악이다' 맨체스터 시티 EPL서 퇴출 가능! 'HERE WE GO' 떴다...항소 패소 시 '중징계' 예정, 2027년 '최종 판결' 예정 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zd3hyS2RDUVZlTzhjX0RCRjI5RENfSktHM01JRkgyenF4LU1Kbkc0V2ZlOEpla0k5b2tmakVxYXVqampkY3RRV25PSjktcHdZUHY3c29iZFRFUFRLODB6UV9Pamhvdw?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -96,14 +81,29 @@
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ybFo4WmppSWlMMG1nMVVmaFhWQU92VldBci1EUFZ0S1lrQlRpVXkySmVrTUF0SzRFLUEtRktKOExPOU91Q1g5ZGE1ai1jYjhnLVI2WU1SRElSa3hvVEpUMFRiNzUtWUdWNWJYNG4xVDR3RUc0bm1zanRZemZKZw?oc=5"
         },
         {
+            "source": "이데일리",
+            "title": "'강등권 추락' 맨유, 사실상 포체티노 차기 사령탑 결정...美축구협회와 접촉 - 이데일리",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGRSUnlqVmcxS2JVNnMxWTJfbVZtUFYxWFFIVzlvcTZtWGwxV1Nwa2hRdnBKQy1TWmVNaHZORHlQSmdaZTlGbTk4bjNXZnBzc3ZSZXgySV9aWmVmaGZkUGExcWwzN0V2RHdPOVdRR005WG1Ta2tTMlFWLVlmeFVJRw?oc=5"
+        },
+        {
+            "source": "www.xportsnews.com",
+            "title": "죽었는데 살아 있다? 사망 소식 전해진 EPL 前 심판 대반전, 축구협회도 몰랐다…\"동명이인 지난주 사망해\" - www.xportsnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclFKZXdVdFFVVU1ITndnM1pRZjVyODhfUHF4Y2l2TkhCTWZMRU5FU2w3dWFnUm5KaTBFTHhDbHRnT2Y2YzJHcVNxQkNldU5uckVlaw?oc=5"
+        },
+        {
+            "source": "조선일보",
+            "title": "\"주장이 감독 저격, 선수단 내부 분열까지\" 결국 감독만 잘렸다...맨유의 충격적인 라커룸 내막 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUlSVVhsYm5wNTNoektPdmc1UDVTRVJlcUxJNWg4LVh1ZDZjc1RQVnRNQV9qN0sxNm9ZS092dW9vV19IdFp2amlXak9OWHhVSFJjOEItaWZuQW5MbDlpYW1qbFN4bkgtVVQtWWlsWEhvTnU0RExJTU1xakltZWo0SG0xbFJwQ1NuMk00?oc=5"
+        },
+        {
+            "source": "포포투",
+            "title": "한국 국대는 시끄러운데…“손흥민처럼 해낸 선수 아무도 없다” 프리미어리그, 쏘니 10년 대역사 재조명 - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FeU9Xd0tSZDhVaEluVV8xVEpuQ2RQTzl2X1NaLUFhSVZHTU1CMWZOZFlGMjdJYkRUR0xxZVd0b1dwZnBkVHRGTUhORkVrUURjQlZST2wxN01aaDNZRTA5aVZldThQWHZTeTFiVExzWXdPQQ?oc=5"
+        },
+        {
             "source": "뉴시스",
             "title": "'EPL 강등권' 맨유, 소방수로 '손흥민 은사' 포체티노 선임 - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtUFNISWxtaU55enNSb0huYjNidlhXUERZTjlubEJVZWVITFB4NUhLdXZwdUlwOTdaOU9NcGZNWjdkT3Q2WlhuZjNJa0dzVmhhOGRVMmpPckZaSHZhYkFhQtIBeEFVX3lxTE1HQzdDR3JnN1Focld2YUhMT1d6WXg5UGZYc0UyM29yVUlrR0tOdEc2Rmt5ZV9CR1EwbVdja3E3dWdWRHBxSlZ6Q2VPYjJWcEJGLTV3c2g5T0J3S2Y0WktMVHUyQzV6MEVLUjZiSjBRZ1d2ZmNCbzdyWQ?oc=5"
-        },
-        {
-            "source": "위키트리",
-            "title": "포체티노 감독 눈물 \"내 지도자 경력에서 가장 어려운 결정\" - 위키트리",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaZEZ5TW9QeFBYeTljRjI1VC1LVDFLVWZuZ3JKZUE3eldSbGhzU01JWlpzakpOYXMzWGVJMG5nS19pZXlfOWZBbDBzTXExMklVc0d0alNR?oc=5"
         }
     ],
     "transfers": [
