@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-20 05:28:19",
+    "timestamp": "2026-11-20 14:29:50",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "How Premier League's big six keep getting richer and richer - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUWdydWVCU2k1a09PY01TSWJ4UjRBZXQwZ0hhWmFWeGcxSnRtN2piNU5md0t4YlJXaGk0akdqaVk3N01XLVkySkZYOFBJR0M5Tlk5LVFZcHlsWTZlN3oyTExkc0tuMnY5?oc=5"
+            "title": "Premier League LIVE: Watch Pochettino news conference; Maresca, De Zerbi, Iraola and more speaking - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ka0FtenFaV3VJSlI3VzBOOWUyWDU0NjQ1d3UtQ0lxeGFpUHVFa3prRjc4TVo3eld1ODlzMy1oY05Xa1lvWEw3eVdkUkFwQ0pPZDlfdDBJZ2NXSGtmUHBxUjZfNA?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more! - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVXprSFFfTTlwLUVkeU9feDFKWkFrSUtSd0pPaEUtemw0aXlqUjVkR2dKRW9hZG9VNnVOZ25wUDlhUThEb0RNMi0xT3FOalFJQVNXdXVWMEhjeWxTOGtBcHhEa0cyX2U0LWZ4NzlsZkFJRmNJeWVybFBMOXFDWERJM09zdTBVNElpRnZYNi0xYTlwMTZvUm5XMkJuQ2dGTktqdEQ2SktURUl4bWhxajF6QnB4cHhMSHNXRWUwM2h1aE1oaHhUT0t1YThKTGxBZkJEVXpWQ3MydVhaTzd0TDNWcHVGVmpBQ2NvNG8tdmE0TmZ1dmhiUWlHck5pTQ?oc=5"
+            "source": "The Guardian",
+            "title": "Premier League: 10 things to look out for this weekend - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWxLOV96SWdmNVJpOUtWeGpPWXllc0JLb3o3bjhmc2l0SXhCNzcyVjBPNmdSYzlsUWJISDc3VjRYT0ZiMTNHRDRHV2tQY3ZvQmJaTXhNYlk4TlBoajc0UDMyNE52clUzTENYeTl2TzQzUEhaWkNKYTZyOHJNZ3JWd2FJSVRLa2gyOEFBX2Rfajd3WWFERzVVay1lRFducFZxQ09KcQ?oc=5"
         },
         {
-            "source": "Sports Mole",
-            "title": "Liverpool injury, suspension list and return dates for Man United: Ryan Gravenberch, Hugo Ekitike, Conor Bradley latest - Sports Mole",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLWNqZkhHc0lxUjZMRjA1T1dxQ3FWQ1AwV3NlT0JEb2daQXZkaVM5TUhLRDE5YUlJNjFxYTZBT204NmRRQ2RZZ0V4M3NBdk5oUHJNQmRKck9MQnYyOEE2dGcycXZNUXVERzBqeENOdXJlOGVSZDBjb3VFaWJqSjlaSW5ZTTZORTc5Y3ZNS1dFLXh0S2dTQmczQVJkbU8wSkp3LVpRMDNhTGQwTV8zcWhCdFNmbFN5TEJuTm5ydlFnM1JWUTRKUFcwbHA2WnNHSzlETk1IbXFlbGRvRmtzYWV4cjhqT1Rjb1pmSWtZWkFwYk1mV2QwWHFOS1gxUWhjSGRxUGQw?oc=5"
+            "source": "Liverpool FC",
+            "title": "Why Alexander Isak is Liverpool’s most-owned asset in FPL - Liverpool FC",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUFWOUZHSkhnSEV6V2pZeW5qQmR2UDBMZ1hhSW1EM1kwTmV1NzZ3b3RkYzZXY3RyOEtReDN5UXZKeFNqWG1XZTZKd1pXUmM0SUtvelQ3S0xmaHFNSHJJcUJrbnI2SDhJZ09CYTVhRmtqcHdXTVB1am81MzVWcUZOOWFBUDF1dHhoWGNjMjJBUGNUNDlLcVVjMlg1LUtEQQ?oc=5"
         },
         {
             "source": "LiveScore",
@@ -56,24 +56,19 @@
             "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnBkMTk2Nk52UEZZMmVmY0RzdGlzaWFfM1VFdzRzTzhnUlNsQnFicEJpazZRRG1GTEl4NTJGTXUtQ08xcFcyVGg0X3J5RnJ5MWt4Wm9uMzJvNFZfc0tsWXVNZHBqaUtiREQtVHFOaXRmX2VZT3FDLVdlNmRVb29MRjRuWHU2ZVQ5UW5ZZmEyc3JQZmZRd19zdEY3blFZOEtoOWhOQjRlOE5wdS1mek9PQ0c0WlB2OGhSUUl3dnk1NjZyMF9GclNUZHJRQ3plT2d3c1N0aUhVWnVJb0JyVkE4OQ?oc=5"
         },
         {
-            "source": "The Independent",
-            "title": "Kick-off times and TV schedule revealed for Premier League’s January fixtures - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1VzTklGTldza3pBaUw2WnFlRDBtejRpQ2lQVTFtek5RSkRjNzdHRU5uMW5DN0pqOVd4TUM1WUt6TlFQNVVnaGNGSDd1RmVmT3M1THpNd0pFdG9xUzJVX3ZwbmhTaTZ4eXFhUkJIZFhjM0o4RTdveUlRbkhycWdBZldKb2w1aDBHNjlyVUo3YlBGRk5STDVrUXlCeXRULUp0NXFJNVBPVkVLZG5WVWFYT1hrLXJrdw?oc=5"
-        },
-        {
             "source": "The Sun",
             "title": "Premier League fixtures revealed for January with new date for huge Man Utd vs Liverpool clash - The Sun",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QWVJRcUdJSnBMaS0yZnBrcGNYazk3ZmR4ZURuR3RHcU9DV1I3bTlqWkJOREU2U042b2JSZ3JBTnRRdHR1M0E1cHB4Nkp5eWc2aThSOXo3NmtudHRMLXoyMWZKWnpzRi1FSzB1QTlXOEk5dlVja2tVeGc4dzd4UkE?oc=5"
         },
         {
-            "source": "OSEN",
-            "title": "\"맨시티 잡으려던 후원사 소송이 오히려 맨시티 지갑 털게 생겼다\" PL 18개 구단 찬성...수천억 부담 가능성 - OSEN",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02MUNaNC11bkNjeEJvZy02MG9iRW82M3FjRU50dERWUHlYZFNXMzlBVUk1QjFNUlVYZ2I3OXc4M1k1SndLVkFueXBqR3UwUE9aY0lF?oc=5"
+            "source": "Mirror",
+            "title": "Premier League confirm next TV picks including Man Utd vs Liverpool and Merseyside derby - Mirror",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGtBZ3Q0VnZYaENtVHRkZUU5UmRLYW1xZzMyaHhyZ3RfRElwWE1kMFp2alNMSUFkSXRSWFQzaTlWTGhVcmRqeFNvcjhaak9iNVlzOXk1VERBMTluakxXVG5Ia3FZb1RuWHFkcnZvclZ2RF9pa2w1N0JaYjFKbHdUU1g3S1ZHa25fblNrRHVvVdIBlAFBVV95cUxQemx5dFpLd2NBRXFkbTZ0YWVKUFRjNnFZWlBuTWdxNW5JWUs3WG5PN1c4ZS1FWkRZMTdtUzl6bWwxMTI0bV9HUlMxN0xBR1pZXzlNZWhpOW9mS2t4NGo0VlZGNWxEb2wxQXlkNVVIaTN1d0lZQldKUU1BVTBZSG9lVEg0Sm9pOXhpT0JmaVdfejBtcDVB?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "표류하는 맨유… 퍼거슨 이후 감독한테만 1700억 썼다 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWl9HZGo0X1N3R1RuMnRwTnZDSW93QkdzYjZJQWNrYXlac01MWVM0STZFZGRXdHdLQlZPYTRsXzVYSjlkTDAzWXlYaG5PTWJPcG8tUEVKdHZwbzlHNkQwNlNtb3JCMjc1SEVMS2IwZE9WZGpaR0VsSWtsRXhUcnRtQzRaUEhHbV9UanBr?oc=5"
+            "title": "\"맨시티 잡으려던 후원사 소송이 오히려 맨시티 지갑 털게 생겼다\" PL 18개 구단 찬성...수천억 부담 가능성 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2dMU0NrVkFoMVpqOTc1d1NnNW9zbWJDWlUtWkZnQm1xbDZMTnlvMF9QQ2d5WmxlV1A5UWZZN3RITEJSelYyZFJadmNUaHBkT09YOGE5VFh6blh2NGFCRlFVLS1QRlYya3ZkUndRazFjbWJDaEd4Ym1VUUg2WnhWdVRjMk1wWElsd3BR?oc=5"
         },
         {
             "source": "Manchester City FC",
@@ -81,14 +76,19 @@
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0FiRS1YNG5KX3dTaGhhUmFhbTkzaU1TRnBJdWswMmI1LTBjazBZMFJqRWo1TjdENTNkczdfd2lDeG9PTTZ5a0FEMUxTUk9wM3ZtYWhZMS02NG5vX0dzZklKN095TWczeDcxMlhwZExKTWVDVDg3VUVZdzdTQXNnWmJzdnI?oc=5"
         },
         {
+            "source": "Martin Cid Magazine",
+            "title": "프리미어리그 11라운드 순위: 리버풀-맨유전, 시험대에 오른 건 포체티노보다 이라올라 - Martin Cid Magazine",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNaWMtRUFxQk5BRWdBR1ZHWmM0OWZpVHZmVnBRRVdZZGo4d3JZd09YLVZZcm41R2NMa1lQSzd0YTMzRE1ienAwUHFjcWY5QUMzSHF0a1lxQ3AweG1YMmhwOUZqYXpTdDdDUkRWLU1sSHI5bmkxVlVJVlF4Zm9DQzJ0SG1VZUtJOEVLUXpHeWJrNUZzbm5XN2hodXZqVWpUaFlGSDBpUHNpVHNRWlcxS2tESjBvU3RDTHI0c3Bfa19iT1ZxdlRteGNnZHcwSUV0RUV6VkkyMk9XOEpQbW5ZdGRidUlkWjd6Rjd4WXQ1d1UwVUQyLTd5ZVRnZlNlTnNfN2JZMGlOa1VuRWloYkgxZXdhMzFwc1NjWTlXdHRFRHV3LV8?oc=5"
+        },
+        {
+            "source": "Vietnam.vn",
+            "title": "크리스마스 전 프리미어 리그 경기 일정: 아스널, 난관에 직면 - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVNLamlkajR3VktPMDFXUVR1dGR3Wm9keU04dGh6THRleHlwaVNKaVEwMkhFU1RLd1VCOXdKdWJRQjBtYWN3b19MQmd4UGNwQkFxVFg4UU1Gb2NOakd5WkVnN0dodFpSZUs4eUZFS19TTWdqVGhvUU0tWWFHejRsY0hhZmZVR3E3cy1VYUFfcw?oc=5"
+        },
+        {
             "source": "스포탈코리아",
             "title": "이럴 수가! '반전의 연속' 오현규, 프리미어리그 입성 끝내 좌절되나...토트넘 이적설? \"베식타스 백업이 득점력 해결하긴 어려워\" - 스포탈코리아",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3RIWGdYMnRfNWJSamJHTHVVbXdBYUMtbVVPb2FrendQWG9OMGladnFBM3hxbldrQkpEMXZfVUFyUDhBTktYX1FJNGtobzlhQ3EyWTY1cm1mdkRvSDhNTEpmNGIyUFhFS3o0NHF6RTdveVdqVGo1TFVyWlJySnZJR3RB?oc=5"
-        },
-        {
-            "source": "스포츠동아",
-            "title": "‘홍보대사가 성인물 배우?’ 레스터, 서포터 반발 못 이기고 계약 종료 - 스포츠동아",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVmJKcU5qQmNjazlydzBucVA2MXNWSkFGNjNjVzNkeUxkanRfRzBPLXJjSHA4dlEyTlBWRlhULUZpLXdvbzVrdDJsTXVfam11d1lJMGpvWENsZ0ZJQm5HZTg5dEtHOVpnSlNuazNuSjM0QQ?oc=5"
         },
         {
             "source": "스포츠경향",
@@ -96,14 +96,14 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Q21zRVRDajlJallDME10ZzRSZ1JMaFNONHZ4LVNVckxlOUhRVGNHLUZoYXByLU5UTkQ2RUdOSkZTYmNEeGNCcWl2UE5XUlVyOHIwM190aHhsTXBOb2fSAWNBVV95cUxOdXpoLXBoeHk4VkppNUViUjNXTWEza0NVUG13dWRHc3pfUm9oazlTd3lyQnpMbFptZXBHTFNidkF2aGEyV1F6UEY5SHMzUnlDcUptZFN5NlcyeFBkdDZCMmFsaVE?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "韓 축구 희소식! '국가대표 스트라이커' 오현규, 한국인 21호 프리미어리거 탄생 가능성…'솔란케·마르무시 부진' 토트넘이 주목 \"겨울 이적시장서 접촉\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWVo2bUlJOXhWQU5wU0VxMFNuTDNUbmZtZXAtVlVvTG11LWQ5U3ZtLXdfZTZtVnRxTjBsazZ1UjZTX0Y0NEZXTzdHTWZFb1pqby1sSkdNMWRSOFI5SWh3aFREazRiOXU3bUo2c3JaUnN1bnN1?oc=5"
+            "source": "베스트일레븐",
+            "title": "EPL에서 맨시티 편은 노팅엄 딱 한 팀?… 18개 구단 뭉쳐 소송비 지원 결정, 맨시티 후원사들과 법적 충돌 대비 - 베스트일레븐",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YYUd1Q0E5eTcxTzNkX0FlMWQyZktqTktxQTBVRWNrb2F1ZXpZRmR4T1pIbEVqYTJZWUhMWXJhQUJvVVRkNDhBVmhtNTRLQVJBQWxFdkpIeW9KSmR4UjA2UzRuaVNqLU9BangwQUVn?oc=5"
         },
         {
-            "source": "뉴스핌",
-            "title": "'2012 첼시 UCL 우승 주역' 후안 마타, 38세 나이로 현역 은퇴 선언 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iOTdMN0V2NGc2anRNcEZBZWdPRzdJR3doNjh4N19VVF8zcDg0Z1dnbURfNWRJRkJLOXdudHl1MEUzQk4xb1p5UmdqbTBvdWtib1Qza3ZHd0wxYldZ?oc=5"
+            "source": "연합뉴스",
+            "title": "포체티노 감독의 맨유 첫 훈련, 드론으로 찍혀 유출 - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KUUs5TEZKZlEtaVA3N0duQXBZbVltaHhDMHhLUkRhanA4QXMzQWJadS1zM1pSRGppRDc4ZkY3bEdvY0RHbUxmcjRMTUE4WVlBSWUxODliVm9pclnSAWBBVV95cUxNTXIzb2dvYXVHOUZ4U3dGaXd6Vm9ubk1pWlFQaUQtSmtMTmNocWJuN0JmVW1JMEpWYS1FOFdSMUJxLVhadjJKWjBtOGx2RXg1VU05c1E1V3BBMkJLWldpYUg?oc=5"
         }
     ],
     "transfers": [
@@ -115,7 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "player": "FPL 2026/27: New Chelsea signings prices confirmed | News | Official Site",
             "date": "2026-11-20",
             "type": "Rumor/Verified News",
             "from": "Unknown",
