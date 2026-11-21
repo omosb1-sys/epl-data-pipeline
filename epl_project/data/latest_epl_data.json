@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-11-21 03:36:37",
+    "timestamp": "2026-11-21 11:52:22",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "The Guardian",
+            "title": "‘I’ll be back’: vows Kane after ankle surgery, Premier League resumes: football news – matchday live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDdsVFpIeXlRckNHeTZSenJsaUFtZUJWNVZuMEliRmZMV2Y4UU9zS3doZGRLWnR2cHZIc0FvcDR2UGg0bWllVjhMX1o4SUhQcXFJTjNFQ2tuYmtkd19XdjU0enBpekpfTHBPWHBaeVlUNGp2NUM1d3FiLUg4NHcxWmFISms0TkVtRVJHdlhjN0dEdHBySzN2Y2ZSYlAwdEtIMTFJUzZSOGNXM1Y1VkszbzVuWVVJUU9QWUlMMUxMQVVTby1vZ3ctMHJuaHBVcTBz?oc=5"
+        },
+        {
             "source": "BBC",
             "title": "Premier League LIVE: Watch Pochettino news conference; Maresca, De Zerbi, Iraola and more speaking - BBC",
             "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ka0FtenFaV3VJSlI3VzBOOWUyWDU0NjQ1d3UtQ0lxeGFpUHVFa3prRjc4TVo3eld1ODlzMy1oY05Xa1lvWEw3eVdkUkFwQ0pPZDlfdDBJZ2NXSGtmUHBxUjZfNA?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUU1QNG9xMUZTVkNhV0xSNWZPS1ZleUpGaVJfSHgtd1EzeE1iX1lKX1ZvT3E2eEVEVklmTk9aSXo0TG5IQkIzTGQ3bkVPNXJfUXVaSmF3Vi0xT0taRW1iR1F6ZDd5WVB4Ny1Hd1V6V0xHbWk1blN3Smp0Z3pDc3FOQmkwS0hldm95M3pPeTRCYWZjczlzbTBUa1hya2ZtYU0?oc=5"
-        },
-        {
-            "source": "LiveScore",
-            "title": "Premier League Predictions: Pochettino’s Man Utd Bow at Liverpool, Arsenal Visit Newcastle - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSXBZb3Z3aThEZmpFTlozdm13SG40T25IbURYX205QnhRME9tSDlpTE1KbzFoVW9ObEVOeDRrYm5waGNIaTNEYk1UWEJFS0w4U2dleXVjYzc2bFM4eXNHTkxuQXBSRmpoZVVxbDNyMDR6Rk5qUXF1SnlkX0FybDh2YlZrU2pXdV9DOGkwRXlHQVhlYXk5QURabmRSNTBFVmxhUFNXM0dINzR5THRZRmhjT2pHVUVBREY5RndDMVc5R0pjVExXZmJWaUlqR3hFNUVOTlBWdUxDd1BMTDh0WWhmeUJ2SQ?oc=5"
+            "source": "London Evening Standard",
+            "title": "Man Utd XI vs Liverpool: Confirmed team news and predicted lineup - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUg0Ulg4ZE5LZFQxM01wSnUxWXpDbDIwUnZTMGZPQk9NSWpqc2NUM2lQbzZiMmg4X0E5Z2phSElmSzdJOHNTLURUU0xUT1FMdGFYekprRmxudGtxd215UDE1WEtEazJRZUtMYzZ4emRLenRCUldBM09TeUNKaGNQejZRVm5DSnhWWmJvSmt0bWQxOWEyMnBseXZOb01tejJHakJLZ2hIeGhPVGJ3Y3RQTFhNTmN1cDlmWmFlQXd4Q2xLVW1FYUVTeG1JR24wSDhzRHVBTkNQcTZkekloNGZnN0hjTTFWdjky?oc=5"
         },
         {
             "source": "LiveScore",
@@ -67,8 +67,13 @@
         },
         {
             "source": "조선일보",
-            "title": "\"맨시티 잡으려던 후원사 소송이 오히려 맨시티 지갑 털게 생겼다\" PL 18개 구단 찬성...수천억 부담 가능성 - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2dMU0NrVkFoMVpqOTc1d1NnNW9zbWJDWlUtWkZnQm1xbDZMTnlvMF9QQ2d5WmxlV1A5UWZZN3RITEJSelYyZFJadmNUaHBkT09YOGE5VFh6blh2NGFCRlFVLS1QRlYya3ZkUndRazFjbWJDaEd4Ym1VUUg2WnhWdVRjMk1wWElsd3BR?oc=5"
+            "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWI0LXFUX3hPbTF3clVtNHZ0aXNzR1NhRnJUWjJMMWtSRnpQRGZYZUZWTmlmZ0tjZl9XYUhlZjAzaVBRdl8zN3doOEF0UHBaNXNic0stVDhUMy1tdnpJdmNFampfdC1hRno2VmVpZW9GWERwWjlfQjJkYlpZd19pMktobXBFTThsb0c0?oc=5"
+        },
+        {
+            "source": "인터풋볼",
+            "title": "한국 0명, 일본 10명인데 격차 더 벌어진다…日 국가대표 다나카, 맨유·토트넘·첼시·리버풀 관심 “데이터 분석 시스템 통해 주목” - 인터풋볼",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fdkNPaVRmMXdpRFFZSk9ZeEY2cWhybUhGeHdyVm9GeXRZdExvNnlPYmlacWN1NjlyVzRYbDR0aUFiLUJYS3V6NnFkN2U1aU9sRmFyd0NDejVENmRLak5FX3lQbXk5YklQZDZpNXAzWmU0aTFl?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -76,24 +81,19 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3RIWGdYMnRfNWJSamJHTHVVbXdBYUMtbVVPb2FrendQWG9OMGladnFBM3hxbldrQkpEMXZfVUFyUDhBTktYX1FJNGtobzlhQ3EyWTY1cm1mdkRvSDhNTEpmNGIyUFhFS3o0NHF6RTdveVdqVGo1TFVyWlJySnZJR3RB?oc=5"
         },
         {
-            "source": "스포츠동아",
-            "title": "‘홍보대사가 성인물 배우?’ 레스터, 서포터 반발 못 이기고 계약 종료 - 스포츠동아",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVmJKcU5qQmNjazlydzBucVA2MXNWSkFGNjNjVzNkeUxkanRfRzBPLXJjSHA4dlEyTlBWRlhULUZpLXdvbzVrdDJsTXVfam11d1lJMGpvWENsZ0ZJQm5HZTg5dEtHOVpnSlNuazNuSjM0QQ?oc=5"
-        },
-        {
             "source": "뉴시스",
             "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…\"샤워할 시간도 없었어\" - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UNUd2NlAtdWlGN1lxZDVUY2paM3JUWG1QSEplN2ZITEV6a2YybkRZa3RDbmx2aXBheTMyS3VMd1pzYVh3SzdicDF5R29qUjRuQXd1LUhYb3dobVczWXpFNtIBeEFVX3lxTFBkMi1hY0tQYmZjUGptcGxzdU1HVzdLcjIzVU9GYjBqcTRPZ0M5cm5GQXdKN2p0dVpES0xkMV9UNVBYcDBDYWVHSTF2NnZpT1NZdWxnTFZWVUVDTDFqbEhLOVZOZjViVnBPbk5wV3QtLTNLNUFKRkgwbg?oc=5"
         },
         {
-            "source": "인터풋볼",
-            "title": "韓 축구 희소식! '국가대표 스트라이커' 오현규, 한국인 21호 프리미어리거 탄생 가능성…'솔란케·마르무시 부진' 토트넘이 주목 \"겨울 이적시장서 접촉\" - 인터풋볼",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWVo2bUlJOXhWQU5wU0VxMFNuTDNUbmZtZXAtVlVvTG11LWQ5U3ZtLXdfZTZtVnRxTjBsazZ1UjZTX0Y0NEZXTzdHTWZFb1pqby1sSkdNMWRSOFI5SWh3aFREazRiOXU3bUo2c3JaUnN1bnN1?oc=5"
+            "source": "엑스포츠뉴스",
+            "title": "이강인, 'EPL 득점왕' 손흥민과 격차 뚜렷하다…공식전 8G 연속 골 침묵, 스페인 매체도 지적→\"존재감 부족해\" - 엑스포츠뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YSWJXNGlHOEhjT296N1d5dDliWURTV1pIWTUzWkhyMS0yR1JpMFl5dE1BRnAtV2NDZlBQVE1ORUpENzNBMFhnT214WU1jbzJUeXZ4Ng?oc=5"
         },
         {
-            "source": "네이트",
-            "title": "'탈트넘 효과 대박'…손흥민과 뛰던 제2의 케인, 토트넘 떠나자 챔피언십 득점 1위로! 무려 13골 폭발 \"랭크셔 보낸 건 실수였다\" - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsTlA3cnN6UDk3cXh5TVFpbHZwYkIwMmRPT0pySWFndjluV0dTOFJFWEtlN1RFYXZhbEh3ZVBTNkNFRGxYUldKOThRc2pZQlVDTHkxQXdn?oc=5"
+            "source": "조선일보",
+            "title": "\"맨시티 잡으려던 후원사 소송이 오히려 맨시티 지갑 털게 생겼다\" PL 18개 구단 찬성...수천억 부담 가능성 - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2dMU0NrVkFoMVpqOTc1d1NnNW9zbWJDWlUtWkZnQm1xbDZMTnlvMF9QQ2d5WmxlV1A5UWZZN3RITEJSelYyZFJadmNUaHBkT09YOGE5VFh6blh2NGFCRlFVLS1QRlYya3ZkUndRazFjbWJDaEd4Ym1VUUg2WnhWdVRjMk1wWElsd3BR?oc=5"
         },
         {
             "source": "스포탈코리아",
@@ -101,9 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXRtTjRRb3lFUXo1eUtna19CNllueDZyeFVYZDJrT2NpUWNwaEtzZ1F4Vkc5eFpnZ3FsZVJEYnNZYnFOMy1TTTA0YmF3ZnlPcF91dkQwY1BQSndrTWJEUHpsVzlQNFh5MjNYZTRQN1R4M0pObG85VUJNMDBBSmlHdzR3?oc=5"
         },
         {
-            "source": "Manchester City FC",
-            "title": "1월 프리미어리그 2경기, TV 중계 일정에 따라 변경 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0FiRS1YNG5KX3dTaGhhUmFhbTkzaU1TRnBJdWswMmI1LTBjazBZMFJqRWo1TjdENTNkczdfd2lDeG9PTTZ5a0FEMUxTUk9wM3ZtYWhZMS02NG5vX0dzZklKN095TWczeDcxMlhwZExKTWVDVDg3VUVZdzdTQXNnWmJzdnI?oc=5"
+            "source": "조선일보",
+            "title": "\"대반전\" 韓 16호 프리미어리거 보인다! '괴물 수비수' 김민재 러브콜 폭발…'바이에른 뮌헨, 영입 제안 들을 의향 있다' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWpZbTBWb3NCcnBtUGVVS0FyX1JqbHItdVQ2bnJQbkNoSGR5MUpYYVlaWmhDa21rM0xMbm1UTDZJalRCaWFKeXlUV0Y0RjZnVEJjcHl5QllHN2lOcEh4UXU5LXdBWjVUd0liU2RsQjJiMFJNcGRhTXhad3FBenUtOHU3TEVGWlNjZDc4?oc=5"
         }
     ],
     "transfers": [
@@ -115,7 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "player": "FPL 2026/27: New Chelsea signings prices confirmed | News | Official Site",
             "date": "2026-11-21",
             "type": "Rumor/Verified News",
             "from": "Unknown",
