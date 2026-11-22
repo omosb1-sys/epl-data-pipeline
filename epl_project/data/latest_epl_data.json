@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-11-22 03:46:47",
+    "timestamp": "2026-11-22 12:05:03",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
-            "source": "The Guardian",
-            "title": "Newcastle United 2-2 Arsenal: Premier League – as it happened - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzByTElzSjFncnFXX05zd1BqbWNkcHZ3LWNtaXBJVXVOby12bUVnVG8xSVJYZ3FBMk1Pc3BkSERHajBNQW4ydEd6cTAzX0ttR25kUEt4dmxudE5sdUdmdnE0VHRGa1BUSlFXaDdHaFViSC1MRDMxTXVkTERNYl9TVXJHZ1NkQVFUUWZyM3VqV0VTN1FPQldReW8wT2NlR1Y5b0E?oc=5"
-        },
-        {
             "source": "BBC",
-            "title": "Manchester City 1-1 Fulham: Anderson rescues point for hosts - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DUDRwNGxrQWpZbmM0TEoxRWFONWNrNHlBX1VuaWZCMEx4WGpkcnFocTg0RG8xSTJ1dUJNT2ZUd3BEMW9wV2lGRjZ0MEZ4alUwVXlyMjdQSXlXdXBlT0dvSmk0WQ?oc=5"
+            "title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14Yzd1OThlc2piN1VEMW81M1ZOQklJcnJYREU5cEZXSTRlaVNVa2J5blZETzF4dzJSaEl5UEFRMkZMeGhqd0JiRnRlaVByT3BPUzhVdjNoRFVGeUp2NXZzTEdtTQ?oc=5"
         },
         {
-            "source": "Sky Sports",
-            "title": "Bournemouth 2-0 Nottingham Forest: Evanilson on target again as Cherries make history with comfortable Premier League victory - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeTZuLVpFLVV2ekVLMnBycjZpUnpBSnFFVUh6b2ZDZUE5Y2VGUGViUGoxT2ZGZlBaYzBaQVZ2T01mS2tLd2hESmg0djNybWtzaGpjVWt0SnZpeWlwSjg1dzJyNXUzcjZVNmJEV1RfcmJxNF9Gakp1R2JqN3JtcFo4Y3V0WFhhT2ZIYmt4TVJqNHJ3aHdCWE9ibDh3Q2R2U3hOMm5TdUR6VXNjaGhBcHp1d1NEd3M4TkNUWUNHWmROUmlJekx0LTFjNU00eVFWRnQzQ05jVGl0Q2hQTTYtM0I3bUliQWNFeHRWYUZDby13WFZsZDNsOXMzZWZvYXNFOEIwa1lZ?oc=5"
+            "source": "The Guardian",
+            "title": "Bruno Fernandes puts Manchester United contract talks on hold – matchday live - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWVpwOE1makFNQTVaSDQwTEZUOXlEblBQSy1tQldnNUgxMXVaZ2pHODdsYW50UDVnM2dZSkR1MXR2U1lKR2ZjWDVfWE1JdXA5amxwdzlvbTZLN0F4Nl80ZVBLWFN4R2Q4R041WG95YThfSzhUZTF2Z1BRRUZmUFY1X0EtaUlEdXB0ZldsbTZCcWd6V1Y3dHV6akpoVFVnNHgzTXpUcGRicHZrNm9PVTBaaGpvel9TS3lSei02RVZXSU5jNkJaakc0ejVpUER6TFU?oc=5"
+        },
+        {
+            "source": "London Evening Standard",
+            "title": "Man Utd XI vs Liverpool: Predicted lineup and confirmed team news - London Evening Standard",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOckNkV29tMVNRVXBiXzBzSWNKWGtvcXF1RUJYUUowbk1iOUpSWUNWWHFOOTl6RU9ITTRSMnZkY1czdHpyaEdLbkV0MjlTdmJ1TkRPLTB2cEN6UEswLXB5XzQ3UXZhTDJyVGwtLVpGanhzUkVKOEVmNjFzUEJ4V1ZURkpqRGNqZVBmcnRCSmNBc2d6OFNfWUVwMnVFbGo4N05EeTk4bnFXc29aTHUyRmVpa1F0eW9HQ2RxR0xiWHNNdVExMnJFakE0azNzaG44QUZKQXREUkhvVWloZ3pjeTVGcGx2TXhsWUJ0?oc=5"
         },
         {
             "source": "LiveScore",
@@ -47,8 +47,8 @@
         },
         {
             "source": "The New York Times",
-            "title": "Declan Rice agrees new five-year Arsenal deal - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWm1mSFVzUmtNVGdrREZ5NmRrTl9aZEQwTmx6TER5TWp2V2NhS05OWllZMEJlZ01lYXZPRlZXeEtSRlplOUNrLTRfUlV0Zk85UDNLSlVwOEhXSG5EUVdfR2VweGczZ0E0M010VHJCNnNPbS0tb2FlQkZZc0R3N3NMMlhQMWNNeXNScEdfUFBxeERPQQ?oc=5"
+            "title": "Mauricio Pochettino hired as Manchester United head coach - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDByQkdST2xGQ2ZKbnl3d1J1SEdJcjBmd3dsMGhKeWpra3EtdXQ0M3NCUEhpU3hycEdhMFhJNUdEX09pOW0yUmJDclJfaDFieEhyYTdwMHJJdkVfN0cza2EtT1RyRGFweXJESnhkUk9QWEQyUG5WWUVUUGdXaE5YX0l3LW5seVNBMkFjUTlMUGJMQ3FFRnZzYUFzTmJTOTBsTkRRZ2J6OEE4QQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -62,18 +62,13 @@
         },
         {
             "source": "Sky Sports",
-            "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE55eDRGUF9sdGtWcnF0MkNGU19ZYkpkQWN1U0dHakxncEpSQlpOTkFHMjYzQmk2MVdLZkZLeWtNRU4wb1ltX0w5bW4xdS11eVIwaVpvTzlUTUFSdUJPdDllYW1DaEdjbFJLaWozWUFoczg3Qm1Od2NMYUxOZnVrajBaWUljSm5PX2Zpb3d6VUNGRnRyX0pqQ0dqYWxJdGV1cmJtdGxJU1VleXRub2x1Rl9RY1QwTEZNXzlBUnR1TjFvaFltTHdtX3pHT3lTV3NNbHVDcnN5ZFNjY3lSMmdYLUplRDdONWE1Q2d4bA?oc=5"
-        },
-        {
-            "source": "뉴스핌",
-            "title": "[EPL] 토트넘 18세 신성 윌리엄스-바넷, 데뷔골 넣고 최우수선수 - 뉴스핌",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rN3FieVQzdzBrcUliMmx5NTB6VkduMUJmVzdxRjU3c2VPTV85Q3dScnA0UWtUN0x6MEp6MFFJVm96d3ByY2t3bllGYWVybHplakRlV3F5OGMxREFB?oc=5"
+            "title": "Bruno Fernandes: Man Utd captain confirms contract offer but says negotiations are on hold - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzA1UTVyXzc0V2lDdXRlbHFOd2tJQndjRWFSc0R1MDdZOEk2QUxhd2RidDhNMlRXeTlYUFN4c3RIVHIwb2RldnZ1c05yel85SWJVbmRyaFFCdUp5b1JNa2RjM3hreDRZc0V5SXJoRTdpSVo2cEVaNGVrLW9CMVdOQVh4MU95YTIzR21OZFVieldzQmc2b2pmN1FucTN3OE5UTXVScDRVd1VlSlA3MDh6MHZsTFktOUk3UGdRMXU5eEx6NmtjcXlzRC1SZjlQWDZrRlI0LQ?oc=5"
         },
         {
             "source": "조선일보",
-            "title": "'71.4회→80.7회, 맨시티에 무슨 일이 벌어졌나'...공 소유 횟수 늘었는데 공격은 짧아졌다 'PL 전술 대격변' - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEZzdkhfV08tOTBla0RjTWpmZUwyR3RNa1o1bmliZkFaY2xGdHlocXVyV3ZVTUowMldyelBfOGNpeFAxcU5RTm9yNloweEdGUEdlZXEtcTU0dmdLVlVRV3dRT2lVUndRcWtpNUhZczlFX0x0LWxIRTVJWV9YTVRDRXlyUXROdUxER0Rr?oc=5"
+            "title": "손흥민 떠난 토트넘에 새로운 스타가 떴다...18세 윌리엄스-바넷, 첫 PL 선발부터 1골 1도움 'BBC도 집중 조명' - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlppNk9DLVZPUU9OaWc0Rl92UVh0bGpTQmZKQWVoUzd0MWxNSU54MGdkV0s1eWRnRU9lajJNZmlVa01KeEV0TGRHd3RBRzZDdloyYXI2Q25iS0hTM0dsOTlneG5fNlY0WEJyc2xMZmdYY2dWbHlrcnlmQnpZdl9BazktbWJwM2t3UDRJ?oc=5"
         },
         {
             "source": "Chosunbiz",
@@ -91,19 +86,24 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VQjFucGdYZ2dCR1Q1Sl92bTVkNGQ5Ym5XeXZObENPcWptY3FGV003R21jRkpJM3RkOXlmUm1GWENGN25hRjZBYzROZEl0ZWdCMkl6MU1Kd1BmNnNtbG15NlJlajVUS1BlV1HSAW9BVV95cUxNeHpxS2NYWm9BRFBvdWV2Y1Y2T2hrYTA0bnBpV0xBbjRWd09IWmptZW11bTk5YzVVVDk0ZTRJOEpESHlVcXo3MWlZa2ZIWVNzX0dYcVBmNDkxbEs4VjZTMTFfTk1LaTFPSU1MRzlHVmc?oc=5"
         },
         {
+            "source": "OSEN",
+            "title": "'71.4회→80.7회, 맨시티에 무슨 일이 벌어졌나'...공 소유 횟수 늘었는데 공격은 짧아졌다 'PL 전술 대격변' - OSEN",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0N2RvM1EzZ2NjV0F3WHhJOW9YVkhSZjkwRE5zVFhuSkhtTlVGZUswMmUxcFpJY1ByNmU4RnVtamthbXZmYl9DTjJaeDdCRERxZi1GZQ?oc=5"
+        },
+        {
             "source": "엑스포츠뉴스",
             "title": "양민혁 절망! \"여기 양민혁 같은 선수 많다\" 손흥민 경고, 정확한 팩트였다…18세 경쟁자, EPL 첫 선발 '1G 1AS' 펄펄→토트넘 최연소 득점 3위 - 엑스포츠뉴스",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hS2x4S0FFQlUwT0I5QnZ3NW43VWJtcnR3ZmZ4Y24tOTFkMEZReWJ0NUJMWGxHd2tYX1dPeXg2WVl2S3FYRXdNUi1hWnV6NG5PNERNVg?oc=5"
         },
         {
+            "source": "포포투",
+            "title": "손흥민 떠난 토트넘서 처참히 쫓겨났는데...9개월 만에 싱글벙글 PL 복귀 \"호주 여행가서 힐링했어\" - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PUGF5QUREMTh0RWliRjhJN0VnVGhFREx0ZVA5Y1VjUDl6MFN1SkhIUnVHYVkwY2VkVlFfbHBkV2lpZlZVRFp4MDBiV3U0MFVEUGFqOUtvSG5GNTFDV1MtbWxnTU1meTJuTFgtdVgtNVNVdw?oc=5"
+        },
+        {
             "source": "인터풋볼",
             "title": "한국 0명, 일본 10명인데 격차 더 벌어진다…日 국가대표 다나카, 맨유·토트넘·첼시·리버풀 관심 “데이터 분석 시스템 통해 주목” - 인터풋볼",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fdkNPaVRmMXdpRFFZSk9ZeEY2cWhybUhGeHdyVm9GeXRZdExvNnlPYmlacWN1NjlyVzRYbDR0aUFiLUJYS3V6NnFkN2U1aU9sRmFyd0NDejVENmRLak5FX3lQbXk5YklQZDZpNXAzWmU0aTFl?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…\"샤워할 시간도 없었어\" - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UNUd2NlAtdWlGN1lxZDVUY2paM3JUWG1QSEplN2ZITEV6a2YybkRZa3RDbmx2aXBheTMyS3VMd1pzYVh3SzdicDF5R29qUjRuQXd1LUhYb3dobVczWXpFNtIBeEFVX3lxTFBkMi1hY0tQYmZjUGptcGxzdU1HVzdLcjIzVU9GYjBqcTRPZ0M5cm5GQXdKN2p0dVpES0xkMV9UNVBYcDBDYWVHSTF2NnZpT1NZdWxnTFZWVUVDTDFqbEhLOVZOZjViVnBPbk5wV3QtLTNLNUFKRkgwbg?oc=5"
         }
     ],
     "transfers": [
