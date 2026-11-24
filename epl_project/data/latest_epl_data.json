@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-24 05:39:28",
+    "timestamp": "2026-11-24 16:37:05",
     "season": 2025,
     "standings": [],
     "fixtures": [],
@@ -7,18 +7,18 @@
     "news": [
         {
             "source": "BBC",
-            "title": "Brentford 4-0 Everton - James Tarkowski sees red as Toffees thrashed - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54SHR6TktmenBUSXlvbjZEOHBWWktOSkVBVGpwaFFGMTlXMEc0aGpvR2QySUt1M3ZNTHdtS3IyT0w3ODFpNEt4dWlqUVhPVFRFVEx6LTZ0elZuajdSV0c5RG42bw?oc=5"
+            "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved? - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKb1N4QmFqeFl0QXZVQWtnek1wRnI3VGR5OGZjSkZyREVtNWtzQWRDSHY5ZzlRN2NEYTFvQ0hwZ3BybUFqSTc2bVpEd0xrcng5QUZvaHBmYUpLOGFNdHZabWoyaHlRdk1v?oc=5"
+        },
+        {
+            "source": "The Guardian",
+            "title": "Brentford 4-0 Everton: Premier League – as it happened - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGdfMkh6S0p5QjdTdXdqLXFFSWtNVlNhZjVSYmM3UVcwS3RzZTQ0dEJNeEd2dzdxTm5VM1ZXV1E3UHJIajhBNXZOSFJ0TGZyRlhYN25WT0FzSF90ZFliM1IycHlaTlYxWW1qcVV6X1VVTDBqdkdLVDRZNmduSlRMN1lKLWRWYnIyb2VFa2lxTWU4aGc0bXZqbA?oc=5"
         },
         {
             "source": "BBC",
-            "title": "Premier League highlights: Liverpool 4-0 Manchester United - BBC",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VSmdnVkJfUDJYeTRrSXZCeGpkbXNGaFFqS2tNYnRwWkZSSjd3a3FTWUtDblFmWFlhWFRHMUk1ZGxIRmtPc1pqSlY2dmRmQ3RHTEcybGpnODl3T3FJakJPa0FhS1l3bTRS?oc=5"
-        },
-        {
-            "source": "talkSPORT",
-            "title": "Dominic Calvert-Lewin tipped for blockbuster Premier League transfer in January - talkSPORT",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDVHc0RDUFRZeWFYRG9GY3RhM1BOTnJRRWxZcW5yUm1QLWgwZTBaSFo2d0d1dld2cTZ2Njc3dk1xcDJjbTMxeHRxTFhKMFNWQXRyaGdidmxjSnFRYzNvY0RMQVd1VF9XcVotLVFIVXBYNzU3V1N5aTRrd3FGSVViUDJtZUNKOHVZendQUko4b24wd19LMzRJ?oc=5"
+            "title": "Premier League highlights: Brentford 4-0 Everton - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42RVVVTWJZa2FlNzhBUzRVblhlS1JpTF9FdGE5djZ2emFQOEZGQUhOS3ZaQkQ3LVlJR05XVUt0RGVjVkJKR2dTZndUZUdUWTJfdkVMWk0yM3ZSeFZtb0hNLXMyczZERnlW?oc=5"
         },
         {
             "source": "Liverpool FC",
@@ -27,8 +27,8 @@
         },
         {
             "source": "LiveScore",
-            "title": "Fabrizio Romano: Alex Scott attack, Ronaldo latest, Real Madrid deal - LiveScore",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzR4ckhPbnhJZlBGeUVMZVp2MVhTcENaR3hwZFZ4S2VrOVNBVE9qWGN4em5OekJGcmVER2xoUWpNcjRBWFZTNXJNbGJEbmVfRzRyTFVNV192dTJ3UkRudUdIdUlVNGdDU0JrOEEwX3VsSlp2ZHd0dXJFNVl1d1czUFpNQzdKRmd3eHVQMDJaRXNLN0F3UEF1ZVNscVYyaHBnYmg5MEFGQjVIeEl2d212SHVMbk1vMTZEZDU3eHlCdHlEYVl6OEZFY0xsSTFFQ28?oc=5"
+            "title": "Fabrizio Romano tells Chelsea fans what to expect next in Alex Scott saga - LiveScore",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYUkwYlFnS19sb2xCcVFNUkk1NklITjJ2MnlkS2VqUThBWV9PU2ZUQUpLVExNRGExN2c1cTgxWmJTTXZiQXBHdG9mVE1BQUhvMWdOdkgzcUt2LWFvX0I0OUh1dnhlMkdOY3RnSTJNZG82Qk9xU0RRbDZyeGM3SDRyN0t5TFNsSmRrUFFuQmtYYXVVZXBGN1J4NkRkOG9QeWZwZjYzbUQyR29IZ2NNak9acFJiS1h4RjdsemlFTlZwRkhwTmY2Z1pQZ0ljMWRLZUViekt1Y1JzcU9oOTQxVUt0dGNUNkFBUzQ?oc=5"
         },
         {
             "source": "SussexWorld",
@@ -41,14 +41,14 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDA0U2dQNVpaSjREeDZNU1JTamF2Q3lvRGk2RjZZd014UmNyOGhBclJ4RTJGY1hnQXp4dTg0ZVpyUlVJN3Zab21kT0xtMEJBYUVmVmJBUUE0OC14WXBFeHhCNmtmaURDTk1tQXNiWGlQZVVrWVROUUk0NUt2VTBEY2FjOFI1ZlY5WG9WNzNlT0N4OGdnTFdqbU5rRlhwcFpiYkNqTGRROA?oc=5"
         },
         {
-            "source": "The New York Times",
-            "title": "David Ornstein’s The Athletic FC Q&A: Kroupi’s future and would Arsenal go back in for Vinicius Jr? - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmFfSEZ5VUtJRzQwTXpfMDc0c3JpcVVWVTAtTlJrU0R5YU5aYkZpRmxvSUNSZ2lqMFBPMk9GNElQZ1hYSHZUWGt0M2oyZkNFNkUzblNEZmZJeVpDaUR5c0RuME94VWI2bUViY0NKTU9MUEVPNGRvaTJiSmpJcm1aWlluTU4yeVlyMVRMQkQwN25tdw?oc=5"
+            "source": "Digg",
+            "title": "Ornstein: Manchester United intend to sack Michael Carrick; club says no final decision - Digg",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43LURISDF5STlrM2hiMHV6a1NCRTRxbGJVWnpfajh6YTltWGNVc1hMY21MTkNTdzRYaFQ3MDJUc3hLbkIweVNN?oc=5"
         },
         {
             "source": "The New York Times",
-            "title": "Manchester United finalising deal for Mauricio Pochettino if Michael Carrick departs - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ?oc=5"
+            "title": "Mauricio Pochettino hired as Manchester United head coach - The Athletic - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDByQkdST2xGQ2ZKbnl3d1J1SEdJcjBmd3dsMGhKeWpra3EtdXQ0M3NCUEhpU3hycEdhMFhJNUdEX09pOW0yUmJDclJfaDFieEhyYTdwMHJJdkVfN0cza2EtT1RyRGFweXJESnhkUk9QWEQyUG5WWUVUUGdXaE5YX0l3LW5seVNBMkFjUTlMUGJMQ3FFRnZzYUFzTmJTOTBsTkRRZ2J6OEE4QQ?oc=5"
         },
         {
             "source": "Sky Sports",
@@ -61,9 +61,29 @@
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzA1UTVyXzc0V2lDdXRlbHFOd2tJQndjRWFSc0R1MDdZOEk2QUxhd2RidDhNMlRXeTlYUFN4c3RIVHIwb2RldnZ1c05yel85SWJVbmRyaFFCdUp5b1JNa2RjM3hreDRZc0V5SXJoRTdpSVo2cEVaNGVrLW9CMVdOQVh4MU95YTIzR21OZFVieldzQmc2b2pmN1FucTN3OE5UTXVScDRVd1VlSlA3MDh6MHZsTFktOUk3UGdRMXU5eEx6NmtjcXlzRC1SZjlQWDZrRlI0LQ?oc=5"
         },
         {
-            "source": "Brentford FC",
-            "title": "Confirmed Brentford v Everton team news: Wilson makes first Bees Premier League start - Brentford FC",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTdoYk5YRmVyM0RNbG5NRzhqS3dwRGJvUFU4X25XdzkwTUFHVEdvQUxZSW9tRl9DMDNxYkZ1aTVORkZiR0hYaXQ5OE5Zd0JhVHo5bWI4RkpYVDdaYmRPd1JIVXJmaVpteXpQa0JCVnItYjVZZDR0VnVvUXBkVnFzS2d3WW5qTmlVbWJKaXBaa0ZmeUNRQXVoaGFEVXVVd0l2ZmI0TGxIbVBuMDU1RmdFbUFyMUliQkFFVGJfZnlRTkFYblh1?oc=5"
+            "source": "Sky Sports",
+            "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWVp3WUhtRmhYc2JBU3ZFTjB6bzlqWTYwcEE1T2tCeVIySGtjTzljdTNVQ3pjSkdqbXY2b1lsT0tNWEk5cW9NRmNfS1RRVy11cFJxT082dEFDdld3X1QxQmhENXJMMzAxOEIyQ3hsSzhtLWNhWXVqa1lWazZKYThqT2J6bHFuQVRhdTk0a1ByaFhOMEZUYjlPVmRHX1BYdDE0WUpGVXNXcTFyRmcwNGJpc0tZVFV0VVQ5OG1QR090bktnRUp1TzZZT3FST0hpX3k5eGVIYkFFbHFsVEtXcXc3b2ZOWVJ5ZzdRQW9QT0pCRQ?oc=5"
+        },
+        {
+            "source": "SPOTV NEWS",
+            "title": "손흥민 작심발언 “MLS는 프리미어리그보다 압박감 덜해” - SPOTV NEWS",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wbU9SNU0yWXp1NXpOTC0yYllMUnF4VXFGQnpleDYxWjY1SG5uNFFqazZzRkZVdmc3WmExTTlNTm02akdlbGRjdzd4azRBbXBIOGt5UVdfR01QVk1Cb0hMcWZTcmotb1ZLejVqeW9NaWc?oc=5"
+        },
+        {
+            "source": "동아일보",
+            "title": "맨유, 포체티노 감독 데뷔전서 리버풀에 0-4 완패…100년 만의 불명예 - 동아일보",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EcGRNN0NiWjVMcy1RMW44N055Z25JM0gtYkhHYlVQNnEwTENnLW1CQUZRT2hDTjVTSzNISUR4eWIwbHI1RGRONDdiRlVKQ2NEU0ZDMlJsZWNyUDVUY1h1YTRKNGNDSTc0RGozVXNtb2x4RGUw0gFmQVVfeXFMTnVSWEpMT1VqcUY3VVFLNWk5T0x4ZEpDSEdJM1dPYzZuMlNUN2FWcnZxZHJmWjExdk81cUF6N05SWnp1eXJiOVkzbDF5VkJvc182NkpScDIxNmRMN1I4MXZ0NkhyOUxn?oc=5"
+        },
+        {
+            "source": "마이데일리",
+            "title": "`포체티노 데뷔전에서 대패한 맨유, EPL에 쉬운 상대는 없다`…강등권 경쟁 우려 - 마이데일리",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qZ05HMVg2S0NaSDlwelVXOTN1NEZHc2FxRFRmSFhsbUR5bU0xMXVubi1UZ0VTbV8yZHlxakhqTXhOWVMwam85VGdKSTFUNUxaVVRxcnZqQ0Y0OXdHWFJBVw?oc=5"
+        },
+        {
+            "source": "스타뉴스",
+            "title": "생방송 도중 \"찰싹, 찰싹!\" 자기 뺨 때린 맨유 레전드 \"너희 맥주 3리터 먹고 뛰냐\"... 리버풀전 0-4 참사에 \"이성 잃었다\" - 스타뉴스",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zbHBHOFV3ek9oMlNCNzBoTXQxU1JuckprUXFlYTgxV2lfX2dYOVNuSXhlMGdWYWwxM0pTSHgzZGdpQTZISjN2cWgxc1F4cHpfYi03VUZURzl5YzdjVktaWkRpUlRuSWUzMEhMakdwX2pYZ281bUE?oc=5"
         },
         {
             "source": "이투데이",
@@ -71,24 +91,9 @@
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUUI4YVJUaUJyU0dPQmdRaGVLUEIwWjRWTG9sNTlQblNqbmtpTHJYSGp1d0taTGFXX3BDMkFWRjBKbkptdTlSc1ZOUnhLZ2t4dTYzZw?oc=5"
         },
         {
-            "source": "머니투데이",
-            "title": "'가레스 베일 이후 19년 만에 이런 선수가 나왔다' 토트넘 18세 초신성, 첫 선발부터 골 폭발...장기 재계약 임박 - 머니투데이 - 머니투데이",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMUh2RDhSMTFjdzEwSEFVNS1fZ3h3OTFqM2I0bE9SU1ZFeDBkM1dpNF85cjN3TnhjQWVOVmNGWkttSm0yVjc0LTh2YVlldEhxV2dxLVYybFJPY0FqREtOelpIYXpKNFQyYnfSAW9BVV95cUxPRTVkSWJFbFlEV3c4c3RwcVRHUzlyU1VPeHEzbFpXUUxQdktJVlhVM1VIaUJrZTNhVVNPRm95WVJwZTJwR2JCZmZUVmpISVpWVkt1N29mRERnUk9hcEVxSjNmcTF2NDdiTVJoSU05YUk?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "포체티노 감독 맨유 데뷔전 리버풀에 0대4 패배 ‘망신’ - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3RTMjdJSXZ4cGZYdFNNZXRHaEQtdmJzMExWRXVUVlpVTzBsQXZleXVmQ1RTS0N0a2JTczlSLWJYakU3SkU4OVVjaXJaLUNDclJlMW1QdWZzR0hUVWp5aUhtaU5fcjhTd2JJa0xDUDZFaGd2THBBeU02clVGeVhLdUFJNmFmaHlFWl9v?oc=5"
-        },
-        {
-            "source": "뉴시스",
-            "title": "\"내일 아침 경질될 거야\"…포체티노, 최악의 맨유 데뷔전 - 뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WlZPSWRnYmdSUmRESmRteUFyZWJYQ1M0aHpFM1lzd0lhT3V3NEQ2SzVLVHUxZW1jTENVcC1id19uQzBzVFBLZ3hiUElpUlhMT25OV2hJMWszR180a1dpRNIBeEFVX3lxTE5sVUx1TXVqenFFdWVia3pGeHNuTGZBYlNsRnhHR1RiSWZUeG1zNHdGRlFnVm85RDRINmhnRU5tXzRubWROX240d241Sk9Obk4tWDU1UG5VUTRLV2NRWV9ZQUszNXFwNnJ4VEI0WTBhU3ozTllFYldXUQ?oc=5"
-        },
-        {
-            "source": "스포츠경향",
-            "title": "“그라운드 위 땀 흘려 이룬 업적은 불변”···더 브라위너, 친정 맨시티 ‘재정 위반 파문’에도 애정 과시 - 스포츠경향",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzYTc1QTkzTWM5YUN0VWNtM2R6dTBEU19ZUGp4cUFoN1YzczA0WjYxTVM1aU5qNTRnSXNJY1owaFZqRE02SF9RQU1vV1pPc3pWbExXQXZRdWdoOUpqeXfSAWNBVV95cUxPRVFKMWxDMGNIa21PSk81TC1QamdwcDcwZUtJSzA5S3dqbUF4eVBydEx5eUFveVVHbG9TZjRfNXZhZzVhcVAtQTEwZVhXdG9WNXZMM0RIWDN0WUdyUnNteURXQ1k?oc=5"
+            "source": "국제뉴스",
+            "title": "청소년이 직접 기획한 스포츠 축제…'2026 성북 프리미어리그' - 국제뉴스",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QMTlFQUh0SFJadnBUQWdNNENOeTJZZUFRcEUyZnlwV1lqTkZjNWthMXhPdXgwRGdVOER3bkhxN3hqeldaS05oeWZsMDRUNlB3SmlqU3dkN0gzUE43TjJadmtBUjNyRUtwT1d4MXdn?oc=5"
         },
         {
             "source": "인터풋볼",
@@ -96,14 +101,9 @@
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51a0FDN1FrS0lENzhOZXRPa3VYMjFJLWk0UExfeW9SUHJwMy1BVU95My03Y1I2RGJQSG1pWndpQWpBUjZrZFNIX1RKZlk2QnR2X2ZPTEpWZGR4ajdiMnRQSjhGaVROMFBpNGQzdjR2ZENwbWFB?oc=5"
         },
         {
-            "source": "Hypebeast.KR",
-            "title": "톰 브래디, 버밍엄 시티 떠나 첼시 FC 소수 지분 인수 - Hypebeast.KR",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE1NRVB2Y0RMSS00Y1drY243YzBJZUhOTVZIQjNQU2NDSlpqQjRnZ3RYaWdPTElQY01aRVB5YlZjdm1rODJkazFud3BpZXRfT0RHTG95X1dNVmt4NVY2Q2dSVG9va2lxR3NTaWhlSEl3elJVVXhuX0JjTzFOaGtuRGJieDd0UEJOZ1hlcTdVTWxPMVVGZ1NfWmdxSGhIOXpqbWk4YTRBejdjNmRqdjI3Y2JtQ0l1d0RBeE1ZemhxaDJjUQ?oc=5"
-        },
-        {
-            "source": "Manchester City FC",
-            "title": "도쿠, 더 브라위너와의 재회에 기대감 - Manchester City FC",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1VZTXpUVzlqNjh5STQyOWN2N1hpUW8yVlV0N0daY29BdF9pSlgtd2FmQVR0MzU2aURGVkZsVGtnMnQ2U2tVUnpUbGVLdm1ZVXlsWlZBLVRDMHVuXzdkSFBaanZscTFCS2dEQk9fM3NjWVcxUWJ2TWFyVW5TTWlIc1Njdk44ZHZ4UElqdkp2VFViMFJOeDBoZHVGZjlOajhR?oc=5"
+            "source": "스포츠경향",
+            "title": "“그라운드 위 땀 흘려 이룬 업적은 불변”···더 브라위너, 친정 맨시티 ‘재정 위반 파문’에도 애정 과시 - 스포츠경향",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzYTc1QTkzTWM5YUN0VWNtM2R6dTBEU19ZUGp4cUFoN1YzczA0WjYxTVM1aU5qNTRnSXNJY1owaFZqRE02SF9RQU1vV1pPc3pWbExXQXZRdWdoOUpqeXfSAWNBVV95cUxPRVFKMWxDMGNIa21PSk81TC1QamdwcDcwZUtJSzA5S3dqbUF4eVBydEx5eUFveVVHbG9TZjRfNXZhZzVhcVAtQTEwZVhXdG9WNXZMM0RIWDN0WUdyUnNteURXQ1k?oc=5"
         }
     ],
     "transfers": [
@@ -115,7 +115,7 @@
             "to": "Manchester City"
         },
         {
-            "player": "FPL 2026/27: New Chelsea signings prices confirmed | News | Official Site",
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
             "date": "2026-11-24",
             "type": "Rumor/Verified News",
             "from": "Unknown",
