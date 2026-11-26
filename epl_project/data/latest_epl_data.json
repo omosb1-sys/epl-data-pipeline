@@ -1,24 +1,24 @@
 {
-    "timestamp": "2026-11-26 13:17:52",
+    "timestamp": "2026-11-26 22:40:11",
     "season": 2025,
     "standings": [],
     "fixtures": [],
     "top_scorers": [],
     "news": [
         {
+            "source": "BBC",
+            "title": "Premier League LIVE: News conferences, team news, Xabi Alonso, Daniel Farke - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53ZU5UQ3RZdkVOdWk2cGY5YU05U2o5eGNBamNra19aU2VkTzQ3dUhabkhleHdDWXQwb3hYcDNqUU04Q1pLdm9VN1FNSkRya0szbXlHZ0hzMWtPcU03MDViUHpVOA?oc=5"
+        },
+        {
             "source": "talkSPORT",
-            "title": "Pochettino defends Lammens, Man United referee slammed for 'diabolical decision' - talkSPORT",
+            "title": "Football news LIVE: Pogba on Zidane and Bellingham, Calvert-Lewin signs new Leeds deal, Bournemouth make history - talkSPORT",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1htT215MUZGSUNHbFdWcWdXcnhnUXlqaFBwV0dNZkQxNUUzRXlkSkQyWW9NUHU2ZTIyNnJhV2pIcjM1ZS16ZEtWWndDd0FETVYxMnU2bnhuZDVYVnloN3dab05MQVhCeV9fOVlMZmpIZjlSbEd4bS1fRGF1YXV6QWRjRkwwM2FLcVdaRG9OSTNFOGY5T0x6TVJaQndrNzJReGQwQg?oc=5"
         },
         {
-            "source": "The Guardian",
-            "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason - The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFE2MnItVnIwY1BjNHJtM21ZS3JpOHZLU0Rtc0h5a2M2S3E2MEJwZWh6eW5qZXQzQXQ2bHJtb25pVU9NNFRCRWZUeVl5N2ppMWdsTDRNc2FlWHdBZTNKWDhDVWZBUE11bGdhNF9McndjWlNfT2FhQ1ZUWEdyX0xTMHVMSmlhbWgwNlVCRUR6aDhpN0FQTmZ2QkpROWJGNV8zdURJN2g5Q1RVYm9KSUEzR19iR3NSUDUz?oc=5"
-        },
-        {
-            "source": "The Sun",
-            "title": "Premier League officials stunned at Leny Yoro red card overturn - The Sun",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDMwOFdfTURkcE9kbE9FaFhZM3ktOEIxdzNIUnU5WWU1VEpmS3lRUXotVWF0QmhSclJUbXE3S2hTT2MzdUptMkROa2tnUTIxQVFVSU5kTEhZVTR6YTNrdTd6V2dQQzlWZXA4aFlOSExsWC1wUFMtaXJtZ0EteTRoOHdtdEt3S2Q2UUp6RjZmZw?oc=5"
+            "source": "Sky Sports",
+            "title": "Dominic Calvert-Lewis: Leeds striker signs new deal until 2029 with Premier League club - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmUteDVQOTNhQmdxbmlINzhfUW1KNkluMVRoNjBvUW10VzliMkdfLV92SWpuV2NNZFpuY0RFa0FteHAzTWdqSzl5eHRSbXhQa0NrdUllY1B6NnlOa2VnajBqVFRQMWF5YlNiQk1XdFVBY1JldHg2SVcyaEdNa1hFY1M1TEdhX3lDZmpGcjFndWhGMDlpT2hKQm10YmlwZDN1S2pYdVBxbzVfV3NWSUVHS1JJVG9PTGVqUU96Wll3WVNPYVJncUlZVEUxTGZnLVRz?oc=5"
         },
         {
             "source": "LiveScore",
@@ -31,9 +31,9 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WT1drTHJkQS1yU2NwM3gwZHU3X3p5dm5Ja1c0cldWS3lvQi05eHl4VlVTQVhxRTBMSHVfUUZFX2R4cEZEWXp5bWRzelotd1BUNS14XzJ3V2hucDByVm8tTTN1SkJWVldBV05nc1lac0lsVFEwd0hwNk1n?oc=5"
         },
         {
-            "source": "utdreport",
-            "title": "“Really close now” – Romano delivers latest updates on Carrick & Pochettino as Man Utd brace for change - utdreport",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDV4d19IZjJQS29jenJ4N2w5R1BvaTRpNWFxa2ZiV3Nla21YaUtqbXpMLTMzYTR2UGpLZzBKZXBxd2YyUDJqQUtaNmUxZzMyTVVBbGlMM1BqeDlfVTlMTV9MZjhLcG5zbDNrRGVQcVVKWG1WbEJWRmxUbkROb0hpLUhMa1E2SWZhc2NZ0gGQAUFVX3lxTE1vVmNGUkEtVS0tTnYtLUlsMUM1Zm53azRpcVAxUzVMMGZPOTNmejlVVEVnMFlrblBQakJ5akhzODFiX1A3emx0Ykx0VjJFbTdxbU0wdkhfUGNlcndZVHU2azdxZlIxS1RpRGZJQWRyMi1GUTRMYmpnZGdwdllmd05VcDFkVEJXMThKMGJKYlR0Xw?oc=5"
+            "source": "SussexWorld",
+            "title": "'Officially signed' - Fabrizio Romano issues shock agent update for £40m Brighton star - SussexWorld",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxON21JREFyM3FHdDFfQkZJOUl1X1hNSUdsbDdxUU1laEctN0JwSmFYRXdKMzR3ZzZZM0RSOWdBcG5sSHRMLURpRURWNkF3RFRPTmNLRi1EUnJLajFkUmVEbktRZi1rM0syVnd0RzhBOGU5NGVzQmMwOUJNeTVUQ2FrRkttX1hoSXJWUExsSGpWRFV6cTJCQWl6MTB5SW1EZkQ2ZUlkNnVYcnhpaXlVR3hRUXRRcFJKaWVuc19IWnI4QjJELWpwN2s5MmVlNWx2SUN2a3ppVGJ0TjhBMG1QZml5ZHk5aWJPdkd0TF9DRW5MYmJCLTJMNkE?oc=5"
         },
         {
             "source": "The New York Times",
@@ -47,13 +47,13 @@
         },
         {
             "source": "The New York Times",
-            "title": "Newcastle owner PIF looking to sell up to 25 per cent of club through new shares - The Athletic - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWNicXBnQUZDVmdMSjdPdE1xMzI4MEJyMFRkbFZET3I4X2k2WExlVEZ2ZkpseTRTbG44bjd3c01IODY1OHJOdnh1d09YWllrdzIyUTlGR3hJY0stMHFUSHloc0Mxb0ZMRXVzNVBkSzNmVUVBUXB4YTBDWUlwYl84ZjEtWHBSQURkN3NCaVN3aUVwbDQ?oc=5"
+            "title": "Video: David Ornstein on Pochettino's influence at Manchester United - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rcWdEQmlTUDhyTGhtRTIzemJZVzhDeW9YRE1TMGRvb0d3RFlmZFRNejV3ejQ5Z09sRzJyMU5sLTlrM3o0d09YUUlTUW5lVVZqUkcwVGIwVDNwdUE5VW1DT25SbFMxQQ?oc=5"
         },
         {
             "source": "Sky Sports",
             "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVdkVlNUdFpSOHJBeFZRaURCSmVRQVozM05xRTIxX0ZFWjdLQm1iWGlLcm5tLVFlRG10M2xjM3g0SUJFbGRld0ppMXNjN05KblBSVTZuSUdHMS1qWDJMQzRJaVI1elBmVG1KWWFQeHZja3VscDRaYnRjQmdRdmNRV0hxRnNzQ3I3dlVCQ251TGYxWnZJeGZaZHFraWxpTGRNaG5haVluQklnamtPYy1ZSlNSak1Ec1d6?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPem5jYzJ0Sm9pblg3TmZOalRkaXpDdGNvSGd1WUpQNlROVkw3UVdvdF9zXzhoWWE1RVBFZ3ROQ013OWZWdl9xOHM3d1ZMQWs5VHVfUWpFRDVzbDBIYXItY2lxTk5iYW4zVVptb0M0b29DSERtQVc1eGFkeE1DVWh5akF4anNQNjc1VWhQcVNZVTdFZEhuUXdWVnBHaVFybUpUbURhVEM2LUEwWEtYMEJibzdFZGFxc2tWMWc?oc=5"
         },
         {
             "source": "Brentford FC",
@@ -61,9 +61,9 @@
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTdoYk5YRmVyM0RNbG5NRzhqS3dwRGJvUFU4X25XdzkwTUFHVEdvQUxZSW9tRl9DMDNxYkZ1aTVORkZiR0hYaXQ5OE5Zd0JhVHo5bWI4RkpYVDdaYmRPd1JIVXJmaVpteXpQa0JCVnItYjVZZDR0VnVvUXBkVnFzS2d3WW5qTmlVbWJKaXBaa0ZmeUNRQXVoaGFEVXVVd0l2ZmI0TGxIbVBuMDU1RmdFbUFyMUliQkFFVGJfZnlRTkFYblh1?oc=5"
         },
         {
-            "source": "Arsenal.com",
-            "title": "Premier League matches in January confirmed - Arsenal.com",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnZmZ0hjalFKNzJfdUQ5YTN6eUNCV0ZYRXAzQ3dYTEpSQVlIUDFuMWNyZUdmT1hLTXFwNmhMOVNlZUtuWlZlcDZibjh0TzNZZ0F2QlEtLU15V1lITkpoNUZYeV91akFPQjNwRVRFWVN6REt2a3pSem5rUGZmV2prZFlnVW5jVWZJVEtVYnNn?oc=5"
+            "source": "네이트",
+            "title": "'韓 대표' 오현규, 공식 제안 예고! 英 프리미어리그 입성 '이적료 책정' 최소 443억 원 \"더 낮은 가격에 선수 판매 없다\" - 네이트",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiRXdBSVV6Q1NNdG9SbDNFQTVYYk9oN1pnQUVIMEhQU1FxdENrVnBJb0J0ZnhRcjZkVEVUSXpLQ2I4X3EyX0JGSWttbkJzNHVMSzhPU3lR?oc=5"
         },
         {
             "source": "국제뉴스",
@@ -71,29 +71,14 @@
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWX0dKTmRZUVM2QW5Nakdfd0dGZnNhNGFxem45d1poYXpxR19yWDdBRnFrLUE3WGJxODE3ZDYzcDJOZ29iWnR2MEE3bjNLeHF2Mk9tMFZlUWZhVEExMTYxVFFsNmJ6SlB3TDNodTRR?oc=5"
         },
         {
-            "source": "금강일보",
-            "title": "리버풀, 맨유전 승리로 통산 3번째 리그 700승 달성 - 금강일보",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUUI0R1FKZHZ2OWtwakdzbklnbTZHOEFJX19UOEpVakgtcTIxSWJidWhzcFhCckVnUnFWQkdORFNoUTZ6cGJjUU1VRktaRGI5TTcxSXRPSE1mZzN3Wng0TjdEVUVxUUxJaEE?oc=5"
-        },
-        {
-            "source": "네이트",
-            "title": "[오피셜] 양민혁 비상! 아직 토트넘 0분인데 이런 일이…'미친 EPL 데뷔전→기립박수' 18세 유망주, 토트넘과 장기 재계약 - 네이트",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQal92SzBHeHI2X3c2SDNySWM2UDZ5bGhzdDVrdndxLUVRb0hVV1hwdDZXb2p5clBrZ0huZFpGU3UwSWg5SUNncUdJaHJCUEFaVXJCSVVSdkR6aHBiMkljQ3UxN1UtWmlVeS1hbHRETFVpU09KWTYzaA?oc=5"
-        },
-        {
-            "source": "마이데일리",
-            "title": "`포체티노 데뷔전에서 대패한 맨유, EPL에 쉬운 상대는 없다`…강등권 경쟁 우려 - 마이데일리",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qZ05HMVg2S0NaSDlwelVXOTN1NEZHc2FxRFRmSFhsbUR5bU0xMXVubi1UZ0VTbV8yZHlxakhqTXhOWVMwam85VGdKSTFUNUxaVVRxcnZqQ0Y0OXdHWFJBVw?oc=5"
-        },
-        {
-            "source": "조선일보",
-            "title": "포체티노 감독 맨유 데뷔전 리버풀에 0대4 패배 ‘망신’ - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3RTMjdJSXZ4cGZYdFNNZXRHaEQtdmJzMExWRXVUVlpVTzBsQXZleXVmQ1RTS0N0a2JTczlSLWJYakU3SkU4OVVjaXJaLUNDclJlMW1QdWZzR0hUVWp5aUhtaU5fcjhTd2JJa0xDUDZFaGd2THBBeU02clVGeVhLdUFJNmFmaHlFWl9v?oc=5"
-        },
-        {
             "source": "스포츠경향",
             "title": "‘韓 국대’ 황희찬 희소식! 프리미어리그 복귀 청신호···울버햄튼 ‘강등→승격권 진입’ 1위와 승점 단, 1점 ... - 스포츠경향",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdVRiTmxnMThVZ1J0OVlZaU5PQVZZYU5Gelo1NmFfYlpNb2lUTW4xQzh3dXpLRkFxLTdRVVlySl8zekJ6M2lYWGJsQlo5dHdfaEhqaFR6M2JINmVQTFHSAWNBVV95cUxOZE5heE5OQlkxNi1hOGVCZHNpVlQ5UEhCdXpuQzRMOURjTGFSb2ZOU1FqeVdUTlJnWnNJWXZqZmJiUFFsclVMcmt6djZucXI3SlhkWVY0NHhBSFpSWWNhNVA0RlE?oc=5"
+        },
+        {
+            "source": "금강일보",
+            "title": "리버풀, 맨유전 승리로 통산 3번째 리그 700승 달성 - 금강일보",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUUI0R1FKZHZ2OWtwakdzbklnbTZHOEFJX19UOEpVakgtcTIxSWJidWhzcFhCckVnUnFWQkdORFNoUTZ6cGJjUU1VRktaRGI5TTcxSXRPSE1mZzN3Wng0TjdEVUVxUUxJaEE?oc=5"
         },
         {
             "source": "스포츠조선",
@@ -104,6 +89,16 @@
             "source": "뉴시스",
             "title": "'명장' 과르디올라 감독 \"다음 단계는 국가대표팀 지휘\" - 뉴시스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yYkZ5NHBwZURHeXN0MjlxbjVVbmltQVlxZHpnb0xKSXkzeWZFejlJNHlfM18xZmIzSjl5Y2JhQmFkRmVfamNlTk5USGRRb0h6bUlTTnd1UHRsVjY5X1BTStIBeEFVX3lxTFBMdmhSU05hQmdPMnhJMFZwbGhTb3VHb0xzTFViaHhSTTZfRGg0WkdMOUxyckNtZzRteXFrdGlQUWdEczBEVlJHdzdUN05XYTIyX2J6dmRhb2ExZ2NjZFlFU1ZPMGtPWU1iZXJWQmZqNGU2MlhnVlZUYw?oc=5"
+        },
+        {
+            "source": "연합뉴스",
+            "title": "GK 실수에 첫 승리 놓친 맨유 포체티노 감독 \"집중력 높여야!\" - 연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MMXZ0OWdhZ3lHS18zdjB6QVdSMVlXeVppb2M1S0Uxam9ueXRQRDdPbVpHX01id1NlX0owejdaM19SNlBiRTlDSUFaRFJaY2VNVlVrRmx0MTQwMG_SAWBBVV95cUxORmRJb3gwVnZINUxtVWl3MHhWZ3RCS0hIdUh0cVRNcGtNY2oxY29LTWVWY2VEVUFGY2VvRzBtVGw3YWhob0x6WlBVR0F5NU5SbWxOSjZBbUpJR2RSNjdvSHE?oc=5"
+        },
+        {
+            "source": "포포투",
+            "title": "황희찬 매몰차게 내치더니…울버햄튼 2부 평정 대반전 서사, ‘1년만’ 프리미어리그 돌아오나 - 포포투",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRTduWUI0ZjdJZWpmdFdhMzg4OXpCUE1pQ2JnME5xbmNrbEtBTkp0T2FjUm5rY0pod0Izc0Q2RjBhcDZKXzZXYnJWbmdaQXlwVTVkNkxleFRtdG9reWdDaXE1Zkw5VVVUdHZYcmhjbkh4QQ?oc=5"
         }
     ],
     "transfers": [
@@ -113,6 +108,13 @@
             "type": "Official Transfer",
             "from": "Bournemouth",
             "to": "Manchester City"
+        },
+        {
+            "player": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far | News | Official Site",
+            "date": "2026-11-26",
+            "type": "Rumor/Verified News",
+            "from": "Unknown",
+            "to": "EPL Club"
         }
     ]
 }
